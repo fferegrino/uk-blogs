@@ -1,0 +1,5 @@
+# I am using a local virtual environment, should not be committed
+.venv/
+
+# I am using PyCharm, I don't want any user specific stuff in the repo
+.idea/
