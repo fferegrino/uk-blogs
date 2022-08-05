@@ -3,3 +3,6 @@
 
 # I am using PyCharm, I don't want any user specific stuff in the repo
 .idea/
+
+# Python and Jupyter stuff
+.ipynb_checkpoints/
