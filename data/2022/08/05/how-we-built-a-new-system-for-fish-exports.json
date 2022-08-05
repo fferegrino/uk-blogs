@@ -1,0 +1,71 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2022/08/05/how-we-built-a-new-system-for-fish-exports/",
+    "title": "How we built a new system for fish exports",
+    "authors": [
+        "Jocelyn Henderson",
+        "Stace Oliver"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra services",
+        "Digital transformation"
+    ],
+    "pub_date": "2022-08-05T07:30:18+01:00",
+    "content": [
+        {
+            "text": "In National Marine Week, we hear from Jocelyn Henderson and Stace Oliver about their work to develop a new digital service that enables fish and shellfish caught by UK flagged vessels to be exported."
+        },
+        {
+            "text": "Since the UK left the European Union, a\u00a0catch certificate is required for UK businesses to export fishery products from the UK to the EU."
+        },
+        {
+            "heading": 2,
+            "text": "Why we built the service"
+        },
+        {
+            "text": "Prior to the UK leaving the EU, catch certificates for exports (300 in total annually) were issued by the Marine Management Organisation (MMO) for goods exported to countries outside of the EU for processing that were then re-exported to the EU for consumption after processing."
+        },
+        {
+            "text": "This was a paper-based system for capturing information which operated from a site in England and another in Scotland."
+        },
+        {
+            "text": "Upon leaving the EU we knew this was going to change. For example, it is estimated that approximately 250,000 (volumetric provided in service dependency model) export certificates per year will be needed for consignments of fish exports to the EU."
+        },
+        {
+            "text": "We knew too that the existing manual paper-based process would adversely impact exporters, that already placed a significant burden to export to those eight countries. And so, a new digital service to generate Export Catch Certificates would be required."
+        },
+        {
+            "text": "We were tasked with building the digital service to enable this new trade certification process to work, including enabling the MMO, and the departments in devolved authorities and crown dependencies, to validate the certificates. Step forward the Fish Export Service (FES)."
+        },
+        {
+            "heading": 2,
+            "text": "How the process works"
+        },
+        {
+            "text": "The user journey is simple: User logs in, user requests the catch certificate, the request is validated, the exporter receives the certificate, the importing fisheries authority verifies the certificate."
+        },
+        {
+            "text": "The export process begins with the exporter entering the vessel and catch details for an export consignment and that data then being verified against catch records."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "Collaborating with key delivery partners, including Capgemini and the Centre for Environment, Fisheries and Aquaculture Science (Cefas), we initially delivered a series of digital services ready for the UK leaving the EU on 01 January 2021:"
+        },
+        {
+            "text": "Initial operating capability was reached in December 2020, and full operating capability by April 2021."
+        },
+        {
+            "heading": 2,
+            "text": "User feedback helps us to iterate and improve"
+        },
+        {
+            "text": "Overall, feedback suggests that users find the service intuitive and straightforward and have experienced no issues progressing through the journey. and making use of the new features. This feedback has also been helpful in signposting what further enhancements could be made."
+        },
+        {
+            "text": "Applying this user research, and working closely with our delivery partners, we\u2019ve enhanced the service. Enhancements have included: upload of data to improve efficiency, being able to clone a new catch certificate from existing one and creating a journey hub enabling users to complete documents around their business processes. The GOV.uk services are also available in Welsh."
+        }
+    ]
+}
