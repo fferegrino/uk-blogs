@@ -3,6 +3,13 @@ UK Blogs Web Scraper
 
 ## Set up your environment
 
+### Git
+
+Since this post talks about GitHub, navigate to a new folder and initialise a Git repository in it. This is a crucial 
+part of our work since both our code and dataset will live in a git repo, in the cloud thanks to GitHub.
+
+### Python
+
 You obviously want to use a virtual environment, create one using your favourite tool, I usually go for Poetry or 
 Pipenv, but for this tutorial I will use vanilla Python:
 
