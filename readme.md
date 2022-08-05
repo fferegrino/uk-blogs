@@ -309,3 +309,110 @@ data incrementally on a daily basis.
 ```shell
 python scrape.py
 ```
+
+Then add all your code and data files to a commit and push it to your repository. You will probably have a gigantic commit, 
+mine contained about 2700 new files. It may seem like a lot, but they're plain text files, so it is not a massive problem.
+
+## Automate everything everywhere all at once with GitHub Actions
+
+The next stop in this journey is to automate all we just did, and it is achievable using Actions.
+
+### Cron
+
+Think about the schedule you want the scraping to happen, the rule here is do not overdo it. The blog posts across all 
+government websites are a daily ocurrence, so to me, it makes sense to scrape the website once a day. But some other tasks
+may be better served by scraping every hour, or every week. Whatever you decide, you need to codify the schedule using a cron
+expression.
+
+I want the scraping to happen at 7 PM once a day, so the expression is `0 19 * * *`. Check [crontab gury](crontab.guru) for 
+more info on cron expression and an interactive way to create yours.
+
+### Actions
+
+GitHub actions allows us to execute workflows that run in virtual servers, the execution of these workflows can be triggered by
+a number of conditions: on a schedule, as a response to an event (like a pull request) or even by a request from a user.
+
+The workflows are defined via _YAML_ files inside a special folder (`.github/workflows`) at the root of your repository, the
+workflows follow a schema that is very complex since they allow for complex configurations; but for our purposes, we do not need 
+such complexity. 
+
+The beginning of our workflow ( appropiately named `scrape.yml`), begins with basic info about the name and schedule of when it 
+should be executed:
+
+```yaml
+name: "Daily scrape"
+
+on:
+  schedule:
+  - cron: "0 19 * * *"
+```
+
+Then we need to define the jobs that will be part of it. We will have a single job called `scrape` that will run on a virtual machine
+using a fairly recent Ubuntu distribution:
+
+
+```yaml
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+```
+
+Each job is formed of several steps, each step specify what commands will be executed on the virtual machine. But not every
+step has to be programmed by us, there are some useful shorthands that people have already made for us known as _actions_. 
+
+In fact, first we need two _actions_: `checkout@v2` y `setup-python@v2`, to create a copy of our repo and install Python, 
+respectively:
+
+```yaml
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
+```
+
+Then we move on to the steps that we actually programmed, each step has its own name wich is descriptive on its own: 
+
+```yaml
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Execute scrape.py
+      run: python scrape.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "antonio.feregrino+datasets@gmail.com"
+        git config --global user.name "Antonio Feregrino"
+        git add data/ scraped_urls.txt
+        git diff --staged --quiet || git commit -m 'New blog posts'
+        git push
+```
+
+That one last step requires more explanation, since we are making a commit to our own repo! yes, it is possible and needed
+when you want to save information generated during the workflow execution. Let me dissect the command:
+
+**`git config` × 2**
+
+It configures git with the email and name of the commiiting user, this is necessary as otherwise git will not allow us
+to create commits. My recomendation is that you do not use your normal email, as this will blow up artificially your commit
+count.
+
+**`git add`**
+
+We obviously need to add the data we just generated. Both the `data` folder and the `scraped_urls.txt` file should contain new 
+information so we need to stage them before making a commit.
+
+**`git dif ...`**
+
+The chained commands `git diff --staged --quiet || git commit -m 'New blog posts'` will generate a new git commit if, and 
+only if there are changes staged for commit. With the previous `git add` we are staged any changes, so if there were new
+blog posts, they should be ready to be commited.
+
+**`git push`**
+
+Finally we push the changes to the repo and that is all we need.
