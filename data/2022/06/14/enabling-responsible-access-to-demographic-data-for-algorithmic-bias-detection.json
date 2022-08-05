@@ -1,0 +1,72 @@
+{
+    "url": "https://cdei.blog.gov.uk/2022/06/14/enabling-responsible-access-to-demographic-data-for-algorithmic-bias-detection/",
+    "title": "Enabling responsible access to demographic data for algorithmic bias detection",
+    "authors": [
+        "Amy Dickens",
+        "Mackenzie Jorgensen",
+        "James Scott"
+    ],
+    "categories": [
+        "Bias",
+        "Demographic data",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2022-06-14T10:39:08+01:00",
+    "content": [
+        {
+            "text": "This week, we announced the launch of a new programme of work around enabling responsible access to data. One of the initial workstreams in this programme is exploring the potential for novel approaches to data stewardship to support organisations to access demographic data to monitor their products and services for algorithmic bias. As this workstream takes shape, we welcome your views on its direction of travel."
+        },
+        {
+            "heading": 2,
+            "text": "Bias monitoring: The challenge of accessing demographic data"
+        },
+        {
+            "text": "As data is increasingly used in decision-making processes, it becomes ever-more important that organisations are able to access and use data about demographic characteristics to identify potential bias. However, the CDEI\u2019s review into bias in algorithmic decision-making found that the collection of such data is not common practice in most sectors. There are a number of reasons for this, including:"
+        },
+        {
+            "text": "As a result, many organisations are either reluctant or unable to access the data they need."
+        },
+        {
+            "text": "In many contexts, increased collection of demographic data could improve outcomes for marginalised and vulnerable groups by allowing organisations to monitor and address bias in their goods and services. In support of this aim, we are exploring how novel approaches to demographic data stewardship can allow more organisations to responsibly access this data for bias monitoring.\u00a0"
+        },
+        {
+            "text": "We are especially interested in two groups of potential solutions: data intermediaries and proxies.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Data intermediaries"
+        },
+        {
+            "text": "Data intermediaries are a general approach to enabling responsible data sharing via a third party. The term intermediaries encompasses a wide range of stewardship activities and governance models, with significant interest in opportunities to solve a range of data sharing challenges both in the UK and internationally.\u00a0\u00a0"
+        },
+        {
+            "text": "In the demographic data context, the basic idea is straightforward: rather than collecting demographic data every time a user interacts with a service, we could enable users to share such data once with a third party organisation (or store it in a personal data store), and then give permission for other organisations to access it. This could provide a better user experience, and give users greater confidence in how this data is being used.\u00a0"
+        },
+        {
+            "text": "In a mature future version of this ecosystem, a user might be able to choose from a variety of intermediary providers, somewhat similar to the range of different identity providers available to support login to many web services today. But there are a range of significant challenges here. What incentivises an organisation to want to act as an intermediary? And what would it take to grow the ecosystem to a scale where it would be of practical use to organisations trying to monitor for bias?"
+        },
+        {
+            "heading": 2,
+            "text": "Proxies"
+        },
+        {
+            "text": "Proxies are pieces of data that are related to and can \u201cstand in\u201d for other characteristics that are harder to collect or measure directly; for example, salary could act as a proxy for socioeconomic status. Proxies are core to how machine learning works, but also carry risks of bias \u2013\u00a0 as machine learning tools are so good at identifying proxies, removing a piece of demographic data from a dataset doesn\u2019t mean that a model can\u2019t be biased.\u00a0"
+        },
+        {
+            "text": "The CDEI\u2019s review into bias in algorithmic decision-making highlighted a range of opportunities for addressing these risks \u2013 including identifying proxies for protected characteristics purely for monitoring purposes rather than keeping processes blind. Proxies can offer an alternative way to monitor systems for bias that do not require direct access to demographic data. To take a simple example, an organisation that knew the names of its customers could make a moderately accurate estimate of their genders, and therefore estimate whether prices (or other outcomes) differed between genders across their entire customer base."
+        },
+        {
+            "text": "There are examples of where this approach has been applied, notably the Bayesian Improved Surname Geocoding (BISG) tool in the US. However, using proxies for this purpose is relatively new and raises a number of ethical and legal questions around accuracy, transparency, consent and autonomy.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We are currently in the process of understanding these challenges in detail, and looking at how we can help to overcome some of them. We are assessing a range of potential opportunities to make progress in this area, and are keen to work with partner organisations to pilot promising approaches utilising intermediary or proxy-based approaches."
+        },
+        {
+            "text": "If you are interested in this work and would like to get involved or find out more, please get in touch with the team at demographic.data@cdei.gov.uk.\u00a0 "
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2021/11/09/measuring-complex-digital-services/",
+    "title": "Measuring complex digital services",
+    "authors": [
+        "Catherine Hope, Digital Performance Analyst, Department for Work and Pensions"
+    ],
+    "categories": [
+        "Digital Service Standard",
+        "Performance Analysis",
+        "Uncategorized"
+    ],
+    "pub_date": "2021-11-09T11:53:45+00:00",
+    "content": [
+        {
+            "text": "I\u2019m Catherine Hope, a Digital Performance Analyst for the Department for Work and Pensions. My job is to help teams creating digital services to measure their success, and to improve services based on data-driven evidence.\u00a0"
+        },
+        {
+            "text": "The services we design are assessed to the Government Digital Service (GDS) standards. We bring our development team together (virtually, now) to show a panel of digital colleagues from other departments what we\u2019ve done, so they can assess whether we\u2019ve met the standards."
+        },
+        {
+            "text": "I sometimes see feedback from an assessment that a service needs to consider a \u201cSave and Return\u201d function \u2014 where the user could get part way through the process and leave without losing all of the answers they\u2019ve already provided."
+        },
+        {
+            "text": "Sounds like a great idea! Some of our services ask lots (and I mean LOTS) of questions about a person's lifestyle, health, or income. They include asking for information you might need to find out, rather than know off the top of your head."
+        },
+        {
+            "text": "GDS has a pattern for Creating Accounts, so we wouldn\u2019t have to start from scratch."
+        },
+        {
+            "heading": 2,
+            "text": "Let\u2019s put Save and Return on everything\u203d\u00a0"
+        },
+        {
+            "text": "It will make our services faster and easier for our users. They won\u2019t have to answer the same questions again if they need to go away and come back. It might also improve the success rate for us, with less risk of someone needing to telephone us for help with our digital service."
+        },
+        {
+            "text": "But Save and Return isn\u2019t free. We need to do some work to develop it. And there are other risks to consider too. People would need to be able to return to the same point, this means we would need to store their answers. These answers might contain personal data like names, national insurance numbers or bank account details, so we\u2019d need to store this securely, and we\u2019d need to be sure to only share answers again with the right person."
+        },
+        {
+            "text": "Users would need to be able to identify themselves to us, and giving us information to allow them to return will \u201ccost\u201d the user in terms of number of interactions. Signing in\u00a0might put people off using the digital service, because it sounds too complicated. They might phone us instead, which could take longer for them, and for us."
+        },
+        {
+            "text": "In an ideal world, our services would be really easy to use, with just a few essential questions, and we wouldn\u2019t need people to have to return to their answers because they wouldn\u2019t leave before the end. But it\u2019s not an ideal world \u2014 there could be many reasons that people leave a service."
+        },
+        {
+            "heading": 2,
+            "text": "How do we know whether there is a user need for a Save and Return function?\u00a0"
+        },
+        {
+            "text": "Not just a business want, but a user need."
+        },
+        {
+            "text": "As a data person I translate that question into \u201cHow could we measure whether we need a Save and Return function?\u201d. This evidence can be considered alongside user research findings."
+        },
+        {
+            "text": "The Department for Work and Pensions (DWP) recently hosted a cross-government meeting of Digital Performance Analysts where I posed both of these questions. We had discussions in small groups about the benefits, the risks and the measurement."
+        },
+        {
+            "heading": 2,
+            "text": "Here are some things to measure"
+        },
+        {
+            "text": "There\u2019s no easy answer to \u201cDo we need a Save and Return function?\u201d. But hopefully these prompts will help services to make a data-driven decision."
+        }
+    ]
+}

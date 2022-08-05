@@ -1,0 +1,89 @@
+{
+    "url": "https://lifeathmrc.blog.gov.uk/2022/06/24/introduction-to-digital-experimentation-in-hmrc/",
+    "title": "Introduction to digital experimentation in HMRC",
+    "authors": [
+        "Yvie Tracey"
+    ],
+    "categories": [
+        "Accessibility",
+        "Digital services",
+        "User research"
+    ],
+    "pub_date": "2022-06-24T15:21:45+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "\"Without data, you're just another person with an opinion\", W. Edwards Deming"
+        },
+        {
+            "text": "I\u2019m Yvie Tracey, the Product Manager on the HMRC Experimentation team and I work alongside Manjot Jaswal, our Quantitative User Researcher and Tim Bryan, our Senior Front End Developer."
+        },
+        {
+            "heading": 2,
+            "text": "What is our objective in experimentation?"
+        },
+        {
+            "text": "Our objective is to help service teams turn ideas for new features and improvements into testable, measurable hypotheses. We help stakeholders run experiments to test these hypotheses and provide objective data, leading to informed decision making. We're following a tried and tested approach already being used by the big tech companies who shape our lives, such as Google, Uber and Netflix."
+        },
+        {
+            "text": "By using experimentation, we can make our services the most cost effective and enjoyable experiences possible. Read on to find out how experimentation benefits HMRC services, the fundamentals of experimentation, and why it\u2019s the most robust way to link data to how we deliver our objectives."
+        },
+        {
+            "heading": 2,
+            "text": "What is an experiment?"
+        },
+        {
+            "text": "The simplest form of an experiment is something we call an A/B test. In HMRC an A/B test is conducted with real, live users of a digital service. We use a technology called Optimizely, to randomly direct 50% of users to a version of the website we want users to test (which we call the variant) and 50% are shown the website as it is now (which we call the control)."
+        },
+        {
+            "text": "This process creates two comparable groups. Results from these groups mean we can statistically compare the chosen business and user metrics. If the results show that the new design or feature is better, the team can implement the change. This process embodies what it means to be a data driven organisation, not one based on opinion. It creates a fair system that lets stakeholders find the best approach to move a product forward."
+        },
+        {
+            "heading": 2,
+            "text": "Why is this approach more robust? "
+        },
+        {
+            "text": "Let\u2019s pretend we want to add a new feature like webchat into a digital service to improve customer satisfaction, however, we don\u2019t want to use experimentation. The only way to measure the impact of webchat, in this case, is to compare the customer satisfaction data before the change, to the customer satisfaction data after the change."
+        },
+        {
+            "text": "The problem with this, is that the before and after groups will have experienced completely different events. For example, the pandemic could have hit in the time after the change, lowering the general satisfaction of users. For reasons like this, it's impossible to know if any change in customer satisfaction was due to adding webchat or simply due to some other random event."
+        },
+        {
+            "text": "But do not worry, as this is where A/B testing shines. In A/B testing the control (current version of the service) and the variant (idea being tested), are generated randomly across the same time period. As a result, we now know that both groups have experienced all the same events together. This means you can be confident that if you observe differences in customer satisfaction, it's due to your change and not another random factor."
+        },
+        {
+            "heading": 2,
+            "text": "Other benefits to HMRC"
+        },
+        {
+            "heading": 3,
+            "text": "Aligning user experience and business objectives"
+        },
+        {
+            "text": "Experimentation objectively aligns user experience and business objectives. This is achieved by including metrics associated with user experience (first time completion, customer satisfaction, desirable interactions) with more traditional business metrics (call failure demand, internal efficiency, operational costs)."
+        },
+        {
+            "text": "This is a unique selling point for experimentation, as it often reveals how improving user experience is intrinsically linked to improving more traditional metrics like cost savings. If differences do occur in these metrics, at least you can make an objective decision between cost versus user experience improvements."
+        },
+        {
+            "heading": 3,
+            "text": "Reducing risk"
+        },
+        {
+            "text": "When implementing what you think is an improvement to a service or product, you always run the risk of it actually negatively impacting either the user or contact operations teams. Normally you would release a change to 100% of the users in a service and not understand this negative impact until it was too late. The experimentation tool we use, Optimizely, allows you to set an experiment so that only 5% of a service's traffic enters the experiment."
+        },
+        {
+            "text": "This means 2.5% see the control and 2.5% see the variant. This results in you learning whether or not it will negatively impact the digital contact team, before you decide if you should roll it out to 100% of users. This leaves operations unimpacted and your team with a way forward."
+        },
+        {
+            "heading": 2,
+            "text": "Would you like to know more?"
+        },
+        {
+            "text": "If any of this interests you or to find out what we can do to support you, please get in contact with me at yvie.tracey@hmrc.gov.uk"
+        },
+        {
+            "text": "We're also recruiting in the experimentation team, so visit Civil Service Jobs to find out about our Senior User Researcher job,\u00a0or look at all of our current vacancies."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/11/25/making-data-more-accessible-for-dit-colleagues/",
+    "title": "Making data more accessible for DIT colleagues",
+    "authors": [
+        "Sanna Huovinen, Product Manager",
+        "Michal Charemza, Tech Lead"
+    ],
+    "categories": [
+        "Data",
+        "Digital Services",
+        "People and Skills"
+    ],
+    "pub_date": "2021-11-25T10:58:35+00:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "Data Workspace promo which reads \u201cData Workspace: Making data more accessible for colleagues in the Department for International Trade\u201d"
+        },
+        {
+            "text": "The Department for International Trade (DIT) is committed to supporting its people in making data-driven decisions. So, our Data Infrastructure team created Data Workspace so colleagues across the department can collaborate, share, and safely store their data."
+        },
+        {
+            "text": "The service has two main components: a suite of tools which staff can use to analyse data and create dashboards, and a data catalogue which DIT, and other government department staff with permission, can use to access existing data or dashboards."
+        },
+        {
+            "heading": 3,
+            "text": "Using SQL in Data Workspace "
+        },
+        {
+            "text": "SQL is a language that is used to query data in Data Workspace. Here is a simplified example that selects the description and rate of tariffs applicable to the United Kingdom."
+        },
+        {
+            "text": "When this is run, it will output a table with 2 columns, description and rate which looks like the below:"
+        },
+        {
+            "text": "SQL is extremely powerful. In addition to the filtering example above, SQL queries can sort and aggregate data and join different datasets together."
+        },
+        {
+            "heading": 3,
+            "text": "Why use SQL over spreadsheets?"
+        },
+        {
+            "text": "There is certainly overlap between the capabilities of SQL and spreadsheets. However, SQL has several advantages."
+        },
+        {
+            "heading": 4,
+            "text": "Quicker to view large datasets "
+        },
+        {
+            "text": "For example, extremely large datasets can be queried with SQL quicker than what is typically possible with a spreadsheet. If you have read-only permissions for the data, which is the case for Data Workspace users, it\u2019s difficult to accidentally make changes."
+        },
+        {
+            "heading": 4,
+            "text": "Avoid multiple copies of data"
+        },
+        {
+            "text": "By querying a single remote data source such as Data Workspace, you avoid having multiple copies of the same data. This allows teams members to be sure that they are all looking at the same thing. The data can also be updated separately from the query, so the same analysis can be easily performed on the latest version. The data and query separation means SQL queries are reviewable compared to the difficulty of quality-assuring a chain of formulas in spreadsheet cells."
+        },
+        {
+            "heading": 4,
+            "text": "Better governance of your data"
+        },
+        {
+            "text": "Finally, SQL allows for better governance. You can avoid storing data locally or it being emailed, and permissions can be granted or revoked as needed to individual datasets. This is especially important for datasets that contain personally identifiable information (PII)."
+        },
+        {
+            "heading": 3,
+            "text": "Data Explorer: our custom SQL tool"
+        },
+        {
+            "text": "From the beginning of Data Workspace, almost all of its tools have supported SQL. However, many of these have high barriers to entry. Some require the knowledge of another language such as Python or R, some have inaccessible interfaces, and some are designed more for technical maintenance, rather than analysis."
+        },
+        {
+            "text": "So, in 2020 the Data Infrastructure team at DIT developed Data Explorer for our colleagues to use internally. Data Explorer is a browser-based tool leveraging the GOV.UK Design System, allowing users to quickly and easily query data in Data Workspace using SQL."
+        },
+        {
+            "heading": 6,
+            "text": "Screenshot showing the example SQL query in Data Explorer"
+        },
+        {
+            "heading": 3,
+            "text": "Making data accessible for the DIT team"
+        },
+        {
+            "text": "Data Explorer\u2019s design puts the ability to enter and run queries right up front, a feature that is surprisingly missing from many other tools that support SQL. Example queries are also placed on pages throughout the Data Workspace catalogue, with buttons that pre-fill the query into Data Explorer ready to edit and run."
+        },
+        {
+            "text": "Previous queries are available in Data Explorer for longer-term projects, and through Data Explorer they can be shared with colleagues to help collaboration. It\u2019s more accessible because it\u2019s easier to use."
+        },
+        {
+            "text": "Data Explorer is only one part of Data Infrastructure\u2019s role in supporting DIT staff to make the best possible use of the department\u2019s data. We have a Microsoft Teams community channel so we can be on hand to support DIT staff. We also run workshops and bootcamps teaching staff about SQL and our tools for analysis and dashboard creation."
+        },
+        {
+            "text": "All the support and exciting events are on offer for DIT staff to learn more about how they can make better use of their data. Not only do we have Data Workspace on offer for DIT staff, but the DDaT Data team have also created an internal Customer Relationship Management (CRM) system, Data Hub. To find out more about this platform, read the latest blogs on Digital Trade."
+        }
+    ]
+}

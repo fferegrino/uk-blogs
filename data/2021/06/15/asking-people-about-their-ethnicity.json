@@ -1,0 +1,105 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2021/06/15/asking-people-about-their-ethnicity/",
+    "title": "Asking people about their ethnicity",
+    "authors": [
+        "Richard Laux - Deputy Director (Data and Analysis), Race Disparity Unit"
+    ],
+    "categories": [
+        "Data insights",
+        "Open data",
+        "Statistics"
+    ],
+    "pub_date": "2021-06-15T10:00:38+01:00",
+    "content": [
+        {
+            "text": "Asking people about their ethnicity is more complicated than asking them about their age or country of birth.\u00a0"
+        },
+        {
+            "text": "This is partly because ethnicity is rooted in a combination of factors including someone\u2019s country of birth, nationality, language, skin colour and religion. It is a self-defined and subjective concept \u2013\u00a0everyone has their own view about their own ethnicity."
+        },
+        {
+            "heading": 2,
+            "text": "The 3 main reasons for collecting ethnicity data"
+        },
+        {
+            "heading": 3,
+            "text": "Supporting equality of opportunity"
+        },
+        {
+            "text": "The Equality Act 2010 provides a legal framework to protect against discrimination and to promote a fair and more equal society in relation to 9 protected characteristics, including \u2018race\u2019 \u2013 which the Act says \u201cincludes (a) colour; (b) nationality; and (c) ethnic or national origins\u201d.\u00a0"
+        },
+        {
+            "text": "Following the Act, the 2011 Regulations require public bodies to publish information to show they comply with the Equality Duty relating\u00a0 to their employees, and others affected by their policies or practices. Public bodies which collect and publish ethnicity information for this reason help to support equality of opportunity."
+        },
+        {
+            "heading": 3,
+            "text": "Informing work to understand and reduce ethnic disparities"
+        },
+        {
+            "text": "This is the focus of the Race Disparity Unit (RDU). The RDU publishes a wide range of data on Ethnicity facts and figures to stimulate\u00a0 debate and policy responses to the disparities revealed by the data. Over the last year, our primary focus has been on understanding the disproportionate impact of coronavirus (COVID-19) on different ethnic groups."
+        },
+        {
+            "heading": 3,
+            "text": "Informing resource allocation"
+        },
+        {
+            "text": "For example, people from some ethnic groups are clustered in certain areas, and have\u00a0 higher rates of some health conditions (for example, diabetes)."
+        },
+        {
+            "text": "NHS statistical models that allocate funding to local areas use ethnicity as a factor to take account of these differences."
+        },
+        {
+            "heading": 2,
+            "text": "6 principles for collecting ethnicity data"
+        },
+        {
+            "text": "People are asked about their ethnicity in a variety of ways such as the national census, household surveys across government and in administrative processes such as registering with a GP."
+        },
+        {
+            "text": "We have identified 6 principles that need to be balanced when deciding how ethnicity data should be collected."
+        },
+        {
+            "heading": 3,
+            "text": "Data user considerations"
+        },
+        {
+            "heading": 3,
+            "text": "Data provider considerations"
+        },
+        {
+            "heading": 2,
+            "text": "Should collecting ethnicity information be voluntary or mandatory?"
+        },
+        {
+            "text": "The collection of ethnicity data on the 2021 Census in England and Wales was mandatory. This reflects the strength of user need \u2013 indeed, as the 2021 Census White Paper notes, \u201cThe user need [for ethnicity data] is higher than any other topic except age, sex and household relationships. The data are particularly important for local authorities, service planning, and meeting duties under the Equality Act 2010\u201d."
+        },
+        {
+            "text": "But there is a tension between the principles about \u2018meeting user needs\u2019 and \u2018transparency\u2019, and people\u2019s right to privacy. Ethnicity questions on surveys and administrative services are voluntary, and transparency considerations suggest that people should be made aware that they have the right not to provide the information."
+        },
+        {
+            "text": "However, if it is made too easy for people not to provide their information, they might not do so. A lack of responses can limit the reliability of conclusions about the data."
+        },
+        {
+            "text": "It can be argued that the need to maximise response rates means that when data is being collected, the \u201cdegree of optionality\u201d should be considered carefully when thinking about\u00a0 the principle that the resulting data should meet users\u2019 needs. \n\nFor example, providing people with detailed information about their ability to \u2018opt out\u2019 of a voluntary data collection, and including in the list of ethnic groups a category labelled \u2018prefer not to say\u2019, provides many opportunities for a respondent to choose not to provide their information. \n\nThere is a tension between this approach and mandating the collection of ethnicity data from respondents, and there are approaches informed by behavioural economics that are between these 2 ends of the spectrum. However, from the perspective of the analyst the user need for reliable data is the paramount consideration and should be the guiding factor."
+        },
+        {
+            "heading": 2,
+            "text": "How much detail should you ask for?"
+        },
+        {
+            "text": "RDU and the Office for National Statistics recommend collecting data using the detailed ethnic groups in the order shown. This classification currently follows the approach adopted for the 2011 Census, often referred to as \u201c18+1\u201d.\u00a0"
+        },
+        {
+            "text": "Sometimes ethnicity data is collected at a less detailed level, for example using the 5 broad ethnic categories (Asian, Black, Mixed, White and Other). This has some advantages - it may be seen as less invasive, there might be lower respondent burden and it can take less\u00a0 space on paper surveys."
+        },
+        {
+            "text": "A significant disadvantage is that grouping together people of different ethnicities can mask significantly different outcomes between those different ethnicities. It also provides no information about White minority groups (for example, White Irish or White Gypsy and Irish Traveller). Some of these issues are described in an RDU report.\u00a0"
+        },
+        {
+            "text": "And as mentioned above, each public body can decide for itself what information it publishes to show compliance with the 2011 Regulations (associated with the Equality Act 2010). This means that there is no prescribed format.\u00a0"
+        },
+        {
+            "text": "In practice, this leads to different things being reported on, in different formats, and typically for White/Other, or simply a series of figures for the combined minority ethnic groups.\u00a0"
+        }
+    ]
+}

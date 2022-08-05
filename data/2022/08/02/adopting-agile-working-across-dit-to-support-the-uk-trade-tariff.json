@@ -1,0 +1,148 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2022/08/02/adopting-agile-working-across-dit-to-support-the-uk-trade-tariff/",
+    "title": "Adopting agile working across DIT to support the UK Trade Tariff",
+    "authors": [
+        "Costa Christou, Delivery Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital Services"
+    ],
+    "pub_date": "2022-08-02T12:00:13+01:00",
+    "content": [
+        {
+            "text": "Working as a Delivery Manager in an agile team has necessitated introducing agile ways of working into our primary stakeholder team. I shared learnings from my experiences of this in a session for Digital, Data and Technology (DDaT) Week at DIT (Department for International Trade), 25 to 29 April 2022."
+        },
+        {
+            "text": "Rather than present this as a past tense \u2018success story\u2019, I sought to provide a living case study. I shared the ongoing work my team is doing to improve our ways of working and communication with stakeholders and the challenges we still face. In addition, I wanted to signpost useful resources that colleagues across the DIT can use to start their own agile journeys."
+        },
+        {
+            "text": "For those who are unfamiliar with agile methodology, Atlassian provide a great definition:"
+        },
+        {
+            "text": "Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a \"big bang\" launch, an agile team delivers work in small, but consumable, increments. "
+        },
+        {
+            "text": "You can read more about agile ways of working in the GOV.UK Service Standard."
+        },
+        {
+            "heading": 2,
+            "text": "Setting the scene"
+        },
+        {
+            "text": "I currently work on the Tariff Application Platform (TAP). Our vision is to provide a service that supports the management of the UK Trade Tariff."
+        },
+        {
+            "text": "To deliver this vision, we are developing 3 products:"
+        },
+        {
+            "text": "We need to make sure that the interface is usable for Tariff Managers in the Multilateral Tariff Policy and Operations (MTPO) team. Their role is to update the UK Tariff to reflect policy changes."
+        },
+        {
+            "text": "Our team follow agile ways of working, but our primary stakeholders (MTPO) work differently. Alongside the pressures of navigating a rapidly changing trade policy landscape, delivery was slowed by miscommunication and gaps in our strategic collaboration last year."
+        },
+        {
+            "heading": 2,
+            "text": "The starting point"
+        },
+        {
+            "text": "From working across teams in different sectors, I have observed and been part of teams where there are difficulties around ways of working with stakeholders."
+        },
+        {
+            "text": "In the case of TAP, to start iterating the state of collaboration between us and our stakeholders, we needed the following:"
+        },
+        {
+            "text": "Even in previous teams where delivering agile products wasn\u2019t a factor, the above would still have applied."
+        },
+        {
+            "heading": 2,
+            "text": "The agile \u2018bridges\u2019"
+        },
+        {
+            "text": "Agile can appear complex and overly focused on \u2018technical language\u2019 for those in the policy arena. However, there are some \u2018bridges\u2019 in an agile team that can produce common language and understanding across teams."
+        },
+        {
+            "heading": 3,
+            "text": "Service Design"
+        },
+        {
+            "text": "Introducing a Service Designer to your team can create dialogue around your service that is far more accessible than granular product-level conversations. Service Design is often visual and process-focused, so can give your stakeholders points of entry (e.g. mapping pain points or user stories)."
+        },
+        {
+            "heading": 3,
+            "text": "Discovery"
+        },
+        {
+            "text": "The so-called \u2018Discovery phase\u2019 is a period of exploration into an issue or issues concerning users. It can also create the means of stakeholder engagement through user research techniques and data collection."
+        },
+        {
+            "heading": 3,
+            "text": "Operational Performance Reports (OPRs)"
+        },
+        {
+            "text": "OPRs are used in DDaT and Cyber as a living risk register for digital services. Bringing relevant stakeholders in to shape these reports can ensure that delivery risks are flagged and communicated consistently across the piece."
+        },
+        {
+            "heading": 3,
+            "text": "Show and Tells"
+        },
+        {
+            "text": "Show and Tells are used across by teams to communicate and demonstrate new features teams are developing, They can also be useful for stakeholders to ask questions and learn more about the products they use."
+        },
+        {
+            "heading": 2,
+            "text": "Other resources"
+        },
+        {
+            "text": "DIT offers other resources for teams outside DDaT to better \u2018acclimatise\u2019 to agile practices."
+        },
+        {
+            "text": "In the TAP team, we used:"
+        },
+        {
+            "heading": 2,
+            "text": "What are we doing now?"
+        },
+        {
+            "text": "This is an ongoing process and we will continue to iterate and likely misstep in places. There are currently many moving parts, all of which we are discussing and modifying as we go."
+        },
+        {
+            "heading": 3,
+            "text": "Discovery outputs"
+        },
+        {
+            "text": "This process started in March involving our User Researcher and Service Designer. Working with our stakeholders, they identified areas for improvement in how data from our service is sent across the policy and operations space. The outputs \u2013 two service maps and a report \u2013 were finalised in June."
+        },
+        {
+            "heading": 3,
+            "text": "A shared roadmap"
+        },
+        {
+            "text": "We are now integrating our stakeholder\u2019s input more directly into our roadmap. This is so that we can align closer on our short-term and long-term vision of the service without enforcing rigidity and arbitrary timelines."
+        },
+        {
+            "heading": 3,
+            "text": "Sharing ownership of governance"
+        },
+        {
+            "text": "In order to create a governance structure that supports all our reporting needs, we share the accountability of preparing for and documenting our steering board."
+        },
+        {
+            "heading": 3,
+            "text": "Mapping user journeys and stories"
+        },
+        {
+            "text": "We have created sessions with our users to talk through features we\u2019ve developed and closer integrate the voices of our users into our design process."
+        },
+        {
+            "heading": 2,
+            "text": "What comes next?"
+        },
+        {
+            "text": "We\u2019re very much still on this journey, but here are the next steps for us in a nutshell:"
+        },
+        {
+            "text": "In the spirit of agile, our service will never be \u2018finished\u2019. We will continue to evolve in line with the nature of the UK\u2019s post-EU exit trade policy. The team managing TAP will always need to collaborate with both internal and external stakeholders to deliver value to traders and the citizens they serve. The practices outlined in this blog can support in maintaining and improving this collaboration."
+        }
+    ]
+}

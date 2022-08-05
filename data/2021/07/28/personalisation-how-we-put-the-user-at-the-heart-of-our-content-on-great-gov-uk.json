@@ -1,0 +1,95 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/07/28/personalisation-how-we-put-the-user-at-the-heart-of-our-content-on-great-gov-uk/",
+    "title": "Personalisation: how we put the user at the heart of our content on great.gov.uk",
+    "authors": [
+        "Suraj Rai, Senior Product Manager",
+        "James Pallister, Content Strategist",
+        "Andrea Leary, Content Lead"
+    ],
+    "categories": [
+        "Content",
+        "Digital Services"
+    ],
+    "pub_date": "2021-07-28T14:44:24+01:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "Example published case studies that can personalise pages for logged in users on great.gov.uk"
+        },
+        {
+            "text": "great.gov.uk is a platform designed to support small UK businesses sell into overseas markets. To accelerate our users\u2019 success, we have developed personalised content within our \u2018Learn how to export\u2019 service."
+        },
+        {
+            "heading": 3,
+            "text": "What is personalised content?"
+        },
+        {
+            "text": "Personalised content is the result of an active process where we tailor what we show to users based on their needs and attributes. In our first release our core attributes are the products users sell, the market they aim to export to, and the content they are viewing. We do this because our users often have very specific needs for information due to the way their individual business, sector, or destination market operates in relation to different topics."
+        },
+        {
+            "text": "We aim to meet these needs by adapting the information that we display to make it more relevant to them. Currently our main personalised content is case studies featuring people in small businesses who have exported successfully. These stories share tips, considerations, and knowledge on how they 'did it'. They are designed to motivate, inspire, and pass on advice to users. They also complement our content within the learn to export service, resulting in an improved experience."
+        },
+        {
+            "text": "\"I feel more confident about exporting, it\u2019s brought me forward seeing how others are doing it,\" quote from a user research participant."
+        },
+        {
+            "heading": 3,
+            "text": "How does it work?"
+        },
+        {
+            "text": "When users login, we ask them what product they sell, and where they are thinking of selling it to. The platform records these attributes, associated with a specific user. Using those attributes our algorithm returns the highest-ranking case study by sorting, ranking, and filtering them for a given page within our learn to export service. All case studies must meet a threshold of relevance."
+        },
+        {
+            "text": "For instance, platform can surface a case study about a real company that has exported similar products to similar destinations. If a user on great.gov.uk has recorded that they aim to export crisps as their product, selected Germany as their destination market and are on a page describing market analysis, the platform can surface a case study."
+        },
+        {
+            "text": "When users navigate onto a new page this process runs again seamlessly. As our library of case studies grow, the experience will become even more tailored. We have made this configurable so we can quickly make changes to our algorithm as we learn more. By using metrics and direct feedback we will continually improve this experience."
+        },
+        {
+            "heading": 6,
+            "text": "How our content management system has multiple components and personalisation attributes\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How did we get here?"
+        },
+        {
+            "text": "We got here by collaborating in a combined multi-disciplinary team that brought out professional specialties. This included content editors, developers, designers, delivery managers, product managers, user researchers and more. Everyone\u2019s perspectives and inputs on how we could personalise content gave us a stronger set of ideas to get feedback from users."
+        },
+        {
+            "text": "Our journey took us through multiple iterations in which we overcame 2 core problems:"
+        },
+        {
+            "text": "We solved the first by leaning into our existing relationships with businesses and colleagues from around the department. Speaking to real businesses about how they achieved success generated valuable insights. A single interview generated anywhere between 1 to 7 case studies, told by exporters in their own words. When tested in user research, these concentrated and authentic pieces of content were appreciated by users."
+        },
+        {
+            "text": "We solved the second by iterating through versions of software in short sprints followed by feedback. This incremental approach considered distinct problems. For example, how users define their product, select an export market, and eventually how we could dynamically serve case studies based on relevancy to those attributes."
+        },
+        {
+            "text": "By developing solutions to each problem individually, we were able to create journeys that worked independently. The culmination of these journeys meant that we could then support any combination of attributes algorithmically because we could be confident in the attributes users could have."
+        },
+        {
+            "heading": 3,
+            "text": "What have the team learnt?"
+        },
+        {
+            "text": "Our core learnings are:"
+        },
+        {
+            "heading": 3,
+            "text": "Where are we heading next?"
+        },
+        {
+            "text": "It\u2019s an exciting time for us to observe our first development of personalisation being taken up by our users at scale."
+        },
+        {
+            "text": "\"Tailoring the content to the needs of each user is our long-term dream state and it\u2019s fantastic that we have made our first steps towards this,\" great.gov.uk team member."
+        },
+        {
+            "text": "While case studies are an important part in inspiring businesses to export, we aim to expand towards further complex content needs."
+        },
+        {
+            "text": "We are looking forward to doing further user research, deploying new technology, and iterating our platform to serve more tailored content to our users. As we improve both our content and technology, this will help us provide even better experiences and support for all UK small businesses seeking to sell overseas."
+        }
+    ]
+}

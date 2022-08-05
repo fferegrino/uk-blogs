@@ -1,0 +1,113 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2022/03/21/going-beyond-the-gov-uk-design-system-for-moj-forms-professional-users/",
+    "title": "Going beyond the GOV.UK Design System for MoJ Forms professional users",
+    "authors": [
+        "Fabien Marry \u2013 Senior interaction designer, MoJ"
+    ],
+    "categories": [
+        "Design",
+        "Design System"
+    ],
+    "pub_date": "2022-03-21T09:04:27+00:00",
+    "content": [
+        {
+            "text": "At the Ministry of Justice (MoJ), we\u2019re reworking our classic Form Builder into an online application called MoJ Forms that is currently in private beta phase.\u00a0"
+        },
+        {
+            "text": "We hope this will help users create government forms quickly and easily.\u00a0"
+        },
+        {
+            "text": "To accomplish this mission, we realised we needed to not only use the existing GOV.UK Design System, but to go beyond it."
+        },
+        {
+            "text": "The GOV.UK Design System is fantastic. But as most of its components and patterns are made for public-facing services, they focus on simplicity and effectiveness \u2013 so that anyone can use them \u2013 over efficiency \u2013 how fast they are to use.\n\nMoJ Forms target users are different: they are professionals, likely to be more digital savvy and they will use our product more frequently as part of their jobs.\u00a0"
+        },
+        {
+            "text": "Every minute spent using it is a minute they won\u2019t have to do the rest of their tasks. So our tool has to be fast.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve added"
+        },
+        {
+            "text": "Just because our users have different needs than the general public, it does not mean we need to start from scratch, far from it. Most of the GOV.UK Design System components are still appropriate.\u00a0"
+        },
+        {
+            "text": "But some of the interactions in our tool were slower and more confusing than they had to be, so we used new components not in the Design System to improve them."
+        },
+        {
+            "text": "MoJ Forms is a web application, not a website. While the underlying technology is the same, the level of interactivity required is not, and the experience needs to be closer to a typical computer application than a series of pages to browse through. So it is no surprise that some of the components we have added are classics of software design: inline editing, contextual menus and modal dialogues."
+        },
+        {
+            "heading": 3,
+            "text": "Inline editing"
+        },
+        {
+            "text": "When we decided to modernise our legacy Form Builder application, we realised it followed some of the GOV.UK design principles too strictly. For example, it took \u2018one thing per page\u2019 too literally, and made you navigate to another page (and back) every time you wanted to edit anything in your form. While it was using the simplest of design patterns (a link to a new page), the interaction was slow and disorientating."
+        },
+        {
+            "text": "For MoJ Forms, we wanted the interactions to be much faster, and to avoid the confusion created by losing your place navigating back and forth."
+        },
+        {
+            "text": "We\u2019ve used a simple native HTML attribute (\u2018contenteditable\u2019) to allow the copy in each part of the form to be edited, simply by clicking it.\u00a0"
+        },
+        {
+            "text": "As the styling is always present you can see what the form will look like as you go."
+        },
+        {
+            "heading": 3,
+            "text": "Hierarchical menus"
+        },
+        {
+            "text": "Navigating through pages and subpages was also the way to select a template for adding a new page in Form Builder. These use a standard pattern, simple radio lists, but are very cumbersome. "
+        },
+        {
+            "text": "Software design has long established a pattern to pick an item from lists: hierarchical menus.\u00a0"
+        },
+        {
+            "text": "These menus allow the user to quickly pick an option in lists and sublists, without needing to reorient themselves. So when adding a new page, it\u2019s easy to click on the \u2018add page\u2019 button and pick \u2018single question page\u2019 in the menu, then \u2018radio buttons\u2019 in the submenu. This is much faster and easier than having to navigate to a full new page to see each level of options."
+        },
+        {
+            "heading": 3,
+            "text": "Modal dialogues"
+        },
+        {
+            "text": "In some cases what we need isn\u2019t just picking an option from a list, but answering one or several questions using a very short form. Modal dialogues allow us to do that quickly. They\u2019re great at capturing a short amount of information without losing your place."
+        },
+        {
+            "heading": 2,
+            "text": "Research and tweaks"
+        },
+        {
+            "text": "When we ran research on our new designs we learnt that it wasn\u2019t immediately understood that the form content could be edited in place. So we added a focus on the first field when you open each page to make this editing capacity visible. Following that update, we haven\u2019t seen any more confusion."
+        },
+        {
+            "text": "For the contextual menu and the modal dialogue, we got the feedback we were hoping for\u2026 which was absolutely none at all. No participant noticed anything unusual, and they used the new parts without a second thought.\u00a0"
+        },
+        {
+            "text": "While this could be seen as anticlimactic, that\u2019s the goal of our design: to be usable, and unremarkable. Eventually, our participants had no issues using edit in place, menu and modal dialogues. These patterns have been in place for decades, just not on government sites."
+        },
+        {
+            "heading": 2,
+            "text": "Other users this could help"
+        },
+        {
+            "text": "The core tenet of user-centred design is that your design should be appropriate for your users and their tasks. As our users are different to the general public, who the GOV.UK Design System was built for, it\u2019s no surprise we had to adapt it."
+        },
+        {
+            "text": "Many of our MoJ colleagues also work on designing software for colleagues. These often involve case management systems and can be anything from managing the transfer of people between prisons to reviewing power of attorney applications. Just like MoJ Forms, these systems need to be used by professionals, repeatedly and for long periods of time, so they also need to go beyond the GOV.UK Design System."
+        },
+        {
+            "text": "At MoJ we\u2019ve got an internal professional action group working on coordinating our efforts toward standard components and an MoJ pattern library. We also know many other government departments have similar needs, so we\u2019re reaching out to them too, for example through the Designing Caseworking Systems Meetup."
+        },
+        {
+            "text": "We need to join up our efforts across government to maximise results and ensure we avoid wasting time reimplementing the same things over and over."
+        },
+        {
+            "text": "Just like we did for citizen-facing services."
+        },
+        {
+            "text": "Learn more about our new MoJ Forms on its product page, or let us know in the comments of any similar patterns you have created for your own work."
+        }
+    ]
+}

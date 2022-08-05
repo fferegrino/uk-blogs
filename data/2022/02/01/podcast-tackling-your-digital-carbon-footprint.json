@@ -1,0 +1,460 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/02/01/podcast-tackling-your-digital-carbon-footprint/",
+    "title": "Podcast: Tackling your digital carbon footprint",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Digital",
+        "Podcasts",
+        "Sustainability"
+    ],
+    "pub_date": "2022-02-01T13:06:02+00:00",
+    "content": [
+        {
+            "text": "We\u2019re excited to launch the second series of our popular DWP Digital podcast, where we speak to our in-house digital experts and guest about how we\u2019re using innovation and technology to improve government services.\u00a0"
+        },
+        {
+            "text": "In the first episode of the series, join DWP Digital\u2019s sustainability lead Tony Sudworth, deputy director for DWP Digital's Health and Disability Benefit Supporting Services team, Helen Hayes, a deputy director in DWP Digital's Health and Disability Benefit Supporting Services team, Adam Turner and Ewen Anderson, CIO of PX3, as they talk about the importance of digital sustainability.\u00a0"
+        },
+        {
+            "text": "You\u2019ll hear all about the impact digital estates are having on climate change, the challenges organisations face with identifying their impact, the government\u2019s plans to help organisations reduce their overall emissions and what can be done to reduce our digital carbon footprint.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Listen now\u00a0"
+        },
+        {
+            "text": "You can listen now on:\u00a0"
+        },
+        {
+            "text": "\u00a0A full transcript of the episode can be found below.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode\u00a0\u00a0"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people.\u00a0"
+        },
+        {
+            "text": "\u00a0Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts.\u00a0"
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Careers at DWP Digital\u00a0"
+        },
+        {
+            "text": "Visit\u00a0our\u00a0Careers site\u00a0to find out more about joining us.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Transcript\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Welcome everybody to another episode of DWP Digital's podcast. This is the first episode of our second series. My name is Stuart and today we're talking about digital sustainability and what we can do to reduce our energy footprint. If you're new to the channel, make sure you hit the subscribe button now, so you don't miss an episode. And if you haven't already, take a quick look back at series one, as we\u2019ve got some great episodes on a wide range of tech subjects from user experience to ephemeral environments. So, let's make a start on today's episode. Helen, Tony, Adam and Ewen, would you mind introducing yourselves?\u00a0\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yes, I'm Helen Hayes. I'm a deputy director in DWP Digital's Health and Disability Benefit Supporting Services team. I've been in the Civil Service for around five years, I originally joined working in the Health and Safety Executive. My career before that, I spent about 20 years in financial services, typically working on large scale centralization programmes and risk related programmes, with a theme running throughout of digital transformation and usability and efficiency of services. I then spent some time in education again focused on digitization, before moving into wider standard insurance as part of an exam board.\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "My name is Tony Sudworth, I\u2019m the sustainability lead for digital here at DWP. I started out as an economist and then joined IBM back in the early 80s and have worked in IT ever since. And this post is looking at sustainable strategy for DWP.\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Hi, I'm Adam Turner, I work for Defra. I am the head of sustainable ICT for UK government departments and the wider public sector. I trained to as an ecologist and couldn't get a job in ecology. So, I ended up becoming a civil servant. And ever since then, I've been trying to make everything I do more sustainable and green.\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Hi, my name is Ewen Anderson. I'm CIO at PX3. My background, I spent a number of years in the utility industry running an internal shared service for about 20,000 users. I then set up a consultancy managed service business that I ran for 20 years. I was recruited when I exited that organisation by our CEO Justin Sutton Parker, who had been researching sustainable IT for more than 10 years. And he brought me in to take the research that he'd undertaken in how IT could be more sustainable, and also help organisations to be more sustainable themselves, to bring that to market and bring it to customers.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Helen and Tony, would you mind telling me about your team and what you do within DWP Digital?\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "In DWP, there's already a mature project in estates, looking at premises, focusing on gas, water and electricity consumption and now moving into biodiversity. And what we're doing in digital is to complement that to support the Greening Government agenda. And then focusing on things like infrastructure, devices, the services that we provide, and the commercial and procurement activities we have for sustainability.\u00a0\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So for me, sustainability has always been part of what we do anyway. We just haven't always called it out in the sense that we want our services that we deliver to our end users who might be citizens or might be organisations, we want them to be efficient and effective. That means we want to use our resources effectively and well. And we want to spend public money in a way that recognises it's a precious commodity. Although we've always focused that, I guess from a financial and resourcing point of view, it's no different to the sustainability angle that we're talking about now and in DWP Digital, that's what we're about. We're about creating user centred services that work really slickly and nicely with the minimum of friction and the best use of resources.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Climate change is a huge subject, and it will impact everyone's life, if we don't do something about it. I'd like to focus on the impact we're having from a digital perspective, and what companies and individuals can do to be more sustainable.\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So, it's difficult to underestimate the impact that global heating is having on the environment. We've all seen the news in terms of the wildfires, the melting of ice caps and permafrost and the changes in weather that are being experienced by almost every part of the world. So, I think it's incumbent on every individual in every organisation to look at what they can do. And part of that is looking at what you do in your personal life. But an important part is looking at what you do at work. And that's everything from looking at the supply chain, in terms of where you get your energy from, but also the sustainability of the products and resources that you consume as an organisation.\u00a0"
+        },
+        {
+            "text": "And it's important when we look at that to consider it from a digital perspective, to look at both the footprint of digital but also how digital technology can help organisations reduce their carbon footprint in specific areas, such as commuting. And a very significant amount of energy is used by people commuting, particularly in the UK, where the majority of people outside pandemic times tend to commute by car by using, obviously internal combustion engine.\u00a0\u00a0"
+        },
+        {
+            "text": "So, it's looking at it from both perspectives, what can digital do to be greener, but also how can digital help organisations to reduce their carbon footprint and their impact on the environment. And in terms of the impact again, it's worth putting this in perspective that taken together, ICT and commuting into work are responsible for more than 5% of global greenhouse gas emissions. So, if you're looking at addressing climate change, you need to be looking at the top 10 to 20 items and ICT and enabling people to work more flexibly absolutely fits within the top 20 of things that need to be addressed.\u00a0\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think it's important as well to recognise that climate change isn't an invisible intangible thing. For any organisation, it translates into real risk in the future. So, instability in the environment that we live in creates things like geopolitical risk, it creates impacts on the services that we stand up, so maybe the demand for them becomes much more peak and trough. It results in things like supply chain disruption.\u00a0"
+        },
+        {
+            "text": "So, there are all sorts of other effects that happen that ultimately have a cost for us as an organisation, and mean that our services have to be shaped differently or accommodate that greater degree of ebb and flow. And I think that's one of the real challenges, isn't it? It's understanding what does this intangible concept mean, in practice for us?\u00a0"
+        },
+        {
+            "text": "I think the other thing to say is that ultimately, you can pare back what you do without changing your services, can\u2019t you.\u00a0 You can start to say, \u201cWell, I'm going to consume less of this, this and this, I'm going to print less, or I'm going to do less in person, or I'm going to post things out fewer times.\u201d But then you get to a point where you've pared back and now you have to say, \u201cOkay, I've got to do something structurally different.\u201d And I think that's where government really is. We're saying, \u201cWell, what do we do differently and what are the things?\u201d And we've already started that journey, if you think about the transition to cloud services, then that's a really strong step in that journey. But there's loads of other things as well.\u00a0\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yep, worth noting that this isn't a new topic for government wide activity. The government departments got together in around 2008, to form what was called the Green Delivery Unit, and focus on digital and as Ewen was saying, the enabling impacts of ICT and also the impacts of the ICT in itself.\u00a0\u00a0"
+        },
+        {
+            "text": "So, it's not new. And it's worth noting that the topic has waned in an eye of visibility and importance over the last decade. If you google this topic, you will find all those documents from around 2010, 2011. Then there's a big gap until the last couple of years. And obviously, the Greta affect the blue planet effect, has really woken everyone up, which is fantastic.\u00a0"
+        },
+        {
+            "text": "What we've been doing across government is making sure that it is concrete policy wise that IT has to be considered for sustainability within wider projects and programmes across government, within spending reviews, within quarterly budget reviews, within the spend controls process, with Cabinet Office, within the Greening Government commitments, which is our corporate social responsibility reporting.\u00a0\u00a0"
+        },
+        {
+            "text": "So, we've made sure that IT, the pluses and the minuses of IT, are considered, accounted for and reported across government. And it's really, really important we do this as we move into a more digital world where the consumption, and this is a fact, we will consume more Earth's resources as we digitise the planet. There's no getting around this, but how we do this and how we choose to do it and how we digitise our lives and how much are all things that we need to consider.\u00a0\u00a0"
+        },
+        {
+            "text": "Sustainability is not a nice to have. It is not getting greener by default. It's a fundamental thing that we have to deliver and consider to ensure that our services are resilient and that we are delivering responsible services\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "It's a big topic and covers such a big area across the top of how an organisation functions. And it's tempting to see that \u201cOh, we need to have a complete solution to everything straight away.\u201d But we can take this in small chunks, and each individual can actually make a difference on their own. They can do things themselves. And organisations can start, make a start, make a small step in the right direction.\u00a0\u00a0"
+        },
+        {
+            "text": "And I think this is important for the longer term. Because small steps now mean that there won't be more wrenching changes, perhaps as we get closer to some of the government targets that Adam talked about.\u00a0\u00a0"
+        },
+        {
+            "text": "But the other part is that, and I think it comes back to what Helen was saying, is that in 2021, the United Nations estimated that 128 million people around the world were affected by climate events. So, it's happening now. And the sort of work we do in IT is us doing our part. I took this from a book that looked at the true carbon footprint. And there's also something called the Carbon Literacy Trust. Well, what they looked at was how much carbon does sending a simple email cost. And they estimated that with the actual creation of the email, the network transmission, and the time taken when somebody actually read it, it was about three grams of carbon dioxide for a basic email. If you wrote an email to 100 people, and only just one of them read it, the calculation came out that it was around 56 grams of carbon dioxide. So, the way we use our technology, actually we do things simpler when you use things like teams, for example, you only post something once, rather than having individual copies. And that's a small change that people could do. But it could make a significant difference in the longer term.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So, can you tell me about the government's plans for sustainability across its many departments, and in general across the UK?\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, the government plans. We published a new five-year strategy in September 2020, called the Greening Government ICT and Digital Services strategy. This is the third iteration of that work that I mentioned earlier. It started in the midst of time in 2008. And this was written in conjunction with industry, hand in hand with industry, and agreed and consulted.\u00a0\u00a0"
+        },
+        {
+            "text": "And what it says is that there are three key areas that we need to concentrate on, firstly, around netzero. Secondly, around circular economy. And the third area is more around the social impact and around transparency in the supply chain. If you picture ICT as a kind of cross cutting enabler, to all the other sustainability stuff that everyone talks about, so you will have heard about climate emergency being declared by the government, you would have heard about net zero by 2050, you would have seen what's going on at COP 26. Everything else is sustainable development goals. There's so many different targets and commitments that the UK government has signed up to either nationally or internationally engaging with the UN.\u00a0\u00a0"
+        },
+        {
+            "text": "ICT is a cross cutting enabler to meeting all of those. So what I've been doing is making sure that ICT fits in there and is recognised for what Ewen was just talking about there, is that enabling effect. How can ICT help us to meet the sustainable development goals and meet those targets? Also, how is ICT going to contribute? There are lots of figures out there, like Ewen just said. It's somewhere between four and 10%, depending on who we believe. And the truth is we haven't got the transparency in the sector to get the information back from suppliers that we need to truly understand the footprint. But it is absolutely massive and at least on par with flying. And that's the context that we need to think about this.\u00a0\u00a0"
+        },
+        {
+            "text": "So, government are taking this very, very seriously. And as I mentioned earlier, I won't go through them all again, but ICT and the impact of it is embedded in lots and lots of areas. But we have said some very clear things. Firstly, we shall not be doing business with any digital supplier that does not meet our sustainability commitments, and that's at a departmental level. So, if DWP tomorrow said we want to be net zero by 2030, all your digital suppliers should be exactly the same. If they don't meet that criteria, they don't get the contract.\u00a0"
+        },
+        {
+            "text": "Secondly, around circular economy. We need an annual increase in the amount of remanufactured kit. Why remanufactured? Because it saves around 70% of the carbon compared to buying a new computer or phone, and you get exactly the same performance. And they come with a guarantee. And they are Kitemarked for quality.\u00a0\u00a0"
+        },
+        {
+            "text": "Also 0% to landfill. And we need to be tracking that waste as well. In the third area, we need to ensure there's no slavery in the in the supply chains, we need to make sure we've got transparency for what's going on in supply chain. And every effort is being made so that we're reducing the harm on the planet from the mining and the slavery and the waste at the end of life, which is the biggest problem in the world, e-waste. So that's the world that we're living in. And we need to do something more about this.\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think I'd like to add to what Adam was mentioning there about the importance of supplier transparency. So, one of the activities that we're doing at the moment is baselining everything that we know, everything we know about the suppliers that we work with, the contracts, the terms within those contracts, but also the services that they supply to us. So that we can really build our understanding of where are we now, because that gives us the ability to then track from it.\u00a0\u00a0"
+        },
+        {
+            "text": "One of the next steps then is to say, okay, so all of the things that we're already doing, where do they move us on that trajectory towardsnet zero? What are the other things that we've got in train? Because I think it's important to recognise this isn't at odds with what we want to do anyway. You know, not only do we want to be sustainable, but actually driving forward efficient use of the resources, manageable services, etc, that's totally aligned with our vision and our strategy anyway.\u00a0\u00a0"
+        },
+        {
+            "text": "So, we're using the supplier benchmarking and the service benchmarking as a means to articulate a baseline that we can move forward from, and then from there on, we can start to assess everything we do relative to that baseline and say, \u201cWell, where does this move us to?\u201d\u00a0"
+        },
+        {
+            "text": "I think we have to also acknowledge though, we're in government to deliver services. And so we will always have to balance the delivery and the sustainability. So we're never going to be able to design out every single bit of carbon, because that's just really not realistic for us.\u00a0\u00a0"
+        },
+        {
+            "text": "So, we've got to find that right balance between those two things. Delivery is critical for us, because we're delivering services for end users, citizens, organisations, and some of those people are really vulnerable. So, we can't compromise delivery.\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I'd like to add in one point. We're talking about the use of resources and sustainability. If you look at the Earth Overshoot Day calculation, it takes a look at the amount of resources used across the entire planet. And part of it talks about that by the middle of July of each year, we've used up a nominal one planets worth of resources. Now, in the longer term, that is not sustainable.\u00a0\u00a0"
+        },
+        {
+            "text": "But to support what Helen was saying is there's a choice to be made around sustainability and delivery of services. And what we need to do is get it to as close as we can. Because at some point, I don't know whether people get this net zero thing in the long term, is that at some point, we can refine and reduce as much as possible. But at the end of it, there will have to be a calculation around taking carbon out of the atmosphere. So doing things in a different way to reduce it is fine, but at some point, businesses will have to make a choice about carbon removal or sequestration.\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, so I\u2019d just like to pick up on what Adam was saying around government initiatives and the Greening IT and just how influential that is in the wider marketplace. So as Helen mentioned, every organisation is trying to balance operationally what they do and how much they are willing to invest in or change to achieve greater sustainability.\u00a0\u00a0"
+        },
+        {
+            "text": "So, where the government takes a lead, and says sustainability is one of the key objectives for every department. And also, it's going to be an objective to look at your supply chain and ensure that they are sustainable as well, that has a huge influence on the marketplace. And that flows through into a lot of the customers that we deal with from the technology vendors to the organisations using technology in the wider commercial ecosystem. Government touches everything. And so having that statement and that direction, that clear policy is really influential in pushing that up the agenda and making sure that it's part of the forward planning and decision-making criteria for technology vendors, for resellers, for suppliers, pretty much for everybody. And it's part of the government policy that's put that there\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "What do you feel are the biggest challenges organisations face when it comes to reducing their environmental footprint in a digital space?\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So, I think the biggest challenge that organisations face when they're looking to reduce their footprint and achieve something like net zero is understanding where they're starting from, and then creating a credible action plan to get to where they need to be within a particular timescale.\u00a0\u00a0"
+        },
+        {
+            "text": "So, what we typically see is that there are sustainability experts. And then there there's an IT team, and very often there's limited crossover between those two parts of the organisation. So, we as an organisation, what we exist to do really is to shine a light into that area, and help to expose the existing carbon footprint, understand where that sits, and then provide a credible action plan as to what could be done to reduce the carbon footprint without impacting on the operational capability and indeed, where possible, improving productivity.\u00a0"
+        },
+        {
+            "text": "So, I think it's that understanding of where we are today, where do we need to get to and how quickly can we do that. What's the priority in terms of the things that we could do? And how quickly can we have an effect? And then tracking on a regular basis how are we doing? Are we meeting those objectives? And ensuring that as many people as possible across the organisation are bought into that so there's a communication element as well, to establish that common purpose and really try and drive those more sustainable behaviours across everything that everybody's doing across the organisation.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "The DWP produces an annual sustainability report. What's in the report? And how do they help shape our efforts to be more sustainable?\u00a0\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, across government, every single government department has responded to the annual reporting for Greening Government ICT since 2011. The report in its current form covers four elements. This is the ICT footprint both on our estates and the services we consume. The second one is around ICT waste, and how we use ICT at end of life. The third one is a strategy statement. And the idea of that is that departments set out their plans for how they're going to meet the objectives in the strategy I mentioned earlier. And that's signed off by the departmental CDIO, ie the person in charge of IT. And the fourth one is policy actions, ie, what has the department delivered to meet the objectives set out in the strategy?\u00a0\u00a0"
+        },
+        {
+            "text": "Pleased to report the DWP that been involved in this work since the beginning and have produced the return. And you can see all of these returns amalgamated into a government report on gov.uk. And there's been one produced every year since 2011. So, for me, there are four big departments in this space. We've got the Ministry of Defence, the Ministry of Justice, Her Majesty's Revenue and Customs, and the Department for Work and Pensions.\u00a0\u00a0"
+        },
+        {
+            "text": "So, the point of this isn't just from a let's get some more data from the department, so let's ask them to do the work. The whole point of this is that by doing this annual return, you as a department understand your current footprint, from your laptops, from your desktops, from your phones, from your servers, the network equipment, your hosting on site and in the cloud. And once you've got all that data, they can then build that into your business decisions for what you want to do going forward. And you can build it into your IT architecture and your business planning. And you can say, \u201cIf we do X, Y, and Z,\u201d as Helen said, \u201cIf we want to move to the cloud for this service, what will be the impact?\u201d And you can use that data to help you make those decisions.\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, I'd like to add to that to say, I think one of the challenges is having the data ready to start to report on. And that's certainly something that we're getting to grips with currently. In order to do great reporting, you need to have the information to hand. And have the information to hand sometimes takes some time to collate. Sometimes it takes inside discussions with suppliers so they can start to understand what is the data you want and what are you going to use the data for, as that might influence what data you need.\u00a0\u00a0"
+        },
+        {
+            "text": "So I think as we get traction on the whole sustainability programme, it becomes easier doesn't it? The more the more people know about sustainability and the more organisations that are asking suppliers for example, for data, the easier it is to get that data actually because then it becomes worth the supplier putting lots of time and effort into.\u00a0\u00a0"
+        },
+        {
+            "text": "And I think that's the state we're at at the moment where people are starting to collate all the information and share it and be much more transparent with it. So, that's where we are as a department, we\u2019re starting to build our understanding, our views. And actually in turn that will give us information to make decisions from. So it's a really important step that we're going through. But it needs a little bit of time, effort and resource and some commitment to get that good data there.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So, what are your team's looking at right now? And What plans does DWP digital have to reduce their environmental footprint in terms of reducing our carbon footprint?\u00a0\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "In terms of reducing our carbon footprint, we have a strategy within DWP of transitioning from things like on-premise data centres to cloud operations. And over the next two years, the plan is to move 70% of what we do into cloud-based operations.\u00a0\u00a0"
+        },
+        {
+            "text": "In addition to that, there is initiatives around cloud-first, the use of different devices and delivering services in a slightly different way so that we reduce the the requirement, for example, to have things like on-premise servers in locations to manage software management. So, there are things in place already. I'd like to shout out for the people in the devices team within digital, who have already made significant steps in assessing suppliers for the carbon footprint of the devices that we actually purchase and use across the estate. What I think I'd just like to say is that there are just some really good practice in individual pockets. And all I think that we need to move towards is making sure that we have a full picture and report on across the estate. And I think at the minute there is work around transitioning to using cloud, which will or should reduce our carbon footprint, our carbon emissions footprint, but at this stage, what we need to do is just say, what are the actual failures?\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think in the things that we do at the moment, there's a combination of real practical stuff on the ground, such as those that Tony's outlined. And then there's some things that are about communication and visibility of this as a topic. So for example, we've recently been to the DWP Risk Board to talk about what are the risks that emanate from the sustainability position. And that's been a really valuable discussion, because what it starts to do is change people's perception perceptions of why this is important to talk about. And that then facilitates on the ground activity, as Tony said, whether it's in the tech space, whether it's thinking about the design of our services, whether it's thinking about how our people behave, and the culture that we work within, or our estates, etc.\u00a0\u00a0"
+        },
+        {
+            "text": "So all of those things have to come together, don't they? But it needs that leadership. And actually, for a lot of our leaders, this isn't something they feel very comfortable with, because they're not specialist. You know, around the table today, we have got some people who've got some really deep knowledge. But a lot of our leaders that we're asking to lead in this space don't. And so they have to have confidence in the people who have got the knowledge and in the database lens that we've got to know that they're making the right decisions.\u00a0\u00a0"
+        },
+        {
+            "text": "I always compare it to cereal bar versus Mars Bar. You can think you're doing the right thing eating a cereal bar, you might think that's the right decision. But actually, if you were to look at the calorie count and the fat levels, and everything else, you'd say, actually, that cereal is really loaded and I should just be eating the Mars Bar in the first place. And from my point of view, that's the challenge with data and some of the decisions that we want to make, we want to help people make the right decisions, and therefore supporting our leaders, making sure that they understand where sustainability fits in with what they're doing, and giving them the data to help them as well as delivering the activity on the ground. Those things are all really important that they come together.\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, that's absolutely perfect, Helen. And you\u2019re right. Sustainability is a strategic risk. And that's why I use the term resilience. It is a risk to the resilience of your operations. And it needs to be recognised as such. And yeah, that's absolutely the right way to go about this.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "What advice would you give to people in order to get their company to start thinking about these issues?\u00a0\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think the advice I'd give is, don't overthink it, actually. You can agonise forever and do nothing. Or you can start to look at what you do as an organisation and the way you consume, whether that's consumption of tech, or whether it's consumption of the resources that you have at your disposal. You know, I think I think it's just starting somewhere and starting to build yourself a baseline actually, that you can go, Okay, that's what we do. And do we really consume that? Do we really do that?\u201d Because from there, you can then start a wider conversation\u00a0 within your organisation to say, \u201cWell, if that's something that we think isn't where we want to be, what do we do to change it?\u201d\u00a0"
+        },
+        {
+            "text": "The thing that I've really learned recently is how many people care about this. And it's very easy to think you're a lonely individual shouting from a sustainability point of view. Actually, when you talk to teams, so many people think this matters, but they don't really know what they can do to help and to support. So it's really important, from my perspective that we start to engage people in the conversation and get their input. How do they think they can help? What do they think they can do? And how, how does it affect their role? And what part can they play? But you\u2019ve got to start somewhere is the bottom line, isn't it?\u00a0\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yes, I'd absolutely like to pick up on Helen\u2019s point there and getting people engaged. We've done market research that indicates that if you take the UK workforce, 97% of them say that sustainability is something that's personally important to them. But it's a much lower percentage, if you find out are you actively sustainable work other than doing recycling. There's very little of people feel that they can do.\u00a0\u00a0"
+        },
+        {
+            "text": "So I think establishing that baseline of where you are, that's really important, establishing a communications programme around it and identity for getting everybody on board to drive this through to try and meet those objectives, whether that's net zero, or whether it's just, you know, a percentage reduction the company is committed to. So getting that baseline, getting a plan in place, executing against it, and getting as many people on board as possible as champions and advocates of that. And giving them that that agency to say \u201cI can make a difference\u201d is hugely important.\u00a0\u00a0"
+        },
+        {
+            "text": "And then tracking that change. You know, as those are implemented, what have we done? I would say, going back to the Mars Bar analogy, it's like your New Year's resolution to do less of this, the more feedback you can get that encourages you to keep on not eating those Mars Bars or cereal bars, the more likely you are to stick to that New Year's diet. And we've got to view sustainability in the same way. It's building that momentum and keeping it going till you reach that agreed destination.\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "For me, sustainability and tech is something that we need to think. We all talk about flying, we all talk about meat eating, we all talk about recycling and plastic bags, etc. But the reality is that technology is up there with the best of them. And as a quote often used in my presentation says. we have opened the Pandora's box here with new technology, we've got phones coming out with four cameras on the back. Question ourselves, do we really need this as a society? Everything goes to the cloud. Do we really need this?\u00a0"
+        },
+        {
+            "text": "But there's really simple things we can do. We can make personal choices around what we do. For example, myself, I had the option to upgrade my phone this year, I've moved to a SIM only contract. So I've not upgraded my phone, I'll keep my phone going for as long as I can do and I'll repair it when I can. Really simple personal action.\u00a0\u00a0"
+        },
+        {
+            "text": "If I'm listening to music, I don't do it on YouTube, \u2018cause you don't need to see the videos. I listen to it on Spotify. And if I listen to something a lot, I buy the physical vinyl or whatever. Lots of simple things we can do. And that's just really my main message. I think everything else has been covered. It's recognising it, doing some personal actions, measure it, do some stuff better. And you know, we can all share and learn from each other. And that's why we've got the cross-government group which I chair, every department\u2019s on that. Tony\u2019s you rep in that group. But we share best practice. I regularly share things with Tony that have been developed by other departments. And then we publish that, so that externally, everyone can access that too.\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I was just going to reflect on Adam\u2019 comment about personal consumption patterns. I never know whether this is an urban legend or not. But apparently there are more mobile phones in the world than there are toothbrushes. I've tried\u00a0 to check the accuracy of that and it seems to be well reported. But I suppose that indicates the amount of tech we all hold on to. So how many of us have gotten multiple devices and have got multiple unused devices as well as the multiple that we currently have? That's really interesting, isn't it? So we can each do something individually.\u00a0\u00a0"
+        },
+        {
+            "text": "On the other point, clearly government believes in transparency. That's one of the core tenets of ethical behaviour is transparency, and we totally subscribe to that. And for that reason, we regularly report on sustainability. But we also expose very clearly what our principles are and how we work. So if anybody is interested, the Greening Government documents are available on gov.uk, if anybody wants to see how we've analysed what government does and what we think is important and what we should do, then they're all free to access.\u00a0\u00a0"
+        },
+        {
+            "text": "So, you know, I'd encourage anybody to a look if you're interested and ponder what's the correlation for your own organisation. Are they things that we've identified as being challenges or priorities for government. Are they the same as yours? Can I just ask Adam, whether there's a line on here, I don't know whether this stacks up, but I think there's something about unplugging devices sometimes and allowing them to run on battery. And the fact that that's good for battery health. Am I right there? Is that something people can do?\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, this is a maturity thing. When the Greening Government ICT stuff started 10 years ago, the actions were a lot like you just said, Helen, in that they were things around doing your software upgrades in the middle of the night. So, you lessen the impact on users and also cheaper electricity, and all that kind of stuff. There is stuff around as you say unplugging devices, turning off stuff at the wall. There are actually quite a lot of simple actions. And you know, I'm happy to provide DWP with a with a list of under that original green IT banner that you can do.\u00a0"
+        },
+        {
+            "text": "But where we're moving to now is a world where if Cristiano Ronaldo posts an image on Instagram, it consumes as much energy as about six or eight UK households consume in a year, because that image is replicated across so many millions, if not billions of devices. The levels are astronomical. So it's become a lot less tangible and close by. There are certainly things we can do and as you said earlier, choosing a single best suited device is absolutely a key thing that we can do. We don't need four or five devices, do we?\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "And I think the other thing is thinking through some of the practical stuff that you can do. So do people need both a laptop, a tablet, and a mobile phone? You know, if you think about a phone, if you're not travelling, and people are predominantly using it for calls, then there's all sorts of software you can do that through. You can do that through your laptop now, even if you're in a different organisation, etc. So I think there are lots of enablers that can quite quickly reduce things like personal device footprints.\u00a0\u00a0"
+        },
+        {
+            "text": "Adam Turner\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Yeah, I mean, that's what's happened with COVID. The culture shift has been absolutely huge. And I'd argue that largely, you're right, phones have become redundant, because we do most of our chatting across government now, on Teams, on Google, other service are available. So that's absolutely one example. So as phones become much more redundant than they ever were.\u00a0\u00a0"
+        },
+        {
+            "text": "And the other one is desktops. And departments pre0COVID, still clinging on to the thinking that every single desk need a desktop on it. But then ended up having to issue everyone with laptops. So now we've got laptops docking stations as a single best suited device, rather than a desktop laptop and a phone.\u00a0\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "What's really interesting about that, from my perspective, is that it's also linked into ways of working, isn't it? And that real emergence of a virtual environment to work within. So that collaboration that's driven that when we now start to go back into offices, it feels quite strange, doesn\u2019t it? To think there's a block of wood over there with four legs on it and I\u2019ve got to go and sit at that. Why would I want to do that? I collaborate with people. So that idea of a desktop on a little piece of wood. why on earth would I commute and consume resources to go to an office just to sit somewhere? The whole point of going to an office has fundamentally changed I think. It's about working with other people in a collaborative way. So we make choices, don't we, about when do we travel and for what purpose and they\u2019re conscious choices.\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think that's really important that link into ways of working and how workspaces can enable that, virtual places where you can collaborate. And as you said that there's a time and a place physically meeting with colleagues, absolutely. It's very important. But it can't be what we do every day. Certainly it can't be where we go to the same place and the same desk and that same device that\u2019s sat there consuming energy all night, even when it's switched off, because it's plugged in. You know, it has to be something that we do as a conscious choice, because there's a value in that face to face collaboration.\u00a0\u00a0"
+        },
+        {
+            "text": "The rest of the time, we should be collaborating using that virtual cloud-driven environment from whichever device we choose. And I certainly take your point, if we think about the number of devices that are switched off and unused across our houses, even in our personal lives, it\u2019s scary to think that the e-waste problem we have is so huge. And in actual fact, there's another mountain of that just sat in people's houses until, you know, potentially they move house.\u00a0"
+        },
+        {
+            "text": "So there are solutions to reuse that technology and repurpose it. And the one thing we really have to do is keep it out of landfill, as Adam mentioned earlier, because e-waste is such a huge problem. But if we look at ways of working, and how technology can enable that, that's a crucial part of looking at the strategy around sustainability and productivity. How can we enable people to be productive without the need to travel to places of work?\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So just before we end, how fast do you think we can change? And where do you see us in the next five years?\u00a0"
+        },
+        {
+            "text": "Ewen Anderson\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think from my perspective, in terms of how fast we can change, what we are seeing is a huge swell of interest around the commitments that an organisation is measured at a strategic level to achieve net zero. And I think COP 26 has certainly helped bring that into focus. So a lot of organisations have made that statement, they've made it as part of their environmental and social governance or corporate and social responsibility statements, they've perhaps made it as much from marketing statements as much as anything. But what it does do is it puts a stake in the ground, and it forces a plan to be put in place to start to make practical changes in order to achieve those net zero targets.\u00a0"
+        },
+        {
+            "text": "So there's a lot of movement in terms of looking at where people are, what they need to do and how they're going to achieve those targets. And the caution, and Adam has mentioned this, is the continual growth in our use of data, in our use of systems and our use of energy. And so, we need something that's radical in terms of pushing that change through to reverse that growth and start to look at pushing ourselves at least back to a status quo that is sustainable. And that's the big risk for me for the next five years, is are we going to continue growing? Or can we take positive steps driven by the concern that everybody has, in order to achieve a better outcome for the planet?\u00a0\u00a0"
+        },
+        {
+            "text": "And fundamentally, that's what we have to do. We have to look at this as a decision as to whether or not we're going to pollute or maintain our future. And I think we can, I think we can achieve that shift in opinion, because I believe, if we look at the vast majority of the population, this is something of real concern to them. So, we have to harness that and we have to drive that through into real decision making to back up the strategy.\u00a0"
+        },
+        {
+            "text": "Helen Hayes\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So I think it's really clear, given the context, that we're really picking up speed on this. And government as a whole is really committed to this. From a practical point of view, it's embedded into our governance. So the way in which we make decisions, the way in which we spend money, etc. ui is threaded through the DNA of those processes.\u00a0\u00a0"
+        },
+        {
+            "text": "But it takes spend, and it takes service change. So, like with any change programme, it takes time and commitment to implement it. And this is no different. But that that shouldn't scare us, because change programmes do take time and commitment. And this is one of the biggest we\u2019ll ever face. So I don't think that's anything we should worry about.\u00a0\u00a0"
+        },
+        {
+            "text": "And the fact that it is threaded into the governance means that we'll continue to reiterate and validate that we're doing the right things at the right points in time. But ultimately, you know,\u00a0 in government, we've got services we have to deliver. We're delivering services to organisations to individual citizens, and we can't disrupt those, we have to find a way to balance the change programme that we want to create so that we don't generate real risk to the delivery of services, at the same time as doing what we want to do.\u00a0\u00a0"
+        },
+        {
+            "text": "Governments have always had to tread that line, you know, Civil Service has always dealt with that situation. We've always had to implement huge programmes, and try and find the right line through and this is no different. But the commitment is 100% there to do it.\u00a0"
+        },
+        {
+            "text": "Tony Sudworth\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "I think there's just a couple of points I wanted to cover at this stage. The first one is that there are some pretty big targets that have been published by the UK government around reduction of emissions for the country as a whole. I think by 2030, I think it's supposed to be 65% reduction overall. And for us to get to that point over the next five years, I think we are just going to have to start making the changes,\u00a0 small at first and maybe larger as we get closer to that 2030 deadline.\u00a0"
+        },
+        {
+            "text": "But I think there's a point of realism here for us. And when we're talking about sustainability here today. There are parts of the world that are talking about surviving. The bigger picture on global\u00a0 heating that Ewen mentioned earlier on, is that those changes will affect people's ability to stay where they're living today. And I think that this part, this whole idea of sustainability and ICT, this is again, part of what we need to do, balancing what Helen talked about, which is delivering services.\u00a0"
+        },
+        {
+            "text": "The question needs to be in the longer term is, what type of services do we want to provide and do we want to provide them? But I think there's a bigger picture here is that the targets from government that are in law already, they are going to take some significant changes to the way we do business.\u00a0"
+        },
+        {
+            "text": "Stuart Money\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button now if you want to make sure you don't miss our next episode. And I'd like to thank Helen, Tony, Adam and Ewen for taking part today. And if you'd like to know more about DWP Digital and our thoughts on other tech topics, check out series one.\u00a0"
+        },
+        {
+            "text": "So thanks for tuning in. And I'll see you next time on the DWP Digital podcast.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

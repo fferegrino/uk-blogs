@@ -1,0 +1,90 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2022/02/03/incident-bot/",
+    "title": "How we use Slack to respond to service incidents",
+    "authors": [
+        "James Glenn, Software Developer"
+    ],
+    "categories": [
+        "coding",
+        "software development"
+    ],
+    "pub_date": "2022-02-03T11:45:06+00:00",
+    "content": [
+        {
+            "text": "Picture this \u2013 you\u2019re an aspiring teacher and you\u2019ve been working hard on your application form. You\u2019re busy, but organised and you want your application to be the best it can be."
+        },
+        {
+            "text": "You set aside an evening to get it finished. You sign in to your application and you read \u201cSorry, there\u2019s a problem with the service\u201d."
+        },
+        {
+            "text": "You keep checking the site and when it eventually comes back online it\u2019s too late, the evening has disappeared and you\u2019re now forced to rush your application."
+        },
+        {
+            "text": "So, what happened? This message means there's been an incident behind the scenes, and the team hasn't been able to get the service back up and running in time."
+        },
+        {
+            "text": "This isn\u2019t acceptable. As the owners of it, we have a duty to provide a reliable service and that includes how we manage incidents. So we\u2019ve recently improved how we do this by building our very own Slack bot to manage incidents."
+        },
+        {
+            "heading": 2,
+            "text": "Handling incidents can be a challenge"
+        },
+        {
+            "text": "As a developer, the old incident process caused a lot of pain. The instructions lived inside a Google Doc, but it frequently went out of date. So those not familiar with the process would often be unsure who to contact or how to assess the level of severity."
+        },
+        {
+            "text": "We spent longer working out what to do than dealing with the incident, and when we did finally trigger \u2018the process\u2019, it was just a Slack thread and a video call."
+        },
+        {
+            "text": "We wanted to improve this, so we could respond more effectively and provide our users with a better experience. We knew the process needed to:"
+        },
+        {
+            "heading": 2,
+            "text": "Creating a Slack bot"
+        },
+        {
+            "text": "We wanted the process to remain in Slack and we considered using a pre-built app from the Slack Marketplace, but as developers we decided to build the bot ourselves. That way we could have something that completely met our needs and would be ours to customise and develop further."
+        },
+        {
+            "text": "As part of our development process we follow certain principles\u2013we like our code to be well tested, open source and well-documented. It was important to us that we applied these principles to building the bot too."
+        },
+        {
+            "text": "We were keen to build the bot in C# or Ruby, our main programming languages. We found a great Slack-Ruby community on GitHub, which inspired us."
+        },
+        {
+            "heading": 2,
+            "text": "Bringing it to life"
+        },
+        {
+            "text": "Now, when a developer notices something is wrong with the service, what do they do? Dig out that old Google Doc? Not any more. This is our new process."
+        },
+        {
+            "text": "To trigger the incident bot you enter a single Slack command: /incident. (A window appears asking for information.)"
+        },
+        {
+            "text": "You enter the required fields and the bot instantly creates a series of actions, which are:"
+        },
+        {
+            "text": "Once the incident has been resolved you simply issue another Slack command: /closeincident"
+        },
+        {
+            "text": "It then alerts everyone, letting them know it\u2019s now closed allowing the team to focus on the post-mortem."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We do what we can to keep incidents to a minimum. So far we\u2019ve only used our bot a few times. But when they occur, we\u2019re clear about what we need to do."
+        },
+        {
+            "text": "Developers in other teams have welcomed our bot\u2013it\u2019s improved the process for all of us. We want to encourage more DfE service teams to use it. And we\u2019re keen to get feedback so we can develop the bot to better meet user needs."
+        },
+        {
+            "text": "We\u2019re always open to contributions and ideas. Here\u2019s the bot\u2019s source code on GitHub."
+        },
+        {
+            "text": "Or, if you\u2019d rather work on it here in DfE, we\u2019re hiring."
+        }
+    ]
+}

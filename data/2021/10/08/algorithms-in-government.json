@@ -1,0 +1,119 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2021/10/08/algorithms-in-government/",
+    "title": "Algorithms in government",
+    "authors": [
+        "Nazmus Haq - Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Coronavirus"
+    ],
+    "pub_date": "2021-10-08T13:23:44+01:00",
+    "content": [
+        {
+            "text": "Governments always face countless challenges - both expected and unexpected."
+        },
+        {
+            "text": "These include climate change, ageing population issues, adult social-care funding and managing fiscal risk to government due to contingent liabilities. There are also unexpected challenges such as the rapid development of technology and its integration with our everyday lives, and of course \u2026 coronavirus."
+        },
+        {
+            "text": "What the last 20 years has taught us is that the most pressing crisis a government faces at any moment can change very quickly. We must rapidly respond and innovate, by leveraging emerging digital technology."
+        },
+        {
+            "text": "It could be argued that, with digital technology developments, we\u2019re currently going through a 4th industrial revolution. This is evident in the way artificial intelligence (AI) algorithms rapidly develop and disrupt our old ways of working and solving problems."
+        },
+        {
+            "text": "How government looks at this type of opportunity is a work in progress. We do not fully know how the emergence of 5G combined with cloud/edge-based AI will shape this decade. However, the pandemic has given the government impetus to test the 'art of the possible'."
+        },
+        {
+            "heading": 2,
+            "text": "What algorithms can do for government"
+        },
+        {
+            "text": "Governments make countless decisions each day and it makes sense in principle to use an algorithm to help in the decision-making process. This is to ensure consistency, fairness, speed, efficiency and removal of human bias and error."
+        },
+        {
+            "text": "Some of these decisions will have a direct noticeable impact on our everyday lives. As an example, algorithms could be used to identify individuals for questioning at the UK border. Others will go on un-noticed in the background, such as fraud-detection algorithms."
+        },
+        {
+            "text": "The key criticisms thrown against algorithms is they could be:"
+        },
+        {
+            "text": "So, it\u2019s vital there is full transparency and accountability when developing such algorithms."
+        },
+        {
+            "text": "The pandemic has rapidly thrust the use of algorithms in government into the public spotlight. Two cases show how they led to different responses from the public."
+        },
+        {
+            "heading": 2,
+            "text": "Ofqual A-Level algorithm - one that worked but did not command public confidence"
+        },
+        {
+            "text": "After the summer 2020 exams were cancelled, A-level students were expected to be awarded grades based on an assessment of their predicted grades. These were produced by an algorithm developed by the official exam regulator, Ofqual."
+        },
+        {
+            "text": "It's well known what happened next, with the algorithm being subsequently withdrawn from use and from being used in awarding GCSE grades."
+        },
+        {
+            "text": "Earlier this year, the Office for Statistics Regulation (OSR) published its lessons learnt from the approach taken to developing this algorithm. The OSR found that \u2018it was always going to be extremely difficult for a model-based approach to grades to command public confidence.\u2019"
+        },
+        {
+            "text": "Public confidence was influenced by several factors such as:"
+        },
+        {
+            "text": "The model did what it was supposed to do, which was to find a fair way to maintain standards against historic standards. However, Ofqual couldn\u2019t predict how it would also highlight existing inequalities within the grading system, and the public reaction to it."
+        },
+        {
+            "heading": 2,
+            "text": "QCovid\u00ae - how high-quality analytics can make a difference to patients\u2019 lives on a national scale"
+        },
+        {
+            "text": "In May 2020, the Chief Medical Officer for England commissioned a predictive model (QCovid\u00ae) for a data-driven approach to assessing an individuals' COVID-19 risk."
+        },
+        {
+            "text": "Developed by NERVTAG and Oxford University, QCovid\u00ae takes a multi-factor approach to risk. It takes into account both demographic and clinical risk factors with an aim of applying it to patient records nationally through a central technological platform. This is used to identify, protect, and prioritise vaccination for high-risk groups (to reduce poor outcomes, enhance patient safety and reduce the burden on GPs)."
+        },
+        {
+            "text": "Stakeholders were at the centre during development, including:"
+        },
+        {
+            "text": "What QCovid\u00ae provides is an example for centrally led healthcare analytics and decision-making for the future. This is a future where models are built with the involvement of end-users at its very centre and a commitment to openness and accountability."
+        },
+        {
+            "heading": 2,
+            "text": "Public trust is paramount"
+        },
+        {
+            "text": "In 1958, a New York Times article suggested a machine would soon be able to \"perceive, recognize and identify its surroundings without human training or control.\" This affected the public\u2019s perception of AI and it was relegated to research labs for decades."
+        },
+        {
+            "text": "This type of hesitation was on show recently when plans to start the collection for the General Practice Data for Planning and Research (GPDPR) were permanently put on hold. The GPDPR collection was meant to allow more timely analysis to inform healthcare policy planning. However, more than a million people opted out from being included in the data."
+        },
+        {
+            "text": "People were concerned about privacy and the susceptibility of data to be linked to other datasets to reveal personal information. This hesitancy led to the collection being shelved to allow further consultation with the public."
+        },
+        {
+            "text": "Even though we live in a more technologically connected world, the idea of an algorithm determining the outcome of people's lives can be scary. What it shows is the need to be open and communicate the benefits of algorithms to people\u2019s day-to-day lives, while allaying their fears."
+        },
+        {
+            "text": "Work is ongoing by organisations such as the Centre for Data Ethics and Innovation to help government departments make use of algorithms while maintaining public trust and transparency."
+        },
+        {
+            "heading": 2,
+            "text": "What actuaries can do"
+        },
+        {
+            "text": "As an actuary myself, this instinctively feels outside the profession\u2019s traditional areas of managing and advising on financial risks."
+        },
+        {
+            "text": "However, our skillset allows us to develop and quality assure such algorithms. We can also translate the technical details to wider policy stakeholders and members of the public. Actuaries can communicate on what each algorithm can and cannot do, the suitability for a given usage case, potential biases and risks, and options for mitigation."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the\u00a0About this blog\u00a0page."
+        }
+    ]
+}

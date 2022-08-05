@@ -1,0 +1,84 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/07/07/making-links-easier-to-see-and-read-on-gov-uk/",
+    "title": "Making links easier to see and read on GOV.UK",
+    "authors": [
+        "Chris Ballantine-Thomas \u2013 Senior interaction designer, GDS"
+    ],
+    "categories": [
+        "Design",
+        "Frontend"
+    ],
+    "pub_date": "2021-07-07T08:30:11+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK Design System team is improving how links look to users. We\u2019re doing this work to support Mission 1 of GDS\u2019s strategy: \u201cGOV.UK as the single and trusted online destination for government information and services\u201d. As part of that we are always looking at ways to make GOV.UK easier to use.\u00a0\u00a0"
+        },
+        {
+            "text": "Our changes help solve 2 problems with links on GOV.UK that we discovered through feedback and an accessibility audit:"
+        },
+        {
+            "heading": 2,
+            "text": "Making links easier to read"
+        },
+        {
+            "text": "Link text is usually underlined, added with CSS styling using the `text-decoration: underline` property. The underline tells users that \u2018this is a link\u2019 and this is widely understood on the web."
+        },
+        {
+            "text": "But this underline can look quite different across different browsers. Most browsers make the line too thick and too close to the bottom of the text. This can distort the overall shape of the words, which can make them harder to read. This can become a problem on pages with lots of links, like search results or navigation pages."
+        },
+        {
+            "text": "We looked at different workarounds to the default styling. These were heavily inspired by this  CSS tricks article about styling underlines on the web. After weighing up pros and cons we settled on an approach that would enhance the experience for lots of users without adding too much code or being too hacky (and over-complicated)."
+        },
+        {
+            "text": "We\u2019re adding some extra CSS to links to make underlines consistently thinner and a bit further away from the text:"
+        },
+        {
+            "text": "text-decoration-thickness: 0.0625rem;\ntext-underline-offset: 0.1em;\n"
+        },
+        {
+            "text": "Although these CSS properties have existed for a while, browser support for them has recently improved. Now about  85% of users should be able to see them. We see it as an enhancement \u2013 for browsers that don\u2019t support these properties, the normal underline will still work as before."
+        },
+        {
+            "heading": 2,
+            "text": "Making hover states clearer"
+        },
+        {
+            "text": "In 2019, an accessibility audit of the Design System found that some users might miss the visual cue when hovering over links. Whilst this doesn\u2019t fail the Web Content Accessibility Guidelines (WCAG) 2.1 AA standard, it is a usability issue that disproportionately affects users with impaired vision."
+        },
+        {
+            "text": "We started by looking at how other websites treat hover states. As well as a change in colour, it\u2019s common to remove the underline on hover (or add one if the link doesn\u2019t have one). But we found that might not work so well whenever the link colour needs to be the same as the rest of the text \u2013\u00a0for example, white text on a blue background."
+        },
+        {
+            "text": "So we decided to make the underline thicker when users hover. This draws much more attention to them and echoes  the way we treat focus states . We used the text-decoration-thickness CSS property to change the width of the underline - this only recently received wide support across browsers."
+        },
+        {
+            "heading": 2,
+            "text": "Getting input from the community"
+        },
+        {
+            "text": "With all major changes to the GOV.UK Design System, we get feedback from  our working group. The working group is a multidisciplinary panel made up of people working across government. They help us sense-check our designs and make sure they\u2019ll work for teams in all departments. The working group reviewed 2 iterations of the changes to links."
+        },
+        {
+            "text": "Early on we were concerned that the thicker underline is not currently a common convention for hover states. But we felt it solved the problem we identified and the working group backed the approach. Since then, we\u2019ve also noticed similar styles starting to be used in parts of the BBC News and Guardian websites; so it may become more widespread in the future."
+        },
+        {
+            "heading": 2,
+            "text": "Releasing the changes"
+        },
+        {
+            "text": "It may take a while to see these changes being used across all services on GOV.UK. We\u2019re releasing them behind a \u2018feature flag\u2019. This means service teams using the GOV.UK Design System will need to opt-in to use them at first."
+        },
+        {
+            "text": "We did this because there are a couple of very specific bugs in some browsers that will affect some services more than others. Once browsers have fixed those bugs and we\u2019re confident the new styles will work for most teams, we\u2019ll switch the feature on by default in a future release."
+        },
+        {
+            "text": "If you\u2019re working on a government service and want to use the new link styles and hover states, upgrade to  the latest version of GOV.UK Frontend. Please get in touch with the team, or comment below, if you have any questions or feedback."
+        },
+        {
+            "text": "GDS is hiring designers at all levels throughout 2021 to 2022. Find out more on GDS Careers page. "
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

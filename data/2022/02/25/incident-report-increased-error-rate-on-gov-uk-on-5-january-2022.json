@@ -1,0 +1,71 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/02/25/incident-report-increased-error-rate-on-gov-uk-on-5-january-2022/",
+    "title": "Incident report: increased error rate on GOV.UK on 5 January 2022",
+    "authors": [
+        "GOV.UK support team"
+    ],
+    "categories": [
+        "Incident reports"
+    ],
+    "pub_date": "2022-02-25T09:12:49+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What happened"
+        },
+        {
+            "text": "On 5 January 2022, some of the servers that host GOV.UK experienced problems connecting to each other. This meant that a small number of users (around 0.5%) saw error pages when visiting GOV.UK. The errors were more common on pages with dynamic content, such as features that allow users to enter a postcode in order to find location-based information."
+        },
+        {
+            "text": "Servers are computer hardware or software that provide a service, for instance they can produce web pages or hold data. GOV.UK\u2019s servers are \u2018virtual\u2019, rather than physical computers sitting in a room somewhere. This means we can add and remove servers easily depending on demand and some maintenance can be handled by our cloud provider."
+        },
+        {
+            "heading": 2,
+            "text": "What users saw"
+        },
+        {
+            "text": "Affected visitors to GOV.UK saw an error page with a \u201cSorry, we\u2019re experiencing technical difficulties\u201d heading."
+        },
+        {
+            "heading": 2,
+            "text": "How we dealt with the problem"
+        },
+        {
+            "text": "Our technical support team received alerts that there was a higher than usual error rate. We declared it an incident and began to follow our established processes, adding an update to GOV.UK\u2019s status page. The priority then was to reduce the impact on users - knowing that the underlying cause could be determined and managed later."
+        },
+        {
+            "text": "We discovered that the servers that present the user-facing GOV.UK website were having difficulty connecting to some of the servers that store the content. There are several of these servers in a group, to spread the load. All of the servers hold copies of the content, and our system is configured to try multiple times across the group. This built-in resilience is why only a very small percentage of users saw an error."
+        },
+        {
+            "text": "We confirmed that there weren\u2019t any known availability issues with our cloud provider, and so determined that the fault must be at the server level."
+        },
+        {
+            "text": "After identifying the faulty servers, we removed them from the group and replaced them with new ones. We then continued to monitor the situation carefully and saw the errors drop to zero, and so the incident was marked as resolved after one hour."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "As is usual after any incident like this, we held an \u2018Incident Review\u2019 meeting. This included a detailed look at what happened, a discussion of possible root causes, follow-up actions and any possible improvements to the incident process itself."
+        },
+        {
+            "text": "We also asked our cloud provider for their thoughts on the cause of the errors."
+        },
+        {
+            "text": "We concluded the incident was caused by a bug deep in the servers\u2019 operating system, affecting how they store information about which other servers they should connect to."
+        },
+        {
+            "text": "We stop and start servers regularly to cope with changes in demand and to fix issues. Each time a new one starts up, it gets its own address on the network. This is called the \u2018IP address\u2019, such as 10.13.4.67 in the example shown. Old addresses should be forgotten."
+        },
+        {
+            "text": "The bug means that sometimes servers are storing out of date \u2018addresses\u2019 that no longer work. It\u2019s a bit like if you don\u2019t update your address book and keep sending birthday cards to your friend even though they moved years ago."
+        },
+        {
+            "text": "We\u2019ve improved our technical documentation on removing and replacing faulty servers, and how to remove out-of-date server addresses manually. This will make it even easier and quicker to deal with a similar problem in the future. We\u2019re also planning to update the operating system on the servers to a version that doesn\u2019t have the same bug. This is part of our wider work to improve the platform that GOV.UK runs on."
+        },
+        {
+            "text": "We'll shortly be publishing a more detailed look at what went wrong and how we fixed it, on Technology in Government."
+        }
+    ]
+}

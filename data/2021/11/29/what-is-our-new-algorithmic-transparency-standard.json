@@ -1,0 +1,55 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2021/11/29/what-is-our-new-algorithmic-transparency-standard/",
+    "title": "What is our new Algorithmic Transparency Standard?",
+    "authors": [
+        "Natalia Domagala, Head of Data Ethics - CDDO"
+    ],
+    "categories": [
+        "Data Ethics"
+    ],
+    "pub_date": "2021-11-29T11:14:07+00:00",
+    "content": [
+        {
+            "text": "In the public sector, algorithmic tools support many of the highest impact decisions affecting individuals, for example related to individual liberty or entitlement to essential public services. Algorithmic transparency is about communicating clearly how these decisions are reached, and what role algorithmic tools play in the process."
+        },
+        {
+            "text": "Algorithmic transparency is an important subject for the Central Digital and Data Office (CDDO). Being open about how algorithmic tools are being used provides an opportunity for government departments and public sector bodies to highlight good practice, facilitate learning and knowledge exchange, and contribute to improvements in the development, design and deployment of algorithmic tools across the public sector. It enables those who build, deploy, use, or regulate these tools to identify any issues early on and mitigate any potential negative impacts. We believe that transparency is a crucial component in how we use AI and data, and that the public has a democratic right to explanation and information about how the government operates and makes decisions.\u00a0"
+        },
+        {
+            "text": "Increasing algorithmic transparency has been at the forefront of AI ethics policies globally, and a few pioneering national and municipal governments have developed their own transparency measures: Amsterdam and Helsinki have introduced an AI register, New York City has published a report detailing the use of algorithmic tools across their agencies, and national governments in France and the Netherlands have issued guidance on what information about the use of algorithms should be published.\u00a0"
+        },
+        {
+            "text": "The UK government has recognised the need to increase transparency of algorithm-assisted decisions and committed to scoping transparency mechanisms in the National Data Strategy in September 2020, and to developing a standard for algorithmic transparency in the National AI Strategy in September 2021. The implementation of these commitments has been led by CDDO, which is part of the Cabinet Office.\u00a0\u00a0"
+        },
+        {
+            "text": "A number of stakeholders have called for greater algorithmic transparency and accountability, including The Alan Turing Institute, Ada Lovelace Institute, AI Now Institute, Centre for Data Ethics and Innovation (CDEI), Reform, and others. In the process of developing a mechanism to increase algorithmic transparency, we reached out to civil society groups and other external experts to understand what information on the use of algorithmic tools in the public sector they would like to see.\u00a0"
+        },
+        {
+            "text": "We ran a series of workshops with internal stakeholders and external experts to discover what information on algorithm-assisted decision-making in the public sector they would like to see published and in what format. Based on this engagement, we grouped the suggested information into categories and presented these findings to our colleagues from across the government. We then explored whether the information identified by external experts was currently being collected by the public sector, and if there were any additional categories of information that should be prioritised.\u00a0"
+        },
+        {
+            "text": "Nevertheless, we understood that if the final user group of any algorithmic transparency measures is supposed to be the general public, we needed to ask them how we can be meaningfully transparent about algorithm-assisted decision-making. In order to discover that, we partnered with the CDEI and BritainThinks and ran a deliberative study where people of different genders, age groups, levels of digital literacy, and attitudes towards the government from all over the UK expressed their views about algorithmic transparency. The core objectives of the study were to explore which algorithmic transparency measures would be most effective at increasing public trust and understanding about the use of algorithms. The three-week series of focus groups and online communities concluded in a co-design session where participants developed their own algorithmic transparency measures.\u00a0"
+        },
+        {
+            "text": "One of the key findings from the study was a recommendation to include two tiers of information - tier 1, with basic information about the use of the algorithmic tool only, targeted towards a non-expert audience, and tier 2, with more detailed information that would interest experts, such as those from civil society organisations, academia and the media.\u00a0"
+        },
+        {
+            "text": "Based on all this engagement, we developed the Algorithmic Transparency Standard with the support of the CDEI to help government departments and public sector bodies in the UK share information on their use of algorithmic tools with the general public. Public sector bodies can provide this information by filling out a set template and publishing it on gov.uk. In order to ensure the quality and coherence of information we receive, we developed a schema, and in the coming months we will work with the Data Standards Authority to get their formal approval of the standard."
+        },
+        {
+            "text": "We are publishing the first version of the standard today in the spirit of working in the open, and we welcome feedback as we begin to pilot it with government departments and local authorities across the UK. We will keep iterating the standard based on the findings from the pilots and further stakeholder engagement.\u00a0"
+        },
+        {
+            "text": "Currently, tier 1 includes a simple, short explanation of how and why the algorithmic tool is being used and instructions on how to find out more information. Tier 2 is divided into five categories: information about the owner and responsibility, description of the tool, details of the decision and human oversight, information on the data (used to train the model and currently deployed in the model), and a list of risks, mitigations, and impact assessments conducted."
+        },
+        {
+            "text": "One prominent challenge in implementing algorithmic transparency measures is determining what algorithmic tools should be in scope. In the initial phase of this work, we will prioritise tools that either engage directly with the public, for example chatbots; or tools that meet a set of technical specifications, have potential public effects, and have an impact on decision-making. We will keep revisiting this prioritisation strategy as this work progresses. In the next few months, we will be working with government departments and public sector bodies from across the UK to pilot the standard."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Image Licence: Creative Commons Attribution-NonCommercial-NoDerivs Melinda Young Stuart"
+        }
+    ]
+}

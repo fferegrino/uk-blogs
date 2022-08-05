@@ -1,0 +1,76 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/06/21/engaging-with-the-public-about-algorithmic-transparency-in-the-public-sector/",
+    "title": "Engaging with the public about algorithmic transparency in the public sector",
+    "authors": [
+        "Natalia Domagala, Central Digital and Data Office",
+        "Hannah Spiro, Centre for Data Ethics and Innovation"
+    ],
+    "categories": [
+        "Algorithms",
+        "Public engagement",
+        "Transparency"
+    ],
+    "pub_date": "2021-06-21T07:00:04+01:00",
+    "content": [
+        {
+            "text": "Making decisions about individuals is a key responsibility for many parts of the public sector, and there is increasing recognition of the opportunities offered through the use of data and algorithms in this decision-making. But these opportunities will only be realised if data is used in accordance with the highest standards of ethics, privacy and security, in a way that engenders public trust."
+        },
+        {
+            "text": "Transparency around how data is collected, stored and used is essential to build the public\u2019s trust in these data-driven processes. In our review into bias in algorithmic decision-making, we recommended that the government should place a mandatory transparency obligation on all public sector organisations using algorithms when making significant decisions affecting individuals. This would require the proactive publication of information about the algorithms. By increasing transparency on how algorithms are used in decision-making in the public sector, we can promote responsible innovation in the use of AI, as well as help to facilitate public oversight and work to mitigate potential bias."
+        },
+        {
+            "text": "A commitment to explore what an appropriate and effective mechanism to deliver this transparency would look like was reiterated in the government's National Data Strategy, and has been strongly supported by other stakeholders across academia and civil society, including the Alan Turing Institute, Ada Lovelace Institute, AI Now Institute and Oxford Internet Institute. "
+        },
+        {
+            "heading": 2,
+            "text": "What did we do?\u00a0"
+        },
+        {
+            "text": "To move the recommendation that we made in our review into bias in algorithmic decision-making forward, we have been working with the Central Digital and Data Office (CDDO) and BritainThinks to scope what a transparency obligation could look like in practice, and in particular, which transparency measures would be most effective at increasing public understanding about the use of algorithms in the public sector.\u00a0"
+        },
+        {
+            "text": "Due to the low levels of awareness about the use of algorithms in the public sector (CDEI polling in July 2020 found that 38% of the public were not aware that algorithmic systems were used to support decisions using personal data), we opted for a deliberative public engagement approach. This involved spending time gradually building up participants' understanding and knowledge about algorithm use in the public sector and discussing their expectations for transparency, and co-designing solutions together.\u00a0"
+        },
+        {
+            "text": "For this project, we worked with a diverse range of 36 members of the UK public, spending over five hours engaging with them over a three week period. We focused on three particular use-cases to test a range of emotive responses - policing, parking and recruitment.\u00a0\u00a0"
+        },
+        {
+            "text": "The final stage was an in-depth co-design session, where participants worked collaboratively to review and iterate prototypes in order to develop a practical approach to transparency that reflected their expectations and needs for greater openness in the public sector use of algorithms.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What did we find?\u00a0"
+        },
+        {
+            "text": "Our research validated that there was fairly low awareness or understanding of the use of algorithms in the public sector. Algorithmic transparency in the public sector was not a front-of-mind topic for most participants."
+        },
+        {
+            "text": "However, once participants were introduced to specific examples of potential public sector algorithms, they felt strongly that transparency information should be made available to the public, both citizens and experts. This included desires for; a description of the algorithm, why an algorithm was being used, contact details for more information, data used, human oversight, potential risks and technicalities of the algorithm."
+        },
+        {
+            "text": "As the project continued and participants were shown mocked up prototypes of what this could look like in reality, some participants became more selective about what information they would realistically engage with as individuals. Participants began to consider how they would encounter this information in their day-to-day life, and the volume of information that they expect to see (although with the continuing expectation that \u201call\u201d of the information would be available somewhere). Participants prioritised information about the role of the algorithm, why it is being used, and how to get further information or raise a query.\u00a0"
+        },
+        {
+            "text": "In phase three of the research, participants worked together to design a prototype information format, and this tension between transparency and simplicity was resolved by allocating information categories to different tiers. Participants expected the information in \u2018tier one\u2019 to be immediately available at the point of, or in advance of, interacting with the algorithm, while they expected to have easy access to the information in \u2018tier two\u2019 if they choose to seek it out. They expected more that experts, journalists and civil society may access this \u2018tier two\u2019 information on their behalf, raising any concerns which may be relevant to citizens.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The research also found that ensuring transparency information about algorithm use in the public sector is accessible and understandable is a priority for participants. This refers both to communicating information in a digestible, easy to understand manner, as well as to making it possible for different groups to find the information, for example those without internet connection.\u00a0"
+        },
+        {
+            "text": "It was also interesting to note how different use-cases impacted how proactively participants felt transparency information should be communicated. We found that the degree of perceived potential impact and perceived potential risk influences how far participants trust an algorithm to make decisions, what transparency information they want to be provided with, and how they want this to be delivered."
+        },
+        {
+            "text": "For lower potential risk and lower potential impact use-cases, passively available transparency information \u2013 in other words, information that individuals can seek out if they want to \u2013 is acceptable on its own. For higher potential risk and higher potential impact use-cases there is a desire not just for information to be passively available and accessible if individuals are interested to know more about the algorithm, but also for the active communication of basic information upfront to notify people that the algorithm is being used and to what end. As part of this, it is felt that information should be more targeted and personalised.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "In addition to this public engagement work, CDDO, as policy sponsor, have been running a series of workshops with internal stakeholders and external experts, to discover what information on the use of algorithmic facilitated decision-making in the public sector they would like to see published and in what format. Its findings will be consolidated with the outcomes of this public engagement project and will inform the development of a standard for algorithmic transparency. The prototype of this standard will then be tested and evaluated in an open and participatory manner."
+        }
+    ]
+}

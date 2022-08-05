@@ -1,0 +1,78 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2021/11/19/supporting-strategic-decisions-with-statistical-modelling/",
+    "title": "Supporting strategic decisions with statistical modelling",
+    "authors": [
+        "Gina Mosquera - Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Modelling"
+    ],
+    "pub_date": "2021-11-19T14:20:03+00:00",
+    "content": [
+        {
+            "text": "Here in the Government Actuary\u2019s Department (GAD) we\u2019ve been using statistical techniques to analyse instances of fires in schools, allowing us to better understand and model them."
+        },
+        {
+            "text": "The team in GAD has been working on this as part of our ongoing role with the risk protection arrangement (RPA). The RPA is a mechanism through which the costs of risks are covered by government funds and is an alternative to commercial insurance for schools across England."
+        },
+        {
+            "text": "Schools that choose to opt into the RPA must pay a membership fee to the Department for Education (DfE)."
+        },
+        {
+            "heading": 2,
+            "text": "GAD\u2019s involvement"
+        },
+        {
+            "text": "As part of our work on the RPA, we use our actuarial skills to examine a range of issues including large fire losses in schools.\u00a0Thankfully, large school fires do not occur often. But when they do, damage can be significant."
+        },
+        {
+            "text": "The DfE recently conducted a consultation on fire safety design for schools. Our aim was to use the RPA data available to estimate the frequency of large fires in schools across England. This was used to complement our analysis to support decision making on the back of the consultation."
+        },
+        {
+            "text": "The RPA data provides information on claims made by academies in the arrangement, including the claim amount incurred in any significant fire experienced by an academy."
+        },
+        {
+            "text": "We combined this information with data on all school fires attended by the fire and rescue services, which covers both RPA and non-RPA schools. This dataset doesn\u2019t include information on claim amounts, but it does give details about the fire such as how it started or how far it spread."
+        },
+        {
+            "text": "We then used the combined dataset to develop a generalised linear model (GLM) that predicts the expected claim amount based on the characteristics of the fire."
+        },
+        {
+            "text": "The model was built using a machine learning algorithm. It cycles through the dataset of known fires and determines the combination of features that best explain the claim amount."
+        },
+        {
+            "text": "Among the variables selected in the model we have features like the:"
+        },
+        {
+            "text": "Once the model was built, we used it to input data on past fires that occurred in any schools across England. The model predicted the expected claim amount based on the characteristics of the fire. This then allowed us to determine how many of the fires were considered large in the wider school estate."
+        },
+        {
+            "heading": 2,
+            "text": "The power of data"
+        },
+        {
+            "text": "As with all models, the GLM relies on data to maximise its predictive power. Due to the small number of large fires that have occurred in the RPA, the results of the model are very sensitive to new data. As such, the model is currently used only as indicative support to our DfE policy colleagues in their strategic decision making."
+        },
+        {
+            "text": "As more years of data become available, we expect the predictive power of the model to improve significantly, making it a valuable tool for the RPA."
+        },
+        {
+            "heading": 2,
+            "text": "Outcome and lessons learnt"
+        },
+        {
+            "text": "A key part of the project was helping our governmental partners understand the model results and the uncertainty and limitations behind these results. As an example, we illustrated just how much the results could vary with small changes to the data."
+        },
+        {
+            "text": "The analysis has provided reassurance on the range of large fire frequency assumptions used to inform decision-making by DfE. Moreover, it has created a robust framework to build up on as more data becomes available. In this case, despite the data not being optimal from a theoretical point of view, the objective of supporting our DfE policy colleagues\u2019 analysis was achieved."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog\u00a0page."
+        }
+    ]
+}

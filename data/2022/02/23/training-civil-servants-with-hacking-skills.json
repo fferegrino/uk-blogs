@@ -1,0 +1,51 @@
+{
+    "url": "https://digitalpeople.blog.gov.uk/2022/02/23/training-civil-servants-with-hacking-skills/",
+    "title": "Training Civil Servants with Hacking Skills",
+    "authors": [
+        "Terence Eden - Senior Technology Policy Advisor - Digital Technology Specialist Apprentice"
+    ],
+    "categories": [
+        "Apprenticeships and internships",
+        "Digital data and technology",
+        "Training and progression"
+    ],
+    "pub_date": "2022-02-23T10:00:36+00:00",
+    "content": [
+        {
+            "text": "My name is Terence Eden. I'm a Civil Servant, an apprentice, and - as of today - Certified in the Art of Hacking."
+        },
+        {
+            "text": "The first question that people ask, when they hear that I've attended a course on hacking, is \"why do\u00a0 Government Departments need hackers?\""
+        },
+        {
+            "text": "It's simple. In order to defend our digital infrastructure and create services which are resistant to attack, we need Civil Servants who understand the tools available to modern hackers.\u00a0 The course I attended was an overview of modern computer vulnerabilities and how they can be exploited."
+        },
+        {
+            "text": "A group of us gathered (virtually) in a specially prepared lab. Each computer in the lab was a server running outdated or misconfigured software.\u00a0\u00a0"
+        },
+        {
+            "text": "The lab was specially prepared for our learning, so each machine was isolated from the Internet and did not hold any real data. Throughout the week, we learned about potential vulnerabilities like weak passwords and out of date software, and the steps we can take to protect systems, data, and users."
+        },
+        {
+            "text": "We looked for vulnerable plugins on blogging platforms, and open ports on servers. We riffled through exfiltrated logs looking for passwords and API keys. We found weak hashes, unsanitised user content, and privilege escalation bugs. Whether it was Windows or Linux, proprietary or open source, each system was thoroughly dissected and each flaw was carefully examined."
+        },
+        {
+            "text": "At the end of the week, we took an exam - to make sure we had understood the technologies we were dealing with."
+        },
+        {
+            "text": "We have entered an age of digital government. Data is the lifeblood of the Civil Service and we must make sure that it remains secure. A modern Civil Service needs a workforce that understands how to protect critical systems and defend against malicious users."
+        },
+        {
+            "text": "One of the best ways to prevent a hack is to understand the potential vulnerabilities that attackers often look for. By understanding the tools at their disposal, we are in a better position to keep our systems safe and secure."
+        },
+        {
+            "text": "If you are responsible for digital services, you are also responsible for the security of those services. And, as I've learned, a practical course in hacking is one of the best ways to learn those skills."
+        },
+        {
+            "text": "Find out more about Civil Service Apprenticeships"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

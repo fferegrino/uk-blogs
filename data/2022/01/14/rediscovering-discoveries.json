@@ -1,0 +1,84 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/01/14/rediscovering-discoveries/",
+    "title": "Rediscovering Discoveries",
+    "authors": [
+        "Dr Silvia Grant"
+    ],
+    "categories": [
+        "User Research"
+    ],
+    "pub_date": "2022-01-14T12:35:48+00:00",
+    "content": [
+        {
+            "text": "When we ran the cross-Defence discovery for the Foundry last year, we were fortunate enough to collect an incredibly rich set of user needs. From operational data needs in the deployed space, to more intuitive intranets, there really was much to uncover. So much in fact, that a year later the Foundry now encompasses many new or developing services, platforms and initiatives addressing all those Defence needs."
+        },
+        {
+            "text": "One such need was the ability to commission, run and manage Discoveries. This came up as a definite bundle of issues: from the people who initially request a discovery, to the team running it, to Alpha transition, to working in silos not knowing if someone has done that work already elsewhere."
+        },
+        {
+            "text": "The Foundry then hypothesised that a Defence Discovery as a Service offering might stem some of these issues. We ran a discovery to unpick this, and our findings were not as straightforward as we had anticipated."
+        },
+        {
+            "text": "For clarity, the Government digital service manual defines discoveries as the phase which you run before you commit to building a service, to understand the problem which needs to be solved. It was important for me to keep the original interpretation in mind of a discovery as I explored how it can morph across the delivery space."
+        },
+        {
+            "text": "Below is a brief summary of the highlights of what we found speaking to cross-Defence colleagues."
+        },
+        {
+            "heading": 2,
+            "text": "The discovery paradox"
+        },
+        {
+            "text": "Fundamentally, we have come across different perspectives of the discovery paradox in MOD. By this we mean that a new project (usually made up at this stage by one or two very well-meaning individuals) puts in a request to have resources to run a discovery because they want to understand a problem space. The business case underpinning this must be informed itself by discovery-esque user needs. The catch-22 is illustrated below:"
+        },
+        {
+            "text": "Teams have come up with workarounds, but ultimately this is where a cross-Defence Discovery as a Service might benefit prospective users. This technicality has been hampering the organic growth of discoveries, many times at the detriment to users. This also leads to re-discoveries and retroactive user research, neither of which are ideal solutions."
+        },
+        {
+            "heading": 2,
+            "text": "Not everyone needs a discovery"
+        },
+        {
+            "text": "In digital ways of working we have come to assume that discoveries are the optimal way to get things moving. Speaking to users about individual team needs, the reality is more nuanced. Some people just want to bolt-on new features on existing tools, others simply need to write a full business case (which will then lead to a full discovery), others have a good team but are in need of user researchers. Others are simply working on a demonstrator or demo. Funnelling these requests into the discovery pipeline can become problematic, and indeed output odd discoveries. There is also a growing use of pre-discoveries, or consecutive discoveries."
+        },
+        {
+            "text": "This was an important finding for us, as we went in assuming that an end-to-end discovery would be what users were after. Instead, there is a complex user need which is solutionised via discoveries. By triaging services early on, we can keep the discoveries clean, and direct services to their intended route (for instance, could be towards a power platform build)."
+        },
+        {
+            "heading": 2,
+            "text": "Discoveries have a bad reputation"
+        },
+        {
+            "text": "I heard this a lot from users, which was unexpected but also somehow makes sense. This is itself a consequence of the improper running of discoveries, many times ran informally without user researchers or BAs on board. We then see discoveries change name for \u2018investigation\u2019 or \u2018exploration\u2019."
+        },
+        {
+            "text": "The other half of the problem is that discoveries are not allowed to fail. In the early days of cross-government agile delivery, a failed discovery was often hailed as a success and saved capital. However, with increasing demand and pressure from the business, a failed discovery can be seen as a failed project. This is counter to the ethos of discoveries itself, and something we challenge as part of the digital culture shift and transformation in MOD."
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s hard to know who has done what"
+        },
+        {
+            "text": "The Ministry of Defence is structured in different top-level budgets, arm length bodies and executive agencies with a devolved funding structure. Our users are in excess of 300,000 not including Reservists and external consultants. Due to the sheer size of the digital demands, there is a possibility of duplicating existing or similar work, which can be exacerbated by short-term postings and turnover. In practice, this means that when running a project, it\u2019s difficult to know whether similar work has been done elsewhere in Defence."
+        },
+        {
+            "text": "We have recently launched our new pan-Defence communities of practice. Already the dots are being joined project-level and we are able to connect projects together. This is also where the Foundry, being created as cross-Defence, will be able to address this by directing projects to parts of interests during a triaging phase for discoveries."
+        },
+        {
+            "heading": 2,
+            "text": "The iceberg discovery"
+        },
+        {
+            "text": "Most of the projects ran by single services across Navy, Army, and Air are operationally complex. Not many services are purely transactional. And even in the informational service space, policy guidance is convoluted. This increasingly means that no single discovery is simple, or neat. In fact, most discoveries are messy, cannot validate an oversimplified set of objectives, and can identify the need to run several more branching discoveries. This is because there is a delivery need for a tool or a system in an operationally complex, and sometimes unmapped service design territory. Focussing on the \u2018digital\u2019 or \u2018tech\u2019 element of this without entirely understanding the overarching problem-space, means putting a strain on the delivery team and setting up for a narrowest of technical answers."
+        },
+        {
+            "text": "This leaves discoveries taking the blame for something which is far bigger, garbled, and more complex than a traditional discovery. You can then get, by this rationale, discoveries being run for 6+ months, and with uncommon project creep."
+        },
+        {
+            "text": "Overall, this was not the answer that I was looking for, but it\u2019s the one we needed. Discoveries need a nimble, proactive, and flexible delivery space, enabled by healthy in-house expertise. This also helped us identify that there is a cultural element necessary in rehabilitating the name of discoveries."
+        },
+        {
+            "text": "As we progress in this space, we will soon be able to process demand for cross-Defence discovery-style requests. Whether you are internal to MOD, or just interested in this space, you can get in touch with us via hello@digital.mod.uk"
+        }
+    ]
+}

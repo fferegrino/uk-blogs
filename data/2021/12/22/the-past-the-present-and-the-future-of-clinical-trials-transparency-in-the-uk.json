@@ -1,0 +1,80 @@
+{
+    "url": "https://medregs.blog.gov.uk/2021/12/22/the-past-the-present-and-the-future-of-clinical-trials-transparency-in-the-uk/",
+    "title": "The past, the present, and the future of clinical trials transparency in the UK",
+    "authors": [
+        "Martin O'Kane",
+        "Naho Yamazaki"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2021-12-22T08:17:32+00:00",
+    "content": [
+        {
+            "text": "The UK has been leading the way in supporting and promoting transparency of clinical trials. Following our exit from the EU, the MHRA has been monitoring compliance with registration of trials of medicines in World Health Organisation recognised public databases, and reporting of trial summary results, and has been pro-active in contacting sponsors to ensure transparency expectations are met.\u00a0 This complements the annual clinical trial registration audits carried out by the Health Research Authority (HRA). Moving forward, UK trials will be registered on behalf of sponsors on ISRCTN by the HRA, and a new, standardised end-of-study report to Research Ethics Committees will help facilitate and monitor compliance. In addition, an upcoming public consultation on potential changes to the UK legal framework for trials of medicines may help us embed transparency in legislation and introduce the ability to issue sanctions where this has not been complied with."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The past"
+        },
+        {
+            "text": "Prior to 1 January 2021, details of UK clinical trials of investigational medicinal products (\u2018CTIMP\u2019s) took a circuitous route to public disclosure.\u00a0 \u00a0The trial applicant would create an application form according to a structured data set in the European database (EudraCT), convert this to an Extensible Markup Language \u2018XML\u2019 file, download this XML file - and a corresponding PDF file - locally, and then submit these in an application package for a clinical trial authorisation to the MHRA, along with their core trial documentation. \u00a0On receipt, MHRA would upload the completed XML file back into the EudraCT database and enter the date of approval."
+        },
+        {
+            "text": "The EudraCT database was established in Article 11 of the Clinical Trials Directive 2001/20/EC to be accessible only to the competent authorities of the Member States, the European Medicines Agency and the European Commission.\u00a0 Subsequent changes to the EU pharmaceutical legislation allowed some of the information held in the EudraCT database to be made public, and this is what is published in the EU Clinical Trials Register."
+        },
+        {
+            "text": "While details of study protocols appear in the EU Register via uploading of information to EudraCT by the regulator, it is the trial sponsors responsibility to ensure that the protocol information and results of all clinical trials are posted in EudraCT for publication. European guidance states that this posting is considered as the submission of the clinical trial summary report as part of the end-of-trial-declaration to national competent authorities, which makes national monitoring of compliance difficult.\u00a0 An audit by the European Medicines Agency in April 2019 showed that results were lacking for over 30% of studies in the database, varying widely between commercial and non-commercial sponsors. \u00a0Other international studies have suggested even lower levels of compliance."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The present"
+        },
+        {
+            "text": "Since January 2021 the MHRA no longer has access to the EudraCT database and therefore there was a danger that UK clinical trials would not appear in a public register, as trial sponsors themselves cannot directly publish their trials in the EU Register."
+        },
+        {
+            "text": "Although there is currently no explicit statutory requirement for registration, any favourable opinion given by a UK Research Ethics Committee is subject to the clinical trial being registered on a publicly accessible database. \u00a0\u00a0In December 2020, MHRA and HRA published guidance to trial sponsors stating that they should use existing and established international registers such as the\u00a0ISRCTN registry, or\u00a0ClinicalTrials.gov, to ensure the public is aware of their trial. \u00a0The current system for requesting a deferral from registration remains in place and sponsors can contact the HRA if they have a legitimate reason for requesting a deferral."
+        },
+        {
+            "text": "The MHRA application form includes a field where applicants can enter the registry numbers(s) where their trial is publicly available.\u00a0 Where this is not available at the time of application, we have requested that this is emailed to the MHRA within six weeks of recruiting the first research participant.\u00a0 Our team monitor this and send reminder emails to applicants to ensure that this information is captured to monitor compliance.\u00a0 For trials received in the first six months of this year compliance with registration was 99.2% for those studies where no deferral was granted.\u00a0 "
+        },
+        {
+            "text": "In terms of results reporting, where a UK trial was registered in the EU Register prior to 31 December 2020 the summary results can continue to be posted by the sponsor via EudraCT (however, MHRA cannot update the status of the trial to \u2018completed\u2019).\u00a0\u00a0 For new trials, the results should be published in the public register where the study is registered and the MHRA informed when this is done.\u00a0 We have updated our IT system so that we can run a report for end of trial notifications received and follow-up with the trial sponsor where a case has not been closed (ie results reported). \u00a0\u00a0For the first six months of this year compliance with summary results publication was 86% (ie trials where the end of trial notification was received in the first 6 months of 2019).\u00a0 This isn\u2019t the 100% we are aiming for but is a really encouraging figure compared with international performance. Unsurprisingly, when we followed-up with sponsors the pandemic was quoted as the main reason for non-compliance. Staff shortages and changes to working arrangements had an impact, as did unavailability of laboratory resource for analysis of data. Others quoted technical issues with the EudraCT system that needed to be resolved before their results become public."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The future"
+        },
+        {
+            "text": "On 20th October the HRA announced a partnership with the ISRCTN registry, a primary clinical trial registry recognised by the World Health Organisation (WHO).\u00a0 From early 2022 the HRA will register clinical trials with ISRCTN, starting with clinical trials of investigational medicinal products, taking the burden away from research sponsors and researchers."
+        },
+        {
+            "text": "HRA has developed an updated study final report, with support from MHRA and other Integrated Research Application System (IRAS) Partners, which will act as a compliance monitor for registration and reporting moving forward. MHRA will also continue to send reminders to sponsors when summary results are due and flag non-compliance to its Good Clinical Practice (GCP) inspectorate."
+        },
+        {
+            "text": "We also want to ensure transparency is made easy.\u00a0 Working in partnership with ISRCTN, we will review the clinical trial application form so that we capture all the information required for registration and minimise duplication of effort by applicants."
+        },
+        {
+            "text": "A significant advantage of all UK trials being registered in ISRCTN is that, in addition to the HRA\u2019s website which provides a summary of all research reviewed by a Research Ethics Committee, the information in the UK Be Part of Research website will be much more complete and accessible. Be Part of Research is an online service that provides an opportunity to help members of the public understand what research is and what it might mean to take part, as well as showing what research is currently happening across the UK. Study data on this site is refreshed weekly and comes directly from two databases, the ISRCTN Registry and ClinicalTrials.gov (studies registered only in the EU clinical trial registry have never been visible in Be Part of Research). \u00a0\u00a0As all UK clinical trials of investigational medicinal products will now be registered in the ISRCTN registry, these will all be visible on Be Part of Research."
+        },
+        {
+            "text": "Current UK legislation is silent on transparency requirements; however, the Medicines and Medical Devices (MMD) Act 2021 which gained Royal Assent in February of this year provides us with the opportunity to design a regulatory environment for clinical trials that will support the development of innovative medicines and ensure that the UK remains a favourable base for life sciences for the benefit of UK patients."
+        },
+        {
+            "text": "We have been working with stakeholder partners, including patients, to develop proposals for public consultation and are considering legislating\u00a0for\u00a0provisions in\u00a0the \u201cMake it Public\u201d strategy.\u00a0 This\u00a0 includes introducing a proposal for a legal requirement to register a trial in a public register prior to its start and to publish a summary of results in a timely manner i.e. 12 months following the end of the trial (unless otherwise justified and authorised).To ensure protection of participants remains at the heart of legislation, we would also consider introducing a requirement to make information about the outcome of the trial available, in a suitable format, to participants within a timely manner."
+        },
+        {
+            "text": "We are also considering what appropriate sanction legislation could offer to drive registration and reporting."
+        },
+        {
+            "text": "The public consultation on proposals for new clinical trials legislation will be available soon.\u00a0 Please do take the opportunity to give your views on introduction of requirements for transparency of clinical trials and a broad range of other aspects to enhance the UK landscape for clinical research."
+        }
+    ]
+}

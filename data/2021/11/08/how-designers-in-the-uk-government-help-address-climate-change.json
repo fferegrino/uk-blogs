@@ -1,0 +1,124 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/11/08/how-designers-in-the-uk-government-help-address-climate-change/",
+    "title": "How designers in the UK government help address climate change",
+    "authors": [
+        "Martin Jordan \u2013 former Head of Service Design, GDS",
+        "Tha\u00eds Tozatto Maio \u2013 Senior service designer, GDS"
+    ],
+    "categories": [
+        "Design",
+        "Service Design"
+    ],
+    "pub_date": "2021-11-08T09:01:53+00:00",
+    "content": [
+        {
+            "text": "Over the past few years, the UK government has shown an increasingly strong commitment to addressing climate change. It has set ambitious targets on all levels: central, devolved and local government. On a national level, it has adopted a 2035 deadline for a 78% reduction in emissions and targets net-zero emissions by 2050."
+        },
+        {
+            "text": "In the last few years, designers in central and local governments have worked on climate change-related topics from various angles. This blog post gives an overview of the multiple subjects and areas of their work designing with the planet in mind."
+        },
+        {
+            "heading": 2,
+            "text": "Areas of climate change-related design work"
+        },
+        {
+            "text": "Throughout the 2010s, many government organisations established agile, evidence-based and user-centred ways of working, with multi-disciplinary teams working on policies, services and other forms of government action. In these teams, designers work closely with policy advisors, economists, product managers, developers, front-line staff and many other disciplines. Initially, most designers were part of digital service delivery teams. Now, they increasingly work within user-centred policy labs and with operations colleagues too."
+        },
+        {
+            "text": "Designers, especially service designers, play a crucial role in identifying the root causes of problems, mapping user journeys and systems and processes, scoping work, facilitating shared understandings, and exploring and prototyping solutions to the issues identified."
+        },
+        {
+            "text": "Unsurprisingly, more designers\u2019 work has intersected with climate, environmental and sustainability-related issues over the past few years. This has been partly driven by department-level commitments and work but also by individual civil servants\u2019 concerns about the climate emergency and a need to respond to it. Designers have proactively undertaken further work, including a monthly cross-government climate work show and tell, climate change-related service design meetups, and contributions to the cross-industry \u2018Design + Climate\u2019 community."
+        },
+        {
+            "text": "While they are not necessarily applying novel tools and techniques, their subjects and work areas have shifted. But as service designers are trained to understand contexts, investigate problems, and take a big picture view, applying these approaches to broad, complex and long-term issues is natural to many. Increasingly, they look at system-level change and move work further upstream."
+        },
+        {
+            "text": "We have reviewed the work of designers and design-minded professionals across many parts of the UK government, identifying 5 main areas where they are addressing climate change:"
+        },
+        {
+            "heading": 3,
+            "text": "1. Designing services dealing with more obvious and current effects of emerging climate change"
+        },
+        {
+            "text": "Designers from Defra (the Department for Environment, Food and Rural Affairs) and its agencies and public bodies have been working on services directly and indirectly linked to the current effects of emerging climate change. Among them are services related to farming, waste management, and flood-warning systems."
+        },
+        {
+            "text": "One in six households in the UK is at risk of flooding, so designers and user researchers have been working on a range of services that allow users to understand historical, current and future risks. Users can check for flooding in their area, \u200b\u200bsign up for flood warnings via phone, email and text message, check flood maps for planning purposes and report flooding themselves.\n\nIn farming, Defra\u2019s designers have been working on new policies to reward farmers for delivering environmental public goods, including mitigation and adaptation to climate change. "
+        },
+        {
+            "heading": 3,
+            "text": "2. Designing preventative measures to lower environmental impact"
+        },
+        {
+            "text": "Poor air quality remains the largest environmental risk to public health in the UK. Interaction and service designers have worked on a service enabling car drivers to check and pay a Clean Air Zone charge for certain cities and regions while encouraging them to make their next car electric."
+        },
+        {
+            "text": "A few years ago, user-centred policy designers helped the Department for Transport speculate on the future of rail, based on key trends and factors that will influence policy decisions in the next 20 years."
+        },
+        {
+            "text": "In Her Majesty\u2019s Revenue and Customs department, service designers worked closely with policy professionals to map supply chains, model impact scenarios, and implement a plastics packaging tax."
+        },
+        {
+            "text": "Designers are also helping improve waste collection and recycling, making rules on what can be recycled at local government level more consistent and thereby reducing confusion for people moving neighbourhoods."
+        },
+        {
+            "heading": 3,
+            "text": "3. Establishing good climate-friendly practice on platform and standards level"
+        },
+        {
+            "text": "In the most central part of the UK government, the Cabinet Office\u2019s digital transformation unit Government Digital Service (GDS), designers and technologists have looked at the impact of digital services on the climate and how to reduce it."
+        },
+        {
+            "text": "As part of a sustainability network,\u00a0one group estimated the electricity usage for hosting services and data and their related CO\u2082 emissions. Other people reduced the size of web-based service frontends. They thereby decreased the computational power required on a users\u2019 device. Loading no images, smaller fonts, and less text on a government service minimises the energy used by a citizens\u2019 phone or computer and, therefore, their emissions, too. At the same time, such interventions help make services more accessible and inclusive by reducing the network data required to access the services, which can be taxing for people with budget data plans. Providing hosting services, prototyping tools and design systems for all parts of the UK government from the centre allows such apparently minor improvements to have an impact at a significant scale."
+        },
+        {
+            "text": "In addition, teams responsible for service and technology standards are launching a new standard point on sustainability that will be tied to government spend controls. That means service teams will have to consider early on how they can use the latest sustainable technology and have the smallest possible carbon footprint."
+        },
+        {
+            "heading": 3,
+            "text": "4. Increasing awareness, understanding and knowledge of how public servants can contribute"
+        },
+        {
+            "text": "With intensifying public discourse and media attention, more and more public servants started wondering how to make a positive difference through their professional roles."
+        },
+        {
+            "text": "OneTeamGov, a growing group of public sector innovators that started in the UK and quickly grew globally, too,\u00a0held a series of OneGreenGov events in early 2020\u00a0that focused on addressing climate change through public service. In \u2018unconference\u2019 formats, they discussed tackling the climate emergency, pollution, and inequity caused by climate events."
+        },
+        {
+            "text": "At GDS, design trainers integrated climate-focused exercises into cross-government service design training, building on a previously outlined policy proposal of individual carbon budgets and flight credits. It creates awareness and discussion among service designers to-be and participants designing public services."
+        },
+        {
+            "text": "Most recently, design leaders at Defra worked with the design consultancy Snook on a custom planet-centred design course for all of their designers. The training will enable them to raise climate change-related questions and considerations in all project phases and also form a growing community of practice around planet-centred design."
+        },
+        {
+            "heading": 3,
+            "text": "5. Engaging citizens through participation and co-design"
+        },
+        {
+            "text": "The behavioural changes necessary to meet emission reduction targets require an even more inclusive approach when designing future policies and services. That is why government organisations started intensifying their citizen engagement beyond widely common ethnographic user research practices, working with under-represented groups often far away from decision-making and power. It also reflects the collective recognition of the limits of the user-centred design approach and the potential of design to play a significant role in orchestrating necessary shifts in decision-making.\n\nOn a local level, Camden Council in northwest London has used a public consultation to co-draft its Climate Action Plan, a five-year programme of projects and activities to bring its vision of a zero-carbon borough to life."
+        },
+        {
+            "text": "Service designers have also supported setting up a climate assembly in Blackpool, a seaside resort at the northwest coast of England after the local council declared a climate emergency in summer 2019. In four virtual assemblies, 40 Blackpool residents co-created a report summarising their ideas and recommendations for the local authority."
+        },
+        {
+            "text": "In the last few months, the London Borough of Hammersmith & Fulham and Adur & Worthing Councils in West Sussex hired service designers to lead their climate engagement and community participation efforts. Their work includes inspiring behavioural change on a local level, changing the narrative from loss to regeneration and ensuring everyone is included in the transition to a low-carbon future. The roles also bridge organisational design and confront changes to power and internal structures necessary to deliver a just transition. "
+        },
+        {
+            "text": "In central government, various departments started adopting co-design approaches, leading to a shift of power from public servants to citizens. For example, Defra\u2019s Future Farming programme directly involved farmers and other experts on the design of environmental land management."
+        },
+        {
+            "heading": 2,
+            "text": "What designers can do"
+        },
+        {
+            "text": "Designers have been working on a wide range of climate change-related issues over the past few years. And they are likely to do more of it in the future as the UK government is increasing its efforts in line with ambitious targets."
+        },
+        {
+            "text": "The observations from the identified work areas are equally relevant to designers in other areas of the public and even the private sector. There, in-house and consulting designers can establish service patterns and design system components that consider the planet and future users in similar ways."
+        },
+        {
+            "text": "Designing for low emissions can happen in all service areas, not only those directly related to climate change, and can start with small steps and contributions."
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/07/29/how-were-saving-publishers-time-by-converting-formatted-text/",
+    "title": "How we're saving publishers time by converting formatted text",
+    "authors": [
+        "Tobi Ogunsina, Senior Product Manager, GDS",
+        "Kevin Dew, Lead Developer, GDS",
+        "Dilwoar Hussain, Senior Frontend Developer, GDS"
+    ],
+    "categories": [
+        "Content",
+        "Product changes"
+    ],
+    "pub_date": "2022-07-29T11:39:50+01:00",
+    "content": [
+        {
+            "text": "Civil servants publish content on GOV.UK using our provided publishing tools. Content is formatted in those tools by text that utilises the markdown standard. Markdown is an approach to text input that allows inputting information such as paragraphs, headers, lists and links via a simple text input system. It is designed to be both simple to write and simple to read."
+        },
+        {
+            "text": "For GOV.UK we have developed our own variant of markdown that is called Govspeak; this enhances markdown with GOV.UK-specific needs - such as calls to action and legislative lists."
+        },
+        {
+            "text": "We know that pasting from other sources is a standard practice for publishers. They may be adapting content from a word-processing tool for the web, or they could be collating information from existing sources, such as policies and web pages. Often the content that is pasted has structure that a publisher may want to keep, such as headings, lists or hyperlinks."
+        },
+        {
+            "text": "However, when you paste content into the form fields of a website, the default web browser behaviour is for this extra formatting information to be removed and for the pasted content to be plain text. For a publisher this meant going back and re-adding that formatting as markdown."
+        },
+        {
+            "text": "We developed a tool that would retain that information and therefore save publishers time by not needing to re-add the information. In internal research we found that using this tool can cut the time spent applying formatting to pasted content dramatically by up to 95%. We estimate that the vast majority of content on GOV.UK is drafted to some degree before a GOV.UK publishing tool is used."
+        },
+        {
+            "text": "Given that there are more than 2,000 active publishers for GOV.UK who have produced more than 60,000 new pieces of content in the last 6 months, this therefore has the potential to produce a significant accumulative time save for publishers with the potential to reduce input time on the vast majority of documents worked on over the next 6 months."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "The tool we created is for our publishing applications and improves the pasting experience when using input fields that accept markdown. This tool determines, at the point of a pasting, whether there is semantic structure to the content and applies the appropriate markdown to the content. This means the original formatting of the content is kept and represented in the converted markdown."
+        },
+        {
+            "text": "The tool supports the most common forms of text formatting used on GOV.UK which are:"
+        },
+        {
+            "text": "The tool is called paste-html-to-govspeak and is available open source. You can view the source code on GitHub or try it out for yourself on our demo page."
+        },
+        {
+            "heading": 2,
+            "text": "How it works"
+        },
+        {
+            "text": "Whilst the default behaviour of pasting in a web browser is to output plain text, there are browser technologies that allow developers access to alternative formats of the content that is being pasted. These can include a rich-text version, which retains formatting information. This type of technology is what enables pasting between applications to share styling information, for example how pasting from a Microsoft Word document into a different application can retain the font information."
+        },
+        {
+            "text": "Our tool makes use of those browser technologies to try to access a rich-text version (we use HTML) at the point of pasting. If this is available we can then convert this HTML into markdown (preserving the formatting). If it\u2019s not available it falls back to the browser default of plain text."
+        },
+        {
+            "text": "What we actually built isn't too complicated as we make use of a number of excellent open source projects that make this possible. The most notable of these is Turndown, which is a tool that converts HTML to markdown. We were able to combine this with the aforementioned browser APIs to apply the formatting at the point of pasting."
+        },
+        {
+            "text": "In order for the tool to operate it needs the copied data to be in a rich format. Therefore the success of a pasting depends on whether the application that is used for copying the data puts this data into the clipboard as structured information."
+        },
+        {
+            "text": "In our testing we\u2019ve found that this is typically problematic with visual presentation formats such as PDFs, which rarely understand the semantic structure of content (for example, whether text is a heading or if it\u2019s just some text in a big size) and therefore don\u2019t provide the clipboard with enough information that structured information can be determined."
+        },
+        {
+            "heading": 2,
+            "text": "What happens now"
+        },
+        {
+            "text": "Publishers can now paste formatted text when producing GOV.UK content and have formatting information preserved in the input. Because of how it works, it is best when copying and pasting from text editing software like Microsoft Word or Google Docs. It is less likely to recognise formatting from PDFs."
+        },
+        {
+            "text": "We\u2019ve received positive feedback from publishers:"
+        },
+        {
+            "text": "We look forward to hearing more from publishers who are using this functionality and considering any future ways it can be improved."
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch"
+        },
+        {
+            "text": "We are continuing to make improvements to the publishing experience, such as making it easier for publishers to share previews of their work."
+        },
+        {
+            "text": "If you have any questions or feedback about this update or publishing, you can reach us by email."
+        },
+        {
+            "text": "We also want to hear from our users - publishers in government. We are running regular sessions to test our ideas and learn from this cohort."
+        },
+        {
+            "text": "To sign up and take part in user research, sign up through the Google form or by emailing us."
+        }
+    ]
+}

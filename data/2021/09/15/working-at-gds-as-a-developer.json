@@ -1,0 +1,81 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/09/15/working-at-gds-as-a-developer/",
+    "title": "Working at GDS as a developer",
+    "authors": [
+        "Pea Tyczynska - Developer for Government as a Platform (GaaP), Government Digital Service",
+        "Alex Wilson - Senior Developer and Tech Lead for Digital Identity, Government Digital Service",
+        "Kelvin Gan - Senior Developer and Tech Lead for GOV.UK, Government Digital Service"
+    ],
+    "categories": [
+        "GDS team",
+        "People and skills",
+        "Ways of working"
+    ],
+    "pub_date": "2021-09-15T09:45:18+01:00",
+    "content": [
+        {
+            "text": "The Government Digital Service\u2019s (GDS) ambition is to build platforms, products and services that help create a simple, joined-up and personalised experience of government to everyone."
+        },
+        {
+            "text": "In a recent podcast we discussed how technologists ensure delivery across GDS\u2019s 5 missions through resilient infrastructure and tooling. We\u2019re looking for developers to join us\u00a0and improve our services used by millions of people across the UK."
+        },
+        {
+            "text": "Interested in this opportunity? Read what 3 developers do in their day-to-day roles and find out more about life at GDS."
+        },
+        {
+            "heading": 2,
+            "text": "Kelvin Gan - Senior Developer and Tech Lead, GOV.UK"
+        },
+        {
+            "text": "GDS is full of good people doing good work and I really love working on GOV.UK. The impact of what we do is wide-reaching across all of society. People depend on GOV.UK to find help, such as the benefits you\u2019re entitled to, or support in starting up a business."
+        },
+        {
+            "text": "I'm also currently a tech lead on a team that is working to improve navigation on GOV.UK. Each day usually involves a lot of code reviews with a focus on ensuring we stick to standards, such as those set out in the GDS Way; planning work for the developers; thinking through the technical approaches we can take to deliver my team's bit of the roadmap; and finally coding!"
+        },
+        {
+            "text": "It's a challenging but rewarding role, where I get to utilise my skills by supporting and getting the best out of other developers. I have a high-empathy personality, and I'm really pleased I'm in a place where I can make a positive impact that way."
+        },
+        {
+            "heading": 2,
+            "text": "Pea Tyczynska - Developer, Government as a Platform (GaaP)"
+        },
+        {
+            "text": "I'm a developer on GOV.UK Notify, which sits within the GaaP programme. Notify helps public sector services contact their users via SMS, emails and letters. This means that our system deals with a wide range of things: from numerous user journeys for creating and sending notifications via our interface and API integrations, handling character encodings and limits for SMS, to PDF-processing for letters."
+        },
+        {
+            "text": "My day starts with a \u201cstand-up\u201d, where we share what we plan to work on and see if anybody needs help. If I'm working on something new, I'll organise a kick-off to double-check I have all the information I need and then I will code either in a pair or on my own. I would normally work on things like building a new feature for our web app, a maintenance task for our infrastructure, or sometimes fixing a bug. Around once a week I'm on the support rota, which means answering technical queries from our users and keeping an eye on our logs and metrics to make sure everything is running smoothly."
+        },
+        {
+            "text": "In the afternoon, I might have a meeting or two. Sometimes those meetings will be related to my team work, and sometimes they may be related to one of the clubs or networks I am part of. For example, I\u2019m the lead for the Meditation Club, so I facilitate a daily meditation session at work."
+        },
+        {
+            "text": "Working remotely during the pandemic has really made me appreciate the flexibility that my job offers me. Once we return to the office, I'll split my time between working at home and the office so I can catch up with my colleagues in person but also avoid sensory overload."
+        },
+        {
+            "heading": 2,
+            "text": "Alex Wilson - Senior Developer and Tech Lead, Digital Identity"
+        },
+        {
+            "text": "I'm a senior developer and tech lead on the authentication team, part of the Digital Identity programme, working on building a single sign-on and digital identity solution for government."
+        },
+        {
+            "text": "I\u2019m responsible for making sure the team has what they need, removing blockers and uncertainty from our path, and ensuring the way we plan and divide up technology work is effective for what we\u2019re trying to achieve."
+        },
+        {
+            "text": "Another big part of my role is building relationships with teams that are stakeholders in what we\u2019re creating, such as the privacy, information assurance, and counter-fraud teams."
+        },
+        {
+            "text": "I still write code and deliver technology-focused features but these tend to be smaller pieces of work rather than pieces on the critical path. These are shared among the team to give everyone a chance to learn and develop, and additionally so that opportunities to work on key features are open to everyone who wants them."
+        },
+        {
+            "text": "Outside of my day-to-day role, I\u2019m also part of the organising group for the Technology Community Meetup, which is a session every 6 weeks for technologists to come together and share their experiences through lightning talks, or to participate in workshops."
+        },
+        {
+            "heading": 2,
+            "text": "What can you do next?"
+        },
+        {
+            "text": "If you\u2019d like to find out more about problems GDS developers have worked on, check out these blog posts:"
+        }
+    ]
+}

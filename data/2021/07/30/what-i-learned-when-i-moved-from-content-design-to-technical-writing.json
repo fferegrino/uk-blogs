@@ -1,0 +1,127 @@
+{
+    "url": "https://technology.blog.gov.uk/2021/07/30/what-i-learned-when-i-moved-from-content-design-to-technical-writing/",
+    "title": "What I learned when I moved from content design to technical writing",
+    "authors": [
+        "Mark Green, lead technical writer, CDDO"
+    ],
+    "categories": [
+        "Tools"
+    ],
+    "pub_date": "2021-07-30T09:00:17+01:00",
+    "content": [
+        {
+            "text": "In April 2019, I became one of the few content designers at the Government Digital Service (GDS) to move roles to become a technical writer.\u00a0"
+        },
+        {
+            "text": "I\u2019m now starting my third year as a technical writer and joining the Central Digital and Data Office (CDDO). So it feels like a good opportunity to try to answer the question that people ask me a lot: what\u2019s the difference between a content designer and a technical writer?"
+        },
+        {
+            "heading": 2,
+            "text": "Who we write for"
+        },
+        {
+            "text": "There are 13 technical writers at CDDO and GDS, and more across government. You can read a previous blog post on what it\u2019s like being a technical writer."
+        },
+        {
+            "text": "Technical writers are made up of:"
+        },
+        {
+            "text": "We write specifically for technologists in government who need to do things with digital technology. That means our users include:"
+        },
+        {
+            "text": "Content designers write more generally for pretty much everyone else who needs to get something done with government. For example at GDS, content designers write a huge range of content to help users do everything, from applying for a driving licence, to knowing what you can and cannot do during the coronavirus (COVID-19) lockdown, to getting a general understanding of GDS services like GOV.UK Pay."
+        },
+        {
+            "text": "As technical writers, we still make things better for the ultimate users of a public-facing service. However, we make that difference not by working directly on the service, but by helping technologists choose and use technology that makes services better, safer and more reliable."
+        },
+        {
+            "text": "One important caveat: \u2018technical content\u2019 has a wider definition outside CDDO and GDS. For example you\u2019ll find technical content on GOV.UK for tax specialists, or for technicians doing an MOT. A content designer or a technical writer could work on technical content, depending on the department. But in this blog post, we\u2019ll focus on digital technology."
+        },
+        {
+            "heading": 2,
+            "text": "How technical writers work"
+        },
+        {
+            "text": "As technical writers, we\u2019re user-centred design (UCD) people just like content designers. So to do our jobs, the skills we need and the way we work are almost exactly the same. We:"
+        },
+        {
+            "text": "Both roles are part of government\u2019s Digital, Data and Technology Profession Capability Framework. You can compare the skills content designers need and the skills technical writers need to see how similar we are."
+        },
+        {
+            "text": "But as technical writers, we bring a very particular set of extra skills."
+        },
+        {
+            "heading": 3,
+            "text": "Love of learning and using digital technology"
+        },
+        {
+            "text": "Technical writers usually bring more hands-on experience of technology than content designers need. We need to be really comfortable talking about, writing about and using technology."
+        },
+        {
+            "text": "We do not need to know everything about the technology we\u2019re writing about. But it's important to have some understanding so we can talk comfortably with our subject matter experts, ask the right questions, and know when users may not be familiar with a term that a subject matter expert wants to use."
+        },
+        {
+            "text": "Diving into technology is particularly important for documentation writers like me. We write very technical instructions on using application programming interfaces (APIs) and include detailed code examples. One of the best ways to check what we write is to actually start up the technology and try it out ourselves."
+        },
+        {
+            "text": "It also helps to bring some knowledge of best practice in technology content. Our writing process is not very different to content designers: we use plain language, write short sentences, create a clear heading structure and so on. But technical writers need to understand and meet the needs of technologists, who expect and search for certain terms and headings."
+        },
+        {
+            "text": "Having an affinity for technology is also a big help with our next skill: using a \u2018docs as code\u2019 approach."
+        },
+        {
+            "heading": 3,
+            "text": "The \u2018docs as code\u2019 approach"
+        },
+        {
+            "text": "We\u2019ve blogged before about why documentation writers use a \u2018docs as code\u2019 approach. It\u2019s about working in the same processes and tools as the technologists on our team - so technical writers and their subject matter experts can work on and iterate documentation collaboratively and nimbly."
+        },
+        {
+            "text": "So as documentation writers we need to be comfortable:"
+        },
+        {
+            "text": "I had a lot to learn around these skills when I moved roles. It was nowhere near as scary as it seemed, and I love it all now. My setup feels so much more flexible and customisable than using a CMS, and - after getting my head around Git - it now feels easier to keep track of drafts and changes.\u00a0"
+        },
+        {
+            "text": "Guidance writers do not need to be familiar with Git and GitHub - they work in the Whitehall publisher CMS."
+        },
+        {
+            "heading": 3,
+            "text": "Strong engagement and advocacy"
+        },
+        {
+            "text": "You do not have to look very hard to find the world\u2019s developers crying out for better documentation. For example:"
+        },
+        {
+            "text": "There are quite a lot of tech writers at CDDO and GDS by industry standards. But - despite those stark industry survey results - it feels far less likely you\u2019ll see a technical writer on a team than see a content designer. Content for citizens has come a long way since Sarah Richards wrote about the editorial approach for GOV.UK back in 2013, but I\u2019d argue that content for technologists has some catching up to do."
+        },
+        {
+            "text": "When technical writers are on a team, we\u2019re embedded with our extremely busy subject matter experts, who may not have worked directly with a UCD-based technical writer. So we need to work extra hard to engage and advocate. That means:"
+        },
+        {
+            "text": "Our subject matter experts are sometimes our users too. We often work on internal content that documents our teams\u2019 own technology and processes, which brings its own challenges and unique ways of working.\u00a0"
+        },
+        {
+            "text": "We also need to work very closely with the content designers on our teams, to triage content requests, assign them to the right person and divide up the work. Sometimes that means working as a pair on writing content."
+        },
+        {
+            "heading": 2,
+            "text": "You can become a technical writer too"
+        },
+        {
+            "text": "I got into technical writing because I\u2019d always had a deep love for technology. I\u2019ve been a passionate coder since my mum and dad got me a prized ZX Spectrum for my seventh Christmas in 1983. After joining GDS, I realised technical writing perfectly combined that passion with my love of content and writing. I\u2019ve loved every minute of it."
+        },
+        {
+            "text": "Technical writers can come from lots of different backgrounds. The technical writer community includes former journalists, product managers and marketers."
+        },
+        {
+            "text": "As I mentioned briefly above - if you\u2019re a content designer, it\u2019s worth knowing that guidance writers in CDDO work in the Whitehall CMS and rarely need to write code examples or test technology. So it\u2019s a slightly gentler step from content design than the documentation writing I do.\u00a0"
+        },
+        {
+            "text": "We\u2019d love to talk to you if you\u2019re interested in becoming a technical writer. We can also help if you\u2019re a content designer who\u2019s been asked to work on technical documentation, like API or data documentation."
+        },
+        {
+            "text": "You can read more about technical writing and get in touch with us on our technical writing community page."
+        }
+    ]
+}

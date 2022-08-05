@@ -1,0 +1,85 @@
+{
+    "url": "https://digitalhealth.blog.gov.uk/2022/06/08/why-should-we-build-services-using-a-design-system/",
+    "title": "Why should we build services using a design system?",
+    "authors": [
+        "Conor Rohan"
+    ],
+    "categories": [
+        "Assurance",
+        "Content",
+        "Design"
+    ],
+    "pub_date": "2022-06-08T17:05:20+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What is a design system?"
+        },
+        {
+            "text": "A design system is a set of guides, design patterns, conventions and resources to build a website or digital service in the style of a particular organisation. When building for users of health and care services, we have two main options; the NHS.UK design system and the GOV.UK design system.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why is it important to use design systems?"
+        },
+        {
+            "heading": 3,
+            "text": "Transparency"
+        },
+        {
+            "text": "Both the NHS.UK and the GOV.UK design systems are open-source, meaning that anyone can access the guidance and code used to build the frontend toolkits, and can feed back into them as they build out their own services on the back of them. As well as getting all the practical benefits of working in the open, this also helps us to be more accountable to our users, keep control over the code we have written and retain the ability to easily make changes to our services in the future."
+        },
+        {
+            "heading": 3,
+            "text": "Save time, effort & money"
+        },
+        {
+            "text": "The NHS.UK and the GOV.UK design systems have been developed, tested and iterated by dedicated teams and by their users over many iterations. They continue to receive major updates, and the fruit of all this hard labour has been made accessible for free to anyone who wants to use it! Your service team will be unlikely to replicate the degree of testing on accessibility, responsiveness and general usability without a large investment. Design systems let us take a shortcut by borrowing what has already been done."
+        },
+        {
+            "heading": 3,
+            "text": "Building trust in our services"
+        },
+        {
+            "text": "When we give advice to users on how to spot phishing and spoofing attacks, we tell them to look out for inconsistencies in the design of web pages, in the style of writing and in domain naming. It is important that users are able to trust the web services that we build for them, and part of that is adopting patterns which exist, are mature and are familiar to our users. Unfortunately, design systems also make it easier for fake sites and disreputable services to make themselves look like our own, so it\u2019s even more important to avoid muddying those waters by having official sites which are not built using the latest design patterns, with content written to a standard style and registered to a subdomain of GOV.UK or NHS.UK with a valid security certificate."
+        },
+        {
+            "heading": 3,
+            "text": "Consistency"
+        },
+        {
+            "text": "Design systems help us to build websites which look and feel the same as each other, even if they are built by different and separate teams and organisations. While the NHS and central government is made up of lots of organisations with distinct identities and cultures, our users expect to be interacting with \u2018the NHS\u2019 or \u2018the Government\u2019. When we build web services which are inconsistent with each other, we undermine that expectation."
+        },
+        {
+            "heading": 3,
+            "text": "Community"
+        },
+        {
+            "text": "Design systems benefit from a network effect. The more of us who are using and contributing to them, the more likely they will be to have whatever the next set of users are looking for. By building a community around a design system we can easily share our best work with other teams trying to solve similar problems and answer each other\u2019s questions."
+        },
+        {
+            "heading": 2,
+            "text": "Should I use the NHS.UK or the GOV.UK design system?"
+        },
+        {
+            "text": "Consider who your users are and who they expect to be providing the service. If you don\u2019t know the answers, then go out and ask them - do some user research! Generally speaking patients and clinicians accessing information and services relating to healthcare will expect to be interacting with the NHS, whereas services which are statutory or legally required might be a better fit on GOV.UK, but you won\u2019t be able to tell for certain without speaking to your users."
+        },
+        {
+            "heading": 2,
+            "text": "What if neither NHS.UK nor GOV.UK are appropriate for my service?"
+        },
+        {
+            "text": "For the reasons above, the vast majority of central government or NHS services will need to conform to the design patterns of either NHS.UK or GOV.UK. Exceptionally, however, this is not feasible; for example, when a service is officially independent of both the health service and the government, such as a public inquiry site. Speak to assurance@nhsx.nhs.uk if you think this might apply to your service. Services going through assessment must specifically justify and evidence any divergence from gov.uk or nhs.uk style.\u00a0\u00a0"
+        },
+        {
+            "text": "Even if this is the case, you can and should still borrow design patterns, components, style guides and other elements from each design system without having to copy the exact look and feel of the parent site. That way you can have the advantages of a library of pre-built components which have been extensively tested for usability and accessibility, and still retain an identity which is distinct from the NHS and the UK Government.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Further reading"
+        },
+        {
+            "text": "Dean Vipond has written an excellent history of the NHS design system in six parts:"
+        }
+    ]
+}

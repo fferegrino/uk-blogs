@@ -1,0 +1,96 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/07/14/a-team-effort-pair-writing-the-new-skilled-worker-visa-guidance-with-home-office-policy-experts/",
+    "title": "A team effort: pair writing the new Skilled Worker visa guidance with Home Office policy experts",
+    "authors": [
+        "Sarah Hart, Senior Content Designer at GOV.UK, Government Digital Service",
+        "Peter Fogarty, Digital Content Manager, Home Office"
+    ],
+    "categories": [
+        "Content",
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2021-07-14T09:07:42+01:00",
+    "content": [
+        {
+            "text": "The Government Digital Service (GDS) and the Home Office published more than 50 pieces of new or updated content on GOV.UK to support the introduction of the new UK immigration system in December 2020."
+        },
+        {
+            "text": "One of the biggest changes was to how people apply to come and work in the UK. The Skilled Worker visa replaced the Tier 2 General work visa, introducing new minimum salary criteria and the ability to \u2018trade\u2019 certain requirements - such as your qualifications - against a lower salary in order to qualify."
+        },
+        {
+            "text": "Complex policy changes meant we couldn\u2019t simply update the existing work visa guidance. Instead, we had to start from scratch to understand what the new visa rules meant for users. In this blog post, we'll explain how we worked together to create the new, user-focused guidance."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding the new policy"
+        },
+        {
+            "text": "Applicants needed to meet specific job, employer and salary requirements to make a successful visa application. We wanted to make the new options as clear as possible to help users know if a visa is right for them, and to feel confident in their application."
+        },
+        {
+            "text": "With free movement between the UK and the EU ending on 31 December 2020, we knew these changes would affect a greater number and range of employers and workers than ever before. The deadline was written into legislation and there wasn\u2019t time to design and build a completely new interactive eligibility tool, so we needed to work closely with our Home Office content, policy and operational colleagues to make the most effective changes we could using standard (what we call flat) content."
+        },
+        {
+            "heading": 2,
+            "text": "A team effort: pair writing with policy experts"
+        },
+        {
+            "text": "GDS worked closely with the Home Office Skilled Worker policy team to understand the new rules and how they would affect users. We then pair-wrote the new GOV.UK guidance as a team of 2: a content designer and the policy team lead."
+        },
+        {
+            "text": "Pair writing puts a subject matter expert in a room with a content designer - in this case, a virtual room. It\u2019s designed to cut down on back and forth and lengthy fact-checking processes, because you can quickly and easily clarify queries in real time, in context."
+        },
+        {
+            "text": "Together we designed clear, actionable, and factually accurate content at pace. We added more detail about several aspects of the application process, translating legislation into everyday language, and putting more of the relevant information at the point where users need it."
+        },
+        {
+            "text": "For example, we expanded the information on the documents you need to apply for the Skilled Worker visa, removing the previous need for users to refer to the policy guidance, which was published separately and contained the same information, but in more technical language."
+        },
+        {
+            "text": "This wouldn\u2019t have been possible without the experience of pair writing. It was during one of our pair-writing sessions that we queried the need for a link to this separate guidance. In the past, adding a link had been the only way to make sure users had all the relevant information. Pair writing allowed us to accurately interpret the policy, so we could remove this unnecessary complication in the user journey when we wrote the new content."
+        },
+        {
+            "heading": 2,
+            "text": "Filling in the gaps for visa applicants"
+        },
+        {
+            "text": "The existing work visa guidance on GOV.UK was written for applicants who already knew which visa they needed. It was difficult to use if you didn\u2019t already have a job offer to do a skilled job for an approved sponsor - and it wasn\u2019t very good at explaining what those things were."
+        },
+        {
+            "text": "We worked with a performance analyst to review how users were engaging with the current content, looking at previous- and next-page paths in Google Analytics. We saw that users frequently clicked back to the \u2018overview\u2019 or introduction chapter of individual visa guides from later chapters, and in some cases they clicked back up to the browse level navigation to review their initial options. This suggested that some users were not certain if the visa was right for them, based on the information in the guide."
+        },
+        {
+            "text": "The new guide breaks the pre-application process down, making it simpler for both applicants and employers to understand what they need to do. It explains how to check if your job, your UK employer and your salary meet the eligibility requirements for this visa."
+        },
+        {
+            "text": "One of the most effective changes we made was helping people find out if their job is considered \u2018skilled\u2019 - and therefore, eligible. We added a link to the ONS occupation coding tool, alongside content explaining that jobs in certain \u2018occupation codes\u2019 are eligible for the visa. They can use the tool to find out which code their job is in, searching the database by specific job title or relevant keyword."
+        },
+        {
+            "text": "Post-launch analysis from February showed that the ONS tool was the most-clicked link in the new guide - exceeding click-throughs to apply for the visa itself. It\u2019s still early days, but it\u2019s encouraging to see that people are engaging with the tool, which suggests users are checking their eligibility before they apply."
+        },
+        {
+            "heading": 2,
+            "text": "Designing for the whole user journey"
+        },
+        {
+            "text": "Not all aspects of eligibility are relevant to all applicants. For example, once you know your job is in an eligible occupation, you need to check you\u2019re going to be paid enough to qualify, and that your employer is a recognised sponsor."
+        },
+        {
+            "text": "We worked together to simplify the individual steps in the user\u2019s pre-application journey. We designed simplified eligibility tables that help users answer one question at a time about their eligibility. We broke the requirements down into the smallest possible chunks, first explaining the context in the guidance and linking users out to an individual table at the relevant stage in their journey."
+        },
+        {
+            "text": "Close collaboration with the Home Office throughout this project helped us make sure we were using consistent language throughout the whole journey, lightening the cognitive load."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "A new Skilled Worker eligibility checker tool is being developed that\u2019s designed to make it easier for prospective workers and employers to find out if a particular job is eligible for this visa."
+        },
+        {
+            "text": "We\u2019re continuing to work with the Home Office to do the hard work to make it simpler for users."
+        }
+    ]
+}

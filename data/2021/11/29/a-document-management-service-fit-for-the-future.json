@@ -1,0 +1,95 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2021/11/29/a-document-management-service-fit-for-the-future/",
+    "title": "A Document Management Service fit for the future",
+    "authors": [
+        "Andrea Purdy"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra services",
+        "Digital transformation",
+        "Open data"
+    ],
+    "pub_date": "2021-11-29T13:22:20+00:00",
+    "content": [
+        {
+            "text": "The Environment Agency (EA) was set up to protect and improve the environment and promote sustainable development.\u00a0 Our work as an environmental regulator includes the permitting of organisations whose industrial, waste or water-related activities affect the environment, and monitoring compliance with those permits."
+        },
+        {
+            "text": "The EA has many old IT applications that support our regulatory activities. The work to modernise these is being managed by the Regulatory Services Programme through multiple integrated projects."
+        },
+        {
+            "text": "Our 20-year-old Electronic Document Records Management system (EDRM) was the cross-cutting application in most urgent need of replacement. EDRM was critical to our permitting and compliance work, had around 4,000 users and held up to nine million documents covering 300,000 permits. It was expensive to maintain and at significant risk of failure. It was not compatible with Windows 10 and was held on Capgemini Data Centres, two additional drivers for its urgent replacement."
+        },
+        {
+            "text": "Some pre-discovery work was carried out in 2017 to consider what system we would replace EDRM with.\u00a0 We selected Sharepoint Online (SPOL).\u00a0 Discovery work commenced in October 2019, with Civica selected as the supplier to build the application, as we already had Civica employees contracted to our Cloud Centre of Excellence (CCoE) M365 team."
+        },
+        {
+            "text": "For the document migration aspects, we used Automated Intelligence (AI), who had already done some work with other Defra systems and had specialist migration software within the DEFRA cloud tenancy. \u00a0We had an ambitious go-live date of January 2021."
+        },
+        {
+            "heading": 2,
+            "text": "The benefits of a multi-disciplinary team"
+        },
+        {
+            "text": "We had a DDTS Project Manager, Business Analyst, User Researcher and Tester. The Product Manager was the business lead, supported by the Business as Usual (BAU) EDRM support lead. This worked well as decisions were made very quickly when issues arose."
+        },
+        {
+            "text": "The Civica developers and AI technical team worked well together and with the project team. We had shared goals and a desire to provide a good outcome, along with a friendly and professional relationship.\nAssurance is required for any project going into operation, including stage gate reviews, and ensuring all the correct artefacts are in place and approved. This was a considerable administrative burden, largely managed by the Product Manager."
+        },
+        {
+            "text": "Our user needs required the modification of SPOL to suppress some of its functional aspects to protect the integrity of our documents, for example not allowing standard users to delete documents. This was done through Azure Web Apps that controlled some of these aspects."
+        },
+        {
+            "heading": 2,
+            "text": "Overcoming the migration challenges"
+        },
+        {
+            "text": "We called our new application the Document Management Service (DMS). A proof of concept was completed and signed-off by the end of March 2020, along with a migration strategy in two parts. The build of the application and migration mapping activities were largely completed by late autumn 2020. Unfortunately, the building of the application environments in our cloud tenancy proved challenging and time-consuming which delayed work on the remaining functionality. This pushed our go-live date out."
+        },
+        {
+            "text": "Migration proved a challenge with the sheer number of documents and detailed mapping criteria. The first migration (80% of the documents) required a production environment with a version of the application in it so permit folders could be created to push the documents into. This meant we had to push \u2018Version 1\u2019 of the application into production, even though we hadn\u2019t completed all of the functionality."
+        },
+        {
+            "text": "The first migration took several weeks, and we had issues with throttling in SPOL and getting permission to migrate 24/7, which was against DDTS policy. Throttling involves limiting the communication speed of ingoing data into a server or network device. Microsoft does this to protect end users of their services by de-prioritising large data transfers."
+        },
+        {
+            "text": "The remaining functionality and \u2018Version 2\u2019 of the application was completed by 31 March 2021. This then had to be pushed through all the cloud environments along with testing and was completed in June 2021."
+        },
+        {
+            "text": "The second migration was carried out between June and July (remaining 20%) and the service went live on 9 August 2021, seven months later than our original target date. Some documents (2% of the total content) didn\u2019t come across to DMS which has led to some post-launch mitigation work."
+        },
+        {
+            "heading": 2,
+            "text": "What went well"
+        },
+        {
+            "text": "We had a good, blended team with a shared vision."
+        },
+        {
+            "text": "The business led the project to realise the outcome that was required."
+        },
+        {
+            "text": "Our suppliers (Civica and AI) were professional, knowledgeable, and supportive of the Project Team and each other, one supplier often overcoming blockers for the other. Civica had some of its resource in India which meant that often work could be done before the start of the working day in the UK."
+        },
+        {
+            "text": "We had good engagement with the business, introduced training early and produced comprehensive guidance that led to a relatively smooth service launch."
+        },
+        {
+            "heading": 2,
+            "text": "What did not go well"
+        },
+        {
+            "text": "The scale of the assurance required was not easily understood, often repetitive and overly burdensome. A review of the impact on projects in resource and elapsed time has been scheduled to pick up any lessons to take forwards from the experience of the team."
+        },
+        {
+            "text": "Engagement processes with CCoE were not understood and not completely explained which led to delays in work being completed and resourced. The scale of governance and related processes in the production tenancies also added complexity and prolonged the expected delivery timeline."
+        },
+        {
+            "text": "We under-estimated the complexity of migrating millions of documents, especially the impact of historical inconsistent naming, filing and multiple file formats in EDRM."
+        },
+        {
+            "text": "Not all the content migrated to DMS (2%). This has led to additional work in providing the business with access to those documents before we can decommission EDRM."
+        }
+    ]
+}

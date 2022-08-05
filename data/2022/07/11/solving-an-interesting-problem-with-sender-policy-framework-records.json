@@ -1,0 +1,75 @@
+{
+    "url": "https://technology.blog.gov.uk/2022/07/11/solving-an-interesting-problem-with-sender-policy-framework-records/",
+    "title": "Solving an interesting problem with Sender Policy Framework records",
+    "authors": [
+        "Terence Eden"
+    ],
+    "categories": [
+        "Security"
+    ],
+    "pub_date": "2022-07-11T13:52:36+01:00",
+    "content": [
+        {
+            "text": "The Securing Government Services team at the Central Digital and Data Office recently encountered, and fixed, a small bug with the way some government domains handle their Sender Policy Framework (SPF) records."
+        },
+        {
+            "text": "SPF allows a domain owner to specify which email services are authorised to send email on their behalf. For example, the website example.gov.uk\u00a0 might use Outlook for email - so they can create a TXT record in their DNS which says:"
+        },
+        {
+            "text": "\"v=spf1 include:spf.protection.outlook.com -all\""
+        },
+        {
+            "text": "This tells the internet that if someone tries to send an email purporting to come from example.gov.uk, it will only be valid if it has been sent from the Outlook server. If it comes from a different server, it must be rejected.\u00a0"
+        },
+        {
+            "text": "This prevents people from sending spoofed emails which impersonate legitimate government services."
+        },
+        {
+            "text": "SPF records need to be written in a precise format. If the syntax is even slightly different from the specification, the record is invalid and spoofed emails will be able to be delivered."
+        },
+        {
+            "heading": 2,
+            "text": "Discovering the problem"
+        },
+        {
+            "text": "Our team recently noticed a record which was syntactically correct - but was, somehow, still being marked as invalid. This was a serious risk and could have let a malicious actor send emails as though they were from a specific government service."
+        },
+        {
+            "text": "The SPF record looked like this:"
+        },
+        {
+            "text": "\"v=spf1 include:example.com include:spfprotectionoutlook.com -all\""
+        },
+        {
+            "text": "The SPF checker works on multiple levels. The first is a simple conformance check - that is, seeing if the record is written in the correct syntax. This record was correct."
+        },
+        {
+            "text": "The second level is to evaluate the included domains. This involves doing a DNS lookup on the domain. And this is where the problem was."
+        },
+        {
+            "text": "The second domain was misspelt. When a lookup was performed on that domain, it returned an error - NXDOMAIN."
+        },
+        {
+            "text": "Because this recursive check failed, it resulted in what the specification calls a \"permerror\" - which means the domain's published records could not be correctly interpreted."
+        },
+        {
+            "text": "Even though the record has the correct syntax, and even though other included domains validated correctly, because a single domain didn't exist the entire SPF record failed validation.\u00a0"
+        },
+        {
+            "text": "The specification is complicated and we had initially expected that a partially matching set of includes would still validate and the SPF would be valid. A thorough reading of the specification shows that is not the case."
+        },
+        {
+            "heading": 2,
+            "text": "Fixing the issue and lessons learned"
+        },
+        {
+            "text": "The issue was fixed by correcting the spelling of the incorrect domain. We do not believe this error was actively exploited by malicious parties."
+        },
+        {
+            "text": "We learned several lessons from this incident:"
+        },
+        {
+            "text": "For more information, you can read our guidance on how to set up government email services securely."
+        }
+    ]
+}

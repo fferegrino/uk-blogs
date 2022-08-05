@@ -1,0 +1,82 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2021/10/25/making-our-design-system-a-useful-tool-for-teams/",
+    "title": "Making our design system a useful tool for teams",
+    "authors": [
+        "Daniel Martin, Principal Software Engineer"
+    ],
+    "categories": [
+        "Design",
+        "Service design"
+    ],
+    "pub_date": "2021-10-25T10:14:02+01:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "A diagram showing instructions for designers."
+        },
+        {
+            "text": "We have created the Home Office Design System to supplement the GOV.UK Design System. Our design system allows us to provide reusable components and patterns for both internal and public-facing Home Office services. Recently, we've made lots of improvements to our design system so we wanted to share some of the biggest changes."
+        },
+        {
+            "heading": 2,
+            "text": "Clear guidance on styles"
+        },
+        {
+            "text": "While the GOV.UK Design System helps to make public Government services consistent, we can\u2019t use certain elements, such as the logo and font, for services that don\u2019t sit on GOV.UK. Instead, we use our own design style with a different font, logo and colours."
+        },
+        {
+            "text": "We\u2019ve added clear guidance on when to use these different page styles. This means that teams are able to pick up the appropriate styles and use them with as little effort as possible."
+        },
+        {
+            "heading": 2,
+            "text": "New design resources"
+        },
+        {
+            "text": "We\u2019ve developed design assets such as wireframing kits and user flows to help our designers. Our community has recently added to this by creating storyboarding and workshop templates to help teams work more effectively."
+        },
+        {
+            "heading": 6,
+            "text": "An example of one of our storyboards: Getting a lateral flow Covid test."
+        },
+        {
+            "heading": 2,
+            "text": "Accessibility guidance"
+        },
+        {
+            "text": "Our Accessibility and Digital Inclusion team have created a suite of new guidance to help teams understand and meet our accessibility standards. This includes topics from language to links to audio and video considerations. We are adding to this new accessibility section over time, so watch this space."
+        },
+        {
+            "heading": 2,
+            "text": "Production-ready components"
+        },
+        {
+            "text": "Originally we only defined our components in HTML and CSS code. They were only intended for use by designers when prototyping."
+        },
+        {
+            "text": "But this meant that our development teams were forced to reimplement the components when building real services. Often some features of the design would be missed, especially around accessibility."
+        },
+        {
+            "text": "To prevent this and to bridge the gap between design and development we decided to provide production-ready implementations in React."
+        },
+        {
+            "heading": 2,
+            "text": "Greater interoperability"
+        },
+        {
+            "text": "This new codebase builds upon the code in the GOV.UK Design System. This commonality:"
+        },
+        {
+            "heading": 2,
+            "text": "Code generators"
+        },
+        {
+            "text": "We've also created a new prototype generator for internal products and services."
+        },
+        {
+            "text": "In the future this may double up as an application generator or dev-kit. This would allow us to build user interfaces more quickly as well as provide a way of sharing bespoke components between projects. This bringing together of prototyping and production technology will allow designers and developers to work more closely together and so speed up iteration."
+        },
+        {
+            "text": "Previously a tool primarily for designers, we have now transformed our design system into something that provides broader help and support for delivery teams in the Home Office. This translates into our ability to build internal and public-facing services designed for everyone in mind."
+        }
+    ]
+}

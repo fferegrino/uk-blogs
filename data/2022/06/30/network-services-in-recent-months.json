@@ -1,0 +1,83 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/06/30/network-services-in-recent-months/",
+    "title": "Network Services in recent months",
+    "authors": [
+        "Nava Ramanan"
+    ],
+    "categories": [
+        "digital strategy",
+        "Network services"
+    ],
+    "pub_date": "2022-06-30T15:17:00+01:00",
+    "content": [
+        {
+            "text": "For people who don\u2019t know me, I am Nava Ramanan, Deputy Director \u2013 Head of Networks, Voice, Video and Hosting Services for the Ministry of Justice. In this blog I am going to highlight what we are doing within the Network Services Team."
+        },
+        {
+            "text": "In a nutshell, we are responsible for live service and product changes/developments for all networking services across the MoJ.\u00a0"
+        },
+        {
+            "text": "For most of us networking is rarely seen and unlikely to impact our lives until the \u2018spinning wheel of death\u2019 appears on your screen or you have lost access while trying to complete that urgent task. It takes place over many different connections fixed or mobile (LAN, WAN, WiFi, 4/5G, etc) providing access to work and social data as well as knowledge and global networks, such as the internet/www."
+        },
+        {
+            "text": "Over recent months we have been working hard within the Technology Services Networks Team to develop and deliver our strategic objectives that align with the\u00a0Justice Digital Strategy and the organisational vision. For us, this is about continuous improvements, rather than big bang changes, whilst keeping the live services running to ensure that improving the end user experience does not come at the cost of outages and service instability.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "The aims of the MoJ network strategy are to:\u00a0"
+        },
+        {
+            "text": "The MoJ network environment is large and complex, consisting of both legacy and current technologies. It comprises of over 1,100 sites, multiple data centres and cloud environments, managed by a diverse set of service providers. It is our ambition to greatly improve our networks and their service offering to the end user by simplifying and modernising our environments through innovation and moving forward from the existing multi-domain model.\u00a0"
+        },
+        {
+            "text": "However, technology is the easy part. In order to achieve our goals and realise the full benefits of the new technologies that we wish to embrace, we need to create a working environment and culture where our people can excel. It is important that we each understand our strategic vision and how the 2025 strategy links to the work we do. We are a team of teams, we succeed or fail together!\u00a0"
+        },
+        {
+            "text": "To paint the picture, here are some of the activities we have been working on:\u00a0"
+        },
+        {
+            "text": "LAN and WAN Contracts\u00a0"
+        },
+        {
+            "text": "We are currently planning for two major procurement projects, to cover services for Local Area Network (LAN) and Wide Area Network (WAN). Through competitive re-procurement and adoption of both mature and innovative technologies we have the opportunity to pass on these improvements to users.\u00a0 It is important that the contracts and relationships that we put in place are fit for purpose, sustainable and deliver value for money. We need solutions that meet our aspirations, services that support those solutions effectively and finally the working practices on how those solutions and services come together to support users."
+        },
+        {
+            "text": "Comms Room Remediation Project\u00a0"
+        },
+        {
+            "text": "We\u2019ve been untangling lots of stuff!"
+        },
+        {
+            "text": "This work has enhanced the network as now it is easier for patching to be carried out and to identify faults on the network. It has also made it easier to identify redundant equipment which has accumulated over the years and enables us to safely remove this in the future. Most importantly it has highlighted other issues in the network rooms, such as power and air conditioning, which when not working correctly causes equipment to fail and take down the network which results in operational work getting delayed whilst the equipment is being fixed."
+        },
+        {
+            "text": "MoJ Network connectivity at 92 Prison sites\u00a0"
+        },
+        {
+            "text": "We are enabling the Prison Transformation Programme (PTTP) rollout plans by updating network connectivity at 92 prison sites, meeting the immediate requirement for increased site bandwidth.We are exploring potential strategic solutions that would give us flexibility and visibility. This would allow for faster more efficient change processes alongside a greatly improved ability to investigate issues around service performance. Due to a global chip shortage, we have had to produce some innovative tactical solutions to remain on course with our strategic solution without wasting money on outdated technologies."
+        },
+        {
+            "text": "In-Cell Technology Programme\u00a0"
+        },
+        {
+            "text": "As part of the In-Cell Technology programme we are providing Wi-Fi access for both prisoners and staff enabling the connectivity all the way to the cells. The Wi-Fi in the cells enable prisoner facing service while the Staff Wi-Fi will provide improvements in the quality, timeliness, speed and functionality of IT provision and make it easier for our staff to do their jobs more efficiently no matter where they are located onsite."
+        },
+        {
+            "text": "Network Access Control Service (NACS) deployed to 100 probation sites (ready for take-off in July 2022)\u00a0"
+        },
+        {
+            "text": "Today we have network access controls that are managed by multiple technologies and multiple vendors.We want to ensure our services are more secure by deploying a centralised in-house built Network Access Control Service (NACS), initially installing it as a Wi-Fi service in over 100 Probation sites. This will enable the rollout of MoJ corporate Wi-Fi, which allows us to have a unified infrastructure, resulting in a simplified environment and better value for money."
+        },
+        {
+            "text": "Above are some of our works we are doing while \u2018keeping the lights on\u2019 for the MoJ users and services. I have an amazing team, whom I can't thank enough for their contributions and hard work.\u00a0"
+        },
+        {
+            "text": "Getting our strategy out has been the biggest success for the team this quarter. We have been socialising our strategy with other Justice Digital areas and stakeholders and will be seeking to iterate this in line with feedback. It is important to know that we are not starting from scratch, we are already on this journey and lots of good work is already happening. We will be building on top of this.\u00a0"
+        },
+        {
+            "text": "While we continue to deliver an exceptional experience to our users, we are also working on providing multiple innovations and delivering the best possible value for money. We are actively evaluating modern technologies and exploring their capabilities that will allow us to continuously improve the service that we deliver and realise our goal of making the experience of our users: simpler, faster, and better.\u00a0\u00a0"
+        },
+        {
+            "text": "I am sure we will have lots of fun and achieve great things collectively at the MoJ Network Services Team. "
+        }
+    ]
+}

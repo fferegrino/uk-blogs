@@ -1,0 +1,159 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2022/06/14/6-tips-for-building-a-genuinely-helpful-chatbot/",
+    "title": "6 tips for building a genuinely helpful chatbot",
+    "authors": [
+        "Ruth Drake - User Researcher, HMRC"
+    ],
+    "categories": [
+        "Content Design",
+        "Experimental"
+    ],
+    "pub_date": "2022-06-14T09:00:21+01:00",
+    "content": [
+        {
+            "text": "For over a year, I talked to a lot of people who were very sceptical about chatbots. They told me about chatbots that didn\u2019t understand them and others that just sent them around in circles, leaving them frustrated and no nearer to a solution than when they started.\u00a0"
+        },
+        {
+            "text": "Few said they would choose a chatbot over other support channels."
+        },
+        {
+            "text": "So, given widespread scepticism, why did we build one? Demand for support from HMRC, while always considerable, typically ebbs and flows with the movement of the financial year. Our digital assistant was designed to complement telephone and webchat support, helping customers self-serve by offering quick and queue-free answers to simple questions and providing much wanted 24-7 support for an increasingly online audience.\u00a0"
+        },
+        {
+            "text": "To date, it has handled more than 3 million customer queries but is still very much in its infancy in terms of capability and a work in progress.\u00a0 Here are some of the content design and user research lessons we have learnt along the way.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "1. Know your users"
+        },
+        {
+            "text": "Before you add new content to a chatbot, make sure you have plenty of time for research."
+        },
+        {
+            "text": "Always ask yourself is the chatbot the right solution:"
+        },
+        {
+            "text": "Is it the quickest or simplest way to help the user? Or could the problem you\u2019re looking to solve be better fixed by a tweak to the service itself, its guidance, or communications?"
+        },
+        {
+            "text": "You may also want to reconsider if, for example, you know you have a high number of users who:"
+        },
+        {
+            "text": "We have chosen not to use a digital assistant on our HMRC extra support pages but instead direct these potentially vulnerable users directly to a webchat adviser.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "2. Know your topic"
+        },
+        {
+            "text": "Not all queries are equally well suited to a chatbot. "
+        },
+        {
+            "text": "The ideal chatbot query:"
+        },
+        {
+            "text": "We\u2019ve found a simple question and answer structure works best. By adding such queries to the chatbot you can reduce the amount of time your human advisers spend repeating simple information, instructions, or signposting. For example, \u2018how do I tell HMRC about a change of address?\u2019"
+        },
+        {
+            "text": "Where one size doesn\u2019t fit all, your chatbot can ask users one or more follow-on questions about their circumstances to help them understand how rules apply to them. We use this structure to, for example, help tax credit customers understand what action, if any, they need to take to renew their tax credits. This structure is particularly useful when you know that users are often anxious and looking for reassurance that they are doing the right thing or when new rules have been introduced."
+        },
+        {
+            "text": "Keep an eye out for opportunities for the chatbot to guide users through a simple series of steps that will allow them to complete a task without the need for human assistance. For example, the HMRC digital assistant has been the first port of call for more than 1.3 million customers who needed help to recover their Government Gateway username or password. This is a significant time saver for both customers and HMRC advisers who are freed up to help those who genuinely need human assistance.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "3. Your chatbot needs to set expectations"
+        },
+        {
+            "text": "Our user research found that when someone thinks they are talking to a human, they will often write long and complex questions, or conversely, questions that leave out key details that they expect to be self-evident. They may also share sensitive information. None of these are ideal scenarios for a chatbot."
+        },
+        {
+            "text": "It's important to make clear from the very start:"
+        },
+        {
+            "text": "This also allows the user to make an informed decision over which support channel they use."
+        },
+        {
+            "heading": 2,
+            "text": "4. It needs to know what it doesn\u2019t know"
+        },
+        {
+            "text": "Expanding a chatbot\u2019s scope and comprehension are the biggest challenges you will face.\u00a0"
+        },
+        {
+            "text": "You need a plan for how you will:"
+        },
+        {
+            "text": "If you had to choose between quality, expertly crafted and tailored answers on a small number of topics, or quantity, less tailored, perhaps automatically generated answers on a wide number of topics which would you choose? Which would better meet the needs of your users? The answer may depend on the complexity of your subject matter and the familiarity of your users with the policy and terminology.\u00a0\u00a0"
+        },
+        {
+            "text": "Every time a chatbot doesn\u2019t understand a question or offers up a wrong answer it reinforces negative expectations. We don\u2019t want that, so we train ours to recognise common subject areas that are not currently within scope and redirect these users to appropriate help, reducing user frustration and ensuring they don\u2019t hit a dead end."
+        },
+        {
+            "heading": 2,
+            "text": "5. It needs to be human-centred\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Don\u2019t forget the context in which it is used. Almost all your users will have already tried to resolve their query or complete their task themselves. No-one wants to get stuck and needs to ask for help. When they start a chat, it is because something has gone wrong for them or an event has prompted them to seek help. When writing this content, have the customer who is stressed, anxious or frustrated in mind.\u00a0\u00a0"
+        },
+        {
+            "text": "Consider the user\u2019s circumstances. How familiar is this audience likely to be with the content and terminology, or what devices do they use to access gov.uk?"
+        },
+        {
+            "text": "Consider the core user need for each question. Do they need help finding information or understanding it, or are they looking for reassurance, as getting this right is essential to reduce re-contact?"
+        },
+        {
+            "text": "The ideal chatbot answer respects the user\u2019s time and emotions. It:"
+        },
+        {
+            "text": "A genuinely helpful chatbot abides by the medical doctrine to \u2018first, do no harm.\u2019 No-one should leave the chatbot more confused or annoyed than they entered.\u00a0"
+        },
+        {
+            "text": "As we add new content areas to HMRC\u2019s digital assistant, we are moving from pre-defined interactions to a more conversational approach. In the future, we hope it can offer a type of concierge service across a wide range of topics, helping both with navigation on gov.uk and tailored advice.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "6. A chatbot\u2019s education is never done"
+        },
+        {
+            "text": "My colleague, Courtney Charles, used to say that a chatbot is like a child. This is a great analogy. You can\u2019t teach it once and assume that that knowledge will carry it through to maturity. You need to keep on teaching it.\u00a0"
+        },
+        {
+            "text": "Our team carries out regular reviews of real-life chat transcripts. These allow us to:"
+        },
+        {
+            "text": "Quantitative data further helps us understand user behaviour and iterate the chatbot accordingly.\u00a0\u00a0"
+        },
+        {
+            "text": "Finally, reviewing webchat interactions also helps us identify common questions that could be added to the digital assistant, freeing up the human advisers for users with more complex queries.\u00a0"
+        },
+        {
+            "text": "Through these three information sources, and ongoing user research, the team is continuously working to build a more effective and intelligent service."
+        },
+        {
+            "text": "Ultimately, to know if your chatbot is learning and helping, you will need to measure success. You need a plan for this.\u00a0"
+        },
+        {
+            "text": "Make sure that any feedback you get from your chatbot is actionable. For example, we are currently looking to add in-chat feedback to allow customers to flag helpful or unhelpful answers. That will help us learn what works and what doesn\u2019t and improve the latter.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019re still learning too"
+        },
+        {
+            "text": "Building a genuinely helpful chatbot is challenging but we believe it can be done.\u00a0"
+        },
+        {
+            "text": "From our first day speaking to users, we have been aware of the common chatbot pitfalls and avoiding these has formed the bedrock of our content design strategy.\u00a0 Through a user-centred design process, we are incrementally building a greater understanding of what works well for our HMRC customers. With each round of research, analysis and design iteration, our users teach us a little more about what makes a chatbot genuinely useful.\u00a0"
+        },
+        {
+            "text": "The work we are doing forms part of HMRC\u2019s wider ambition to transform the way it interacts with its customers, through increased choice and an improved user experience."
+        },
+        {
+            "text": "If you are also creating a chatbot for your service, we\u2019d love to hear from you.\u00a0 What challenges have you faced? What have you learnt?\u00a0\u00a0"
+        },
+        {
+            "text": "Based on the ConCon10 talk \u2018The chatbot will see you now\u2019 by myself, Harry Thompson and Courtney Charles."
+        }
+    ]
+}

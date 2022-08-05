@@ -1,0 +1,89 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/08/16/working-with-user-feedback-during-covid-19/",
+    "title": "Working with user feedback during COVID-19",
+    "authors": [
+        "Vika Nightingale, User Researcher at GOV.UK, Government Digital Service",
+        "Ian Ansell, Senior Performance Analyst, at GOV.UK, Government Digital Service (GDS)"
+    ],
+    "categories": [
+        "Data",
+        "Finding things",
+        "GDS team"
+    ],
+    "pub_date": "2021-08-16T11:40:53+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK Insights Team\u2019s purpose is to support understanding of users\u2019 relationship with GOV.UK and feed into product development, policy and operational efficiencies, as well as drive efforts around impact evaluation. This is an important part of achieving Mission 1 of the Government Digital Service\u2019s (GDS) strategy, as well as tying into the GOV.UK objective to support the government's priorities of the day."
+        },
+        {
+            "text": "Early last year, when the global coronavirus (COVID-19) pandemic emerged, our team\u2019s workload shifted to reporting on the government response to the pandemic. We wanted to make sure our work was meeting user needs as best as possible."
+        },
+        {
+            "text": "One way we looked at this was through the user feedback left on GOV.UK. It\u2019s possible for users to leave their comments on every page on GOV.UK. Feedback left this way highlights what\u2019s working well, and also points out users\u2019 concerns. We also wanted to make our work on user feedback available to our GDS colleagues. This blog post explains how we looked at the user feedback and shared our insights."
+        },
+        {
+            "heading": 2,
+            "text": "User feedback on GOV.UK"
+        },
+        {
+            "text": "There are several ways for people to leave feedback about a page on GOV.UK. It can be done by either clicking on \u201cReport a problem with this page\u201d or by answering \u201cNo\u201d to \u201cIs this page useful?\u201d. These are used to flag technical issues, raise the need for clarification, or other queries. These options are shown below."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "From the start of the pandemic, public guidance was needed at short notice, which had a significant and immediate impact on people\u2019s lives. User feedback could act as an invaluable source of extremely important context, letting us quickly spot where the guidance and government services could be improved. Still, we needed to be able to analyse and act on the learnings much quicker than we had done previously."
+        },
+        {
+            "text": "Many of the learnings we acquired from user feedback would have been extremely difficult to get in any other way in the rapidly evolving landscape of the pandemic."
+        },
+        {
+            "heading": 2,
+            "text": "Improving data relevance and analysis"
+        },
+        {
+            "text": "Feedback data has been historically difficult to get hold of and use. When different feedback collection routes were designed, each of them looked to address a different problem. Hence the data ended up stored in several places."
+        },
+        {
+            "text": "To help solve this we built a data pipeline to combine feedback from the different sources. We also combined several isolated processes into a single consistent process that made the code easier to maintain as well as more robust."
+        },
+        {
+            "text": "This allowed us to filter the data so we were focused on feedback relating only to COVID-19, otherwise the volumes would have been overwhelming and unhelpful for those reading the feedback on a daily basis. We also implemented a series of spam removal features to improve the quality and relevance of the data for additional analysis."
+        },
+        {
+            "text": "As part of this work, we trialled different approaches to categorising the unstructured data to support our analysis efforts, using both machine learning and manual classification. We also experimented with generating a set of trending words appearing in feedback on a daily basis and sharing those with other colleagues to reflect key concerns the public were raising."
+        },
+        {
+            "text": "One of the main results of this work was that, for the first time, all of the anonymised user feedback data was made available for teams on GOV.UK to see and use in an accessible way, as well as help teams build several reporting tools aggregating this anonymised data."
+        },
+        {
+            "text": "For our team this also meant that we could enhance our ability to report daily on key COVID-19 metrics for senior stakeholders across departments to assist their decision making in content, communication strategy, and develop policy improvements."
+        },
+        {
+            "heading": 2,
+            "text": "Using user feedback to improve GOV.UK"
+        },
+        {
+            "text": "Throughout the past year, whilst driving improvements in data quality and access, and helping the programme to spot issues faster, we also raised the profile of the importance of user feedback for our colleagues. For example, user feedback showed that people were using the unofficial term \u2018tiers\u2019 rather than \u2018local alert levels\u2019, so we made the change to that term on GOV.UK to make it easier for people searching for the guidance."
+        },
+        {
+            "text": "The level of detail needed by users is always a difficult balance between concise guidance and providing an overwhelming amount of information. User feedback following the January national lockdown helped identify where guidance needed to be more specific, for example \u201ccan tradespeople enter people\u2019s homes to carry out their work?\u201d. Feedback was also helpful in highlighting the need for clarity around overnight stays in private residences and hotels, as well as further detail around wedding attendances."
+        },
+        {
+            "text": "Feedback was also pivotal in helping shape how we presented planned changes to guidance to reduce confusion over what people should do currently versus what to expect in the future, as new changes come in."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "Reading and analysing user feedback is now a core activity in our COVID-19 work and it forms an important source of our insights across GOV.UK. It has helped us to reflect on why and how we ask for feedback from users that will inform future iterations of the feedback process."
+        },
+        {
+            "text": "Building the feedback pipeline involved a data engineer, analyst and researcher support, as well as some developer time, but that investment has improved the underlying data infrastructure and enabled more people within GOV.UK to benefit from the insights available within user feedback. We are keen to continue making sure the right stakeholders across government get the most relevant feedback, so that it can be acted upon in a swift manner."
+        },
+        {
+            "text": "Throughout our work on this project we were able to implement multiple technical improvements, which led to greater data quality and, subsequently, better analysis and reporting capabilities for GOV.UK and beyond. This helps implement GOV.UK\u2019s vision of delivering trusted, joined-up and personalised interactions for users, and will let us scale up analysis across GOV.UK."
+        }
+    ]
+}

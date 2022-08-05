@@ -1,0 +1,133 @@
+{
+    "url": "https://services.blog.gov.uk/2021/07/05/designing-a-national-booking-service-for-covid-19-vaccination-appointments/",
+    "title": "Designing a national booking service for COVID-19 vaccination appointments",
+    "authors": [
+        "Emma Parnell \u2013 Lead service designer, NHS Digital",
+        "James Spirit \u2013 Product Lead, NHS Digital",
+        "Rob Sinclair \u2013 Head of Architecture, NHS.UK"
+    ],
+    "categories": [
+        "Service design",
+        "Service transformation"
+    ],
+    "pub_date": "2021-07-05T09:57:08+01:00",
+    "content": [
+        {
+            "text": "In August 2020 we had no approved vaccination for coronavirus (COVID-19). We knew it was coming but we didn\u2019t know which would land first, when and what the clinical requirements around administration would be. We did know we were facing a national-scale roll out with an ambition to get every adult in the country vaccinated as quickly as possible."
+        },
+        {
+            "text": "The vaccination programme has been a huge national effort with contributions from across many different parts of the healthcare system. Local and national service provision has worked side by side and the  national booking service, accessed via the NHS website, has played an important role in the delivery of the programme."
+        },
+        {
+            "text": "Since launch on 11 January 2021, over 10 million first dose appointments and over 12 million second dose appointments have been booked using the service."
+        },
+        {
+            "heading": 2,
+            "text": "A whole service made up of multiple products"
+        },
+        {
+            "text": "The national booking service started life as a set of assumed requirements and an off the shelf booking engine. In around 10 weeks we worked to design, test and build an end-to-end service for someone to book their vaccination appointment."
+        },
+        {
+            "text": "This service included a citizen-facing front-end web application, configuration of the booking engine and staff-facing interface as well as a check-in app for staff on site to accept arrivals. The citizen-facing web application was also adapted for use as an assisted digital solution delivered via the 119-telephone service."
+        },
+        {
+            "text": "We started with a 2-week design sprint with the goal of understanding what we were building to ensure we could table a realistic delivery plan. The service design and technical architecture was worked on in parallel. Neither view of the world took priority over the other, ensuring decisions about the service were made with both technical integrations and user experience top of mind. This approach enabled us to deliver at pace and really showed us how architecture and service design should work."
+        },
+        {
+            "text": "As part of this sprint we carried out user research with people we thought would be in the highest priority groups. It was important to us that we embedded a user-centred design approach in the delivery from the start - and user research was at the heart of this. \n"
+        },
+        {
+            "text": "We set up 2 multi-disciplinary product teams with an overarching leadership group sitting across the 2 to ensure we maintained a coherent view of the service. While each team had its own ceremonies and cadence based on what met the team\u2019s needs, we joined up on ceremonies like retrospectives, show & tell and planning to ensure we didn\u2019t lose sight of the end-to-end journey."
+        },
+        {
+            "heading": 2,
+            "text": "Managing uncertainty while working at pace"
+        },
+        {
+            "text": "Working on government services, especially in a pandemic, often comes with high levels of uncertainty. With this work, we were carrying the uncertainty of which vaccine would land while also working within emerging policy thinking on how the roll out would be managed across the population. This resulted in frequently changing requirements that would inevitably impact the service we were designing and the resulting user experience."
+        },
+        {
+            "text": "This made user research recruitment a challenge. We didn\u2019t know what the policy would be around who would receive the vaccine first so we made educated guesses, ensuring we tested with different groups throughout. Throughout the delivery we carried out 5 rounds of user research with the over-80s, health and social care workers, trans and non-binary people and people who were classed as clinically extremely vulnerable. \n"
+        },
+        {
+            "text": "Having a common understanding and ensuring we had documentation to support this was critical. The service was initially documented in visual collaboration software, maintaining the link between service design and architecture throughout, with an up-to-date version always available before moving to a clickable prototype using the  NHS prototyping kit."
+        },
+        {
+            "text": "As the service was high profile there were repeated requests for demos. Having an up-to-date prototype always available became essential to avoid confusion in an ever-changing environment. \n"
+        },
+        {
+            "text": "We got to the point where the team had demos honed to a fine art, to the point where we didn\u2019t need run-throughs anymore!\n"
+        },
+        {
+            "text": "As we moved closer to go live, a date that continued to move in line with actual vaccines becoming available to Public Health England (PHE), we needed to carefully manage the changing requirements. The inevitable pressures to deploy a service that was highly performant and quickly recoverable meant we could not compromise our end-to-end testing."
+        },
+        {
+            "text": "Consequently, we settled on a minimum viable product, got this agreed with our stakeholders and developed a prioritised backlog of work that we would tackle once the service was up and running."
+        },
+        {
+            "heading": 2,
+            "text": "Making time to design an inclusive service"
+        },
+        {
+            "text": "Despite working at pace, it was important we also delivered an inclusive service. Two weeks before going live we discovered we would be required to ask users of the service for their gender. This was a mandatory requirement by the API we were using to verify someone\u2019s identity against the personal demographic service. \n"
+        },
+        {
+            "text": "As detailed in  Emma\u2019s blog \u2018Let\u2019s talk about sex\u2019, the team worked hard to ensure the question was asked in such a way that everyone would feel comfortable to answer regardless of how they identified.\n"
+        },
+        {
+            "text": "Since launch, work was also prioritised to ensure development work was done on both the API and the service to remove the question. \n"
+        },
+        {
+            "text": "A similar principle was applied when we introduced a question to users relating to pregnancy and the vaccine they were recommended. We didn\u2019t assume that only certain people should be asked the question based on gender / sex. So to make sure the service was inclusive and safe we asked the question of all users. This was tested with a range of users including over-50s, men and trans women. It tested well with everyone. \n"
+        },
+        {
+            "text": "We also resisted repeated requests for users to be forced to provide a mobile number or email address or to implement strong authentication into the service. We wanted to be sure that we met our goal of designing an inclusive and accessible service that ensured people could be vaccinated as quickly as possible and we didn\u2019t think it was appropriate to introduce these potential barriers."
+        },
+        {
+            "text": "Instead, we used authentication \u2018tokens\u2019 that were simpler for users, to improve security and used content to encourage users to provide contact details without making them mandatory."
+        },
+        {
+            "text": "Regardless of the speed of delivery, someone needs to make an active choice to prioritise inclusion over \u2018the next urgent thing\u2019 \u2013 something that is important in all services, but especially when working on a service that needs to be used by everyone in the country."
+        },
+        {
+            "heading": 2,
+            "text": "Managing demand"
+        },
+        {
+            "text": "The uncertainty around how the vaccine was to be rolled out and how it was to be announced meant we had to design the service to be able to cope with extremes of demand. Our service is cloud-based. We also took measures to protect the service from sudden surges in demand."
+        },
+        {
+            "text": "Cohorts have been invited by age groups, which has enabled us to have a good understanding of the expected load on the service each day. With this information we\u2019re able to adjust the number of people going through to make a booking at any one time \u2013 not only protecting the service but ensuring the user experience is not impacted."
+        },
+        {
+            "heading": 2,
+            "text": "Iterating at pace"
+        },
+        {
+            "text": "Launching a new, high-profile service to the public at short notice inevitably throws up things we could not have anticipated. We conducted user research prior to launching the service which was invaluable but wasn\u2019t going to highlight all the \u2018gotchas\u2019."
+        },
+        {
+            "text": "We launched the service with end-to-end analytics and user surveys built-in and combined this with regular usability sessions with users (including 119 call handlers) to amass a wealth of intelligence about how the service was performing.\u00a0"
+        },
+        {
+            "text": "Combining these insights helped us to prioritise the incremental improvements we would make to the service. Our product teams quickly prioritised the backlog using our goals of maximising vaccination uptake, usability and safety as our \u2018north star\u2019. The team, having previously worked on the NHS website, was highly skilled in deploying changes to a highly visible, high volume service at short notice. The practice of multiple, daily, controlled deployments meant we could implement prioritised changes into the service at an eye-watering rate. Inevitably, some things didn\u2019t go exactly to plan, but the team were able to respond, fix and recover the service, often without users really noticing."
+        },
+        {
+            "text": "The delivery of this service has been, and continues to be, a massive team effort. While the pace, scale and profile of the service have given rise to many challenges \u2013 the team has continually stayed focused on delivering a high performing service with users at the heart of everything they do."
+        },
+        {
+            "heading": 3,
+            "text": "Related blog posts:"
+        },
+        {
+            "text": "Behind the scenes at COVID-19 vaccination centres"
+        },
+        {
+            "text": "How we designed a digital service at pace"
+        },
+        {
+            "text": "Designing at pace at the Driver and Vehicle Standards Agency (DVSA)"
+        }
+    ]
+}

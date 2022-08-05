@@ -1,0 +1,66 @@
+{
+    "url": "https://lifeathmrc.blog.gov.uk/2021/11/19/open-banking-payments-at-hmrc-a-team-making-history/",
+    "title": "Open Banking Payments at HMRC, a team making history",
+    "authors": [
+        "Alfie Abdullah"
+    ],
+    "categories": [
+        "Digital services",
+        "General",
+        "Guest blog"
+    ],
+    "pub_date": "2021-11-19T10:00:41+00:00",
+    "content": [
+        {
+            "text": "HMRC recently made history by becoming the first tax authority in the world to integrate Open Banking into our systems. We introduced it as an alternative to paying tax with a debit card or corporate credit card. It has the potential to make it quicker and easier to pay tax for millions of people."
+        },
+        {
+            "text": "So, the UK is the first country in the world where you can pay your tax using Open Banking, but what is it? We spoke to Alfie, a Digital Product Owner, within our Online Payments Service team to find out more."
+        },
+        {
+            "text": "What is Open Banking?"
+        },
+        {
+            "text": "Open Banking is a Financial Conduct Authority (FCA) regulated system that was established to give people more control over their financial data. As well as using it to transfer money between bank accounts, you can use it to analyse your spending and savings (usually through budgeting apps) and keep track of different bank accounts in one place."
+        },
+        {
+            "text": "For most people, paying tax by Open Banking significantly reduces the risk of payments being misallocated to the wrong account, which can have stressful and time-consuming consequences. When you pay with Open Banking, the payment reference, which HMRC uses to match payments to the right person or business, is prepopulated and passed securely to your bank, lifting the burden off the taxpayer to enter it correctly themselves and any worry about making mistakes."
+        },
+        {
+            "text": "My favourite thing about Open Banking is the ability to pay on your mobile phone. If you have a mobile banking app installed, then it will automatically open up so that you can approve your payment and then seamlessly transfer you back to an HMRC confirmation screen - a true modernisation on paying tax."
+        },
+        {
+            "text": "An early challenge"
+        },
+        {
+            "text": "One of the initial challenges we faced with this new payment method was what to call it. Most people are familiar with the terms used to describe our other payment methods like \u2018Direct Debit\u2019 and \u2018card payment\u2019, but less so with \u2018Open Banking\u2019. It was important that we got this right, as you wouldn\u2019t want to part with your money if you felt like you didn\u2019t understand what was going to happen to it."
+        },
+        {
+            "text": "So, we conducted lots of user research interviews with people from a variety of different industries, both employed and self-employed, people with low and high tax bills, people who pay us regularly and those who only pay once a year. We listened to the language that people used when they first tried the new Open Banking payment option and then developed our ideas. Overall, \u2018Pay by bank account\u2019 tested better than anything else in terms of understanding and trust. So, we settled on this."
+        },
+        {
+            "text": "This is how it appears alongside the other payment options."
+        },
+        {
+            "text": "Live feedback so far"
+        },
+        {
+            "text": "Since we introduced \u2018Pay by bank account\u2019 to the four biggest tax regimes; Self Assessment, Corporation Tax, PAYE for employers and VAT, more than \u00a31 billion has already been paid using this payment method."
+        },
+        {
+            "text": "We constantly review the live data and user feedback and have seen that among other benefits, people feel reassured that their payment will be credited to the right place, without any risk of mistakes."
+        },
+        {
+            "text": "One person explained \u201cDiscovering the new way to pay which links straight to my bank account was great - I'm always worried if I have the right HMRC account to pay into so this took the worry out of it.\u201d"
+        },
+        {
+            "text": "A team making history "
+        },
+        {
+            "text": "With COVID-19 resulting in us working remotely, it was no easy task delivering this on time. Thanks to the combined efforts of the team we quickly adapted to the new work environment and succeeded. Next, we will be introducing \u2018Pay by bank account\u2019 to another 33 tax regimes and exploring ways to improve it with new features and components from the Government Digital Service (GDS) Design System."
+        },
+        {
+            "text": "It has been exciting to be part of this team, as it feels like we are making history with our work. On the day we made our initial release for Self Assessment customers it was exhilarating to watch the first payment being made. Seeing the transactions increase quickly over the next few weeks was a real treat. Positive feedback also flowed in from taxpayers and elsewhere in the organisation. I felt a great sense of accomplishment seeing users react positively to the product that I helped deliver."
+        }
+    ]
+}

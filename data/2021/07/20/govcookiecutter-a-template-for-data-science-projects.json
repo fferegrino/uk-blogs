@@ -1,0 +1,104 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/",
+    "title": "govcookiecutter: A template for data science projects",
+    "authors": [
+        "Eric Young - Data Scientist, GDS"
+    ],
+    "categories": [
+        "agile",
+        "Data science"
+    ],
+    "pub_date": "2021-07-20T10:00:42+01:00",
+    "content": [
+        {
+            "text": "Agile data science is hard. Data exploration and cleaning, researching techniques, and generally \u201cdoing data science\u201d takes time \u2014 think months rather than weeks."
+        },
+        {
+            "text": "In the Civil Service, we must also ensure our analyses are fit-for-purpose. By analysis we mean anything with an input, some processing and an output, like a machine learning pipeline, a dashboard, or even a spreadsheet."
+        },
+        {
+            "text": "Assured and robust analysis is important to avoid unintended consequences, which could impact individuals and their livelihoods. The Aqua book provides high-level guidance around producing quality analysis in government, and these analytical quality assurance (AQA) principles must be followed in our work."
+        },
+        {
+            "text": "Iterative, incremental, and evolutionary delivery is a key part of Agile. How can we balance this with the need for robust AQA, without grinding delivery to a halt? And, equally importantly, how do we make sure AQA is done?"
+        },
+        {
+            "heading": 1,
+            "text": "Baking with govcookiecutter"
+        },
+        {
+            "text": "To try and address these needs, the GDS data science team created govcookiecutter. By answering a few prompts, this generates (bakes) a project structure with a range of AQA features. We can\u2019t tell you what checks to do \u2014 that varies between projects \u2014 but we can make it easier for you to do them."
+        },
+        {
+            "text": "Some assumptions to start though:"
+        },
+        {
+            "text": "Most of the features use Git hooks based on the pre-commit framework; these hooks run checks before you even write a message for your commit! If any fail, then you won\u2019t be able to commit code until the failing checks are resolved. For R users, we have also implemented most of these hooks."
+        },
+        {
+            "text": "Want to see a live demo with more details about govcookiecutter? Check out this live recording from earlier this year!"
+        },
+        {
+            "heading": 2,
+            "text": "Keeping data and secrets safe"
+        },
+        {
+            "text": "On the most basic level, govcookiecutter-based projects don\u2019t track any files inside the data folder. But there is a hook to check if you are trying to commit files larger than 5MB as well, just in case there are any stragglers."
+        },
+        {
+            "text": "Another risky area for data leakage is in Jupyter notebooks, a popular tool for data scientists. Executing notebooks leaves outputs on display, which can end up in version control. In addition to making tracked changes difficult, some of your sensitive data could also be exposed in these outputs. To prevent leaking data, the nbstripout hook cleans up all your Jupyter notebook outputs, except for explicitly-tagged cells."
+        },
+        {
+            "text": "The detect-secrets hook tries to identify secrets (for example, credentials, API tokens) and prevent them being version-controlled. It uses regular expressions, entropy detection (heuristic approaches to find \u2018secret-like\u2019 entries) and keyword detection in its searches, but it\u2019s not foolproof, so should only complement, not replace, your organisation\u2019s best practice."
+        },
+        {
+            "text": "But you will still need to use your secrets locally. To do this, you can use the untracked .secrets file to store all your secrets as environment variables. You can then load these environment variables in your scripts, safe in the knowledge that your secrets will stay local."
+        },
+        {
+            "heading": 2,
+            "text": "Documentation"
+        },
+        {
+            "text": "Keeping documentation up-to-date is tricky, especially if it\u2019s stored far away from your code. With the docs folder, govcookiecutter-based projects keep documentation in one place that\u2019s easily accessible for anyone with access to your repository. It also means reviewers can check that documentation has been updated via the commits."
+        },
+        {
+            "text": "The docs folder also stores all the AQA documentation, including departmental frameworks, AQA plans, and assumption logs, so everyone can clearly see and access them."
+        },
+        {
+            "text": "We\u2019ve documented all the features discussed in this post so you don\u2019t have to, and we\u2019ve also set up Sphinx, a Python documentation generator used by many major packages, so you can (optionally) build a searchable website of all your documentation quickly and easily."
+        },
+        {
+            "heading": 2,
+            "text": "Testing and structure"
+        },
+        {
+            "text": "Verifying your work is a key pillar of AQA, and one way to do this is to write tests for your code. Instead of spending time configuring your test suite, we have set up the pytest framework for you, as well as coverage.py for code coverage, so you can get on with writing tests, not configs."
+        },
+        {
+            "text": "A consistent project structure also means it\u2019s much quicker to bring colleagues into your project with everyone having an agreed understanding of which files go where."
+        },
+        {
+            "heading": 2,
+            "text": "Bringing it all together for Agile"
+        },
+        {
+            "text": "And how do we make sure you and your contributors do these checks? Whenever a pull or merge request is raised, govcookiecutter-based projects use a request template that has a checklist for contributors to tick off."
+        },
+        {
+            "text": "This reduces the burden of filling out lots of documentation, when all the details should already be in commits, their messages, or in pull/merge requests comments. And it provides a lightweight, but auditable way to quickly ensure appropriate AQA has been completed for this branch of code."
+        },
+        {
+            "heading": 1,
+            "text": "The future of govcookiecutter"
+        },
+        {
+            "text": "Going forward, there are a few more things we would like to add, but we would also love contributions to the project. It\u2019s open source, and freely accessible to many public sector data scientists, so would be a good opportunity to showcase your skills. Feel free to fork the repository and add your contributions!"
+        },
+        {
+            "text": "We would also love to incorporate AQA frameworks from other government departments, and public sector organisations into govcookiecutter, so that others can see and improve on best practice; contribute directly on the GitHub repository, or drop us an email."
+        },
+        {
+            "text": "For standalone R users, we ran a poll earlier this year where 82% of respondents (32 out of 39) wanted a pure R version. If you\u2019re interested in this, get in touch, and have a look at this issue."
+        }
+    ]
+}

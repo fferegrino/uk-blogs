@@ -1,0 +1,289 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/07/05/podcast-powering-decisions-with-data/",
+    "title": "Podcast: Powering decisions with data",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Podcasts"
+    ],
+    "pub_date": "2021-07-05T13:58:35+01:00",
+    "content": [
+        {
+            "text": "Data is at the heart of every digital service in DWP. By making better use of our data, we\u2019ll be able to fully understand customers\u2019 behaviour in order to keep improving our services."
+        },
+        {
+            "text": "In the latest episode of the DWP Digital podcast, Gemma Elsworth and Olga Boynton who are part of DWP Digital\u2019s data practice, talk about the important role data plays across our services."
+        },
+        {
+            "text": "They also share what they\u2019re working on at the moment, what\u2019s in the pipeline and their tips for others working in the data industry."
+        },
+        {
+            "text": "A full transcript of the podcast episode can be found below."
+        },
+        {
+            "heading": 3,
+            "text": "Join us on our journey"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating."
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Welcome, everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're talking about the role and importance data plays across our services. And don't forget, if you're interested in technology and the types of things we do, hit the subscribe button now so you don't miss an episode."
+        },
+        {
+            "text": "Let's get started. Gemma and Olga, would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "I'm Gemma Elsworth. I'm head of digital performance analytics for DWP. I've been working in DWP for the last 2 and a half years over a couple of different roles. So, I'm still relatively new to Civil Service life. Before that, I was in the private sector. I've worked in the travel industry, the retail industry and the finance industry. So I've got quite a breadth of experience across a lot of different industries. But my specialisms are in web analytics and experimentation, AB testing and conversion rate optimization."
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "My name is Olga Boynton, I am hub lead of data science ops and analytics. I have a background in controlling systems engineering modelling and relatively long early career in academia as a post doc. The common thread throughout my career has been data modelling of system of complex systems, and simple solutions to complicated problems and a relentless curiosity. I'm relatively new to DWP, 2 years last week last week. In fact, moving to Civil Service has been a huge change for me. From a niche scientific research area with broad industrial applications to a department supporting over 20 million people. Retrospectively, I definitely arrived at the right time. DWP has huge ambitions especially across data transformation and digital strategy. And it has been 2 very busy year that passed in a blink."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So tell me about your teams and responsibilities?"
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "I'm part of the digital performance analytics family and my role within that is to set the strategic direction and to ensure that we have all of the capability that we need to be able to do our jobs. Digital performance analysis is a professional in DWP that evolved out of web analysis. In DWP, we are currently building lots of websites for citizens to use to apply for benefits and support."
+        },
+        {
+            "text": "We as digital performance analysts work with the development teams that are building these websites to understand the user journey, not just online, but also in our contact centres and our processing centres. We help the teams, along with user researchers, to define where the problems are in the journeys and how big each problem is. This enables them to prioritise fixing the biggest problems first. Then we use analysis to understand whether we fix the problem or if we need to do more. This enables teams to move through the development lifecycle from discovery to live with a measured approach to the decisions that they have made and the ability to prove that they have made the right decisions for citizens along the way."
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "I am hub lead of data science ops and analytics. It's a team that focuses on delivering insight and data solutions across lines of business within a focus of joining up customer experience, support analytical needs on staff availability, and dynamic business resource planning. My team is part of cross-cutting services and is bridging between the digital directorates and operations. We have alignment with the digital and business strategy as you would expect. And since the data is core to our business function, we are very loud advocates of the data strategy."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Can you tell us about our approach and strategy behind why we need to collect data and why it's important for us to so?"
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "Obviously we need to collect some data in order to be able to process claims. And we don't want to ask more questions than is necessary in order for a citizen to be able to make a claim. So we join data that we get from claims with information that we have about user journeys on the website and information that we have about how long it takes on average to process claims and things like that, in order to get a clearer picture of what is going on."
+        },
+        {
+            "text": "It's important to use data in DWP to ensure that we are making the claim process as efficient as possible for citizens. In the end, what we want to do is get the right money to the right person at the right time."
+        },
+        {
+            "text": "We also need to ensure that we have the right staffing levels to be able to cope with demand and we need to be able to use data to monitor for any fraud or error in our systems and to mitigate against any of those kinds of risks."
+        },
+        {
+            "text": "The use of data is critical to DWP\u2019s ability to understand the issues that the UK is currently facing, and to ensure that we are delivering an appropriate and effective response. With that in mind, we have developed and published the department's first data strategy, which directly links to the DWP business plan, as well as the National Data Strategy. Our data strategy plots out the journey we need to take from having lots of fantastically rich data spread out across multiple silos, to unlocking the potential of this data by implementing an enterprise-wide approach to data architecture and modelling. Improving the quality and interoperability of data across these silos and unlocking the potential for advanced analytics to support the department's strategic ambitions around automation and personalization. It's easy enough to say but we have a long road ahead of us that will require sustained effort and continued long term investment in our data capability to get there."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Can you give us an example of how we collect data and the journey it takes before reaching our services and teams?"
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "Simplistically speaking, we have two types of data, operational data and analytical data. And traditionally, it exists in two different planes. The operational data is used for running the business and serving the users, for example, the citizens and the employees and is moved through pipelines into the analytical domain. On its way, depending on the quality and the end purpose, it may go through some transformations, for example, cleaning and reaching, standardising and in some cases aggregation. In the analytical domain, we then use this data to optimise the business. So for example, resource planning or delivery and improve the customer experience."
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "In the performance analytics space, we collect data about journeys that our users make on our websites. We do this with consent and in line with the new legislation from PECR, the Privacy of Electronic Communications Regulations, and GDPR, the General Data Protection Regulations. What this does is it allows us to see how our citizens are moving through the website and identify any problems that they might be having, or any pages that might be causing people to leave. And with this, we can talk to our user researchers and our content designers to understand whether we can make that better for citizens, whether we can make the process easier for them to complete. And where the biggest problematic places are and where teams need to focus when they're making changes."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So once the data reaches our services and teams, how do we go about using it, and how is it used to inform our approach?"
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "As a department, we have a strong culture in policy design and official statistics, which uses aggregated data to understand our customers and forecast the department's requirements for resources. The main data solution for the traditional analytics is the enterprise data warehouse. And it is for good reasons and easy integration across other data silos, and a speedier data access. But as we went more digital and moved more of our services online, and with the change in the business model for the welfare services, so for example, like Universal Credit, the volume of data has changed significantly, and so did our appetite to use raw and bigger data."
+        },
+        {
+            "text": "We needed something bigger and we implemented in parallel to the enterprise data warehouse, a data lake approach. Both solutions support business intelligence by creating multi-dimensional data systems that allow the analysts and data scientists to query the data and build a number of necessary products, for example reports, visualisations, dashboard and business metrics. This comes with its own challenges and many big organisations experience this. The challenges come from the necessary wrappers around the data like governance or security and permissions, storage, and scaling the access to data, but also cost."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Now we have a better understanding of how we use and collect data, can you give me some examples of how it's used to improve a service?"
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "Traditionally, if you needed to make a claim or interact with DWP, you would have to go into a jobcentre or speak to somebody on the phone. There's been a belief that citizens know what they need when they arrive at DWP. So, we expect that they're going to know the names of the different benefits they can receive and know the process for applying them and to know whether they're eligible for them or not and this isn't always true. We need to stop expecting citizens to know what they need before we can explain it to them."
+        },
+        {
+            "text": "We're working closely with teams to bring some of these processes online for citizens who want to interact with us that way. It's opening up opportunities for us to change some of those processes and ask some questions more simply."
+        },
+        {
+            "text": "My team work really closely with the development teams designing the web-based benefit claim form sites and support sites. We use analysis to identify where citizens might be struggling with these forms and to help to prioritise the changes that need to be made. An example of this is in the child maintenance space. We've created a service that allows separated parents to apply for support in claiming child maintenance. When this application was made over the phone, it was a long conversation with lots of questions. Once we'd created the online application form, we could identify where changes needed to be made. This form would ask a series of questions about what the regular childcare arrangements were for each child in turn."
+        },
+        {
+            "text": "Our analysis showed that 75% of families had the same childcare arrangement for each child. We added a step in the process that asked if the child arrangement for the second child was the same as the first. This meant if the parents said yes, they could skip all of the rest of the questions for that child. We analysed the behaviour in this section both before and after we made the change. And we saw the time it took for parents to complete this part of the form had reduced significantly. This is an example of one small change that we've made in supporting our development teams."
+        },
+        {
+            "text": "We're supporting teams making changes like this, every day on every online benefit. And each small change can add up to a really big difference for citizens, who are having to do something that usually they don't really want to be spending their time doing."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "You obviously have lots of experience interpreting and dealing with data across DWP Digital. What advice or tips would you give others working in the data industry?"
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "I am and I will always be a data modeler. And having data makes me really good to get straight into modelling. But through practice, or better said mis-practice, I acquired a taste to enjoy the data exploration, although I still see it as the least exciting part of the process. So, the most obvious ones to me are related to the early stage of the data exploration because that is the foundation of your work and small mistakes or assumptions will propagate and reverberate and then can amplify actually throughout the project."
+        },
+        {
+            "text": "So to name only a few, the first is around documenting and researching the limitations of the data. So to fully understand the purpose and the method of data collection, understanding if the data is pertinent and suitable to the process you're modelling and if the process that drives the data is consistent. A good example would be the COVID-19 crisis where almost every service provider had to change their normal service delivery. And this is one year worth of data with discrete incremental changes that will transpire through it. The next one would be probably data smoothing and cleaning. And this is a pretty big one for me, especially if we talk about data modelling, the majority of the systems we try to model will be nonlinear. And while I understand that linearity is intuitive and drives actionable results, I'm careful with it especially when the data relates to people and complicated business processes, because life is most likely not linear. The last one is consider if the data sample is representative. This is especially pertinent for interpreting results and the purpose of your data investigation. Context matters. There are 2 main aspects to consider - the evident technical aspects, so is it really statistically representative? But also the ethical considerations. And working for DWP and working with such dynamical data and such diverse data, it is very important to take these things into consideration."
+        },
+        {
+            "text": "I think it always paid off spending a bit of time with the data, just look at it and browse it, understand the context. I normally look for irregularities and document it if there are processing blips, if there are noise or an important part of the process that just looks a bit off or a bit different. And if it is or not pertinent to my investigation. It is an important part, but also this becomes part of the story I need to tell the stakeholders because very rarely a bar chart will be powerful enough to deliver the full image."
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "One of the biggest mistakes that we see as a team is a product that's been developed without considering how we will measure whether it's working or not. Data implementation is often left until later because it's not a tangible need at the beginning of the process, until some something goes live, and people ask, \u201cSo how's it going?\u201d And no one's able to answer the question because we haven't collected any data. The outcome of this is often retrofitted analytics or putting Google Analytics on at the end and using lots of proxy measures to stand in for real data. We're really keen to use the data that we need to measure the success of the things that the teams are building. We don't just want to figure out some measures or a dashboard from the data that's available at the end."
+        },
+        {
+            "text": "It's not always possible to do this. Some projects are too far into the build process. But by thinking about how we'll measure the work from the very beginning, we have a much higher chance of collecting the right sort of data. We always follow a process from the beginning. We workshop with teams about the purpose and goals of the service that they're building. We break this down by aims for the department, such as less phone calls or faster processing time, and aims for the citizens such as the shortest time possible to process a claim and not having to repeat the information they give us."
+        },
+        {
+            "text": "Then we talk about what success will look like for the service. So we imagine what perfect success would be like on that day one when it goes live, everything's rosy, what does that look like? But then we also talk about what failure would look like. So if on day one, everything goes live and it all falls apart, what would that look like? How would you know that something was going wrong? And sometimes failure just isn't just the inverse of success. And sometimes that can be easier to measure. So you can measure what you don't want to happen, as well as what you do want to happen. By following this process, it helps us to define what measurements and metrics are really important and will actually show us if the service is succeeding in meeting those goals that it set out at the beginning."
+        },
+        {
+            "text": "By doing this right at the beginning of the process, we can identify what data we need to capture in order to carry out these measurements and to build these metrics. And then we can build them in from the beginning, creating a strong data foundation for our products instead of retrofitting them or trying to use proxies later once the product has gone live."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what's next? What are you currently working on? What is in the pipeline?"
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "Gemma was mentioning earlier about our data strategy, and that it promotes a data-driven culture. We want to use data to inform our decisions and supported DWP\u2019s business plan. To achieve that, as an organisation, we are actively investing and working on our data transformation. We are moving away from analytical data solution and this will accelerate access to data. With an increase of access to business data, we can move the balance from a reactive business model to a preventative one."
+        },
+        {
+            "text": "Our focal points are to streamline resource management to improve the user experience at every single touch point with our organisation and differentiate our services, and where possible and obviously appropriate, to enable self-service and automation for the user. As you can tell the future for us is all about the user, understand the user, understand the needs and offer the right level of support and access to our services."
+        },
+        {
+            "text": "So, I guess the cutting edge take here is that we want to create a framework of automated analytics that enables us to fill major intelligence gaps about our user groups in real life."
+        },
+        {
+            "text": "What does this mean in practical steps? We are creating the data model that uses system information like event data from our services that connects users and their journeys through our systems, to interventions and to outcomes in the real world. This essentially creates a preventative system that will use dynamic segmentation to offer a timely and tailored service for every user group. As you can see, we have big ambitions, but analytics cannot be deliver this alone. We are currently developing capability, numerous data models and business support to get us closer to our vision. But it is very exciting to be part of this transformation. And I think Gemma will tell you more about it next."
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "As Olga has just hinted towards, one of the most exciting projects that's coming up in the data space at the moment is the data mesh. Now, I'm not a data engineer, so I can't pretend that I'm any sort of expert in this space. But I can tell you what this means for us. As Olga mentioned earlier, the way that we previously worked with data was to try and collect data and store it centrally. But this ended up with trying to make the data warehouses a bit of a jack of all trades. It also left other teams with small islands of siloed data that can't be shared with each other. It's difficult to manage when technology changes so quickly and we're building so many products all the time."
+        },
+        {
+            "text": "We need to build products in DWP that capitalise on the wealth of data that's available to us. To do this, we need to be able to embrace the latest technologies and improve how we connect data together. The data mesh concept allows us to start to decentralise the ownership of data. So responsibility for the data will lie with the product teams who create the products, enabling them to use the technology that they choose. At the same time, the central teams who currently run the data stores will still provide some structure and building blocks that allow products to create data that is able to be shared and used in the right way across other products in DWP. So we could use data from Universal Credit, for example, to help us to reduce the number of questions a citizen had to answer in a health application."
+        },
+        {
+            "text": "What this means for us as users of the data is that we will be able to use the data mesh to access a justifiable amount of data that we need. At the moment, we have to make bespoke connections to any data that we want to use. And it makes it almost impossible for us to join and to process the data that we need. With the data mesh, we will be able to access and govern data via connections that are standardised. This will allow us to use the different datasets and combine them to show a huge range of use cases beyond what we can at the moment. For both operational data that we need to process claims and for data that we use for analysis, it will open a wealth of opportunity for innovation and change the way that we work at DWP, ultimately making things better for the citizens that have to use our products."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, what direction would you like to see DWP Digital move in regarding data?"
+        },
+        {
+            "heading": 3,
+            "text": "Gemma Elsworth\u00a0 "
+        },
+        {
+            "text": "My plans for the next couple of years is to be focusing on the strategy around how we best use digital performance analysis and data science in DWP, how we make sure that we have that analytical viewpoint on products that are being built from the very beginning right through to them going fully live on site."
+        },
+        {
+            "text": "I want to ensure that we have a good breadth of data knowledge available to the people that are building out these services that are going to be facing our citizens. And I'm trying to do that in a way that enables everyone to be able to build and learn and grow and develop a good career here at DWP and to be able to enjoy coming to work and enjoy doing what they do."
+        },
+        {
+            "heading": 3,
+            "text": "Olga Boynton\u00a0 "
+        },
+        {
+            "text": "I think with DWP, moving towards more digital systems and services, there's going to be more need for data scientists to do smarter things. I am very, very excited for creating services that are near real-time, that focus on customer experience, not only the way that the customer perceives the customer experience, but also what happens throughout their journey and how we support that."
+        },
+        {
+            "text": "I mentioned before about instead of being reactive, but being more preventive, and I think it is a good place to be and our ambitions are matching the needs of the UK right now."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button if you want to make sure you don't miss our next episode. And I'd like to thank Gemma and Olga for taking part today."
+        },
+        {
+            "text": "I've certainly learned a lot about the use of our data, and I hope you did too."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time the DWP Digital podcast."
+        }
+    ]
+}

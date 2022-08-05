@@ -1,0 +1,91 @@
+{
+    "url": "https://marinedevelopments.blog.gov.uk/2022/05/04/enhancements-to-marine-case-management-system/",
+    "title": "Enhancements to Marine Case Management System",
+    "authors": [
+        "Andrew Watson, Marine Management Organisation"
+    ],
+    "categories": [
+        "marine licensing"
+    ],
+    "pub_date": "2022-05-04T10:27:22+01:00",
+    "content": [
+        {
+            "text": "On 5 May 2022 changes will be made to the marine licensing application process as part of the Marine Management Organisation\u2019s (MMO) continuous improvement programme."
+        },
+        {
+            "text": "What will change for customers?"
+        },
+        {
+            "text": "Customers submitting a new application will be provided with a list of polices deemed relevant to the proposal based on the site location(s) provided in their application. Each policy in the list will include policy text, a link to more information about the policy along with a prompt asking them to explain how they have considered the policy. Customers are provided with further help text to help them understand the kind of information that should be provided."
+        },
+        {
+            "text": "The new screen replaces the previous screen which simply asked customers to indicate which marine plan area their proposal was in and to detail how they considered that this project is in accordance with the relevant marine plan(s) and/or Marine Policy Statement."
+        },
+        {
+            "text": "Project objectives"
+        },
+        {
+            "text": "The primary purpose of the project was to front load the marine plan policy assessment process so that it is applicant led to facilitate better quality applications, reduce case team policy assessment processing time and costs for applicants and MMO."
+        },
+        {
+            "text": "Additional objectives included enhancement of case processing screens to improve the experience of the case team, create further efficiencies where possible and to ensure the documentation of the MMO\u2019s assessment and conclusions within the system and on the marine licence public register."
+        },
+        {
+            "text": "As a final objective the project aimed to develop reporting functionality that enables the capturing of data about the assessment of marine plan policies in marine licence decision making to facilitate more efficient and detailed analysis of use of marine plans by the marine planning team."
+        },
+        {
+            "text": "How have these objectives been met?"
+        },
+        {
+            "text": "Enhanced marine licence application form so customers can:"
+        },
+        {
+            "text": "Enhanced case processing side of the marine case management system so the case team can:"
+        },
+        {
+            "text": "Enhanced public register screen so that members of the public can:"
+        },
+        {
+            "text": "Enhanced MCMS reporting to include a new marine plan policy specific report so MMO can amongst other things:"
+        },
+        {
+            "text": "Which applications will benefit?"
+        },
+        {
+            "text": "The new functionality will be applied to any new marine licence applications."
+        },
+        {
+            "text": "Any applications already submitted will not benefit from the new functionality and will follow current process."
+        },
+        {
+            "text": "The new functionality will not be applied to self-service marine licence applications as consideration of marine plans is pre-assessed by MMO in these cases."
+        },
+        {
+            "text": "How does it work?"
+        },
+        {
+            "text": "New applications for a marine licence will include a dedicated marine plan policy screen. The screen uses site location data provided by the applicant to query an ArcGis marine plan policy layer displaying results in policy sector groupings in the new marine licence application form policy screen."
+        },
+        {
+            "text": "The new screen contains various features to improve the Applicant experience and facilitate the provision of marine plan policy information to support the application. *Numbers correspond to the image:"
+        },
+        {
+            "text": "\u2018The explanation should include whether you consider the project in accordance with the policy objectives, and if so how. If your proposal is not in accordance with the policy, please explain why not and include any considerations you believe MMO should take into account when assessing your application. "
+        },
+        {
+            "text": "If you wish to direct the MMO to supporting information relevant to your consideration of the specific policy, you may do so by clearly signposting to the relevant section(s) of the appropriate document(s). You must still provide a summary setting out your policy considerations.\u2019"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Further information can be found on our GOV.UK pages"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

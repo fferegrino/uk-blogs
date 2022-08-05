@@ -1,0 +1,114 @@
+{
+    "url": "https://dvladigital.blog.gov.uk/2021/09/07/getting-to-know-our-software-development-engineers-in-test-sdets/",
+    "title": "Getting to know our Software Development Engineers in Test (SDETs)\u00a0",
+    "authors": [
+        "William Bray",
+        "Alex O'Mahoney"
+    ],
+    "categories": [
+        "DVLA Digital Services"
+    ],
+    "pub_date": "2021-09-07T09:57:46+01:00",
+    "content": [
+        {
+            "text": "At DVLA\u2019s Information and Technology Services (ITS) directorate, we\u2019re constantly looking for new ways to improve and enhance our digital services for the benefit of our customers."
+        },
+        {
+            "text": "The Software Development Engineer in Test (SDET) role involves designing and developing software for testing."
+        },
+        {
+            "text": "We caught up with William Bray and Alex O\u2019Mahoney, 2 of our SDETs, about their day to day activities and working at DVLA."
+        },
+        {
+            "heading": 2,
+            "text": "Who are you and how long have you worked at DVLA?"
+        },
+        {
+            "text": "William: My name is William and I'm an SDET at DVLA. I've worked at the agency for more than 6 years. I joined DVLA as a Junior Software Developer but along the way have progressed into the SDET role."
+        },
+        {
+            "text": "Alex: My name is Alex and I\u2019m also an SDET at DVLA. I started at DVLA in 2015, working in an operational area while in university studying computer science. I moved to the ITS directorate in 2017 as a Junior Software Engineer and became an SDET in 2020."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s it like working on services that will be used by millions of customers?"
+        },
+        {
+            "text": "William: There\u2019s definitely a constant awareness that the products I'm working on will have some kind of impact on almost every household in the UK. While this may add a little bit of pressure here and there, this is a great source of pride for me, knowing that what I'm doing every day is really making a difference."
+        },
+        {
+            "text": "Alex: Knowing that a service you help create will be relied upon by millions of people is an awesome feeling. I\u2019ve worked on many services during my time in ITS such as Driver\u2019s First Provisional (DFP), our tachograph services and the Register a Vehicle (RaV) service."
+        },
+        {
+            "text": "When people close to me use these services, it gives me a little chuckle knowing they\u2019ve probably come across a button on a page I\u2019ve implemented or a feature that might not have worked if our test automation packs did not pick up a bug."
+        },
+        {
+            "heading": 2,
+            "text": "Tell us what you enjoy about your role"
+        },
+        {
+            "text": "William: Being able to find creative solutions to interesting issues is my favourite part. I get to see what other teams are working on and help with solving problems, while being able to experiment with different approaches and ideas."
+        },
+        {
+            "text": "One of my projects has been creating utility tools to help streamline some of our ways of working, and I'm hoping to officially open source them for anyone to use. I had the freedom to test possible solutions, despite it not being directly tied to what my team was working on at the time."
+        },
+        {
+            "text": "Alex: Having the freedom and support to pursue your interests and passions is one of many awesome aspects of the SDET role at DVLA. I love the trust I\u2019m given to explore new tools and technologies to help drive and innovate our test automation packs. Seeing how the SDET role has matured in a short space of time is incredible and makes me immensely proud to be a part of it."
+        },
+        {
+            "heading": 2,
+            "text": "How do you work with members of your teams?"
+        },
+        {
+            "text": "William: I work closely with both my team and also the wider SDET community. With my team, I maintain and improve our functional testing suite, while also aiding with exploratory testing when needed. I also help our manual testers when they have questions regarding technical aspects of the project."
+        },
+        {
+            "text": "When working with the SDET community, I get to assist in developing proofs of concepts, working on wider reaching issues, and helping with any tricky problems we may be facing (such as system or database issues that affect automation testing)."
+        },
+        {
+            "text": "Alex: I\u2019m currently split across 2 squads to help write and maintain the test automation packs for the services they build. I love to work closely with my colleagues and share as much knowledge as I can, so you\u2019ll often find me on a call with someone working on a particular feature together."
+        },
+        {
+            "text": "Within the SDET community, we like to catch up once a week to chat and discuss relevant topics to keep us all in the loop."
+        },
+        {
+            "heading": 2,
+            "text": "Are there any opportunities for career progression or training?"
+        },
+        {
+            "text": "William: Training is widely available and actively encouraged by DVLA. As an SDET, I\u2019ve signed up for a variety of testing focussed courses to improve my knowledge in that area. I've also received training in a variety of programming languages and platforms, such as Amazon Web Services (AWS)."
+        },
+        {
+            "text": "Our teams always make sure that members can take the time to attend courses and gain accreditation, but we're also encouraged to pursue self-guided learning if there\u2019s a subject we're interested in."
+        },
+        {
+            "text": "Alex: Absolutely, there are constant training courses available which you can sign up for, in addition to the licences we\u2019re given to explore interests in our own time, such as AWS and Udemy."
+        },
+        {
+            "text": "As SDETs, we are members of the Digital, Data and Technology Profession (DDaT). We both progressed to the SDET role after gaining experience in junior positions, so there\u2019s a clear pathway for people to develop their career."
+        },
+        {
+            "heading": 2,
+            "text": "Tell us about your work-life balance"
+        },
+        {
+            "text": "William: As a father of a young child, it's incredibly important that I manage to achieve a good work-life balance. Luckily, working for DVLA has meant I've never had trouble separating my work life from my home life."
+        },
+        {
+            "text": "Even with prolonged working from home, I've not felt any pressure to work longer hours than required. In fact, I've been able to be more flexible with when I start and finish to ensure I get the most out of my family time."
+        },
+        {
+            "text": "Alex: We already had a good work-life balance when working at the office. I thought working from home would have changed the balance, however that hasn\u2019t been the case. We\u2019re encouraged to take breaks and I\u2019ve never felt like I\u2019ve had to stay on longer or start earlier, which is great."
+        },
+        {
+            "heading": 2,
+            "text": "Become an SDET at DVLA"
+        },
+        {
+            "text": "Over the next 3 years, we\u2019ll be working on many new and exciting projects as we seek to redesign and replatform our services to benefit customers. And you could help us!"
+        },
+        {
+            "text": "We\u2019re looking for a new SDET to join our team. Read more, and apply now. Don\u2019t miss out!"
+        }
+    ]
+}

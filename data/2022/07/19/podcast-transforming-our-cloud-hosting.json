@@ -1,0 +1,340 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/07/19/podcast-transforming-our-cloud-hosting/",
+    "title": "Podcast: Transforming our cloud hosting",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Cloud services",
+        "Podcasts"
+    ],
+    "pub_date": "2022-07-19T10:36:36+01:00",
+    "content": [
+        {
+            "text": "For over 25 years, DWP\u00a0outsourced its IT services to many different suppliers. Over the last few years we\u2019ve been on a journey to bring these services back in-house, allowing us to move to building cloud native services ourselves. \u00a0"
+        },
+        {
+            "text": "In the latest episode of the DWP Digital podcast, Jamie Faram from our hybrid cloud services team is joined by Ian Moore and Stuart Jennings from Nutanix, to talk about the transformation of cloud services. \u00a0You\u2019ll hear all about the platforms and software used to enable such a large transformation and the lessons learned along the way. \u00a0"
+        },
+        {
+            "text": "A full transcript of the episode can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Listen now\u00a0\u00a0"
+        },
+        {
+            "text": "You can listen now on:\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Don\u2019t miss an episode\u00a0\u00a0"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people.\u00a0"
+        },
+        {
+            "text": "\u00a0Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts.\u00a0"
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Careers at DWP Digital\u00a0"
+        },
+        {
+            "text": "Visit\u00a0our\u00a0Careers site\u00a0to find out more about joining us.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Welcome to another episode of DWP Digital's podcast. My name is Will, and today we're talking about DWP Digital's transformation of its infrastructure and cloud services. Hit the subscribe button now to make sure you don't miss our new episodes and if you haven't already, feel free to listen back to our previous episodes covering a wide range of subjects from user experience to digital sustainability. So let's get into today's conversation. Jamie, Ian and Stuart - welcome. Would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "Hi, Will, thanks. Yeah, I'm Jamie Faram. I'm a lead engineer working in the hybrid cloud services team as part of the digital function for the DWP. And we basically provide the infrastructure and platforms plus a load of shared tools and services to the full DWP customer suite of applications."
+        },
+        {
+            "heading": 3,
+            "text": "Ian Moore"
+        },
+        {
+            "text": "My name is Ian Moore, and I'm an enterprise account manager for Nutanix looking after DWP, and we help them modernise their on-premise infrastructure, delivering that cloud like capability through their hybrid hosting transformation programme. Stuart, would you like to introduce yourself?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "Thanks, Ian. Yeah, so my name is Stuart Jennings, I work on the central government accounts with Ian. I'm here from a technical perspective to help the organisation sort of understand what Nutanix can do from a technical point of view. And I'm also here to help the organisation understand some of the new ways of working and learn from other customers\u2019 experiences to make sure that you're getting the most value out of the Nutanix platform."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Thanks for those introductions. We've got a lot of expertise with us here today. So Jamie, DWP Digital has been through a massive transformation of its infrastructure in cloud services. Can you tell us about this, and how we've managed to bring services back in house?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "So I think like most other government departments, there was a big initiative a few years back now to bring services back in-house as a big money saving scheme. And I think there was quite a lot of trials and projects initially, and some of the departments have really seen some big savings."
+        },
+        {
+            "text": "So yeah, the infrastructure that we've got is a bit of a mixed bag, really. So, we've picked up and shifted some of our infrastructure from the third-party suppliers that we were with. So, a lot of three-tiered virtualization, SAN base storage, compute virtual machines and things. But a lot of our services as part of that transformation have moved to the to the public cloud as well. So, we've got a big footprint in AWS and a growing footprint in Azure. Very much traditional back in the day, custom applications, custom services, lots and lots of pocket identity domains. Like I say, we've used that opportunity to refresh the hardware to consolidate down as much as we can, to bring in new software and tools, SAS based services and things."
+        },
+        {
+            "text": "So yeah, basically we've got a bit of a mixed bag now where we've got a bit of legacy, traditional tierred up infrastructure. And then we've got this growing private cloud, in our data centres, and a big hybrid footprint up in the public clouds, and lots and lots of bits of software that feed all those. So we've got a self-hosted GitLab that we\u2019re moving to SAS-based software. We've got artefact stores, again that we're looking to use SAS-based services, we've got Splunk that we're currently migrating. And we've got a big mixed bag of really hybrid working, and basically all that's been done to really get the best value for money for the department, but also the UK taxpayer ultimately."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "How did you implement these changes? And what platforms and software did you use to enable such a large transformation?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "We could have back when the government set the initiative out of bringing it back in-house. We could have just picked up all this legacy equipment, we could have just dropped it back in our own data centres and took that in-house and there would have been some savings and that probably would have been the easiest method of doing it and caused the least disruption."
+        },
+        {
+            "text": "But we didn't really want to do that DWP is trying to be forward thinking especially hybrid cloud services of how do we do it, so as part of that we we've refreshed a lot of our platforms to reduce the footprint in the data centre to bring in modern techniques to increase the performance and reduce the outages. So as part of that, the first one that we delivered in this way we replatformed the Citrix environment. So that was currently back in the old supplier's data centres. I think it took up so sort of two data halls on its own inside two separate data centres so it was one of the biggest Citrix, well it was XenServer back then. But it was one of the biggest platforms in the whole of Europe. And obviously to run a platform of that size with that much equipment, it cost the department lots of money."
+        },
+        {
+            "text": "So, Citrix platforms, one of the first ones back in, for those of you that don't know what Citrix does. It provides end-user computing to the department. So that was scaled out to about 75,000 users."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "So what work have you carried out to implement hybrid cloud technology, and what has been your thought process?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "The platform was reworked, refreshed onto hyper-convergred Nutanix storage due to its performance and the partnership that they had with the Citrix provider. The next two projects that we've used the Nutanix platform for and bringing that private cloud, hyper-converged technology into DWP was our data and analytics platforms, which is data sciences and the new one that we're currently delivering, which is data warehouse. These are our big data platforms that look at the way that benefits are funded, fraud. I think at the time they were used in the general election and things like that."
+        },
+        {
+            "text": "So yeah, they're really critical elements to our business that we're working on. And obviously, the way that we're delivering them is changing the way that we deliver the rest of our workloads and remediate our legacy platforms that we've got in the rest of the DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Stuart, can you tell us more about the Nutanix platform and how it works?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "Our intention is to try and modernise the way that data-centre infrastructure is deployed, scaled and operated. And I think that's one of the benefits that the DWP have seen over the number of years that we've working with the team."
+        },
+        {
+            "text": "I guess, from a Nutanix point of view, we saw the impact of public cloud providers sort of 10-15 years ago, and the benefits that could be gained from operating in that way, within the data centre. So, we've, created some technology that's now referred to as HCI, or hyper-converge infrastructure, which is basically a method of reducing complexity in the data centre by bringing computing storage back together again, just like it was sort of pre virtualization. And I think what we're trying to do is combine the best of both worlds - the utilisation, benefits and the cost savings that comes with virtualization, with the performance and scalability of bringing the computing and storage tiers together."
+        },
+        {
+            "text": "And I think since then there's been a lot of services that we've been able to add to the platform of which IT department is busy making use of. So really, I think what this ultimately allows you to do is to have some choice about where your applications and services run. If they're cloud friendly and need to operate in a cloud like way, then you can deploy them in the public cloud. But also you have something on premises that is much more akin to what the cloud offers you in terms of an operating model. So, lots of flexibility for the department to make use of."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Thanks Stuart. So Jamie, how did this tech impact the business? And did you have to change people's mindsets to deploy more agile ways of working?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "Yeah, definitely, definitely. So we've landed a load of technology in the data center. There is always,a mindset that you want to stay in your comfort zone, isn't there? So we could have landed Nutanix and just managed it like we always have with everything else. But I think once we'd got that kit, and we'd got our hands on it and started working with it and seeing the workloads, I think we shifted our mindset and we also shifted a lot of the department's mindsets and governing functions and things like that."
+        },
+        {
+            "text": "So, like Stuart said, when we deployed it, we probably did it in a very traditional manner to begin with. It was like the servers were cloned like you would do normally, the service started getting up and running, obviously with a government department it's a massive no-no, you can't go connecting up to the vendors and all the rest of it, you can't be sending them telemetry. So we're having to scrub logs and get Stuart on site every time we wanted to discuss some big problems and stuff. And like I said, we took it away and shifted the mindset. We went back to our design authority and was like: \u201cHey, look, we just can't cope with this anymore. We can't cope with doing things in the traditional way. We need to start using some of these techniques and services.\u201d"
+        },
+        {
+            "text": "So we got the pulse service so we're sending telemetry back to Nutanix constantly now. It calls home, it pulls the patches in. We're almost like AWS, like Azure, you don't see the parts being replaced, but they're doing that for you in the data centre. The parts are now arriving in our data centre before we even realise that there's an issue in the morning. So, we're picking it up so that we can focus on the other side of things. And like I said, because we've got that hyper converged platform there, it meant that the platform is now able to take on some more of them DevOps techniques."
+        },
+        {
+            "text": "So instead of manually deploying things we got, we got to the Citrix deployment and was like: \u201cOh crap, we've made a mistake here, there's been a bit of a miscommunication, and we need to redeploy it.\u201d And we was like, \u201cWe don't have time for that now.\u201d So the whole control platform was redefined as code, it got put into PowerShell at the time, but we've worked through that. And now that's been worked through us as Ansible Yamo code."
+        },
+        {
+            "text": "But yeah, we went from a two-week deployment manually of doing 200 servers to 20 minutes, it took to redeploy it. And then it was an hour for the security hardening and the extra bits on top to deploy the service. So now that Citrix platform every night gets turned off, wiped out, updated, it's back again there for users. So it's very much like the robot workers in AWS - that platform\u2019s there, it's got a steady footprint. But the workers are getting updated from a gold image once a night and rebuilt."
+        },
+        {
+            "text": "And very much those techniques and practices, like Stuart said, we use our infrastructure influence to teach them to the other areas of the business as well. So, we've taken that to DSP, the data sciences platform, we've taken that to Data Warehouse as well, which means that we can redeploy their servers quickly, or deploy them quickly and redo it, and then pushing that into their application code as well now, so they're looking, not even looking, they've redeployed most of their application stack through Ansible code as well."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "So when it comes to the end user in all this, how has it impacted them?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "There is a big impact to the end user, one straightaway from an operational perspective, like I say because we've increased the response time on failures on the hardware, we've got better practices, we're sending telemetry so we've got bug fixes, we very rarely have any outages on that platform. And they're next to never caused by the hardware, the underlying platform. In fact, I think we had an uptime, including maintenance of around 99% in the last year or even two."
+        },
+        {
+            "text": "So, it's almost making the DWP platforms invisible to the customer, because we don't have any outages with it for a start, and also, it being presented with the DevOps tools and the ability to adopt that means that we can do things faster, we can be more adaptable. So, the data warehouse project - we missed some steps out, we didn't factor in some of the size of the data migration so it meant that we had to rework some of it. It's not a problem, we're just going to replay those playbooks, we destroyed enough of the servers to fit in the data migration, played out some data migration servers, start the migration, and when it's finished we'll just replay them and put them back in where they were. So it's increasing delivery time so we're spending less money on having staff doing the delivery. And then it's also increasing the operational performance of the platform to the point where it just looks as invisible, if not more so than Azure and AWS, at times."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Being the biggest government department in the UK, we actually have some of the largest tech projects in Europe. Ian and Stuart, what's your impression of where we are with technology within government?"
+        },
+        {
+            "heading": 3,
+            "text": "Ian Moore"
+        },
+        {
+            "text": "A lot of people think that government isn't as proactive or lags behind some of the commercial organisations. But that really is not the case and far from it. And in particular, I look after a lot of central government and I would say that the department are a shining light and at the forefront of some pretty impressive technology and more power to them, and congratulations to them as well. Stuart, I don't know if you've got a view and anything you want to add to that?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "Yeah, absolutely Ian. I think it's an exciting time for the department. I think there's a big overhaul of lots of legacy applications and services that are going on, a lot of investment in both the people and the technology in order to deliver on that. And so, you know, actually from a technical person's perspective, I think there's lots of exciting new projects going on and ability to really deal with the latest and greatest in terms of the technology vendors that you're working with."
+        },
+        {
+            "text": "As with, you know, working with a large organisation. Yeah, absolutely. It has its pains, right? Because there's lots of people to deal with lots of different departments that you're having to cross sect and dissect, shall I say and, and try and work together with but that's also really interesting part of the job for me is talking to all the different BAUs, all the supporting functions to try and come together as a team and deliver on something that's typically quite large within the organisation of the size that you're dealing with here. And I speak to my counterparts that work in financial services and general commercial, and they're a bit envious in some regards, because the level of change and the level of upgrade that the department is undergoing at the moment is quite exciting for us to be a part of. So, everybody's got their problems. But I think, you know, the department is absolutely approaching things in the right way. And you absolutely get there in the end."
+        },
+        {
+            "heading": 3,
+            "text": "Will Helmsley"
+        },
+        {
+            "text": "That's great. Something that is of interest to our users is sustainability. To what extent is hybrid cloud technology making us more sustainable?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "Learning from our public cloud brothers within hybrid cloud services and bringing the tools and techniques in on premise, it makes the team like truly hybrid cloud. It makes the workload flexible and probably won't make any friends by saying this, we move a lot of workload up to cloud, lots and lots and as stuff's remediating, like platforms are shrinking. But it does give us the flexibility to bring stuff back from cloud as well, if it's not quite right for that person, if they're not getting the performance that they want, if the latency is too high, if the security people aren't happy and saying like: \u201cShould that go in cloud? Should that not go in cloud?\u201d etc."
+        },
+        {
+            "text": "So, it gives you the ability to ask those five pillars of cloud computing, like is it cost effective? Is it performing the way that is secure, etc? So it does give us that flexibility to push workloads into cloud because we've remediated them on premise into a cloud-like methodology, but also the flexibility to say: \u201cHey, it doesn't look like it's quite working in its current way, can we come back for a bit? And then we'll try again at a later date.\u201d Or: \u201cIt\u2019s just not cheap enough for us at the moment.\u201d So yeah, it gives us that flexibility in hybrid cloud, definitely."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "I mean, I'd add to that as well, that in order to deliver sustainable services, you need to have a decent foundational platform, right? And I think what Nutanix is trying to do is to squeeze down the footprint, squeeze down the power consumption, and ultimately allow you to deliver either the same set of services in less space with less power and less reliance on energy, or allow you to do more with the same amount from a footprint and an energy consumption point of view."
+        },
+        {
+            "text": "So, you know, we try really hard to make sure that we size the platform so that they are fully utilised, both saving money and also looking at the green effects, and allowing you to sort of scale out when you need to. So instead of making these sort of five year judgement calls to say that we need to buy some equipment, in order to put into the datacenter, there's always a level of guesswork when you're dealing with numbers of years out, let\u2019s take a more proactive approach and say: \u201cLook, we'll just buy what we need today, we will utilise that to the highest possible percentages to get the value for money, and then add additional capacity as and when we need it.\u201d And I think that all together really gives you a good alternative to putting things directly in the public cloud. And as Jamie said, finding the most appropriate location or platform to land the services on."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "And have you learned many lessons on what does doesn't work well?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "Yeah. So absolutely. There's always lessons to be learned and certainly we've learned a bunch on the way through this journey with the department. So, I guess one of the key ones for us is understanding the actual requirements at the outset. So, it's sometimes quite difficult to hold the project back a little bit in some senses to really define exactly what we're out to achieve."
+        },
+        {
+            "text": "So, you know, there's always a high-level view of what the guiding principles are going to be. But I think getting into the nitty gritty, into the detail around exactly what we're looking to deliver, how we're going to go about that, and what the sort of outcomes are likely to be. And it doesn't have to be one massive, great big outcome, right? The success or failure of a project - it's not that broad. It's really about delivering milestones and understanding exactly what the BAU or the citizen needs at the end of it, right?"
+        },
+        {
+            "text": "So you're going into that level of detail and also sometimes going back, right? Sometimes you have to take one step back to take two forwards. So, you know, as you progress through the organisation and through the project, sometimes do a look back.\u00a0 We sometimes refer to them as look backs. It's just a bit of a check and balance to make sure that the approach that we said we're going to take at the beginning, are we on track? Have we deviated? Is that for good reason? And it's kind of a bit of a feedback loop. You see that in the sort of technical world where we're developing applications and services, there\u2019s this sort of constant feedback loop just to check to make sure you're on the right course. And I guess that's one of the things that I think we've learned over the years with the department is to just check back in. It\u2019s a large organisation, there's sometimes some change. People do move on, you have new people join projects. So, make sure everybody's fully aware of where we're trying to get to."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Thanks, Stuart. So Jamie, what have you learned and what's next for you with this transformation project?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "There's still a long way to go I think. And I don't think we're ever going to stop trying to improve the platform and reinvigorating the DWP's workload. And just to feed back onto some of the points that Stuart just made around lessons learned and things like that. I would say, this is probably my third large government department that I've worked for. So, I've worked for MOD, FCO. So now with the DWP, I can very much see that all departments feel the same sort of pain of legacy workloads and reinvigorating and bringing stuff, so don't feel like you've got to boil the ocean in the first step. Llike really use that agile methodology, but also don't feel like you've got to do a start to finish agile, break them up into little parts and things."
+        },
+        {
+            "text": "So, like I say, the deployment side we learned and every single project that we go through we\u2019re learning from. So we'll be looking in the next few weeks and months once we've got the platforms delivered to start adopting some of the new storage policies. So, Stuart has been down a few times talking about replication factor one. We're trying to, not just our Nutanix platform, but every platform that we run, Ansible-ise that, infrastructure as code that but we're also taking that into the application stacks. So we'll be asking applications in the future to define themselves as code so we can run backup as code strategies and we can reduce our backup storage limits and licencing on premise."
+        },
+        {
+            "text": "We've already been investigating OpenShift containers and container solutions to make them more flexible between cloud. And then really just looking at the way that we do things and how we can maintain and update security. So, once we've adopted those infrastructure as code and backup as code strategies, like can we start doing that start to finish blue green deployments of pushing patches in through that and pulling workloads down and pushing them back up again, and really getting onto that strategy."
+        },
+        {
+            "text": "And Stuart was saying before, we've started adopting some of the cloud storage tools on this platform. So, we've got Nutanix files, which is sort of like a mirror of something like Azure files or a blob storage to those it's an NFS Share that's presented. So just really going further into it and breaking some of those DWP barriers down again, getting out of that mindset that we're a government department. So we can't necessarily do things like the private sector. Using some more SAS services, like I say, Git lab, looking to bring on-premise, as a software as a service from cloud, we're looking to host our artefacts up there, we're looking to really get to those DevOps principles so that we can unify the way we do things. And we don't have a pocket of team doing something like the private sector over here. And then a group of people that are still 20 years in the past doing things traditionally with point and click and all the rest of it. So really, getting into an infrastructure as code, adopting things like containers and software as a service. And making that really flexible and unifying the way that we do things totally in the DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "Thanks, Jamie. It sounds like there's been lots of progress made. But there's still lots of work for you and the team on the horizon. So on that note, I want to say thank you for everyone taking time out of your busy schedules to take part in our podcast today."
+        },
+        {
+            "text": "Jamie, Ian and Stuart, it has been an absolute pleasure and I look forward to hearing how things progress with you all in the future."
+        },
+        {
+            "heading": 3,
+            "text": "Ian Moore"
+        },
+        {
+            "text": "Thanks for having me. It was great."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Jennings"
+        },
+        {
+            "text": "Yeah, thanks, guys. Appreciate it and we enjoy being part of your part of your journey."
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Faram"
+        },
+        {
+            "text": "Thanks, everybody."
+        },
+        {
+            "heading": 3,
+            "text": "Will Hemsley"
+        },
+        {
+            "text": "That ends our podcast for today. Hit the subscribe button to make sure you don't miss our next episode. And if you'd like to know more about DWP Digital and our thoughts on other tech topics, check out our previous episodes."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2022/07/20/boosting-data-confidence-with-bootcamps/",
+    "title": "Boosting data confidence with bootcamps",
+    "authors": [
+        "Agnes Coaker, Senior Data Analyst"
+    ],
+    "categories": [
+        "Culture",
+        "Data",
+        "People and Skills"
+    ],
+    "pub_date": "2022-07-20T13:43:13+01:00",
+    "content": [
+        {
+            "text": "The Department for International Trade (DIT)\u2019s Digital, Data and Technology (DDaT) strategy wants to make better use of data. Our goal is to use data to get valuable and timely insights. We support this by ensuring that all colleagues have opportunities to develop their data capability and be ambitious about future ways of working with data. One of the ways our Data Infrastructure team support colleagues to do this is by running \u2018Data Workspace bootcamps\u2019.\u202f\u00a0"
+        },
+        {
+            "text": "The name comes from our bespoke Data Workspace platform which functions as a data catalogue and analysis centre. It contains over 800 datasets and over a dozen analysis tools that anyone with up-to-date security training can use. Hundreds of people in the department already use it to search for and analyse data. However, bootcamps provide an opportunity to show other DIT colleagues how they can use it and help them gain the skills to do so.\u202f\u00a0"
+        },
+        {
+            "text": "Designing this course was challenging because of the sheer amount of subject-matter we could have covered. The platform itself has a lot of datasets and functionality to explore. Most importantly, we wanted colleagues to be able to use our visualisation tool Amazon Web Services (AWS) QuickSight, and to manipulate and summarise data with Structured Query Language (SQL). By prioritising user needs, we ultimately reduced this to 5 weeks\u2019 worth of learning objectives and built the content around those. This was further refined using feedback from the attendees of our pilot sessions and by trialling changes in smaller training sessions for individual teams. Thank you to everyone who acted as guinea pigs!\u202f\u202f\u00a0"
+        },
+        {
+            "text": "We have delivered several virtual bootcamps but are now looking forward to running our first hybrid series later this month. Before each bootcamp series, colleagues are given access to all datasets needed during the sessions. We can then introduce new concepts, provide demonstrations and give attendees time to experiment with them during the session. In response to recent feedback, we are adding quizzes to each session to enable more interactivity. We are also creating optional \u2018homework\u2019 to give attendees an opportunity to reflect on the training throughout the week when they have capacity.\u00a0"
+        },
+        {
+            "text": "The bootcamp course will continue to be iteratively improved. Having run it 4 times, we are confident that the structure we have developed provides a great basis for training colleagues who aren\u2019t data specialists.\u202f\nThe courses sessions are:\u00a0\u00a0"
+        },
+        {
+            "text": "The bootcamps have been very well received by DIT. For the last 2 quarters, we needed to run 2 series of bootcamps simultaneously and keep a waitlist of people. The feedback from attendees has been overwhelmingly positive. 100% of Bootcamp attendees feel confident building dashboards in QuickSight, and 70% of attendees feel confident finding and using data from Data Workspace. Attendees reported that they found it \u2018really helpful\u2019 and that it gave a \u2018solid understanding around the basic of QuickSight and linking SQL\u2019. It also showed them \u2018the direction and the possibilities\u2019 for using data in their work.\u202f\u00a0"
+        },
+        {
+            "text": "Designing and delivering training for DIT colleagues that builds complex skills but still fits into their schedules was always going to be a challenge. We probably haven\u2019t solved it perfectly yet. However, we are confident that we are helping those who wouldn\u2019t consider data to be one of their strengths to build valuable skills.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "We are continuing to run quarterly bootcamps and smaller training sessions for individual teams. We also deliver other initiatives to help DIT staff solve problems and improve processes, like the recent Data Workspace Challenge. We will continue to collaborate across DIT with training and events like these in order to develop our data capability for the 21st Century.\u202f\u00a0"
+        }
+    ]
+}

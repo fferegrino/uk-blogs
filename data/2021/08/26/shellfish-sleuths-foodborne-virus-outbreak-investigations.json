@@ -1,0 +1,32 @@
+{
+    "url": "https://marinescience.blog.gov.uk/2021/08/26/shellfish-sleuths-foodborne-virus-outbreak-investigations/",
+    "title": "Shellfish sleuths- seafood-borne human illness investigations",
+    "authors": [
+        "James Lowther"
+    ],
+    "categories": [
+        "Aquaculture",
+        "Seafood Hazards"
+    ],
+    "pub_date": "2021-08-26T09:00:52+01:00",
+    "content": [
+        {
+            "text": "One of the less well-known aspects of Cefas\u2019 seafood safety work is in support of seafood-borne human illness investigations. In the UK, an estimated 12,000-14,000 people per year experience sickness and diarrhoea after eating seafood, usually raw oysters. Frequently shellfish-borne illness is caused by the group of viruses known as noroviruses. Norovirus is an extremely common infection with an estimated 3 million cases per year in the UK, mostly (~84%) transmitted via person-to-person contact, but oysters, exposed to noroviruses when human sewage enters their growing areas, can be vehicles of disease. It is estimated that over 13 million oyster meals are served in the UK annually, many of them consumed raw, so whilst the odds of contracting norovirus from eating raw oysters are relatively low, anyone who has ever suffered with the virus will know just how unpleasant it is. Not only unpleasant but highly transmissible with a very low infectious dose - as few as 10 viral particles can cause illness. This is important for our work as it can be shellfish-borne outbreaks that seed larger restaurant setting and wider community outbreaks, which ultimately may close food outlets, schools and hospital wards every year. With the heightened awareness of the impacts of readily transmissible viruses within the population and the ability of norovirus infections to add further pressure on healthcare settings, our role in highly sensitive food testing and epidemiology has never been more important."
+        },
+        {
+            "text": "There is something special about oysters too; a far cry from Dickens\u2019 \u201cPoverty and oysters always seem to go together\u201d nowadays they shout luxury and indulgence, often accompanied by a glass of champagne or two. Nobody wants that special event to be followed by a nasty bout of gastroenteritis. However, over the years our scientists from the Food Safety group at Cefas\u2019 Weymouth laboratory have been involved in dozens of high-profile cases where oysters were the suspected food vehicle, behind the scenes helping our colleagues at Food Standards Agency (FSA), Public Health England (PHE), Environmental Health and industry try to piece together the complex jigsaw that makes up a foodborne illness investigation."
+        },
+        {
+            "text": "Over the last few weeks, as people mix more now COVID-19 restrictions have eased, PHE have reported increased norovirus disease activity National norovirus and rotavirus bulletin, and this has been reflected in a number of unseasonal oyster-related outbreaks of gastroenteritis (norovirus activity usually peaks in the winter months, unfortunately coinciding with increased oyster consumption around Christmas and Valentine\u2019s Day!) Recently our food safety scientists have been involved in a number of outbreak investigations as part of National Incident Management Teams with clinical scientists and epidemiologists from PHE and elsewhere."
+        },
+        {
+            "text": "Samples of oysters, collected from restaurants, the tanks of the shellfish suppliers, or even the implicated harvesting areas are submitted to the Cefas Weymouth lab and tested using two parallel methods. Norovirus RNA (RiboNucleic Acid, the viral genetic material we look for) is quantified in the samples using our UKAS-accredited quantitative RT-PCR (Reverse Transcriptase - Polymerase Chain Reaction) method based on the ground-breaking ISO standard for viruses in foods whose development was led by Cefas Food Safety teams. This enables us to identify levels of RNA that may be associated with increased health risks (an important consideration as an end product standard for norovirus is currently under consideration). In addition, we are able to track decreasing levels of norovirus contamination as a result of natural clearance in the harvesting waters and help inform the decision to reopen."
+        },
+        {
+            "text": "Separately we have recently developed \u201cmetabarcoding\u201d methods (deep sequencing using Next Generation Sequencing technology of PCR amplicons, products of PCR) that enable us to characterise the norovirus strains present in the samples and can help with definitively identifying the oysters as the source of infection. Although oyster samples are frequently contaminated with multiple strains of norovirus (reflecting the large diverse populations served by sewage treatment works upstream of the oyster beds), in a recent outbreak we found that all oysters were unusually contaminated with just a single strain, giving a 100% sequence match to norovirus from human faecal samples characterised by the PHE Enteric Virus Unit as part of the same investigation. This result confirmed the oysters as the vehicle of infection and pointed to an original contamination of the shellfish beds linked to just one, or a very small number of ill people in the catchment."
+        },
+        {
+            "text": "Taken altogether the testing provided by the Cefas Food Safety group sits alongside clinical testing, epidemiological investigations and food tracing carried out by partner organisations to help complete the puzzle posed by these complex seafood-related outbreaks, however challenges around the testing remain. Detection of RNA using PCR methods rather than directly detecting live virus means that results must be interpreted carefully, and meanwhile Cefas has been looking at complementary testing methods that provide additional information on infectivity. In addition, metabarcoding of non-outbreak samples has thrown up some unexpected results; while the overwhelming majority of strains identified have been infectious to humans, some oyster samples were contaminated with rarely identified norovirus strains linked to infection in rodents and porpoises!"
+        }
+    ]
+}

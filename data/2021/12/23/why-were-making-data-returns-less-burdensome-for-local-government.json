@@ -1,0 +1,93 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2021/12/23/why-were-making-data-returns-less-burdensome-for-local-government/",
+    "title": "Why we\u2019re making data returns less burdensome for Local Government",
+    "authors": [
+        "Team Case Level Data Collection"
+    ],
+    "categories": [
+        "Case Level Data Collection"
+    ],
+    "pub_date": "2021-12-23T12:36:49+00:00",
+    "content": [
+        {
+            "text": "A big part of the work of organisations that deliver local services is submitting data about their activities to central government, so that existing policies can be monitored and new policies can be made. There\u2019s an official list of these obligatory data submissions called the Single Data List. As you\u2019ll see DLUHC (formerly MHCLG) owns many of them."
+        },
+        {
+            "heading": 2,
+            "text": "Data providers are time poor and far removed from the outputs"
+        },
+        {
+            "text": "Unlike applications for grants and funding these data returns are not transactional in nature, which means organisations don\u2019t get anything immediate in return for doing the work. The data is used by someone else entirely (policy people in central government), so the task can feel like a chore and an additional cost."
+        },
+        {
+            "text": "In some areas the data required can be granular, personally identifiable,\u202fand required on a case-by-case basis, such as data on homelessness, rough sleeping and social housing. The person providing the data can often be a front-line community worker, squeezed for time and removed from the outputs."
+        },
+        {
+            "text": "Even with the best intentions, this can have a negative impact on the timeliness and quality of the data coming into the department."
+        },
+        {
+            "heading": 2,
+            "text": "Double entry of data"
+        },
+        {
+            "text": "Adding to the problem is that often, the data required by policy teams is collected by the local organisations anyway, as part of their business-as-usual service delivery and stored in an internal centralised management system. However, there are surprisingly few APIs to automate the transfer of this data between local organisations\u2019 systems and central government."
+        },
+        {
+            "text": "There\u2019s also still an over reliance on paper forms and data re-keying, which is prone to human error and can cost larger local authorities significant sums."
+        },
+        {
+            "text": "Central government also sometimes asks for additional data that are only useful for policy teams. These are known as \u2018new burdens\u2019, which are carefully assessed, and sometimes reimbursed. But extra money doesn\u2019t always make things faster for already time-poor data providers who could always be spending more time out with communities. It doesn\u2019t necessarily make the data quality better either."
+        },
+        {
+            "heading": 2,
+            "text": "How is the data currently submitted?"
+        },
+        {
+            "text": "Here at DLUHC, we have a couple of digital services that data providers can use to submit this data via online forms, and that analysts in the department use to manage data collection activities. However, the services don\u2019t include all data collections, and they don\u2019t currently meet the Government Digital Service (GDS) standards."
+        },
+        {
+            "text": "The Case Level Data Collection team have been trying to figure out how to reduce the burden and increase the quality of data submissions for local organisations through user-centred design and automation, as we look to modernise our data collection services and technologies."
+        },
+        {
+            "text": "The dataset we\u2019re working with currently is on social housing lettings and sales - more commonly known as \u2018CORE\u2019. This dataset makes a good pilot to explore the wider problem described above because:"
+        },
+        {
+            "text": "Our mission is \u201cTo make it quicker and easier for housing officers to submit valid social housing sales and lettings data first time\u201d."
+        },
+        {
+            "text": "So what have we been up to?"
+        },
+        {
+            "heading": 2,
+            "text": "Is the data actually used?"
+        },
+        {
+            "text": "Even though CORE data is listed as national statistics, we looked to find out the answer to this critical question as a first step by doing user research interviews with policy leads, economists and analysts. We found enough evidence to prove that the data is used and valued."
+        },
+        {
+            "text": "The stats help policy teams understand supply and demand, decide what kind of social housing needs to be built where, and what kinds of rents are being charged, among many other things. External sources also make use of the CORE dataset, such as academics, charities and commercial housing organisations. The stats are released annually and ad hoc analysis is also done for policy teams in DLUHC and sometimes external data consumers."
+        },
+        {
+            "heading": 2,
+            "text": "Won\u2019t an API solve all the problems?"
+        },
+        {
+            "text": "We conducted user research with 5 of the most common housing software suppliers plus some data providing organisations themselves. Our goal was to understand their appetite for putting an API integration on their roadmaps. We also wanted to understand what challenges they might face and what their needs might be."
+        },
+        {
+            "text": "Suppliers and some digitally mature data providers were very keen to automate this data submission which is good news. But they don\u2019t cover the entire provider base, and not all local authorities and housing associations have budgets or the digital maturity to submit via API. So, while we will be enabling submission via API, it\u2019s going to be a while before the benefits of that reach all data providers."
+        },
+        {
+            "text": "The strategy: Allowing organisations to submit social housing data in a way that works for them, while making it easier for them to move towards bulk uploads and APIs in future"
+        },
+        {
+            "text": "We acknowledge that some organisations will continue to fulfil their data submission obligations in a manual way. For these organisations we want to provide a better digital service that:"
+        },
+        {
+            "text": "Making data collection and submission a less burdensome activity for data providers will save local organisations time, and in turn improve data quality. Acquiring high quality source data will allow the department to experiment with more sophisticated data visualisation tools or technologies such as machine learning with even greater confidence. It will also make the management of all these collections much more efficient and value adding overall."
+        },
+        {
+            "text": "Look out for another blog post in the new year which will share more about the new data submission service we\u2019re building, and how you can help us test it."
+        }
+    ]
+}

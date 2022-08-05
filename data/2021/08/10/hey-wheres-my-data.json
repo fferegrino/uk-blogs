@@ -1,0 +1,113 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2021/08/10/hey-wheres-my-data/",
+    "title": "Hey! Where's my data?",
+    "authors": [
+        "Howard Askew, Data Management Specialist, Ordnance Survey"
+    ],
+    "categories": [
+        "Data",
+        "Data Standards"
+    ],
+    "pub_date": "2021-08-10T13:59:33+01:00",
+    "content": [
+        {
+            "text": "Data Management Specialist at Ordnance Survey, Howard Askew, describes his recent work on Data Improvement for the Geospatial Commission, and how this new tool will help to tackle, two of the big challenges faced by users of geospatial data today:\u00a0"
+        },
+        {
+            "text": "The COVID-19 pandemic response brought the power of geospatial data analysis into sharp focus. Now more than ever, we need to maximise the smart use of location data, analysis and insight to make good decisions to drive economic, social and environmental recovery."
+        },
+        {
+            "heading": 2,
+            "text": "Where do you start and how do people find data they can trust?"
+        },
+        {
+            "text": "To start to answer this question we gathered colleagues from around 30 public bodies from England, Scotland, Wales and Northern Ireland. We stuck them in a virtual room and together we explored how to signpost new data users to relevant organisations.\u00a0"
+        },
+        {
+            "text": "It\u2019s little surprise, that for most an internet search engine is usually the first port of call, experienced users might visit individual organisations or departmental websites directly, whilst others find themselves on data portals such as data.gov.uk."
+        },
+        {
+            "text": "Whatever route users take, our research shows they encounter significant challenges:"
+        },
+        {
+            "text": "This \u2018Data Discovery\u2019 is the first stumbling block on the road to improved access to better location data and data-driven decision making. \u00a0 The challenge faced is not insignificant, however, this is where discovery metadata really demonstrates its value.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is Metadata?\u00a0"
+        },
+        {
+            "text": "Think of the labels on all the cans in a supermarket. If the labels were missing, how would you know if you were buying baked beans, mushy peas or dog food?\u00a0 Moreover, imagine you are directed to the area where the beans are kept and are confronted with the no label scenario! You know you're getting beans as you're in the bean aisle, but the disappointment, wasted effort and frustration you feel when you bring home salad beans instead of baked beans, effectively ruins date night! These metadata labels help organise, share and discover data assets. Metadata is not a new concept. There are many documented metadata standards all describing roughly the same intent, one such standard recommended by Government for geospatial data is UK Gemini.\u00a0\u00a0"
+        },
+        {
+            "text": "What may come as a surprise is that many of our publicly held data have missing, incomplete or incorrect metadata.\u00a0 We found huge variation in approaches to data discovery among UK data publishers. Often this work is seen as secondary to an organisation\u2019s public task and deprioritised in favour of frontline services.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Mapping data publishers to themes and keywords\u00a0"
+        },
+        {
+            "text": "I started with data.gov.uk \u2013 envisaged as a single portal for all public sector datasets. I wanted to explore a data-driven approach to the challenge and used the Application Programmer Interface (API) to retrieve information on all the resources listed there. What can we learn from this?"
+        },
+        {
+            "heading": 2,
+            "text": "Digging Deeper\u2026....."
+        },
+        {
+            "text": "This hints at two of the wider challenges around improving discovery \u2013 incentivising organisations to use metadata labels, and managing reference data across sectors. Is there a consistent language that can be used across organisations?\u00a0"
+        },
+        {
+            "text": "Digging deeper, focusing on the 22,000 geospatial datasets from central government bodies and agencies, I collected metadata labels and potential keywords by text mining the titles and abstracts. For example, from the abstract\u2026"
+        },
+        {
+            "text": "\u201cWith Code-Point Open, you can display on a map any information that contains a postcode; for example, customer records. For basic route planning, Code-Point Open will locate your starting and destination postcode.\u201d"
+        },
+        {
+            "text": "\u2026 potential keywords could include \u2018postcode\u2019 and \u2018route planning\u2019.\u00a0"
+        },
+        {
+            "text": "I ranked 5,000 such words and phrases based on their popularity in search engines and shared the highest-ranking terms for discussion with publishing bodies. We worked together to refine the list and manage similar and overlapping terms. For example, \u2018aerial photography\u2019 from the Environment Agency relates to the same topic as \u2018imagery\u2019 from Ordnance Survey.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Signposting authoritative data publishers"
+        },
+        {
+            "text": "Another challenge for new data users is around \u2018trust\u2019. Where there are many sources of data on a topic, how do you know which to choose? Ordnance Survey led a project on this subject for the Geospatial Commission last year and created the Authoritative Data Assessment tool for data publishers. By \u2018authoritative data\u2019, we mean:\u00a0"
+        },
+        {
+            "text": "Officially recognised data of appropriate quality provided by trustworthy organisations.\u00a0"
+        },
+        {
+            "text": "This is often related to the authority, remit or public task of the organisation. It is also related to confidence in the data, for example, the capture, maintenance and quality management processes. The Authoritative Data Assessment tool looks at both aspects to produce a Bronze, Silver or Gold ranking at a dataset level.\u00a0"
+        },
+        {
+            "text": "In this new tool, the Geospatial Themes and Related Data Publishers we created, we included a column to indicate where an organisation may be considered an \u2018Authoritative Provider\u2019 at a theme or topic level.\u00a0"
+        },
+        {
+            "text": "This can be informative, for example:"
+        },
+        {
+            "text": "The \u2018Authoritative Provider\u2019 flag does not imply the organisation is the only provider for a topic, or that the organisation is authoritative in all aspects of a topic.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where next?"
+        },
+        {
+            "text": "The Data Improvement Programme is just one step in the longer journey towards Mission 2 of the UK\u2019s Geospatial Strategy \u2013 Improve access to better location data. The work has highlighted the challenges ahead and given us many valuable lessons which are informing our next steps.\u00a0"
+        },
+        {
+            "text": "We are working with the Geospatial Commission, its Partner Bodies and the broader data publishing community to tackle the challenges highlighted by the programme, for example:"
+        },
+        {
+            "text": "We hope the list of data publishers by topic will be a useful resource for new data users while we tackle some of these challenges. We welcome feedback from users and from other data publishers who wish to be included."
+        },
+        {
+            "text": "Sign up to this blog to get an email notification every time we publish a new blog post. For more information about this and other news see our website, or follow us on Twitter and LinkedIn."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

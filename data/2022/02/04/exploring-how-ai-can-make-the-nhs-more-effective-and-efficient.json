@@ -1,0 +1,71 @@
+{
+    "url": "https://ace.blog.gov.uk/2022/02/04/exploring-how-ai-can-make-the-nhs-more-effective-and-efficient/",
+    "title": "Exploring how AI can make the NHS more effective and efficient",
+    "authors": [
+        "Simon Carroll"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Healthcare"
+    ],
+    "pub_date": "2022-02-04T15:33:18+00:00",
+    "content": [
+        {
+            "text": "Technology has an enormous role to play in the many challenges facing the NHS, from clinical innovations that improve patient outcomes to enhancing administrative functions to bring greater efficiencies. ACE has been working with the NHS AI Lab to explore how artificial intelligence (AI) can be applied to such challenges with the aim of developing operational solutions with the potential to scale up for wider application."
+        },
+        {
+            "text": "This ongoing collaboration looks at how AI can be applied to a specific problem in a hospital or trust, harnessing cutting-edge expertise and capabilities from ACE\u2019s Vivace community of private sector and academia organisations. There have already been many clear candidate areas for where AI can be deployed successfully, from improving patient safety to freeing up clinician time and making better use of the NHS\u2019s vast, but disparate, pools of data."
+        },
+        {
+            "text": "Here, we will look at 3 ACE commissions which each delivered Proof of Concepts (PoCs) in a matter of weeks."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A search engine for NHS health and social care data "
+        },
+        {
+            "text": "ACE\u2019s first project working with NHS AI Lab Skunkworks was to find a potential solution for the urgent need to make better use of the huge amounts of data spread across its organisations and the wider health and social care sector. Data is often needed for research or report writing, but finding out if it exists, and if so where, can take days."
+        },
+        {
+            "text": "The key aim of the Data Lens project was to use AI and machine learning techniques to produce relevant lists of data sources from multiple datasets to develop a PoC for a user-friendly universal search engine. This would gather together information from multiple databases and then rank it intelligently."
+        },
+        {
+            "text": "Working with Naimuri, a supplier from its Vivace industry and academia community, ACE had an initial demo ready in just 6 weeks, with a full PoC joining up data catalogues from sources including the Health Innovation Gateway, MDXCube, the NHS Data Catalogue, PHE Fingertips and the Office for National Statistics delivered in 16 weeks. This work is currently being assessed to determine next steps for bringing the Data Lens tool into live service."
+        },
+        {
+            "heading": 2,
+            "text": "The predictive power of AI"
+        },
+        {
+            "text": "ACE has also worked with NHS AI Lab Skunkworks to assess admission data to predict which patients might go on to become long stayers. Prolonged bed rest has been shown to lead to negative outcomes, including increased mortality. The commission explored whether this can be avoided by clinicians being able to identify these patients and adjust treatment plans."
+        },
+        {
+            "text": "Here, ACE worked with Polygeist, another Vivace supplier, to develop a tool to identify those at risk of becoming long stayers from initial patient data collection. This tool, which used an AI model trained on 460,000 anonymised records, then produces a score which could be available to all reception and clinical staff to help avoid known risk factors. ACE delivered at pace, producing a PoC in 12 weeks which detected 66% of long stayers within the highest risk categories and is now being developed towards a Beta model, capable of being used in scientific trials."
+        },
+        {
+            "heading": 2,
+            "text": "Helping radiologists compare scans more effectively"
+        },
+        {
+            "text": "A third ACE commission explored how AI could be used to help radiologists quickly compare and assess consecutive CT scans to assess lesion growth or shape changes."
+        },
+        {
+            "text": "Manual alignment and comparison are labour intensive, and research also found that up to a third of lesions are not identified during initial visual inspection. Automating this process, and improving alignment and overlay of scan images, was designed to increase accuracy, improve patient safety and outcomes by allowing faster diagnoses, and save radiologist time."
+        },
+        {
+            "text": "ACE worked with Vivace supplier Roke to deliver a PoC in just 12 weeks, which uses AI to automatically overlay images, compensating for factors including movement and breathing as well as body composition changes. The tool calculates potential anomalies in 3 dimensions, allowing volume changes in lesions, or new lesions, to be quickly identified."
+        },
+        {
+            "text": "As part of validation testing, lesions were successfully detected in 7 out of 9 patients, and in 10 out of 17 images, and conversations are ongoing about how different hospital radiology departments can utilise this tool."
+        },
+        {
+            "text": "These are a few examples from a growing number of commissions ACE is working on in partnership with the NHS and we will share more examples from this portfolio on this blog."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

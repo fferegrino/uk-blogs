@@ -1,0 +1,84 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/08/05/the-use-of-algorithms-in-the-content-moderation-process/",
+    "title": "The use of algorithms in the content moderation process",
+    "authors": [
+        "Tom Lymn",
+        "Jessica Bancroft"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Covid-19",
+        "Misinformation"
+    ],
+    "pub_date": "2021-08-05T08:14:55+01:00",
+    "content": [
+        {
+            "text": "Algorithms play an essential role in moderating content on social media platforms. They can be used to identify material that has already been banned, as well as detect previously unseen forms of misinformation, by identifying signals that are indicative of malicious content. These tools, some of which are based on machine learning, provide the capacity to manage content at a speed and scale that would not be possible for human moderators operating alone."
+        },
+        {
+            "text": "Prior to the pandemic, algorithms would have typically been used in conjunction with humans, helping to identify and categorise content to inform the decisions of trained staff. However, the onset of COVID-19 and resulting lockdown led to a reduction in the moderation workforce, just as the volume of misinformation was rising. Platforms responded by relying on automated content decisions to a greater extent, without significant human oversight."
+        },
+        {
+            "text": "The CDEI hosted an expert forum that brought together a range of stakeholders, including platforms, fact-checking organisations, media groups, and academics, to understand:\u00a0"
+        },
+        {
+            "text": "We have today published the follow up report, which details the findings of the forum, and includes further analysis. This blog focuses on three key areas explored in our follow up report, including: methods used by platforms to address misinformation; the limitations of using algorithms in the content moderation process; and the need for platforms to be transparent about content moderation policies.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Addressing misinformation on social media platforms\u00a0"
+        },
+        {
+            "text": "Misinformation is generally a legal harm, meaning that platforms can choose whether and how to address it, unlike illegal harms such as extremist content which must be removed. This results in a range of policies and approaches to addressing misinformation, including: removing content entirely; downranking content; applying fact-checking labels; increasing friction in the user experience; and promoting truthful and authoritative information."
+        },
+        {
+            "text": "While platforms say they have taken steps to support independent research into the effectiveness of the aforementioned methods, including by providing researchers with access to their internal data, a lack of evidence is hindering our understanding of \u201cwhat works\u201d in the moderation of content. Further research could, for example, help to shed light on whether the efficacy of measures varies by demographic group or geographic region. Without such evidence, it will remain difficult to meaningfully scrutinise platform behaviour."
+        },
+        {
+            "heading": 2,
+            "text": "The limitations of using algorithms in the content moderation process"
+        },
+        {
+            "text": "Algorithms are generally poor at contextual interpretation. It may be easy for a human to understand that a post is satirical, or contains certain content purely for educational purposes, but algorithms can struggle with this nuance."
+        },
+        {
+            "text": "Different types of misinformation can also raise challenges for algorithmic content detection. For example, participants in our discussion noted that it is easier to train algorithms to identify 5G conspiracy theories than a broad range of false health cures, as the former is narrower and may involve more consistent key words and phrases, while signals that distinguish false health cures from proven ones may be more difficult to establish. New forms of misinformation are constantly emerging, which present an additional challenge as algorithmic models are generally poor at responding to new information."
+        },
+        {
+            "text": "These shortcomings were exemplified during the pandemic when many platforms had to rely on algorithmic methods to a greater extent. The platforms taking part in our forum acknowledged that this increased reliance on algorithms led to substantially more content being incorrectly identified as misinformation. Participants noted that algorithms still fall far short of the capabilities of human moderators in distinguishing between harmful and benign content.\u00a0"
+        },
+        {
+            "text": "While much of our discussion focused on the UK context, several participants expressed concern that content moderation is even less effective in other parts of the world, particularly low income countries. Many places lack an impartial media and strong civil society organisations that would otherwise rebut misinformation and be a source of truth for citizens. Some participants felt that platforms had an insufficient understanding of the political and cultural contexts of these countries, and that their algorithms were less effective in analysing non-Western languages. Greater investment in technological and human resources may be required to mitigate these risks."
+        },
+        {
+            "heading": 2,
+            "text": "The need for transparency"
+        },
+        {
+            "text": "In the UK, there are currently no legal requirements for transparency measures in content moderation and design choices. Most platforms publish transparency reports on a voluntary basis, which provide information on enforcement of community standards, usually including numbers of content and account removals, and numbers of successful appeals against content decisions. While these can be helpful, transparency reports often provide limited detail across important areas including content policies, content moderation processes, the role of algorithms in moderation and design choices, and the impact of content decisions."
+        },
+        {
+            "text": "Platforms emphasised the importance of having clear guidance from the government on the types of information they should be disclosing, how often and to whom. As the new online harms regulator, Ofcom is well positioned to set new benchmarks for clear and consistent transparency reporting."
+        },
+        {
+            "text": "Guidance for increasing transparency will need to consider a range of risks. Participants noted the risk of allowing malicious actors too much insight into the moderation process, which could allow them to avoid moderation, while platforms will also want to protect commercially sensitive information. Solutions have already been suggested for these problems, such as having arrangements for the sharing of particularly sensitive information with the regulator."
+        },
+        {
+            "text": "Given the evolving nature of misinformation online and the urgent need to better understand its spread and effects, platforms should consider how they can report on misinformation policies and processes more regularly and consistently, even if less formal or detailed than the annual transparency report. Platforms also should look to share their experiences of the challenges presented by moderation during COVID-19, either through transparency reports or directly with regulators and trusted stakeholders where commercially sensitive information is involved."
+        },
+        {
+            "text": "Transparency alone is not a solution to the problem of misinformation online, but it can help us understand where the greatest challenges lie, and where platforms may not be doing enough.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps\u00a0"
+        },
+        {
+            "text": "While participants were pessimistic about our collective capacity to resolve the challenges of misinformation in the immediate future, there are steps that we can take today to help mitigate misinformation. Undertaking more research into the efficacy of moderation tools, experimenting with new moderation methods, increasing transparency of platform moderation policies, and investing more in supporting authoritative content, are all interventions worthy of investigation.\u00a0"
+        },
+        {
+            "text": "To improve the efficacy of moderation tools, the CDEI is currently working with DCMS on the Online Safety Data Initiative (OSDI). The OSDI is designed to test methodologies that enable better access to high quality datasets, which can be used for training AI systems to identify and remove harmful and illegal content from the internet. During the government\u2019s consultation on the Online Harms White Paper, stakeholders within the UK safety technology sector identified access to the required data as the single biggest barrier to developing innovative solutions to address online harms. In addition to convening and managing a cross-sector expert group to provide additional insight, challenge and transparency to the project, we have been considering which governance models would most effectively enable access to data in a way that also secures public trust. Further updates about this project will be shared in the coming months.\u00a0"
+        }
+    ]
+}

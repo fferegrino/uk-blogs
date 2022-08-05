@@ -1,0 +1,115 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/11/17/why-we-think-online-html-forms-are-usually-better-than-document-based-forms-in-government/",
+    "title": "Why we think online HTML forms are usually better than document-based forms in government",
+    "authors": [
+        "Iain Boyd - Engagement Lead, Government Digital Service",
+        "Harry Vos - Senior Product Manager, Government Digital Service",
+        "Hannah Cooper - Government Digital Service"
+    ],
+    "categories": [
+        "Content design",
+        "Transformation"
+    ],
+    "pub_date": "2021-11-17T10:00:01+00:00",
+    "content": [
+        {
+            "text": "In a previous blog post, we shared our ambition for every form on GOV.UK to be accessible, easy to use and quick to process."
+        },
+        {
+            "text": "To support government to collectively work towards that vision, our team initially compared some of the different forms technologies currently in use. While not a fix-all for every form or every team, online HTML forms emerged as more accessible, easier to use and quicker to process, compared to document-based forms. We hope more government teams using online HTML forms will make it easier for people to use niche, but important government services."
+        },
+        {
+            "heading": 2,
+            "text": "How we compared different forms technologies"
+        },
+        {
+            "text": "We\u2019ve looked at some of the main technologies used in different forms to collect information from members of the public and businesses. On GOV.UK, most services use document-based forms, such as PDFs, Word documents or OpenDocuments. Higher volume services also use online HTML forms."
+        },
+        {
+            "text": "We did not evaluate forms sent in by post. The volumes of posted forms equate roughly with the 10% of the UK adult population who don\u2019t use the internet. This suggests there is a need to support posted forms rather than replace them entirely, so we didn\u2019t think it was fair to compare posted forms with internet-based technologies, as this group would be unlikely to use them."
+        },
+        {
+            "text": "While there were some differences between file formats and how technologies are used, we initially only compared two groups: document-based forms sent over email and online HTML forms."
+        },
+        {
+            "text": "We wanted to see how these two technologies could help us achieve government\u2019s collective vision of every form on GOV.UK being accessible, easy to use and quick to process. Let\u2019s see how they fared against those three criteria."
+        },
+        {
+            "heading": 2,
+            "text": "Accessibility"
+        },
+        {
+            "text": "The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 use the WCAG 2.1 AA standard. While meeting the standard is just a starting point for improving accessibility, it\u2019s a useful bar for assessing different technologies."
+        },
+        {
+            "text": "Document-based forms can currently only meet the WCAG 2.0 AA standard, not WCAG 2.1 AA. For example, documents designed to be edited don\u2019t reflow when zoomed in, instead users have to scroll horizontally and vertically which makes things much harder for some users."
+        },
+        {
+            "text": "Even creating document-based forms that meet the lower WCAG 2.0 AA standard requires specialist accessibility skills. While we haven\u2019t conducted a comprehensive audit, we have found very few examples of document-based forms on GOV.UK that meet the WCAG 2.0 AA standard."
+        },
+        {
+            "text": "Online HTML forms can meet the higher WCAG 2.1 AA standard, but creating them usually requires a digital team with specialist digital skills. There are many examples of these types of forms on GOV.UK. While there are platforms that use templates to make it easier to create online HTML forms that meet the standard without specialist skills, they are relatively expensive, require a lot of training or lack necessary features."
+        },
+        {
+            "text": "We conclude that online HTML forms are better than document-based forms for meeting the WCAG 2.1 AA standard, but at the moment it can be too difficult or expensive to create them."
+        },
+        {
+            "heading": 2,
+            "text": "Ease of use"
+        },
+        {
+            "text": "Unlike accessibility, measuring ease of use is less standardised. We considered the main factors that would affect someone\u2019s ability to successfully complete a form."
+        },
+        {
+            "text": "Document-based forms have a few benefits that online HTML forms don\u2019t always have. For example, they can be filled out in whatever order the user prefers and are easily filled out by more than one person. However, they can be difficult to use on all device types, particularly on mobile devices, which make up the majority of users on GOV.UK. We heard from many services that people struggle to fill them in using specialist PDF editors or word processors. Many users resort to printing forms out, filling them in with pen, then scanning or taking photos to attach to an email. For people that don\u2019t have access to a printer, this isn\u2019t an option. Some users just give up."
+        },
+        {
+            "text": "With the right platform and templates, we think most of the benefits of document-based forms can be mirrored in online HTML forms. In addition, online HTML forms are much easier to use on all device types, particularly on mobile devices. Being able to fill in a form in a web browser without downloading and editing a form means people can more easily access government services on their phone on the bus home."
+        },
+        {
+            "heading": 2,
+            "text": "Processing time"
+        },
+        {
+            "text": "The time it takes a civil servant to process a form affects how long members of the public and businesses have to wait to get what they need from government."
+        },
+        {
+            "text": "Drawing on our team\u2019s own experiences of working on different government services, we estimated the time it could take to process document-based forms received over email compared to online HTML forms. We estimated timings based on the steps involved in processing information collected using forms and used them to help our team prioritise areas to explore. Actual processing times will vary from team to team, and we did not ask other government service teams to verify our estimates at this stage."
+        },
+        {
+            "text": "The first scenario, \u2018emailed document-based forms\u2019, assumes the information is sent to the processing team in a document-based form attached to an email, with supporting evidence in other attachments. It assumes the document-based forms are a mix of scans, photographs and digitally-edited documents, with around half the information unable to be copied and pasted."
+        },
+        {
+            "text": "The second scenario, \u2018online HTML forms\u2019, assumes the information is sent by an online forms platform to the processing team in the body of an email, with supporting evidence in attachments."
+        },
+        {
+            "text": "Our initial estimates show that online HTML forms could be twice as fast to process compared to document-based forms sent over email. Most of the potential time savings come from using validation to check all of the form information is there before someone submits it. Form validation could significantly reduce the amount of time civil servants spend contacting people who didn\u2019t submit the right information."
+        },
+        {
+            "text": "The rest of the potential savings come from collecting the information in ways that are easier to process, such as faster copying and pasting. In the long term, we hope to be able to make this even more efficient by feeding information directly into case management systems."
+        },
+        {
+            "heading": 2,
+            "text": "Other considerations"
+        },
+        {
+            "text": "Having done an initial evaluation of accessibility, ease of use and processing times, it seems like there are big benefits of using online HTML forms, especially when there are currently thousands of forms only available as documents. However, we\u2019re also considering some other factors, not least matters of digital inclusion for example, ensuring document-based forms remain available for people that don\u2019t use the internet."
+        },
+        {
+            "text": "In addition, we estimate that between 20 and 35% of document-based forms on GOV.UK have complex and less common question or answer formats. These formats probably wouldn\u2019t be available in a typical form-building platform, and there might be some that are too complex to use without a digital team. Others might be so specific to one particular service that it would not make sense to have in a common platform."
+        },
+        {
+            "text": "Teams could recreate these features in online HTML forms using a developer to write some bespoke code. However, if they\u2019re a lower volume service and don\u2019t have a developer, they might not be able to use online HTML forms. As a result, we think for some lower volume services, the best way to improve forms may still be to get help from specialists to make document-based forms more accessible."
+        },
+        {
+            "heading": 2,
+            "text": "Help us test easier ways for civil servants to start using online\u00a0HTML forms"
+        },
+        {
+            "text": "To bring these benefits to members of the public and businesses, we want to make it as easy as possible for more government teams to start using online HTML forms alongside document-based forms."
+        },
+        {
+            "text": "To help us achieve this, we\u2019re now looking for civil servants to be the first to test out a new form-building platform we\u2019re developing. At the moment, we\u2019re looking for civil servants outside the digital, data and technology profession that currently create or edit document-based forms."
+        }
+    ]
+}

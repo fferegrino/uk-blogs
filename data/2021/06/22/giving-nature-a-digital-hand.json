@@ -1,0 +1,55 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2021/06/22/giving-nature-a-digital-hand/",
+    "title": "Giving nature a digital hand",
+    "authors": [
+        "Tracey Friday"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra Science and Innovation",
+        "Digital transformation",
+        "Smarter working"
+    ],
+    "pub_date": "2021-06-22T11:26:32+01:00",
+    "content": [
+        {
+            "text": "Biodiversity Net Gain (BNG) is an approach to development which aims to leave biodiversity, as measured by the Biodiversity Metric, in a better state than beforehand. When designed and delivered well, BNG can deliver benefits for nature, people, and places, and for the economy. BNG can be delivered on the development site (\u2018onsite\u2019), through local compensatory habitat creation (\u2018offsite\u2019), or by paying for \u2018credits\u2019 to fund national habitat creation."
+        },
+        {
+            "text": "The Environment Bill, which is currently passing through Parliament, will make BNG mandatory for most planning applications in England. When in place, the BNG approach will influence the way a wide range of people and organisations work, and it will be vital we have the right digital services to support them. These services will include a public register of biodiversity gain sites and a sales service for statutory biodiversity credits."
+        },
+        {
+            "text": "NE and Defra are working together to implement BNG, with the digital services project being a core component of this. In late 2020 we started the Discovery phase using a third-party contractor, with support and quality assurance from Defra\u2019s Digital, Data and Technology Services (DDTS). We\u2019re due to start Alpha with a DDTS delivery team in July."
+        },
+        {
+            "heading": 3,
+            "text": "Discovering our users\n"
+        },
+        {
+            "text": "What did we find out in Discovery? We have such a wide breadth of users! To help us understand them better, we created user personas for our eight main user groups. Their user journeys aren\u2019t straightforward, and weave through the planning system in different ways. There are also numerous touchpoints with other services. Add to this new and emerging business processes, policy and legislation, and our problem space is complex. So, it\u2019s just as well we\u2019re planning an Agile delivery."
+        },
+        {
+            "text": "During Discovery we identified around 200 user stories and 50 non-functional requirements. Thankfully, we have a project vision and a minimum viable product (MVP) to guide refining this backlog, and triage is in progress. I\u2019m looking forward to the DDTS delivery team joining the NE project team so they can help us refine the backlog ready for work to start."
+        },
+        {
+            "text": "We also found out how important it is to build a collaborative team. This was a challenge with our multi-organisational Discovery team of NE, Defra, DDTS, and contractors, particularly as we were all working remotely. You can\u2019t just switch on trust and collaboration. But once we defined roles and responsibilities, and agreed ways of working together, we worked well together and achieved the outcomes we needed."
+        },
+        {
+            "heading": 3,
+            "text": "Let\u2019s get this Alpha started"
+        },
+        {
+            "text": "Alpha is fast approaching. Following Discovery, we assessed our riskiest assumptions and most challenging requirements, and we\u2019re planning to test these in Alpha. I dare say our DDTS colleagues will identify others too. Insights gained during Discovery enabled us to draft a solution architecture vision. Together with the backlog and the MVP, these outputs give us sound foundations for Alpha."
+        },
+        {
+            "text": "As product owner, a couple of things still make me nervous though. The first is uncertainty. There\u2019s still a lot we just don\u2019t know yet. An Agile approach should bring forward that risk, so we can mitigate it early and adapt if needed. The second is expectation management around how much of the backlog we\u2019ll deliver. This just feels like the Agile equivalent of the scope creep we inevitably get in waterfall projects and clear communication will be key. The backlog will be open, and we plan to be transparent about how we prioritise it. Collaboration between NE and DDTS colleagues during backlog refinement and sprint planning will be essential."
+        },
+        {
+            "text": "Sitting on the customer side of the fence it\u2019s difficult to know what will happen when the DDTS delivery team land next month. But I do know they\u2019ll be warmly welcomed, and together we\u2019ll build a collaborative and productive team delivering digital services to support improvements in England\u2019s biodiversity."
+        },
+        {
+            "text": "If you would like to find out more about BNG Digital Services, or if you\u2019d like to get involved, please email us at BiodiversityNGDevelopment@naturalengland.org.uk."
+        }
+    ]
+}

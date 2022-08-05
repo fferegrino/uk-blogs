@@ -1,0 +1,121 @@
+{
+    "url": "https://openpolicy.blog.gov.uk/2022/01/24/tools-for-climate-policy-2-systems-mapping/",
+    "title": "Tools for climate policy: 2) systems mapping",
+    "authors": [
+        "Stephen Bennett"
+    ],
+    "categories": [
+        "Lab Long Read",
+        "Policy Lab",
+        "Skills, tools and techniques"
+    ],
+    "pub_date": "2022-01-24T10:00:54+00:00",
+    "content": [
+        {
+            "text": "This blog is co-authored with Ine Steenmans, lecturer at University College London (UCL) Department for Science, Technology, Engineering and Public Policy"
+        },
+        {
+            "text": "This is the second blog in a short series on methods that Policy Lab has experimented with in the context of addressing climate change. The first blog described a co-design process at the Design for Planet festival which coincided with COP26. This blog focuses on systems mapping as featured in a collaboration between Policy Lab, UCL and stakeholders in the UK\u2019s industry and building sectors (see image above). The project considered options for how to achieve the UK\u2019s net zero target. The blog will describe what system maps are and share five key ways to apply them in policymaking, using the net zero project as a reference. We'll then signpost you to other useful resources to help you get started in your own work."
+        },
+        {
+            "heading": 2,
+            "text": "What are system maps and why use them?"
+        },
+        {
+            "text": "System maps show the different factors that make something happen. They reveal hidden complexity in a visual map. They are intended to be a tool to help people think systemically, and thus they support policymaking which addresses systemic issues.\u00a0"
+        },
+        {
+            "text": "Government policies aim to affect real world outcomes, for example reducing carbon emissions and increasing jobs. These outcomes sit in a wider system of root causes and effects.\u00a0"
+        },
+        {
+            "text": "Systems mapping provides a way to identify the structural causes of a policy challenge as well as important additional benefits that may be achieved from a course of action."
+        },
+        {
+            "text": "From our collaboration on net zero and other work over the years, we have identified five ways of using system maps in policymaking:"
+        },
+        {
+            "text": "These five applications are expanded in the following sections."
+        },
+        {
+            "heading": 2,
+            "text": "Policy application 1: Visualising a system"
+        },
+        {
+            "text": "Different people involved in a policy issue are likely to have different interpretations of the important causes and outcomes. A system map is a visual way of building a common understanding. The screenshots below show how we built a system map collaboratively with the stakeholders for the net zero project.\u00a0"
+        },
+        {
+            "text": "The first step was to plot a key policy outcome, which was reducing carbon emissions, in this case specifically from clusters of industrial activity in close geographic proximity."
+        },
+        {
+            "text": "Next we asked stakeholders at the workshop to consider what drives this policy outcome - in this case participants identified the following \u2018secondary\u2019 factors, shown in the screenshot below:"
+        },
+        {
+            "text": "We then invited stakeholders to suggest the different things which might drive those secondary factors. For example they suggested the incineration of industrial waste drives indirect emissions from industrial sectors, shown in the screenshot below."
+        },
+        {
+            "text": "It then becomes logical to map what affects these tertiary drivers, and so on until we arrive at the full map of the industrial clusters carbon system (see screenshot below)."
+        },
+        {
+            "text": "Following these steps helped us to make sense of an extremely complicated and interconnected set of factors which affect emissions from clusters of industrial activity. This particular map was made using a collaborative online tool called Kumu, but there are infinite ways a system could be visualised - we've also experimented with whiteboards, post its and string. But importantly putting something down on 'paper' - making it visual - provides a starting point for surfacing and understanding different perspectives."
+        },
+        {
+            "heading": 2,
+            "text": "Policy application 2: Unintended consequences"
+        },
+        {
+            "text": "An intervention intended to achieve one policy outcome may have knock-on effects on other outcomes. These may be helpful outcomes, often referred to as spillover benefits, or unhelpful outcomes which create negative unintended consequences."
+        },
+        {
+            "text": "The image below shows an example of a spillover benefit from decarbonising buildings. It shows how better build quality (marked \u20181\u2019 on the image) will drive improvements in the performance of building \u2018fabric\u2019, i.e. the materials and components that a building is made of, such as walls, floors and windows (2). In turn, this reduces the demand for heating (3) and thus reduces energy use by buildings (4). These four factors together achieve the primary intended outcome relating to decarbonising buildings. However, in the system map we can also see that improvement in building fabric affects three other important policy outcomes which are not directly related to carbon emissions: air quality in buildings (5), summer overheating (6) and mortality from cold homes (7)."
+        },
+        {
+            "text": "Where such unintended consequences are positive, we may be tempted to think there is no problem. However if such spillover benefits are under-recognised because they do not achieve the immediate policy objectives, then they may be unaccounted for in the assessment of a policy, for example through a cost-benefit analysis. This may mean a given policy is not adopted when it could have had significant positive outcomes for society."
+        },
+        {
+            "text": "Negative unintended consequences are perhaps more obviously an issue. Such effects can undermine policies in other areas of government, causing a waste of resources and problems for people, organisations and delivery bodies alike. The identification and visualisation of such indirect impacts is the first step in enabling policymakers across the system to take appropriate coordinated action through various policy levers."
+        },
+        {
+            "heading": 2,
+            "text": "Policy application 3: reinforcing loops and vicious circles"
+        },
+        {
+            "text": "A reinforcing loop is where a series of factors reinforce each other; for example, A drives B, B drives C, and then C drives A. Because these relationships are all positively related, they can lead to runaway benefits - or runaway failure. Interventions are likely to fail if they ignore reinforcing dynamics, which is one way of understanding persistent structural or root causes of policy problems. Isolated interventions in one part of a reinforcing loop are likely to have disproportionately high impacts. This is because the initial intervention and its impact are multiplied as this mini system drives itself."
+        },
+        {
+            "text": "The image above shows a reinforcing loop at the heart of our system map for decarbonising buildings, relating to finance. The critical series of factors are:"
+        },
+        {
+            "text": "Measures to address this classic \u2018chicken and egg\u2019 problem could have disproportionate benefits as once the system corrects it will power itself through this strong internal dynamic."
+        },
+        {
+            "heading": 2,
+            "text": "Policy application 4: Critical nodes"
+        },
+        {
+            "text": "A critical node is a factor which a number of other factors depend upon. The image below shows a critical node in the decarbonisation of buildings, as identified in our participatory mapping sessions with stakeholders: the availability of building performance data (1). This node has a number of other important outcomes notated as 2-8 in the image including, for example, consumer redress if the energy use of the building is not as advertised (5)."
+        },
+        {
+            "text": "Intervening in a way which affects a critical node is likely to have a disproportionately high impact on multiple important outcomes in a system. Likewise a policy which may inadvertently affect such a node may have significant unanticipated consequences."
+        },
+        {
+            "heading": 2,
+            "text": "Policy application 5: Policy gap analysis"
+        },
+        {
+            "text": "The screenshot below, taken from our participatory mapping session with stakeholders, shows an overlay of policies (green dots) identified by participants as relating to decarbonising clusters of industrial activity. The image is at low resolution, but even at this scaled out view we can quickly visualise possible policy gaps, areas where there are no policies addressing critical parts of the system."
+        },
+        {
+            "text": "A policy 'gap analysis' can also help identify potential policy duplication, areas where they might be multiple policies trying to achieve the same outcome. This is important as policy duplication risks inefficiency, confusion, administrative burdens or policies acting against each other."
+        },
+        {
+            "heading": 2,
+            "text": "Getting started\u00a0"
+        },
+        {
+            "text": "We hope this blog has inspired you to try mapping the causes, effects and existing policies in your work area. Perhaps it has given you a flavour of how a systems mapping approach can add value to some of the most complex and systemic challenges facing policymakers today. Policy Lab's work is inspired by innovative practice happening elsewhere - here are some of our current favourite systems mapping reads:"
+        },
+        {
+            "text": "Finally, if you are interested in supporting an innovative project exploring the use of techniques like systems mapping in policymaking, please get in touch with Policy Lab."
+        }
+    ]
+}

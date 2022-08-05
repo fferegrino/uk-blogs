@@ -1,0 +1,68 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/12/08/enabling-trustworthy-innovation-by-assuring-ai-systems/",
+    "title": "Enabling trustworthy innovation by assuring AI systems",
+    "authors": [
+        "Ghazi Ahamat",
+        "Christopher Thomas",
+        "Jessica Bancroft"
+    ],
+    "categories": [
+        "Artificial intelligence",
+        "Assurance",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2021-12-08T07:00:31+00:00",
+    "content": [
+        {
+            "text": "Artificial intelligence (AI) offers huge potential to transform our society and economy. It has been harnessed to combat the pandemic; from supporting the discovery of new therapies and rapid virus detection methods, to powering dashboards that help clinicians make treatment decisions on the frontline. In 2020, DeepMind\u2019s AI system AlphaFold made a huge leap forward in solving one of biology's greatest challenges, the protein folding problem, which could vastly accelerate efforts to understand the building blocks of cells, in turn improving and speeding up drug discovery. AI presents game changing opportunities in other sectors, too, such as the potential for operating an efficient and resilient green energy grid. We already feel the benefits of AI in our daily lives; it powers smart speakers and increasingly accurate real-time translation, as well as recommendation systems, which suggest which show or song we might enjoy next.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "There are risks that need to be managed if we are to seize the benefits of AI"
+        },
+        {
+            "text": "However, there are a range of risks associated with AI that need to be managed. These risks often go beyond the challenges posed by regular software because of AI\u2019s autonomous, complex and scalable nature. There have been several examples of these risks materialising in the past decade, as organisations have begun to develop and deploy AI systems. Risks can relate, for example, to bias and fairness. For instance, AI recruitment tools have been found to favour men due to biases in the data they were trained on. They can also relate to accuracy. For example, AI systems used in healthcare have given unsafe and incorrect treatment recommendations. Risks can also arise that are to do with robustness. Autonomous vehicles' computer vision systems have been found, for example, to struggle with a variety of sub-optimal conditions on the road, such as low light and partially obscured road signs, which can cause accidents. Challenges such as these make organisations more uncertain about adopting AI, and people more wary of trusting automated decisions.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We can learn from the success of other sectors in managing risk"
+        },
+        {
+            "text": "The good news is that these challenges are not without precedent. Throughout the 20th century, industries developed a range of processes to manage risk and drive trustworthy adoption of their products and services. In finance, audit became widespread as a means to demonstrate the accuracy of a company\u2019s financial statements. In the food industry, safety and nutrition standards ensure that consumers can purchase food in the supermarket, secure in the knowledge that it's safe to eat. In technologically complex industries, such as medical technology and aviation, quality assurance throughout the supply chain prevents accidents which could have fatal consequences.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The challenge now is to build an assurance ecosystem for AI\u00a0"
+        },
+        {
+            "text": "We now need to build an effective assurance ecosystem for AI. This has the potential to unlock benefits for our society and economy, as it has in other sectors. An assurance ecosystem for AI will enable those involved in the development and deployment of AI to assess the trustworthiness of AI systems, and communicate this information to others. For instance, it will enable developers of AI systems to assure others in the supply chain, such as an organisation procuring AI, that the AI systems they have built are trustworthy and legally compliant. Meanwhile, it will enable those deploying AI to communicate this information to those affected by AI systems, such as a job applicant whose CV is sifted using an AI tool. In doing so, assurance will help to build public trust in data-driven technologies, and will make organisations more willing to invest in AI.\u00a0"
+        },
+        {
+            "text": "Companies are beginning to offer AI assurance products and services, both in the UK and internationally.However, the ecosystem is currently fragmented, and there have been several calls for better coordination, including from the Committee on Standards in Public Life.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We have developed a roadmap to catalyse the development of an effective AI assurance ecosystem"
+        },
+        {
+            "text": "To address this, we have developed the roadmap\u00a0to an effective AI assurance ecosystem, which is the first of its kind. It sets out the steps required to build a mature ecosystem, and identifies priority areas for action, such as the need to develop commonly accepted standards, and shape a diverse market of assurance providers. It also clarifies the roles and responsibilities of different actors across the ecosystem, from standards bodies to industry. To develop the roadmap, we have engaged widely, conducted multidisciplinary research, and worked with partners in the public, private sector and academia to run pilot projects.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "AI assurance will become a significant economic activity in its own right\u00a0"
+        },
+        {
+            "text": "There is a huge opportunity here: not only will an effective AI assurance ecosystem enable the trustworthy adoption of AI, but it also represents a new professional services industry in its own right, and is an area in which the UK, with particular strengths in legal, professional services, standards and AI research, has the potential to excel in. The UK's cyber security industry, which is an example of a mature assurance ecosystem, employed 43,000 full-time workers in 2019, and contributed nearly \u00a34 billion to the UK economy. As the use of AI systems proliferates, an AI assurance industry will unlock growth and thousands of new job opportunities in a similar way.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We will take a number of steps over the next year to deliver on the roadmap"
+        },
+        {
+            "text": "Over the next year, we will be undertaking a range of follow up work to deliver on the roadmap. For example, we will be working with DCMS and the Office for Artificial Intelligence (OAI) as they work with stakeholders to pilot an AI Standards Hub, as well as partnering with professional bodies and regulators in the UK to set out assurable standards and requirements for AI systems. We will also be working with the OAI to embed AI assurance in the UK\u2019s broader AI governance framework in the upcoming White Paper. We are actively looking for organisations to partner with to make the vision set out in our roadmap a reality. If you\u2019d like to explore this further, please get in touch with us at ai.assurance@cdei.gov.uk."
+        },
+        {
+            "text": "Adapted from an article originally published in \u2018ALGORITHM\u2019; a magazine published by the OAI alongside the National AI Strategy in September 2021. "
+        }
+    ]
+}

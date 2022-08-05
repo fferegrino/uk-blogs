@@ -1,0 +1,45 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/07/12/why-weve-decided-to-decommission-gov-uk-paas-platform-as-a-service/",
+    "title": "Why we\u2019ve decided to decommission GOV.UK PaaS (Platform as a Service)",
+    "authors": [
+        "Tom Read - Chief Executive Officer, Government Digital Service",
+        "Clara Barnett - Deputy Director of Digital Service Platforms, Government Digital Service"
+    ],
+    "categories": [
+        "Digital Service Platforms"
+    ],
+    "pub_date": "2022-07-12T11:00:36+01:00",
+    "content": [
+        {
+            "text": "GDS is committed to supporting and building platform products that make it simpler, easier and faster for other parts of government to build good digital services. This means continuing to invest in GOV.UK Notify, GOV.UK Pay, the GOV.UK Design System, and the Prototype Kit, as well as building new platforms like the new GOV.UK Forms product."
+        },
+        {
+            "text": "We also need to operate with a growth mindset in GDS. This means constantly evaluating the market, and making sure that our products and services are fulfilling a need and are seeing usage expand. Our growth strategy is obviously not about making profit, but we are a small team at the centre of government and we need to make sure our people and our money are focused on services that have the biggest reach and the most impact."
+        },
+        {
+            "text": "GOV.UK PaaS was set up in 2015, to help public sector organisations quickly and securely host their digital services without worrying about infrastructure. However, 7 years is a long time in tech and things have changed. The big cloud providers (AWS, Azure, GCP and others) have upped their game and reduced the barriers to entry for digital teams. Over the same period departments have built better and more expert in-house cloud engineering capability, and are (broadly) clustering around a Kubernetes based architecture."
+        },
+        {
+            "text": "GOV.UK PaaS has not seen the rapid and continued growth that we\u2019ve seen with some of our other platform products, and is now at a point where we either invest heavily in some significant technical architecture changes, or we make the difficult decision to sunset the product. We have decided to do the latter, and GOV.UK PaaS will be decommissioned over the next 18 months."
+        },
+        {
+            "text": "In parallel, we are starting a piece of joint work with the Central Digital & Data Office, in partnership with Chief Technology Officers (CTOs) across government, to understand what a future central hosting offer could or should be. We don\u2019t know what we\u2019ll conclude, the options ranging from doing nothing, to creating a reusable set of configuration and management components (similar to the GOV.UK Design System, but for secure cloud hosting) all the way through to building a new PaaS v2 using different architecture."
+        },
+        {
+            "heading": 2,
+            "text": "Celebrating GOV.UK PaaS"
+        },
+        {
+            "text": "We\u2019re rightly proud of the work that\u2019s been done on GOV.UK PaaS since its launch in 2015. The team who built and run the service are passionate, committed and quite brilliant. It was the right product at that time. Our web hosting service has enabled more than 60 departments, agencies and local authorities to support 172 digital services."
+        },
+        {
+            "text": "It has enjoyed uptime of 99.95%, and suffered only one major incident in its 7 years. All this while tenants deployed services more than 122 times a day, made up of 3,200 applications."
+        },
+        {
+            "text": "At the start of the coronavirus (COVID-19) pandemic, GOV.UK PaaS helped new services to be spun up quickly. It also enabled GOV.UK Notify to scale rapidly to handle an increase in messaging volume, enabling them to send an average 400 messages per second, with a peak of 15 million notifications in a day."
+        },
+        {
+            "text": "GOV.UK PaaS has been a great product, led by a fantastic team. The focus now is on supporting our tenants through the decommission process and reflecting on our future in this space."
+        }
+    ]
+}

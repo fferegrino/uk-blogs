@@ -1,0 +1,111 @@
+{
+    "url": "https://mhrainspectorate.blog.gov.uk/2022/08/03/decommission-of-esusar/",
+    "title": "Decommission of eSUSAR",
+    "authors": [
+        "Louisa Obillo"
+    ],
+    "categories": [
+        "Clinical Trials",
+        "Good clinical practice"
+    ],
+    "pub_date": "2022-08-03T18:29:32+01:00",
+    "content": [
+        {
+            "text": "The MHRA is retiring the eSUSAR website in favour for Individual Case Safety Reports (ICSR) Submissions - providing users a more robust, stringent, and transparent way of expediting suspected unexpected serious adverse drug reactions (SUSARs) from Clinical Trials of Investigational Medicinal Products."
+        },
+        {
+            "heading": 2,
+            "text": "Background"
+        },
+        {
+            "text": "The eSUSAR website was first commissioned as a route for small/medium sized enterprises and non-commercial Sponsors such as academia and the NHS, who did not have database capabilities required by other reporting modalities transmitting to the European Eudravigilance system."
+        },
+        {
+            "text": "The website had the benefit of forwarding SUSARs that had occurred in the UK and trial sites outside of the European Economic Area to the Eudravigilance Clinical Trial Module, on behalf of trial Sponsors. The eSUSAR website also acted as an alternative route for reporters impacted by technical downtimes experienced with the other reporting routes, enabling regulatory reporting timeframes to be met."
+        },
+        {
+            "text": "Sovereign reporting routes, ICSR Submissions and MHRA Gateway, were introduced to replace the European modalities of reporting SUSARs to the MHRA at the end of the transition period following the UK\u2019s exit from the European Union. The eSUSAR website, whilst no longer transmitting SUSARs to Eudravigilance, still served to provide a route for submitting SUSARs to the MHRA for new users and as an interim method for Sponsors awaiting registration for the new UK submission routes."
+        },
+        {
+            "heading": 2,
+            "text": "What is changing and why?"
+        },
+        {
+            "text": "The eSUSAR website used for the submission of SUSAR reports to the MHRA will be decommissioned at the end of September 2022 and only SUSARS via ICSR Submissions portal will be accepted from 01 October 2022."
+        },
+        {
+            "text": "Switching over to ICSR Submissions enables eSUSAR users to report in accordance with ICH E2B required data elements. ICSR Submissions also has the capability to upload and post previously submitted XML files to aid reporting efficiency."
+        },
+        {
+            "text": "Furthermore, MHRA databases will be updated soon and no longer support the receipt of incoming reports from the eSUSAR website."
+        },
+        {
+            "text": "With ICSR Submissions you will receive acknowledgements that\u00a0the MHRA has received your report. You will have access to live submissions status giving you visibility of your reports."
+        },
+        {
+            "text": "You will also benefit from the data validation checks within ICSR Submissions portal, which will help you with submitting ICH E2B compliant data."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean for me? "
+        },
+        {
+            "text": "Attempts to submit SUSARs via the eSUSAR website after decommissioning will not be received by the MHRA and your reporting obligations as required by UK SI 2004/1031 (as amended) will not be met."
+        },
+        {
+            "text": "To avoid being in breach of regulatory requirements please see the guidance below to assist you with preparing for this change."
+        },
+        {
+            "heading": 3,
+            "text": "Current eSUSAR website users and new reporters"
+        },
+        {
+            "text": "If you only use the eSUSAR website to submit reports you are required to register and begin submitting SUSARs via ICSR Submissions as soon as possible allowing time for any issues to be addressed, internal processes to be developed, and training to be completed within your organisation ahead of the end of September deadline. Please see the guidance here for further information on registration. We are no longer processing new request for eSUSAR accounts, new users are required to register with ICSR submissions instead."
+        },
+        {
+            "text": "Once registered users must only use ICSR Submissions going forward for the submission of SUSAR reports."
+        },
+        {
+            "heading": 3,
+            "text": "Current users who already have an ICSR Submissions account"
+        },
+        {
+            "text": "If as an organisation you use both eSUSAR and ICSR Submissions for reporting SUSARs to the MHRA then, with immediate effect, you must only use ICSR Submissions going forward. Please ensure that all of your eSUSAR users are informed of this requirement and your internal processes updated accordingly."
+        },
+        {
+            "heading": 2,
+            "text": "How to report SUSARs via ICSR Submissions"
+        },
+        {
+            "text": "The User Reference Guide - Individual Case Safety Reports (ICSRs) Submissions, is a step-by-step guide on using ICSR Submissions platform to submit clinical trial ICSRs (SUSARs). It provides guidance on how to use the different functions of ICSR Submissions to manage and report SUSARs."
+        },
+        {
+            "text": "The user guide however, is only accessible by reporters via the portal from the Resources tile within the account dashboard. To access this guide please register for an ICSR Submissions organisation account. Please note, organisation leads are responsible for creating new user accounts for colleagues."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Further help and guidance"
+        },
+        {
+            "text": "If you require further assistance, please contact us via ICSRtesting@mhra.gov.uk."
+        },
+        {
+            "text": "To register for ICSR Submissions, visit the\u00a0ICSR Submissions, portal select the \u2018Request company account\u2019 option, and follow the process outlined in the user reference guide"
+        },
+        {
+            "text": "Registration for ICSR Submissions\u00a0(PDF,\u00a0739 KB,\u00a04 pages)"
+        },
+        {
+            "text": "For further information on the sign up process please guidance here. "
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/02/07/giving-people-in-prison-access-to-their-financial-transactions/",
+    "title": "Giving people in prison access to their financial transactions",
+    "authors": [
+        "Sophie Dodds"
+    ],
+    "categories": [
+        "Content",
+        "Content Hub Team",
+        "Our services"
+    ],
+    "pub_date": "2022-02-07T16:09:29+01:00",
+    "content": [
+        {
+            "text": "Since February this year, the Content Hub team has been working feverishly to give people in prison improved access to their personal information, and now it's alive and kicking, we want to tell you about it."
+        },
+        {
+            "text": "If you haven't heard of our service before, the Content Hub is an online platform accessed via in-cell laptops, designed to support people in custody and free up staff time. We\u2019re currently live in 9 prisons (male and female) and YOIs now and in the process of rolling out to many more."
+        },
+        {
+            "text": "We\u2019ve been showing people living in prison some of their personal information on the Hub, including their prison account balances, since Summer 2020. However, we found that account balances alone were not sufficient to meet user needs. Users regularly wanted to check specific transactions, including their pay for work, and money transfers from friends and family.\u00a0"
+        },
+        {
+            "text": "Overburdened wing officers were spending a lot of their time finding this information out and providing paper printouts. Not only was this an insecure way to provide people living in prison with their financial information, but they often had to pay for the paper copy. Given the amount of work already resting on wing officers\u2019 shoulders, it would take time for them to print and deliver a copy, which would mean that the information was often out of date as soon as it was received. So, the Content Hub assembled a mini 'feature development team', and we started working on how we could show users their transaction history."
+        },
+        {
+            "heading": 4,
+            "text": "The problem with money"
+        },
+        {
+            "text": "One of our central design principles on the Hub team is empowerment. For most people, prison results in huge changes, not least the feeling that you're no longer in charge of your day-to-day life. You lose agency."
+        },
+        {
+            "text": "Your days are mapped out for you, you are told where to go and when. There\u2019s often very little choice but to repeatedly ask staff for answers on what are often simple questions such as \u201cWhat is my current account balance?\u201d, \u201cHave I been paid this week?\u201d and \u201cHow do I get a job in this prison?\u201d.\u00a0"
+        },
+        {
+            "text": "We also know money is very emotive. Money affords one of the only crucial elements of choice in prison. And it is not difficult to imagine why. Having choice over what you eat, wear and buy are crucial to a person\u2019s sense of self. However, we also know that many people in prison struggle with money management. In our research on the women\u2019s prison estate this year, one participant said:"
+        },
+        {
+            "text": "\u201cOutside I can\u2019t keep my appointments, I\u2019m not good with money. I need help with all that. I\u2019m good at spending money in prison... But in here I feel like I am mothered and fathered.\u201d\u00a0"
+        },
+        {
+            "text": "Keeping an eye on your finances might also be problematic if you cannot readily access them. Here, in this quote, a user illustrates the problem with the traditional model of submitting a paper application, or \u201can app\u201d:"
+        },
+        {
+            "text": "\u201cYou never know what\u2019s going on. Like a doctor\u2019s appointment - as you don\u2019t get the slip back half the time to tell you when to go. I\u2019m quite organised and I don\u2019t like things put on me... It makes you feel less like a chess piece being shifted around. I have a lot of trouble with wages, it\u2019s difficult to keep track of what I\u2019m being paid. Last week it was wrong, and the week before that. When I get the canteen sheet I\u2019m expecting more, but a few pounds in here is a lot. I can fill in an app to finance but it takes a few weeks. It\u2019s happening quite often. I ain\u2019t got no private cash or savings.\u201d"
+        },
+        {
+            "text": "On top of the inefficiencies of submitting an app, there\u2019s also the cost. These sums may not seem like much on the outside, but given the relatively low pay rate for some prison jobs (for example, the rate of pay for prisoners on long-term sick or of retirement age is \u00a33.25 per week) this could add up, especially if your pay is consistently wrong. The other problem with printouts is the sensitivity of this information. If you lose the slip of paper with your finances on it, everyone knows how much money you do (or don\u2019t) have, which, in prison, can result in issues such as bullying."
+        },
+        {
+            "heading": 4,
+            "text": "Getting to work"
+        },
+        {
+            "text": "Another digital team within MoJ had already developed a staff-facing view of transactions. We decided to use some of this data and their designs as a starting point. Working with Olivia Todd, our Senior Interaction Designer, we chunked the work into discrete pieces of functionality. We started by showing users their account transactions for the past 30 days.\u00a0"
+        },
+        {
+            "text": "The first release showed users:"
+        },
+        {
+            "text": "In small increments, we then:"
+        },
+        {
+            "text": "We also included a help details component linking to a supporting article that explained every field in more detail. We did this on the premise that anyone can go to prison. This means our users might sit anywhere on a spectrum of tech-literacy levels; ranging from zero knowledge of online banking apps and/or not keen on managing finances online, to people who were previously super-tech-savvy users of private banking apps in the past, and probably everything in-between those two extremes.\u00a0"
+        },
+        {
+            "text": "At times it felt like we were building an online banking miniverse for people in prison. We looked a lot at our own private banking apps for inspiration to see how major banks were displaying financial information in a user-friendly way.\u00a0"
+        },
+        {
+            "text": "Some of the design questions we pondered included:\u00a0"
+        },
+        {
+            "text": "We used tabs to allow users to toggle between transaction histories for each of their accounts. We decided to only show a section for pending payments and damage obligations to users that had them.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Navigation, navigation, navigation!"
+        },
+        {
+            "text": "To get value to users quickly, we decided to link to the new transactions pages from our existing Money and debt page. We were already showing users their account balances on this page. We released this first so we could gather user feedback whilst working on a better navigation journey. We began by adding a new \u201cView your transactions\u201d link which, when clicked, took users to their transactions."
+        },
+        {
+            "text": "Not long after the first release, we received user feedback through our in-page feedback function that said:"
+        },
+        {
+            "text": "\u201cLike this format! Getting to this screen is not the clearest process though - just having a blue text link on the money page is a bit subtle. Missed it at first. Thanks\u201d"
+        },
+        {
+            "text": "This validated our concerns, but more importantly, led to a whole new chunk of work around designing a profile page for people in prison. This profile would later come to encompass, not only financial information, but also a user\u2019s next visit information, incentive level (IEP) information, and timetable, all in one place."
+        },
+        {
+            "heading": 4,
+            "text": "Knowledge is power?"
+        },
+        {
+            "text": "There has been a smorgasbord of interesting design challenges during the transactions (and profile) work, but one of the most enduring challenges has been deciding what content to show and what to hide.\u00a0"
+        },
+        {
+            "text": "In prison, misinformation can be rife, and opportunities to directly access your own information can be limited. However, it\u2019s also a difficult balancing act between \u201cknowledge is power - give users everything and let them decide what they need\u201d and a user being confused or overwhelmed.\u00a0"
+        },
+        {
+            "text": "We were also keenly aware that money and canteen can be a source of bullying and can create vulnerabilities for people in prison. Information can be (in the worst cases) weaponised. This is why users are required to sign in and cannot see any personal information without doing so. It\u2019s also why on the first load of the Money and debt page (and later, on the profile page) a user\u2019s account balances are hidden by default. They are only revealed when a user clicks on a tile to see their balance or on Open all balances."
+        },
+        {
+            "text": "Same policy, different processes"
+        },
+        {
+            "text": "We\u2019ve also had to mitigate against the fact that prisons have slightly different processes. This made it difficult for us to provide universal help text because what users really need is tailored advice on how to query information that doesn\u2019t look right to them or how to complete a certain task in their prison.\u00a0"
+        },
+        {
+            "text": "We do not have the ability for users to query individual transactions within the service. So we had to be upfront that we couldn\u2019t help users with transaction queries. We signposted them to where they could get help, which was by raising their issue with a wing officer or submitting an app. We also linked to our supporting article explaining the transactions fields in more detail."
+        },
+        {
+            "text": "Our research from usability tests so far has shown that users are indifferent to generic help text. In our testing at HMP Wayland, some of our users missed the help section altogether. In HMP Lindholme, 2 out of 3 users located the help section but missed the text above the link and clicked straight on the article link."
+        },
+        {
+            "text": "We found that when users did read it, they found being referred back to wing officers frustrating or meaningless. For future iterations, we plan to rethink this component and in particular, the content within it. We plan to work more closely with local digital and comms managers on-site to help us write prison-specific help content."
+        },
+        {
+            "heading": 4,
+            "text": "Feedback so far"
+        },
+        {
+            "text": "All in all, we\u2019ve had some encouraging feedback. Here are some of our favourites:\u00a0"
+        },
+        {
+            "text": "We\u2019ll be blogging more about our adventures on the Hub, so keep your eyes peeled!\u00a0"
+        },
+        {
+            "text": "If your team or department wants to create content for the Hub, please get in touch with us at\u00a0hubcontentteam@digital.justice.gov.uk .\u00a0"
+        }
+    ]
+}

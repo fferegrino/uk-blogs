@@ -1,0 +1,63 @@
+{
+    "url": "https://technology.blog.gov.uk/2022/06/16/service-manual-testing-requirement-changes-for-internet-explorer-11/",
+    "title": "Service Manual testing requirement changes for Internet Explorer 11",
+    "authors": [
+        "Matt Hobbs, Head of Frontend Development, GDS"
+    ],
+    "categories": [
+        "Security",
+        "Tools"
+    ],
+    "pub_date": "2022-06-16T11:20:06+01:00",
+    "content": [
+        {
+            "text": "We constantly monitor the GOV.UK analytics browser stats and every 6 months we update the \u2018Designing for different browsers and devices\u2019 page in the Service Manual. This page gives service teams an idea of the minimum browser support their service should support."
+        },
+        {
+            "text": "The last Internet Explorer change to the Service Manual was in June 2018, when we changed our testing requirements for Internet Explorer 8, 9 and 10. The reasons these changes occurred is due to our rule that we only support the browsers the top 95% of people use. This is a data-driven process so it's as inclusive as possible to users of GOV.UK. To quote from the Service Manual:"
+        },
+        {
+            "heading": 2,
+            "text": "Why we're making the change now"
+        },
+        {
+            "text": "As of June 2022, Internet Explorer 11 (IE11) dropped below the monthly 95% threshold that's required to keep it on the Service Manual minimum browser support table. This also happens to coincide with the announcement from Microsoft that IE11 was retired on 15 June 2022. Beyond this point, Microsoft will be gradually migrating IE11 users on Windows 10 to their newer browser, Edge."
+        },
+        {
+            "text": "In April 2022 GOV.UK had 390,000 visitors who used IE11 - 0.65% of the total visitors. We expect this to drop dramatically after the 15 June because a vast majority of IE11 visitors were using Windows 10 - so will be automatically upgraded to Edge."
+        },
+        {
+            "heading": 2,
+            "text": "What this means for our users"
+        },
+        {
+            "text": "IE11 was first released in October 2013, so it is coming up to 9 years old. It isn't considered a 'modern browser' (a browser that automatically updates approximately every 4-6 weeks) as its updates are tied to the operating system updates (apart from iOS, iPadOS and Macintosh Safari that are currently the exception to this rule). This makes IE11 significantly less secure than other browsers like Microsoft Edge and Google Chrome. With Microsoft migrating IE11 users to their Edge, they will improve both security and overall web performance for these remaining users."
+        },
+        {
+            "heading": 2,
+            "text": "What this means for service teams"
+        },
+        {
+            "text": "If you are a service team, does this mean you can stop supporting IE11 users from now? No, it doesn't. This is a data-driven decision, and the Service Manual simply lists the minimum browser support that a government service should cater for."
+        },
+        {
+            "text": "So for example, if your service has user data (such as analytics, user research) to show that you still have a large percentage of IE11 users, then you should continue to support and test in IE11 for these users. The use of the Progressive Enhancement methodology can help with this task. This support need is likely to be for a short period of time, given Microsoft's strategy to migrate IE11 users to Edge."
+        },
+        {
+            "heading": 2,
+            "text": "Can GDS help you support Internet Explorer?"
+        },
+        {
+            "text": "Yes we can. The GOV.UK Design System team currently supports Internet Explorer all the way down to version 8. Their plans for the future are to fork GOV.UK Frontend into 2 major versions:"
+        },
+        {
+            "text": "This allows service teams to continue to support whatever version of IE their users use. Over time all service teams should plan to migrate to version 5.x.x as it will receive all the latest components and features."
+        },
+        {
+            "text": "Version 5.x.x will have the advantage of improved web performance and less ongoing maintenance for service teams."
+        },
+        {
+            "text": "Subscribe to Technology in Government and Inside GOV.UK to keep up to date with our work"
+        }
+    ]
+}

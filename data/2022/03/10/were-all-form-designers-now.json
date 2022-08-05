@@ -1,0 +1,62 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/03/10/were-all-form-designers-now/",
+    "title": "We\u2019re all form designers now\u2026",
+    "authors": [
+        "Rebecca Faulkner"
+    ],
+    "categories": [
+        "MoJ Forms",
+        "National Careers Week"
+    ],
+    "pub_date": "2022-03-10T15:20:23+01:00",
+    "content": [
+        {
+            "text": "Hi, I\u2019m Rebecca Faulkner and I joined MoJ D&T in summer 2021. I work as a Senior Researcher in the Prison Leavers Project team. After spending 10 years in insight and strategy roles in the private sector I joined the Civil Service."
+        },
+        {
+            "text": "The week I joined MoJ, a very senior colleague let me into a secret. \u201cWhen you think about it, government is really only a series of forms\u2026 at least in the way it\u2019s experienced by most citizens day-to-day. This means if we\u2019re serious about improving the justice system we\u2019ve got to get really serious about doing these better.\u201d"
+        },
+        {
+            "text": "To a fresh-faced civil servant, this felt like a rather odd perspective. However, having spent the last 6 months exploring the reality of service design practices across the department, I can confirm that there\u2019s a lot of truth in this observation.\u00a0"
+        },
+        {
+            "text": "I\u2019m currently a user researcher on MoJ Forms, a platform that lets you design, build and publish forms quickly and easily without needing to know code. To build this product successfully, we need to understand the broad spectrum of needs and working practices of our digital professionals. Whilst MoJ Forms is no new kid on the block and is currently in Private Beta, the department is in a very different shape to where it was just 18 months ago. We have grown substantially throughout the COVID-19 pandemic and have had to adapt to different ways of working. This summer we, therefore decided to step back and run an MoJ D&T-wide survey to learn more about people\u2019s attitudes towards, and experiences of, form design. The findings are illuminating.\u00a0"
+        },
+        {
+            "text": "Form design is a part of virtually everyone\u2019s job"
+        },
+        {
+            "text": "The 80% of those surveyed told us they have had form design experience at MoJ. Roughly 50% are working on a project with a citizen data submission component to it right now. Levels of experience and familiarity with form design typically reflect an individual\u2019s role and length of time in government, highlighting how common form design is in the public sector. The vast majority of respondents expect to work on a form design project in the future. New joiners with less than 6 months experience were the exception, perhaps indicating that this is an under-appreciated part of government design work."
+        },
+        {
+            "text": "Most of us feel we know what a good form looks like"
+        },
+        {
+            "text": "Most people told us they have a solid grasp on form design best practice. Good news since it's such a critical part of our jobs. However, 28% were willing to admit openly to levels of uncertainty and the need for more guidance. Our survey also highlighted that individuals in all professions can have widely different levels of knowledge about the GOV.UK Design System and Service Standard. When asked to rate that knowledge, the average score was 6 and 7 out of 10 respectively but was as low as 1 for new joiners from outside government. This indicates the scale of the adjustment challenge even for very experienced hires and the importance of the induction period.\u00a0"
+        },
+        {
+            "text": "Complexity is the norm\u00a0"
+        },
+        {
+            "text": "When describing our day-to-day projects very few of us rated any of our recent form projects as \u2018simple\u2019. Whilst complexity is subjective, it is clear that most interaction patterns people are designing for now are advanced. Some of the core features respondents told us they needed to deliver their projects included complex branching, save and return, and integration with other systems. Whilst a multitude of simpler forms do exist out there in the justice system, this is not the type of work we\u2019re taking on in D&T right now.\u00a0"
+        },
+        {
+            "text": "Teams sometimes design forms without designers\u00a0"
+        },
+        {
+            "text": "The average form creation team has 8 members but this doesn\u2019t always include design. 23% of recent form projects were completed without an interaction designer, 38% without any content design support, and 48% without a service designer. This means that day-to-day design decisions are often made by those without the official job title. Whilst we are undoubtedly a talented bunch, this finding has highlighted the potential need for MoJ Forms to provide guidance on patterns and sign-post form creation best practices as part of the product experience which we\u2019ll be building into future plans."
+        },
+        {
+            "text": "People want to know when and where to use MoJ Forms"
+        },
+        {
+            "text": "We also used the survey to explore the thoughts of colleagues on the MoJ Forms platform. Over 60% of perspectives were strongly positive with the biggest benefits felt to be its ability to speed up prototyping, less reliance on coding solutions and having accessibility and security features built in.\u00a0"
+        },
+        {
+            "text": "However, many respondents lacked clarity about which design practices are supported by the platform, its relationship with our IT infrastructure and case management systems. We have taken this on board and will be refining our communication and team engagement strategy to reflect this."
+        },
+        {
+            "text": "For more information on this research please get in touch with the MoJ Forms team. For more details about MoJ Forms please see our product site."
+        }
+    ]
+}

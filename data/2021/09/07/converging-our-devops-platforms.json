@@ -1,0 +1,88 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2021/09/07/converging-our-devops-platforms/",
+    "title": "Converging our DevOps platforms",
+    "authors": [
+        "James Barton, Deputy Director, Chief Technology Office and Head of Engineering Profession"
+    ],
+    "categories": [
+        "DDaT Strategy",
+        "DevOps"
+    ],
+    "pub_date": "2021-09-07T10:31:46+01:00",
+    "content": [
+        {
+            "text": "We published our Home Office Digital, Data and Technology (DDaT) Strategy in July this year. We have committed to becoming more user-centred by reshaping the organisation to become product-centric and data driven, and by removing as much duplication as possible."
+        },
+        {
+            "text": "Part of our efforts to eliminate duplication involves converging our technology estate and creating more shared platforms. This post is about the work we are doing to converge our DevOps platforms."
+        },
+        {
+            "heading": 2,
+            "text": "DevOps platforms in the Home Office"
+        },
+        {
+            "text": "The Home Office relies on its DevOps platforms to build and operate hundreds of products and services that help keep citizens safe and our country secure."
+        },
+        {
+            "text": "DevOps platforms bring together tools, processes, automation capabilities and technology that development teams need to deliver better products faster. They help teams follow a continuous delivery approach and support continuous testing and vulnerability scanning."
+        },
+        {
+            "text": "We are making it easier for teams to deliver by developing a single, overarching DevOps framework that promotes collaboration, consistency and transparency."
+        },
+        {
+            "heading": 2,
+            "text": "Converging platforms means responding more effectively to challenges"
+        },
+        {
+            "text": "The Home Office has more than 10 DevOps platforms. These have been developed for a variety of use cases and built using different technologies, which means they are not managed in a consistent way."
+        },
+        {
+            "text": "We have platforms that rely on the same core components such as containers, code scanning and cloud hosting solutions. Instead of using a single, shared instance of these, they each use their own bespoke version."
+        },
+        {
+            "text": "Some platforms are also used in more than one business area, but the teams using them follow different support processes."
+        },
+        {
+            "text": "Our ambition is to converge these capabilities. Converging to a unified DevOps platform or framework will remove the need for bespoke solutions and allow teams to focus on users rather than underlying technology issues."
+        },
+        {
+            "text": "We will be able to respond more effectively to emerging challenges and change."
+        },
+        {
+            "heading": 2,
+            "text": "Sharing DevOps technology: learning from our EBSA reuse"
+        },
+        {
+            "text": "Our largest platform, Environment Build Support Administration (EBSA), demonstrates the benefits of sharing our DevOps technology. EBSA is our strategic and borders and immigration-focused platform, with many users and applications, and a mature support model."
+        },
+        {
+            "text": "EBSA is cloud-native which means it\u2019s easily scalable and can support changing demands of applications. Its containerisation capability means it can quickly deploy new code and applications. Common test frameworks and patterns further help speed up application deployments and recovery."
+        },
+        {
+            "text": "A number of programmes have recently migrated from their existing DevOps platforms to EBSA. They've been able to migrate in a matter of months and have benefitted hugely from the maturing of the platform. This reuse demonstrates the benefits of sharing DevOps capabilities in allowing teams to build and deploy applications quickly so we can deliver services faster."
+        },
+        {
+            "heading": 2,
+            "text": "Continuous improvement"
+        },
+        {
+            "text": "To improve our products and services we\u2019ve started a programme of discovery, including user research with platform users and teams, to learn the best approach to converging platforms and sharing technology across all areas of DevOps."
+        },
+        {
+            "text": "We\u2019re reusing technology, patterns and support models to enable teams to start building and deploying applications quickly and help us deliver services faster."
+        },
+        {
+            "text": "We\u2019ve learned what to adopt, change and optimise from our experiences running EBSA and our Application Container Platform (ACP). We have been able to quickly onboard users to our new law enforcement platform, which is built on EBSA\u2019s foundations and is designed to meet national policing security and network requirements through multi-tenancy cloud capabilities."
+        },
+        {
+            "text": "This DevOps platform features enhanced security and newer monitoring and error logging tools, which help ensure high availability for the platform and the services that rely on it."
+        },
+        {
+            "heading": 2,
+            "text": "Benefits of DevOps convergence in the Home Office"
+        },
+        {
+            "text": "We want to continue to converge our DevOps platforms and capabilities. This will ensure we:"
+        }
+    ]
+}

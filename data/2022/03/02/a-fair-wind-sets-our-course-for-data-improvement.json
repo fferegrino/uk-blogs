@@ -1,0 +1,70 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2022/03/02/a-fair-wind-sets-our-course-for-data-improvement/",
+    "title": "A FAIR wind sets our course for data improvement",
+    "authors": [
+        "Keiran Millard, Head of Data and Standards, Geospatial Commission"
+    ],
+    "categories": [
+        "Data",
+        "Data Standards"
+    ],
+    "pub_date": "2022-03-02T16:47:30+00:00",
+    "content": [
+        {
+            "text": "There is a bit of a buzz about making data more FAIR (findable, accessible, interoperable and reusable). Is this a path towards a data utopia where everyone gets the data they want, in the way they want, when they want it?"
+        },
+        {
+            "text": "I have spent my 30 year career in geospatial trying to make data more FAIR; except it was not called FAIR when I started and come to think about it we did not really have \u2018geospatial\u2019 either."
+        },
+        {
+            "text": "The major projects I have been fortunate to be involved in shaping from the outset, like Copernicus and Inspire, have all strived to make data more FAIR. For five years I ran the SeaZone mapping business - a business conceived because marine data was fundamentally unFAIR!\u00a0\u00a0"
+        },
+        {
+            "text": "SeaZone was a private company that supplied government and industry with the key data they needed to develop and protect the marine environment. If I take a retrospective look at what SeaZone undertook from a FAIR perspective it reads like a textbook of data improvement:"
+        },
+        {
+            "heading": 2,
+            "text": "FAIR can help expose the breadth of the issue"
+        },
+        {
+            "text": "What I have learned is that data improvement is not a magic wand. It is complex, involving an alignment of multiple organisational, policy and technological viewpoints. Where improvements do not go to plan is when this full spectrum of issues is not sufficiently considered. Too many times I have seen technology being employed as a data improvement solution when the fundamental issue is about organisational responsibilities."
+        },
+        {
+            "text": "This is where frameworks like FAIR can help to expose the breadth of the issue. Prior to working at the Geospatial Commission, I worked with the London School of Economics to develop a data value framework for geospatial data to change data improvement from a discrete programme of work to \u2018something we just do\u2019."
+        },
+        {
+            "text": "What I see in FAIR is not new in itself, but what it does well is to articulate, in an accessible way, the need for a holistic approach to data improvement. This ease in communication is why FAIR is being used increasingly widely as an umbrella for data improvement - and not just in the geospatial community."
+        },
+        {
+            "text": "The Geospatial Commission is looking to implement the FAIR principles for geospatial data as \u2018business as usual\u2019, to create sustained data improvement to meet current and emerging challenges. In our new report we looked at our six Partner Bodies (HM Land Registry, Ordnance Survey, British Geological Survey, UK Hydrographic Office, Coal Authority and Valuation Office Agency - all important UK geospatial data providers) and their adoption of FAIR practices.\u00a0"
+        },
+        {
+            "text": "We found that our Partner Bodies are all backers of FAIR. They have implemented a range of FAIR data improvements, some more impactful than others. Whilst there is an appetite to do more, fundamentally, our Partner Bodies are different organisations with different data and different remits. The result is that FAIR is not delivered in a consistent way across the entire geospatial data system - and that is what matters to users."
+        },
+        {
+            "text": "A consistent application of FAIR is not the same as an identical application of FAIR; the latter would be unworkable. This is because the quality of the data itself underpins what is an appropriate FAIR improvement. By quality, we mean the basic \u2018fitness of purpose\u2019. If your data is fundamentally of limited value to users, then investing in FAIR improvements are unlikely to reap rewards.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "So what next? "
+        },
+        {
+            "text": "We have identified how FAIR is being used and some of the challenges to implementing data improvements. There is a lot of good practice out there - but it is fragmented."
+        },
+        {
+            "text": "At the same time, FAIR is supported by (and supportive of) a range of national and international data initiatives, such as the National Data Strategy, Integrated Geospatial Information Framework and INSPIRE. However, we do not have a clear picture as to what all the integration points should be. We also need to look wider than the practice of our Partner Bodies."
+        },
+        {
+            "text": "Our goal is to get wider input and consolidate best practice through the development of a geospatial industry Code of Practice for FAIR implementation. The code will recommend good practice for how FAIR should be implemented and the norms that the geospatial industry should adopt for FAIR improvements."
+        },
+        {
+            "text": "The Geospatial Commission will start this work in the next few months, so stay tuned for further updates and how to be involved. FAIRwell for now!"
+        },
+        {
+            "text": "Find out more about our Data Improvement Programme."
+        },
+        {
+            "text": "Sign up for this blog to get an email notification every time we publish a new blog post. For more information about this and other news see our website, or follow us on Twitter and LinkedIn."
+        }
+    ]
+}

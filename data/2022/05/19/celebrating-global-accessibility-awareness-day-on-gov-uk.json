@@ -1,0 +1,103 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/05/19/celebrating-global-accessibility-awareness-day-on-gov-uk/",
+    "title": "Celebrating Global Accessibility Awareness Day on GOV.UK",
+    "authors": [
+        "Adam Robertson, Product Manager - GOV.UK"
+    ],
+    "categories": [
+        "Accessibility",
+        "What we're working on"
+    ],
+    "pub_date": "2022-05-19T08:36:18+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is used by 17 million people every week, who need to find important information and support to help them through many life events. It\u2019s a key part of the UK national infrastructure, and the backbone of how citizens interact with government."
+        },
+        {
+            "text": "As a monopoly on government information and services, we know how critical it is to be as accessible as possible for all users. In the UK, 1 in 5 people (almost 15 million) have a long-term illness, impairment or disability, so it\u2019s critical GOV.UK works for everyone. This means we are continuously looking for ways to improve the site that so many users rely on."
+        },
+        {
+            "text": "To celebrate the 2022 Global Accessibility Awareness Day (GAAD), here\u2019s some insight into the work the GOV.UK Accessibility team have been doing since last year to make things better for our users."
+        },
+        {
+            "heading": 2,
+            "text": "Recent successes"
+        },
+        {
+            "heading": 3,
+            "text": "Component improvements"
+        },
+        {
+            "text": "GOV.UK uses common components, which means if there is an accessibility issue in a component, we can tweak it and make those changes wherever that component is used. This means it\u2019s quicker to make things accessible across a wide range of pages."
+        },
+        {
+            "text": "We\u2019ve recently made tweaks to the Feedback and Accordion components to make them better:"
+        },
+        {
+            "text": "These changes can have large impacts across the whole site and beyond, so we\u2019re committed to making similar improvements like this across our components."
+        },
+        {
+            "heading": 3,
+            "text": "Govspeak Converter"
+        },
+        {
+            "text": "GOV.UK\u2019s content is written in a markup language (think HTML) called Govspeak. Publishers, until recently, had to write their content in Govspeak directly into publishing tools, meaning lots of manual effort to transfer draft content (from documents) into Govspeak."
+        },
+        {
+            "text": "This could create various issues, such as skipped headings, and was time-intensive for publishers. In December 2021, we created and launched the Govspeak Converter, which allows publishers to copy and paste text directly from emails and documents, with all formatting automatically applied. Publishers could now work on content separately in documents, and then convert that straight over to Govspeak, with a preview to see how this would appear on GOV.UK."
+        },
+        {
+            "text": "This means that not only is HTML content easier for departments to create (or convert from inaccessible formats), but we can also make sure that formatting issues are corrected before going through content review processes - meaning overall, more accessible content on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Highlights of current work"
+        },
+        {
+            "heading": 3,
+            "text": "Auditing accessibility issues"
+        },
+        {
+            "text": "GOV.UK has previously audited the accessibility of the site in order to know what needs to be fixed. At the start of 2022, we launched our most recent audit, where we used the help of the Digital Accessibility Centre (DAC) to find accessibility issues with a representative sample of GOV.UK pages."
+        },
+        {
+            "text": "From the issues raised, we plan to do both manual and automated searches through other pages on GOV.UK to find further instances. Doing that will help us understand the scale of each issue, what the underlying cause is, and whether it\u2019s something that GOV.UK teams can fix internally, or whether it\u2019s an issue that publishers across government will have to change. We hope to have these latter issues to share with publishers in the coming months."
+        },
+        {
+            "text": "Regular audits like this will help us, over time, to remove any barriers that users may face when interacting on GOV.UK. The early indications from this audit have shown how our efforts have improved things since the previous audit."
+        },
+        {
+            "heading": 3,
+            "text": "Requesting an accessible format"
+        },
+        {
+            "text": "Government has some way to go before all published content is accessible, and some formats such as Braille, British Sign Language and Easy Read can\u2019t easily be provided in HTML form. So many users will need to request an accessible version of a document."
+        },
+        {
+            "text": "The existing process requires users to email departments with a pre-filled template stating what they need and why. We\u2019ve known for a long time that this isn\u2019t a user-friendly journey - particularly for users that don\u2019t have email clients set up on their device. It also creates issues for departments, as due to the confusing journey, users can sometimes raise requests that are not about access needs, but instead about other user needs."
+        },
+        {
+            "text": "The GOV.UK team has been working on a new and improved HTML form, where users can select the format they require, and provide contact information for where it can be sent to. This new process is not only more accessible and user-friendly, but the hope is that we can make it clearer who and what this process is for, meaning departments can focus on providing accessible formats more quickly and efficiently to those that need it."
+        },
+        {
+            "text": "We\u2019re in the early stages of iterating and testing with some departments, but we hope to start extending this pilot to more departments during 2022. If you work on a team providing these formats, and are interested in being part of it, email govuk-enquiries@digital.cabinet-office.gov.uk."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "As you can see, we\u2019ve been working hard on GOV.UK this year to make the site more accessible - but we\u2019ve still got a long way to go. We will continue to make changes to our components and formats on GOV.UK, making it easier for publishers to create accessible content; produce and respond to accessibility audits; and improve the experience for those requesting accessible formats."
+        },
+        {
+            "heading": 2,
+            "text": "Get involved"
+        },
+        {
+            "text": "GAAD raises awareness across industries and the world of the challenges that many users have in accessing critical information, and how vital it is to break down those barriers to access."
+        },
+        {
+            "text": "It\u2019s also an opportunity to take stock of the work we\u2019ve done, and to commit ourselves to learning more about accessibility, both within GOV.UK and from the work happening across government departments and other organisations. By doing so, we can help build truly accessible products, and support that work across the rest of government too."
+        }
+    ]
+}

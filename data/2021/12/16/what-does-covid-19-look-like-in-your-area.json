@@ -1,0 +1,91 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/",
+    "title": "What Does COVID-19 look like in your area?",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)",
+        "Data blog"
+    ],
+    "pub_date": "2021-12-16T10:06:22+01:00",
+    "content": [
+        {
+            "text": "Every day at 4pm \u00a0the latest coronavirus data - setting out daily cases, testing and vaccination levels, as well as deaths and hospitalisations - is published on the COVID-19 Dashboard. In addition to reporting UK and national data, the Dashboard publishes statistics at a regional, local authority and small area (Middle Super Output Area (MSOA)) level within England."
+        },
+        {
+            "text": "You can access daily official government statistics to help you understand more about COVID-19 rates in your local area and take protective actions where necessary."
+        },
+        {
+            "text": "It\u2019s quick and simple to look up data presented through easy-to-read graphs, charts and interactive maps. For example, you can look up cases to see how rates are changing over time, where case numbers are increasing or decreasing and how cases rates in an area compare with another or with the national average. You can access healthcare data by local NHS Trust, and you can look up specific demographic data such as vaccination uptake by age group in a specific area. You may also want to look up data in areas where your family and friends live to help them better understand local case rates and other measures and think about protective actions they may wish to take, if necessary."
+        },
+        {
+            "text": "The Dashboard delivers timely and transparent data to everyone across the nation. Here\u2019s a simple \u2018how to\u2019 guide for accessing the data where you live."
+        },
+        {
+            "heading": 2,
+            "text": "Search COVID-19 data by postcode "
+        },
+        {
+            "text": "Entering a postcode in the search (bottom left of the COVID-19 Dashboard home page) provides data on vaccinations, cases, deaths, healthcare and testing at regional, Upper Tier Local Authority (UTLA), Lower Tier Local Authority (LTLA) or neighbourhood (MSOA) level and the R value (transmission number) at regional level"
+        },
+        {
+            "text": "A postcode search for an area in England will present data for:"
+        },
+        {
+            "text": "A postcode search for an area in Scotland will present data for:"
+        },
+        {
+            "text": "A postcode search for an area in Wales will present data for:"
+        },
+        {
+            "text": "A postcode search for an area in Northern Ireland will present data for:"
+        },
+        {
+            "heading": 2,
+            "text": "View COVID-19 data with the interactive map"
+        },
+        {
+            "text": "Data for cases and vaccinations in England at Upper Tier Local Authority (UTLA), Lower Tier Local Authority (LTLA) and neighbourhood (MSOA) level can also be viewed using the Dashboard\u2019s interactive maps."
+        },
+        {
+            "text": "Entering a postcode in the Interactive map of cases search provides the 7-day number of cases and 7-day case rates per 100,000 people at neighbourhood (MSOA) level in England and at local authority level in Wales, Scotland and Northern Ireland."
+        },
+        {
+            "text": "Entering a postcode in the Interactive map of vaccinations search provides the percentage of vaccine uptake by first and second doses at neighbourhood (MSOA) level in England and local authority level in Scotland."
+        },
+        {
+            "text": "A vertical line dividing the map in two can be swiped left and right to reveal the data for first and second doses."
+        },
+        {
+            "heading": 2,
+            "text": "View COVID-19 case rates by age group in your area "
+        },
+        {
+            "text": "You can also look up COVID-19 case rates in regions and local authorities in England by age group using the case rates heat maps. From the Cases page click on \u2018United Kingdom\u2019 to bring up the area selection and pick a region or local authority in England to see a Cases by specimen date age demographics heatmap (e.g. cases heatmap in North West or Bolton)."
+        },
+        {
+            "text": "The heatmap shows changing case rates over time by 5-year age bands. You can also zoom in on time frames by selecting the 1-year, 6-month, 3-month and 1-month view options above the heatmap."
+        },
+        {
+            "heading": 2,
+            "text": "View COVID-19 vaccine uptake by age group in your area"
+        },
+        {
+            "text": "You can find the total percentage of people who have received the first, second and booster or third dose of a COVID-19 vaccine by age 5-year age bands at regional and local authority level in England and Scotland from the vaccination uptake heatmaps. From the Vaccinations page, click on \u2018United Kingdom\u2019 to bring up the area selection and select a region or local authority in England or Scotland to see a Vaccination uptake, by vaccination date age demographics heatmap (e.g. vaccinations heatmap in London or Tower Hamlets."
+        },
+        {
+            "text": "Check the first, second, or booster or third dose buttons to see uptake by 5-year age bands. You can also zoom in on time frames by selecting the 1-year, 6-month, 3-months and 1-month time view options above the heatmap."
+        },
+        {
+            "heading": 2,
+            "text": "View COVID-19 testing data in your area"
+        },
+        {
+            "text": "The Dashboard has recently added data on virus tests \u2013all lateral flow and lab-based PCR tests, by specimen date for England at national regional, upper tier local authority and lower tier local authority level. Tests are counted by the date the sample was taken and a full back series is available."
+        },
+        {
+            "text": "From the Testing page, click on \u2018Area type\u2019 and select either \u2018Nation\u2019, \u2018Regions\u2019 or \u2018Local authority\u2019 and a desired area name to see a breakdown of Weekly number of people receiving a PCR test and positivity, Virus tests conducted, Lab-based virus tests conducted and Rapid lateral flow (LFD) tests conducted."
+        }
+    ]
+}

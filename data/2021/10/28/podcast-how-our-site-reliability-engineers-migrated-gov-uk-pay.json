@@ -1,0 +1,52 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/10/28/podcast-how-our-site-reliability-engineers-migrated-gov-uk-pay/",
+    "title": "Podcast: How our Site Reliability Engineers migrated GOV.UK Pay",
+    "authors": [
+        "The GDS Team"
+    ],
+    "categories": [
+        "Digital Service Platforms",
+        "Podcast",
+        "Transformation",
+        "Ways of working"
+    ],
+    "pub_date": "2021-10-28T12:30:50+01:00",
+    "content": [
+        {
+            "text": "In this month\u2019s episode of the Government Digital Service (GDS) Podcast, we\u2019re joined by Jonathan Harden and Kat Stevens, who recently migrated GOV.UK Pay to a serverless platform."
+        },
+        {
+            "text": "While Jonathan is a site reliability engineer who recently joined GDS from the private sector, Kat is a software developer who has been with us for several years. Together they combined SysAdmin and TechOps experience with DevOps thinking as part of a multidisciplinary team."
+        },
+        {
+            "heading": 2,
+            "text": "DevOps in practice: keeping the product online while making improvements"
+        },
+        {
+            "text": "Kat shares how they were able to progress the migration while ensuring there was no downtime for service owners or end users, and explains about the background decisions that led to this project."
+        },
+        {
+            "text": "Jonathan talks about the improvements this migration delivered: from freeing developers from repetitive tasks so they can focus on new functionality instead, to scratching an itch from the backlog, there was plenty that excited him about this project."
+        },
+        {
+            "heading": 2,
+            "text": "Traditional SysAdmin or agile jack of all trades? No problem"
+        },
+        {
+            "text": "Jonathan and Kat cover the benefits of having a multidisciplinary team, and how their different experiences still led to the common goal of wanting to work where they could make a difference."
+        },
+        {
+            "text": "Both agree that whether you\u2019re a full-time site reliability engineer, or learning about aspects of that role while collaborating on a project like the GOV.UK Pay migration, the opportunities at GDS have been pretty varied so far! If working on exciting projects that can benefit the public interests you, check out our vacancies."
+        },
+        {
+            "heading": 2,
+            "text": "Subscribe to our podcast"
+        },
+        {
+            "text": "You can subscribe to the GDS Podcast on Spotify, Apple Podcasts and all other major podcast platforms. You can read a transcript of the podcast on Podbean."
+        },
+        {
+            "text": "Do you enjoy the GDS Podcast? Help us to make it even better by completing our short, anonymous survey."
+        }
+    ]
+}

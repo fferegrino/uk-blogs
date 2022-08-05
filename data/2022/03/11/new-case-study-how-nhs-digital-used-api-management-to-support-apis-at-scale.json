@@ -1,0 +1,53 @@
+{
+    "url": "https://technology.blog.gov.uk/2022/03/11/new-case-study-how-nhs-digital-used-api-management-to-support-apis-at-scale/",
+    "title": "New case study: how NHS Digital used API management to support APIs at scale",
+    "authors": [
+        "Annie Streater, Technical Writer, CDDO"
+    ],
+    "categories": [
+        "APIs",
+        "Data"
+    ],
+    "pub_date": "2022-03-11T12:28:04+00:00",
+    "content": [
+        {
+            "text": "In December 2021, the Data Standards Authority (DSA), part of the Central Digital and Data Office (CDDO), published a case study about how NHS Digital used API (Application Programming Interface) management to support APIs at scale."
+        },
+        {
+            "text": "The case study focuses on a project by NHS Digital\u2019s API team, which aimed to \u201cmake integration easier\u201d for developers looking to connect to NHS Digital services. It explores how the team used an API management platform to centralise authorisation, documentation and support. The team also took the opportunity to modernise and improve some of these specific areas as well. For example, they published documentation online for the first time to make it easier to access and manage. Additionally, the team rolled out 24-hour support, since many of the APIs on the platform support critical healthcare services.\u00a0"
+        },
+        {
+            "text": "The case study also outlines the team\u2019s work to redevelop the Personal Demographics Service (PDS) API as an exemplar to showcase the management platform\u2019s capabilities. They built the new PDS API as a RESTful API, and also introduced other modernisations such as serving the API over the open internet and using the Fast Healthcare Interoperability Resources (FHIR) standard for healthcare technology."
+        },
+        {
+            "heading": 2,
+            "text": "Working together to build the case study"
+        },
+        {
+            "text": "The DSA, which is responsible for central government API guidance, produced this case study as part of our goal to promote the use of APIs across the public sector.\u00a0"
+        },
+        {
+            "text": "Throughout the process, we worked closely with NHS Digital by:"
+        },
+        {
+            "heading": 2,
+            "text": "Who this case study helps"
+        },
+        {
+            "text": "If you\u2019re a product owner, technical lead or another kind of technologist working on a team that builds and runs APIs, this case study will help you:"
+        },
+        {
+            "text": "Read the full case study and share your thoughts and feedback with us by emailing the DSA at data-standards-authority@digital.cabinet-office.gov.uk."
+        },
+        {
+            "heading": 2,
+            "text": "Tell your story through case studies"
+        },
+        {
+            "text": "If your team or organisation has a project, initiative or program that could help others in the public sector, a case study could be a great way to showcase your learnings and outcomes for teams to learn from.\u00a0"
+        },
+        {
+            "text": "To get an idea of what makes a good case study, check out the technology case studies. You can also contact the Case Studies team by emailing technical-writers@digital.cabinet-office.gov.uk or join the #technology-case-studies channel in the cross-government Slack community."
+        }
+    ]
+}

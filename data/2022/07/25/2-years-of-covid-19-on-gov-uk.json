@@ -1,0 +1,198 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/07/25/2-years-of-covid-19-on-gov-uk/",
+    "title": "2 Years of COVID-19 on GOV.UK",
+    "authors": [
+        "Anna Sherrington - Lead Delivery Manager for GOV.UK, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK",
+        "People and skills",
+        "Ways of working"
+    ],
+    "pub_date": "2022-07-25T12:09:58+01:00",
+    "content": [
+        {
+            "text": "The last 2 years have been tough for us all. During this period, we\u2019re proud that the Government Digital Service (GDS) had teams working on the government\u2019s response to the coronavirus pandemic."
+        },
+        {
+            "text": "The size of our multidisciplinary teams changed throughout the pandemic to respond to circumstances, policies, and user needs. As an organisation, we aim to maintain an agile approach to ensuring that we quickly adapt to the needs of the day. At this point there is no longer a dedicated coronavirus (COVID-19) team for GOV.UK, and new information is handled by our wider teams as needed."
+        },
+        {
+            "text": "This blog is slightly different from our usual blogs and it\u2019s a bit of a longer read - we have so much to share. In this post we will cover the timeline of events and what GDS delivered, and talk about how we got through this challenging time. We\u2019ll also share the big numbers the team successfully achieved."
+        },
+        {
+            "heading": 2,
+            "text": "How we worked"
+        },
+        {
+            "heading": 3,
+            "text": "Before the pandemic"
+        },
+        {
+            "text": "At the start of 2020, news reports of a new virus emerged from Wuhan, China. On 24 January 2020, we published the first coronavirus guidance page on GOV.UK."
+        },
+        {
+            "text": "A few weeks later, the UK recorded its first case of coronavirus. The World Health Organisation declared the novel coronavirus outbreak as a global pandemic on 11 March 2020."
+        },
+        {
+            "text": "GDS drew from its existing staff to form a team to respond to the rapidly developing situation, working tirelessly behind the scenes. On 20 March 2020 we launched the first bespoke coronavirus landing page at gov.uk/coronavirus."
+        },
+        {
+            "heading": 2,
+            "text": "The first lockdown"
+        },
+        {
+            "text": "On 23 March 2020, the Prime Minister announced the first national lockdown during an address to the nation. Behind the scenes, the teams had already begun working around the clock to build products, services and content to help users understand the new rules and the help that was available."
+        },
+        {
+            "text": "This included creating the frontend form of the Clinically Extremely Vulnerable People Service in 2.5 days, and more in a significant collaboration between GDS, NHS, a number of government departments, local authorities and the private sector."
+        },
+        {
+            "text": "Only a few days later, we launched another service with other government departments, which allowed businesses to offer support. We also introduced content hubs to better organise and surface content for users looking for information about education, running a business, and workplace safety."
+        },
+        {
+            "text": "With similar efficiency, we also planned and built the GOV.UK/ask service in one week to submit questions for Downing Street press conferences - but which also showed us areas of public concern to respond to. In total, more than 700,000 questions have been submitted through the GOV.UK/ask service."
+        },
+        {
+            "text": "On 30 April 2020 we published the \u2018Get a coronavirus test\u2019 page on GOV.UK. The page, which has been through many iterations since its launch, received 135,000 views on the first day and accumulated more than 91 million views between April 2020 and April 2022."
+        },
+        {
+            "text": "By this point we had solidified our relationship with the COVID-19 Task Force, which was crucial for our work over the past 2 years, so that our respective skills, roles and responsibilities were understood across government. We strengthen this relationship by having regular meetings and communicating daily. We built a foundation of trust and understanding."
+        },
+        {
+            "heading": 2,
+            "text": "The second lockdown"
+        },
+        {
+            "text": "A second national lockdown began on 5 November 2020 in response to rising cases in the UK. The national lockdown was due to end on 26 November 2020, to be replaced by local restrictions (\u201ctiers\u201d) across all of England."
+        },
+        {
+            "text": "Between 11am and 3pm, we served more than 17 million errors on GOV.UK, as the system responded to a huge spike in traffic: the postcode checker trying to look up results and failing. We had to fix this issue urgently, so we improved caching. To make the service more resilient, Collections and the Router Cache machines were also scaled up. It\u2019s important to note that although we load tested before the launch, the traffic was much higher than expected."
+        },
+        {
+            "text": "This was an important lesson for our team and allowed us to improve communication processes between ourselves and colleagues in departments, coordinating ministerial statements and major announcements."
+        },
+        {
+            "text": "A few days later, Margaret Keenan became the first person in the world to receive the Pfizer COVID-19 jab as part of the mass vaccination programme on 8 December 2020."
+        },
+        {
+            "heading": 2,
+            "text": "The third lockdown"
+        },
+        {
+            "text": "On Monday 4 January 2021 at 8pm, the Prime Minister announced the third national lockdown. The team worked late into the night to publish landing page updates and guidance to support the announcement as they emerged."
+        },
+        {
+            "text": "We experienced the busiest hour in GOV.UK history that day, with 3.2 million visits between 8pm and 9pm. It was estimated that the equivalent of 12% of the UK population visited GOV.UK on that day."
+        },
+        {
+            "text": "By the third lockdown, teams had been working very hard for 10 months. In that time, we made sure people took time off. For example, if people worked a late shift, they took the next morning off. We hosted virtual away days, had daily fikas. We also had 1-2-1s and checked on one another regularly. Delivery Managers also played a huge role in spotting when team members needed a break."
+        },
+        {
+            "text": "As one team member reflected on this period: \u201cThe team was down and some were personally affected by Covid. But we all really supported each other and looked out for one another. The team spirit was what got us through.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "Roadmap out of lockdown"
+        },
+        {
+            "text": "On 22 February 2021, we published the \u2018Roadmap out of Lockdown\u2019. The introduction of a red, amber, and green country list for international travel was announced shortly after. We joined a cross-government communications group to ensure communications and guidance were aligned."
+        },
+        {
+            "heading": 2,
+            "text": "Plan A and the omicron variant"
+        },
+        {
+            "text": "The Prime Minister set out the autumn and winter plan 2021, or \u201cPlan A\u201d, on 14 September 2021. This was in place on the condition that hospitalisations remained low. It would be replaced with a second plan, known as \u201cPlan B\u201d, should hospitalisations increase."
+        },
+        {
+            "text": "Though scientific researchers continued to make huge progress on vaccinations, news of the omicron variant of coronavirus emerged from South Africa, with the first cases detected in the UK on 27 November 2021."
+        },
+        {
+            "text": "The vaccine booster campaign was accelerated on 12 December 2021, and in aid of this our team launched a site-wide vaccination booster campaign."
+        },
+        {
+            "text": "A team member reflects on this time: \u201cI remember feeling overwhelmed and exhausted but knowing I had to stay focused. In the coronavirus team, the impact is too big not to.\u201d"
+        },
+        {
+            "text": "Fortunately, omicron\u2019s impact was milder than previous variants, with hospitalisations remaining low. Because of this, the return to Plan A was announced on 27 January 2022 and quickly updated on GOV.UK by our team."
+        },
+        {
+            "text": "On 16 February 2022, we launched a Minimum Viable Product (MVP) of our coronavirus travel smart answer, as a response to users finding COVID travel guidance complicated and confusing. It was regularly changing and owned by various departments as well as other governments."
+        },
+        {
+            "text": "We worked with experts in departments to ensure COVID travel advice was up to date and easy to access, including the Department for Transport, Department for Health and Social Care, and the Foreign, Commonwealth and Development Office."
+        },
+        {
+            "heading": 2,
+            "text": "User research and feedback"
+        },
+        {
+            "text": "The team read and analysed user feedback on a weekly basis throughout the pandemic. Although this was an incredibly high-pressure scenario, user research on the landing page, our services and products was essential and worth the time."
+        },
+        {
+            "text": "The team had to conduct all user research activities remotely. We were able to apply methods like usability testing, interviewing and usability benchmarking effectively using online research and video-conferencing tools. We benefited from the work done by other user researchers and accessibility specialists on conducting remote research sessions with people with access and digital support needs. However, exploratory methods like contextual inquiry were no longer an option. Conducting research remotely did have limitations, but it allowed us to continue learning about the user experience and improving our work based on this insight."
+        },
+        {
+            "text": "The insights derived fed into decisions we made about design and content iterations."
+        },
+        {
+            "heading": 2,
+            "text": "Living with COVID"
+        },
+        {
+            "text": "On 24 February 2022, we published the \u2018Living with COVID\u2019 guidance on GOV.UK. At this point, with an end in sight, the team started thinking about winding down and retiring coronavirus-related content, products and services."
+        },
+        {
+            "text": "We retired the following key products between September 2021 and April 2022:"
+        },
+        {
+            "text": "Decisions to retire were based on analytics, user feedback, wider policy changes and shifts in the landscape of the pandemic. We monitored user feedback on a weekly basis. This provided useful insight into what users were struggling to engage with and what pages were still needed. We also looked at trends and number of visits to decide if pages for retired services should be removed. So declining traffic and low numbers meant we were confident to shut pages down."
+        },
+        {
+            "text": "In April 2022, for instance, we retired the coronavirus site-wide banner, which was first published in March 2020. This was the first time, since September 2019, that we didn\u2019t have the emergency banner on GOV.UK. As we began to retire services and content, we continued to work closely with the C-19 Task Force, making recommendations based on analytics and policy."
+        },
+        {
+            "heading": 2,
+            "text": "The evolution of the coronavirus landing page"
+        },
+        {
+            "text": "So many pages had to be published and then retired, but the landing page has consistently been a key product for us: it was often the first place people visited when looking for information about COVID-19 on GOV.UK."
+        },
+        {
+            "text": "The page has been through numerous changes to reflect policy changes and help meet changing user needs, such as the addition of the radio buttons allowing users to choose which devolved administration they live in, or page type, changing from guidance to landing page and will be changed back to guidance soon."
+        },
+        {
+            "text": "Between its launch in March 2020 and its retirement in April 2020, it was viewed a whopping 123 million times."
+        },
+        {
+            "heading": 2,
+            "text": "The Big Numbers"
+        },
+        {
+            "text": "We have already mentioned some key figures, but here are more:"
+        },
+        {
+            "heading": 2,
+            "text": "How we got through it"
+        },
+        {
+            "text": "It was clear from the beginning that the team\u2019s wellbeing had to be a major priority. To ensure that the team was as happy and healthy as they could be during such a tough period, we worked in a sustainable way, to avoid anyone suffering from burnout. Similarly, we knew that in order to effectively help others, we needed to prioritise our wellbeing and operational resilience."
+        },
+        {
+            "text": "Although we were building and iterating products, services and content at extreme pace throughout the pandemic, the team remained motivated and proud to be working on something so impactful."
+        },
+        {
+            "text": "We understood that, with weighty responsibility on the team\u2019s shoulders, we had to prioritise our wellbeing and resilience so we could sustain our work over a long and unpredictable period."
+        },
+        {
+            "text": "As we were approaching the end of the pandemic period, we knew that we had to start winding down the team. We spoke to each team member and asked them about what they were interested in working on next. Working with other teams on transition dates, we moved our team members into their new teams whilst ensuring that we still had enough people to carry on with the remaining work."
+        },
+        {
+            "text": "Also, to help reflect on our work, the team created a GDS COVID-19 memory wall that recorded the timeline of events, services delivered and our experiences."
+        },
+        {
+            "text": "As of May 2022, there is no longer a dedicated coronavirus team in GOV.UK but what\u00a0 remains is the connection we have, having worked on something so significant and the hope that we have helped the country during this challenging time. We are mindful that Coronavirus remains a serious illness, affecting many people, especially the vulnerable."
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "url": "https://services.blog.gov.uk/2022/03/16/how-service-teams-are-solving-a-whole-problem-for-users/",
+    "title": "How service teams are solving a whole problem for users",
+    "authors": [
+        "Kara Kane \u2013 Senior service designer, CDDO",
+        "Melanie Dunkley \u2013 Senior content designer, CDDO"
+    ],
+    "categories": [
+        "Service assessments",
+        "Service Standard"
+    ],
+    "pub_date": "2022-03-16T13:24:27+00:00",
+    "content": [
+        {
+            "text": "All services put forward for assessment have to show they are working towards solving a whole problem for users. This is point 2 of the Service Standard which provides the building blocks for making user-focused and accessible services. But what does point 2 mean in practice?\u00a0"
+        },
+        {
+            "text": "Point 2 was added in May 2019 when the Service Standard was updated to make it a resource not just for central government teams but the wider public sector.\u00a0 Its meaning has been interpreted in different ways: does it refer to user goals, end to end journeys, both?\u00a0"
+        },
+        {
+            "text": "The standard was updated to help government realise its commitment to design and deliver joined-up services that make sense to users and meet their needs. Lots of government services, like learning to drive or starting a business, require users to use multiple services that are \u2018owned by\u2019 different government departments. Making sure these services are joined up means that users do not have to work out all the things they need to do to achieve their goal.\u00a0"
+        },
+        {
+            "text": "In practice, point 2 is about:"
+        },
+        {
+            "text": "Addressing a whole problem may be out of a team\u2019s control but it\u2019s important to understand where the users\u2019 pain points are so they can try and influence a wider solution.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Point 2 in practice"
+        },
+        {
+            "text": "We spoke to 2 service teams who shared their experiences of how they met point 2 of the standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "UK Export Finance (UKEF)"
+        },
+        {
+            "text": "Clara Songaila, Head of User Centred Design"
+        },
+        {
+            "text": "UKEF\u2019s Digital Trade Finance Service (DTFS) passed its alpha assessment in September 2020. The service allows banks to provide financial support to UK exporters who need to fulfil a contract by submitting an application on their behalf to UKEF, whose advisors process those applications and deals."
+        },
+        {
+            "text": "If we tried to explain every single constraint and how we tried to solve the whole problem for users at an assessment we could have been there all day! To bring our narrative together, we \u2018walked\u2019 through the user journey and showed our prototype. We used these artefacts to talk about the constraints we encountered and how we will or plan to overcome them. We then focused on the scope of the service, explaining our rationale and how we have worked in the open across government. We did this by hosting open show and tells with GDS and CDDO colleagues, blogging, attending cross-government design meet-ups and speaking to other Export Credit Agencies in New Zealand, Australia, Germany and Denmark to share learnings.\u00a0"
+        },
+        {
+            "text": "In preparation for our alpha assessment, the team built on the research conducted in discovery with exporters, banks and internal staff who use the existing service. Working closely with UKEF\u2019s legal team, we learnt that the schemes are underpinned by a legal document \u2013 the Master Guarantee Agreement (MGA). It sets out criteria that the exporter must meet and uses specific legal terminology. Through interviews with banks, we found that the language was confusing and they were not sure what additional documents they needed to upload."
+        },
+        {
+            "text": "To improve the users\u2019 experience, we simplified the language throughout the service We also worked with UKEF\u2019s Head of Underwriting to map which additional documents the banks needed to upload. The new design gives users a specific list of documents they need to upload depending on what answers they give to the MGA criteria. We prototyped and tested this with users where they found it much easier and simpler to use."
+        },
+        {
+            "text": "Read UKEF\u2019s assessment report"
+        },
+        {
+            "heading": 2,
+            "text": "The Insolvency Service"
+        },
+        {
+            "text": "Grant Allen, Product Owner"
+        },
+        {
+            "text": "The Apply for Breathing Space service passed its beta assessment in March 2021. The service is part of a cross-government manifesto commitment supporting citizens into accredited debt advice and onwards to a suitable debt solution. The Breathing Space provides citizens a period of up to 60 days (longer for those in mental health crisis) to work with an accredited debt advice organisation without being pursued for any outstanding debts or having extra interest and charges added by creditors.\u00a0"
+        },
+        {
+            "text": "To develop the Breathing Space, it was crucial for us to develop a wide understanding around the debtor journey, and how debtors and money advice providers communicated and worked with creditors to resolve issues prior to legislative protections coming into place.\u00a0"
+        },
+        {
+            "text": "Our user research was focused very much on the debtor journey. From our debtor and debt advice user research sessions we mapped out a service blueprint of current and proposed user journeys and individual pain points. We then established a global view of user needs at each stage of their journeys."
+        },
+        {
+            "text": "The view of the whole service enabled us to look at where good practice exists between creditors and debt advice providers and crucially where our service might be better placed to support or improve that journey."
+        },
+        {
+            "text": "Given the nature of the different technical needs of our service users we set up technical working groups to help understand where a joint approach to technology choices could facilitate a better user journey. This was useful when mapped against the touch points on the service blueprint, as was the continued input from Insolvency service teams, ensuring a shared understanding of how we solve the problem for users.\u00a0"
+        },
+        {
+            "text": "At our assessment, we showed the panel the user research collected from workshops we did with third party stakeholders to show the variation in routes into our service and debt advice in general. The design team showed how we changed some of our assumption-based thinking around what a debtor might need through iterations of our prototype. We showed how the prototypes evolved through debtor and debt advice provider research sessions. We also explained our intention to further discover the impact of Breathing Space on other potential solutions and what that impact might be for debtors."
+        },
+        {
+            "text": "Read the Apply for a breathing space beta assessment report"
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019re making point 2 of the standard clearer"
+        },
+        {
+            "text": "We conducted research last year to see how we could make point 2 clearer and less open to interpretation. We invited people in service teams across government to take part in an unmoderated highlighter task. A follow-up interview was used to gauge current interpretations of point 2 and options for alternative wording and rephrasing were discussed.\u00a0"
+        },
+        {
+            "text": "Based on this research, we\u2019ve made some improvements to the wording of point 2 of the Service Standard to make it easier to understand by:\n"
+        },
+        {
+            "text": "We\u2019re also looking at how we define \u2018a whole problem\u2019. When we asked people what \u2018solve a whole problem means to you\u2019 there was mixed interpretation. Half talked about the end to end journey across all channels and about half talked about the wider context, from the user\u2019s and not organisation\u2019s perspective. We\u2019ll be doing some more work on this which includes drafting a new definition of \u2018a whole problem\u2019 and testing this with users.\u00a0"
+        },
+        {
+            "text": "If you\u2019d like to help with this or other work going on, sign up to take part in user research for the Service Standard and Service Manual."
+        }
+    ]
+}

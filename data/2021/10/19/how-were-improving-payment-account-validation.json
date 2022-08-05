@@ -1,0 +1,98 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/10/19/how-were-improving-payment-account-validation/",
+    "title": "How we\u2019re improving payment account validation",
+    "authors": [
+        "Angela Hilton, DWP Digital"
+    ],
+    "categories": [
+        "DWP Digital",
+        "Error and Debt",
+        "Payment services",
+        "Product Design"
+    ],
+    "pub_date": "2021-10-19T12:47:15+01:00",
+    "content": [
+        {
+            "text": "As a department we make over 636 million payments every year (yes, that is right) and we set up over 120k debt repayments. With numbers on this scale, it's not entirely unexpected that some of those payment instructions might not be successful."
+        },
+        {
+            "text": "Fraud is of course forever of concern, but there are a host of other reasons that a payment can\u2019t be made or received: the wrong type of account, a branch no longer in service, accounts closed or transferred, deceased payee and so on. Many of which can be down to basic human error or simply a matter of timing."
+        },
+        {
+            "text": "There are many scenarios out of our control but there is so much that we can do to make it better. While for the department the cost of handling failed payments is easily quantified in time spent, with 65% of failed payments needed to be manually rectified, the impact on our customers is immeasurable."
+        },
+        {
+            "text": "Not receiving a payment, or receiving a payment late, can be catastrophic for people and it is our duty to do what we can to ensure that payments are made to the right person at the right time."
+        },
+        {
+            "heading": 2,
+            "text": "Payment account validation"
+        },
+        {
+            "text": "\u00a0Validating payment accounts is just one simple thing we can do to increase our level of confidence that a payment we have set up will be successful. Not to be confused with verification - which is attributing a payee to a payment account - validation offers the assurance that a sort code and account number (or building society roll number or credit union account number) are a known valid combination. It also confirms that they belong to an active bank and they are capable of making or receiving the payment that is being set up."
+        },
+        {
+            "text": "Products and services across DWP are already doing what they can to mitigate failed payments. There\u2019s a lot of really good work that\u2019s already been done, but as a part of our goal to transform Payment Services we wanted to see what we could do better. Like all good product journeys, we set out to find out what the problems were with the existing solutions, and if there were opportunities to make things more effective. Here\u2019s what we found\u2026"
+        },
+        {
+            "heading": 2,
+            "text": "Credit Reference Agency contracts"
+        },
+        {
+            "text": "All systems that deal with incoming or outgoing payments need a method of validating payment account details, known as a modulus check. For most systems, a service provided by a Credit Reference Agency (CRA) is the most reliable way to perform this check. Across DWP we were in a position of holding numerous contracts with CRAs, and a handful of those contracts were with the same supplier. For products and services without a contract the only available option was to rely on manually updated, freely available, data sets. This is not ideal as they can be up to a month out of date, and of course relying on a manual action means that a person needs to be available to fulfil the task."
+        },
+        {
+            "heading": 2,
+            "text": "Access to data"
+        },
+        {
+            "text": "Product development is making increasing use of transactional data to help steer a product in one direction or another. Management Information (MI) is used in all kinds of ways from understanding the infrastructure needed, to prioritising your backlog, to helping visualise product success all the way to negotiating contracts. We discovered that the MI available wasn\u2019t in easy reach of the product team, but what opportunities were there to change that?"
+        },
+        {
+            "heading": 2,
+            "text": "Aging tools"
+        },
+        {
+            "text": "Our colleagues across DWP who have direct contact with our customers to set up payment transactions use an account validation tool hosted on our intranet. This tool gives our agents an additional layer of assurance that the account details provided are valid and that a payment is likely to be successful. It\u2019s an invaluable tool for our agents, but like all technology it\u2019s now showing signs of age and isn\u2019t in line with the latest accessibility guidelines, so what could we do to make a payment account validation tool even better?"
+        },
+        {
+            "heading": 2,
+            "text": "Transforming payment services"
+        },
+        {
+            "text": "For payment account validation we needed to start at the beginning: negotiating a single contract with a credit reference agency with the bold ambition of consolidating all existing contracts. The heavy lifting was of course done by our colleagues in the Commercial team but after months of negotiations a new deal was brokered. The new deal gives the department a 16% annual saving when compared to the cost of the 6 individual contracts."
+        },
+        {
+            "heading": 2,
+            "text": "Strategic solution, with metrics"
+        },
+        {
+            "text": "One of the goals for DWP Digital this year is to create the architecture needed to continuously build and iterate progressive solutions as we transform our digital services. We do this by creating strategic reusable micro-services that can be easily consumed by products and services across the department. This helps increase pace of delivery and reduce duplication of effort. In Digital Payment Services we have developed a strategic payment account validation service called \u2018BankVal\u2019. BankVal is a Rest API and is available through our API Gateway for all products and services to use."
+        },
+        {
+            "text": "The BankVal API calls out to the credit reference agency via the consolidated contract and performs a modulus check on the provided payment account details. This check gives us enhanced confidence that a payment to or from an account would be successful, helping us reduce failed or redirected payments."
+        },
+        {
+            "text": "We\u2019ve also built in the capturing of transactional data from day one, which means we can now easily discover exactly how many times we connect to the credit reference agency to validate a payment account."
+        },
+        {
+            "heading": 2,
+            "text": "A new tool for colleagues "
+        },
+        {
+            "text": "We\u2019ve also built a new tool for colleagues called \u2018Check payment account details\u2019. Taking a user centred design approach, we\u2019ve made sure the tool meets the needs of our colleagues through rigorous user testing. It\u2019s built to GDS standards using design templates, and we\u2019ve put it through the same accessibility testing that we would for a customer facing service, to ensure that it\u2019s useable and accessible."
+        },
+        {
+            "text": "It also provides more on-screen information so that agents can have more valuable conversations with customers. We\u2019ve built in pre-validation checks on each field which means that we can stop simple errors before making a call through the BankVal API."
+        },
+        {
+            "text": "\u2018Check payment account details\u2019 recently entered private beta, where around 120 colleagues will be using it for real. These users will be reporting back to us so we can make improvements ready for releasing to public beta in November."
+        },
+        {
+            "text": "This is all part of our ambition to constantly improve our offering across the department, reduce the amount of failed payments and ultimately provide a better service for our customers. I look forward to updating you in the future with news of our progress."
+        },
+        {
+            "text": "It\u2019s been incredible to contribute to the work to modernise our Digital Payment Services, a great opportunity to truly transform and to have done it all amidst the challenges of a pandemic!"
+        }
+    ]
+}

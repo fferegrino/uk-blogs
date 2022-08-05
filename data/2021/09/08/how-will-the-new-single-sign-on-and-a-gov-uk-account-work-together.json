@@ -1,0 +1,85 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/09/08/how-will-the-new-single-sign-on-and-a-gov-uk-account-work-together/",
+    "title": "How will the new single sign-on and a GOV.UK Account work together?",
+    "authors": [
+        "Cantlin Ashrowan - Product Lead, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK",
+        "Identity Assurance",
+        "Service design"
+    ],
+    "pub_date": "2021-09-08T13:52:10+01:00",
+    "content": [
+        {
+            "text": "At GDS, our mission is to build a simple, joined-up and personalised experience of government for everyone. Over the last few months we've written about our work on a GOV.UK account, and a new single sign-on and digital identity solution. Today I want to talk about the strategy underpinning these initiatives, and how the systems are going to work together."
+        },
+        {
+            "heading": 2,
+            "text": "The principle of least astonishment"
+        },
+        {
+            "text": "The GDS mission says we are here to make government simple. It's easy to say, but what do we really mean by that word, \"simple\"?"
+        },
+        {
+            "text": "One approach to simplicity is to say: we want to surprise our users as little as possible. When they click a button, it should do what they expected it to do, not something completely out of the ordinary. This idea is sometimes called the principle of least astonishment."
+        },
+        {
+            "text": "Almost all successful digital organisations offer a single way to sign in across all their products. Your BBC account works for Weather and iPlayer, your Amazon account works for both shopping and video streaming, and your bank app lets you view both your current account and your mortgage. You could reasonably ask, why don\u2019t government services work this way? Why are there well over a hundred different ways to sign in?"
+        },
+        {
+            "text": "There are two reasons. One is about the public sector technology estate, the other is about GDS itself."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge of steering flotillas"
+        },
+        {
+            "text": "One of the reasons things don't work that way is that GOV.UK, while it appears to be one thing, is really assembled from hundreds of different products run by hundreds of different teams. The UK government has one of the most distributed technology estates of any organisation in the world. This is a tremendous strength, because it allows digital products to be built by the people closest to their users."
+        },
+        {
+            "text": "The drawback to this federated model is that all those different systems sometimes have to find different ways of doing the same thing. GDS has long championed an approach to this challenge known as Government as a Platform, where common components are built once and used by multiple services. This improves user experiences, drives down costs and makes service operations more efficient. GOV.UK Pay and GOV.UK Notify are two great examples."
+        },
+        {
+            "text": "So, to make \u2018signing into GOV.UK\u2019 work the same way across the whole site, we have to create a set of common systems so good that all these hundreds of teams want to use them. That's where the new single sign-on and identity checking solution come in. Think of them like new additions to the toolkit for building great government services (which today already includes GDS services, as well as great APIs offered by the likes of HMRC and DVLA among many others)."
+        },
+        {
+            "text": "That's why we work so closely with people across government at all levels to guarantee that what's built works for both sets of users: users of government and teams in government."
+        },
+        {
+            "heading": 2,
+            "text": "Beyond one-size-fits-all"
+        },
+        {
+            "text": "I said that there were two reasons why signing in to government services on GOV.UK doesn't always work as a user might expect. We've covered the first one, which is that government's distributed technology estate (a good thing) can end up with the same problem being solved in many different ways."
+        },
+        {
+            "text": "The second reason is that much of GOV.UK was never built with the expectation that people would sign in to it. If you forget for a second about the hundreds of services attached to it, the core of GOV.UK is an information-based website with about half a million content pages. If a user looks at one of those pages, the next user visiting that page will see the same thing. That might sound obvious, but it's very different to, say, the Spotify homepage, which will look quite different from one user to the next, based on personal preferences and previous usage."
+        },
+        {
+            "text": "The current one-size-fits-all approach has worked beautifully for years, and will always be the main way GOV.UK works. It's one of the things that helps keep GOV.UK loading super fast for millions of people every day. And if you just want to find out some information, it works great. For that reason, GOV.UK expects users will sign-in to access services (like Universal Credit, or Personal Tax Account) when needed, but it doesn't have a concept of users being signed in to the whole GOV.UK experience."
+        },
+        {
+            "text": "Until now, that is. The GOV.UK Account introduces, for the first time, the idea of being logged-in to GOV.UK itself \u2013 not just an individual service, but the whole website and all the services on it."
+        },
+        {
+            "heading": 2,
+            "text": "Personalised and proactive"
+        },
+        {
+            "text": "This simple and powerful idea introduces a host of opportunities, many of which the GOV.UK Account team have already written about. Logging in to GOV.UK will let users bring together the information and services most relevant to them, and make it easier to keep track of what they're doing with different parts of government. A GOV.UK Account could, with permission, suggest what services a person might need next, show them services they're eligible for, and even notify them when policy changes affect them."
+        },
+        {
+            "text": "This gets to the heart of how the single sign-on and the GOV.UK Account work together: the single sign-on will provide an easy way for users to sign in from any part of GOV.UK, then the account will make the experience of GOV.UK better for those who are signed in."
+        },
+        {
+            "text": "Signing in will work the exact same way whether people sign in to fill in their passenger information, pay the Dart charge, or to subscribe to content updates on GOV.UK. If they've already signed into any other government service, there will be no need to sign in again. And while they're signed in, they'll have access to features on GOV.UK that provide more convenient access to services they use frequently."
+        },
+        {
+            "text": "Meanwhile, as Lead Product Manager Will Myddleton put it in a recent episode of the GDS Podcast, government teams will be able to spend \"their budgets and their time and their human creativity solving the problems that are unique to their service.\" Users of government services will have fewer passwords to manage, and fewer systems to work out. And, for those who want it, there'll be a personalised experience of GOV.UK that goes beyond one-size-fits-all."
+        },
+        {
+            "text": "In one sense, it's transformative to how government services work today. In another, it's just\u2026 the least astonishing thing."
+        }
+    ]
+}

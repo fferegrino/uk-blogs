@@ -1,0 +1,77 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2022/01/17/introducing-a-new-service-to-submit-social-housing-lettings-and-sales-data-core/",
+    "title": "Introducing a new service: Submit social housing lettings and sales data (CORE)",
+    "authors": [
+        "Team Case Level Data Collection"
+    ],
+    "categories": [
+        "Case Level Data Collection"
+    ],
+    "pub_date": "2022-01-17T10:00:55+00:00",
+    "content": [
+        {
+            "text": "We previously blogged about how and why DLUHC is looking at reducing the burden of data submission to central government through user-centred design and automation. This post is about how we\u2019re designing and building the new \u201cSubmit social housing lettings and sales data (CORE)\u201d service."
+        },
+        {
+            "text": "The new service will allow users - in this case housing officers and their managers in Local Authorities and Housing Associations \u2013 to share data on new social housing lettings and sales by:"
+        },
+        {
+            "text": "The information shared by these organisations makes up a set of National Statistics, which need to meet a high standard of trustworthiness, quality and value."
+        },
+        {
+            "text": "For now, we\u2019re working on the first submission method. We have an early draft of the API specification and we\u2019re getting to the bulk upload next, but we needed to prioritise the user needs of less digitally mature organisations to ensure we\u2019re delivering a data submission service that everyone can use."
+        },
+        {
+            "heading": 2,
+            "text": "Design challenges with a professional use service"
+        },
+        {
+            "text": "From a design perspective, this service presents some unique challenges because unlike mainstream citizen-facing services that are used once and provide something in return (for example, your new passport or driving licence), users of this service are professional daily or weekly users and their need to is simply to get their job done."
+        },
+        {
+            "text": "But that doesn\u2019t mean design needs to take a back seat! To help users do their jobs quicker and better, we\u2019ve been experimenting with GOV.UK\u2019s Task List pattern and the one-thing-per-page design principle, to replace the long online \u201cform\u201d with all the questions on one page."
+        },
+        {
+            "text": "This was risky because it\u2019s a long form, there are around 30 questions for the user to complete, so splitting the questions into one-thing-per-page could increase the time it takes to submit the data. Also, with the previous design, users liked scanning the questions quickly and knowing what questions are coming. However, user testing of the new design has found that users feel more confident in using the service and in the data they\u2019re submitting."
+        },
+        {
+            "text": "Users said they were less likely to make errors which means their organisation is less likely to receive DLUHC queries about the data submission later in the year. They also just found the new design simpler and more pleasant to use."
+        },
+        {
+            "text": "We will be doing more scaled testing further down the line to assess the actual impact of the new service on data quality. But our priority right now is to deliver a service that\u2019s more usable and accessible for all, on all devices, and can be improved more easily to meet data providers\u2019 and DLUHC analyst\u2019s\u2019 evolving needs."
+        },
+        {
+            "text": "We\u2019re also addressing the sheer volume of questions through smarter routing in the service, and inferring answers wherever possible, so that we can ultimately reduce the burden of the data submission. You can read much more about our design decisions and user testing in our design blog."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s in a service name?"
+        },
+        {
+            "text": "We couldn\u2019t get rid of the rather meaningless \u201cCORE\u201d acronym entirely because it\u2019s become a bit of a brand in the social housing industry. Existing users told us they\u2019d still call the service and the activity \u201cCORE\u201d, but we know new users don\u2019t understand the acronym. Also, good service names are verbs, not nouns. So we\u2019ve named the new service \u201cSubmit social housing lettings and sales data (CORE)\u201d. This is according to what users expect to do, and for now, \u2018CORE\u2019 is staying in brackets!"
+        },
+        {
+            "heading": 2,
+            "text": "A more automated way to build forms"
+        },
+        {
+            "text": "From a tech perspective, we\u2019ve moved from document / paper-form based data collections to being (JSON) schema-led. This means the online log submission user interface is now auto-generated. Other formats, such as a printable form, a bulk upload template and the API spec could be auto-generated in future, rather than manually built from a legacy paper form. The aspiration is for a much more efficient and flexible way to build and maintain a data collection service."
+        },
+        {
+            "text": "We've used DfE's frontend libraries including its form- building components as our source code and built a more bespoke form builder / runner on top. We've also worked with DfE to improve things for anyone else wanting to use the code. All the code is open source on GitHub."
+        },
+        {
+            "heading": 2,
+            "text": "Help us test the service!"
+        },
+        {
+            "text": "The service passed an Alpha digital service assessment in September 2021 and is now in the Beta build phase. Our multi-disciplinary team of digital and stats people is now keen to hear from Local Authorities and Housing Associations who want to get early access to it during our Private Beta phase."
+        },
+        {
+            "text": "This is where some users start using the service for real, to help us test the service and build enough confidence to release it to all users in a Public Beta. If you\u2019re interested in participating in the Private Beta phase, complete this quick form\u00a0and one of our user researchers will get back to you."
+        },
+        {
+            "text": "As a department that is typically more focussed on policy than transactional services for external users, it\u2019s been a long journey to get here. We\u2019re still learning and we\u2019d love to continue exchanging ideas with other digital and data teams inside and outside of government on the topic of data acquisition and ingestion and digital services in general, to make things better for all users."
+        }
+    ]
+}

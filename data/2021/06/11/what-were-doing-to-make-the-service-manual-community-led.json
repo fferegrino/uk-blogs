@@ -1,0 +1,109 @@
+{
+    "url": "https://services.blog.gov.uk/2021/06/11/what-were-doing-to-make-the-service-manual-community-led/",
+    "title": "What we\u2019re doing to make the Service Manual community-led",
+    "authors": [
+        "Hannah Cooper \u2013 Senior content designer, CDDO",
+        "Kara Kane \u2013 Senior service designer, CDDO",
+        "Martin Jordan \u2013 former Head of Service Design, GDS",
+        "Shahjahan Ahmed \u2013 Service Manual and Standards Support Officer, CDDO"
+    ],
+    "categories": [
+        "Service Standard",
+        "Service transformation"
+    ],
+    "pub_date": "2021-06-11T13:51:15+01:00",
+    "content": [
+        {
+            "text": "Previously, we wrote about taking a community-led approach to the Service Standard and Service Manual. Since then, we have spoken to service teams, conducted research, run workshops, updated guidance, and recently become part of a new organisation \u2013 the Central Digital and Data Office (CDDO). This blog post gives an overview of what we have done in the past 6 months, why we did it and what\u2019s next."
+        },
+        {
+            "text": "Since completing our rediscovery in late autumn, we\u2019ve not stopped learning about our users, their needs and their pain points. To do that most effectively, we reviewed the different ways users can give us feedback and improved our processes for responding to that feedback. We\u2019ve also analysed thousands of feedback comments, matched them to existing knowledge and created a prioritised backlog of things to fix or investigate further."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from established community-led models"
+        },
+        {
+            "text": "We received feedback about shaping our contribution and governance model after the GOV.UK Design System\u2019s. We took a close look, asked the Design System team lots of questions, and discussed what could work and what might not."
+        },
+        {
+            "text": "Then, we branched out and studied how other community-oriented online platforms like Wikipedia, Quora, Academia.edu and the navigation app Waze handle contributions. We wanted to know the following things:"
+        },
+        {
+            "text": "From our desk research, we learned we should focus on topic-centred structured conversations, timeboxed periods for contribution on specific topics, and varied ways for people to contribute to suit differences in capacity, working styles and personalities."
+        },
+        {
+            "text": "In our analysis and subsequent reflection on community models, it became clear that we do not interact with one single community. We need to work with at least as many as there are topics in the Service Manual. Each community organises itself differently\u2014some communities are not yet formally established. This means we need to interact with them differently which increases the complexity of our work."
+        },
+        {
+            "text": "To add further complexity, the Service Standard and Manual serve multiple user groups. These are not mutually exclusive. Instead, one person can wear multiple hats and interact with the standard and manual in different ways on a single day.\u00a0"
+        },
+        {
+            "text": "It serves people who:"
+        },
+        {
+            "heading": 2,
+            "text": "Working with community members to inform guidance"
+        },
+        {
+            "text": "Over the past few months, we\u2019ve used a range of ways to understand service teams\u2019 realities in more detail and learn from their experiences. During Services Week in mid-March, we ran a workshop/show and tell-hybrid to understand how teams designed services in a crisis. We used virtual boards to capture how teams delivered quality at an extreme pace, how they were reusing things, and what principles and ways of working they followed."
+        },
+        {
+            "text": "In the same week, we wanted to hear from teams how the Service Standard can be applied to internal services. Again, we used virtual boards to understand what cross-government colleagues are working on, what challenges they face, and what points of the Service Standard are most difficult to follow."
+        },
+        {
+            "text": "Since then, we\u2019ve gone back to workshop participants and other subject matter experts. We shared first guidance drafts with them, prepared and published related blog posts that extend and support the guidance in the making."
+        },
+        {
+            "text": "As our colleague Alison described in her blog post about how we\u2019ve used user research to inform guidance, we used a different approach to update the guidance on data you must publish when the Performance Platform was retired. We worked with subject matter experts first and then asked service teams to take a look at various versions of guidance drafts, before sharing a refined version on the cross-government Slack and eventually publishing it.\u00a0"
+        },
+        {
+            "text": "Additionally, we\u2019ve updated, corrected, and clarified dozens of guidance pages. Among many other things, we\u2019ve fixed broken links, reflected policy changes, and updated community pages. For example, we corrected how 26 pieces of guidance referred to disabled people, bringing them in line with government inclusive language guidance.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Formulating a communities-centred vision, strategy, roadmap\u00a0"
+        },
+        {
+            "text": "Based on the many inputs and interactions we had with our users and other stakeholders, we had an away day to agree on a common vision for our team:"
+        },
+        {
+            "text": "To deliver against that vision, we:"
+        },
+        {
+            "text": "Quarterly, we collectively define our team\u2019s roadmap. For the latest iteration, we considered 3 lenses to prioritise work: work derived from user-centred problem statements, ongoing work, and work linked to organisational priorities."
+        },
+        {
+            "text": "Those led to the following deliverables for the coming months:"
+        },
+        {
+            "text": "While these deliverables allow some flexibility to what work we pick up, they describe our priorities to senior management and fellow teams working in service assurance and assurance support. We\u2019ve presented our roadmap in internal show and tells and made it available on the intranet for everyone to see and scrutinise."
+        },
+        {
+            "heading": 2,
+            "text": "Removing barriers to guidance and engagement"
+        },
+        {
+            "text": "On a weekly basis, our team reports its progress through internal weeknotes which are also shared on the cross-government #servicemanual Slack channel every Friday. It increases accountability as it allows anyone in government interested in our work to see what we are doing and ask us questions about it.\u00a0"
+        },
+        {
+            "text": "Learning from our users\u2019 feedback, we\u2019ve made it easier to get in touch with our team through various channels by creating a contact page. It\u2019s linked from our beta banner which is visible on every single page in the Service Manual. We also started testing a new \u2018Help improve this guidance\u2019 section at the end of select highly-frequented pieces of guidance."
+        },
+        {
+            "text": "Recognising that various pieces of guidance in the Service Manual were last updated years ago, we took a closer look at the impact of that on users. User research has shown that readers trust guidance less if it has an old \u2018last updated\u2019 date. However, the guidance has generally not been updated because it is still accurate. And having this date at the top of Service Manual pages can distract users from useful guidance."
+        },
+        {
+            "text": "So we decided to remove the \u2018last updated\u2019 date from below guidance page titles. We still have the date at the bottom of every page, but it\u2019s no longer one of the first things the user sees. We\u2019re also looking at other options, like updating the \u2018last updated\u2019 date when a page is reviewed or has minor updates. And, we\u2019re working to find ways for service communities to get involved in reviewing guidance to identify content that needs to be updated.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "A few weeks ago, we became part of a new organisation inside the Cabinet Office: the Central Digital and Data Office (CDDO). In a recent talk, our leaders spoke about the importance of improving end-user experiences with government and building further capability in the Civil Service. The Service Standard and Service Manual will play a key role in achieving these objectives."
+        },
+        {
+            "text": "As outlined in the roadmap that we mentioned above, we are formalising and documenting our community-led approach while working on various pieces of guidance. Join the #servicemanual channel on Slack to hear from us weekly and get in touch with us on any Service Manual-related matter."
+        }
+    ]
+}

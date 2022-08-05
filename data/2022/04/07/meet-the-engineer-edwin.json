@@ -1,0 +1,55 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/04/07/meet-the-engineer-edwin/",
+    "title": "Meet the engineer: Edwin",
+    "authors": [
+        "Edwin Nwofor, lead test engineer, DWP Digital"
+    ],
+    "categories": [
+        "DWP Digital",
+        "Engineering",
+        "Test engineering"
+    ],
+    "pub_date": "2022-04-07T09:00:38+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Tell us a little bit about your role\u00a0"
+        },
+        {
+            "text": "I have been working with DWP Digital for the past 6 months as a Lead Test Engineer working within the Integration team, overseeing everything that is being built and released. This is a traditional DevOps team with three sub teams mainly working on Elastic Kubernetes Service (EKS) solutions, web application firewalls and alerting and monitoring systems. Our output serves as foundation to other DWP Digital teams building customer facing solutions to have a smooth delivery by provisioning robust platforms. \u00a0"
+        },
+        {
+            "text": "What tech do you use?\u00a0"
+        },
+        {
+            "text": "I mainly work with GitLab, Kubernetes, Ansible & Molecule, Chef, Kitchen Tool, AWS, Terraform, API & UI, JavaScript, and Hashicorp Products.\u00a0\u00a0"
+        },
+        {
+            "text": "What do you like most about your job?\u00a0"
+        },
+        {
+            "text": "My job really gives me opportunity to explore applications in detail before being released to wider users. To me, being a gatekeeper is interesting and challenging as it makes me think of what users might want ahead of time and ensure those are working smoothly.\u00a0\u00a0"
+        },
+        {
+            "text": "What\u2019s the best thing about DWP Digital?\u00a0"
+        },
+        {
+            "text": "One key thing that stands out for me regarding DWP Digital is that it has an excellent culture that promotes openness, inclusion and diversity. It also provides an excellent environment for everyone to thrive whilst delivering value to the citizens. \u00a0"
+        },
+        {
+            "text": "What are your career goals for the next few years?\u00a0"
+        },
+        {
+            "text": "I\u2019d like to be in a position that will enable me to understand most of the components making up the system, to deliver excellent values for all the stakeholders involved.\u00a0\u00a0"
+        },
+        {
+            "text": "What do you enjoy doing in your spare time\u00a0"
+        },
+        {
+            "text": "Outside of work I enjoy walking, sight-seeing and traveling.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

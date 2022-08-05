@@ -1,0 +1,77 @@
+{
+    "url": "https://publicpolicydesign.blog.gov.uk/2022/02/24/making-a-service-map-in-a-policy-department/",
+    "title": "Making a service map ...in a policy department",
+    "authors": [
+        "Alice Whitehead"
+    ],
+    "categories": [
+        "Case study"
+    ],
+    "pub_date": "2022-02-24T11:06:32+00:00",
+    "content": [
+        {
+            "text": "In 2020, a user-centred design team at Department for Levelling Up, Housing and Communities (DLUHC) was given a mission to create a service map."
+        },
+        {
+            "text": "Whereas a service blueprint sets out all the interactions that constitute one service, a service map presents a number of services that somehow relate to each other, perhaps involving the same user, delivery bodies or policymakers. How you present that information is up to you."
+        },
+        {
+            "text": "DLUHC is a small policy department, so we started from quite a different place than previous work other departments have done to create service maps or lists. The challenges went beyond finding and mapping services, and through a series of three blogs we want to share some of our learning with teams who may be looking to start something like this from a similar position. We\u2019ll be sharing reflections on how we went about designing the service map artefact and the multifaceted value it could bring to public policymaking in different departments later in the series."
+        },
+        {
+            "text": "This first post explores our initial reaction to the challenge of being asked to make a service map for our policy department, DLUHC. It covers where we began, who we had in the team and how we grappled with some of the big questions that emerged from our attempt at thinking about services and policy together."
+        },
+        {
+            "heading": 2,
+            "text": "Taking a service approach for the first time"
+        },
+        {
+            "text": "In October 2020 DLUHC (at that time Ministry of Housing, Communities & Local Government) was coming out of the first phase of COVID-19 response. COVID-19 had created a lot of new work, so the department\u2019s management constantly had to prioritise members of staff and pieces of work to make sure the right outcomes were achieved. I use \u201cpieces of work\u201d deliberately \u2013 because it\u2019s a catch-all term that can cover lots of things, especially in a policy department. Work is often assigned shorthand labels such as \u201cshielding programme\u201d or \u201cbusiness support grant\u201d, but these things could involve a multitude of activities, costs, contracts, research, legislation and so on. It\u2019s hard to make sensible and rapid prioritisation decisions if you don\u2019t know exactly what needs to be done."
+        },
+        {
+            "text": "The department's work on COVID-19 stretched beyond its typical policy stewardship role and into more operational service delivery, and senior leaders had reflected on the need for different skills and approaches to reflect this changing role. The Chief Digital Officer wanted to support this shift and use it as an opportunity to broaden the department's perspective beyond its traditional policy framing. After all, the department had been responsible for considerable nationwide delivery for years (for example, in regeneration funding) and there was an opportunity to improve the quality of that work by using a service perspective to better connect policy work with the real-world user impact of these decisions - a shift in thinking that has been emerging from digital and policy teams across government through groups like Policy Lab and OneTeamGovernment. There was also an opportunity to use service thinking to identify reusable components or approaches that lay horizontally across a department that remain primarily organised by policy areas."
+        },
+        {
+            "text": "A user-centred service approach is quite well established in the more operational government departments, following many years of development of the concept and best-practice delivery of government services, led by Government Digital Serivce. Those departments understand that the government is providing a service every time it offers people a way to do something, like get a driving licence, qualify in a profession or access an entitlement. Services need to stay \u2018switched on\u2019 and they must work well during their lifetime, so that people can get what they need, when they need it. There is a cost to providing every service, even if it\u2019s just a little bit of staff time, which should be weighed against the service\u2019s benefit to the public. We knew that we could make better resourcing and prioritisation decisions in DLUHC, if we could identify which \u201cpieces of work\u201d were services that needed to be treated in this way."
+        },
+        {
+            "heading": 2,
+            "text": "Enter the team"
+        },
+        {
+            "text": "That\u2019s where we came in. The team began with one Product Manager, one Service Designer and an extra pair of hands from our digital team, then expanded to include a Content Designer and a User Researcher. In our initial roadmap, we envisaged a discovery phase looking at the problem space, an alpha phase prototyping a product to meet user needs, and an assessment of how to continue into a beta phase."
+        },
+        {
+            "text": "We started off by looking at other service maps that existed across government: from the Home Office, the Department for Education (DfE),\u00a0and the Ministry of Justice. DfE felt the most similar to our own department in terms of a focus on policy. At this stage we weren\u2019t even sure how to define \u201cservice\u201d for our service map. Was briefing ministers a service? Was our commercial team providing a service? What if the market played a role in the service? One of the things we learned from other departments was to start with was the user \u2013 to conceptualise each service in terms of what it enabled someone outside the Civil Service to do. Following this logic and to limit our scope, we ruled out internal services, as they felt like a different category of business activity."
+        },
+        {
+            "heading": 2,
+            "text": "Where policy meets delivery"
+        },
+        {
+            "text": "In traditional policymaking, policy is seen as separate to implementation (also known as delivery). However, recent best practice in policymaking emphasises the critical link between the theory of a policy and the reality of how it is delivered. From a user\u2019s point of view it doesn\u2019t really matter who is doing the delivery."
+        },
+        {
+            "text": "As a policy department we didn\u2019t use \u2018services\u2019 as a day-to-day way to organise our work and it wasn\u2019t straightforward to gather a simple list. We used all the sources we could get our hands on to find as many of DLUHC\u2019s services as we could: the business plan, our intranet, Contracts Finder, GOV.UK service lists, even Hansard!"
+        },
+        {
+            "text": "We used the metaphor of orbits to try and clarify our understanding of how near to DLUHC a service was. It 'felt like' bin collection wasn\u2019t as core to the department as giving out local growth funding\u2026but why? We had lots of debates about \u2018responsibility\u2019, \u2018lines of accountability\u2019 and \u2018outsourcing\u2019. A service may still be crucial even if it isn\u2019t a political priority, or if only 1 person works on it, or if it\u2019s been around for ages, or if it\u2019s actually delivered by someone else. We agreed that if a service landscape could be traced back to a policy originating from the department then it was only right that the department was considered responsible for whether it was achieving the policy outcome (or not)."
+        },
+        {
+            "text": "As a result, we drew a few more lines: we ruled out services that were run exclusively by local government (like bin collection), but we ruled in services that were delivered through DLUHC\u2019s Arm\u2019s-Length-Bodies."
+        },
+        {
+            "heading": 2,
+            "text": "Putting it all together"
+        },
+        {
+            "text": "We\u2019d found all these different services DLUHC was responsible for, but the challenge of communicating the link between them and our policies to senior stakeholders remained. We developed a diagram to help. In it, you may recognise the \u2018theory of change\u2019 principle that good policymakers use. But we have also included the detail of operational delivery to illustrate our belief that designing services that work for users is the key to creating interventions that demonstrably achieve policy outcomes. This helped us to start the conversation with senior stakeholders and colleagues across delivery, policy and change teams; framing the work we do in the department through a service lens."
+        },
+        {
+            "text": "Because policy-making brings an additional \u2018internal\u2019 layer of actors, considerations and outcomes to the \u2018external\u2019 or \u2018real-world\u2019 things that happen as a result of policy, it was really hard to try and apply service thinking in the traditional policy landscape. However, once we managed to conceptualise this split, it was hard to remember a time when we couldn\u2019t see it. That\u2019s why we wanted to share what we found and we\u2019d love you to get in contact if this is something you\u2019re trying to do too."
+        },
+        {
+            "text": "In our next blog posts you can read about the service map artefact and how we made it, as well as the value it could bring to your organisation."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "url": "https://marinescience.blog.gov.uk/2021/11/19/cefas-and-industry-science-collaborations-fisheries-monitoring-the-electronic-age/",
+    "title": "Cefas and industry science collaborations: Fisheries monitoring, the electronic age",
+    "authors": [
+        "Rebecca Skirrow"
+    ],
+    "categories": [
+        "Field Research",
+        "Fisheries",
+        "Science"
+    ],
+    "pub_date": "2021-11-19T09:00:26+00:00",
+    "content": [
+        {
+            "text": "This is the second in a series of short blogs focussing on Cefas\u2019 fisheries science work in partnership with the fishing industry. Cefas Scientist, Rebecca Skirrow, who is the technical lead on Cefas\u2019 Scientific Remote Electronic Monitoring (REM) Programme, is our next blog author."
+        },
+        {
+            "text": "I started at Cefas as a Fisheries observer, collecting data onshore from fish markets and merchants in the North-East. Over the years, I have seen sampling programmes develop and change, adopting new practices and new techniques. With the constantly changing environment of fisheries management, data collection must be equally as dynamic. Changes in the fisheries landscape, such as the UK becoming an independent coastal state, means it\u2019s more important than ever to collect high quality data that provides the insights and coverage we need as the base of fisheries management decisions. The uptake of technologies such as Remote Electronic Monitoring (REM) can help to achieve this aim."
+        },
+        {
+            "text": "Not long after I started at Cefas, a piece of work using REM to collect data for a gear trial was being undertaken. In downtime from my day job (often due to weather), I got involved in the project, assisting with data entry and eventually data collection, which was my first taste of REM. Fast forward a few years and I am now the technical lead on Cefas\u2019 Scientific REM programme."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What is REM?"
+        },
+        {
+            "text": "At this point you may be asking yourself, what is Remote Electronic Monitoring and why use it? You may be thinking, big brother, cameras everywhere. To me, REM is nothing more than a data collection tool focused on providing the data scientists need to be able to provide robust advice on fisheries and their management. The data needed to answer various questions determines how the \u201ctool\u201d is used."
+        },
+        {
+            "text": "A REM system is typically made up of several components, a central computer, various sensors and antenna and finally a number of digital cameras (see the image below)."
+        },
+        {
+            "text": "The sensors and antenna collect what we call sensor data. This allows fishing activity to be identified, giving a complete picture for a single vessel, with important information such as number of hauls completed and location. The cameras collect video data and are often set up to record constantly once the vessel has left the harbour. This video can be reviewed to gather more detailed information from the vessel, such as catch information."
+        },
+        {
+            "text": "The specific setup of each system is dependent on the vessel and the data you want to collect. The main variations are in number (and placement) of the cameras and presence of a sensor. A winch or hydraulic sensor makes identifying fishing activity quicker and easier but the reality of installing them isn\u2019t always straight forward, or possible. The 6-camera set up shown in the images is typical to get full catch coverage, allowing collection of data similar to that usually collected by scientific observers at sea. Knowing where catch is sorted and processed is key to achieving this, which would be impossible without input from the skipper."
+        },
+        {
+            "text": "For REM to be successful and provide scientists with suitable data, positive industry collaboration is essential. With other data collection methods, a scientist goes to the vessel, does the work and brings the data back, whereas with REM the point at which the data are generated, the process is out of our hands. Only once the video is received and reviewed, which can sometimes be weeks or a month later, will we know if the data is of sufficient quality."
+        },
+        {
+            "text": "When using REM, onboard protocols are developed with the skippers to ensure the data recorded will be fit for purpose . This may require some changes to catch handling onboard, particularly if a species needs to be measured using REM software. The image below shows a sample of fish presented on a hatch for measuring. This wouldn\u2019t be possible without cooperation from the vessel skipper and crew."
+        },
+        {
+            "text": "Until 2020, REM had only been used by Cefas in discrete projects, as a novel data collection method. In coming years, it is hoped that the use of REM as a scientific data collection tool can be \u201cnormalised\u201d. As with anything new, adoption of REM for scientific data collection was never going to happen overnight and the transition started in the Celtic Sea, concentrating on the otter trawl fleet, in April 2020. Despite many challenges thrown up in the first year, three skippers in the South-West volunteered to take part in a continuous monitoring programme using REM."
+        },
+        {
+            "text": "The Celtic Sea otter trawl fleet was selected to pilot a scientific REM programme because the mixed nature of the fishery presents significant management challenges, balancing the need to protect and restore depleted stocks, while maximising fishing opportunities of healthy stocks. When combined with other data collection programmes, increased coverage of the fleet in this area will provide a better understanding of catch compositions, which will in turn allow creation of management measures based on robust scientific data."
+        },
+        {
+            "text": "When asked why they are involved, the skippers replied\u2026"
+        },
+        {
+            "text": "\u201cAll too often we as an industry find that there is a data lag between scientific advice and what is happening on the grounds, this was our main driving force to be involved with REM. Cameras can provide real time data, speeding up the assessment process. Over time this would benefit our industry as the balance between advice and reality on the fishing grounds would align more closely.\u201d"
+        },
+        {
+            "text": "\u201cThe industry is in a bit of decline, with the stocks especially. There\u2019s a lot more efficient effort on the grounds than there ever has been. If we (industry) can do our bit so you (scientists) can understand the stocks better, if it still goes belly up at least we\u2019ve tried. It\u2019s also quite interesting looking back at the data you\u2019ve supplied.\u201d"
+        },
+        {
+            "text": "\u201cI am always keen to get involved with fisheries data collection, because it will eventually help our understanding of fish populations (both increasing/decreasing), leading to better decision making on quotas. This new technology is both exciting and hopefully faster with the data collection but must not be used to control vessels/fleets for it to work.\u201d"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Time to reflect"
+        },
+        {
+            "text": "Coming up to a complete year of data collection with the original three skippers we can reflect on how it\u2019s gone. It hasn\u2019t always been the easiest, but we\u2019ve achieved plenty so far."
+        },
+        {
+            "text": "Data collection using REM is, as its name suggests, in some ways remote. We don\u2019t need to be there to get the data, which over the past 18 months has been somewhat of an advantage. That said, the remoteness of it is not always easy. Technology being technology doesn\u2019t always work as you\u2019d hope (or expect), and although I know the systems quite well and could likely solve most problems, the vessels are 400-500 miles away. A lot of video calls and \u201ccan you send me a picture\u201d later, we\u2019ve navigated most things eventually. Using REM also means there isn\u2019t a need to be on the boat for the few hours steam, talking about all the latest news and opinions, getting the anecdotal information that is often worth its weight in gold when it comes to understanding concerns and challenges facing the industry, as well as changes seen over time. The sharing of cake, or more specifically the lack thereof, is also a key concern among one or two of our skippers, which we can only aim to improve on going forward."
+        },
+        {
+            "text": "In other ways REM data collection doesn\u2019t feel remote at all. Me and the skippers need to keep regular contact to keep things going. If it\u2019s not a gentle reminder from me to \u201cclean that camera again please\u201d, I\u2019m getting in touch about sending a new hard drive or asking if it\u2019s possible to tweak something they are doing onboard, or they are contacting me for tech support or to see how we are getting on looking at the data."
+        },
+        {
+            "text": "The successful application of REM in this scientific monitoring project is a real testament of industry/science collaboration, as without an effective industry/science partnership, there wouldn\u2019t be any data. Applying new technologies such as REM as \u201cnormal\u201d data collection methods alongside other traditional programmes allows a transition to a new era in data collection, providing a better understanding of our fisheries."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/12/08/guest-post-how-apis-kept-our-country-running-when-everything-stopped/",
+    "title": "Guest post: how APIs kept our country running when everything stopped\u00a0",
+    "authors": [
+        "Melissa van der Hecht - guest author, Field CTO, Kong\u00a0"
+    ],
+    "categories": [
+        "APIs",
+        "coronavirus",
+        "Integration"
+    ],
+    "pub_date": "2021-12-08T10:38:19+00:00",
+    "content": [
+        {
+            "text": "I\u2019m Field CTO at Kong and passionate about the powerful ways that APIs help people\u00a0and\u00a0businesses.\u00a0 We\u2019ve been working with DWP Digital\u00a0for two years\u00a0alongside Jacqui\u00a0Leggetter\u2019s\u00a0fantastic Integration Team, and the\u00a0API-driven\u00a0outcomes the\u00a0company is\u00a0delivering for UK citizens never fail to\u00a0impress me.\u00a0"
+        },
+        {
+            "text": "The Department for Work and Pensions (DWP), the UK\u2019s biggest government department,\u00a0touches every single one of us. Payments\u00a0totaling\u00a0\u00a3212billion\u00a0were\u00a0paid out in benefits and pensions in 2020/21\u00a0to support the needs of UK citizens.\u00a0The\u00a0DWP\u00a0administers\u00a0our pensions, pays\u00a0out our Universal Credit\u00a0and health benefits\u00a0when we can\u2019t work,\u00a0and\u00a0partners\u00a0with other government departments to support the services they provide\u00a0to citizens.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "This is the status quo. But at the beginning of (the first) lockdown in the UK in 2020, everything changed.\u00a0The DWP\u00a0saw 10\u00a0times\u00a0the normal number of claims for benefits. Demand for data from other government departments shot up from 4.5 million requests per day to over 7.5 million requests at peak.\u00a0There was a\u00a0huge increase\u00a0in demand for\u00a0everything DWP does, with the knowledge that falling behind\u00a0could\u00a0be detrimental to the people relying on those services.\u00a0It was critical for the DWP to support this increase to ensure citizens were supported through this vulnerable time.\u00a0"
+        },
+        {
+            "text": "Making matters worse,\u00a0pandemic\u00a0social distancing rules and restrictions\u00a0meant\u00a0the majority of\u00a0DWP staff were suddenly unable to work.\u00a0Although processes were\u00a0quickly set up to enable\u00a0remote working,\u00a0right\u00a0at the very start of the pandemic they\u00a0weren\u2019t\u00a0yet in place. With large numbers of people\u00a0at home,\u00a0the DWP had a massive\u00a0challenge\u00a0ahead of them\u00a0to handle the increased workload.\u00a0"
+        },
+        {
+            "text": "Significant change was needed. DWP\u00a0Digital, the technology arm of the department,\u00a0turned to APIs and\u00a0us:\u00a0Kong, their\u00a0API\u00a0gateway\u00a0supplier partner,\u00a0to replace\u00a0some of the\u00a0lengthy\u00a0manual steps\u00a0in the benefits\u00a0process\u00a0with automated, scalable processes. Kong proxies all API traffic\u00a0across\u00a0the\u00a0DWP systems\u00a0and externally to other government departments, ensuring it\u2019s reliable,\u00a0secured\u00a0and observable.\u00a0That means processing all 7.5 million daily requests across the UK government. You can think of APIs as the glue that connects systems and networks together, enabling confidential,\u00a0secure\u00a0and reliable data sharing where and when needed.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "This is how APIs kept our country running when everything stopped.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Universal Credit\u00a0"
+        },
+        {
+            "text": "There were 2.5 million new Universal Credit claims during the first three weeks of\u00a0the UK\u00a0lockdown. That means 2.5 million more households in the UK\u00a0were\u00a0suddenly\u00a0without an income.\u00a0Put into context,\u00a0that\u2019s\u00a0more than the population of Birmingham, Leeds and Glasgow put\u00a0together. Many of these households\u00a0had always worked and found themselves abruptly made redundant or put on furlough because of the pandemic,\u00a0and most\u00a0had never\u00a0used\u00a0the\u00a0DWP\u00a0services\u00a0before. These households could\u00a0no longer\u00a0rely on their normal salary\u00a0and desperately needed financial support to\u00a0meet basic needs of retaining their housing and putting food on their table.\u00a0"
+        },
+        {
+            "text": "Normally there are face-to-face meetings or phone calls to validate the circumstances of a Universal Credit claim. But\u00a0under government rules,\u00a0people were asked to stay at home. The job\u00a0centres were closed for face-to-face appointments and turned into virtual processing centres. Staff in non-operational roles were temporarily redeployed to process the influx of Universal Credit claims.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0Somehow, the\u00a0DWP\u00a0still\u00a0paid 97% of these claims on time, achieving a normal\u00a0performance level\u00a0in a very abnormal situation and ensuring these households received the financial support they needed. How? APIs. In under two weeks, the team built a new API to automate the claim\u00a0verification\u00a0process\u00a0that enabled the payments to be issued on time whilst\u00a0carefully balancing the need for speed with adequate validation of a claim.\u00a0This meant\u00a0rather than calling people into a job centre for a\u00a0verification\u00a0interview and manual process,\u00a0a new verification\u00a0API\u00a0was introduced that enabled\u00a0the\u00a0DWP to validate the citizen through checking back-end biographic\u00a0APIs; the citizen\u00a0verification\u00a0is now handled by an API rather than requiring people taking the time to check someone\u2019s details manually.\u00a0"
+        },
+        {
+            "text": "\u00a0This means those 2.5 million households could be supported at a time of great crisis.\u00a0Building this API enabled real people, the users of the service,\u00a0to pay their bills and put food on the table.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u00a0Automating\u00a0medical\u00a0reports\u00a0"
+        },
+        {
+            "text": "\u00a0It\u2019s not just those who\u2019ve lost their jobs that\u00a0the\u00a0DWP and their APIs support. Due to health issues, 1.5 million UK citizens are unable to work and need financial\u00a0support, and this\u00a0number\u00a0grew further to 2 million during the lockdown.\u00a0"
+        },
+        {
+            "text": "\u00a0Usually, when a claim for benefit is made on the grounds of ill health, a\u00a0medical\u00a0practitioner\u00a0typically assesses\u00a0the\u00a0new claimant and certifies them as unfit for work.\u00a0Once the medical paperwork has been processed, it\u2019s then physically\u00a0sent\u00a0to the office that handles the claim, which\u00a0would be processed and\u00a0manually\u00a0put into\u00a0the benefit system,\u00a0which then ultimately results in a payment being issued.\u00a0Due to lockdown,\u00a0this became unfeasible.\u00a0Even though medical assessments could be carried out virtually,\u00a0the outcome or report could not be shipped by paper to\u00a0the\u00a0DWP,\u00a0as this would increase the risk of transmitting COVID, and staff would not be available to receive and distribute paper medical reports.\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0The\u00a0DWP introduced a new\u00a0API\u00a0to\u00a0digitise\u00a0this process.\u00a0A new API was\u00a0built to enable\u00a0the medical provider partners\u00a0to upload and send the medical report digitally.\u00a0Introducing the\u00a0API\u00a0that enables medical reports to be uploaded digitally removed numerous manual processes from health benefit claims processing,\u00a0enabling them to be processed by staff who were working\u00a0remotely.\u00a0Ultimately,\u00a0this API is helping\u00a0to\u00a0ensure\u00a0citizens received the appropriate health benefit at the right time.\u00a0"
+        },
+        {
+            "text": "\u00a0The\u00a0API\u00a0is\u00a0scalable\u00a0and can process\u00a0large numbers of\u00a0reports from multiple partners\u00a0at the same time,\u00a0and\u00a0the\u00a0removal of\u00a0paperwork has mitigated\u00a0the\u00a0risk of\u00a0spreading\u00a0of the virus.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u00a0Benefit\u00a0status\u00a0check\u00a0for prescriptions\u00a0"
+        },
+        {
+            "text": "\u00a0Most\u00a0of us, at one point or another, have taken\u00a0a\u00a0prescription slip from the doctor to the pharmacy (or increasingly seen our doctors send the prescription directly to the pharmacy). We always go through the same process:\u00a0Tick the\u00a0relevant\u00a0boxes\u00a0on the back and sign\u00a0the declaration that states if you\u00a0have to\u00a0pay for it or\u00a0not. If you qualify for free\u00a0prescriptions,\u00a0you tick the appropriate box and leave with\u00a0the medicine\u00a0you\u00a0need and\u00a0probably\u00a0don\u2019t think any more about what happens to that slip.\u00a0"
+        },
+        {
+            "text": "\u00a0However, the next step is that the\u00a0slip gets processed by the pharmacies and later somebody performs a check to see if the boxes\u00a0ticked were\u00a0the right ones.\u00a0There are very complex rules on eligibility for free prescriptions, and that means they\u2019re easy to get wrong.\u00a0This\u00a0has\u00a0led to\u00a0a high rate of fraud and error, costing the NHS \u00a3250 million a year\u00a0in\u00a0administration\u00a0and debt recovery costs. That\u2019s the equivalent of\u00a028,249 hip replacements!\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0The\u00a0DWP have delivered a new\u00a0API\u00a0that\u00a0gives\u00a0pharmacies the ability to do a real-time check to see whether\u00a0people are\u00a0eligible for free prescriptions\u00a0as a result of\u00a0their benefit entitlement,\u00a0at the point of collection.\u00a0The\u00a0API\u00a0provides a simple, immediate yes-or-no response\u00a0which\u00a0not only saves\u00a0money\u00a0but enables citizens who may not know if they are eligible\u00a0to easily check their status.\u00a0"
+        },
+        {
+            "text": "\u00a0It\u2019s a fully reusable\u00a0benefit\u00a0check\u00a0API, so the same outcomes here can\u00a0be applied\u00a0for other eligibility services such as\u00a0free school meals, hospital travel expenses,\u00a0etc. in the future.\u00a0The benefit check\u00a0API\u00a0has been built as a reusable\u00a0API,\u00a0using layered microservice\u00a0APIs from the source citizen information systems that enable\u00a0the\u00a0DWP\u00a0to trace and validate the citizen record,\u00a0then perform the benefit check. All microservices other than\u00a0the\u00a0NHS\u00a0calculation service are reusable and are now being enhanced for further adoption by other government services.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u00a0The ultimate impact of APIs\u00a0"
+        },
+        {
+            "text": "\u00a0The fallout from\u00a0the pandemic\u00a0has led to a continued unprecedented demand for DWP services\u00a0for\u00a0a number of\u00a0reasons,\u00a0from\u00a0the increased number of\u00a0health-related\u00a0benefit claims\u00a0from\u00a0sufferers of long COVID\u00a0to\u00a0bereavement benefits and unemployment benefits\u00a0as the economy slowly recovers. The APIs rapidly spun up by DWP\u00a0Digital\u00a0at the beginning of the pandemic continue to be used\u00a0and iterated\u00a0for these citizen services.\u00a0I\u2019ve\u00a0just highlighted a few of them here,\u00a0but there are hundreds of other APIs\u00a0being\u00a0used across\u00a0numerous\u00a0government departments\u00a0to\u00a0ensure\u00a0that our\u00a0citizens\u00a0needs are met reliably and efficiently.\u00a0"
+        },
+        {
+            "text": "\u00a0These APIs are secured, governed and made reusable by\u00a0Kong,\u00a0the world\u2019s most widely used API gateway.\u00a0The\u00a0DWP is also using APIs in Kong to move to a more holistic and multi-channel citizen experience. APIs make shared componentry reusable across each service team, ensuring a consistent and standardised experience. This means the previously independent experiences provided by each DWP service can be\u00a0joined together\u00a0in one experience, providing simpler and better help to those who need it.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

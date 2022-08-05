@@ -1,0 +1,88 @@
+{
+    "url": "https://technology.blog.gov.uk/2022/06/07/how-we-fixed-connection-reset-errors-on-gov-uk-pay/",
+    "title": "How we fixed connection reset errors on GOV.UK Pay",
+    "authors": [
+        "Kat Stevens, GDS Senior Developer",
+        "Jonathan Harden, GDS Senior Site Reliability Engineer"
+    ],
+    "categories": [
+        "APIs",
+        "GOV.UK",
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2022-06-07T10:12:15+01:00",
+    "content": [
+        {
+            "text": "In April the GOV.UK Pay infrastructure team noticed some of our test payments were failing intermittently. Payments made by real users in the production environment were unaffected, but the test errors occurred often enough to start blocking our deployment pipeline. The issue lay in our Connector app\u2019s \u2018connection time to live\u2019 settings. Here\u2019s how we fixed it."
+        },
+        {
+            "heading": 2,
+            "text": "The problem"
+        },
+        {
+            "text": "GOV.UK Pay makes it easy for public sector organisations to take payments by providing an API that connects to various third-party payment providers such as Worldpay and Stripe.\u00a0"
+        },
+        {
+            "text": "We have different levels of testing for GOV.UK Pay. Mostly we simulate (or \u2018stub out\u2019) calls to third-party APIs. To test critical user journeys, like making a payment, we carry out \u2018smoke tests\u2019 where we make calls to the Worldpay and Stripe test environments to check our integration is working correctly."
+        },
+        {
+            "text": "When our smoke tests to Worldpay started failing, with around 1 in 12 test payments giving a \u2018connection reset\u2019 error, we raised the issue with Worldpay support. Worldpay said they\u2019d added a firewall in front of their test environment API. They recommended we check that our requests were not relying on calling a fixed IP rather than using DNS resolution. We ruled this out as the problem. So what was happening?"
+        },
+        {
+            "text": "Worldpay were planning to roll out the new firewall change to their live environment at the end of June, so we needed to find a solution to prevent the error impacting real users' payments."
+        },
+        {
+            "text": "While we investigated we added a basic retry mechanism for the intermittent smoke test failures so GOV.UK Pay developers weren\u2019t blocked from their normal processes. We also made sure our internal stakeholders were aware of the issue and the potential impact on paying users."
+        },
+        {
+            "heading": 2,
+            "text": "The investigation"
+        },
+        {
+            "text": "We focused on 2 areas of GOV.UK Pay\u2019s infrastructure that were likely to be the cause. They were the:"
+        },
+        {
+            "text": "We ruled out the egress proxy being the cause of the problems by temporarily removing it from our test environment and having Connector make requests directly to the Worldpay API.\u00a0"
+        },
+        {
+            "text": "We felt this was safe enough, as our test environment contains no real card data. The only transactions which pass through this environment use specially designated test card numbers. All the data which would be considered personal information is fake data and no real user information can enter this environment.\u00a0"
+        },
+        {
+            "text": "This meant some delicate changes to the existing AWS networking we had set up in the test environment, as previously we had wanted to ensure that Connector definitely could not make direct requests to the outside world.\u00a0"
+        },
+        {
+            "text": "Unfortunately, even without the egress proxy in place, the errors continued. So we focused our investigation on Connector."
+        },
+        {
+            "text": "First we increased the HTTP log level on the Connector app to DEBUG, on our test environment only. Normally we avoid logging this level of information, in case we inadvertently log personal data, API keys or card details.\u00a0"
+        },
+        {
+            "text": "Again, we agreed this would be acceptable as long as it was limited to the test environment, and the code which defines the infrastructure would only allow these changes to be applied in the testing environment. This meant we could get a level of fine detail about the requests Connector was making to Worldpay, including the headers of the requests/responses, and which connection threads were being used.\u00a0"
+        },
+        {
+            "text": "When we compared the detailed DEBUG-level logs for a successful smoke test payment with those of a failed smoke test payment, we could see that on the failed payments Connector was not even getting as far as sending its POST request to the Worldpay API. The connection was closed and shut down before this could happen. This told us it was likely to be an issue with stale HTTP connections in the pool.\u00a0"
+        },
+        {
+            "text": "The Connector app uses the Dropwizard/Jersey client, a wrapper around the Apache HTTP client, which is configurable with a number of connection settings. To improve performance, the client maintains a pool of HTTP connections it can reuse. The settings determine how many connections can be used at once, how long they should be kept open for, and so on. "
+        },
+        {
+            "text": "At first it looked like the settings were as they should be, however interestingly the KeepAlive setting was set to zero, meaning connections should have been closed immediately after use, which didn\u2019t match the behaviour we were seeing."
+        },
+        {
+            "text": "We then found the HttpConnectionManager class had a connTTL (\u2018connection time to live\u2019) setting, which was hardcoded to -1, meaning it would keep connections alive indefinitely. This felt like it explained the behaviour we were seeing. We cross-checked the documentation for Worldpay\u2019s firewall provider, and found it supported connections lasting up to 500 seconds."
+        },
+        {
+            "heading": 2,
+            "text": "The solution"
+        },
+        {
+            "text": "The logs showed that for failed smoke test payments, the same connection had been used around 5-6 minutes earlier on a previous, successful smoke test. It was reasonable to expect the Worldpay firewall to treat this connection as stale, and refuse the request. This theory was backed up by the fact that when smoke tests were run in quick succession (1 minute apart rather than 5 minutes), they tended to pass without errors."
+        },
+        {
+            "text": "We set the connTTL setting to 60 seconds, well under the firewall limit, but long enough that it should not affect Connector\u2019s performance. We deployed the change to the test environment, and ran our set of smoke tests. They passed! More importantly, they passed consistently and the connection reset errors no longer appeared.\u00a0"
+        },
+        {
+            "text": "Once we deployed the fix we made sure we reverted our earlier changes to the DEBUG log level, and removed the temporary networking that allowed us to bypass the egress proxy to safeguard personal data. We kept our smoke test retries in the deployment pipeline to help unblock developers suffering from flaky tests in future. Finally, we fed back our findings to Worldpay to help other users who might be experiencing the same problem."
+        }
+    ]
+}

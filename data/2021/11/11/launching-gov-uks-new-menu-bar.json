@@ -1,0 +1,102 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/11/11/launching-gov-uks-new-menu-bar/",
+    "title": "Launching GOV.UK\u2019s new menu bar",
+    "authors": [
+        "Sam Dub, Senior Product Manager at GOV.UK, GDS",
+        "Mia Allers, Senior Graphic Designer at GDS",
+        "Tara Stockford, Senior Performance Analyst at GOV.UK, GDS"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2021-11-11T09:01:58+00:00",
+    "content": [
+        {
+            "text": "Back in May we wrote about our plan to improve the navigation on GOV.UK and our goal of making government information and services easier to find."
+        },
+        {
+            "text": "Our team\u2019s work addresses 3 problems we identified in our discovery phase which affect users\u2019 ability to find things on GOV.UK. These are:"
+        },
+        {
+            "text": "A few months on, we wanted to share what we\u2019ve delivered so far, and what comes next."
+        },
+        {
+            "heading": 2,
+            "text": "What we changed"
+        },
+        {
+            "text": "If you\u2019re a frequent user of GOV.UK you may have noticed the first of our changes going live. This is the introduction of a consistent sitewide menu bar, which now appears at the top of more than half a million GOV.UK pages."
+        },
+        {
+            "text": "This new menu bar replaces the 3 different menu bar styles we previously used, and it allows users to browse the site by:"
+        },
+        {
+            "heading": 2,
+            "text": "Why we changed it"
+        },
+        {
+            "text": "The core principle of the new menu bar design is that users shouldn\u2019t need to understand the structure of government to find what they need."
+        },
+        {
+            "text": "This is why we introduced \u2018Topics\u2019 as the primary way of browsing from the menu bar. It\u2019s usually much easier for someone to pick a topic like \u2018Driving and transport\u2019 than it is to work out whether DVLA, DVSA, Highways England or the Department for Transport publish the information they need."
+        },
+        {
+            "text": "\nWe know that some users do have a clear departmental model of government, and this is why we decided to carry over the use of a \u2018Departments\u2019 link from the older menu bar into these designs."
+        },
+        {
+            "text": "In user research, we also observed a smaller third group, who are looking for specific kinds of information, often in a research capacity. For example, journalists looking for transparency documents, statistics or press releases. We\u2019ve grouped these formats together under \u2018Government activity\u2019. We chose this name to differentiate the long-tail administrative content in this section from the more user-centred information and services presented within \u2018Topics\u2019."
+        },
+        {
+            "text": "Using these 3 elements, our goal was to make it clear how government information and services are organised, and present these as navigation options consistently."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "Following several rounds of usability testing, we introduced the new menu bar as an A/B test in August. This meant GOV.UK users were randomly assigned into one of 2 groups. One group saw the new menu bar, the other group saw the existing menu bars. This allowed us to directly compare the impact of the 2 approaches."
+        },
+        {
+            "text": "We found that during the A/B test period:"
+        },
+        {
+            "text": "These A/B test metrics, combined with our usability testing, gave us confidence to roll out the new menu bar design sitewide."
+        },
+        {
+            "heading": 2,
+            "text": "A second iteration of the menu bar"
+        },
+        {
+            "text": "Alongside the A/B test measurements, we also reviewed browsing data to map the common paths users took after using the new menu bar. This data comes from our users who opt in to cookies that measure website use."
+        },
+        {
+            "text": "We found that the journeys for users who selected \u2018Topics\u2019 from the menu bar were largely successful, with most users arriving at a content item or service start page."
+        },
+        {
+            "text": "However, when users selected \u2018Departments\u2019 from the menu bar we saw that user journeys were much less successful. Only 19% of users who selected \u2018Departments\u2019 went on to reach the organisation page of a specific department or agency. Most users who clicked \u2018Departments\u2019 subsequently switched to \u2018Topics\u2019, switched to searching, or left the site altogether."
+        },
+        {
+            "text": "This finding highlights the difficulty of navigating government information by organisation, in part due to the complexity of how the UK government is structured."
+        },
+        {
+            "text": "Having clicked on \u2018Departments\u2019 the user reaches a simple but lengthy organisation list page, this requires them to choose from 23 ministerial departments, 20 non-ministerial departments, plus 416 government agencies and other public bodies. This is the kind of complexity that we don\u2019t want users to have to deal with unless absolutely necessary."
+        },
+        {
+            "text": "The findings also suggest that the prominence given to \u2018Departments\u2019 in the new menu bar design is leading some users unnecessarily into this complexity. In our next iterations we\u2019re going to trial some ways to give greater prominence to \u2018Topics\u2019 and test different approaches with the \u2018Departments\u2019 link. Our first step will be to move the \u2018Departments\u2019 under \u2018Government activity\u2019 (shown below). We also plan to test alternative naming options for \u2018Topics\u2019 to make the proposition clearer, for example, \u2018Information and services\u2019. We\u2019ve also added a \u2018Sign in\u2019 link\u2019 to our designs, this won\u2019t go live immediately, but is part of our planning for the rollout of the GOV.UK Account as part of the one login for government strategy."
+        },
+        {
+            "text": "\nAs before, we\u2019ll be monitoring the user journeys closely to understand the impact of these changes, and sharing what we learn."
+        },
+        {
+            "heading": 2,
+            "text": "What comes next"
+        },
+        {
+            "text": "The menu bar is one of 5 elements we\u2019ve identified as critical to browsing the site. These are the:"
+        },
+        {
+            "text": "We\u2019ve been prototyping and testing updates to all these elements so that they function together as a consistent system. Following the menu bar iterations, the next element to be updated within this system will be the GOV.UK homepage, and we will be blogging about this soon."
+        }
+    ]
+}

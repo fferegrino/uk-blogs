@@ -1,0 +1,76 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2022/04/05/living-england-from-satellite-imagery-to-a-national-scale-habitat-map/",
+    "title": "Living England: From Satellite Imagery to a National Scale Habitat Map",
+    "authors": [
+        "Amy Woodget"
+    ],
+    "categories": [
+        "Biodiversity",
+        "Mapping",
+        "Natural England",
+        "Science and evidence"
+    ],
+    "pub_date": "2022-04-05T12:24:24+01:00",
+    "content": [
+        {
+            "text": "A new map that shows the extent and distribution of habitats in England has been launched on 5 April 2022. This probability map, which is freely available to view and use, will provide important data for environmental policy decision making, and can guide efforts to support nature\u2019s recovery. The Living England team tells us more about this highly anticipated product and why its release is so exciting..."
+        },
+        {
+            "text": "What is Living England?"
+        },
+        {
+            "text": "Living England is a multi-year project which delivers a habitat probability map for the whole of England, created using satellite imagery, field data records and other geospatial data in a machine learning framework. The Living England habitat probability map shows the extent and distribution of broad habitats across England, providing a valuable insight into our natural capital assets and helping to inform land management decisions. It is funded by and supports the Environmental Land Management (ELM) Schemes and the Natural Capital and Ecosystem Assessment (NCEA) Programme."
+        },
+        {
+            "text": "Why are we excited about Living England?"
+        },
+        {
+            "text": "The Living England project highlights the innovation and technical excellence developed within Natural England. The team has broken new ground through the development of complex yet robust workflows operating on a national scale, to provide full coverage of England\u2019s diverse habitats. The habitat probability map uses open-source datasets allowing the publication of this map for the first time under an Open Government Licence (OGL), making it widely available for use in environmental applications. Whilst accuracy varies between different habitats and regional zones, Phase IV achieved an average habitat classification accuracy of 88%."
+        },
+        {
+            "text": "Living England combines expertise in ecology and field surveying with earth observation and data science. The Living England team work closely alongside Natural England field teams to ensure habitat data collected on the ground are compliant with access permissions and provide the models with the right information to inform the habitat classification. As part of the project, they have created bespoke tools including an application to help with targeting the collection of data points to continuously improve the model and mobilise field surveyors to areas requiring further information."
+        },
+        {
+            "text": "What can it be used for?"
+        },
+        {
+            "text": "The Living England Habitat Probability Map provides an up-to-date prediction of habitat distribution and extent on a national scale for 2021/22. This can be used to help inform a wide range of applications, including..."
+        },
+        {
+            "text": "How do we create the Living England habitat probability map?"
+        },
+        {
+            "text": "The method for producing the Living England habitat probability map was first pioneered by the Defra Living Maps Project in 2016 (SD1705 \u2013 Kilcoyne et al., 2017). Since then, the method has grown substantially, allowing us to incorporate a wider range of geospatial datasets and capitalise on advances in data processing and analysis."
+        },
+        {
+            "text": "The Living England project is currently in Phase IV (2021-22). The method has evolved and is now comprised of several key stages:"
+        },
+        {
+            "text": "Where can I access the Living England Map?"
+        },
+        {
+            "text": "You can access the Living England Map on MAGIC WebMap2, ArcGIS Online, the Natural England Open Data Portal, DEFRA Data Services Platform, data.gov.\u00a0More detail of the methods and data used is available in a technical user guide."
+        },
+        {
+            "text": "Living England is an ongoing project, which hopes to update the map every two years. "
+        },
+        {
+            "text": "If you have any questions or would like to know any further details, please get in touch with the Living England team at\u00a0earth.observation@naturalengland.org.uk."
+        },
+        {
+            "text": "We would love to hear what you think of the map and how you would use the data, please fill out our feedback form here"
+        },
+        {
+            "text": "Thank you...\u00a0to everyone who has played a part in data collection, method development and publication for Living England. We look forward to continuing our collaborative work and building on our technical achievements as we take Living England forward."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2022/02/17/the-public-health-data-asset-phda-when-collaboration-meets-innovation/",
+    "title": "The Public Health Data Asset (PHDA) - When Collaboration meets Innovation",
+    "authors": [
+        "laurayoung"
+    ],
+    "categories": [
+        "Case study",
+        "Data architecture",
+        "Data Asset",
+        "Office for National Statistics",
+        "Roles"
+    ],
+    "pub_date": "2022-02-17T14:30:31+00:00",
+    "content": [
+        {
+            "text": "The Public Health Data Asset (PHDA) was created at the start of the pandemic to bring together all relevant health data assets. The dynamic project was developed through the collaboration of various ONS teams, including Data Architecture, Data Acquisitions, Operations and Engineering, across government and the NHS. The PHDA links datasets including Census data, the General Practice Extraction Service (GPES) data for pandemic planning and research, Hospital Episode Statistics (HES) among others, and was recently recognised at the\u202fAnalysis in Government Awards 2021. The PHDA held of stiff competition and was ONS\u2019 sole award winner on the night - taking first place in the Collaboration category. We spoke with some of the project team to help unpack the key elements of this successful collaboration, highlight some of the challenges and find out what\u2019s next for this unique data pipeline.\u00a0"
+        },
+        {
+            "text": "From the outset of the project a key challenge was ensuring that the appropriate legal infrastructure was in place for sharing data. It was vital that data suppliers felt comfortable that the data they were sharing was secure and protected. As Joy Preece the Data Access and Supplier Manager at the time describes: \u2018This was a use of health data in a way that hadn\u2019t been done before and it wouldn\u2019t have been possible if we hadn\u2019t had the building blocks of really clear data and user protection guidelines.' Joy also describes how this formed part of the foundation or \u2018invisible work\u2019 that was in place, and how this enhanced ONS\u2019 reputation/ credibility with external partners, making it easier when negotiating with the NHS and other data providers.\u00a0"
+        },
+        {
+            "text": "A foundational element of the award-winning project was its ability to attract senior level buy-in the from the start. As Michelle Arnold (Project Manager) highlights: \u201cThis is a large and complex project and getting senior level sponsorship, including senior stakeholders, hooked in and engaged from the start really helped get everybody in the room.\u2019 A key challenge that the project presented related to the quality of the data received from suppliers, which in some cases was poor or inconsistent. Therefore, the project team had to ensure that this data was properly interrogated, fit for purpose and that any issues were quickly resolved.\u00a0\u00a0"
+        },
+        {
+            "text": "Dean Jathoonia (Data Linkage Lead) expanded on why getting the relevant colleagues involved was key to meeting this challenge, adding: \u2018It was incredibly apparent throughout the process how important it was for Data Linkage and Data Engineering to work together as part of the same team - they are two sides of the same coin and being joined up was essential.\u2019 Tom Apps (Product Owner) agreed that getting the right people in the room was vital because: \u2018\u2026it meant we weren\u2019t making assumptions or decisions that would negatively impact colleagues in other parts of the organisation.\u2019\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Whilst buy-in from all key stakeholders is an obvious requirement of any successful collaboration, the AIG award is also recognition of how the collaboration worked so effectively in an extremely fast paced environment. More specifically, data sets that would ordinarily take months to process were made available to users in much shorter timescales. This was only possible through the close cross-government collaboration that helped the project team gain a detailed understanding of the datasets, before aligning them with ONS\u2019 coding and linkage methods. As Dean Jathoonia describes: \u2018Having the right coding experience, and clever people working together, has changed what was a labour-intensive and long-winded process into something that can be run routinely, with ease, freeing people's time to delve further into the data\u2019\u00a0"
+        },
+        {
+            "text": " "
+        },
+        {
+            "text": "Public Health Data Asset icon image"
+        },
+        {
+            "text": "One of the most important achievements of the PHDA has been to act as a catalyst for several innovative projects to link integrated data assets, as Oli Denyer (COVID Senior Delivery Manager) outlines: \u2018 ...this includes the development of the Health Integrated Data Asset (HIDA) which is consistent with the linkage style of Reference Data Management Framework (RDMF) and will be fully maintained and used for research.\u2019 The HIDA is among a suite of exciting projects that were inspired by the PHDA, the aim is to launch a Minimum Viable Product (MVP) for the HIDA later this year.\u00a0\u00a0"
+        },
+        {
+            "text": "For more information on any of the projects featured in the post please email data.architecture@ons.gov.uk\u00a0\u00a0"
+        }
+    ]
+}

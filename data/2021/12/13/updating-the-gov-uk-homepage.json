@@ -1,0 +1,78 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/12/13/updating-the-gov-uk-homepage/",
+    "title": "Updating the GOV.UK homepage",
+    "authors": [
+        "Sam Dub, Senior Product Manager at GOV.UK, GDS",
+        "Owen Jones, Frontend Developer at GDS",
+        "Mia Allers, Senior Graphic Designer at GDS"
+    ],
+    "categories": [
+        "Accessibility",
+        "Finding things",
+        "How we work",
+        "Product changes"
+    ],
+    "pub_date": "2021-12-13T11:31:01+00:00",
+    "content": [
+        {
+            "text": "Today we\u2019ve released an update to the GOV.UK homepage. This is the first change to this page for a while, so we wanted to share the thinking behind it."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re updating the homepage"
+        },
+        {
+            "text": "These homepage updates are part of a broader piece of work to make it easier to find things on GOV.UK. The GOV.UK homepage is used more than 2 million times each week, it\u2019s the front door to the UK government online, and the starting point for many when looking for information and services."
+        },
+        {
+            "text": "The aim with this iteration is to improve the accessibility and mobile experience of this page. This is particularly important as over the last few years we\u2019ve seen a significant shift in device usage, with GOV.UK now mostly used on smartphones and tablets (74% of measured usage so far in 2021). So while these changes appear subtle on larger screens, on mobile we hope this is a significant improvement."
+        },
+        {
+            "text": "We also wanted to ensure that the routes to information and services are clear and consistent across the site, and so have aligned the homepage labelling and structure with the new sitewide menu bar."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve changed"
+        },
+        {
+            "heading": 3,
+            "text": "Making touch targets larger"
+        },
+        {
+            "text": "We\u2019ve developed a new reusable page element shown below, this provides a much larger \u2018touch target\u2019 when tapping on links."
+        },
+        {
+            "text": "The touch target is the name for the area of the page you need to tap to follow a link. When these are too small this makes for a really frustrating mobile experience; it can lead to people tapping the wrong link by mistake, or simply abandoning a task on mobile. A range of things can make this worse, such as a smaller phone screen, how you hold your phone, and having a tremor or motor impairment. We hope the more generous touch targets make for a better user experience all round."
+        },
+        {
+            "heading": 3,
+            "text": "Increased spacing between links"
+        },
+        {
+            "text": "In places we\u2019re not using the new page element, we\u2019ve added extra spacing between links, to make them easier to select by touch."
+        },
+        {
+            "heading": 3,
+            "text": "Better routes to specific types of content"
+        },
+        {
+            "text": "Building on our work on the sitewide menu bar, we\u2019re bringing the same groupings of \u2018Topics\u2019 and \u2018Government activity\u2019 to the homepage. We expect most people looking for services and information to navigate via topics. But people looking for specific kinds of information, like press releases, stats and transparency documents, will have easier access to this content, which is now presented in 5 sections:"
+        },
+        {
+            "text": "We\u2019ve slightly reduced the width of the search box on the homepage on desktop to free up space, but given the recent addition of a search button to the menu bar site-wide, we don\u2019t anticipate a reduction in the rate of users searching. As with other page elements the search box is now taller on mobile to make it easier to tap to enter a query."
+        },
+        {
+            "text": "The new elements on this page are not yet part of the GOV.UK Design System. If they prove successful, we\u2019ll explore making them more widely available to teams across government."
+        },
+        {
+            "heading": 2,
+            "text": "What comes next"
+        },
+        {
+            "text": "We\u2019ll continue to make improvements to the page based on usage data. Along with the homepage, we've identified 4 other elements as critical to browsing the site, which are the:"
+        },
+        {
+            "text": "We\u2019ve been prototyping and testing updates to all of these things so they work together as a consistent system. After the homepage work, the next element we plan to work on is topic pages. Please subscribe to keep up to date with our work."
+        }
+    ]
+}

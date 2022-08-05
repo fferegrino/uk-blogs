@@ -1,0 +1,71 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/03/15/meet-the-engineers-roy/",
+    "title": "Meet the engineer: Roy",
+    "authors": [
+        "Roy Holder - senior infrastructure engineer, DWP Digital"
+    ],
+    "categories": [
+        "DWP Digital",
+        "Engineering",
+        "Infrastructure engineering"
+    ],
+    "pub_date": "2022-03-15T16:19:57+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Tell us a little bit about your role\u00a0\u00a0"
+        },
+        {
+            "text": "As a Senior Infrastructure Engineer I work mainly on projects as well as being an escalation point to infrastructure engineering colleagues. I deal with some of our third-party vendors such as Apple, Zscaler and Microsoft with regards to best practices for the team as well as assisting with the planned team roadmap. My team is responsible for the managed MacBook platform within DWP as well as a new cloud-first Windows VM offering.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u00a0How long have you been working at DWP Digital and what roles have you done?\u00a0"
+        },
+        {
+            "text": "I\u2019ve been with DWP Digital for over 3 years now and have only ever done this specific role. There are options to move into different teams, but I am happy currently where I\u2019m at.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Tell us about a project you\u2019re working on\u00a0\u00a0"
+        },
+        {
+            "text": "A current project I\u2019m working on that is coming to completion shortly is the migration of customer computer devices that we have in jobcentres from Linux to Windows. This involves over 8,000 devices that are located at every DWP jobcentre site up and down the country. The timeframe was short compared to traditional projects, as there was a legal requirement to complete the tasks before the end of 2021, so there has been a lot of pressure and work involved.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What tech do you use?\u00a0\u00a0"
+        },
+        {
+            "text": "I use a mixture of Apple and Windows operating systems on devices as well as several cloud services like AWS, Zscaler, Okta, Microsoft, Jamf, ESET, McAfee plus a few more. All our backend platform is based on cloud services, so we don\u2019t have any physical servers.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What do you like most about your job?\u00a0"
+        },
+        {
+            "text": "Our team is unique as we manage multiple cloud technology platforms rather than just being a specialised team. We manage both the development and business as usual support model for our platform, as well as providing training to DWP colleagues. This allows team members to learn and manage several different cloud technology platforms.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s the best thing about DWP Digital?\u00a0\u00a0"
+        },
+        {
+            "text": "I really enjoy the community spirit and support that is within different teams. Although I work in a specific area, there are collaboration tasks that allow me to work with others and understand what projects are being done within the department. Most of the technology is current, which is refreshing for a public company of this size and there are several opportunities to complete training goals.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What are your career goals for the next few years?\u00a0\u00a0"
+        },
+        {
+            "text": "I\u2019d like to take the opportunity to learn more technologies and if possible, step into a Lead Infrastructure Engineering role if one arises.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What do you enjoy doing in your spare time?\u00a0\u00a0"
+        },
+        {
+            "text": "I enjoy relaxing with family and friends as well as watching movies. I\u2019m also a keen football fan so go to watch matches when possible.\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/03/28/making-the-gov-uk-feedback-component-more-accessible/",
+    "title": "Making the GOV.UK feedback component more accessible",
+    "authors": [
+        "Jon Kirwan, Frontend developer at GOV.UK, Government Digital Service (GDS)"
+    ],
+    "categories": [
+        "Accessibility",
+        "What we're working on"
+    ],
+    "pub_date": "2022-03-28T11:45:12+01:00",
+    "content": [
+        {
+            "text": "We recently updated the feedback component to be more resilient using progressive enhancement and to be accessible and usable when Cascading Style Sheets (CSS) and/or JavaScript are disabled or unavailable. We did this to improve GOV.UK for all our users, and particularly people with cognitive disabilities or visual impairments."
+        },
+        {
+            "heading": 2,
+            "text": "What is the feedback component?"
+        },
+        {
+            "text": "Components are reusable parts of the user interface that have been made to support a variety of applications. The feedback component is designed to sit at the bottom of every one of the more than 500,000 pages on GOV.UK so our users can submit feedback about the page they\u2019re currently on."
+        },
+        {
+            "text": "With CSS and JavaScript enabled, the feedback component displays under the heading \"Is this page useful?\". Under this heading there are buttons for \u201cYes\u201d and \u201cNo\u201d. There is one button underneath them for \u201cReport a problem with this page\u201d."
+        },
+        {
+            "text": "The component uses JavaScript to handle interactions such as button clicks. For example, someone can give positive feedback by clicking the \u201cYes\u201d button. Or they can click \u201cNo\u201d or \u201cReport a problem with this page\u201d to toggle the visibility of 2 hidden forms to submit detailed feedback."
+        },
+        {
+            "text": "For example, when people click on \"Report a problem with this page\" they see a short form with the heading \u201cHelp us improve GOV.UK\u201d. Under this are 2 boxes asking \u201cWhat were you doing?\u201d and \u201cWhat went wrong?\u201d so people can give feedback on the page. This feedback can show what is working well, and also can demonstrate any concerns.\u00a0 "
+        },
+        {
+            "heading": 2,
+            "text": "Problems we wanted to fix"
+        },
+        {
+            "text": "Without CSS enabled, people saw the component toggle buttons and both feedback forms all at the same time which was confusing."
+        },
+        {
+            "text": "For example, in the image above both feedback forms were shown at the same time with the same heading \u201cHelp us improve GOV.UK\u201d but with different ways to give feedback. One form asked people to give feedback on the page. Another form asked people to give their email address to receive a survey. Also, \u201cThank you for your feedback\u201d was displayed under the toggle buttons before people interacted with the component to give their positive feedback."
+        },
+        {
+            "text": "Interactive elements such as \u201cReport a problem with this page\u201d or \u201cClose\u201d were broken; clicking, or touching, any of these buttons had no effect."
+        },
+        {
+            "text": "These issues meant a poor user experience for some people."
+        },
+        {
+            "text": "This was because CSS classes set the visibility of the component elements which were then added or removed by JavaScript. When CSS was unavailable, the CSS classes used to toggle element visibility were not detected, so everything was visible and the interactive buttons did not work."
+        },
+        {
+            "heading": 2,
+            "text": "Who was this affecting"
+        },
+        {
+            "text": "This was a problem for many different types of users including people with cognitive disabilities or visually impaired people."
+        },
+        {
+            "text": "People with cognitive disabilities can experience difficulties with memory, problem-solving, attention or visual comprehension. The issues we found resulted in a cluttered layout and too many distractions, making for a frustrating experience and ultimately creating a barrier to providing feedback."
+        },
+        {
+            "text": "Visually impaired users may prefer to disable CSS, use their own styles, or do both to define a much larger text size and thereby encounter the same problems."
+        },
+        {
+            "text": "Navigating the page with a screen reader was really difficult. For instance, when tested with VoiceOver and using Chrome, the rotor identified duplicate headings for \u201cHelp us improve GOV.UK\u201d and duplicate buttons \u201cClose expanded button\u201d and \u201cSend button\u201d. How would someone know the difference or which one to select? Also, the confirmation message, \u201cThank you for your feedback\u201d, was read even though a form had not been submitted."
+        },
+        {
+            "heading": 2,
+            "text": "How did we fix it?"
+        },
+        {
+            "text": "Going back to our progressive enhancement principles, we wanted to make sure that the component would remain usable without CSS and JavaScript."
+        },
+        {
+            "text": "Using the HTML hidden attribute instead of CSS classes to set the visibility of component elements seemed the best way for us to achieve this. Since it\u2019s an HTML attribute it is not affected by the absence of CSS or JavaScript. We added the attribute to any elements that should be hidden by default (like the form whose presence is controlled by the \u201cReport a problem with this page\u201d button), leaving the survey sign-up form visible (usually controlled by the \u201cNo this page is not useful button\u201d)."
+        },
+        {
+            "text": "When CSS is unavailable following this fix, everything should work exactly the same - only without styling."
+        },
+        {
+            "text": "When JavaScript is unavailable, the component should only show the survey sign-up feedback form. This is because the JavaScript adds interactivity by displaying buttons to submit feedback, or toggle the visibility of the 2 feedback forms, to progressively enhance the form."
+        },
+        {
+            "text": "Now, if someone visits GOV.UK without CSS but with JavaScript, people see the heading \u201cIs this page useful?\u201d, with 2 bulleted buttons underneath saying \u201cYes this page is useful\u201d and \u201cNo this page is not useful\u201d, as shown above. Under the bulleted buttons there is one button that says \u201cReport a problem with this page\u201d."
+        },
+        {
+            "text": "They can interact with the buttons to leave positive feedback or to complete either of the feedback forms."
+        },
+        {
+            "text": "With CSS but without JavaScript, people are only offered one way to give feedback which prevents them seeing 2 forms with duplicate headings. They are shown the survey sign-up form where they can fill in the email address single-line text field, click or touch the \u201cSend me the survey\u201d button and submit the form, as shown above."
+        },
+        {
+            "text": "When both CSS and JavaScript are unavailable, people are shown the same survey sign-up feedback form but without styling."
+        },
+        {
+            "heading": 2,
+            "text": "Other improvements"
+        },
+        {
+            "text": "When making these changes, we also realised that the single-line text fields included in the form for \u201cWhat were you doing?\u201d and \u201cWhat went wrong?\u201d were too small, making it difficult for visitors to provide detailed feedback."
+        },
+        {
+            "text": "So, we swapped these fields for text areas to allow for larger amounts of text to be entered. Additionally, the drag handle in the right-hand corner can be used to alter the size of the form control."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "Progressive enhancement is a principle core to any user interface features developed for GOV.UK."
+        },
+        {
+            "text": "Sometimes, with components that have not been looked at for a while, we may discover issues that go against those principles. Identifying and resolving these issues is essential to making GOV.UK as accessible as possible."
+        }
+    ]
+}

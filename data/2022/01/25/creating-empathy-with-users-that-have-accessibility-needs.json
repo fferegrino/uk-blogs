@@ -1,0 +1,80 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2022/01/25/creating-empathy-with-users-that-have-accessibility-needs/",
+    "title": "Creating empathy with users who have accessibility needs",
+    "authors": [
+        "Clara Songaila - Lead Service Designer",
+        "Hari Chandrapal - User Researcher"
+    ],
+    "categories": [
+        "Access needs",
+        "Accessibility",
+        "Testing"
+    ],
+    "pub_date": "2022-01-25T10:00:24+00:00",
+    "content": [
+        {
+            "text": "UK Export Finance (UKEF) is on an exciting transformation journey. Across the organisation, we\u2019re focusing on how to make our services simpler to use, more user-centred and accessible."
+        },
+        {
+            "text": "UKEF\u2019s Digital Trade Finance Service (DTFS), now in beta, is being transformed so that it meets users' needs including those with access needs. The service allows banks to provide financial support to UK exporters by submitting an application on their behalf to UKEF, whose advisors process those applications."
+        },
+        {
+            "text": "The service is used by a handful of banks which means it is not always easy to recruit new users. This poses challenges when carrying out research as an authentic approach requires finding users with some understanding of the bank delegation system. This challenge is increased further when seeking to recruit those who have access needs."
+        },
+        {
+            "text": "Whilst accessibility testing has been carried out with proxy users (those who are not likely to use the service but have a good understanding of users of the service), testing must be very prescriptive. Participants are provided with all the information they would need to use the service and they are guided along a certain path. Whilst this method is still effective in gaining some valuable insights, it makes it tricky to learn about authentic paths of navigation."
+        },
+        {
+            "heading": 2,
+            "text": "Using the GDS accessibility personas"
+        },
+        {
+            "text": "To support government services and meet the Service Standard in designing for accessibility, the Government Digital Service (GDS) has created 7 accessibility personas. These are 7 personas with different access needs which can be used to do some \u2018persona testing\u2019 on a service."
+        },
+        {
+            "heading": 2,
+            "text": "How we ran the walkthrough with the team"
+        },
+        {
+            "text": "Whilst it would be impossible to replicate a user\u2019s true experience through the personas, we adapted the workshop to focus on the following:"
+        },
+        {
+            "text": "We followed guidance on GitHub to simulate the conditions for the personas and install the assistive technology required. We used Chrome Browsers where most of the settings could be changed at the browser level and additional extensions were used where needed."
+        },
+        {
+            "text": "The challenge here was the order in which settings were changed. For example, one persona relies on the keyboard to navigate so a change in settings removed the cursor. Once the cursor disappeared, we struggled to complete some of the other changes. We had to rethink the order in which we changed the settings and this included bookmarking the service in advance, so that participants could access the service on their device."
+        },
+        {
+            "text": "We documented each step and created a checklist to record the changes. By tracking these we knew exactly which settings to revert at the end of each session. This, together with setting up the Chrome accounts for each persona in advance, was useful when we ran the workshop remotely and had to send participants instructions on how to set up their devices."
+        },
+        {
+            "text": "We ran 3 workshops in total with our team. Two in person at our User Researcher\u2019s offices in London and 1 remotely. This meant we could involve all members of the team regardless of where they were located."
+        },
+        {
+            "heading": 2,
+            "text": "In-person vs. remote workshops"
+        },
+        {
+            "text": "For the in-person workshops, it was a chance to meet after a long period of working remotely with many new starters never having met face to face. It was also a chance to use sticky notes again, interact and capture the energy in the room. We could witness reactions first-hand and set laptops up for the participants ahead of the workshop."
+        },
+        {
+            "text": "For the remote workshop, we factored in time for each participant to set their laptop up and all participants had high levels of digital confidence. As a result, we faced no delays caused by technical issues. The workshop allowed everyone to participate without the worry of being exposed to coronavirus (COVID-19). We used a simple collaboration tool to capture insights anonymously and this meant we didn\u2019t spend time training participants."
+        },
+        {
+            "heading": 2,
+            "text": "Insights gained"
+        },
+        {
+            "text": "Participants contributed many learnings on sticky notes or the online whiteboard tool we used. For example, the amount of white space on certain pages made it difficult for the user to see if there were further actions when using a screen magnifier and text from buttons were not consistently read aloud by a screen reader. We\u2019ve created actions from these findings which we\u2019re using to inform further research and testing."
+        },
+        {
+            "text": "Overall, participants were surprised by daily challenges experienced by users with different access needs. They were engaged in understanding which parts of the service could be improved to overcome access issues and recognised their responsibility in making the service simple, accessible and inclusive."
+        },
+        {
+            "text": "We found that the persona testing was a cost-effective way of engaging the wider team in the process and helped us continue to develop a service that meets the needs of all our users."
+        },
+        {
+            "text": "The DTFS Head of Digital Operations felt it was an effective way of engaging the team \u201cand keeping accessibility at the forefront of everyone\u2019s mind\u201d. As a result, work continues to encourage adoption of this approach through senior stakeholders and with service teams throughout UKEF."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "url": "https://space.blog.gov.uk/2021/09/17/managing-dengue-fever-with-space-technology/",
+    "title": "Managing dengue fever with space technology",
+    "authors": [
+        "HR Wallingford"
+    ],
+    "categories": [
+        "Applications",
+        "International Partnership Programme",
+        "Satellites"
+    ],
+    "pub_date": "2021-09-17T13:42:20+01:00",
+    "content": [
+        {
+            "text": "Space applications provide new tools that improve lives in many areas, and health is one of them."
+        },
+        {
+            "text": "Earth Observation (EO) data can be incorporated into models that help detect, monitor or predict disease, providing policymakers with the opportunity to control an epidemic, respond more quickly to disease outbreaks and act to prevent or mitigate health emergencies."
+        },
+        {
+            "text": "A good example is the use of EO data to develop a dengue fever forecasting system for countries in South East Asia."
+        },
+        {
+            "text": "The system, called D-MOSS, was developed by Oxfordshire-based HR Wallingford, and is now being used to help with coordinating and enacting public health response and policy in Vietnam, with pilots underway in Sri Lanka and Malaysia."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What is the problem?"
+        },
+        {
+            "text": "Dengue is the fastest spreading mosquito-borne viral disease in the world today."
+        },
+        {
+            "text": "The unprecedented surge in dengue epidemics across the globe in recent decades prompted the World Health Organisation at the start of 2019 to include the virus in its list of the world\u2019s top 10 public health threats."
+        },
+        {
+            "text": "South-East Asia has suffered major outbreaks of dengue fever in recent years, owing to the failure to maintain adequate control of the Aedes aegypti species of mosquito that spreads dengue fever."
+        },
+        {
+            "text": "Until the D-MOSS project was implemented, Vietnam, Sri Lanka and Malaysia had no system in place to forecast the probability of dengue outbreaks."
+        },
+        {
+            "text": "Key stakeholders had all expressed the need for an operational, cost effective and reliable early warning system to allow them to forecast dengue outbreaks as many months in advance as possible, thereby allowing them to proactively plan in advance for dengue outbreaks."
+        },
+        {
+            "text": "The D-MOSS project has helped to fill this gap."
+        },
+        {
+            "heading": 3,
+            "text": "Where does space technology fit in?"
+        },
+        {
+            "text": "The spread of dengue is regulated by the climate. Temperature and humidity for example, influence many aspects of the biology of mosquitoes including their development, survival and biting rate."
+        },
+        {
+            "text": "In countries where the ground-based monitoring of the environmental factors that affect dengue are sparse, the use of EO data can provide an accurate and consistent representation of the variation of important environmental, and socio-economic parameters, in some cases at scale of a 10 x 10 metre grid."
+        },
+        {
+            "text": "Many high quality satellite EO data products are freely available, which assists scalability."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Overview of the concept used in D-MOSS"
+        },
+        {
+            "text": "The effect of climate fluctuations on dengue vector populations and vector-virus interactions can lead directly to variations in the intensity of dengue transmission."
+        },
+        {
+            "text": "These climate-driven variations in risk interact with other factors such as demographic and socio-economic conditions that can alter the local disease prevalence significantly. If these factors can be monitored and predicted then this allows outbreaks of dengue to be forecasted."
+        },
+        {
+            "text": "D-MOSS comprises a climate-driven dengue forecasting system, co-designed with stakeholders from the Ministries of Health of each implementing country, the World Health Organisation and the United Nations Development Programme."
+        },
+        {
+            "text": "The D-MOSS system provides probabilistic monthly forecasts of the number of dengue cases for the entire country at a provincial or district level. It uses statistical models, which use seasonal climate forecasts and EO data on meteorology and socio-economic factors."
+        },
+        {
+            "text": "D-MOSS predicts dengue outbreaks up to six months in advance, and this information is now being used to help with targeting critical resources and facilitating early action to control and manage dengue outbreaks."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The way forward for D-MOSS"
+        },
+        {
+            "text": "The application of D-MOSS in Vietnam has confirmed that it provides suitably accurate forecasts of dengue and is a reliable and cost-effective solution to help stakeholders take early actions."
+        },
+        {
+            "text": "D-MOSS\u2019s architecture and modular design help to ensure it can be replicated in other countries and at a range of scales, be that in South-East Asia or other countries around the world. Owing to its success in Vietnam, prototype D-MOSS systems are being implemented in Malaysia and Sri Lanka."
+        },
+        {
+            "text": "The objective of the D-MOSS team is to see the early warning system helping to reduce dengue fever worldwide."
+        },
+        {
+            "text": "There is a large untapped potential for mosquito-borne disease prevention and mitigation by developing tools like D-MOSS, which bridge the gap between space technology and public health applications."
+        },
+        {
+            "heading": 3,
+            "text": "Click here to find out more about D-MOSS."
+        },
+        {
+            "text": "D-MOSS is supported by the UK Space Agency\u2019s International Partnership Programme (IPP) and funded through the Global Challenges Research Fund (GCRF)."
+        }
+    ]
+}

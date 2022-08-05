@@ -1,0 +1,66 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2021/09/17/creating-a-digital-approach-to-paper-forms/",
+    "title": "Creating a digital approach to paper forms",
+    "authors": [
+        "Claire Bowman"
+    ],
+    "categories": [
+        "MoJ Forms",
+        "Our services"
+    ],
+    "pub_date": "2021-09-17T11:11:50+01:00",
+    "content": [
+        {
+            "text": "In the age of digital first, the use of paper forms is a problem. These forms are often designed to be printed out and filled in by hand, not completed on a screen. When we make them available on GOV.UK as PDFs, they are\u200b\u200b harder to use, less accessible, and take more time than a digital form to complete and process. As a department, we continue to rely on these types of forms for a lot of our business.\u00a0"
+        },
+        {
+            "text": "But it\u2019s not a simple task to transform a paper form. Typically, it would take a full multi-disciplinary team to research, design, and build. A digital form might also mean new ways of working for the people who manage it.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Making it easier to build forms"
+        },
+        {
+            "text": "Over the last 3 years, we have been working on a new approach to reduce the time and resources needed to create digital forms. First with the Form Builder platform, and now MoJ Forms, we have already supported the streamlined delivery of 18 digital forms across the department and our agencies."
+        },
+        {
+            "text": "MoJ Forms is designed for digital professionals but a lot of paper forms are owned by teams who lack this expertise. We have worked with these teams to design, build and support their forms for them, but this model is not scalable.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Understanding the additional support required\n"
+        },
+        {
+            "text": "If we want to accelerate the transformation of paper forms across MoJ, we need to be able to support form owners in a more sustainable way. However, we didn\u2019t have a clear understanding of the problem - how many paper forms are there across MoJ and what kind of support might their form owners require?\n\nA team was established in April to run a discovery to investigate the types and levels of support needed and to understand the size of the problem.\u00a0"
+        },
+        {
+            "text": "Over the course of five sprints, we ran four phases of user research with participants across MoJ, LAA, OPG, HMCTS and CCRC. We also did a lot of research to understand how many paper forms exist across MoJ. This wasn\u2019t a straightforward question to answer and required a lot of chasing and spreadsheet crunching. \n\nDuring the discovery we defined and tested three support models:"
+        },
+        {
+            "text": "Our expectation is that most teams will follow the self-service model. The support team will offer additional levels of support as and when needed."
+        },
+        {
+            "text": "We also designed and tested an assessment framework to help our team and operational teams assess the level of support they might require. We think these models and the assessment framework are a strong foundation for supporting non-digital teams."
+        },
+        {
+            "heading": 3,
+            "text": "What we learned"
+        },
+        {
+            "text": "We found that teams across MoJ are eager to transform their paper forms but lack the confidence and expertise to do this without specialist support. Some limited level of support could be provided by the MoJ Forms team, but we lack the capacity to do this at scale without a dedicated support team."
+        },
+        {
+            "text": "The discovery highlighted the scale of opportunity for MoJ Forms. We identified around 260 paper forms across MoJ and nearly 900 forms across HMCTS that require transformation. HMCTS are establishing their own team of user-centred design professionals to tackle their forms but are keen to continue to use MoJ Forms.\n\nIn addition to these existing paper forms, there is a growing number of teams looking to create new forms but who lack digital specialists. \n\nThe discovery also validated some of the work we were planning to do in the team already, including:"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "To enable this work to continue we recommend establishing a team of 4 digital specialists. This additional team would:\n"
+        },
+        {
+            "text": "We plan to introduce the support team later in the year after we have had time to lay the groundwork and expand MoJ Forms\u2019 capabilities. We know there are a few high-value features that will enable many more teams to use the platform, such as being able to route users around questions depending on their previous answers and helping users with their answers through autocomplete and select features. You can follow our progress on the MoJ Forms product site."
+        }
+    ]
+}

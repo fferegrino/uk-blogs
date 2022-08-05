@@ -1,0 +1,105 @@
+{
+    "url": "https://dvladigital.blog.gov.uk/2022/03/04/inspiration-and-innovation-the-best-bits-from-hackathon-2022/",
+    "title": "Inspiration and innovation \u2013 the best bits from Hackathon 2022",
+    "authors": [
+        "Tom Collins"
+    ],
+    "categories": [
+        "DVLA Digital Services"
+    ],
+    "pub_date": "2022-03-04T11:05:39+01:00",
+    "content": [
+        {
+            "text": "At DVLA, we\u2019re constantly searching for innovative ways to make our digital services better for our customers."
+        },
+        {
+            "text": "We\u2019ve hosted hackathons since 2014, including the botathon in 2019, to test new ways of applying technology within public services. At our recent virtual hackathon event, we collaborated and shared ideas with colleagues from across government."
+        },
+        {
+            "text": "I had the pleasure of hosting this year\u2019s event, and we had some fantastic new designs and prototypes on show. So let\u2019s take a look at them!"
+        },
+        {
+            "heading": 2,
+            "text": "Building and exploring new ideas"
+        },
+        {
+            "text": "Over 2 days, we were joined by our engineering colleagues from the Driver and Vehicle Standards Agency (DVSA) and the Department for Work and Pensions (DWP) at our first ever virtual hackathon event."
+        },
+        {
+            "text": "Usually, our hackathons take place in open spaces, such as our Richard Ley Development Centre, which hosted our \u2018Hack to the future\u2019 event back in 2019. Due to coronavirus (COVID-19), we had to meet virtually this year \u2013 but we had just as much fun!"
+        },
+        {
+            "text": "Attendees were split into 7 teams with members from each organisation. The teams had 24 hours to develop a prototype of a new service using any technology they wanted, with data sets provided by DVLA, DVSA, and DWP. Most attendees hadn\u2019t met each other before, so it was a great opportunity to learn new skills, network, and gain fresh insights."
+        },
+        {
+            "text": "It also allowed us to share best practice and exchange ideas on how to improve public services, and our ways of working, with other areas of government. So what was the result?"
+        },
+        {
+            "heading": 2,
+            "text": "Pitches and winners"
+        },
+        {
+            "text": "After everyone had finished hacking, the teams pitched their ideas to the judging panel, which included our very own Brian Sullivan, DVLA Chief Technology Officer; Loveday Ryder, DVSA Chief Executive Officer; Tom Padgham, DWP Deputy Director for Engineering; and Tina Churcher, DVSA Head of Digital Services."
+        },
+        {
+            "text": "I\u2019m proud to say that each winning team had 2 members from DVLA. Here are the winners!"
+        },
+        {
+            "heading": 3,
+            "text": "Best idea"
+        },
+        {
+            "text": "Best idea went to Team MOT BOT for creating a service to check the reliability of an MOT centre. Users would be presented with information about the centre, such as the total number of MOTs carried out, how many passes, and the most common car type tested."
+        },
+        {
+            "text": "The team wanted to provide people with the ability to see reliable information on their local garage, with the aim of making garages more inclusive and welcoming to people who don't know much about cars."
+        },
+        {
+            "heading": 3,
+            "text": "Best pitch"
+        },
+        {
+            "text": "Team Car Crash won best pitch after designing an app to assess the safety of travelling in a car with a particular driver. Using non-sensitive data, the team showed how users would type the driver\u2019s name into a field box, and the driver would be given a safety score from green to red."
+        },
+        {
+            "text": "The team gave a great pitch, explaining how the app would provide the safety score based on factors such as age, penalty points and licence type. This would allow people to obtain a quick and user-friendly summary of a driver before travelling in their vehicle."
+        },
+        {
+            "heading": 3,
+            "text": "Best use of technology"
+        },
+        {
+            "text": "The Unfortunate Family had the best use of technology, having created an interactive \u2018Family Fortunes\u2019 style game. Using MOT test results data, the team were able to generate facts, such as the top 6 vehicles most likely to fail an MOT, and present these as questions for us to guess. We had great fun with this one!"
+        },
+        {
+            "heading": 3,
+            "text": "Surprise us!"
+        },
+        {
+            "text": "The judges wanted to see something surprising and unique, and Team GreenShip delivered! They created a service for users to calculate their car\u2019s carbon footprint. The team wanted to provide users with a summary of a vehicle\u2019s environmental impact over one year. This was calculated using DVLA vehicle emissions data and DVSA annual mileage data."
+        },
+        {
+            "heading": 3,
+            "text": "Overall winners"
+        },
+        {
+            "text": "And finally, the overall winners were the Magnificent MOT Mystics! In a fun and engaging pitch, the team came up with a website to predict whether a car would pass or fail its next MOT. After entering their registration number, users would get a simple \u2018Pass\u2019 or \u2018Fail\u2019 as the outcome."
+        },
+        {
+            "text": "To create the service, the team trained a basic machine learning model on MOT test results, all in the space of 24 hours. A suitably \u2018magnificent\u2019 achievement!"
+        },
+        {
+            "heading": 2,
+            "text": "A dynamic, digital organisation"
+        },
+        {
+            "text": "Congratulations to all the winners and everybody who took part in this year\u2019s event \u2013 there were some amazing ideas and prototypes developed! I\u2019d also like to thank DVSA and DWP for their support in planning and delivering the event, as well as our technology suppliers. We aim to use the knowledge and skills we\u2019ve gained from this year\u2019s event to improve our services going forward."
+        },
+        {
+            "text": "It\u2019s vital that we, as an agency, keep up with the latest technologies to allow us to continually improve our services. After all, technology is constantly progressing and it\u2019s important that we progress with it. It\u2019s also really important to invest in the development and skills of our staff to ensure we have a pipeline of digital talent in the agency.\u00a0That\u2019s why we\u2019re committed to ensuring DVLA is a dynamic, digital organisation."
+        },
+        {
+            "text": "If this is something that interests you, why not join us at DVLA? Find out more about digital careers at DVLA or visit Civil Service Jobs for all the latest vacancies."
+        }
+    ]
+}

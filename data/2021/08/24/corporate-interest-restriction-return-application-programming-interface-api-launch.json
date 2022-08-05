@@ -1,0 +1,37 @@
+{
+    "url": "https://taxagents.blog.gov.uk/2021/08/24/corporate-interest-restriction-return-application-programming-interface-api-launch/",
+    "title": "Corporate Interest Restriction Return - Application Programming Interface (API) Launch",
+    "authors": [
+        "Alison Walsh"
+    ],
+    "categories": [
+        "News and Updates"
+    ],
+    "pub_date": "2021-08-24T13:09:12+00:00",
+    "content": [
+        {
+            "text": "HMRC is changing the way that it will be receiving Corporate Interest Restriction Returns and is introducing 4 new Application Programming Interfaces (API).\nCorporate Interest Restriction (CIR) applies to corporate entities and aims to restrict a group\u2019s deductions for interest expense and other financing costs for Corporation Tax purposes."
+        },
+        {
+            "text": "In July\u2019s Agent Update, we told you that HMRC has developed an API for submitting Interest Restriction Returns (IRR) and for reporting company appointments and revocations. We\u2019re pleased to let you know that this is now ready and software developers have started to update their products using it."
+        },
+        {
+            "text": "If you\u2019d like to find out more, the APIs can be found on the HMRC Software Developers Hub."
+        },
+        {
+            "text": "Once the service is live, HMRC will be publishing a list of software developers who have developed the software which you can use."
+        },
+        {
+            "text": "What happens next?"
+        },
+        {
+            "text": "The existing service will run in parallel with the API for the time being. HMRC is considering mandating the use of the API or the existing online service for all submission of IRRs; this will not happen before 1 April 2022. This will mean that HMRC will no longer accept IRRs submitted by email, attached to company tax returns, or by post. The existing service will be updated to match the data required by the API, and we will notify you when this has been done."
+        },
+        {
+            "text": "Further information is available:"
+        },
+        {
+            "text": "\u2022 submit a Corporate Interest Restriction return\n\u2022 restriction on Corporation Tax relief for interest deductions."
+        }
+    ]
+}

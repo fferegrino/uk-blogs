@@ -302,4 +302,10 @@ reverse the list since the urls we just scraped are sorted from new to old, but 
 append_scrapped_urls(reversed(new_urls))
 ```
 
-After this, we are done with Python, but we are not done yet, we need to actually start running the scraping
+After this, we are done with Python, but we are not done yet, we need to actually start running the scraping, initially
+manual and locally just so that we can process all the historical data only to then leave it to GitHub Actions to scrape
+data incrementally on a daily basis.
+
+```shell
+python scrape.py
+```

@@ -1,0 +1,87 @@
+{
+    "url": "https://cdei.blog.gov.uk/2022/06/22/part-two-examining-public-attitudes-towards-smart-data-schemes/",
+    "title": "Part two: Examining public attitudes towards Smart Data schemes",
+    "authors": [
+        "Benjamin Moore, CDEI",
+        "Wiktoria Kulik, CDEI",
+        "Hannah Spiro, CDEI",
+        "Holly Clarke, CDEI",
+        "Vincenzo Rampulla, BEIS"
+    ],
+    "categories": [
+        "Data",
+        "Public engagement",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2022-06-22T10:44:54+01:00",
+    "content": [
+        {
+            "text": "We have been working with the Department for Business, Energy, and Industrial Strategy (BEIS) to identify the features of ethical and trustworthy Smart Data schemes. Smart Data refers to the \u201csecure sharing of customer data with authorised third party providers (TPPs), upon the customer\u2019s request\u201d. These providers then use this data to provide innovative services for the consumer or business user, such as automatic switching or better account management. Our previous blog focused on findings from polling we conducted with a nationally-representative sample of the UK population, to understand the underlying drivers behind and barriers to using Smart Data schemes, and how this varies by sector.\u00a0"
+        },
+        {
+            "text": "Following this polling, we conducted focus groups to explore more nuanced topics, such as the decisions consumers make when trading off benefits and risks in sharing their data. We recruited a diverse sample of 32 participants to participate in two focus groups, and set an online task for them to complete in between the sessions. Participants were recruited to represent a mix of demographic groups, comfort towards data sharing, confidence with technology, and those in vulnerable financial circumstances. We also recruited microbusiness (businesses with 0 - 9 employees) owners. This blog focuses on the findings of these focus groups."
+        },
+        {
+            "heading": 2,
+            "text": "Key takeaways"
+        },
+        {
+            "heading": 2,
+            "text": "Consumers hesitantly accept sharing their data to access goods and services"
+        },
+        {
+            "text": "We began by examining how participants approach sharing their data online. While participants believe that sharing information online is necessary when living in an increasingly data-driven world, they believe it brings a number of personal risks - such as being hacked, data leakages, or data misuse by TPPs - that feel highly tangible and like imminent threats. Participants highlighted that they believe businesses, rather than individuals, benefit more from data sharing. There was, however, a willingness to park these concerns in order to access products and services.\u00a0"
+        },
+        {
+            "text": "We then explored participants\u2019 attitudes towards Smart Data. Unsurprisingly, none of the participants had heard of Smart Data, even though some had used Open Banking services such as current account comparison. It was a difficult concept for participants to grasp at first unless it was tied to a clear use-case. Many did not understand what distinguished sharing their data through these schemes from other methods of sharing personal data. As a result, public attitudes towards Smart Data tended to be an extension of attitudes towards data sharing more generally. Participants were concerned about the conduct of TPPs, potential further loss of control over data about them, and the potential for businesses to profit off data about them. Many participants did not realise that it was up to them to choose what Smart Data services they want to participate in."
+        },
+        {
+            "text": "We tested two existing use-cases from Open Banking with participants: comparing current accounts and round ups, where consumers can round up any of their spending and add the excess to their savings account (e.g. if a consumer spends \u00a32.50 on a coffee, the amount rounds up to \u00a33.00, with \u00a30.50 added to a consumer\u2019s savings account)."
+        },
+        {
+            "text": "Participants agreed that both use-cases offered benefits to consumers. For example, current account comparisons were deemed to enable more accurate and efficient switching, while also saving consumers time. Prior to the focus groups, not many of the participants had questioned how these use-cases work in practice and the underlying data sharing infrastructure required to make them work. Despite believing both these use-cases brought benefits for consumers, participants struggled to extend this logic to other use cases or hypothetical scenarios, such as account switching in the energy sector."
+        },
+        {
+            "heading": 2,
+            "text": "Consumers see benefits to Smart Data schemes, yet the potential risks feel more tangible and real"
+        },
+        {
+            "text": "We wanted to understand how consumers factor in the potential benefits of Smart Data schemes against the potential risks. Respondents were particularly concerned about data security and the potential for their data to be misused by TPPs. They mentioned general concerns such as being hacked, identity theft and other forms of fraud, as well as the potential for data leaks.\u00a0"
+        },
+        {
+            "text": "More Smart Data-specific concerns that will need to be addressed as new schemes are developed included the lack of a human touch from automating data sharing. Participants highlighted that they were sceptical of the potential benefits of saving money through Smart Data schemes. Some were worried that TPPs in these schemes would promote certain businesses with whom they have a relationship, rather than find the best deal for the consumer. Finally, consumers were concerned that Smart Data might increase the potential for increased spam or nuisance emails and calls due to their information being passed on without their consent."
+        },
+        {
+            "text": "There were a number of perceived risks specific to microbusinesses. These participants expressed concern about automating complex business decision-making and the adverse effects of doing so on relationships with both their customers and suppliers. Some types of businesses (i.e. consultancy and accountancy) were also concerned about the possibility of using services that might pass risks on to their consumers or exclude some of their consumers (e.g. those who do not have access to the internet, for example). Interestingly, it was not front-of-mind for microbusinesses owners that Smart Data-enabled services could enable them to reduce costs or innovate."
+        },
+        {
+            "text": "The individual benefits of Smart Data schemes (e.g. saving money through personalised deals) resonated more with focus group participants than broader, societal benefits or less tangible benefits such as innovation. The benefit of personalisation seemed to resonate more with microbusinesses, who felt their customers were often poor reporters of their own situation. As a result, more personalisation would offer these businesses more accuracy in their interactions with their customers."
+        },
+        {
+            "text": "Participants highlighted benefits such as a greater understanding of the sector landscape through, for example, knowing what deals or offers were generally available. The potential to be alerted rather than having to seek out deals proactively was seen as a relevant part of this. Participants also mentioned that having a greater understanding of their own situation would be beneficial. They were particularly receptive to the idea of the Pensions Dashboard, which could display all of their pensions information together."
+        },
+        {
+            "text": "Without tying the benefits of Smart Data to specific use-cases, it can be unclear how much of the benefit services will deliver or exactly what unmet need they will deliver against. Participants tended to feel underwhelmed or viewed these benefits sceptically; particularly older consumers, categorised in this research as those aged 45 and over. Older participants were sceptical about the benefits of Smart Data schemes for consumers, instead assuming that the main beneficiaries are recipients of the data who profit off of individuals\u2019 data. Older consumers also believed that they were already adept at finding deals, and doing so quickly.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Consumer trust could be built by presenting Smart Data as a safer evolution, not a revolution"
+        },
+        {
+            "text": "Older and digitally disengaged participants believed they were unlikely to use Smart Data. In general, these consumers tend to limit the amount of data they share online. Some said that they would feel reassured by seeing other people use Smart Data services \u2018safely\u2019, and might encourage them to follow suit."
+        },
+        {
+            "text": "Even though participants were sceptical about the benefits of these schemes, they felt more confident once they realised that the benefits are similar to those they currently receive from other services. As participants became more informed about Smart Data, they were more likely to accept it as an inevitable \u201cnext step\u201d of data sharing (e.g. an extension of what they\u2019re doing already), with similar benefits and concerns. Positioning Smart Data as a safer evolution, rather than a revolution, could build consumer trust in these schemes."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "The learnings from this work will inform the development of Smart Data schemes and services through an interactive guide we\u2019re developing with BEIS, to support decision-makers in designing, developing and implementing ethical and trustworthy Smart Data schemes."
+        },
+        {
+            "text": "If you would like to discuss our work on Smart Data, please get in touch at cdei@cdei.gov.uk.\u00a0"
+        }
+    ]
+}

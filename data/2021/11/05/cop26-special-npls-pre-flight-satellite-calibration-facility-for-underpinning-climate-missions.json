@@ -1,0 +1,82 @@
+{
+    "url": "https://knowledgeasset.blog.gov.uk/2021/11/05/cop26-special-npls-pre-flight-satellite-calibration-facility-for-underpinning-climate-missions/",
+    "title": "COP26 Special: NPL\u2019s pre-flight satellite calibration facility for underpinning climate missions",
+    "authors": [
+        "Dr Paul Green"
+    ],
+    "categories": [
+        "National Physical Laboratory (NPL)"
+    ],
+    "pub_date": "2021-11-05T15:59:26+00:00",
+    "content": [
+        {
+            "text": "The National Physical Laboratory (NPL) is the UK\u2019s National Metrology Institute (NMI). They develop and maintain\u00a0the national primary measurement standards and lead the way in providing the measurement science that underpins research and development."
+        },
+        {
+            "text": "\u00a0Domestic policy is committing the UK to achieving net zero emissions by 2050, and by 2045 in Scotland. With clear evidence that the Earth\u2019s climate is changing, policy makers and environmental experts need high quality reliable information to make decisions to protect the planet. "
+        },
+        {
+            "text": "\u00a0Space based sensors (satellites) offer a unique opportunity to capture global data on the climate system over time. Satellites can analyse many aspects of the wellbeing of the planet, including the health of oceans and forests, and NPL are leading international activities to improve the quality and reliability of Earth\u2019s observation data. "
+        },
+        {
+            "text": "\u00a0For any space mission, it is critical that we understand the end-to-end performance of a satellite instrument under operational conditions before it is launched. To further understand the complexities of the Earth and climate change, Dr Paul Green (Science Area Leader for Climate & Earth Observation and Optical Radiometric Metrology, NPL) explores the journey to developing the STAR-cc-OGSE system to ensure robust pre-flight traceability for climate missions, and the impact on wider society."
+        },
+        {
+            "text": "\u00a0To validate the global efforts towards net zero, global data on the climate system has to be trusted and reliable "
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Dr Paul Green (Science Area Leader for Climate & Earth Observation and Optical Radiometric Metrology, NPL)"
+        },
+        {
+            "text": "For global data on the climate system to be used scientifically and for regulatory or carbon market validation, we need to ensure that the data collected is trusted and reliable. Having reliable and actionable data from Earth Observation systems is critical to achieving UK and international emissions targets."
+        },
+        {
+            "text": "These observations need to be stable and accurate to map the small variations in column gas concentrations sufficiently to identify and quantify carbon sources and sinks. To illustrate looking for fluctuations of 1 ppm (parts per million) on the current average global CO2 concentration of 414 ppm, sensors are launched by international and national space agencies and the private sector. The measurement uncertainties need to be tied to physical constants of nature through primary standards of the International System of Units (SI) provided by NMIs such as NPL."
+        },
+        {
+            "text": "What is the STAR-cc-OGSE?"
+        },
+        {
+            "text": "NPL have developed several specialist capabilities and facilities tailored to the pre-flight calibration and characterisation of satellite instruments. The most recent of these is the Spectroscopically Tuneable Absolute Radiometric (STAR) calibration and characterisation (cc) Optical Ground Support Equipment (OGSE) designed and built-in collaboration with the company M-Squared Lasers."
+        },
+        {
+            "text": "The STAR-cc-OGSE is designed as a transportable facility that can calibrate and characterise satellite imagers, where they are built or tested in vacuum facilities that replicate the in-orbit environment."
+        },
+        {
+            "text": "STAR-cc-OGSE is a single facility designed to perform all the required pre-flight test, including image quality, radiometric calibration (converting digital numbers recorded by satellite sensor into physical units), and characterisation of parameters, such as polarisation sensitivity and image quality. Providing a fully automated state-of-the-art solution to instrument calibration and characterisation in a single facility, ensures the needed performance is achieved while also minimising the time and effort involved in the pre-launch vacuum test environment. In essence, the facility combines together in a single transportable package, the contents of NPL radiometric calibration capabilities which normally occupy three laboratories at the Teddington site."
+        },
+        {
+            "text": "How does the STAR-cc-OGSE work?"
+        },
+        {
+            "text": "STAR-cc-OGSE incorporates both white light and a monochromatic source (i.e. using one colour) built from a unique laser which can dial up any wavelength from the ultraviolet to the shortwave infrared. The white light source mimics the Sun and tests the sensor in a mode similar to how it views the Earth, while the monochromatic source is better at understanding the instrument performance in a more diagnostic way. The radiometric output of the STAR-cc-OGSE is fully traceable to the NPL cryogenic radiometer (compares the heating effect of optical radiation to that of electrical power) and can provide unprecedented uncertainties well below 0.5 % - making it reliable. By providing innovative high SI-traceable accuracy to the pre-flight calibration of satellite instruments, the facility will aid UK and global Earth Observation missions."
+        },
+        {
+            "text": "The concepts embedded in the STAR-cc-OGSE facility were established at NPL more than three decades ago and have, in part, been exploited for some time in the US space sector. However, until recent innovations by M-squared lasers, it has not been possible to create a transportable turn-key facility such as STAR than can deliver SI-traceability at accuracy levels needed for measuring climate change."
+        },
+        {
+            "text": "There are hundreds of Earth Observation satellites orbiting our Earth and recording data, a lot of which is used to monitor the current environment and climate change. Whilst it is widely acknowledged that human-activity driven climate change is happening, there are still uncertainties around how the natural world is reacting to changes in the levels of greenhouse gases in the atmosphere. Currently approximately 50% of our emissions are taken up by natural sinks on land and in oceans, but how this changes with time remains a big unknown."
+        },
+        {
+            "text": "Real-world applications"
+        },
+        {
+            "text": "STAR-cc-OGSE\u2019s flexibility, comprehensiveness and ease of use makes it suitable for a wide range of satellites designed to meet specific environmental monitoring roles. These attributes make it possible to enhance the performance of missions previously thought prohibited to undertake such comprehensive end to end calibration and characterisation, due to cost and complexity including the cube-sats (miniature satellites) of new space providers, enabling the latter to achieve science quality observations."
+        },
+        {
+            "text": "MicroCarb is the first mission to utilise STAR-cc-OGSE. It is a joint mission between UKSA and CNES (French Space Agency) which will measure atmospheric CO2 concentrations, the principal greenhouse gas driving global warming, attributing sources and sinks of carbon. Better knowledge of the flow of CO2 is needed to understand the complex annual and inner-annual interactions of the global carbon cycle. NPL is underpinning the measurements provided by MicroCarb, providing traceability and confidence in the outputs of the mission."
+        },
+        {
+            "text": "Please also see the announcement about MicroCarb at COP26: https://www.gov.uk/government/news/uk-and-france-reach-new-agreement-on-climate-change-mission"
+        },
+        {
+            "text": "STAR-cc-OGSE pre-flight satellite calibration facility being used at Airbus Toulouse to characterise the CNES/UKSA MicroCarb instrument."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

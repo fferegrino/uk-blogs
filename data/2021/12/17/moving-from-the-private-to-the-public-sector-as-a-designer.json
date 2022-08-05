@@ -1,0 +1,105 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/12/17/moving-from-the-private-to-the-public-sector-as-a-designer/",
+    "title": "Moving from the private to the public sector as a designer",
+    "authors": [
+        "Courtney Toth \u2013 Interaction designer, GDS",
+        "Chris Ballantine-Thomas \u2013 Senior interaction designer, GDS",
+        "Martin Jordan \u2013 former Head of Service Design, GDS",
+        "Nikin Nagewadia, Senior Interaction designer, GDS",
+        "Vicky Teinaki \u2013 Senior interaction designer, GDS"
+    ],
+    "categories": [
+        "Community",
+        "Design"
+    ],
+    "pub_date": "2021-12-17T11:43:19+00:00",
+    "content": [
+        {
+            "text": "Many designers in government either began, or have had extensive careers, in the private sector before joining the Civil Service. Below is a compilation of our personal experience and our observations of the differences between the 2 sectors."
+        },
+        {
+            "heading": 2,
+            "text": "From doing it all to trusting in a team"
+        },
+        {
+            "text": "Vicky Teinaki, Senior Interaction Designer\nIn the private sector, I was a user experience (UX) designer, doing everything from wireframing to diary studies. However, when I switched to government I had to specialise. I started in user research and then switched to interaction design.\u00a0"
+        },
+        {
+            "text": "I had to let go of doing all parts of user-centred design, but I believe that it\u2019s right. Given the importance of government services, all roles have best practices to follow and changes to keep up with. For example, when I was a user researcher, I had to follow rigorous recruitment practices and diligently share results. As an interaction designer, I know the nuances of using GOV.UK Design System patterns and the prototype kit.\u00a0"
+        },
+        {
+            "text": "However, being a specialist doesn\u2019t mean working alone. A key part of the role is working with other people with complementary skills in a team. I never got to do this in the private sector, and now it\u2019s my favourite part of the job. I love collaborating with a content designer and shaping a user-centred journey together. It\u2019s also great to work with technical colleagues to understand the art of the possible and iterate designs based on user insights from user researchers and performance analysts."
+        },
+        {
+            "heading": 2,
+            "text": "Designing and building with accessibility in the forefront"
+        },
+        {
+            "text": "Nikin Nagewadia, Interaction Designer\nHaving worked in the private sector for most of my professional career, I\u2019ve noticed that accessibility was a major talking point at many of the organisations I\u2019ve worked at."
+        },
+        {
+            "text": "Although there was a lot of interest in making a product or service accessible, when it came to prioritizing works, accessibility was low on the list in favour of projects that can lead to an immediate increase in profit margins. Whenever accessibility was prioritised, that was based out of necessity, usually to avoid any legal repercussions as that can impact an organization\u2019s reputation and their finances."
+        },
+        {
+            "text": "Having been in the public sector for over a year, I can attest that accessibility is core to the design and technical implementation of a digital service. Especially since they are meant to be accessible to anyone and everyone who needs to access a government service. Accessibility doesn\u2019t solely apply to services. There are also colleagues who advocate for accessibility by offering training and consultation sessions and being vocal when a product or service is not completely accessible."
+        },
+        {
+            "text": "At GDS, we have 10 design principles; our 6th design principle begins with \u201cAccessible design is good design\u201d. This ethos holds true, especially since our services are intended to be used by everyone no matter their capabilities."
+        },
+        {
+            "heading": 2,
+            "text": "Being part of a community"
+        },
+        {
+            "text": "Chris Ballantine-Thomas, Senior Interaction Designer\nThe design community, both at GDS and across the public sector, is what I love most about working in government. I don\u2019t know of anywhere else you can work where you can draw upon the experience of so many other designers \u2013 who are all committed to the same thing: designing better public services."
+        },
+        {
+            "text": "At GDS, designers work in multi-disciplinary teams where you might be the only designer. The design community gives us a space to get support and feedback from one another. We also work together to make GDS a better place to do design \u2013\u00a0things like improving our hiring processes or onboarding for new staff. These have been a great way to push my skills in directions that my day-to-day work might not offer."
+        },
+        {
+            "text": "We collaborate on a bigger scale across government too. There are thousands of designers in government now \u2013 and different groups get together to push forward various aspects of our craft. Whether that\u2019s working together on new user interface (UI) components or sharing advice on how to grow more equitable design teams, we learn from each other\u2019s work and work in the open so we can build on each other\u2019s knowledge."
+        },
+        {
+            "heading": 2,
+            "text": "The importance of effective research"
+        },
+        {
+            "text": "Courtney Toth, Interaction Designer\nWorking in the private sector, both in an agency environment and as part of in-house design teams, I found that organisations understand the importance of user needs. Still, there are challenges in empowering teams to research with users effectively.\u00a0"
+        },
+        {
+            "text": "The reality with the private sector is that financial factors will always be the biggest barrier to successful user research. This could manifest as a lack of budget or incentives to test with users. It could be not investing in research and design roles, or even favouring insights pulled from testing which represent low-cost fixes to a service rather than large, fundamental changes."
+        },
+        {
+            "text": "Some of the other barriers I\u2019ve experienced in the private sector include using research to merely validate designs (to \u2018tick a box\u2019) and not having an established design community or effective way to share learnings across teams."
+        },
+        {
+            "text": "Having now made the shift to working in government, it\u2019s clear that user needs drive design in the public sector. We have committed user researchers who work with designers to shape and carry out research. We work openly, share findings across teams, and user-centred design is embedded in our design principles and the Service Standard."
+        },
+        {
+            "text": "But most importantly, we speak to users regularly and utilise the insights we learn from them. Users will inevitably need to interact with government services. So it\u2019s vital that we design for everyone, and that starts with understanding user needs."
+        },
+        {
+            "heading": 2,
+            "text": "Working in the open"
+        },
+        {
+            "text": "Martin Jordan, Head of Service Design\nIn the public service, we are serving the public. As obvious as it may sound, we have an obligation to the people paying for what we provide via their taxes. So our task is to create the most public value for the money spent."
+        },
+        {
+            "text": "In my previous role in a global tech company, people prided themselves on the number of patents they had filed. In an organisation like GDS, people are instead proud of how many contributions to the Design System, a piece of guidance or a GitHub repository they have made. Similar to open-source software development, all are things shared openly with the public, the wider public sector, and governments abroad.\u00a0"
+        },
+        {
+            "text": "Through blog posts, on social media, at meet-ups and conferences, hundreds of colleagues talk openly about what they are doing, share work in progress and ask for feedback. This level of openness drew me to work at GDS. People proudly embrace the Government Design Principle \u2018Make things open: it makes things better\u2019."
+        },
+        {
+            "text": "And it\u2019s not just the more senior people doing it. Design interns and junior designers are blogging, running show & tells, talking publicly, which all helps them gain confidence and develop faster. To me, that\u2019s us living the idea of a learning organisation."
+        },
+        {
+            "heading": 2,
+            "text": "Come join us"
+        },
+        {
+            "text": "We\u2019re looking for mid-level and senior service designers to work on some of the toughest problems in public infrastructure, changing the way government delivers services by making them simpler and easier to use. If you\u2019re interested in being part of the transformation, apply by Sunday, 10 March 2022. "
+        }
+    ]
+}

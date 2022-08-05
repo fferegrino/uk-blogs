@@ -1,0 +1,97 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/03/17/replacing-the-scroll-tracker-on-gov-uk/",
+    "title": "Replacing the scroll tracker on GOV.UK",
+    "authors": [
+        "Andy Sellick - Senior frontend developer, GOV.UK"
+    ],
+    "categories": [
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2022-03-17T08:59:40+00:00",
+    "content": [
+        {
+            "text": "If users consent to cookies on GOV.UK we can use Google Analytics to help improve our services and content for the millions of people that visit every day. We look at data on things like page views, link clicks and some element interactions, such as when a user clicks something to show or hide text."
+        },
+        {
+            "text": "For some high traffic pages, we also use scroll tracking. This blog post is about how we identified some problems with the existing scroll tracker and went about building a new one."
+        },
+        {
+            "heading": 2,
+            "text": "What is scroll tracking?"
+        },
+        {
+            "text": "Scroll tracking is commonly used to show how much of a page has been read. Our scroll tracking can either tell us how many users have scrolled a certain percentage of the page or which headings they\u2019ve reached."
+        },
+        {
+            "text": "This data can help us identify problems with content - for example, is the whole page being read, or just the first part? Are users missing out on important information that could be positioned more prominently? Do users engage differently on desktop and mobile?"
+        },
+        {
+            "heading": 2,
+            "text": "Problems with the existing scroll tracker"
+        },
+        {
+            "text": "We were looking at improving our foreign travel advice pages and adding scroll tracking to get more usage information was a sensible first step. Unfortunately this highlighted some problems with the way our current scroll tracker worked."
+        },
+        {
+            "text": "In order to add scroll tracking to a page on GOV.UK it was necessary to add the URL of that page into the scroll tracking script itself. There are 226 countries and territories listed on the foreign travel advice page and each one consists of up to 10 different pages, covering topics including security, health and money. That would mean adding almost 2,260 URLs to the JavaScript. This might sound reasonable except that this script is included on every page on GOV.UK, even the pages without scroll tracking."
+        },
+        {
+            "text": "Another problem was that to track headings on the page, the text of those headings also had to be included. Since the heading text had to be hard-coded in the JavaScript, if the content changed, that heading would no longer be tracked."
+        },
+        {
+            "text": "Some of the travel advice pages have 8 or more headings, which could increase our initial figure of 2,260 additional lines to nearly 10,000. Adding this to the JavaScript would significantly slow down every page on GOV.UK for users."
+        },
+        {
+            "text": "This was an untenable way to do scroll tracking both now and in the future, so we started thinking about how to make a new scroll tracker that would use a different approach."
+        },
+        {
+            "heading": 2,
+            "text": "How does scroll tracking work?"
+        },
+        {
+            "text": "When you scroll a page in your browser, a scroll event occurs. JavaScript can be written to listen for that event and carry out instructions when it happens. This means that when the page is scrolled, the code can check which headings are currently visible within the window, and collect that information."
+        },
+        {
+            "text": "Determining whether an element like a heading is currently visible in the window or not is computationally expensive, and scrolling even a little way down a page can cause the scroll event to happen hundreds of times. Combined without consideration, these things could make scrolling down a page on GOV.UK unbearably slow for some users, which we had to avoid."
+        },
+        {
+            "text": "Modern browsers can use Intersection Observers to get around this problem, but we couldn\u2019t use them because we need to support old browsers like Internet Explorer. A polyfill was considered, but that would add too much extra JavaScript."
+        },
+        {
+            "text": "Instead, when the scroll tracker starts it begins by storing the positions of headings (and percentage positions) and using those numbers inside a throttled scroll event listener to reduce the load. Our new scroll tracker worked, but there were still some problems that we had to consider."
+        },
+        {
+            "heading": 2,
+            "text": "Problems to solve"
+        },
+        {
+            "text": "If we pre-determine the position of things on a page (headings or percentage positions), we need to take account of the fact that the height of a page (and therefore the position of those things) can change after the page has finished loading. This can happen when the browser window is resized, or if a device is rotated, or if the font size or zoom level in the browser is changed. It can also happen when the user interacts with the page, for example by expanding a collapsed element or dismissing the cookie banner."
+        },
+        {
+            "text": "We only wanted to track headings in the page content, not headings in the footer or other common elements. We also needed to consider that headings might appear or disappear after a page has loaded, for example if they are inside collapsible content like an accordion."
+        },
+        {
+            "text": "We wanted to make sure that tracking occurs for any headings that are visible when the page loads, before scrolling occurs. This might be a different set of headings depending on what size device or browser window is being used. This would also be a different set of headings if the user was following a jump link to a point on the page that wasn\u2019t the top."
+        },
+        {
+            "text": "Finally, for both heading and percentage tracking, we didn\u2019t want to track things more than once, so we needed a mechanism for remembering what had already been tracked."
+        },
+        {
+            "heading": 2,
+            "text": "Our new scroll tracker"
+        },
+        {
+            "text": "We\u2019ve built a new scroll tracker that considers all of the problems above. It doesn\u2019t need URLs to be included in the JavaScript, but runs based on a simple meta tag added to specific pages. It detects headings and their text on page load, and determines whether or not they should be tracked based on whether they\u2019re inside the page content."
+        },
+        {
+            "text": "It also detects changes in page height and resizing of the browser, and recalculates everything appropriately. Finally, it uses fewer lines of code than the list of URLs to track in the old scroll tracker."
+        },
+        {
+            "text": "We successfully tested our new scroll tracker on the foreign travel advice pages and discovered that some users were missing important information, which led to some content changes. We then carried out a complete review of scroll tracking across GOV.UK. This resulted in the removal of scroll tracking that either wasn\u2019t needed or wasn\u2019t working properly, as well as some further improvements to the new scroll tracker."
+        },
+        {
+            "text": "We\u2019ve since fully migrated to the new scroll tracker and retired the old one, which has led to a small reduction in our overall JavaScript size and means that scroll tracking can now be more easily updated when required."
+        }
+    ]
+}

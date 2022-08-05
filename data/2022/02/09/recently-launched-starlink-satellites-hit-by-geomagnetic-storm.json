@@ -1,0 +1,82 @@
+{
+    "url": "https://space.blog.gov.uk/2022/02/09/recently-launched-starlink-satellites-hit-by-geomagnetic-storm/",
+    "title": "Recently launched Starlink satellites hit by geomagnetic storm",
+    "authors": [
+        "Athene Gadsby"
+    ],
+    "categories": [
+        "Space surveillance and tracking"
+    ],
+    "pub_date": "2022-02-09T17:02:28+00:00",
+    "content": [
+        {
+            "text": "On Thursday 3 February 2022, Starlink launched and deployed 49 satellites into Low Earth Orbit. "
+        },
+        {
+            "text": "On Friday 4 February, a geomagnetic storm impacted the satellites, causing the Starlink team to put the satellites into a safe-mode to minimise the increased atmospheric drag on them caused by the storm. "
+        },
+        {
+            "text": "Space-X stated: \u201cPreliminary analysis show the increased drag at the low altitudes prevented the satellites from leaving safe-mode to begin orbit raising manoeuvres, and up to 40 of the satellites will re-enter or already have re-entered the Earth\u2019s atmosphere.\u201d"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Re-entry of the satellites\u00a0"
+        },
+        {
+            "text": "The Starlink satellites are designed for demise upon atmospheric re-entry \u2013 burning up high above the ground, so pose virtually no risk to Earth, however the UK Space Agency and the MOD\u2019s Space Operations Centre have continued to closely monitor the re-entry of the satellites. "
+        },
+        {
+            "text": "Our Orbital Analysts work 365 days a year monitoring orbital hazards, including satellite collisions, fragmentations and re-entry events. We receive information from the US 18th Space Control Squadron (18 SPCS) who provide data messages called TIPs on catalogued re-entering objects. "
+        },
+        {
+            "text": "In normal re-entry circumstances, our analysts use models and additional analysis of the data messages to calculate the probability distribution of re-entry locations over time, displayed in map and graph format. In this scenario, re-entry analysis was not possible because the objects were not in orbit long enough to be catalogued.\u00a0"
+        },
+        {
+            "text": "The uncertainty of solar activity and atmospheric density presents a major challenge for accurately predicting the time and position of a re-entering satellite. Atmospheric drag is one of the primary forces impacting on such satellites and modelling the atmosphere is challenging even with the most up-to-date data.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Space sustainability\u00a0"
+        },
+        {
+            "text": "Starlink\u2019s satellites operate in Low Earth Orbit (LEO). LEO, which extends to 2000 km above the Earth's surface, is a congested orbit due to the number of active satellites and debris orbiting within it. "
+        },
+        {
+            "text": "In LEO, there are already approximately 4,000 active satellites and 15,000\u00a0pieces of debris like rocket bodies and defunct satellites. Therefore, space sustainability, and the requirement to not generate more debris, is an extremely important consideration for operators, especially when they are managing large constellations. \u00a0"
+        },
+        {
+            "text": "Designing satellites for demise so that they burn-up and re-enter after they complete their mission is an important way to ensure more debris is not left in orbit. Starlink have designed their satellites without any dense metallic components, enabling every piece to burn-up in the atmosphere. "
+        },
+        {
+            "text": "The UK takes space debris seriously, and used its presidency of the G7 to gain support for a joint commitment to keep space sustainable in June 2021. In order to qualify for a UK satellite license, the operator must demonstrate how the satellite will be removed responsibly from space. "
+        },
+        {
+            "text": "The UK Space Agency recently announced \u00a31.7 million for new projects to support sustainable space operations, and signed an agreement with the UN to promote space sustainability. The recently published National Space Strategy\u00a0emphasises the importance of maintaining a sustainable and secure space environment and monitoring the sun to detect space weather events like the one that led to this incident."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Geomagnetic storms and space weather\u00a0"
+        },
+        {
+            "text": "Geomagnetic storms are generally caused by ejections of the solar corona into space. This results in a disturbance of the Earth\u2019s ionised upper atmosphere. This, combined with the solar wind, causes the variation in atmospheric density with respect to altitude to change.\u00a0 This can cause an increase in density and therefore increased drag on satellites in very low orbits. This increase in drag affects their ability to manoeuvre. In extreme cases, it can cause them to lose altitude and re-enter.\u00a0"
+        },
+        {
+            "text": "A geomagnetic storm is one result of solar activity generally referred to as space weather. According to the Met Office: \u201cSpace weather describes changing environmental conditions in near-Earth space. Magnetic fields, radiation, particles and matter, which have been ejected from the Sun, can interact with the Earth\u2019s upper atmosphere and surrounding magnetic field to produce a variety of effects\u201d.\u00a0\u00a0"
+        },
+        {
+            "text": "The UK Met Office runs the Space Weather Operations Centre (MOSWOC), which is one of three space weather prediction centres around the world. Before launch, MOSWOC had predicted unsettled geomagnetic activity; all satellites in LEO would have been affected to some degree by these storms but the recently launched Starlinks were particularly affected due to being at 200km altitude. MOSWOC frequently predicts periods of unsettled geomagnetic activity, however it is unusual for it to affect satellites to such a degree. \u00a0"
+        },
+        {
+            "text": "The UK is the largest contributor to the European Space Agency (ESA) space safety programme, which includes tracking satellites and debris and working to remove pieces of debris from orbit, and is leading on the space weather elements. \u00a0Events like this show the importance of continued investment in monitoring and forecasting of space weather and developing a greater understanding of potential impacts."
+        }
+    ]
+}

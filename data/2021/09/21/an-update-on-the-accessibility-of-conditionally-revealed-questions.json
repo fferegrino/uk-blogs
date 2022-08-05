@@ -1,0 +1,167 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2021/09/21/an-update-on-the-accessibility-of-conditionally-revealed-questions/",
+    "title": "An update on the accessibility of conditionally revealed questions",
+    "authors": [
+        "Calvin Lau, Content Designer",
+        "Charlotte Downs, Interaction Designer",
+        "Oliver Byford, Senior Developer (Tech Lead)"
+    ],
+    "categories": [
+        "Accessibility",
+        "Design",
+        "User research"
+    ],
+    "pub_date": "2021-09-21T10:04:48+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK Design System is a library of styles, components and patterns to help teams in the public sector quickly design and build usable, accessible digital services."
+        },
+        {
+            "text": "In the radio button and the checkbox components, we offer an option to conditionally reveal fields when the user selects an answer."
+        },
+        {
+            "text": "They\u2019re often used by service teams to group related questions together, by revealing follow-up questions only when they\u2019re relevant to the user."
+        },
+        {
+            "text": "In September 2020, the GOV.UK accessibility team found an accessibility issue with conditional reveals. They discovered that users are not always notified when new information, such as a follow-up question, is conditionally revealed, particularly for screen reader users."
+        },
+        {
+            "text": "This would fail WCAG 2.1 success criterion 4.1.2: Name, Role, Value which requires the user be notified of any changes in user interface components."
+        },
+        {
+            "text": "To meet accessibility requirements, we added this issue to our accessibility statement and started investigating solutions."
+        },
+        {
+            "text": "Along the way, we\u2019ve learned more about the problem, what causes it and have worked to make conditional reveals work better for users."
+        },
+        {
+            "heading": 2,
+            "text": "The problem with conditional reveals"
+        },
+        {
+            "text": "To notify users with assistive technology, similar components (such as accordions or dropdown navigation bars) use ARIA (Accessible Rich Internet Applications) attributes."
+        },
+        {
+            "text": "The `aria-expanded` attribute indicates whether the component has a \u2018collapsed\u2019 or \u2018expanded\u2019 state to tell the user if there\u2019s new information they need to look at."
+        },
+        {
+            "text": "Early on, we realised that our use of `aria-expanded` in conditional reveals was not supported for the role of a radio button or checkbox in the ARIA specification."
+        },
+        {
+            "heading": 3,
+            "text": "Other problems to explore"
+        },
+        {
+            "text": "When unpacking the issue presented to us by the GOV.UK accessibility team, we identified that there were in fact 4 areas to investigate."
+        },
+        {
+            "text": "We saw that many conditional reveals were:"
+        },
+        {
+            "text": "In order to make a decision on whether to remove or keep `aria-expanded` on the label of a conditional reveal we needed to do user research."
+        },
+        {
+            "text": "User research would also help us test, understand and improve the other usability and accessibility issues we had identified with conditional reveals across services."
+        },
+        {
+            "text": "We joined with the GOV.UK Pay team to conduct remote user research with assistive technology users. Conditional revealing questions were tested, alongside other components and patterns as part of a complete service journey in the research prototype."
+        },
+        {
+            "heading": 2,
+            "text": "Reaching out to the ARIA Working Group"
+        },
+        {
+            "text": "Our user research confirmed that some users did get notified of the \u2018expanded\u2019 or \u2018collapsed\u2019 state, despite the attribute being unsupported. We think the notification did help users understand that something was revealed after interacting with the radio or checkbox."
+        },
+        {
+            "text": "We brought our evidence to the ARIA Working Group. However, they were not sure the notification was needed. They also thought that adding `aria-expanded` might add noise and be distracting. They recommended we gather more evidence that this would actually be useful to users."
+        },
+        {
+            "text": "We summarised our conversation with the ARIA Working Group on the Github issue discussion page for the radios and checkboxes components."
+        },
+        {
+            "heading": 2,
+            "text": "Solving all the problems, together"
+        },
+        {
+            "text": "The conversation with the ARIA Working Group suggested to us that we needed to think more about the other issues \u2014 perhaps the missing notification was not the source of the problem that we\u2019d thought."
+        },
+        {
+            "text": "Our user research also confirmed to us that all the usability and accessibility issues were indeed interconnected."
+        },
+        {
+            "heading": 3,
+            "text": "Relationship between the question and the revealed content"
+        },
+        {
+            "text": "User research showed us that it was not simply a missing announcement that confused screen reader users. Most users we tested with could tell when something had changed on the page, but they could not understand the layout and journey."
+        },
+        {
+            "text": "So we knew we needed to improve the relationship between the question and the revealed content."
+        },
+        {
+            "text": "To explore this, we created 6 prototypes that looked at:"
+        },
+        {
+            "text": "We also explored alternatives to conditional reveals, such as filter questions and ways of simplifying complex questions."
+        },
+        {
+            "text": "In future rounds of planned user research, we\u2019ll test some of these changes with users."
+        },
+        {
+            "heading": 3,
+            "text": "How conditional reveals are used"
+        },
+        {
+            "text": "Along with our user research, we looked at how services used conditional reveals."
+        },
+        {
+            "text": "Looking at both, we concluded that the single biggest issue was that many services used conditional reveals in unexpected ways. We also realised that our guidance did not clearly describe what information can be conditionally revealed."
+        },
+        {
+            "text": "For example, conditionally revealing text content or multiple form fields complicated the relationship between the question and revealed content."
+        },
+        {
+            "text": "All users we tested with had no problems completing the task when the conditional reveals were kept to a single input. Other service teams also shared similar findings with us."
+        },
+        {
+            "text": "We spoke to DAC (Digital Accessibility Centre) who confirmed the issues with using multiple fields or text content (like warning text) within reveals. However, they told us that simple questions with a single input were fine."
+        },
+        {
+            "heading": 2,
+            "text": "What we are doing now"
+        },
+        {
+            "text": "We\u2019ve updated the guidance for radio buttons and checkboxes to give service teams better guidance on how to use conditional reveals, and what to consider."
+        },
+        {
+            "text": "Finding solutions to meet accessibility requirements of all users is difficult. That\u2019s why WCAG 2.1 is based on principles, not technology and emphasises the need to think about the different ways that users interact with content."
+        },
+        {
+            "text": "In our research and investigation, we\u2019ve learned that conditional reveals are widely used in services (and in other applications), and it\u2019s clearly an area for us to continue working on."
+        },
+        {
+            "text": "With our findings in hand, we revisited the notification issue that the GOV.UK accessibility team originally presented to us. The findings supported DAC\u2019s assessment that overall, conditional reveals are fine \u2014 as long as they\u2019re kept simple. This was also supported by our conversation with the ARIA Working Group, when they said they did not see the notification as a WCAG 2.1 requirement. In fact, they wanted to see evidence that it\u2019d be useful to users."
+        },
+        {
+            "text": "Based on this evidence, we\u2019ve removed the issue with conditional reveals from our accessibility statement."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next \u2014 help us keep improving conditional reveals"
+        },
+        {
+            "text": "Our work is not over. We\u2019ll continue to explore the problem through user research."
+        },
+        {
+            "text": "Right now, our conversation with the ARIA Working Group to add `aria-expanded` to radios is on hold as they want to see more evidence before they make a decision. If it decides not to approve our proposal, we\u2019ll remove it from the Design System. Until then we think it\u2019s useful for screen reader users so we\u2019ve left it in."
+        },
+        {
+            "heading": 3,
+            "text": "Help us learn more about conditional reveals"
+        },
+        {
+            "text": "If your service uses these components and you have user research to share, get in touch by messaging the team on the cross-government digital Slack instance or by email. We want to find more ways to make conditional reveals work better for all users."
+        }
+    ]
+}

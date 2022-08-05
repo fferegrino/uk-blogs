@@ -1,0 +1,57 @@
+{
+    "url": "https://teaching.blog.gov.uk/2022/03/10/implementing-edtech-solutions-to-reduce-admin-and-save-time/",
+    "title": "Implementing EdTech solutions to reduce admin and save time",
+    "authors": [
+        "Luke Craig"
+    ],
+    "categories": [
+        "Primary schools",
+        "Reducing teacher workload",
+        "Teacher wellbeing"
+    ],
+    "pub_date": "2022-03-10T11:05:15+00:00",
+    "content": [
+        {
+            "text": "Luke Craig is a Technology Lead Practitioner at Britannia Education Trust and has been supporting Dawlish Primary School, which is part of the Opossum Federation in East London. The federation has been involved in the Department for Education\u2019s EdTech Demonstrator Programme since October 2020."
+        },
+        {
+            "text": "The Opossum Federation has been supported by the EdTech Demonstrator Programme to use technology and reduce staff workload. Here are three examples of what we achieved together:"
+        },
+        {
+            "heading": 3,
+            "text": "1. Creating an online contact form for parents"
+        },
+        {
+            "text": "We used to provide our generic school email address on the website as a way for parents to get in contact. However, the email address received hundreds of emails every day. It took a member of the administrative team an estimated 45-60 minutes daily to sift through emails and forward the important ones on to relevant staff members. Occasionally important messages were missed."
+        },
+        {
+            "text": "After discussing the issues, we created an online form available on the website\u00a0that parents could use to submit a message. It included a drop-down menu with a list of categories and when the form was submitted, it would trigger a script that would email the message directly to the relevant member of staff."
+        },
+        {
+            "text": "Parents, governors, office staff and Head of Schools have all been very pleased with how effectively this works and the time saved."
+        },
+        {
+            "heading": 3,
+            "text": "2. Using an automated annual leave system"
+        },
+        {
+            "text": "When members of staff from across the federation needed to request leave, the process was time consuming, required printed sheets and could be unclear."
+        },
+        {
+            "text": "Together, we devised an online solution that meant staff requesting leave would fill in an online form. This sent an automatic email to the Head of School responsible for that member of staff. They could then view the request and decide to agree/deny it from within a spreadsheet. The staff member would then be emailed automatically with the decision and any comments."
+        },
+        {
+            "text": "If the member of staff was granted leave, our shared school calendar would automatically be updated to show the dates that they would be absent. It also created a record of all staff leave requests stored in one place, meaning less paperwork and a clearer system allowing for easy analysis."
+        },
+        {
+            "heading": 3,
+            "text": "3. Giving system access to those who need it"
+        },
+        {
+            "text": "The school has many online classrooms to manage through an online learning platform. Occasionally, a teacher or student would not have been added to their intended classroom and only the class teacher could amend this. This often created a bottleneck, with admin staff spending much of their time chasing class teachers to add people to their classroom."
+        },
+        {
+            "text": "We devised a system that allowed the administrative team to access all the online classrooms to add/remove individuals, reducing the pressure on class teachers to do this."
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/06/21/podcast-building-better-user-experiences/",
+    "title": "Podcast: Building better user experiences",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Podcasts",
+        "Shared Channels Experience"
+    ],
+    "pub_date": "2021-06-21T14:34:46+01:00",
+    "content": [
+        {
+            "text": "Just over a year ago we established our Shared Channels Experience to support DWP\u2019s ambitions of creating truly user-centred services."
+        },
+        {
+            "text": "In this episode of the DWP Digital podcast, we speak to Fay Cooper who is the product lead within Shared Channels Experience, and Gavin Elliott who is the design lead."
+        },
+        {
+            "text": "Fay and Gavin explain more about why we\u2019ve adopted a shared channels approach, what this means for teams and services, and the challenges they\u2019ve faced. They also share some of the exciting work they\u2019ve got coming up."
+        },
+        {
+            "text": "A transcript of the episode can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Join us on our journey"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money "
+        },
+        {
+            "text": "Welcome, everybody to another episode of DWP Digital's podcast.\nMy name is Stuart and today we're talking about Shared Channels, and how this approach is helping to build better user experiences across all our services."
+        },
+        {
+            "text": "So let's make a start. Fay, Gavin, would you mind introducing yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "\u00a0Fay Cooper "
+        },
+        {
+            "text": "So hi, I'm Fay Cooper, I'm the product lead for Shared Channels Experience within DWP Digital. So, my role essentially is all around looking after all of the products that we design and build."
+        },
+        {
+            "text": "So, the key thing for me is always around, you know, are the products that we're going to build based on an evidence of user need? Are they're going to release value for the department? So I ask why quite a lot. And for me, the big thing is around in this day and age, we can pretty much build anything we want. And the technology doesn't really limit us anymore. But it's always around, like, should we build the thing? Should we build it? And what good is it going to do for DWP and for the people that we serve?"
+        },
+        {
+            "text": "A lot of my career has been around understanding people, behaviours, understanding how to tell the narrative really, and get people on board. So a lot around communication. And my first job was with Cisco Systems. So, it was a graduate academy, they kind of lured me in with, would you like to spend a year living in Amsterdam, and I'm not sure how many students would say no to an offer like that. So, I went there for a year, learned all about technology and completely fell in love with technology."
+        },
+        {
+            "text": "But the big thing for me was, it was always about profit at Cisco. Always about sales targets. And I kind of really quickly realised my clients were all government clients, and I became much more involved and interested in what they were trying to do than getting a profit essentially, for a big company. So for me, I made a quick transition at that point to move into local government. And that's where I built a lot of my career."
+        },
+        {
+            "text": "So, I spent a lot of time working on things like the first ever UK digital strategy. I worked a lot with BT around superfast broadband rollout. And the more that I did around technology, the more for me it was about what are people going to do with it and how is it going to make people's lives better. And that's been a kind of a key thread, I think, all through my career. And I moved into DWP just under three years ago, which was really a shift to a much bigger scale of work."
+        },
+        {
+            "text": "But for me, the thing with DWP is that it's just such a brilliant organisation. We've got such an amazing task that you know, such an amazing objective to help people. And that's the kind of key driver really for me and my career."
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott "
+        },
+        {
+            "text": "I'm Gavin Elliott, I'm the design lead for the Shared Channels Experience directorate at DWP Digital. I have been here for coming for six years in various different roles started as interaction designer when I joined way back in 2015. Before becoming head of role for interaction service design, and was that role for about two to three years before I moved into Shared Channels in about November last year."
+        },
+        {
+            "text": "My role at DWP at the moment is to make sure that the design of the products that Fay mentioned, and the approach to designing those products and services is all being done in the right way. specifically trying to make sure that the correct question\u2019s being asked so that we can head off in a good strategic way to try and find the answer first, but also then produce practical output for that question\u2019s answer. So, whether we're designing the right service, whether we're designing the right offer, what we can do better, analysing user research and data in the right way. And bringing that all back for the whole holistic team or teams to in order to kind of provide benefit back to our users. But also the department itself. We're in the largest department with over 85,000 folks now who were working across various different business areas."
+        },
+        {
+            "text": "I grew up as a you know, a council estate kid. And you know, going to university was never really on my radar. It was one of the things that you know, no element of my family had done it before. So for me it was a case of what do I do next. And you know, I had an interest in design. And I did feel a bit lost when I last left school and just walking down the main high street in Newcastle upon Tyne, looked down a certain street called Ridley Place and found the Armed Forces career centre was halfway down the street and by the time I knew I was in the in the office, asking an army sergeant which core I should join. And just a couple of months later, I swore the oath to the queen I was in the armed forces and I was there for just over three years."
+        },
+        {
+            "text": "After leaving, I decided that, you know, one of the things that wanted to pursue was the thing that I loved the most and that was design. And by that point, the web and web design industry was starting and growing a little bit of a faster pace. Set myself up, self-employed, and learned as much as I could about coding and web design, as much as I could from books. By chance got a few contracts. By chance again, managed to build a good relationship with some folks in a local city, sorry. And became a creative director in that business before kind of continuing on. Worked for a local development agency called Code Works in the northeast of England, which does fantastic work with all of the different agencies and businesses in terms of design development in the north east, which is great. Set up a conference called Design and Build it, which was for web designers and developers. And then I continued after leaving there to set up my own web design conference, which was called Industry for four years, and worked at various different agencies in New York doing mobile app design, again in South Africa, before joining the travel company as head of user experience, and then latterly head of user experience and product, before joining the Department for Work and Pensions in 2015."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money "
+        },
+        {
+            "text": "That's great. Thank you."
+        },
+        {
+            "text": "Now, can you tell me about your teams and the work they do within DWP Digital?"
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper "
+        },
+        {
+            "text": "Yeah, absolutely. So, the work that we're doing at the moment is really unique. And it's a really big shift for DWP Digital to really focus on what I would class as experience. So before we were all really set up to be very service focused. So if you joined DWP Digital, you would likely have a very singular focus around one benefit line. I think our shift for our department and Share Channels Experience has been to create something that's completely unique, and which looks across the end to end experience. So we were set up in April 2020. And this was all around a drive to accept that we weren't really delivering a really focused service. And we didn't really look at the end to end experience for customers."
+        },
+        {
+            "text": "So Shared Channels Experience are the custodian and the protector of the customer experience. We look across, we understand how citizens and or our service, how they feel when they navigate through what might happen to them. We've really started to gather a lot of insight that's never been gathered before. And that's a really unique and interesting thing to be part of. So, I've not heard of any other government department doing this sort of work or this set up. So it's great to be pioneering, it's also a little bit scary at times, because of the scale of what we do. We have around, you know, 20 million people who use our services every year, and we pay out about 200 billion. So this is big money and big scale."
+        },
+        {
+            "text": "So at a strategic level, we're really trying to push away from this idea of being very product driven. And something we talk about a lot is being very life event centric. So understanding the customer, understanding what they need from us. So we saw lots of evidence of where we typically what we\u2019d class as under served people, so we're not doing enough for them or potentially over serve. So we're asking them to do the same thing over and over again, which, you know, was very, was difficult for them. And it's a complex journey. And we can make a massive difference by just simplifying that experience for them."
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "Fay's not wrong. And the scale of the work that we're working on is absolutely huge. Let alone the fact that we are, I believe the biggest government department, both with in terms of the amount of money that we pay out to citizens of the UK."
+        },
+        {
+            "text": "In order to do that, there's a lot of things that we need to think about and strategize to get right, which is why a lot of the work that we do is quite a high level, it is really strategic. We also support much smaller enablers within the department to find those commonalities across all of the offering that we do have. So for instance, that could be maybe the way that we do payments, for instance, or the way that we look at residency information or relationships. We keep an eye on, you know, trying to help and advise those different teams in order for those elements to be built into the services that we offer in a common way which is really exciting to look at."
+        },
+        {
+            "text": "One of the things that we are looking at the moment, which I believe is the probably the most exciting thing, this is something that Fay and I talk about quite a lot is the ability and the kind of awareness from the wider organisation both in digital and our operational areas, to look at DWP at a much higher level. So that we can join more dots up, but not just kind of on paper if that makes sense. We don't want to just draw a diagram for it to be put into a drawing for, you know, an inordinate amount of time. We want to utilise our evidence both in data and research, you know, feedback, utilising all the information, our customer experience directorate have got, and work with that to design something far better, which is why we've got all of these different teams and the approaches changed over an amount of time."
+        },
+        {
+            "text": "I would say it's possibly the most exciting time definitely within my six years of the department, but quite possibly the most exciting time in probably the past 20 years for DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Our teams are always looking to improve our user experience and our services. Can you tell me why DWP Digital is adopting a shared approach and what that means for our teams and services?"
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "It really doesn't matter whether we're talking about government departments, or incredibly large private organisations. If they are not looking as a common goal shared kind of view on how they operate, they're essentially siloed. And if they're siloed, unfortunately that ultimately means they're going to potentially be offering a broken user experience. And that customer experience won't be as good as what they could probably envisage and definitely won't be what a customer or user would expect."
+        },
+        {
+            "text": "The shared approach that we're going for gives us that opportunity to look at what should be shared. And whether we're talking about bringing together journeys, for instance, or utilising patterns and common behaviours. It's about trying to provide that better reuse of common components potentially, or better, or common patterns. And the only way that we can do that is to actually recognise what a whole view is. But also surface all of those journeys that we have that potentially may criss-cross, or diverge, or converge across DWP and bring that whole view approach together."
+        },
+        {
+            "text": "I don't want to underestimate just how big of a piece of work this is. It is possibly the biggest and boldest, and possibly, you know, the most important thing that we could do right now as DWP. And to get that common understanding is something so important. It's something that we can't ignore anymore."
+        },
+        {
+            "text": "It directly links in to providing that better customer experience in our digital strategy as well. The digital strategy is there, 2025, our operating model that we want to work towards, we've got to get these things right. And I believe having that shared approach, so there is that whole view, so everybody understands, you know, their place in the way that we're operating and where we're going is the most important thing that we've got going on at the moment."
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper "
+        },
+        {
+            "text": "I totally agree, Gavin, I think it's a huge, huge opportunity for us. And I think k basically, as our understanding of our users has matured over the last few years so has our approaches and our thinking. Traditionally, we would always start with an understanding of how we signpost somebody to our organisation, how they orientate to the help they need, then we would look at how we then help them access that help. And then once they've got the help they need, we then maintain that help. And that was our very kind of happy day, sunny day service pattern that we've used for a long time now."
+        },
+        {
+            "text": "I think what we started to realise, the more we understood about our users is that a lot of our users have very complex lives, potentially have very chaotic lives, where they might use our service and then drop off for a few weeks. So they might use Universal Credit for a very short time in bursts. Then they might go back into employment and then come back for support quite quickly. We also realised that there was a very big pattern, and it's about 33% of our current user base of people who need help with more than one benefit. So a lot of the research that we did, very recently has been with people who are in receipt of multiple benefits. And some of the really insightful things that we heard during user research was around people who perhaps were in receipt of Universal Credit, and then had an accident, for example, and then suddenly they needed a health benefit and some support. And I think for me, listening to some of the feedback from our users have some really powerful things that came out of that conversation around you know, when your life becomes suddenly thrown into chaos or something, you know, radical\u2019s happened. And one that stands out for me is somebody who was in a very severe car accident and lost use of his legs. So for him, his world had completely changed overnight and everything he needed from us as a department had changed. His priority wasn't to look for work anymore. His priority was to get help, rehabilitation and really come to terms with what had happened."
+        },
+        {
+            "text": "So for me, we need to really get to grips with this idea that our users need dynamic support, that their needs are going to change and they could change very radically overnight. So it's about how do we understand these different journeys that people need? And how do we make them very agile and very dynamic"
+        },
+        {
+            "text": "So it is a very big shift for me in the way that we've always designed before. And, you know, we're also really conscious that we're part of a much bigger landscape and ecosystem, so in DWP we could be as dynamic as we like. But sometimes people need services above and beyond just our department. So how do we as government support people across multiple government departments? And there are examples of journeys where people do need to come to us and others to get their needs met."
+        },
+        {
+            "text": "So we're also doing work with gov.uk, and the personal account that they're creating, to think about how do we simplify access to help for people across government and not just our department? So lots of really exciting things going on, and lots of I suppose pushing boundaries about how we help people. So it's a really great time."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Would you mind providing us with some examples of your team's work and how it's been implemented?"
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper"
+        },
+        {
+            "text": "We're doing some experiments at the moment where we're doing some low fidelity prototyping, we're doing code designing and we're doing this with our internal colleagues. And we're looking at the idea of if we gave them access to different types of data, data across benefit lines, how would that create a view of the customer that would then help them serve the customer at first contact. And we're starting to look at the types of datasets that they need, what the interface could look like for them. And we're also starting to think about it from a customer point of view as well around at the moment, they have to call us up to get access to information. So, what could we do as a digital service to help them access information, their information, it could be copies of letters, it could be an email that we've sent, or it could be that they've got a query about, when am I going to get paid next? Or why is my payment a little bit late? So we're just looking at playing around with different ways that we could do that and how we could improve the experience. And I think, you know, for me, that's been one of the key things for our team has been, we don't have a cookie cutter approach. Because this is very new ways of working, we don't have anybody we can copy off, really. So I think the experimentation has been a really interesting way of gathering some data, some insights, and also just testing really radical ways of solving the problem."
+        },
+        {
+            "text": "So yeah, it's all the big thing for me, underpinning all of this, though, is about how we make better use of data, and how we make a positive change to our services by bringing data together. So, lots of work, lots of kind of different types of work, that Gavin or I have maybe been involved with before, but it's really brilliant. And it's nice to not be scared to try new things."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money "
+        },
+        {
+            "text": "So what things are the most challenging to implement?"
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "We are such a large organisation. We can't kind of beat around the bush with that. We are huge in size. And in terms of DWP Digital by itself, that is also we are the biggest that we've ever been in the six years I've been here. With any large organisation, generally, if not all of the conversations I have with, you know, colleagues and peers who work in other large organisations, private organisations, one of the biggest, if not the biggest challenge is often just trying to make sure that people are joined up enough to understand the work being done. But also try and be not the only group working on it but understanding where the work is being led from, which inherently is communication. And it's you know, myself and a friend of mine always say communication, communication, communication, because unless we have that clear communication with the clarity and the simpleness of just communicating things to other folks to understand their place in the world, we\u2019ll often create duplication will often create breakdowns in communication, we\u2019ll often create the silos unfortunately, that, you know, exist purely because of the lack of communication."
+        },
+        {
+            "text": "So changing how we operate in terms of teams and Fay and I, you know, we've done this for years now. It\u2019s changing how we are about how open we are about the work that we're doing, and providing that visible, and often fairly vocal updates about the work that we're actually doing. You know, the work that we're doing, how that helps you. And obviously, that does come with a lot of questions and folks wanting to talk to you. But having a single place to communicate everything is really, really helpful. Now that could be things like Confluence spaces, it could be in show and tells which we do regularly anyway. But I think it's the most important, it\u2019s just what are you trying to communicate? How are you going to communicate it so that everybody can stay on board and their level of communication, because certain different stakeholder groups, for instance, will want a different level of communication. And it's trying to get that balance, right."
+        },
+        {
+            "text": "So we're looking at things from a whole departmental strategic point of view. So when we say things like all users and all needs, that's a mammoth amount of work. And we're not joking, by the way, that is all users, all needs. So we've almost got to remember to not get overwhelmed. And I think even some of the one to ones that Fay and I have it's a case of are we both ok? Are we overwhelmed? Is there too much? And we've got to kind of look back on it, too, you know, how do you build a 12 foot wall? You've got to do brick by brick, you can't just pick up a wall in all one go."
+        },
+        {
+            "text": "So I wouldn't say that there are challenges with regards to integration or service design, per se. It's more about making sure that we're learning, understanding, iterating and actually doing the work, which, funnily enough, does wrap itself or at least communication wraps itself around all of that."
+        },
+        {
+            "text": "What we have to be aware of is what's been happening in terms of legacy work, for instance.\u00a0 What is happening now, and what may or should or could be happening in the future, with regards to more modern systems, for instance. We need to take all of that into account to make effective decision making. And this especially kind of the direction and the strategic point of view, it's one thing, you know, just trying to aim for that kind of North Star. But in any strategy, something will come at you from a direction that you're least expecting it. And it's how we take stock of that information about what has happened. And then if we need to change direction and come at it from a different way, then that's what we have to do. So, I think it's just remembering that the work that we're doing is grand, it is great. Things may not go to plan. And that's fine as well. We are very comfortable with sharing the work that we're doing, because we believe in it and we believe that, you know, it's the direction that the department's going in. And communication is key."
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper"
+        },
+        {
+            "text": "Thanks, Gavin. And I think you're absolutely right. Communication is at the heart of this. And when we created Shared Channels Experience, I think there was a lot of communication that we had to resolve, because you know, we'd never had a department like us before. So people asked lots of questions around why do you have a directorate? What's your role? What's your remit? Are you here to take work from us? So there was a lot of, you know, culture change. And we always talk about that, don't we, in terms of technology is just one part. The bigger challenge always is the culture shift. So one of the kinds of challenges I would call out for us has definitely been around the sheer scale, as Gavin touched on, it's all needs for all users, that we get a lot of interest in our work. So sometimes, you know, we get crowded by what our boss Cheryl calls enthusiastic amateurs. So, lots of people really well intentioned want to get involved. And you know, they've not done this work before. So lots of people have an opinion on what the right thing to do is for our users. Lots of people come to our show and tells so we get around 120, I would say, on average, and people dialling in each fortnight to pretty much all of the themes of work that we cover from customer experience to colleague experience, and some of the work we're doing around tooling as well."
+        },
+        {
+            "text": "So it's great that we have that level of interest, but we're also pushing lots of boundaries. And we're challenging a very kind of standard culture that we've had for a long time. And in doing that, we get lots of queries. Are you doing the right thing? Do really know enough about what you're doing? And so part of our response to that has been all around, you know, the experimentations, I touched on before to really show well, look, we don't know what the right answer is, because you know, we've not done this before. But we're just going to test and we're going to learn and we're going to share the outcomes of that. And that will help guide us to a healthy place. And I think some of our other challenge has been around, you know, it's not just that we haven't done this, but other government departments haven't done this in the same way."
+        },
+        {
+            "text": "So we've been looking into our close friends in HMRC. And we've talked to them a lot about their approach. But I think you know, we touched on this idea of dynamic journeys, and that's where I'm just not sure other people have really got to grips within government for dynamic journeys."
+        },
+        {
+            "text": "So we've been looking outside of government and we've been learning from other organisations like banks. So they're very different to us, in lots of ways, but they are large organisations. They do have multiple products offered to a single or a joint customer. So in some ways, you know, there are key things we can learn about the experience across those. And we're also you know, looking into different types of online accounts for example. So, you know, why would people use an account? What would they get from that? So we're trying all the time to think about, you know, apps, different types of ways that customers interact with us. But we're doing that in a very user centred way. We're understanding the needs of our users. And then we're trying to apply that to technology because Gavin will know, we get a lot of, can I have an app? Or can I have a customer account? Or can I have an online portal. We use lots of language across DWP. So it's just trying to help basically everyone who has an interest and unfortunately, when I say everyone who has an interest, that is pretty much everyone who works for the department, so we try to do it, like I say, in safe ways."
+        },
+        {
+            "text": "We try and learn get evidence, insight that we can communicate and share back. And I think that gives us the legitimacy and also helps us build trust, the stakeholders, you know, know we\u2019re approaching things in the right way. They can see that were really taking the time to understand the problems and the users. And that when we come up with some solutions it\u2019ll be based on very clear evidence and learning, which for me, has been the key thing. So you know, that's been really my key top tip for anyone, when you're working on something complex is that, you know, evidence is your friend always."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So how does our approach compare to other organisations across the public and private sector? Do they have similar teams and programmes in place?"
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "A lot of large organisations are still on their journey on providing either a better customer experience, providing better customer service, providing a better offering to user needs, for instance.\u00a0 You know, it's only been in recent years that service design as a thing is being talked about more within our industry than any other kind of job title, for instance, or even job title, way of doing design. User experience was the thing that was used prior to that, even though there was services being done on a on a sub level, kind of hidden out of the way of user experience\u2019s view. But I think everything around this kind of answer revolves around maturity. You've got to think that it was only five years ago, just over, that I joined the department. And we began our digital transformation around that time, I think was only about six months prior."
+        },
+        {
+            "text": "So whilst five to six years sounds like a very long time, we have to think about where we were then and where we are now. We are a massively different organisation and there has been significant change, both in terms of who our leaders are, where we are with our kind of professional maturity, the skills, the amount of people that we have in order to do the job that we're trying to do. So I think our approach now is equal to our maturity, which is either more mature or less than other organisations like us in terms of size and scale. There aren't many organisations equal to our size, in the way that we operate and our offering. If not, there may not be there may just be in other kind of governments in other parts of the world, for instance. So I think whilst we may still have a lot of maturing to do, but that's totally normal. And no organisation can stay at the same maturity level, through its lifespan, if that makes sense. I think more importantly, around that, it's how we do it, and what we do with it that counts."
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper"
+        },
+        {
+            "text": "So we do a lot of work around what we call digital propensity. And we have some amazing analysts. And for me, that's one of the most exciting things about DWP Digital is, you know, the access to some amazing analysts like, I've never seen in local government. And we know the demographics of the people we're dealing with. We know how likely they are to take or buy digital services. And we can model that."
+        },
+        {
+            "text": "So we know that, you know, we're dealing with people, a large percentage of our users across some service lines need assisted digital more heavily than others. So for me, whatever we do and whatever the solutions are, to creating a better customer experience, tey have to really reflect that. And I don't think you see that diversity as much in other organisations where you have such a big range from very digitally confident users to very, very, I suppose, unconfident users and people who heavily rely upon different types of support."
+        },
+        {
+            "text": "So, how do we make sure that we support them. It just doesn't feel like one size can fit all. So the big thing we've always said is that we'll create channels and give people choice to choose the channel that that suits them. And we will try and make our digital services as brilliant and as simple as possible to encourage people to go down that route. But we will also give a helping hand to those who need it. And we're happy to give one to one support to those who have more complex needs or a more complex case that needs that human interaction. And I don't think there are other government departments or even other organisations who have that diversity that we have to manage. So as Gavin said, we can take bits from some people. But I don't think there's anybody looking at the same sort of challenges as us."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money "
+        },
+        {
+            "text": "If one of our listeners was thinking about starting their own Shared Channels department, what advice would you give them? What do they need to think about when approaching something like this?"
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "Wow, right, how long have we got? Regardless of the name, I think, if you or your organisation want to increase the likes of reusability, bring about more shared parts of the organisation and really take a whole view, it will be one of the biggest things that you'll ever do. But it's also the most important like I\u2019ve mentioned. It'll be the biggest challenge. Larger organisations aren't created over days, generally, they've been around for 10, or 100 years or more. With anything of that age, culture usually becomes quite heavily embedded in its own kind of structure. So the shift in culture generally has to happen from the very top of the org all the way to the bottom."
+        },
+        {
+            "text": "The organisation has to be open and vulnerable to look at itself in a true light, and not really shying away from what it might see when it starts looking at things and switching the lights on and maybe looking under a few rugs. Because I think it's really important to get that baseline of this is the position that we're in. And this is where we have to start, because everybody has to start somewhere. In terms of the setup, I think it's a matter of determining what things should be and can be shared across the organisation, and putting in the right levels of experience in those things, making sure that all of the professions that should work together do work together, for instance. And the pro things of all of this should make the customer user experience better. As well as increasing the reusability within your organisation and doing the legs of reducing spend, creating efficiencies than you've probably ever had. But it does need to be carefully managed, because you've got to measure things in the right way. And hopefully, you do set up those measurements in advance. Because if you don't start in advance, you don't really know what you're measuring at the end. So the top tips, I think, from me, I mentioned one of them a little bit earlier on. So empowerment and strategy. If you have the strategy and make sure the people involved have the empowerment towards that, and the accountability, because that's important, too, to get the things that need doing done, do that. Focus on empowerment and strategy and obviously the other one that we've mentioned today, which is the communication as well."
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper"
+        },
+        {
+            "text": "Yeah, and I think for me, building on what Gavin said, it's really been about being brave enough to acknowledge that you don't have all the answers. So when we create Shared Channels, I think it would have been, you know, an unhealthy position for us to be in to say, this is exactly what we're here to do. This is exactly what we're going to find out and exactly what we're going to create in the future. Instead, we just said, well, let's start at the very beginning. So we asked ourselves lots of fundamental questions like, where is the customer experience today? What do we know about that? What can we prove about that? And we really started to gather data. So some of it was held within the department itself. So in teams that it had just never been surfaced, or did certainly never been acted upon. Some of it, we knew there were gaps."
+        },
+        {
+            "text": "So we said, right, let's do some primary research. Let's speak to users now. And let's, you know, get this evidence together and not being scared to ask some really pretty obvious questions. So, once we got the real data and insight, I suppose we shifted the conversation away from, back the point of enthusiastic amateurs of you know, I think or I feel to, I know, and I can prove, because here it is, and here's the evidence. So I think, you know, having that bravery has put us in a much better place to have a solid foundation for the future now. And that's really helped us. But I think the other thing for me was around investing and creating the right team."
+        },
+        {
+            "text": "So as Gavin said, you know, I really wanted to Gavin to be part of the team, because I knew we had the experience and the enthusiasm. I think what we found between Gavin and I is that you have to be comfortable with a certain level of ambiguity. And not everybody is. So being really, you know, clear about it I think. We've got some team members who've joined us and not enjoyed that ambiguity. So they often ask, what's the strategy? What's the plan? What are we going to build in the next sort of two, three months? And I'll always answer them honestly to say, well, we just don't know yet. So I think having a level of ambiguity but showing people how we're going to get to where the answer is. So being clear about what's the strategy to get to the strategy has been important. And I think, you know, making sure that you have the right team around you who understand that we're at the very start of the big journey, and that there are some fundamental things we have to get right before we can just start to build services. That's been really key for success for me. And I think you know, that will be a key takeaway I would imagine for lots of new departments or directorates setting up."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So just before we end, what's next in the pipeline for you and your team?"
+        },
+        {
+            "heading": 3,
+            "text": "Fay Cooper "
+        },
+        {
+            "text": "Yes, so we've got lots of exciting things coming up next. So we're building out our roadmap now and we\u2019re pushing on with our customer and colleague experiments. So our experiments are due to conclude in June time, for one and August for another. So I think once we've got the conclusion to that work will really have a sense of what are the first real MVPs we could build to start to make some digital improvements for colleagues and customers. And I think that will be a real shift for us. I think the other big thing will be around measuring customer experience."
+        },
+        {
+            "text": "So we're just about to kick off some work around how do we measure customer experience, and that's a massive thing in itself across the department. How do we measure it? So, we want to be data driven. We need to baseline where the experience is today. We're looking at different ways of measuring across all channels, and in real time. So we've got a real big driver from our operational colleagues at the moment to get to a place where we can give them data sets that allow them to make actionable change in a day to day setting, which is really exciting. And it's something we've never embarked on at this scale before."
+        },
+        {
+            "text": "So that's kind of our next plan for the next year, from a product side. So lots of work, but particularly the data work is really, you know, paving the way for huge change across the department,"
+        },
+        {
+            "heading": 3,
+            "text": "Gavin Elliott"
+        },
+        {
+            "text": "We'll be continuing our work on the design strategy, for sure, I think, everything Fay\u2019s just mentioned, and everything that's in the design strategy is so intertwined, because essentially it covers off all elements of customer experience, you know, we've got to make the department or help the department work better, in order to provide a better customer experience. We need to measure customer experience to know where we're going right or wrong. And then equally doubling back and seeing what service offering we have, seeing if there's any pain points or challenges, how we can make things better, which you know, you can see that kind of iterative approach to the future."
+        },
+        {
+            "text": "So the design strategy for sure, I think supporting the reusability work going on across the department as well is really important. We need to start enabling all of our kind of service teams that you know, provide such a strong piece of work in terms of all of the different services that we offer, enabling them to spend less time trying to work on the things that are common, we should have one common way across all, for instance, as common as we can possibly get, to this big area there as well. And obviously Fay\u2019s mentioned the discoveries that we're working on in the experiments. And then I think beyond that it's a case of you know, needing to assess the direction of these quite frequently. And we may have to make some tough decisions, we may have to say this isn't going in the right direction. This isn't validated enough to what we'd expect. There isn't enough evidence to say one thing or another. But we have enough evidence to say it may be worthwhile in six months\u2019 time, in a year's time, in two years\u2019 time, when we've got other things that you know where our capability\u2019s built up, for instance."
+        },
+        {
+            "text": "So I think it's making those tough decisions, making sure we know what we know at any given moment in time, understanding if there's anything else that we may need to know, because quite often, especially in such a large organisation, one question can lead to another one. And it's important to know where that threshold is, if we've got enough answers, or we don't. And most importantly, taking those learnings from those questions through to the outputs of either being able to advise service areas or business areas to do things in a different way, advise in the new introduction, for instance of informing and notifying citizens of certain things that are happening from our side to them, for instance, across a whole range of other things that are in the good user experience standard, as well. So doing the research, doing the discoveries, following through with a design strategy, understanding the learnings that we've got and most importantly, getting to those outputs."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So that ends our podcast for today."
+        },
+        {
+            "text": "Hit the subscribe button if you want to make sure you don't miss our next episode and I'd like to thank Fay and Gavin for taking part today."
+        },
+        {
+            "text": "I certainly found our approach to Shared Channels interesting, and I hope you did too."
+        },
+        {
+            "text": "So thanks for tuning in. And I'll see you next time on the DWP Digital's podcast."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

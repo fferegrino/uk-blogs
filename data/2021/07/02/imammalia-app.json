@@ -1,0 +1,70 @@
+{
+    "url": "https://aphascience.blog.gov.uk/2021/07/02/imammalia-app/",
+    "title": "Using applications to help us collect data on wild animals",
+    "authors": [
+        "Graham Smith"
+    ],
+    "categories": [
+        "Surveillance",
+        "Wildlife"
+    ],
+    "pub_date": "2021-07-02T15:54:14+01:00",
+    "content": [
+        {
+            "text": "In this blog Graham Smith, Lead Scientist for Wildlife, describes how APHA has been involved in developing new technology to help experts and the general public monitor mammal populations across Europe, and how you could get involved to build the database of wildlife records."
+        },
+        {
+            "text": "Having robust information on the distribution and abundance of wild mammals is important for conservation and to monitor changes in biodiversity as the climate changes. It is also vital if we want to predict the effects of any exotic disease spreading in wildlife."
+        },
+        {
+            "text": "Easy access to this information is possible through the Global Biodiversity Information Facility (GBIF) which is an international network funded by governments around the world, aimed at providing anyone, anywhere, open access to data about all types of life on the Earth. However, the collection of such data has a strong geographical bias. For example, the records of red foxes, in the image below, show a reduction of records of this ubiquitous species in Eastern and Southern Europe. This is common for many wild mammal records and presents a great difficulty in knowing the distribution and density of species. For example, if you want to understand the risk of diseases such as African Swine Fever spreading in wild boar you need to know where they are."
+        },
+        {
+            "text": "I have been working on an exciting multi-consortium project (funded by EFSA) to design a new mammal recording app, called iMammalia, that was initially released in October 2019 for four pilot countries in Europe: Spain, Germany, Poland and Croatia. This app is designed so that anyone can submit records, both citizen scientists and expert mammologists."
+        },
+        {
+            "text": "Since then, the app is constantly being updated and is now available in the UK and in ten languages including Albanian, Greek, Macedonian and Serbian. We reached a milestone recently with over 10,000 individual records reported from citizen scientists across 30 countries in Europe. Many records are submitted with photos, and each record is verified by experts before being sent to GBIF to make it publicly accessible. There have been some interesting initial results so far such as the app is starting to record the spread of natural invaders like the jackal, and invasive species like the raccoon and raccoon dog."
+        },
+        {
+            "text": "In addition, in a sister project, citizens have collected over 80,000 sequences of camera-trap images across Europe. Many people now own these movement activated field cameras, and the MAMMALNET project aims to collate these into MammalWeb, a Durham-based citizen science initiative."
+        },
+        {
+            "text": "The daily number of iMammalia records submitted did not decline very much during the various European lockdowns, and with the publicity launches associated with the additional languages the number of submissions regularly tops 50 a day, showing our international interest in wildlife."
+        },
+        {
+            "text": "The UK has a number of apps to record different wildlife, but this is the first simple app, available in multiple languages to work across all of Europe. You simply choose which country you are in, and you get a list of possible mammals you may see. Despite the higher number of sightings recorded in Britain (GBIF holds over 83,000 mammal records submitted in 2020) there are still many data gaps, even for common species as people rarely record what they see every day."
+        },
+        {
+            "heading": 3,
+            "text": "Want to get involved?"
+        },
+        {
+            "text": "If you would like to get involved and help contribute to improve European mammal science, please use the mobile app or website, see links below:"
+        },
+        {
+            "text": "The iMammalia\u00a0mobile app is very user-friendly, allowing users to record incidental observations of different species, wherever you are in Europe. You can include photographs of the species or their signs, such as footprints, droppings, and food remains, which makes record validation easier."
+        },
+        {
+            "text": "The MammalWeb application\u00a0allows scientific citizens to easily upload all photos registered in camera traps, always respecting the confidentiality of their precise location. Species can be identified by the public and experts, generating data of great scientific value. Even if you do not own a camera trap, you can still take part and try to identify the images that others have submitted."
+        },
+        {
+            "heading": 3,
+            "text": "To find out more"
+        },
+        {
+            "text": "\u00a0For further information on the MAMMALNET project, you can visit their website."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "url": "https://food.blog.gov.uk/2021/09/06/strategic-surveillance-and-food-signal-prioritisation/",
+    "title": "Strategic surveillance and food signal prioritisation",
+    "authors": [
+        "Jes\u00fas Alvarez-Pi\u00f1era, Head of Data"
+    ],
+    "categories": [
+        "Our mission",
+        "Science"
+    ],
+    "pub_date": "2021-09-06T11:30:42+01:00",
+    "content": [
+        {
+            "text": "Cymraeg"
+        },
+        {
+            "text": "Jes\u00fas Alvarez-Pi\u00f1era, Head of Data, provides insight on the development of the Signal Prioritisation dashboard, a horizon scanning application that proactively identifies emerging global food safety hazards that may pose a risk to public health in the UK."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "We are pleased to announce that the FSA\u2019s Strategic Surveillance team has been shortlisted for the Food and Drink Federation\u2019s (FDF) Digital Transformation award."
+        },
+        {
+            "text": "The nomination is for the Signal Prioritisation dashboard (SPD), a new horizon scanning application that proactively identifies global food, feed and food contact material related signals, for the identification of emerging food safety hazards that may pose a risk to public health in the UK."
+        },
+        {
+            "text": "We thought we\u2019d take this opportunity to tell you a bit more about the team and the work that went into developing the dashboard."
+        },
+        {
+            "heading": 2,
+            "text": "The Strategic Surveillance Service"
+        },
+        {
+            "text": "The Strategic Surveillance Service is a data science team formed in 2017 to strengthen the FSA\u2019s food surveillance arsenal and support its food safety mission."
+        },
+        {
+            "text": "The team develops tools and techniques to turn data into intelligence, using machine learning and artificial intelligence. This helps us and our external users make quicker, better informed, actions to protect consumers."
+        },
+        {
+            "text": "One such in-house developed tool is the nominated Signal Prioritisation dashboard. The FDF awards reward excellence for innovation, competitiveness and talent in the food and drink industry. The nomination recognises the quality of work and collaboration that has driven the project and the dashboard\u2019s potential for the food system."
+        },
+        {
+            "heading": 2,
+            "text": "Risk in the food system"
+        },
+        {
+            "text": "The FSA previously realised that to effectively manage risk in the food system, we needed a mechanism to recognise food, feed and food contact material related risks proactively."
+        },
+        {
+            "text": "We needed this mechanism to be a single repository offering easy access to a variety of sources, with the ability to tailor search queries with filters.\nPrior to the tool being developed, this was a manual, resource-intensive process which carried the risk of signals or indicators not being identified early enough to effectively act upon them."
+        },
+        {
+            "heading": 2,
+            "text": "The Signal Prioritisation dashboard"
+        },
+        {
+            "text": "The SPD is a horizon scanning application which acts as a food safety information system. It consolidates food, feed, and food contact material related signals from over 50 open sources each day into a single access point."
+        },
+        {
+            "text": "A signal can be understood as an 'alert' flagged by a source about a potential or verified food hazard issue in a country. The sources include food agencies, alert systems, and media sources."
+        },
+        {
+            "text": "The SPD automatically extracts, translates (where the source is a foreign language website), cleans and standardizes the data. It classifies the signals based on hazard severity and delivers it to end users through a user-friendly dashboard."
+        },
+        {
+            "text": "The dashboard complements existing ways of working through making greater use of data in identifying existing, new, and emerging risks."
+        },
+        {
+            "heading": 2,
+            "text": "Identifying trends and food signals"
+        },
+        {
+            "text": "The tool is made of 4 key tabs that help to better understand food risks:"
+        },
+        {
+            "heading": 2,
+            "text": "Challenges to developing the SPD"
+        },
+        {
+            "text": "There were two key challenges we faced when building the SPD:"
+        },
+        {
+            "text": "The SPD monitors many EU competent authority websites such as those of Germany, France and Denmark. As these competent authorities\u2019 websites do not publish recalls and other alerts in English, the technical solution for SPD required them to be translated to be able to standardise the data with other sources."
+        },
+        {
+            "text": "This required a lot of effort to develop a real-time custom translation engine to extract key information such as product, hazard and manufacturer details in a consistent format. The translation engine had to go through many iterations to accurately translate and interpret the key information."
+        },
+        {
+            "text": "The way in which different teams regard hazard severity also differs in certain aspects. What one team may regard as high severity, another may classify as \u2018medium to high\u2019. These differences in treatment of hazards required collaboration and joint working, before a mutually acceptable set of rules could be arrived at."
+        },
+        {
+            "text": "This made the flexible nature of the tool all the more important, so that users will continue to have the option for modifying the rules as well as for adding new rules based on the evolving nature of the food system."
+        },
+        {
+            "heading": 2,
+            "text": "Impact of SPD for the food system"
+        },
+        {
+            "text": "The SPD provides users with complete transparency and control over the data sources and the logic used for the prioritisation of signals. It dramatically improves our overview of food safety issues which may affect the UK."
+        },
+        {
+            "text": "The SPD has reduced our dependency on third-party systems and has resulted in significant annual savings. We have also observed occurrences of SPD reporting signals a week before other third-party systems."
+        },
+        {
+            "text": "Having this earlier notification is invaluable to those analysing strategic, tactical, and operational issues and trends, and for those organising interventions. The SPD has proven itself to be one of the key tools in our ability to responding to major events such as EU Exit and COVID-19."
+        },
+        {
+            "heading": 2,
+            "text": "The future of SPD"
+        },
+        {
+            "text": "Openness and transparency are key pillars of how the FSA operates as a food regulator."
+        },
+        {
+            "text": "We publish a lot of collected information as open data and in the same spirit, we want to offer access to the SPD to prospective interested users outside of the FSA. We are currently working with our Information Management, Security and Legal teams to ensure we have the right governance, data security and privacy safeguards in place to open access to external users."
+        },
+        {
+            "text": "We believe this will be a steppingstone for increased data sharing between the FSA and the other entities, with the common objective of reducing global food risks."
+        },
+        {
+            "heading": 1,
+            "text": "Gwyliadwriaeth strategol a blaenoriaethu arwyddion bwyd"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Mae\u2019n dda gennym gyhoeddi bod T\u00eem Gwyliadwriaeth Strategol yr Asiantaeth Safonau Bwyd (ASB) wedi cyrraedd y rhestr fer ar gyfer gwobr Trawsnewid Digidol y Ffederasiwn Bwyd a Diod (FDF)."
+        },
+        {
+            "text": "Rydym wedi\u2019n henwebu ar gyfer y dangosfwrdd Blaenoriaethu Arwyddion (SPD), cymhwysiad sganio\u2019r gorwel newydd sy\u2019n nodi arwyddion sy\u2019n gysylltiedig \u00e2 bwyd, bwyd anifeiliaid a deunyddiau \u00e2 ddaw i gysylltiad \u00e2 bwyd byd-eang mewn modd rhagweithiol er mwyn canfod peryglon diogelwch bwyd sy\u2019n dod i\u2019r amlwg ac a allai beri risg i iechyd y cyhoedd yn y Deyrnas Unedig (DU)."
+        },
+        {
+            "text": "Roeddem yn meddwl y byddem yn manteisio ar y cyfle hwn i ddweud ychydig yn rhagor wrthych chi am y t\u00eem a'r gwaith a wnaed i ddatblygu\u2019r dangosfwrdd."
+        },
+        {
+            "heading": 2,
+            "text": "Y Gwasanaeth Gwyliadwriaeth Strategol"
+        },
+        {
+            "text": "Mae\u2019r Gwasanaeth Gwyliadwriaeth Strategol yn d\u00eem gwyddor data a ffurfiwyd yn 2017 i gryfhau gallu gwyliadwriaeth bwyd yr ASB, a chefnogi ei chenhadaeth diogelwch bwyd."
+        },
+        {
+            "text": "Mae'r t\u00eem yn datblygu offer a thechnegau i drosi data yn ddeallusrwydd, gan ddefnyddio dysgu peirianyddol a deallusrwydd artiffisial. Mae hyn yn ein helpu ni a'n defnyddwyr allanol i gymryd camau gweithredu cyflymach, mwy gwybodus i ddiogelu defnyddwyr."
+        },
+        {
+            "text": "Un o\u2019r cyfryw offerynnau a ddatblygwyd yn fewnol yw'r dangosfwrdd Blaenoriaethu Arwyddion, sydd wedi cael ei enwebu. Mae\u2019r FDF yn gwobrwyo rhagoriaeth mewn arloesi, cystadleurwydd a thalent yn y diwydiant bwyd a diod. Mae\u2019r enwebiad yn cydnabod ansawdd y gwaith a\u2019r cydweithredu sydd wedi gyrru\u2019r prosiect, a photensial y dangosfwrdd ar gyfer y system fwyd."
+        },
+        {
+            "heading": 2,
+            "text": "Risg yn y system fwyd"
+        },
+        {
+            "text": "Er mwyn rheoli risg yn y system fwyd yn effeithiol, sylweddolodd yr ASB fod angen mecanwaith arnom i gydnabod risgiau sy\u2019n gysylltiedig \u00e2 bwyd, bwyd anifeiliaid a deunyddiau \u00e2 ddaw i gysylltiad \u00e2 bwyd mewn modd rhagweithiol."
+        },
+        {
+            "text": "Roedd angen i'r mecanwaith hwn fod yn storfa unigol a oedd yn cynnig mynediad hawdd at amrywiaeth o ffynonellau, gyda'r gallu i deilwra ymholiadau chwilio gyda hidlwyr."
+        },
+        {
+            "text": "Cyn i'r offeryn gael ei ddatblygu, roedd hon yn broses a wnaed \u00e2 llaw, un ddwys ei defnydd ar adnoddau lle\u2019r oedd risg na fyddai arwyddion neu ddangosyddion yn cael eu nodi'n ddigon cynnar i allu gweithredu\u2019n effeithiol arnynt."
+        },
+        {
+            "heading": 2,
+            "text": "Y Dangosfwrdd Blaenoriaethu Arwyddion"
+        },
+        {
+            "text": "Mae'r SPD yn gymhwysiad sganio\u2019r gorwel sy'n gweithredu fel system gwybodaeth diogelwch bwyd. Mae'n cydgrynhoi arwyddion sy\u2019n gysylltiedig \u00e2 deunydd bwyd, bwyd anifeiliaid a deunyddiau \u00e2 ddaw i gysylltiad \u00e2 bwyd o dros 50 o ffynonellau agored bob dydd yn un pwynt mynediad."
+        },
+        {
+            "text": "Gellir deall arwydd fel 'rhybudd' sydd wedi'i nodi gan ffynhonnell mewn perthynas \u00e2 mater perygl bwyd posib, neu un sydd wedi ei gadarnhau, mewn gwlad benodol. Mae'r ffynonellau'n cynnwys asiantaethau bwyd, systemau rhybuddio, a ffynonellau\u2019r cyfryngau."
+        },
+        {
+            "text": "Mae\u2019r SPD yn echdynnu, cyfieithu (lle bo\u2019r ffynhonnell yn wefan mewn iaith dramor), glanhau a safoni\u2019r data yn awtomatig. Mae\u2019n dosbarthu\u2019r arwyddion ar sail difrifoldeb y perygl, ac yn eu cyflwyno i ddefnyddwyr trwy ddangosfwrdd hawdd ei ddefnyddio."
+        },
+        {
+            "text": "Mae'r dangosfwrdd yn ategu'r ffyrdd cyfredol o weithio trwy wneud defnydd mwy ar ddata wrth nodi risgiau cyfredol, risgiau newydd a risgiau sy'n dod i'r amlwg."
+        },
+        {
+            "heading": 2,
+            "text": "Nodi tueddiadau ac arwyddion bwyd"
+        },
+        {
+            "text": "Mae'r offeryn yn cynnwys 4 tab sy\u2019n helpu i ddeall yn well risgiau bwyd:"
+        },
+        {
+            "heading": 2,
+            "text": "Heriau i ddatblygu'r SPD"
+        },
+        {
+            "text": "Roedd dwy her allweddol yn ein hwynebu wrth adeiladu'r SPD:"
+        },
+        {
+            "text": "Mae'r SPD yn monitro llawer o wefannau awdurdodau cymwys yr Undeb Ewropeaidd, fel y rheiny yn yr Almaen, Ffrainc a Denmarc. Gan nad yw gwefannau'r awdurdodau cymwys hyn yn cyhoeddi hysbysiadau galw yn \u00f4l a rhybuddion eraill yn Saesneg, roedd datrysiad technegol ar gyfer yr SPD yn gofyn am eu cyfieithu er mwyn gallu safoni\u2019r data \u00e2 ffynonellau eraill."
+        },
+        {
+            "text": "Roedd hyn yn gofyn am lawer o ymdrech i ddatblygu peiriant cyfieithu amser real i echdynnu gwybodaeth allweddol fel cynnyrch, perygl a manylion y gwneuthurwr mewn fformat cyson. Roedd yn rhaid i'r peiriant cyfieithu fynd trwy lawer o iteriadau i gyfieithu a dehongli'r wybodaeth allweddol yn gywir."
+        },
+        {
+            "text": "Mae'r ffordd y mae gwahanol dimau yn ystyried difrifoldeb peryglon hefyd amrywio mewn rhai ffyrdd. Gallai\u2019r hyn a ystyrir yn berygl \u00e2 difrifoldeb uchel gan un t\u00eem gael ei ystyried yn berygl \u00e2 difrifoldeb \u2018canolig i uchel\u2019 gan d\u00eem arall. Roedd y gwahaniaethau hyn wrth drin peryglon yn gofyn am gydweithredu a chydweithio cyn y gellid cyrraedd set o reolau a oedd yn dderbyniol i'r ddwy ochr."
+        },
+        {
+            "text": "O ganlyniad i hyn, roedd natur hyblyg yr offeryn yn bwysicach byth, fel y gallai defnyddwyr barhau i gael yr opsiwn i addasu\u2019r rheolau, yn ogystal ag ychwanegu rheolau newydd yn seiliedig ar natur esblygol y system fwyd."
+        },
+        {
+            "heading": 2,
+            "text": "Effaith yr SPD ar y system fwyd"
+        },
+        {
+            "text": "Mae'r SPD yn rhoi tryloywder a rheolaeth lwyr i ddefnyddwyr dros y ffynonellau data a'r rhesymeg a ddefnyddir i flaenoriaethu arwyddion. Mae'n gwella yn sylweddol ein trosolwg o faterion diogelwch bwyd a allai effeithio ar y DU."
+        },
+        {
+            "text": "Mae'r SPD wedi lleihau ein dibyniaeth ar systemau trydydd parti ac wedi arwain at arbedion blynyddol sylweddol. Rydym hefyd wedi gweld achosion lle mae\u2019r SDP wedi adrodd am arwyddion wythnos cyn systemau trydydd parti eraill."
+        },
+        {
+            "text": "Mae cael yr hysbysiad cynharach hwn yn amhrisiadwy i'r rheiny sy'n dadansoddi materion a thueddiadau strategol, tactegol a gweithredol, ac i'r rhai sy'n trefnu ymyriadau. Mae'r SPD wedi profi ei fod yn un o'r arfau allweddol yn ein gallu i ymateb i ddigwyddiadau mawr fel Ymadael \u00e2\u2019r UE a COVID-19."
+        },
+        {
+            "heading": 2,
+            "text": "Dyfodol yr SPD"
+        },
+        {
+            "text": "Mae didwylledd a thryloywder yn sylfaenol i\u2019r modd y mae\u2019r ASB yn gweithredu fel rheoleiddiwr bwyd."
+        },
+        {
+            "text": "Rydym yn cyhoeddi llawer o wybodaeth a gasglwyd fel data agored, ac yn yr un modd, rydym am gynnig mynediad at yr SPD i ddarpar ddefnyddwyr sydd \u00e2 diddordeb ynddo y tu allan i'r ASB. Ar hyn o bryd rydym yn gweithio gyda'n timau Rheoli Gwybodaeth, Diogelwch a Chyfreithiol i sicrhau bod gennym y mesurau diogelwch llywodraethu, diogelwch data, a phreifatrwydd cywir ar waith i ehangu mynediad agored i ddefnyddwyr allanol."
+        },
+        {
+            "text": "Credwn y bydd hyn yn gam tuag at fwy o rannu data rhwng yr ASB a'r endidau eraill, gyda'r nod cyffredin o leihau risgiau bwyd byd-eang."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/06/10/a-day-in-the-life-of-a-gds-site-reliability-engineer-sre/",
+    "title": "A day in the life of a GDS Site Reliability Engineer (SRE)",
+    "authors": [
+        "Jonathan Harden - Senior Site Reliability Engineer, Government Digital Service"
+    ],
+    "categories": [
+        "People and skills"
+    ],
+    "pub_date": "2022-06-10T14:29:06+01:00",
+    "content": [
+        {
+            "text": "Site Reliability Engineers - or SREs - are primarily responsible for ensuring that the services provided by the UK Government (GOV.UK Pay, in my case) are working, continue to work, and that we spot problems prior to them developing into incidents."
+        },
+        {
+            "text": "There are a variety of ways this is accomplished: monitoring the current health and predicting the future health of the live service is only a small part of this. We also build the tooling and pipelines that help developers improve the service rapidly and safely, providing safety nets so that both the developers\u2019 confidence in making changes is improved, and the changes that are made are safer to deploy."
+        },
+        {
+            "heading": 2,
+            "text": "A typical day"
+        },
+        {
+            "text": "At the Government Digital Service (GDS) we enjoy a good work life balance, and a great part of this is the availability of flexible working. I tend to start earlier than most people so I have a quiet period leading up to the daily stand-up meeting. This means typically I will work on current project work from around 8am to 9.50am, when we have our team stand-up."
+        },
+        {
+            "text": "Some of the recent projects we have worked on as a team are:"
+        },
+        {
+            "text": "When approaching projects we often do a few exploratory pieces of work (known as spikes) early on to get a good understanding of where the difficulties may lie, to try and reveal any unknowns, and to test our designs before doing a fully robust and well-tested production build. This lets us iterate quickly towards our current goal and get a clearer view of which parts of the project might be more challenging."
+        },
+        {
+            "text": "At GDS we work in an agile manner, within most teams part of this is having a daily stand-up meeting. So at 9.50am our team has a stand-up where we have a very quick look to see if anything needs signing off, requires reviews, or is totally blocked. The stand-up continues and we each mention what we did the previous day and what we are planning to do on the current day, this also gives us a chance to ask for help or reveal any potential problems we have found."
+        },
+        {
+            "text": "After stand-up there\u2019s usually a few more hours to continue working on the project work before lunch."
+        },
+        {
+            "text": "Many teams have some days a week which are no meeting days, so the afternoon will either be a solid block of time to get into your project work without interruptions, or a chance to go to one of the community meetings as well as continuing with your current project."
+        },
+        {
+            "text": "There\u2019s also plenty of opportunity to present new ideas, or questions you might have to GDS\u2019 communities which could need a wider discussion. These meetings often happen in the afternoons and give you a good chance to connect with your peers."
+        },
+        {
+            "heading": 2,
+            "text": "Community and collaboration"
+        },
+        {
+            "text": "There are many communities within GDS: communities for Java, NodeJS, Golang, accessibility, content, and site reliability engineering among others. These communities tend to have get-togethers regularly as well as their own digital communications channels where you can ask for advice from other members of the community."
+        },
+        {
+            "text": "Attending either the weekly infrastructure meeting or an SRE community meet is an enriching experience where you can hear about what other work is happening around the Cabinet Office, any challenges people might be facing, and if any incidents might have occurred and what we can all learn from them."
+        },
+        {
+            "heading": 2,
+            "text": "Learning"
+        },
+        {
+            "text": "GDS really helps people to work towards their career goals, so I\u2019ll often finish off a day by spending some time using one of the e-learning platforms available to us. I\u2019ll refresh my knowledge on an area of interest or work, working towards a future goal, such as attaining a new certification or refreshing an existing one."
+        },
+        {
+            "text": "One of the driving factors that led to me joining GDS was knowing that work is done with space for learning, with time to investigate and develop the appropriate solution - not necessarily the quickest in the short term but the most robust and appropriate long term. This space affords me the opportunity to grow as a professional and to deliver the best possible solution for the public which is accessible, robust, and delivers value."
+        },
+        {
+            "heading": 2,
+            "text": "Could this be a career for you?"
+        },
+        {
+            "text": "If you\u2019re passionate about helping to transform government services, why not join us? GDS don\u2019t follow tech standards, we set them, leading on the once in a generation transformation of government services. If you think you\u2019d be a good fit you can find out more information on the GDS careers site."
+        }
+    ]
+}

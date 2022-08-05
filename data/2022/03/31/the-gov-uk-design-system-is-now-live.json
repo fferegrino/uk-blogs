@@ -1,0 +1,76 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/",
+    "title": "The GOV.UK Design System is now live",
+    "authors": [
+        "Trang Erskine, Senior Product Manager, Government Digital Service"
+    ],
+    "categories": [
+        "Digital Service Platforms",
+        "Service design",
+        "Transformation"
+    ],
+    "pub_date": "2022-03-31T11:00:49+01:00",
+    "content": [
+        {
+            "text": "At the end of last year, the GOV.UK Design System passed the live assessment and officially became a live service."
+        },
+        {
+            "text": "Becoming a 'live' service shows that the GOV.UK Design System is a mature, sustainable product that our users can rely on, and it will continue to be iterated and improved upon. It hasn't dramatically changed what the team's been doing, though it reassures us that we're building our product in the right way. The live assessment has been a great opportunity to have a panel of experts in their fields, our peers, review our work as it's difficult to see the whole picture when you're working in the thick of it. It also gives us an opportunity to reflect on how we've developed the GOV.UK Design System."
+        },
+        {
+            "text": "Getting to live status represents the hard work the team, both past and present, have put into the GOV.UK Design System over the years. Both the team and the GOV.UK Design System have evolved and now is a good time for us to reflect on what we\u2019ve achieved so far \u2014 and what else is still to come."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned from the live assessment?"
+        },
+        {
+            "text": "While we were quietly confident in the product we'd built, we were also apprehensive as we prepared for the live assessment."
+        },
+        {
+            "text": "As it turns out, we did not pass our live assessment the first time. The assessment panel told us we did not meet the criteria in the Service Standard to 'Define what success looks like and publish performance data'. In particular, they identified gaps in how our team measured website usage, used data to complement qualitative research and improved our knowledge of the wider potential market."
+        },
+        {
+            "text": "We were definitely disappointed, but the assessment was helpful in telling us what we needed to work on. Specifically, it confirmed the need for us to bring in a performance analyst onto the team to properly measure performance."
+        },
+        {
+            "text": "Fortunately, it was something we'd been looking at and had already brought one on to the team that same month. So we had what we needed to pass the assessment the next time around, it was mostly a matter of priority."
+        },
+        {
+            "text": "The assessment report helped confirm that we were on the right path to build up our performance analytics and make sure they fed into our decision making processes. We also received helpful recommendations from the panel to make further improvements to the GOV.UK Design System. We're already working on improving some of these issues."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s changed?"
+        },
+        {
+            "text": "The GOV.UK Design System contains styles, components and patterns to help teams in government create user-centred digital services."
+        },
+        {
+            "text": "Since its launch in 2018, we've:"
+        },
+        {
+            "text": "Everything in the Design System is thoroughly documented and tested, to make sure that it's as useful, usable and accessible as possible. In fact, pages on GOV.UK built with the Design System download about twice as fast as those that haven't, as they use about half as much code."
+        },
+        {
+            "text": "Many of the improvements to the Design System are made by our users, who regularly contribute work back into the Design System, so that everyone can benefit from it."
+        },
+        {
+            "heading": 2,
+            "text": "What have we learnt along the way?"
+        },
+        {
+            "text": "The GOV.UK Design System can be a really powerful tool to help teams get services up and running fast. This was exemplified during the start of the pandemic where 52 services were built within weeks, not months, to respond to changing information and policy to help the government provide essential services to citizens. The \"Get coronavirus support as an extremely vulnerable person\" service was built from concept to live service in fewer than 4 days \u2014 it\u2019s estimated this saved the government \u00a310.4m."
+        },
+        {
+            "text": "Throughout the years, we've relied upon the community to support us by sharing their work and feedback with us. In turn, we've also recognised the need to nurture and maintain our community. Last year we hired a community manager specifically to help us do this. We've started hosting co-design workshops with the community to progress some tricky components and patterns that hadn't been contributed yet."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Our team has expanded over the past year or so, which means we can start doing some of the things we've always planned to do, but never had the capacity for. Here are some of our highlights for this coming year (or you can look at our roadmap for more details):"
+        }
+    ]
+}

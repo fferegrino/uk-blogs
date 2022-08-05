@@ -1,0 +1,94 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2022/03/17/how-using-transport-location-data-can-improve-air-quality/",
+    "title": "How using transport location data can improve air quality",
+    "authors": [
+        "Josh Dalby, Chief Engineer for Research and Development, Ricardo"
+    ],
+    "categories": [
+        "Technology"
+    ],
+    "pub_date": "2022-03-17T12:52:47+00:00",
+    "content": [
+        {
+            "text": "Location data is fundamental across the transport sector such as helping people travel from A-B in the shortest time frames (or greenest way!), informing operators where their vehicles, vessels and trains are in real-time and enabling local authorities to plan safe active travel routes. Location data will also be crucial for the future of mobility and next-generation transport networks with an estimated \u00a32 billion per annum (reference) to be unlocked from the better use of geospatial data in the transport sector."
+        },
+        {
+            "text": "Last August, the Geospatial Commission was delighted to announce the winners of Phase 2 of its \u00a35m Transport Location Data Competition. Along with Innovate UK, we have supported seven competition winners to bring to life their innovative and future-focused mobility ideas for the UK."
+        },
+        {
+            "text": "These projects cover a range of modes of transport, including on our roads, our rail network, in the maritime environment and active travel such as cycling and walking. They span four challenge areas where geospatial technology has the potential to revolutionise transport in the UK:"
+        },
+        {
+            "text": "Competition winners Ricardo UK Ltd. have developed a solution that optimises geofencing, which is where an action is triggered when an object enters or exits a virtual boundary around a geographical location, to create real change to the environment. They have demonstrated air quality improvements by increasing the effectiveness of low emission zones in Brighton and Hove. We asked\u00a0Josh Dalby to tell us more and to see if they will soon be in a town near you!"
+        },
+        {
+            "heading": 2,
+            "text": "Q: Tell us a bit about you and what your project is about?"
+        },
+        {
+            "text": "A: My name is Josh Dalby, Chief Engineer in Ricardo\u2019s Research and Development (R&D) team. I help with shaping our R&D strategy and applying for funding and delivering projects. Ricardo has a distinguished track record in transport-related R&D.\u00a0"
+        },
+        {
+            "text": "Our project is about using \u201cgeofencing\u201d, where the location of a vehicle is used to change its behaviour, mainly to improve air quality. It encourages more intelligent use of hybrid electric vehicles, which have limited zero-emissions range, to make sure that they have the lowest possible impact on air quality."
+        },
+        {
+            "text": "The project is also improving our RapidAir\u00ae air quality modelling software to be able to integrate seamlessly with traffic simulation. It enables users to model air quality in towns and cities across the world more quickly and easily, supporting the identification of optimised clean air zones that will reduce traffic emissions and consequently improve public health."
+        },
+        {
+            "heading": 2,
+            "text": "Q: How are you delivering your project?"
+        },
+        {
+            "text": "A: Brighton & Hove Buses operates the UK\u2019s first zero-emissions capable geofenced fleet of 54 buses which are fitted with smart onboard technology, allowing them to \u2018sense\u2019 when they are entering an ultra-low emissions zone and automatically switch operation to zero-emissions mode."
+        },
+        {
+            "text": "In our project, we are focusing on optimising this existing fleet so that it can use flexible zones, rather than the current, static, pre-defined zones. We will vary the zones according to the topology of the route being driven, the traffic conditions and the passenger loading.\u00a0"
+        },
+        {
+            "text": "We have tested our new zones in the city of Brighton and demonstrated a 30% improvement in the effectiveness of geofencing to improve air quality, as well as delivering a 7% fuel consumption improvement too, without degrading battery life."
+        },
+        {
+            "heading": 2,
+            "text": "Q: Does your project go beyond public transport?\u00a0"
+        },
+        {
+            "text": "A: Yes! The project is also applying this technology to private fleets of vehicles where automatic control of the vehicle operation is not possible. We have developed a smartphone app that communicates with an onboard diagnostics reader installed in the vehicle. We have demonstrated this system\u2019s effectiveness in influencing the driver to use the electric vehicle mode, reducing emissions within the most sensitive areas of the city."
+        },
+        {
+            "text": "The app records vehicle data and sends it to a data platform in the cloud. Using post-processing and data analytics we are able to identify the optimum geofence zone for each vehicle, based on its geographical usage and capabilities in electric vehicle mode, to have the lowest possible impact on air quality. The optimum zone is pushed out to the app and it notifies the drivers when they are entering and leaving their zone."
+        },
+        {
+            "heading": 2,
+            "text": "Q: What inspired you to enter the competition?"
+        },
+        {
+            "text": "A: Ricardo is well-known as a trusted engineering services provider to the global transport sector. We have previous experience in developing connected control strategies including geofencing. This competition was an opportunity to develop this technology further, specifically working with Brighton & Hove City Council to look at how we can optimise existing use of geofencing and apply it to vehicles without in-built capability cheaply."
+        },
+        {
+            "text": "The use of location data within mobility is increasing more and more, so it made sense for us to be part of this competition. We are very grateful to have received funding for the project from the Geospatial Commission, in partnership with Innovate UK."
+        },
+        {
+            "heading": 2,
+            "text": "Q: What is your aspiration for the project?"
+        },
+        {
+            "text": "A: In this phase of the project, we are demonstrating the benefits of our new solutions. After the second phase of this project, we are looking to roll out and extend the technology to any city in the UK in the short term, and in the longer term, to cities internationally."
+        },
+        {
+            "text": "Oxford has just introduced the UK\u2019s first zero-emission zone. Bath, Birmingham, Bradford, Bristol and Portsmouth have clean air zones. Cities are reviewing their plans considering the pandemic because local lockdowns and travel restrictions have led to noticeable improvements in urban air quality thanks to significantly less traffic in the cities."
+        },
+        {
+            "text": "Local or regional authorities are keen to retain positive environmental benefits. Our aspiration is to develop and demonstrate intelligent and cost-effective solutions and work to apply them with local authorities to achieve improvements in air quality in their cities at a significantly lower cost than other more infrastructure-heavy approaches."
+        },
+        {
+            "heading": 2,
+            "text": "How can people reading get involved?"
+        },
+        {
+            "text": "For anyone leading regional or city public transport operations, taxi, delivery or logistics fleet operators around the UK, we would welcome the opportunity to talk to you about how our geofencing technology could help you reduce your impact on urban air quality. Please contact me at: info@ricardo.com."
+        },
+        {
+            "text": "Sign up for this blog to get an email notification every time we publish a new blog post. For more information about this and other news see our website, or follow us on Twitter and LinkedIn."
+        }
+    ]
+}

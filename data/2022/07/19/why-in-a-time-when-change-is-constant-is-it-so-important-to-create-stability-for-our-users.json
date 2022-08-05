@@ -1,0 +1,66 @@
+{
+    "url": "https://sfadigital.blog.gov.uk/2022/07/19/why-in-a-time-when-change-is-constant-is-it-so-important-to-create-stability-for-our-users/",
+    "title": "Why in a time when change is constant is it so important to create stability for our users?",
+    "authors": [
+        "Gary Tucker"
+    ],
+    "categories": [
+        "Agile",
+        "Apprenticeship service",
+        "Apprenticeships",
+        "Data",
+        "Digital strategy"
+    ],
+    "pub_date": "2022-07-19T12:14:59+01:00",
+    "content": [
+        {
+            "text": "Using customer centric approaches, ways of working, technical innovations and a sound data strategy, we create very accurate payments \u2013 every month. We do the hard work so our users don\u2019t have to. In addition, a model of reuse has enabled us to respond to programme, policy, and ministerial requests to incentivise employers to take on apprentices - a group who we collectively need to protect as we recover and move on from the Covid-19 pandemic."
+        },
+        {
+            "heading": 2,
+            "text": "Being customer focussed"
+        },
+        {
+            "text": "Here at the Apprenticeship Service we have always been customer focused; from the first day that I engaged the first employer onto the first employer digital service, we were committed to understanding their needs and responding to meet them. This is nothing new but all around us is a period of uncertainty and change following the pandemic and for young people it is critical that we create opportunities. Employers being incentivised to create apprenticeship opportunities need to be reassured and trust that payments will be forthcoming and providers who train the apprentices need to be reassured that their payments are accurate."
+        },
+        {
+            "text": "It\u2019s fair to say that payments and the accuracy of payments has been an ongoing priority since the introduction of the Levy in 2017 and since then payments to providers have been honed to an incredibly high accuracy rate of very nearly 100%. We pay \u00a3millions to providers each month and \u00a3billions per year so accuracy is vital."
+        },
+        {
+            "text": "The nature of provider payments means that there is a very short window from providers sending in their data via the ILR at the end of the month, to then being matched to five corresponding bits of data in the employer accounts, to then being paid. Most of the processes have been automated, however millions of lines of code require analysis to determine the payments for each individual learner, which could be around nearly half a million learners a month."
+        },
+        {
+            "heading": 2,
+            "text": "Ways of working"
+        },
+        {
+            "text": "Ways of working are critical to making what is a very technically heavy process work seamlessly. The Digital Team, Product Owner and Business Analyst prioritise the backlog, while the Delivery Manager works closely with the team. Daily stand ups, scrum of scrums, and sprint planning are all critical, as well as product alignment sessions and \u2018theme sessions\u2019 with the Employer Incentive team to share good practice and pass on knowledge to the emerging \u2018sister payments team\u2019. Data Collections and the Apprenticeship Service (two separate parts of the organisation) work closely to ensure month end runs smoothly. Product Owners are in almost daily contact and the Technical Team, including our own apprentice developers and testers, solve any technical issues before they emerge at month end. Every bit of code is tested in an end-to-end replica of the live environment. It\u2019s fair to say this is Agile at scale working across the boundaries of the organisation."
+        },
+        {
+            "text": "Throughout the month, as Service Owner, I have access to real time data through dashboards so that I can see any problems or anomalies in the data being submitted, a very powerful tool to ensure there are no surprises at month end. Final checks are always conducted by business experts before payments are confirmed. The nature of the cloud based, technical innovation means that millions of lines of code are analysed to determine very accurate payments in less than 2 hours end-to-end, this was 14 hours when we first started 4 years ago with far less payments, so we have come a long way."
+        },
+        {
+            "text": "Support is also critical from the Clans (professional communities) and the clan leads. My lead developer runs the \u2018Quality Guild\u2019 a group of leads (lead Developer, tester, devops, architect, security, ethical hacker, and data architect) that solve technical problems and eradicate \u2018Tech debt\u2019 (technical issues that are on the backlog following the MVS releases). They work closely with the service desk to iron out problems in customer experience, and prevent users experiencing problems, either with user interfaces or with payments."
+        },
+        {
+            "heading": 2,
+            "text": "Responding to the Covid-19 pandemic"
+        },
+        {
+            "text": "This model has been honed so effectively that it was used to enable the Service to respond quickly to lessen the impact of the pandemic on potential apprentices by offering employer incentive payments to employers who hire a new apprentice. A delivery team was mobilised in 2 days, the application process was delivered in just 14 weeks and the first payments were out to employers directly (a new capability for the organisation) within 5 months. This was only possible because of the work that the provider payments team had put in. This new funding model, with new business processes, that will pave the way for future capability has now paid \u00a3millions of Employer Incentives and many more millions are in the system. We can also see who has registered, entered an apprenticeship start, and been paid, from being nudged as part of a Campaign through to the call to action as we collect and analyse the data as part of the underpinning data strategy."
+        },
+        {
+            "heading": 2,
+            "text": "Looking forward"
+        },
+        {
+            "text": "The Apprenticeship Service now moves forward to deliver an exciting range of joined up products supported by content on Apprenticeships.gov.uk, service support, a continuous improvement team and build teams with service design, user research, policy and business experts at the heart. Our user researchers have conducted 13,000 user research sessions in 5 years."
+        },
+        {
+            "text": "A remarkable achievement and an achievement which creates a great customer experience and millions of opportunities for Apprentices on Find an Apprenticeship and hundreds of thousands of employers. A Service to be proud of."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

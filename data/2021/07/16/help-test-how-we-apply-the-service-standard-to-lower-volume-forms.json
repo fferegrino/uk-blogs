@@ -1,0 +1,61 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/07/16/help-test-how-we-apply-the-service-standard-to-lower-volume-forms/",
+    "title": "Help test how we apply the Service Standard to lower volume forms",
+    "authors": [
+        "Harry Vos \u2013 Senior product manager, GDS"
+    ],
+    "categories": [
+        "Experimental",
+        "Likely to change",
+        "Service Design",
+        "Service Patterns"
+    ],
+    "pub_date": "2021-07-16T13:34:02+01:00",
+    "content": [
+        {
+            "text": "Since its introduction in 2014, the Service Standard has been used by hundreds of teams across government to run and improve services that deliver on the GOV.UK brand promise of \u201csimpler, clearer, faster\u201d."
+        },
+        {
+            "text": "In 2019, we dropped \u201cdigital\u201d from the name of the Service Standard to extend ambitions from just digital teams to all teams involved in running and improving government services. For the first time, we were seeking to influence operations teams and case workers that run services."
+        },
+        {
+            "text": "Now, we\u2019re extending our ambitions even further by bringing the spirit of the Service Standard to lower volume services that usually can\u2019t afford digital specialists. To achieve this, we want to help operations teams that create and process lower volume forms to deliver on the same brand promise of \u201csimpler, clearer, faster\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re testing these changes"
+        },
+        {
+            "text": "So far, the Service Standard has mostly been used in the context of higher volume services such as Universal Credit or taxing your vehicle. These digital services make up around 4% of services on GOV.UK. The rest are much lower volume \u2014 they typically have fewer than 10,000 transactions per year, and still solely use PDF or other document-based forms to collect information from users. In most cases, these don\u2019t meet the Service Standard. They are usually inaccessible, hard to use and, on average, 8 minutes slower to process compared to online forms. We want to help all services to meet the Service Standard."
+        },
+        {
+            "text": "Meeting the current Service Standard requires a multidisciplinary team. This refers to the various digital, data and technology (DDaT) roles that have the necessary specialist skills to understand how to meet the Service Standard. These teams typically cost around \u00a31 million per year. This approach is great value for higher volume services, where there are big time savings that come from making them easier to use and run."
+        },
+        {
+            "text": "For medium volume services, teams across the cross-government form-building community have continued the work that the GOV.UK Submit team started. There\u2019s now an established model of DDaT teams working with operations teams for between six to ten weeks, using form-building platforms to create simple digital services which meet the Service Standard. This typically costs between \u00a340,000 and \u00a392,500. This approach is great value for medium volume services, where they can\u2019t usually afford a DDaT team for more than a month or two."
+        },
+        {
+            "text": "Unfortunately, most lower volume services with fewer than 10,000 transactions per year can\u2019t afford either of these two approaches. The costs of creating simple digital services usually outweigh the time savings from making them easier to use and run."
+        },
+        {
+            "text": "We heard one story of an operations team that wanted help to become more digital, but then went quiet once they found out the costs. They had no option but to continue running their service using PDF forms attached to emails. We think this is a significant reason why 96% of services on GOV.UK still solely use PDF or other document-based forms to collect information from users, which usually don\u2019t meet the Service Standard."
+        },
+        {
+            "text": "As a result, we\u2019re adapting how we apply the current Service Standard to lower volume services. We hope these changes will enable these services to quickly start using online forms by making sure it is always simple, quick and affordable for operations teams to follow the principles behind the Service Standard. We believe these basic principles should be embedded into form-building platforms which are aimed at people who aren\u2019t DDaT specialists who run services with fewer than 10,000 transactions per year."
+        },
+        {
+            "heading": 2,
+            "text": "What we need help with"
+        },
+        {
+            "text": "We need volunteers to read some draft Service Manual guidance about embedding basic principles from the Service Standard into form-building platforms. We\u2019ll then ask volunteers to try to follow the guidance and give us feedback on both the guidance and any impact it had."
+        },
+        {
+            "heading": 2,
+            "text": "Who can help us"
+        },
+        {
+            "text": "We\u2019re looking for up to three central government departments to participate in this test. In each department, we need people that:"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2021/07/02/developing-accessible-services-its-a-team-sport/",
+    "title": "Developing accessible services: \u2018It\u2019s a team sport\u2019",
+    "authors": [
+        "Accessibility and Digital Inclusion team"
+    ],
+    "categories": [
+        "Accessibility",
+        "Software engineering"
+    ],
+    "pub_date": "2021-07-02T14:41:44+01:00",
+    "content": [
+        {
+            "text": "Join us for our upcoming live event on 27 July to hear about career development opportunities for our software engineers and the roles on offer."
+        },
+        {
+            "heading": 2,
+            "text": "Accessibility is everyone\u2019s responsibility"
+        },
+        {
+            "text": "Building an accessible and inclusive service is everyone\u2019s responsibility and each delivery team member has a part to play. That\u2019s why we\u2019ve started talking more about accessibility being a \u2018team sport\u2019, to recognise that one person alone can\u2019t make a service accessible."
+        },
+        {
+            "text": "People with disabilities may not have the option of picking up the phone, writing a letter or strolling into a branch if the online service doesn\u2019t work for them, and like most government services, they can\u2019t just go to a competitor for an alternative."
+        },
+        {
+            "text": "That\u2019s why software engineers in the Home Office play a pivotal role in ensuring that our services are accessible and inclusive. So it\u2019s really important that they know how to build services that everyone can use."
+        },
+        {
+            "text": "Working collaboratively with software engineers, the Accessibility and Digital Inclusion team have been able to understand potential barriers to accessibility and, working together, come up with innovative ways of overcoming these barriers."
+        },
+        {
+            "heading": 2,
+            "text": "The Home Office Accessibility and Digital Inclusion team"
+        },
+        {
+            "text": "Just saying accessibility is a \u2018team sport\u2019 doesn\u2019t make it a reality though, which is where we, the Accessibility and Digital Inclusion team, come in."
+        },
+        {
+            "text": "We\u2019re a small team of seven, overseeing the accessibility of all Home Office services, both internal and external. We do this by setting standards, providing guidance and carrying out checks to ensure those standards are being met."
+        },
+        {
+            "text": "We work closely with delivery teams to help them embed accessibility from the start rather than leaving it to the end of their projects. This approach means that we can do accessibility as a team, bringing together researchers, software engineers, designers, and testers to deliver an accessible service."
+        },
+        {
+            "heading": 2,
+            "text": "Building an accessible service \u2013 The EU Settlement Scheme"
+        },
+        {
+            "text": "The European Union (EU) Settlement Scheme, which enables EU, European Economic Area (EEA) or Swiss citizens already living in the United Kingdom to gain settled or pre-settled status, is a good example of close collaboration between the Accessibility and Digital Inclusion team and the software engineers who delivered the service."
+        },
+        {
+            "text": "The service is provided through both a mobile app and an online browser, with complex interactions between the two parts."
+        },
+        {
+            "text": "We built a close working relationship with the software engineers from both our Home Office team who worked on browser journeys, and the third party who developed the mobile app. We identified any cracks between the two parts of the service, ensuring users didn\u2019t encounter difficulty accessing the service."
+        },
+        {
+            "text": "One part of this service involved a photo upload from a mobile device to the app, so that users could verify their ID. We worked with the third-party software engineers to make sure the mobile element was as accessible as it could be and then asked our Home Office software engineers to provide a solution that would work for users who were still unable to use mobiles."
+        },
+        {
+            "text": "An innovative way to replicate this part of the journey on the browser side was produced. Users who still couldn\u2019t use a mobile now had an alternative route to upload their ID on the website."
+        },
+        {
+            "text": "We also added a third route that would allow users to supply ID by post or in person to ensure users who weren\u2019t able or willing to use digital methods could access the service."
+        },
+        {
+            "text": "With this sort of holistic view of the service and considering the needs of a wide range of people, we ensured that it was accessible to everyone who needed to use it."
+        },
+        {
+            "heading": 2,
+            "text": "We are recruiting accessibility-aware software engineers"
+        },
+        {
+            "text": "Accessibility is high on government department agendas. The Public Sector Bodies (Website and Mobile Application) Accessibility Regulations 2018 highlights the need to research, design and deliver accessible services for everyone."
+        },
+        {
+            "text": "With almost 90% of UK adults currently online, the internet is rapidly becoming the primary method for the government to deliver its services to the public."
+        },
+        {
+            "text": "As we continue to recruit large numbers of engineers it\u2019s really important that everyone understands accessibility and can be a part of our \u2018team sport\u2019 approach to achieving it."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

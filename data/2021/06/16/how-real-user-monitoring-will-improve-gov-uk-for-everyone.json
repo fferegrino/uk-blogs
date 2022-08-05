@@ -1,0 +1,111 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/06/16/how-real-user-monitoring-will-improve-gov-uk-for-everyone/",
+    "title": "How Real User Monitoring will improve GOV.UK for everyone",
+    "authors": [
+        "Matt Hobbs, Head of Frontend Development at the Government Digital Service (GDS)"
+    ],
+    "categories": [
+        "GDS team",
+        "How we work",
+        "Product changes"
+    ],
+    "pub_date": "2021-06-16T14:23:45+01:00",
+    "content": [
+        {
+            "text": "There are 2 types of website performance testing: synthetic and Real User Monitoring (RUM). Synthetic testing is when parameters are set, such as browser or device used, and then the test is run continually. For example, these tests are run daily on GOV.UK. In contrast, RUM measures the actual performance of a page from actual user devices."
+        },
+        {
+            "text": "While synthetic is helpful for spotting performance regressions and then verifying they are fixed, unless we have a user who specifically matches the parameters we set out, the results are just estimates as to how the site performs for them."
+        },
+        {
+            "text": "However, when testing with RUM, the anonymous performance data gives us insights into a user's experience when they visit GOV.UK. No personal data is captured in this process, and the data is only collected when a user has given consent to the use of cookies on GOV.UK for analytics purposes."
+        },
+        {
+            "text": "From today (16 June 2021) we are starting RUM and here's why it will improve GOV.UK for everyone."
+        },
+        {
+            "heading": 2,
+            "text": "How this data is used"
+        },
+        {
+            "text": "Although anonymous performance data from a user can be helpful in terms of how they experienced GOV.UK and any problems they faced while accessing the content they needed, the real power of this data comes from its aggregate form."
+        },
+        {
+            "text": "A large dataset gives us direct insight into how the site is performing for everyone. This is a great thing because every user is visiting GOV.UK for different reasons. Some may be looking to complete an important life task like registering a birth, marriage or death, while others are looking for guidance on buying a fishing licence."
+        },
+        {
+            "text": "It is simply impossible to test a website of GOV.UK\u2019s size (it hosts half a million pages) using all possible device, browser, and connection combinations. By effectively crowdsourcing this performance data, one user\u2019s poor experience gives us the information we need to understand the reasons why that happened, and thereby improve future experiences for all users. It is very important that we keep striving for better performance in the government service space. Here\u2019s why it matters."
+        },
+        {
+            "heading": 3,
+            "text": "Removing barriers to entry"
+        },
+        {
+            "text": "GOV.UK has a responsibility to ensure that our content is easily accessible to everyone, no matter what their device, connection speed, or where and how they choose to access it. Accessibility is also a legal requirement for public sector organisations, with regulations in place to ensure compliance with Web Content Accessibility Guidelines (WCAG) 2.1 AA. In the case of GOV.UK, the team aims to meet the standard and go beyond it."
+        },
+        {
+            "text": "But what often isn\u2019t considered is how web performance is also a barrier to entry for users. It is in fact a type of accessibility if you take the word at face value: the ability to \u2018access\u2019 data. The quality and optimisation of frontend code is an important factor in the overall experience a user has on a service. That\u2019s why I\u2019ve written about \u2018Why we focus on frontend performance' previously."
+        },
+        {
+            "text": "It would be wrong for us to assume that all users have access to a high-specification device, an unlimited data plan and a stable connection. There are many users in the UK that are on older devices, or on a limited data plan. There\u2019s also data that shows that some people may even struggle to get a connection at all in some rural areas in the UK."
+        },
+        {
+            "heading": 3,
+            "text": "Helping the most vulnerable"
+        },
+        {
+            "text": "In the Office for National Statistics\u2019 2019 report \u2018Exploring the UK\u2019s digital divide\u2019, an increasing proportion of internet non-users are over 65, and across all age groups, disabled adults make up a disproportionately large number of adult internet non-users."
+        },
+        {
+            "text": "It also states that among working age adults a higher proportion of the economically inactive are internet non-users than those who are economically active. Two of the common reasons for not having internet access in the household are that equipment cost is too high (8%) and access costs to a broadband connection is too high (8%)."
+        },
+        {
+            "text": "It is therefore vital that GOV.UK is both available and usable on older (and less expensive) devices, while using connections that aren\u2019t expensive (for example, a limited data plan)."
+        },
+        {
+            "text": "As highlighted on my previous blog post, Ofcom statistics from 2018 show the average monthly mobile data plan in the UK costs \u00a318.36. This plan gives users just 1.9GB of data per month. Given the median mobile page weight across the web is almost 1.9MB, this data allowance does not allow for much browsing."
+        },
+        {
+            "text": "This means some users could be in a position where they can no longer access government services online because they have run out of data."
+        },
+        {
+            "heading": 3,
+            "text": "Reducing user stress"
+        },
+        {
+            "text": "One of the major impacts of poor web performance on a user is stress. Research from Glasgow Caledonian University found participants had to concentrate 50% more when trying to complete a simple task on a badly performing website."
+        },
+        {
+            "text": "Imagine the impact this would have on a user trying to complete an important (potentially complex) task that has a real world impact on their life, for example, arranging child maintenance, registering a death, or applying for a Blue Badge. Especially under these conditions the service needs to be there to support them in this process, not hinder them."
+        },
+        {
+            "heading": 2,
+            "text": "Answering fundamental questions about our users\u2019 experience"
+        },
+        {
+            "text": "We realise that users need to access the important information and guidance that is available on GOV.UK, but there are fundamental questions that we have about users that we\u2019d like to answer to help us iterate and improve our services in the future. These questions include:"
+        },
+        {
+            "text": "Ultimately, using RUM analysis will allow us to understand \u2018what good looks like\u2019 for a government service hosted on GOV.UK. Aggregate user data showing that a high percentage of users have minimal difficulties accessing our content from anywhere in the world, on any device they choose, points to the fact that we are focussing on the correct areas of delivery."
+        },
+        {
+            "text": "A clear definition of \u2018what good looks like\u2019 can then influence the guidance we write and standards we set for services across government."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Gathering this data will prove invaluable in the future, allowing us to make more informed decisions and improve performance for some of the most vulnerable, least digitally-advanced users in society."
+        },
+        {
+            "text": "Over the next 3 to 6 months the data will give us a clear insight into where GOV.UK needs to improve, and inform updates to our roadmap as we move through this financial year. This anonymous aggregated data can be used to facilitate discussions with other government departments and service teams, making sure that all users visiting GOV.UK and related services receive the best experience possible."
+        },
+        {
+            "text": "The work supports our objectives for GOV.UK in 2021 to 2022, specifically: \u201cAlways be available, accessible and accurate\u201d."
+        },
+        {
+            "text": "We will continue to be open and transparent in this process and share updates in future blog posts as to what this data has revealed and how we have used it to improve the services we provide."
+        }
+    ]
+}

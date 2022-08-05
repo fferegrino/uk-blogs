@@ -1,0 +1,65 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/07/14/supporting-the-adoption-of-privacy-enhancing-technologies/",
+    "title": "Supporting the adoption of privacy-enhancing technologies",
+    "authors": [
+        "Dave Buckley",
+        "Damini Satija"
+    ],
+    "categories": [
+        "Data",
+        "Data-sharing",
+        "Responsible innovation"
+    ],
+    "pub_date": "2021-07-14T10:52:03+01:00",
+    "content": [
+        {
+            "text": "As set out in the UK government\u2019s National Data Strategy, the CDEI has been exploring the role of privacy-enhancing technologies (PETs) in enabling trustworthy use of data. PETs have the potential to unlock innovation by enabling valuable data sharing and analysis, whilst protecting the privacy and confidentiality of sensitive data. Privacy-enhancing technologies are a broad field, but our work to date has focused specifically on five emerging technologies: homomorphic encryption, trusted execution environments, secure multi-party computation, differential privacy, and systems for federated data processing."
+        },
+        {
+            "text": "Today, we have published a beta version of our PETs adoption guide, an interactive tool designed to aid decision-making around the use of PETs in data-driven projects. The guide is primarily aimed at technical architects or product owners, and is supported by a repository of real-world use-cases collated through our research. Our goal is to help practitioners think about how these technologies could be useful to them, signpost relevant technical resources and example use-cases, and highlight some of the limitations and challenges of PETs to illuminate where they may not be the most suitable solution. By supporting organisations to adopt PETs effectively, we hope to help unlock data-driven innovation and enable analysis to be conducted in a more privacy-focused way."
+        },
+        {
+            "text": "We will gather feedback on the adoption guide over the next few months and aim to conduct usability tests to maximise its relevance and usefulness to developers and practitioners. We will engage in a diverse, open and broad consultation process to do so. We are also interested in learning about additional real-world examples that could be added to the repository and help support the adoption guide. After incorporating the feedback gathered in this process, we will publish a final version later in the year.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "In the last year, we have seen growing attention to PETs in both practitioner and policy communities across the world. Although there is significant research and development ongoing in the space, adoption remains relatively nascent. The adoption of PETs by organisations may be hindered by low awareness of the technologies, a lack of the expertise required to implement them effectively, or technical limitations. Our work aims to help address these barriers to adoption and prevent potential misuse by building technical know-how and providing organisations with a practical decision-making toolkit for adopting PETs. We believe that when used appropriately and in an environment set up for responsible use of data, PETs can bring about significant benefits."
+        },
+        {
+            "text": "In February, we launched an open call asking for individuals and organisations developing or utilising PETs to share examples of where PETs had been piloted or successfully used in production environments. We engaged with over 50 stakeholders from across industry, academia, and the public sector. Through this exercise we learned of a range of different use-cases for PETs in\u00a0 a number of industries, including finance, healthcare, law enforcement and digital platforms. We complemented this research with a review of PETs in academic, industry and civil society literature."
+        },
+        {
+            "heading": 2,
+            "text": "Using the guide"
+        },
+        {
+            "text": "Building on this research, we set out to develop a tool which will alleviate some of the barriers to adoption in PETs, which we have called the adoption guide. The core component of the adoption guide is a question and answer-based decision tree, which poses a series of questions relating to the sensitivity of data, how it is stored and accessed, and how it is intended to be used. After navigating through the tree, the guide suggests PETs that could provide appropriate solutions, gives information on the practicalities and potential challenges in adopting them, and signposts to relevant technical resources and example use-cases from the repository. The guide aims not to be overly prescriptive, but rather seeks to support decision-making around the use of PETs by helping the user explore which technologies could be beneficial to their use-case."
+        },
+        {
+            "heading": 2,
+            "text": "The challenges and limitations of PETs\u00a0"
+        },
+        {
+            "text": "Before adopting PETs, it is vital to understand the limitations and/or downstream consequences of these technologies. PETs should never be treated as a silver bullet solution to privacy concerns, but rather as one tool in an organisation\u2019s kit for safely and securely handling sensitive data. Using an individual PET does not in itself guarantee an improvement in privacy unless accompanied by a good overall privacy design, and appropriate governance arrangements."
+        },
+        {
+            "text": "PETs can also introduce accountability risks. They enable computation and analysis of data in highly secure environments, which can lead to a false sense of security. The use of PETs can solve privacy and confidentiality issues, but it does not eliminate other harmful risks of data use. PETs in and of themselves will not prevent unethical data gathering, processing or outcomes. Some of our stakeholders also expressed concern around PETs entrenching monopolistic power in the private sector given that large amounts of data and technical resource are required for some PETs to be effective, which may privilege existing large players in being able to adopt PETs. There are also uncertainties around how the use of some PETs should be interpreted in regulation, especially regarding what constitutes a sufficient level of anonymisation for data to no longer be considered personal. The ICO has an ongoing call for views on this topic."
+        },
+        {
+            "heading": 2,
+            "text": "Supporting CDEI\u2019s work on responsible innovation"
+        },
+        {
+            "text": "For PETs to have a real impact in data sharing, they must sit within wider responsible and ethical organisational practices. Successful adoption of PETs requires appropriate levels of technical expertise and responsible data practices, as well as establishing mechanisms for appropriate legal and ethical oversight. The technology alone will not achieve optimal outcomes.\u00a0"
+        },
+        {
+            "text": "As stated in our recently published two year review, exploring, developing, and promoting mechanisms that support responsible data access and sharing will be a key area of focus for us in the coming year (alongside helping the public sector to responsibly innovate, and laying the foundations for a strong AI assurance ecosystem in the UK). We are currently working on a range of projects related to responsible data governance, and through these projects we will continue to build the right environment for PETs adoption.\u00a0"
+        },
+        {
+            "text": "If you\u2019re working in this space, have case studies to share or feedback on the adoption guide, we\u2019d like to hear from you. Please get in touch via pets@cdei.gov.uk.\u00a0"
+        }
+    ]
+}

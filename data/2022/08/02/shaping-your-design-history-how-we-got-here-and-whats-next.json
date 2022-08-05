@@ -1,0 +1,140 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2022/08/02/shaping-your-design-history-how-we-got-here-and-whats-next/",
+    "title": "Shaping your design history: how we got here and what's next",
+    "authors": [
+        "Arindra Das \u2013 Designer, GDS",
+        "Ignacia Orellana \u2013 Lead service designer, GDS"
+    ],
+    "categories": [
+        "Content Design",
+        "Design",
+        "Interaction Design",
+        "Service Design"
+    ],
+    "pub_date": "2022-08-02T09:00:20+01:00",
+    "content": [
+        {
+            "text": "It's rare that designers get to start on a project from scratch. It's likely that work has been done in the past. As designers, we need to understand why and how we got to where we are to inform future design work."
+        },
+        {
+            "text": "Sometimes a designer will inherit designs and it's not clear what the decision-making process was. In the past there have been blog posts on how to create a design history, focused on documenting every detail of past design work and managed by specialist contributors such as interaction designers.\u00a0"
+        },
+        {
+            "text": "In this blog post, we'll take you through how to make sense of the design history of your project and make it useful and practical for future teams."
+        },
+        {
+            "text": "This will help you and your team to:"
+        },
+        {
+            "text": "While there is no one way to do it, this post provides some general recommendations that can benefit every project."
+        },
+        {
+            "heading": 2,
+            "text": "How to get started on your design review\u00a0"
+        },
+        {
+            "text": "Start by establishing the purpose of the work. This will determine the audience, help build a narrative on why and how it could be useful in future, and guide us on which tool would be most accessible and the level of detail required to get the points across.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Define the narrative"
+        },
+        {
+            "text": "Identify how the work relates to the wider service roadmap, organisational goals, and any relevant decisions that need to be made. This will help establish a focal point to centre the information on, creating a narrative that is useful and practical for teams to engage with and pick up.\u00a0"
+        },
+        {
+            "text": "You could do this by asking some basic questions such as:\u00a0"
+        },
+        {
+            "text": "For example, we had to pause a project that was looking into managing and storing personal data in order to address other urgent priorities. To make sure any insights generated were repurposed, we focused the review on the core proposition of data handling and storage and how that would fit into the broader context. This helped build a narrative to maintain the relevance of the work. So when another project team was exploring a similar proposition, they were able to see the connections and reuse any work or design components."
+        },
+        {
+            "heading": 3,
+            "text": "Using the right tool"
+        },
+        {
+            "text": "Use an accessible and collaborative tool to make it easy to collate, maintain and add evidence as the project evolves. This means choosing a tool that is widely used by your organisation and that requires less of a learning curve. This is useful not only for designers, but anyone wanting to learn about previous work."
+        },
+        {
+            "text": "We found Google Slides to be a good format to collate data by easily dropping in evidence (such as images, text, and spreadsheets) and adding content in the \u2018notes\u2019 sections to get things moving. Slides also provide a useful constraint: when presenting, we use fewer words and plain English to help us tell a story. It helps focus on storytelling and gives you the possibility of linking to more detailed information elsewhere while making the core narrative easy to present and share with a whole team.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Find out who did what\u00a0"
+        },
+        {
+            "text": "Once the materials are collected it's time to organise, review and recommend.\u00a0"
+        },
+        {
+            "text": "Begin with investigating who was involved previously, especially designers and the period they were there for. You might need access to any documentation, prototypes, or sketches they have produced."
+        },
+        {
+            "text": "But we also believe it's good practice to acknowledge those designers and the work that has led to where the project currently is. So make sure you find out who they were and give credit where it's due."
+        },
+        {
+            "text": "This won\u2019t always be straightforward. You might find someone\u2019s name on a document or a GitHub repo, and sometimes, if you are lucky, there might be someone in your organisation who knows who these people were."
+        },
+        {
+            "text": "We suggest you start by asking within your organisation first and reach out to the community through workplace communication tools. Then, look for prototypes (for example in Figma, Heroku, Sketch), Github Repos, and team drives. You might spot a name that will lead you to find the work."
+        },
+        {
+            "text": "Once you can trace previous designers and their work, it is useful to identify the status of the project in which they were involved. The status of a project can change swiftly, so establishing this provides an anchor point. Examples of this could be using the agile project phases, such as \u2018discovery\u2019, \u2018alpha\u2019, \u2018beta\u201d, and \u201clive\u201d.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "You might not know your audience"
+        },
+        {
+            "text": "There could be different audiences for your design review. So while introducing the background to the work, it is important to define and explain any specialist terms used in the review to avoid confusion. Even words like \u201cdata\u201d, for example, could be perceived in many different ways, so, it's good practice to let the readers know what sort of data you are referring to."
+        },
+        {
+            "text": "Further, the audience brings their own perspectives. So to establish common ground, it is good practice to lay down the challenges, limitations and blockers you are experiencing while carrying out the review. For example, making the audience aware of any gaps due to missing materials, and circumstances impacting the direction of the work such as tight deadlines and scope changes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Put things in a chronological order\u00a0"
+        },
+        {
+            "text": "The next thing is to organise all the previous work done in chronological order with key highlights of the work, any associated evidence, and the design decisions involved. Add dates where possible.\n"
+        },
+        {
+            "text": "You can always link off to documents, prototypes and other artefacts if people decide to look for more detailed information."
+        },
+        {
+            "text": "Get a first draft done and then gather feedback by sharing it with the team. This can be done by creating a skeleton of the sections for information that is needed, or it can be a rough idea of the design activities and a timeline, for example. Do this as often and early as possible so people can help by adding the missing information.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Identify insights, gaps and opportunities"
+        },
+        {
+            "text": "Part of this work is to also evaluate what\u2019s been done; this transforms the collection of data and context into information. Identify insights, gaps and any opportunities that could be explored by the new team picking up this work. Add your suggestions based on your analysis and provide recommendations grounded on evidence.\u00a0"
+        },
+        {
+            "text": "Finally, it is a good idea to conclude the review with any assumptions you might have identified. These could be areas that lack supporting evidence or haven\u2019t been tested yet. One useful way of doing this is in the form of questions, providing the future team with some direction as to how things were concluded.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Share the work"
+        },
+        {
+            "text": "Once you\u2019ve got the design history documented, it has a useful and practical point of view, and it's been reviewed by the team, it's important to think about future designers and future teams."
+        },
+        {
+            "text": "By sharing the work across the organisation more people will know about the history of the work, and it's more likely to stay in people's minds and be referenced back. This is when having a slide format helps to easily present it to wider audiences."
+        },
+        {
+            "text": "Make it easy to find by using a standard naming convention. People don\u2019t know what they don\u2019t know. You\u2019ve done all this work to collect previous design work, make sure you think carefully about where to host this information so that people don\u2019t have to redo this work in the future, or risk teams starting from scratch. This could be a wiki, an intranet, a Google folder, or a Github repository. Whatever works best for people in your organisation.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "There are many ways in which you can conduct design reviews and help your team start from what\u2019s been done already. If you have joined a team where previous design work has happened, we\u2019d love to hear from you. What challenges have you faced in trying to piece information together? What have you learned? Share in the comments below.\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

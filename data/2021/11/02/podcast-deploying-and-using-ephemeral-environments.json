@@ -1,0 +1,375 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/11/02/podcast-deploying-and-using-ephemeral-environments/",
+    "title": "Podcast: Deploying and using ephemeral environments",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Cloud",
+        "DWP Digital",
+        "Engineering",
+        "Podcasts"
+    ],
+    "pub_date": "2021-11-02T10:50:55+00:00",
+    "content": [
+        {
+            "text": "In the latest episode of the DWP Digital podcast, hear all about how we\u2019re using ephemeral environments to help our teams develop and test updates, products and applications in a safe, self-contained environment."
+        },
+        {
+            "heading": 2,
+            "text": "Listen now"
+        },
+        {
+            "text": "You can listen now on:"
+        },
+        {
+            "text": "Stu Cairns, head of engineering for Health and Disability, Carl Hoggins, lead software engineer, and Phil Harle, lead DevOps engineer discuss ephemeral environments. Often referred to as short lived, dynamic, temporary on demand environments, essentially, they're all the same thing. At the most basic level, they\u2019re simply an environment that only exists for a defined period of time. They tend to be a collection of infrastructure or services to enable the deployment of components or applications. The emergence of ephemeral environments really took off when Cloud came to fruition and this truly enabled us to harness the elasticity of cloud to deliver environments at a rapid pace, on demand, scale to whatever needs the development teams need."
+        },
+        {
+            "heading": 2,
+            "text": "\u200eDon\u2019t miss an episode"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating."
+        },
+        {
+            "heading": 2,
+            "text": "Careers at DWP Digital"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Welcome, everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're discussing our use of ephemeral environments to help our teams develop and test their solutions in a safe, self-contained ecosystem. So, let's jump in Stuart, Karl and Phil, would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns"
+        },
+        {
+            "text": "Great. Yes. So, my name is Stu Cairns, I prefer that rather than Stuart. I'm currently the Deputy Director, Head of Engineering within Health and Disability. But I've been within the Civil Service for about five years now. Run across a few different directorates I was the head of Hybrid Cloud Services for a short period of time before that, protected within retirement. Previously to that it was all very much private sector and building online learning platforms for students across the world and sort of really fancied a change. And kind of looking to what the public sector we're doing, and particularly how we are looking to transform our services, and putting the citizen need at the heart of everything we do. And that's very much where we are going now within the health world. Because part of my responsibilities about developing delivering the technology strategy for major government projects, such as a health transmission programme, which currently is delivering 2.2 million assessments a year. But we also have a number of other services such as Access To Work, and New Style ESA, which, although they are entirely separate benefit lines, actually, from our point of view in this conversation today, that you have to call the kit, in the same technology ecosystem, which therefore creates the challenges which means we have to have isolation and separation. Fundamentally all accountabilities within this space from a technology security point of view and the related practices fall under me and we are ever growing stronger. So that's, that's me in a nutshell."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle"
+        },
+        {
+            "text": "Hi, so my name is Phil Harle. I'm a lead DevOps engineer in the Health Directorate. I've been working with DWP for around about four years now, originally by a private consultancy before joining and working directly with them. I've kind of been within health for a couple of years but worked across the department and a few different geysers prior to then. Actually, prior to joining DWP, I've worked in a few different sectors as well. So local government, I spent quite a bit of time in higher education, but also working across private sector in IT consultancy in kind of fin tech roles. Most recently, my focus has really been around cloud platforms and kind of adding automation and software engineering work streams. But I do come from quite a heavy kind of infrastructure led background, so adding a very operational and kind of live running element into the role too."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins"
+        },
+        {
+            "text": "Hi there, I'm Carl Hoggins, I'm a lead software engineer sitting in health directorate within DWP, I\u2019ve been with DWP for probably around five years now, probably last couple of working in health and then in a range of PDUs before that. Before I joined DWP, I had a stint working in an airline and worked in the IT there delivering kind of mobility solutions for pilots, worked a lot on kind of iPad apps and making paperless cockpits, which was quite interesting. Going back even further, yeah, my background is probably more hardware focused. So, going from kind of microprocessor design and micro-electronics and then into hardware software interfacing, and then took the path of software engineering from there. And yeah, more recently being a lead software engineer, it is trying to, you know, promote good engineering practices and standards across health, and wider DWP and trying to breakdown some of the barriers that we have between our different engineering families as well."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So, let's talk a little bit about your team and the service you support."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns"
+        },
+        {
+            "text": "So, the Health and Disability team is basically entire PDU within the wider DWP context, and we deliver health related benefits and the sort of attached digital services as part of that. The team has now scaled to 25 agile teams, that circa about 300 people, and they work across citizen facing service and ones for our healthcare practitioners. And when we talk about things like the health assessment service, for example, as well as internal DWP agents. Regardless of who the end user is, though, we need to make sure that we are fitting our user needs thinking about the citizen at the heart of everything we do. The purpose of this is to transform our complex internal Legacy estate into a modern microservice, cloud native architecture, which does put all those flexibilities at the heart of what we want to make sure we are thinking about how we can achieve the best services for our citizens ultimately at the end of the day, but also having a cost thought as well, because ultimately, we don't want to waste taxpayers money. And the team remits are split between those focused on end products. So, there'll be the services which people be interacting with directly. But also, we've got a core part of what we call the enabling teams. And the remit of these are to put in the foundations in place to allow the product teams to succeed ultimately, and part of this is the creation and standardisation around ephemeral environments, which is what we're going to be talking about today. And to standardisation around our deployment processes. The idea here is that the product teams don't need to keep reinventing the wheel around this, and removes the cognitive load of them sort of trying to face up the challenges of how to get base functionality from a development laptop, all the way through into production, we sort of take that on in a more holistic view within health and disability."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle"
+        },
+        {
+            "text": "The team that I sit on touching on what to Stu said, is one of the enabling teams, so kind of building out our reusable platforms, our shared code bases, the things that we can actually spread across multiple product teams. But also the kind of the nature of my role means I do kind of get involved with a lot of the other feature led teams. So trying to set standards in terms of engineering disciplines, in terms of the DevOps culture in the way we kind of work across the teams as well."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins"
+        },
+        {
+            "text": "I sit in one of the enabling teams in health, so we do a lot of enabling, setting standards patterns and promoting reuse across health. So we work within a team but with a lot of teams as well. And as Stu mentioned, trying to reduce that cognitive load, and providing a lot of reuse of so teams can accelerate through to getting their products and changes into life. I think beyond that, as well, we do look to try and influence as far as possible. So, we focused on our learnings we do publish patterns for wider reuse across DWP and try and share our core for reuse as well to allow that benefit to stretch beyond the realms of health."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So, what are ephemeral environments, and how are people using them across the industry?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle"
+        },
+        {
+            "text": "So, an ephemeral environment is quite often referred to by a number of different names. So, you might hear them kind of called, short lived environments, dynamic, temporary on demand, but essentially, they're all the same thing. And at the most basic level, an ephemeral environment is simply an environment that isn't long lived. And instead, it only exists for a defined period of time. And in terms of what we mean by an environment, it tends to be a collection of infrastructure or services to enable someone whether it be a development team or otherwise to deploy their components or applications into. Ephemeral environment started to appear generally around the kind of first wave of virtualization and organisations kind of dabbled with them. Specifically, when they had like on prem services, but there were definite limitations in kind of what could be delivered on premise. So really, the kind of emergence of ephemeral environments came when cloud kind of came to fruition and this truly enabled us to harness the elasticity of cloud to deliver environments kind of at a rapid pace, on demand, scale to whatever needs the development teams need."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns"
+        },
+        {
+            "text": "The key thing around for me is that its concept of them being domain context bound, so you're able to it stretches from where we currently have the idea around, or Docker containers, for example, as being something you can just throw away. This is extending that to a collection of components which live together for a specific purpose. But it doesn't remove the fact that you can then throw them away and destroy them. They will come up be used for, for whatever purpose they\u2019re needed. And then they are got rid of, that is fundamentally enabled by the fact that cloud is entirely API driven. So, you can create whole ecosystems on the fly, just through code, for example, and then deploy your units, use it in the way you need to use it. And then, throw it away."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "So, I see ephemeral environment as an extension to kind of commodity hardware. We've talked about the advancements of cloud and cloud, you know, hardware being, if you're driven commodity hardware, throw away hardware, and this is another layer another kind of layer on top of that, where you get your groupings of your commodity hardware into an environment, again, API driven, requiring automation. But essentially, it's that next tier of groupings of commodity hardware into a common environment that you can throw away when you no longer require."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So how long have we been using these environments? And what's our setup?"
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "Okay, so it's probably been a couple of years since we started using ephemeral environments in anger. In terms of setup, that's quite a difficult one to answer. So ephemeral environments, you know, as we mentioned before are throw away environments, and you need some kind of wider foundations to get the best use of them. So, you need some automation and some infrastructures code to define your environments. And allow you to stand them up in a repeatable way. So, what that essentially means is we can very our set-up, so we invest in our foundations and get that foundational platform. So, we can create ephemeral environments as and when needed. And then it's logic config to define what size we want, what scale, what hardware software, and we can vary that as when required to meet the needs. So we can have, if we're doing feature development, you know, and we're working with teams or a team of developers on multiple teams, they can have quite small scale environments, that don't need to cost a lot, but they can do whatever proofing they need. Whereas we might decide to spin up a full size, kind of prod like environment, doing some performance testing, or might choose to do that, you know, or the schedule might do every night. So, it's, we've got that. Yeah, configurability, to do exactly what we needed and to meet the needs."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "Just to build on what Carl was saying. So, we have been investigating it for a little while. Informally it became part of health and disability sort of technology strategy, the middle of last year. And it is, as Carl was mentioning, because of that total flexibility that enables us, we can go from, anything from tiny, and developer sort of just proving out there feature through to complete replication of what a live state looks like to do formal load testing, all of which is encapsulate within the exact same processes. So from the beginning of what we're trying to do within development, it actually effectively looks exactly the same as how it operates within production. And it's that sort of building up. So that's kind of where when we say it's difficult to answer the exact question about what the size and scale currently is, is because we can rearrange it to whatever our use case is for a given moment."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What advantages do ephemeral environments have over the longer life environments? And why have we chosen to use them specifically?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "So I think the initial advantage is the removal of constraints. So just to put a bit of kind of setting the scene on this one, I'm sure as engineers, we've all been in a situation where the development lifecycle is often stalled due to maybe the QA environment being used to test something. That gives you an inability to kind of develop and deploy and test your features because someone else is using it for their purpose. Or there could be scenarios where maybe there's specific versions of the application deployed on some fixed infrastructure to support maybe some third party testing or something that's going on. And again, that prevents you from being able to kind of test and develop, improve the things that you need to do. So really, with ephemeral environment, what we're trying to do is remove that constraint. We don't want fixed infrastructure, we don't want a fixed number of environment, we want to kind of build and scale these to the needs of the product and the need of the development team. So in smaller teams, yeah, they might only have one or two kind of spun up at any one point in time. Whereas if we're working on maybe multiple feature teams working together on the same application, they may have dozens of environment being been built. And equally, the same applies all the way through the development lifecycle. So it's not just development, it's testing as well. Let's say we need a full side production scaled environment to do some performance tests on. But let's say another team also comes along with it. Well, I want to run something on that performance test environment. Well, we're not constrained by having a performance test environment. Basically, we treat that as a type of environment, and we'll just provision another one. So it enables us to kind of run parallel development, life cycles, be able to run parallel tests and effectively what we're trying to do is just increase teams velocity."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "It also because of the sort of short lived nature of some of these things, it creates these huge possibilities around doing things like user research. So rather than having prototypes being done in isolation of real life running environment, we are now able to actually alter a user journey, put it out in a non-production environment and allow for user research to get done against that. And the reason for that is the fact that these things will only exist for a handful of hours or a day, say, whilst those research sessions are going on, then they are obliterated. So, if in the unlikely event that there was some form of compromise, from a security point of view, the blast radius is actually greatly minimized because these things don't live for a long period of time, they are just there for the one purpose, which gives us that extra flexibility in making sure that we use the technologies for what we wanted to but also leverage the learnings and quick and move everything to the left. Because we want to make sure that we're getting that sort of quick ecosystem changes, building in right from getting rather than having everything go up to production before we can do some of these user research sessions or accessibility testing points of view."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "So I was just going to mention that ephemeral environments can have benefits in terms of conflict drift. So I'm sure we've all got experience of where we deployed to one environment and everything seems to be okay, so maybe we're deploying to dev, and everything seems fine. And then when you start promoting through the environments towards prod, so maybe we'll get into staging or something, and things stop working and blowing up and we don't know why, it's because something's been iterated in the dev environment and that that hasn't been replicated or consolidated in code. And that that used to happen quite a lot. And that by using ephemeral environments, and the codify nature of them with automation, so all environments are essentially the same, it kind of removes that possibility to have conflict drift. So there's a real benefit there, over long lived environments. And I was also just going to mention the kind of the cost versus restaurant risk factor as well. So again, I'm sure many have been in situation where, you know, it might have been really nice to do some volume tests, but actually, that means going to have to spin up a performance test environment, it needs to be small scale, or it's going to take a while to do that, with infrastructure guys needed to be on hand to do to help. So we might not do it, or we might carry some risk forward and hope things go well, or may try and infer some metrics out of scaled environments. Again, we don't need to worry about, nor the time that's going to need to build this extra environment, it's all automated and codified. We don't need to worry about kind of interpolating results, either we can have a full-scale environment, or environments of any config. As and when we need them. We only pay for their up time and then we destroy them once they're gone. So it's benefits in that regard."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Which of our services are using ephemeral environments? What types of things are we testing and what impact have you seen from a user, service or customer perspective?"
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "About 70% percent of our services and are currently utilising them within health and disability. So we've got new style ESA, and the health assessment service, tell us about terminal illness and fit note, are all now fully on board with this. And all new work will be using this approach by default. And we currently have migration plans in place and being acted for access to work and PIP apply. And they'll ultimately bring them all into alignment over the course of the next six months, I imagine. In terms of benefit, we've been able to move to regular, most teams now releasing weekly. So as soon as we sort of get user research information that lets us, you know, improve a service we can get that through development, we can put it through the pipeline, we\u2019ve got all of the all the automation through the testing cycles, and people can release as needed. Because of that standardisation through both the creation of the environment and the deployment of it, we're able to actually if we need to release on the same day basis as well, which is quite a shift from where the department used to approach things with sort of long lead in times, where it's sort of, it's allowing us to move everything to the left, get our assurance, because we're designing for production right from the beginning, all the way through to the end."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "I think, as Stu touched on, one of the key benefits comes out from the actual be increasing cadence that we can deliver to citizens. But I think if we take this all the way back to the left, as well, and look at some of the benefits that we get as engineers ourselves, I think we've often been in traditionally in scenarios where a developer might kind of build their features and do their updates and things and it works in their local development environment. But often when they then promote that, and try and run it on a real infrastructure and run some tests against it, or where you're kind of at the latter stages where it's making its way to production. There's often been instances where failures have occurred, because the environments have differed. But I think that one of the key benefits of kind of implementing this pattern is because we've got a single code base, a single code base, stand up infrastructure, that's not only used for development and testing, but it's the same code that actually provisions the production environment. If a developer comes along and wants to actually do something, we can effectively build them a production environment. So if they can develop a feature, and get it all functional and tested and approved in in a non-production in a test environment, we stand a really good chance that, by the time that comes to being deployed in production, it's just going to work, because effectively it's all deploying on the same infrastructure."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "Ephemeral environments kind of form part of a wide set of foundations, and automation, that allow our regular release cadence, plus also kind of benefit our engineers as they're working through their features as well. So, there is some work in foundations. So, things do need to be codified. We try to cut manual process out as far as possible. We do new things as code so they are repeatable, and they can be executed as required. But because we've got that automation in place when we build these environments as well, we can slot things into that automation. So, we can run tests, we've talked about tests, we can run them after an environment built. But we can also do other things that we do, various security checks, security scans, we can smoke test our environments to make sure that everything looks good and healthy. So that's all great. And that's a pattern that that our engineers can adopt them and reuse, so they don't have to reinvent the wheel every time. But they are in control as well. So we try to empower our teams. So where they've got starting point, they've got that that pattern and code reuse, they own control of their own kind of services and why we set standards, they can adapt their automation and their codified infrastructure to meet their specific needs as well."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "We've also seen that the use of ephemeral environments extend far beyond just development and testing as well. And what we've seen is that this isn't really the exclusive domain of engineers and techies, we've got good examples of kind of content designers and business analysts spinning up their own environments. They might be using these to kind of run demos, maybe undertake training sessions. But a lot of this has actually been enabled, because we've automated the process of spinning up an environment. So where traditionally, if you wanted an environment, you'd maybe have to speak to an infrastructure guy or a DevOps guy or something to kind of book their time and get them to actually do something for you. Because we've got this single codebase and this automated tool train to enable us to effectively press a button. So it's self-service, that someone can come along and as long as they've got permission to do it, they can press a button and self-serve themselves and environment, use it for whatever they need to do, as I say, to run demo or training session and so on. And then at the end of the day that things automatically destroyed. So really, by removing that human dependency, we've not only sped up delivery, but we've actually seen some other benefits in terms of other users who traditionally wouldn't be accessing these sort of environments."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "DWP looks after a wide variety of services and products. How have we managed to cater for all of the different setups, scales and nuances."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle \u00a0"
+        },
+        {
+            "text": "Yes, so ephemeral environments aren't just for modern greenfield development. Prior to working within health, we did actually, a small number of our engineers were working on replatforming one of DWP other legacy monolithic applications. And it was here that we kind of cut our teeth on developing and proving the initial ephemeral patterns that subsequently we've adopted inside of health. That application was, as I say, kind of a large application, it was written using technology that wasn't necessarily cloud native. But we were still able to implement ephemeral patterns and using kind of automated test pipelines and modern tooling, even though the actual application technology underneath that powered it might have been considered a legacy. Of course, it's kind of not without its challenges in doing this, and there is a degree of investment in time that's needed to develop the infrastructure as code, develop the pipelines and everything else to support it. And certainly, when we're talking about older applications, especially those when maybe there's licensed software in the mix, it becomes a little bit more difficult. Especially if we take for example, maybe you've got a licensed database component, and you can't necessarily license this on an hourly basis. So the idea of potentially spinning up dozens of ephemeral environments, and then someone being landed with a bill and go, well, actually, we need to buy dozens of licenses to fund these, it doesn't necessarily kind of have that synergy. But there are there are some creative solutions that you can employ in terms of maybe in kind of more environments to the left of the lifecycle that you might be putting marks in there, or you might be having feature toggles that turn off some of these more expensive license components. And a lot of this, again, can be automated. So, a developer might be working in development environment that that they kind of build and cut through their pipeline. And then once they've proven their feature in their environment, once it gets promoted through the tool chain to an environment, a test environment to the right. That's when some of these license components may be enabled. And again, that can be fully automated."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "How secure are these environments? What measures do we have in place to make sure the test environment stays as a test?"
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "So by the very nature of them being short lived, purpose specific, they are very secure. Even if compromise does occur, we can obliterate and redeploy the whole state that has been compromised, by having that the blast radius of what can be taken down is greatly reduced. Add to that the fact that we, we always do things like blue/green deployments within production, so that as things need to sort of replicate there, there's no impact to end citizens in terms of what they see, we can as standard if we wish, cycle, the whole ecosystem on a nightly, technically hourly basis, if needed be. Through this, this has all been through, obviously, our internal security processes to make sure that we are conforming to all relevant standards, we've obviously been pushing the standards out as well to sort of make sure we adopt a strength and depth approach across the state. So making sure that we have a number of commensurate and controls within not just sort of running environments, but our data access layers, so that by layering up different controls, we actually a) simplify the state and make more supportable but also b) strengthen the security posture, because we are constantly under attack due to the fact that we are a government organisation. And we hold a large amount of citizen personal information which we need to take very seriously at every stage, regardless of where we are in the system lifecycle."
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "Yes, so ephemeral environments aren't just of the domain of kind of development and testing as well we do it deploy ephemerals into production. So as has been kind of briefly mentioned, we use the blue green pattern in production. So whilst production is longer lived in a sense of it available 24/7 and assets and services are available 24/7 The underlying environment that we deploy into, could be changing all the time, they could change on a daily basis, as in when we do deployments. And the idea of when we promote from our non-production environment into our production environment. We're not necessarily promoting into a live already built production environment. Quite often what we're doing is we're taking our infrastructures as code, code base, and building a brand-new production environment so it's all fresh, it's nice and clean. And we know what the steady state is and then once we're happy that that deployment been successful, then we'll automatically flip over and our live traffic will come into that new production environment. But what that does then mean is the old one that had previously been running, that gets terminated. And if there was any sort of security issue or compromise on it, the termination of that environment kind of cuts out that that angle of attack."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "So I was just going to talk a little bit about our environments are isolated. So yes, we can have ephemeral environments, we can have as many as we need. Stu and Phil was mentioned that, you know, they can be at different points in their lifecycle. So, we still use the ephemeral environments in prod, but we blue/green them, they're just slightly longer lived. And previously, I talked about how easy it is to create environments, click button or create a branch, if you want to make a change, we have got some controls around our release process and making those changes into our product count. So we have got separation of duties. So while it's really easy to get started and start developing, once all of all of your changes are proven, we have got a release process in place with segregation of duties that make sure that we go into production in a controlled manner. And we create the new ephemeral environment, do the blue/green, switchover, in a really controlled and inscribed manner, to reduce any risk. We invest in foundations of, of our designs, for ephemeral environments, we do a lot of work up front. And when we design for prod so, we might be spinning up kind of dev type environments for very initial feature driven development. But all of our design thinking is for prod, this thing's going to end up in prod, at some point. And all of our environments are the same. So let's not cut features out in early stages, and leave ourselves open to risk or, you know, significant change later on. Let's think about all the things we need to compensate and bring them forward. What that means is you do spend time on foundations. But that's time well spent. Because then you can accelerate through the different stages of deployment."
+        },
+        {
+            "text": "So, prod is a production. So, this is the live running services that there will be accessed by end users or citizens or internal users."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "The reason why we are so focused on getting into product production is because that's the point that you realise the value of your effort. It doesn't matter how brilliant, the code is, the user experience or the mechanisms that create an environment are, if it's not released into production, it's not being used by systems, agents and users, you're not actually realising the value of all that effort. And that is why that is really a key focus for all of the teams and why we put in the foundational work to make this happen."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "How quickly are the teams adopting ephemeral environments, and how have they found them in practice?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "Within health we started small, but we always knew that it was something that we'd like to actually roll across the entire directorate and get all of our applications on board with it. So, whilst our initial proving and kind of build out of the foundations was done on a single application, this was really to make sure that we invested enough time in those foundations and made sure that the patterns and the implementation code and everything else that underpins it was reusable across all of our applications in health. So, from having maybe only two or three projects at the start of the year, we're now in a situation where on a daily basis, we've got dozens of environments being spun up by teams within health throughout the day. And we've got projects kind of in the pipeline who are ready to adopt this approach as well. And it's very much been a bit of a kind of self-service effort for the teams as well. As we touched on we work as part of an enablement team. So, we build the patterns. And we built the standards and the code fragments and the like that underpin this. But that very much the intent was to empower teams to actually adopt this themselves. So, it's not an effort that requires engineering kind of input centrally, it's very much a case of here is the pattern. And here is the implementation architecture. Now you as a team, consult, serve and implement this yourself."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "When we did start off quite small within health, we realised that this was going to go further, we'd like to go further. So, we did invest and we made sure that where we invested in documentation and templates, and quick start, and all that kind of stuff. So that wasn't the, you know, single point of failure, you needed to go and talk to a group of people. This is all documented. And it's kind of good to go with references for teams to pick up when they start this work."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What challenges have we faced with the rollout of these environments? What would you do differently? Or what would you look to improve in the future?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "So, I think one of the key challenges that we faced and still continue to face is quite often when teams need to interface with third parties. And this tends to be third parties who don't necessarily follow the same patterns around ephemeral environment and may operate kind of more fixed infrastructure. So, to kind of put some context around this, if we are developing features that interfaces with these third parties, quite often we need to run tests between our environments and their environments. But if they run on fixed infrastructure, quite often, we might have to book time to actually give us a slot on their environment and make their engineers aware that they need to deploy certain versions of their components. And ultimately, this kind of lacks the flexibility that we might otherwise have, from a self-contained point of view. So, whilst maintaining ephemeral environment within health within our own domain, and within different applications and products within the health domain, we certainly are afforded this flexibility. But when we start interfacing with maybe other teams within the department, or externally, who don't necessarily implement the same sort of patterns, this can cause some sort of issues."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "So one things I would do differently, if I was to have my time, again, would be to invest a bit more upfront in really bottoming out the value statement of doing this foundational work, we did hit some resistance from teams who wanted to sort of continue on their, the journey they were currently on. And it took a while for us to be able to show and demonstrate actually, all the key benefits. And we did that largely through by, as Phil mentioned earlier, though, starting small was an exemplar project. And were therefore able to demonstrate it. I think, if, I was able to have my time again, I would probably sort of tried to come up with more materials and narrative, to sell that story upfront without actually having to have done the physical execution of that work. And I would recommend for people listening to the podcast, or if they're interested in learning, or any of these things to come and speak to the teams getting a real life viewpoint of how they find operating this new way of working, because it is a quite a big mindset shift, you really are going to the left on lots of things. And that does lead to a change in your ways of working, your coaching, your practices, as well as sort of the base technology that makes it all happen."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What advice would you give to others if they wanted to develop their own testing environments or something along the lines of ours?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "I think a lot of it touches on what we've spoken about previously, in terms of kind of articulating the value and identifying the benefit. Because as we say, this is this is quite an engineering undertaking. But it isn't just a tick box exercise, and the change of culture that that comes with actually implementing this can reap significant rewards. But it does need buy in as, as every cultural change in an organisation does, it can't just be doing it in a silo, it does need to be kind of everyone needs to be involved in that change."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "It's just about embracing that, that we do need to push a lot of things left, need to think about things upfront, invest in the foundations. And yes, there's definitely work there. We've talked a lot about automation, that's a key part. You know, there's always requests, so we don't have time to test that we'll just do a manual test. In this situation, if anything of that nature creeps in, then you\u2019ve broken the flow, you're broken that end to end journey of automation and until that that's repaid in terms of that debt you\u2019ve broken your process. So, I guess my advice would be, be razor sharp on automation. And don't let any manual process sneak back into your flow."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "Start by talking to us the team. Looking at our example projects, or as well as all the documentation, which we've got, which there's a wealth of, we've got exemplar actual real world environment product, which then can be used and leveraged for your own purposes to sort of learn from definitely, you need to have a mindset of not wanting to have manual processes. In any part of this. If you start introducing manual processes, you basically break all the benefits of going down that road. So, you have to be really lightning focused on automation through every aspect and finding ways to do that. And sometimes that's more natural and easier than others but leverage the wider DWP engineering community as well as obviously those within health to help you on your journey."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, how would you like to see ephemeral environments being used in the future?"
+        },
+        {
+            "heading": 3,
+            "text": "Phil Harle\u00a0 "
+        },
+        {
+            "text": "So, I think really, I'd like to see ephemeral environment become the standard. Don't get me wrong. We're not the only one within DWP that implement an ephemeral environment, but it still very much feels like we're the exception rather than the norm. And with that comes some of the challenges that we've already spoken about in terms of interfacing with other teams and kind of doing those kind of more complex integrations. And if we could break down some of that manual effort that teams are doing at the moment and automate it, and have the flexibility to spin up environments on demand and kind of connect to them and run tests between them, it really does take us one step closer to automating the entire tool chain all the way from a developer checking in code to that actually being deployed in production in a kind of repeatable, assured, but hands off way."
+        },
+        {
+            "heading": 3,
+            "text": "Carl Hoggins\u00a0 "
+        },
+        {
+            "text": "I would like to see it become the default position. This is this is what we know and use and everyone's aware of it. We mentioned mindset earlier. So be great to see that mindset shift and everybody get on the same page. So we don't have to kind of repeat the conversations when we get new joiners, or while we're talking to other teams, within DWP that we need to interface with around you know, can we apply this change to QA, that's not a thing anymore. You're in control, you can, you can deploy to whatever environment you want. Yeah, having everyone on that same page and pulling the same direction, singing from the same hymn sheet would be an excellent place to be."
+        },
+        {
+            "heading": 3,
+            "text": "Stu Cairns\u00a0 "
+        },
+        {
+            "text": "For me, having that sort of as base standard across the department gives us that real flexibility to as engineers need to move between teams if they are all used to the way of working the practices, the standards, the processes, that really empowers us as engineers to go across, work in different environments, solve problems, and not have to worry about learning. How does the whole ecosystem operate in this part of the company?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today, hit the subscribe button if you want to make sure you don't miss our next episode. And I'd like to thank Stu, Carl and Phil for taking part today. It's been really interesting to hear about our ephemeral environments and how they work. So, thanks for tuning in. And I'll see you next time on the DWP digital podcast."
+        }
+    ]
+}

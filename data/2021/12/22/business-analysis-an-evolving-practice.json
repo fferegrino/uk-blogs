@@ -1,0 +1,36 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2021/12/22/business-analysis-an-evolving-practice/",
+    "title": "Business Analysis: an Evolving Practice",
+    "authors": [
+        "Sarah Smith"
+    ],
+    "categories": [
+        "Agile",
+        "Business Analysis",
+        "Our services"
+    ],
+    "pub_date": "2021-12-22T11:17:28+01:00",
+    "content": [
+        {
+            "text": "When I first started my career in \u2018IT\u2019 as a manual system tester, Business Analysis seemed like an unwieldy beast. Waterfall was the name of the game and if you didn't know it upfront, it was too late. Business Analysis came first and resulted in the production of numerous Use Cases, UML models and Business Rules. Use Cases were high level, lacking detail, and perhaps most importantly - difficult to change. If it was found during development or testing that something in the Use Case was unfeasible, illogical, or for some other reason \u2018just plain wrong', a bug would be created, and the ticket would go back to the BA for further investigation. That could take weeks. "
+        },
+        {
+            "text": "I remember when my employer at the time started to move over to \u2018Agile\u2019 working, using SCRUM and - to start with - the stereotypical \u2018post-its on the wall\u2019 method. They hired some Agile gurus to come and work with us and my project was the guinea pig. It took us over a year and three complete \u2018scrap it and start again\u2019 events to start getting the hang of it. Ironically, what I as a tester at the time was most anxious about wasnt a new way of working, it was about \u2018not knowing all the things\u2019 upfront. What if we introduced a bug because we didn't see the joined-up picture? The concept of small user stories, small bits of delivery that were self-contained, and only one piece of the jigsaw, scared me because I was so used to the pie being sliced the other way - large documents that covered an entire activity, albeit in less detail.\u00a0"
+        },
+        {
+            "text": "A year or so later, I moved into Systems Analysis (actually covering everything from Systems Analysis, through Business Analysis, and up to Product Owner as we didn't have individuals to hold those roles within our part of the business) and really started to work \u2018agile\u2019. Bolstered by my experience as a Test Analyst and being used to breaking a \u2018bigger\u2019 user story down into smaller chunks as individual test cases, I quickly became accustomed to doing the same, a level above. I started managing the backlog, breaking our delivery down into Themes, then Epics, then User Stories. I was blessed to have a highly competent delivery team leader who - working collaboratively with me - efficiently prioritised those stories to allow me to focus on what I needed to explore next."
+        },
+        {
+            "text": "That was over a decade ago now, and now working as a fully-fledged Senior Business Analyst, it\u2019s second nature. There is still an element of waterfall to our work, especially when starting a Discovery phase, as we often work \u2018ahead\u2019 of the team, gaining an understanding of the domain landscape to be able to give the rest of the team enough information to hit the ground running. But even that is agile - you do enough to bring the basic level of understanding up to an acceptable level, then you take cues from the team on what to focus on next. User Research picked up on a process we\u2019ve not heard of before? Let\u2019s find out what that is. Data analysis shows us that the same data is being held in three different places? Let\u2019s find out why, and by who. Pain points show that data being recorded in a particular way isn\u2019t helpful; is that practice, habit or policy? Let\u2019s find out.\u00a0"
+        },
+        {
+            "text": "Our outputs are more efficient, too. User stories are smaller, take less time and are easier to change (or remove) if circumstances change. If you get them at the right level, you can easily change priorities, swap out features, correct misunderstandings, and adapt to changing scope or risk very quickly. (Eventually, if you work with the right team, you might even get comfortable with not being the one to write every user story yourself.)"
+        },
+        {
+            "text": "Business Analysis has become agile. It changes, to fit the project, the team, the individuals and the scope of the service being delivered. It always follows the core function of understanding the business domain, and needs of course, but where you focus, how you do it and when is all dynamic.\u00a0"
+        },
+        {
+            "text": "I look forward to being part of the next evolution of Business Analysis, whatever that might be. "
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2021/11/02/transparency-and-data-ukhsas-vaccines-report/",
+    "title": "Transparency and data \u2013 UKHSA\u2019s vaccines report",
+    "authors": [
+        "Mary Ramsay"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)"
+    ],
+    "pub_date": "2021-11-02T19:13:36+01:00",
+    "content": [
+        {
+            "text": "Vaccines work. They have played a critical role in breaking the link between infection and severe outcomes, and we should express our gratitude to the scientists who developed life-saving vaccines against COVID-19 and to those who work tirelessly every day to roll out the vaccine programme at pace, across the country."
+        },
+        {
+            "text": "In this blog I would like to explain how we use different data sets to look at the impact of vaccination in the population."
+        },
+        {
+            "text": "The UK Health Security Agency is committed to openness around data and has been at the forefront of publishing evidence to show the effectiveness of the UK vaccination programme. We were first to show that COVID-19 vaccines offer high protection against the Delta variant of the virus and this data has been regularly shared with policymakers and the public."
+        },
+        {
+            "text": "As well as this, the UKHSA publishes rates of cases, hospitalisations and deaths by vaccination status, and the data in our report shows that the rates of hospitalisation and deaths are substantially lower in fully vaccinated people, across all age groups. It is clear therefore that COVID-19 vaccines provide a high level of protection against severe outcomes."
+        },
+        {
+            "text": "To make our data less susceptible to misinterpretation, the UK Health Security Agency has worked with the UK Statistics Authority to update some of the data tables and descriptions in the report, specifically around rates of infection in vaccinated and unvaccinated groups. In our commitment to transparent and clear data, we regularly review our publications to ensure they reflect the current situation within the pandemic, and we will continue to work with our partners at the statistics bodies, to ensure our reporting is as scientifically robust as possible."
+        },
+        {
+            "heading": 3,
+            "text": "Case rates in vaccinated versus unvaccinated people"
+        },
+        {
+            "text": "UKHSA publishes vaccine effectiveness by vaccine and has done for many months. This is the source that should be used to understand how effective vaccines are in the population as there is a well-established method for calculating this."
+        },
+        {
+            "text": "We separately publish the rates of COVID-19 cases, hospitalisations and deaths in vaccinated and unvaccinated groups by age. This is important to understand the implications of the pandemic to the NHS and to help understand where to prioritise vaccination delivery."
+        },
+        {
+            "text": "A simple comparison of COVID-19 case rates in those who are vaccinated and unvaccinated should not be used to assess how effective a vaccine is in preventing serious health outcomes. This is because these figures are susceptible to a number of differences between the groups, other than the vaccine itself, and these biases mean that you cannot use the rates to determine how well the vaccines work."
+        },
+        {
+            "text": "If we look at the numbers of cases in vaccinated compared to unvaccinated people, the rate of cases in the vaccinated people appears higher for many age groups. This is because there are key differences in the characteristics and behaviour of individuals who are vaccinated compared to those who are unvaccinated. The rates therefore reflect this population's behaviour and exposure to COVID-19, not how well the vaccines work. We also know that, as infection rates have been high over the summer, many people were previously infected, and this has had an impact on the rate of infection in recent weeks."
+        },
+        {
+            "text": "Several important factors can affect the rates of diagnosed COVID-19 cases and this may result in a lower rate in unvaccinated than in vaccinated people. For example:"
+        },
+        {
+            "text": "These factors are all accounted for in our published analyses of vaccine effectiveness which uses the test-negative case control approach. This is a recommended method of assessing vaccine effectiveness that compares the vaccination status of people who test positive for COVID-19, with those who test negative."
+        },
+        {
+            "text": "This method helps to control for different propensity to have a test and we are able to exclude those known to have been previously infected with COVID-19. We also control for important factors including geography, time period, ethnicity, clinical risk group, living in a care home and being a health or social care worker."
+        },
+        {
+            "text": "We calculate the rate of cases in people who are vaccinated by taking the number of people who have tested positive and who have been vaccinated, and comparing to the total number of people who have been vaccinated in each age group."
+        },
+        {
+            "heading": 3,
+            "text": "The denominator"
+        },
+        {
+            "text": "To calculate the percentage of people who have been vaccinated, we need to know how many people are eligible to receive the vaccination, this is called the denominator. Although it would seem straightforward, there is a degree of uncertainty about the true denominator. The two sources that are most commonly used to derive a denominator are:"
+        },
+        {
+            "text": "Neither is perfect, however for estimating rates of cases by vaccination status we consider that using NIMS to identify those who are vaccinated and those who are unvaccinated is the best way to provide stable and comparable data, even though we accept that the infection rates in unvaccinated younger groups may seem lower than the true figure. These figures are useful for planning, for example in understanding workload in hospitals, but should not be used for assessing how effective the vaccine is. Vaccine effectiveness analysis of routine data is only possible by using the variables coded in NIMS and available at an individual level for all people who come forward for a test."
+        },
+        {
+            "heading": 3,
+            "text": "What data should we be looking at?"
+        },
+        {
+            "text": "Data on COVID-19 hospitalisations and deaths is much less prone to bias, as testing is more complete, and so it is more valid to compare rates for these severe outcomes. But even so a properly conducted analysis is much more reliable, as explained above."
+        },
+        {
+            "text": "Our publication of COVID-19 vaccine surveillance data is consistent with all the other vaccine surveillance data we publish and this consistency is important for understanding the patterns we see across all of our surveillance data sources. We have consistently published the data in this way, aligned to other vaccine surveillance data, since early in the year."
+        },
+        {
+            "text": "We believe that transparency - coupled with explanation \u2013 remains the best way to deal with misinformation. UKHSA has been committed to regular publishing of our vaccine effectiveness data and sharing this evidence promptly with others \u2013 this has played a huge role in increasing vaccine confidence in this country and worldwide."
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/07/30/podcast-building-europes-biggest-payment-system/",
+    "title": "Podcast: Building Europe\u2019s biggest payment system",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Payment services",
+        "Podcasts"
+    ],
+    "pub_date": "2021-07-30T08:00:55+01:00",
+    "content": [
+        {
+            "text": "The Department for Work and Pensions (DWP) is responsible for paying out around \u00a3190 billion each year in benefit, pension and social fund payments. It\u2019s crucial that our payments system ensures money is delivered on time in the form that works best not just for our customers, but also our colleagues who make the payments."
+        },
+        {
+            "text": "In this episode of the DWP Digital podcast, we speak to Natalie Weir and Nick Cutting from the Digital Payments Services team about the work they\u2019re doing to reimagine the payments estate within DWP."
+        },
+        {
+            "text": "They also discuss how we\u2019re helping drive innovation and change within the banking industry and some of their biggest learnings so far."
+        },
+        {
+            "text": "A full transcript of the podcast can be found below."
+        },
+        {
+            "heading": 3,
+            "text": "Join us on our journey"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating."
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Welcome, everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're talking about our Future Payments Service and the technology behind it all. And as always, hit the subscribe button now to make sure you don't miss an episode."
+        },
+        {
+            "text": "So let's get started. Natalie and Nick, would you mind introducing yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "Yes, of course. So I'm Natalie Weir and I am the product lead within Digital Payment Services. I am responsible for the products that we build and we are looking to reimagine the payments estate that we have within DWP. So, my role is ensuring that we build the products that meet the needs of the users and our agents to a standard and a quality for DWP."
+        },
+        {
+            "text": "My experience really covers around 15 years of working in government. That covers from customer services, and IT support, channels shift and digital transformation projects. And I've been in the product space for the last five to six years. I've recently moved, I say recently, it's been nearly three years to DWP, central government and been working in Payment Services from the very beginning."
+        },
+        {
+            "heading": 3,
+            "text": "Nick Cutting\u00a0 "
+        },
+        {
+            "text": "I'm Nick Cutting. I recently joined Digital Payment Services as a lead architect where I'm responsible for the end-to end architecture on the new payment service. I've actually worked in the department over 35 years in IT and interestingly enough, I was the original architect on our existing payment service, which was 13 years ago. So I am revisiting old ground."
+        },
+        {
+            "text": "My last role within the department was technical lead on one of our legacy services, VME-R, where we were responsible for replatforming 11 of the department's most business critical applications onto a new modern technical platform. And something that the department had a number of goes at over the past 25 years. So that was quite a big achievement prior to coming to Digital Payment Services. But obviously now moved on to the Digital Payments Service, as Natalie was articulating at the beginning, something that is again, another significant challenge and roll for me."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Thank you both."
+        },
+        {
+            "text": "So Natalie, can you give us an overview of your team and DWP\u2019s payment service?"
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "We are the biggest payer in the UK. We serve 22 million citizens, which makes up 34% of our total UK population and we make around \u00a3177 billion in payments annually. And this actually generates a quarter of the UK Bankers Automated Clearing System (Bacs) traffic. We are responsible for making sure that we deliver money on time and in the form that best works for our citizens, and that they can use it in a way that helps address their specific needs."
+        },
+        {
+            "text": "We're also the largest payment system in Europe and it's critical that we have a service that works in the best way, not just for our citizens, but also for our agents and services that make payments across the department."
+        },
+        {
+            "text": "Future Payments was born a couple of years ago and its purpose was to understand what we need to do as a payment service and not just looking at the needs of our agents and services and citizens today, but one that can move and be adaptable to the change coming that we see in the future in the payments industry. We wanted a payment service that looks at reducing cost and risk, but also increases the resilience and simplicity and flexibility of payments to and from the citizen. We also wanted to create a better experience for our agents that use our service every day. And our teams are working together to develop future payments, products and services."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So Nick, can you tell us about the technologies we're implementing, and our approach in terms of software and infrastructure?"
+        },
+        {
+            "heading": 3,
+            "text": "Nick Cutting\u00a0 "
+        },
+        {
+            "text": "Before I get into the technologies, I wanted just to set the scene as to what we're trying to do within the departments, in technology in particular. So the Department for Work and Pensions is on a journey where we're looking to modernise our digital services, and in particular to support our business intent of providing where appropriate, our services digitally. So that's the overarching challenge for is on the technology side. So what the department has done through our technical department, digital department is that we have a number of key principles to support the intent of providing our services digitally."
+        },
+        {
+            "text": "So these are some of the key design principles. So one of the key ones is that it's going to be micro services based. And by that we mean that we will develop small independently standing services that will provide one function or service. One of our other key principles is that it's going to be event based. So rather than building big batch based systems, there is more events based so the information transactions APIs moving around the service, as we move forward."
+        },
+        {
+            "text": "I think we've already covered within this series of podcasts, about interfaces and integrations. So one of the key design principles there is predominately API based and overarching all of these is that we are definitely looking at developing reusable services. So, rather than developing small independent services and one offs, that we are looking where we can to develop reusable services, so as Nat has articulated in payments, we provide a payment service for the whole of the DWP systems. So that's what we're trying to do and it's a good example of where we're providing a reusable service. So rather than each of our systems having its own payments service, we're developing one generic payment system. So that's quite critical."
+        },
+        {
+            "text": "The other overarching principle is that we're moving away from where we used to provide or host our services in house, within our own data centres. We're now definitely moving to the cloud and one of our key design principles is having a cloud hosted. So we're looking to use things like people are aware of AWS, Amazon Web Services, and some of the other key providers, Azure, and I don\u2019t know another one or two I can't remember. So, I'm just setting the scene before we get into the key technologies."
+        },
+        {
+            "text": "So, they're the key design principles. What the department has, through the main architecture community, we've got a number of reference architectures. So we've developed an application reference architecture, which describes our applications, again are services based, so we have an application reference architecture."
+        },
+        {
+            "text": "We also have a technical reference architecture. So that's a more detailed technical level, and articulate or identifies the key technologies that we're going to be using. The final one is we have something called the tech radar, which is a series of recommendations to the department about the key software components and capabilities that we can use. So really, just setting out the frameworks and the design principles for developing our services to support that intent of providing our services digitally."
+        },
+        {
+            "text": "So getting a bit deeper in terms of the software. Within the Digital Payments Service, our key software languages are Java, and Node JS, or Node JavaScript. So they\u2019re our two main languages, key languages. For Java, we predominately use the Drop Wizard framework. It\u2019s a like work framework for building APIs and web applications. For front end development, we use the FreeMarker templating language. On the Node JS development side, we use the Express Framework."
+        },
+        {
+            "text": "And it's interesting, that obviously people who are digitally literate are going, \u201cWhy are we not using some of the more modern available things like React or View?\u201d But our view is that, you know, we're looking to provide generic services, digital services to our citizens. So the ones that are particularly towards rather than ones that are available on the internet, that we've got more control about and gives us that flexibility and assurance of service as well."
+        },
+        {
+            "text": "On the operational side, we have a number of monitoring alerting tools. We use Prometheus and Grafana, and Alert Manager and again, that allows us then to tap the flexibility about monitoring our services, so we're not dependent on some commercially procured software."
+        },
+        {
+            "text": "I think the other final one before getting on to the actual hosting side is that we have a number of databases, but the one that we've elected to go with is MongoDB. That's what we would call a NoSQL database. Our background is predominantly using Relational databases, but we think that moving towards the NoSQL database gives us more flexibility and control over our databases moving forward. So this is definitely moving into the new modern paradigm of doing development work."
+        },
+        {
+            "text": "So, I think it's worth exploring now about how we actually support these services, and actually how we host and what our approach is. So, my experiences working with the department for the past 35 years, is that initially, historically, we used to provide our data centres in-house. So we actually had five data centres in the old, old days where we used to provide all our benefit processing systems. Then in the late 90s, we moved from an in-house to an outsourced supplier. So actually that was service was provided to us, by initially, EDS, and then it was Hewlett Packard. So it was definitely an outsourced model. And five years ago, we made the decision to bring the hosting back in house."
+        },
+        {
+            "text": "So initially, we provided again, our own data centres, and we refer to that as being on-premise hosting. But obviously, the IT industry in general has being moving more into the cloud and we have again made that decision that we will now move from on premise hosting, to in the cloud, and for me, based on you know, that background where we used to provide our own services, and then we outsourced it. Moving into the cloud, which I do have some experience of, for me is mind blowing. It's actually a quantum leap and the power and the flexibility and the cost efficiencies and the speed of delivery, is actually quite staggering, and it is actually changing the delivery of IT and underpinning a lot of what is actually going on in the in the IT sector in general. And it's quite exciting for the department to moving into that."
+        },
+        {
+            "text": "Within the department, we actually have a number of cloud providers. So we haven't just picked one. So we have an Amazon Web Services, AWS, we have Azure and we still provide a number of our services in house as well. Some of our more secure ones in on premise hosting in OPH."
+        },
+        {
+            "text": "On the payments, the digital payments, we are predominantly using AWS. And the benefits for us are significant. First of all, they provide a number of all-encompassing services. So when we go into AWS, they're providing all the wraparounds, sort of the security frameworks, the operational frameworks to actually support those. So in terms of the alerting. So a lot of that is given to you and my trick as the lead architect is making sure that we're using the right services, that we're getting the right information, monitoring the right things and then again, from a security perspective, making sure we're implementing the right security framework to make sure that our services are secure, but also so that people can access them in the appropriate ways."
+        },
+        {
+            "text": "The real benefits for me about using the cloud, AWS in particular, is the way we can start small, if we so desire quickly then scale up when we've identified a way forward. And one of the big things for us is the capacity on demand. So that we can, you know, when we have quiet periods, we can ramp down our services and then when we actually have busy periods, we have lots of transactions, we can ramp up those services very quickly indeed. In the old days, when it was on premise hosting, we would have to put an infrastructure in place that what we would term should actually cope with the highest volume. So potentially, you know, we have a lot of kit, but that kit is not being used, but we still have to pay for is capital expenditure. With the cloud, we can ramp up and ramp down those services, depending on the volumes going it through a very quickly and that leads to a much more cost effective approach and that is significant for the for the department."
+        },
+        {
+            "text": "Another benefit is and again, my experience is when we were putting, when I was on the regional payment service for the department, say 13 years ago, putting that infrastructure in place, you know, you literally started with a blank sheet of paper and when you want to put some hardware in place, you've got to procure it, you've got to get the funding for it and then you have to implement it and deploy it into the data centre. That could take months to actually do, whereas something like using the cloud it\u2019s literally available on tap and again, I can't emphasise to me better my experience is mind blowing the power and the flexibility. And it is a quantum change for the IT industry and something that the department is now really tapping into, and it's going to have significant benefits for us going forward, in particular that digital journey, providing our services digitally for the British public."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Thank you, Nick, that's really informative, lots of information there."
+        },
+        {
+            "text": "How are we driving innovation and change within the banking industry? Are they open to change and what benefits are there to working with the banking community?"
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "So, the payments industry is evolving at pace, and we're helping to inform a number of these industry changes, providing the direction by working closely with the key stakeholders in that space. We're expecting significant changes in the payments industry and this is due to the introduction of something called the New Payments Architecture, along with ISO20 022, which is a new messaging format, and these are the biggest set of changes that the industry has seen in many, many years."
+        },
+        {
+            "text": "These two key initiatives within the payments industry will alter the format and the schemes which underpin our payments today and this has been led by Pay.UK. But this will introduce huge opportunities that could really benefit our UK citizens and our internal agents and the way in which we deliver our payment service."
+        },
+        {
+            "text": "I mentioned earlier in the podcast in one of the first questions that as the largest payer in the UK, we've been able to help shape the direction of these changes. We started out by holding a number of workshops with the key payment industry stakeholders. We shared our findings from our discovery that we did at the start of our transformation work early last year. We share our needs as a payment provider and we've also shared the challenges and goals that we want to achieve within our vision for the future. The stakeholders that we met with along the way have been Pay.UK, Vocalink along with our payment service provider and government banking services, and a number of other government departments and we've all played a key part within our transformation journey."
+        },
+        {
+            "text": "You asked about the benefits of working closely together with the banking sector and just reflecting on that, we've really been able to influence this space and it's been able to open up a number of doors and opportunities. And being part of regular working groups and consultations that potential changes for the future, we can start to influence and allow the needs of our users and citizens to be met. It can also allow us and hopefully will help solve some of the challenges that we see today within our current constraints of the schemes and formats that currently underpin the way that we make payments today. It's going to allow us to really benefit not just DWP but our citizens as well."
+        },
+        {
+            "text": "Reflecting on lessons learned, this is something that we always like to do within our product developments and doing it in the way in which we interact with the relationships in the banking sector and also other government departments, we found that DWP was ahead of the curve. We're further ahead in our transformation journey, we started it quite, you know a number of years ago when thinking about what it is that we need, not just today, but for the future. It's had its own challenges in allowing us to kind of have our voice heard at the very start, but in forming relationships with other government departments, we've actually found that we all have the same problems when it comes to some of the challenges for our citizens. So we're able to share our research, share our learnings in how we've conducted that research and actually work together to solve the problem and come together to form one voice in influencing the payments industry."
+        },
+        {
+            "text": "So, it's been an exciting journey and we're still continuing to have this ongoing two-way feedback and being part of a number of consultations and working groups to influence the changes for the coming new payments architecture."
+        },
+        {
+            "heading": 3,
+            "text": "Nick Cutting"
+        },
+        {
+            "text": "So I think, historically, previously the banking industry was definitely seen as being conservative and limited in a number of services and even now, a lot of these old established banks are still using very old technology and legacy based systems. So they have that as that base. But now, because of the things we've been talking about in terms of the, you know, the cloud hosting and innovation, there are lots of new challenges to the banking service and sector in general. So, there is a lot of innovation going on."
+        },
+        {
+            "text": "So what we're doing in the department is that, obviously as we've previously articulated, we're actually quite a big user of the banking sector. So we are trying to influence and be involved in that conversation. So I think one level, that our new approach that myself and Nat were outlining before, the reference architecture, these design principles of micro services based in APIs, they're meant to underpin so that as these new banking innovations come through, that we can intercept with those in a much more cost effective, flexible, timely fashion."
+        },
+        {
+            "text": "So at this stage, we are engaging with the banking sector, we are aware of what is going on, and we're working with them to identify those innovations, which will support the department moving forward in a cost effective way and again, I think it's, you know, again, for the banking sector is quite a significant almost bordering on a quantum change for them, so it's quite exciting for the banking sector and then for us, as a department making sure that we can align and use those services, which will provide the best services to our citizens and our claimants who use our services."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Our strategy, approach, services and systems have all undergone different levels of change in recent years. What has been the most significant change for the Future Payments Service and its team?"
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "Over the last few years, we've started to see our strategies come to life within digital space. So we've heard a lot throughout the podcast around the application reference architecture, and bringing that to life within Digital Payment Services through the future payments project."
+        },
+        {
+            "text": "What we\u2019ve also seen the business strategy come to life a little bit more and we've been working closely with our colleagues to really understand the common activities that the business fulfil across the department. So, this has really helped influence and shape the Future Payments Service, and really validate our discovery findings at the very start of our journey two years ago."
+        },
+        {
+            "text": "So, when we talk about significant change and improvement within the last few years, and any changes that we've seen, it's not necessarily directly changes to payment services, but it's just validating our case for change and our reason for doing this and how important it is that we need to be able to deliver a payment service and that not just works for today, but also for the future. So it allows us to create that industry leading and intelligent payment system that allows us to pay the right amount on the right day to the right person, but also allows us to improve the experience for our agents as well."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what's next for Future Payments? What's in the development pipeline?"
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "So Digital Payments Services transformation journey is something that will be a multi-year project. We have been making some great progress over the last couple of years. We\u2019ve ran a huge in-depth design thinking discovery, looking at the different payment types and their journeys in which we make and manage. And also in the coming months, how we also receive payments into the department."
+        },
+        {
+            "text": "It's been a busy year, lots of interaction not just within the department, but externally with our banking sector colleagues and our government banking service colleagues and other government departments. We're going to continue that that interaction and the joining up of sharing research and findings and we're currently working on delivering a minimum set of payment capabilities that require us to make a manage a payment."
+        },
+        {
+            "text": "We're also working towards our vision to create an industry leading and intelligent payment service that allows us to pay the right amount on the right day to the right person. This will allow us to make sure that our citizens who are entitled to welfare payments can confidently depend on our modern and resilient payment system. It aims to deliver exceptional service to its users and it will be responsive, intuitive and adaptable to the changes that we see coming in the industry over the coming years."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, what has been the biggest learning from working on Future Payments?"
+        },
+        {
+            "heading": 3,
+            "text": "Nick Cutting\u00a0 "
+        },
+        {
+            "text": "My biggest learning so far and I've got previous experience of working on the department's payment system, so as Natalie was bringing out, the scale in size and volume of our services is significant. And the critical on the underlying philosophy is that, you know, we can't lose a payment, we need to make sure that we make our payments on time and securely to our customer base, that\u2019s quite critical."
+        },
+        {
+            "text": "So I've got previous experience of working in this area. So for me is building on that. So to make sure that the services we do build are secure and can cope with the volumes going through them. Now, we've actually started developing some of those services\u2019 capabilities already. So we're starting to develop things like bank validation, remittance calendar services and I think we made an excellent start."
+        },
+        {
+            "text": "And also, we're proving to the department that this new reference architecture is the way forward coupled with some of those key design principles of micro services, event based transactions, cloud hosting."
+        },
+        {
+            "text": "So I think we've made an excellent start and the thing for me now is to actually build on that and to build a real capability to support the department and its new aspiration of being, you know, digitally available, so that our claimants can access our services over the internet. So I think that's the key learnings. It is a positive that it is the right way forward. And now it's actually about building it at scale, both in terms of the volumes and the functions and services."
+        },
+        {
+            "heading": 3,
+            "text": "Natalie Weir\u00a0 "
+        },
+        {
+            "text": "So from a personal perspective, biggest learnings I would say, it's probably not just this project, because my whole time within DWP has been within payments on this piece of work. So, my whole experience of DWP has been payment services."
+        },
+        {
+            "text": "I would say that my biggest learning is just how big of a scale and complex the payment world is and it's been kind of my goal to really expose that and also be an ally for those joining us, that may feel the same as well when they first join in the project."
+        },
+        {
+            "text": "But that being said, it's also such an exciting place to work in. We talked earlier about the biggest set of changes that the payments industry have seen in years. And just being part of that, you know, gets me so excited and, you know, really trying to articulate really the vision that we're trying to achieve and the journey that we're on. You know, it's exciting, but it has its hiccups along the way but it's been really, really rewarding. Knowing that you\u2019re solving problems for real people just is such a really nice place to be involved and work within."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button if you want to make sure you don't miss our next episode. And I'd like to thank Natalie and Nick for taking part today."
+        },
+        {
+            "text": "I've certainly learned a lot about our Future Payment Service and I hope you did too."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

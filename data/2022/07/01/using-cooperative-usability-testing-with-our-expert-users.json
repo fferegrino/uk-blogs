@@ -1,0 +1,133 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2022/07/01/using-cooperative-usability-testing-with-our-expert-users/",
+    "title": "Using \u2018cooperative usability testing\u2019 with our expert users",
+    "authors": [
+        "Liam O'Brien",
+        "Samantha Dickinson"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "User research"
+    ],
+    "pub_date": "2022-07-01T11:33:50+01:00",
+    "content": [
+        {
+            "text": "At the Home Office, usability testing is our go-to method for finding out how well a service will work for people. With expert users we need to understand how well the service will work in the context of their role and wider business processes."
+        },
+        {
+            "text": "It\u2019s tempting to make these tests a conversation, but this can affect how our users behave and make our results less accurate."
+        },
+        {
+            "heading": 2,
+            "text": "Why asking users to think aloud can make your research less real"
+        },
+        {
+            "text": "In usability tests, we often ask our users to \u2018think aloud\u2019 so we can hear what they\u2019re thinking as well as see what they\u2019re doing."
+        },
+        {
+            "text": "This 'think aloud\u2019 method usually involves extremely limited interaction between the user and the researcher. But often it can be tempting to talk with participants while they\u2019re using the service."
+        },
+        {
+            "text": "Interacting with the user while they complete tasks makes the usability test less realistic. In the real workplace users won\u2019t have someone asking them questions about the service as they use it."
+        },
+        {
+            "text": "Studies have shown that taking an \u2018interactive\u2019 approach effects user behaviour, meaning your findings will be less robust and representative."
+        },
+        {
+            "heading": 2,
+            "text": "How cooperative usability testing can help"
+        },
+        {
+            "text": "In 2005, Erik Fr\u00f8kj\u00e6r and Kasper Hornb\u00e6k, two academics at the University of Copenhagen, proposed a solution to this problem called \u2018cooperative usability testing'."
+        },
+        {
+            "text": "The idea is simple. Instead of banning discussion between the researcher and the user, they suggest splitting the usability test into two sections:"
+        },
+        {
+            "heading": 5,
+            "text": "Diagram showing the difference between cooperative usability testing and other approaches."
+        },
+        {
+            "text": "While the \u2018task\u2019 section has the robustness of traditional usability testing, the \u2018discussion\u2019 section creates a partnership between the user and researcher."
+        },
+        {
+            "text": "Fr\u00f8kj\u00e6r and Hornb\u00e6k found that cooperative usability testing works particularly well with expert users. The more relaxed discussion is a fantastic way of exploiting the user\u2019s specialist domain knowledge and understanding how useful the service is for people in their role."
+        },
+        {
+            "heading": 2,
+            "text": "How to get the most from the method"
+        },
+        {
+            "text": "At the Home Office, we\u2019ve experimented with cooperative usability testing while working with expert users of immigration-related systems."
+        },
+        {
+            "text": "Here are some tips based on our experiences."
+        },
+        {
+            "heading": 3,
+            "text": "Choose the right project"
+        },
+        {
+            "text": "Not all projects will be appropriate for cooperative usability testing. We\u2019ve found it works best with short tasks as it relies on the user\u2019s memory of that task."
+        },
+        {
+            "text": "You can use cooperative usability testing with any users, but it works best with expert users. Traditional usability testing may be more appropriate for public-facing services."
+        },
+        {
+            "heading": 3,
+            "text": "Make time for the discussion section"
+        },
+        {
+            "text": "Using cooperative usability testing meant we had to extend the overall session time. When users are talking through their actions retrospectively there can be potential for repetition."
+        },
+        {
+            "text": "Good moderation of the discussion section can help focus the conversation on newer areas and shorten the overall session."
+        },
+        {
+            "heading": 3,
+            "text": "Take note taking seriously"
+        },
+        {
+            "text": "As we know, user research is a team sport. With cooperative usability testing we recommend getting the team to note down interesting things that happen during the task section so that you can talk about them in the discussion section."
+        },
+        {
+            "text": "Ideally, appoint a dedicated note taker who understands the service and the research objectives. We also built regular note taker \u2018check ins\u2019 into the discussion section to ensure we were covering all the key issues that emerged on each page."
+        },
+        {
+            "heading": 3,
+            "text": "Be prepared to step into a different role"
+        },
+        {
+            "text": "The shift between the task and discussion sections means researchers need to transition from being a mostly silent observer to playing a much more active role.\u00a0 The user needs to transition from just using the service to providing more reflective commentary."
+        },
+        {
+            "text": "It can be useful to brief the user at the start of the session about their role. You could say something like this:"
+        },
+        {
+            "text": "In our experience, even with expert users, not all participants feel comfortable engaging with the discussion section, especially if they don\u2019t feel they have the right skills or knowledge. Introducing it by saying something like this can help:"
+        },
+        {
+            "heading": 3,
+            "text": "Distinguish between the different kinds of data you\u2019re collecting"
+        },
+        {
+            "text": "Cooperative usability testing produces distinct kinds of data. The task section produces \u2018hard\u2019 data about user behaviour and what people think as they use the service. On the other hand, the discussion section produces \u2018softer\u2019 data that is vulnerable to several problems:"
+        },
+        {
+            "text": "We recommend you distinguish between the data from the two sessions in your analysis, and only base your findings on things evidenced in the more rigorous task section."
+        },
+        {
+            "text": "Despite these issues, we\u2019ve found the data in the discussion section extremely useful, especially in providing context on expert user behaviours and revealing their specific needs."
+        },
+        {
+            "heading": 2,
+            "text": "Want to make an impact?"
+        },
+        {
+            "text": "User-centred design at the Home Office is about designing our products and services in collaboration with the people who will use them. We work on some of the most challenging and important government services. Our work helps to keep people safe and the country secure."
+        },
+        {
+            "text": "You can find out more about user-centred design roles at our Home Office Careers website."
+        }
+    ]
+}

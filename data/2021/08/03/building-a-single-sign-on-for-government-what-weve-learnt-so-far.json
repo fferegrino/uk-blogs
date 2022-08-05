@@ -1,0 +1,134 @@
+{
+    "url": "https://services.blog.gov.uk/2021/08/03/building-a-single-sign-on-for-government-what-weve-learnt-so-far/",
+    "title": "Building a single sign-on for government: What we\u2019ve learnt so far",
+    "authors": [
+        "Mike Tattersall \u2013 Product Manager for the Digital Identity programme, GDS"
+    ],
+    "categories": [
+        "Service transformation"
+    ],
+    "pub_date": "2021-08-03T14:35:09+01:00",
+    "content": [
+        {
+            "text": "We are working with government teams to design a sign in and digital identity solution that supports our vision of  a simple, joined-up and personalised experience of government for everyone. Last month\u2019s post on the GDS blog outlined the problem we are trying to solve. One part of the solution to this problem is single sign-on, and today we want to share some key insights from our alpha phase."
+        },
+        {
+            "text": "Before we share our lessons learnt, we want to talk about how a single sign-on fits into the strategy for the digital identity. We started by talking to service teams about what they need. And then we broke the problem down into 2 statements.\u00a0"
+        },
+        {
+            "text": "We need to:"
+        },
+        {
+            "text": "This is a big challenge and there\u2019s a lot to look at. So, another team in GDS is looking at digital identity, while we tackle single sign-on.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re working on single sign-on"
+        },
+        {
+            "text": "Our overall vision is that:"
+        },
+        {
+            "text": "Single sign-on is a known problem; service teams told us that they need a solution now. It\u2019s also the front door to our wider digital identity service, and so it\u2019s the first user need we have started to address."
+        },
+        {
+            "text": "What do we want the single sign-on service to offer? It should:"
+        },
+        {
+            "text": "And, as we onboard services, it will slowly become the only username and password users will need to remember to use government services."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learnt"
+        },
+        {
+            "text": "Recently we attended our alpha assessment with a panel of our cross government colleagues. I\u2019m pleased to say that we successfully met the service standard. Our mission statement \u2018A simple and safe way to log in for everyone, and an easy integration path for service teams across government\u2019 resonated strongly with them."
+        },
+        {
+            "text": "During alpha, we recruited 329 end-user research participants for both quantitative and qualitative research. And we spoke to nearly 30 service teams from across 13 departments to understand what they need from an authentication product and an onboarding experience.\u00a0"
+        },
+        {
+            "text": "We wanted to share some key lessons from our alpha with you."
+        },
+        {
+            "heading": 3,
+            "text": "Lesson 1"
+        },
+        {
+            "heading": 4,
+            "text": "Users don\u2019t know which sign on works for which services"
+        },
+        {
+            "text": "From our user research, we've seen how users struggle to sign in to the services they need to use. They:\u00a0"
+        },
+        {
+            "text": "We want to reduce this confusion and help make government work the way users already think it does."
+        },
+        {
+            "heading": 3,
+            "text": "Lesson 2"
+        },
+        {
+            "heading": 4,
+            "text": "Build on what we already know"
+        },
+        {
+            "text": "A lot of good sign-on products already exist in government. They were never designed to work for all of government, but there\u2019s still a lot we can learn from them and the experiences of their service teams and users.\u00a0"
+        },
+        {
+            "text": "We worked with the teams behind these services to understand what works well and the lessons we can learn around technology, usability and governance."
+        },
+        {
+            "text": "We worked with Veterans UK to connect the Apply for the Armed Forces Compensation and War Pensions Schemes in to test our technology and our process. Tom Stewart,  Assistant Head of Modernisation for Veterans UK said, \u201cWe were able to integrate in just a few hours and, speaking as a Service Owner, my team and I are delighted to have been part of this crucial and exciting work.\u201d."
+        },
+        {
+            "text": "We want to make sure we use open standards wherever we can, so we\u2019re an OpenID Connect (OIDC) provider. OIDC is an open standard for authentication that is used in systems such as Open Banking and login.gov (US Gov equivalent)."
+        },
+        {
+            "text": "We want to build on what government already knows and create one secure sign-in service that is flexible enough to meet the needs of different digital services and their users."
+        },
+        {
+            "heading": 3,
+            "text": "Lesson 3"
+        },
+        {
+            "heading": 4,
+            "text": "It needs to work for service teams\u00a0"
+        },
+        {
+            "text": "Our product needs to be easy for service teams to join and use. We want to make the onboarding experience as straightforward as possible. Within 4 months we\u2019ve talked to nearly 30 service teams to find out what they need from this process."
+        },
+        {
+            "text": "We did an experiment in alpha with the Armed Forces Compensation Scheme service. We wanted to see how quickly they could integrate with us. It took them 3 hours. We learnt a lot about how we can further improve our technical documentation for service teams."
+        },
+        {
+            "text": "We want to make sure what we build is right for service teams and is easy for them to use at every stage."
+        },
+        {
+            "heading": 2,
+            "text": "What next"
+        },
+        {
+            "text": "We\u2019re looking for central government services to work with in our private beta. Any service teams that are interested can find out more on our product page.\u00a0"
+        },
+        {
+            "text": "Use the product page to:"
+        },
+        {
+            "text": "You\u2019ll see on the product page that we\u2019re calling our service GOV.UK Sign in for now. However, as we learn more, and our service develops, the name may change."
+        },
+        {
+            "text": "At the moment, GOV.UK Sign in is only for central government teams but we want to offer it more widely in the future. So, we\u2019re keen to hear from services across government and the public sector to find out more about your needs and make the product as interoperable as needed."
+        },
+        {
+            "heading": 3,
+            "text": "Related blog posts:"
+        },
+        {
+            "text": "A single sign-on and digital identity solution for government"
+        },
+        {
+            "text": "GOV.UK Accounts: Enabling proactive, personalised and joined-up services"
+        }
+    ]
+}

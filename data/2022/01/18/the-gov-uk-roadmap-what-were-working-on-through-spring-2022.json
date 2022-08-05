@@ -1,0 +1,76 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/01/18/the-gov-uk-roadmap-what-were-working-on-through-spring-2022/",
+    "title": "The GOV.UK roadmap: what we\u2019re working on through spring 2022",
+    "authors": [
+        "Leanne Cummings, Deputy Director for Portfolio Delivery on GOV.UK, Government Digital Service"
+    ],
+    "categories": [
+        "Vision and plans",
+        "What we're working on"
+    ],
+    "pub_date": "2022-01-18T10:07:58+00:00",
+    "content": [
+        {
+            "text": "It\u2019s time for the next update of the GOV.UK roadmap."
+        },
+        {
+            "text": "It\u2019s been a busy time for GOV.UK since our last roadmap iteration in May. Over the summer and autumn, we\u2019ve seen lots of our product teams launch new tools, make high priority content updates, iterate services, improve experience for users and more."
+        },
+        {
+            "text": "Let\u2019s dive into what we\u2019ve been up to, and what\u2019s coming next."
+        },
+        {
+            "heading": 2,
+            "text": "Celebrating delivery"
+        },
+        {
+            "text": "Teams working on GOV.UK have achieved lots of delivery milestones in the past few months. This means that lots of our work has either moved off the roadmap as it\u2019s been delivered, or moved into the recently shipped column."
+        },
+        {
+            "text": "This includes:"
+        },
+        {
+            "text": "All of this work happened alongside the critical work of keeping GOV.UK technically robust, accessible and accurate."
+        },
+        {
+            "heading": 2,
+            "text": "Working towards our GDS mission"
+        },
+        {
+            "text": "GDS has set itself a clear vision: to build a simple, joined-up and personalised experience of government for everyone."
+        },
+        {
+            "text": "The work done on GOV.UK contributes to mission 1 and 2 of GDS\u2019s strategy: \u201cGOV.UK as the single and trusted online destination for government information and services\u201d and \u201cJoined-up services that solve whole problems and span multiple departments\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s coming next"
+        },
+        {
+            "text": "As we build on our work to date, we\u2019ve got some exciting projects coming up including:"
+        },
+        {
+            "heading": 2,
+            "text": "Roadmap design iterations"
+        },
+        {
+            "text": "For this third edition, we\u2019ve kept our design changes to a minimum."
+        },
+        {
+            "text": "We\u2019ve removed the social media sharing buttons from the roadmap as we found they were not used much. And, we updated the \u201cBig numbers\u201d style to match what is in the GOV.UK component library. This ensures consistency in our design and our codebase."
+        },
+        {
+            "text": "We removed \u201cthe crown\u201d from the bottom of the roadmap as it was solely decorative and it pushed aside the second data point further to the right of the page. In doing that, users who rely on the operating system\u2019s screen magnifier may not be aware of that second data point on the page. In addition, the crown is removed when viewed on mobile."
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch"
+        },
+        {
+            "text": "We\u2019re always keen to hear from people interested in our work. We love using the roadmap to spark conversations with people across government, industry, academia or anyone else who wants to chat. You can email the team, leave a comment below or reach out on the GDS social media channels."
+        },
+        {
+            "text": "We\u2019re anticipating the next update of the roadmap will be in spring 2022. Subscribe to the blog to keep up to date with our work in the meantime."
+        }
+    ]
+}

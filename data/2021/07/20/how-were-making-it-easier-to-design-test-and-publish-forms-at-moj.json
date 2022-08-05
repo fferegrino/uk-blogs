@@ -1,0 +1,49 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2021/07/20/how-were-making-it-easier-to-design-test-and-publish-forms-at-moj/",
+    "title": "How we\u2019re making it easier to design, test and publish forms at MoJ",
+    "authors": [
+        "Mark Jefferson"
+    ],
+    "categories": [
+        "MoJ Forms",
+        "Our services"
+    ],
+    "pub_date": "2021-07-20T11:30:08+01:00",
+    "content": [
+        {
+            "text": "When the child funeral fund team were given just 6 weeks to launch a service, they turned to a new platform called Form Builder. They needed to move fast, iterate quickly, and didn\u2019t have the time or resources to work in the traditional way.\u00a0"
+        },
+        {
+            "text": "Form Builder gave them a way to create, test and launch a fully accessible, GOV.UK-style form without needing to code or worry about things like hosting and security. It saved them weeks of development and enabled them to launch on time. More than a dozen services have been launched with the help of Form Builder, including Complain about a court or tribunal and Check how to get repairs done in your rented home. They all benefited from being able to quickly design, test, build and publish forms to government standards - as well as free hosting and ongoing support."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from users"
+        },
+        {
+            "text": "As great as Form Builder was, we knew there were a few things holding it back:\u00a0"
+        },
+        {
+            "text": "Our users and our own data told us these things were a problem. Users needed to be able to access the application from any MoJ machine using any work email address - and they needed it to be easier to use. We knew that if we could fix these problems, even more people would want to use the service."
+        },
+        {
+            "text": "We solved these problems in a new service which we call MoJ Forms. It retains all the features that users really liked about Form Builder while being even easier and quicker to use:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Putting it to the test"
+        },
+        {
+            "text": "We think there are a lot of reasons for teams to use MoJ Forms. We\u2019ve already mentioned how it helps save on development time and development cost. It makes rapid prototyping and user testing a breeze because of how quickly and easily you can create a working design. And with a dedicated test environment, password-protected forms can be shared easily with stakeholders and sponsors for review and feedback.\u00a0"
+        },
+        {
+            "text": "MoJ Forms can\u2019t do everything that Form Builder could - yet. We are working now on adding branching and logic, which enables you to route end users around questions depending on previous answers. Longer term, we are looking at API integration, which enables you to collect user data directly into an application or system. We are also considering how to integrate forms with GOV.UK Pay and Notify and enable end users to save their progress and return later.\u00a0"
+        },
+        {
+            "text": "You can see a full list of current features and a user guide on what to expect on our product site. We also have a public roadmap on Trello where we invite MoJ colleagues and cross-government users to let us know what they are interested in to inform our direction based on needs.\u00a0"
+        },
+        {
+            "text": "We are currently in private beta and working with a limited group of active users to gather feedback and plan improvements. If you have an idea for how you might use MoJ Forms and would like to join the private beta, please get in touch. Drop us an email at moj-forms@digital.justice.gov.uk. "
+        }
+    ]
+}

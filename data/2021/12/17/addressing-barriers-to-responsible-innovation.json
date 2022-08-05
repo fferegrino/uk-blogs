@@ -1,0 +1,64 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/12/17/addressing-barriers-to-responsible-innovation/",
+    "title": "Addressing barriers to responsible innovation",
+    "authors": [
+        "Michael Birtwistle"
+    ],
+    "categories": [
+        "Artificial intelligence",
+        "Data",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2021-12-17T05:57:53+00:00",
+    "content": [
+        {
+            "text": "We have today published a new edition of our AI Barometer, an analysis of the most pressing opportunities and risks associated with AI and data use in the UK, and of the barriers that prevent us from realising the full potential of data-driven technologies."
+        },
+        {
+            "text": "The report focuses on three sectors severely impacted by the COVID-19 pandemic: transport and logistics, recruitment and workforce management, and education. As with last year\u2019s edition, the AI Barometer uses a novel methodology, rooted in community engagement with over 80 expert panellists, to present a clear picture of the potential of data-driven technologies in these sectors."
+        },
+        {
+            "heading": 2,
+            "text": "The prize to be won"
+        },
+        {
+            "text": "Understanding how we can best leverage technologies to address major challenges across our society and economy will be crucial to building back better. The AI Barometer identifies use-cases that hold the greatest promise in each sector:"
+        },
+        {
+            "text": "The wealth of potential benefits on offer is set against a finding that many of the most promising opportunities will also be among the hardest to achieve. Use-cases that involve integration into complex systems and environments (e.g. long-term planning) or interpersonal human decision-making (e.g. people management or understanding student needs) were seen by our expert panels as harder to achieve, as are applications that involve qualitative judgements of human performance (e.g. judging productivity, or grading humanities subjects). Using data-driven approaches to combat bias and discrimination remains challenging in these sectors, with few real-world examples available. The CDEI's work programme is focused on addressing some of these challenges, as detailed below."
+        },
+        {
+            "heading": 2,
+            "text": "Barriers to responsible innovation"
+        },
+        {
+            "text": "To achieve these benefits and make the most of what these technologies have to offer, we need to understand what\u2019s blocking them. The AI Barometer identifies the key cross-sectoral barriers."
+        },
+        {
+            "text": "A key challenge is ensuring data-driven technologies are trustworthy, and consequently trusted by users, organisations, markets and the public. The impacts of low trust in data-driven technologies have been highly visible in recent years, inhibiting innovation and ultimately depriving people of the benefits of these technologies."
+        },
+        {
+            "text": "A lack of clarity around the governance of data-driven technologies also features heavily. Where organisations lack the confidence to develop and deploy technologies, both they and society miss opportunities. Industry finds it particularly challenging to navigate how the patchwork of law and regulation applies in the myriad contexts data-driven technologies are used, with clear demand for better context-specific guidance and advice, to encourage innovation and avoid technology users and developers needing to be \u2018detectives in case law\u2019."
+        },
+        {
+            "text": "Other barriers include difficult to navigate markets with disconnects between vendor offerings and user needs, and ensuring the appropriate mitigation of risks such as algorithmic bias and the use of new AI-generated measures with unclear scientific validity (e.g. scoring an employee\u2019s \u2018engagement\u2019). Low data maturity (i.e. a lack of understanding) among many users can also limit the integration of technologies into organisational processes."
+        },
+        {
+            "heading": 2,
+            "text": "Business Innovation Survey\u00a0"
+        },
+        {
+            "text": "We have complemented the input of the AI Barometer expert panels with a major survey of British businesses conducted to understand their readiness to adapt to an increasingly data-driven world. It demonstrates that businesses are grappling with a range of barriers day-to-day, which hold them back from innovating. For businesses that regularly use data-driven technologies, barriers relating to low digital and data maturity (43%) were the most prominent. Almost a quarter (23%) reported finding it hard to access quality data, while a similar proportion (27%) cited uncertainty around the value of these technologies as a limiting factor. Meanwhile, those building data-driven technologies cited resource constraints - in terms of skills, funding and time - as the greatest barrier, with a lack of skilled staff coming at the top of the list."
+        },
+        {
+            "text": "Barriers around the clarity of data and AI governance were also prevalent; a fifth (19%) of businesses that regularly use data-driven technologies cited a lack of skills in-house to put appropriate ethical governance in place as a limiting factor. Businesses that have extensively deployed data-driven technologies in their processes noted the need for further legal guidance on data collection, use and sharing (78%).\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Addressing the barriers"
+        },
+        {
+            "text": "The barriers identified by the AI Barometer point to a range of possible solutions, such as better governance measures, clearer context-specific guidance and an important role for better data-driven product assurance. The CDEI\u2019s work programme is already helping to tackle these challenges, including through:"
+        }
+    ]
+}

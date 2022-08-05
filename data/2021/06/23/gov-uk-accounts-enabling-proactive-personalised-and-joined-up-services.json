@@ -1,0 +1,92 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/06/23/gov-uk-accounts-enabling-proactive-personalised-and-joined-up-services/",
+    "title": "GOV.UK Accounts: enabling proactive, personalised and joined-up services",
+    "authors": [],
+    "categories": [
+        "GOV.UK",
+        "Transformation"
+    ],
+    "pub_date": "2021-06-23T09:00:54+01:00",
+    "content": [
+        {
+            "text": "We've been trialling a GOV.UK Account on the Brexit Checker since last November. It's a way of letting users save their personalised answers, receive notifications and log back in to see what they need to do. We've written lots of blog posts about our work to show the different aspects of the trial - for example how we designed it, our privacy principles and our user research."
+        },
+        {
+            "text": "While we've been actively blogging about the trial, I also wanted to give an update on the longer term thinking behind our GOV.UK Account work since I last introduced it back in September 2020. I wanted to write about what a GOV.UK Account could enable, and what we still need to make that vision a reality."
+        },
+        {
+            "heading": 2,
+            "text": "The vision for GOV.UK"
+        },
+        {
+            "text": "In my 2021/22 update for GOV.UK, I covered how we're now implementing what's needed to make sure GOV.UK can provide proactive, personalised and joined-up services on GOV.UK. Our public roadmap shows how our work fits together and what we're working to solve."
+        },
+        {
+            "text": "Here's a quick video that explains it."
+        },
+        {
+            "text": "Our GOV.UK Accounts work is an important enabler for this work, and a leading part of Mission 2 of the Government Digital Service's strategy for 2021 to 2024: \"Joined-up services that solve whole problems and span multiple departments\". It will help eliminate the need for people to understand government, in order to interact with it."
+        },
+        {
+            "heading": 2,
+            "text": "GOV.UK as it stands"
+        },
+        {
+            "text": "GOV.UK currently is a central publishing platform to which more than 300 transactional services are attached. Almost all users start their journey by reading some information, before heading off into a service."
+        },
+        {
+            "text": "However, given GOV.UK holds a lot of information - more than 500,000 pages currently - sometimes just finding the information or service you need can be time consuming. Sometimes this is also combined with people not necessarily knowing what it is they need to know or do, or what they are entitled to."
+        },
+        {
+            "text": "This is why we're working on a GOV.UK Account - it's part of the infrastructure that will enable us to provide tailored experiences to the user - so that they can find the information they need to know, when they need to know it, on a device that works for them."
+        },
+        {
+            "text": "Building on the trial, we are progressing our work and expanding the GOV.UK Account across the GOV.UK platform."
+        },
+        {
+            "heading": 2,
+            "text": "Acting as a 'home account'"
+        },
+        {
+            "text": "In time, we see a GOV.UK account acting as a 'home account' for the user from which they can have a consolidated view of all their interactions with the government, then allowing them to go deep on whatever it is they want to do - complete a service, fill in a consultation or so on."
+        },
+        {
+            "text": "It doesn't matter where on GOV.UK a user signs in - the 'home account' element of this remains consistent. Think of this like deciding to purchase something online - you can have a 'guest checkout' but if you are a repeat user then you would sign in and, as well as being able to complete your transaction there (with that seller, let's say), you would also be able to see, use and manage your account with that company - like applying your bank details to that particular purchase, rather than re-entering them."
+        },
+        {
+            "text": "This model is not about making the join-up obligatory for the user, but to provide them with an option - to have some persistence with GOV.UK - that we believe will give them a better level of service."
+        },
+        {
+            "heading": 2,
+            "text": "Giving users continuity and curation"
+        },
+        {
+            "text": "Expanding the GOV.UK Account across the publishing platform advances the goal to give the user continuity and curation of their experience with government online."
+        },
+        {
+            "text": "An account will allow users to have a quick route to the information they need. It can also let the user curate this view themselves, and will help them manage their different personas (personal, professional, as a carer, business owner and so on)."
+        },
+        {
+            "heading": 2,
+            "text": "Progressing what GOV.UK Accounts can enable"
+        },
+        {
+            "text": "To implement Mission 2 of GDS's strategy, we want to expand what a GOV.UK Account can do. We'll be doing this with the digital identity programme and their One Login for Government vision. Their role is to remove the friction of having different accounts with different government services."
+        },
+        {
+            "text": "This relationship - between access management, trust in someone's identity, and the level of service the account will provide - allows us to progress 2 further goals:"
+        },
+        {
+            "text": "Which is to say, if we're really confident we know who you are then we might allow you to change your personal data, to get money from government, or act on behalf of a business, for example. If we're not that confident in who you are then those kinds of options won't exist for you within the account."
+        },
+        {
+            "text": "Similarly, there are lots of interactions with government that are not single transactions - they happen over time or are complex topics. Life events - like having a child, moving into new markets, or retiring. This kind of infrastructure - the GOV.UK Account secured through access management - will allow us to radically reimagine how we provide that kind of end-to-end service."
+        },
+        {
+            "text": "There are a bunch of other things this work can enable, but for now this is enough for us to be getting on with!"
+        },
+        {
+            "text": "Get in touch if you'd like to find out more about this work - we'd love to talk."
+        }
+    ]
+}

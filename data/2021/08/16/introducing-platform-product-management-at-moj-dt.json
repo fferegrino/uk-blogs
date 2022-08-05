@@ -1,0 +1,76 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2021/08/16/introducing-platform-product-management-at-moj-dt/",
+    "title": "Introducing Platform Product Management at MoJ D&T",
+    "authors": [
+        "Alex Craciun"
+    ],
+    "categories": [
+        "Platform Product Management"
+    ],
+    "pub_date": "2021-08-16T11:29:41+01:00",
+    "content": [
+        {
+            "text": "Hello, my name is Alexandra Craciun but everyone calls me Alex or Ali. I joined the Platforms & Architecture team at MoJ Digital in October 2020 as the Product Manager for Analytical Platform.\u00a0"
+        },
+        {
+            "text": "I always found it hard to give an exact definition of product management, because our discipline is so complex, but in my view, a PM should be a problem solver, focused on:\u00a0"
+        },
+        {
+            "text": "I\u2019ve been in Product Management for almost 3 years and before this, my career spanned across Finance, Sales & Tech. As a PM, I consider myself lucky to have moved from B2C products (Mobile Apps) to B2B (Enterprise Retail Technology) to now Data Platforms. I gained the experience of building different types of products, solving hard problems for different organisations.\u00a0"
+        },
+        {
+            "text": "When I started the job search that led me to MoJ D&T in the summer of 2020, I knew I wanted to work with data products, but the concept of \u2018platform product management\u2019 was still very foreign to me. When the opportunity to work on the Analytical Platform came along, it was an easy decision for me because I wanted to try something new, and my product career has always been driven by making an impact and trying to change the world. (Yes, really!)."
+        },
+        {
+            "text": "What is the Analytical Platform?\u00a0"
+        },
+        {
+            "text": "The Analytical Platform is a product enabling Analysts and Data Scientists \u201cto be the best they can be\u201d, and it significantly improves the organisation\u2019s ability to put data at the heart of decision making.\u00a0"
+        },
+        {
+            "text": "For a more technical definition, the Analytical Platform is a data analysis environment, providing modern analyst coding tools such as R and Python. This allows our users to build machine learning models, analyse unstructured data, process complex data sets, build data products, and in general do a lot of great work with data.\u00a0"
+        },
+        {
+            "text": "Next on the roadmap for the Analytical Platform team is to enhance the platform capabilities and we are currently doing product discovery into potentially expanding our infrastructure to Management of Information Reporting."
+        },
+        {
+            "text": "Platform Product Management - what do you mean?\u00a0"
+        },
+        {
+            "text": "There are multiple definitions of what a platform is, but my favorite one comes from Brandon Chu, VP of Product at Shopify who defines \u2018platforms\u2019 in contrast to \u2018product\u2019:\u00a0"
+        },
+        {
+            "text": "\u201cA product is building something to ship to customers, a platform is building a place where other builders or creators can build things to ship to customers.\u201d"
+        },
+        {
+            "text": "As a Platform Product Manager, a big part of your role is to make this \u2018building foundation\u2019 the best it can be for the creators and their end-users, all whilst driving organisational value. Hard, right? Don\u2019t worry, it does get easier the more you understand the space you are in.\u00a0"
+        },
+        {
+            "text": "Here are 3 key lessons I\u2019ve learned in my role, so far and why I think platform product management is slightly different: "
+        },
+        {
+            "text": "Prioritisation is even harder and has multiple levels"
+        },
+        {
+            "text": "As a PM you have to think about how a piece of functionality can span across different products, all whilst having the bigger picture in mind. To solve this, I have adopted a continuous prioritisation framework in our team, creating our method, which transformed the way we think about our priorities."
+        },
+        {
+            "text": "Stakeholders are many and oh so different..."
+        },
+        {
+            "text": "We talked at the beginning about how platforms enable other products, so as a PM you always build for at least three different types of users: our core users (in our case, the analysts and data scientists), their end-users (this list can include anything from senior stakeholders in MoJ, to senior government officials) and finally the engineers who build the platform and want to work with the latest tools and technologies."
+        },
+        {
+            "text": "Roadmaps are more technical and with a longer term-view"
+        },
+        {
+            "text": "As a PM, I like to keep the roadmaps simple and focused on outcomes. With a platform, you can still achieve that but the roadmap has to take a long-term view to manage the expectations of the different stakeholders who are also more technical. You have to constantly try and think about the maintainability and reliability of your platform, and that is usually reflected in your roadmap.\u00a0\u00a0"
+        },
+        {
+            "text": "There is a lot of really great content out there for product managers on what the role is, how you should approach it, and basic principles, but there isn\u2019t as much about how to apply things you learn on a platform product. In my experience, thinking creatively and keeping an open mind does help a lot; avoid one-size fits all approach and always try to understand the bigger picture.\u00a0"
+        },
+        {
+            "text": "My journey in D&T has been incredible so far and as a PM, I'm fortunate to work with a strong and empowered engineering team, which makes my day-to-day work a lot easier and equally exciting. "
+        }
+    ]
+}

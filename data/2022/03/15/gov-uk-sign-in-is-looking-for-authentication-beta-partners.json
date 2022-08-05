@@ -1,0 +1,57 @@
+{
+    "url": "https://services.blog.gov.uk/2022/03/15/gov-uk-sign-in-is-looking-for-authentication-beta-partners/",
+    "title": "GOV.UK Sign In is looking for authentication beta partners",
+    "authors": [
+        "GDS team"
+    ],
+    "categories": [
+        "Service transformation"
+    ],
+    "pub_date": "2022-03-15T10:17:34+00:00",
+    "content": [
+        {
+            "text": "GDS is building a single sign-on and identity checking solution for government services as part of the One Login for Government programme. Today our product lets central government services authenticate their users using an email, password and optional two-factor authentication. In the future it will let services do identity checks for their users as well.\u00a0"
+        },
+        {
+            "text": "At the moment the single sign-on product is known as GOV.UK Sign In and we are looking for live services as private beta partners. Use it when your users have to log in to your service. Use it for long application forms where your users save their progress and return to it later. Use it when your department already has an identity and access management (IDAM) system or customer identity management (CIAM) system like Keycloak, AWS Cognito, Forgerock or Azure b2c."
+        },
+        {
+            "text": "Best of all, it makes things easier for your users. As we add more services we get closer to our long-term goal of One Login for Government because your users will use the same email and password for all services built with our product."
+        },
+        {
+            "heading": 2,
+            "text": "Play around with the product"
+        },
+        {
+            "text": "The easiest way to understand our authentication product is to play around with it and figure out how it works. If your service is funded by central government it\u2019s easy to get started:"
+        },
+        {
+            "text": "Then it\u2019s over to you and your team. Integrate your service to see how our endpoints work. Send people through the login flow to figure out what data you get back. Plug the login account flow into your prototypes and do user research with your real users!"
+        },
+        {
+            "text": "If you get stuck you can ask us for help. We offer support through our cross-government Slack channel and for more formal requests you can raise a support ticket.\u00a0"
+        },
+        {
+            "text": "Once you\u2019ve figured out how it works then you can request to be a private beta partner if you want to use the product as part of your live service. We make private beta partner decisions on a case by case basis."
+        },
+        {
+            "heading": 2,
+            "text": "Shape the future of One Login for Government"
+        },
+        {
+            "text": "One Login for Government is a three year programme. The single sign-on product will have features added throughout these three years. We are at the start of this journey."
+        },
+        {
+            "text": "In the short term our priority is to expand two-factor authentication to include more authentication methods and allow use of other phone numbers beyond UK mobiles. We are working hard to understand how we can improve the service for users with access needs as well."
+        },
+        {
+            "text": "After this our service will start to include identity checks, aligned to the Good Practice Guide (GPG) 45 framework that allow services to pick the level of identity assurance they need based on the risks associated with their service.\u00a0"
+        },
+        {
+            "text": "All of these things will be delivered incrementally and in partnership with government partners so we can both ensure that we're delivering things that are genuinely useful but also so we can benefit from continuous early feedback."
+        },
+        {
+            "text": "Sign up today and you get a front-row seat for these changes. You\u2019ll see new features as we add them. We\u2019ll invite you to take part in research about the future. The support tickets you raise will lead to product improvements. Our product is built for the needs of service teams and the best way to influence it is to take an active part."
+        }
+    ]
+}

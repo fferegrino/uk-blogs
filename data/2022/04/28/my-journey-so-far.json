@@ -1,0 +1,45 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/04/28/my-journey-so-far/",
+    "title": "My Journey So Far",
+    "authors": [
+        "Chris Groves"
+    ],
+    "categories": [
+        "A day in the life",
+        "developer",
+        "Development",
+        "digital people",
+        "Digital skills",
+        "Learning and development"
+    ],
+    "pub_date": "2022-04-28T09:49:46+01:00",
+    "content": [
+        {
+            "text": "I joined Justice Digital - LAA in May 2020 as a Junior Software Developer having decided on a career change via a coding bootcamp. I\u2019d experienced only small projects and some minimal exposure to agile ways of working, but this changed when I joined a dynamic agile team, working across multiple live applications with many lines of code."
+        },
+        {
+            "text": "I soon began picking up work (known as tickets) on my own. At first I needed lots of support and pair programming to get work over the line but gradually gained confidence. Something that helped build my skills and confidence was to spend some time on my own seeing how much progress I could make before asking for help."
+        },
+        {
+            "text": "The first time I completed a ticket on my own it was only a small change but I was able to understand it, identify where in the codebase to work, decide what action was needed then made the change. I was so pleased I\u2019d done all that unaided."
+        },
+        {
+            "text": "Over time my confidence has grown and I now identify work to be completed and create tickets myself. I also try to resist the feeling that asking for help is a sign of weakness. Throughout their careers developers will need to ask for help or work together, and pair programming is highly encouraged in Justice Digital - LAA."
+        },
+        {
+            "text": "Learning and Development (L&D)\nL&D is heavily supported within Justice Digital - LAA and staff are encouraged to access all manner of resources to support them. My developer colleagues and I use Pluralsight, which has a wide range of video courses and O\u2019Reilly, which I use to access books. I also have a subscription to the GoRails website to improve my Ruby on Rails knowledge."
+        },
+        {
+            "text": "Busy schedules mean it's challenging to set time aside each week for L&D, but I attend regular code reading clubs and a book club with fixed calendar sessions. The code reading club looks at unseen pieces of code in an unfamiliar language to see what we can understand from it. The weekly book club reviews an agreed book section that we read individually and discuss at the next session. These have been great to not only improve my knowledge of software development but also in meeting colleagues from other teams too."
+        },
+        {
+            "text": "I have also been building a \u2018To Do\u2019 list application using Ruby on Rails. Advice I received when learning something new was to get stuck in with building a project, read books and watch tutorials and keep it simple. Keeping this project simple has been great for improving my understanding of Rails and good code practices such as REST."
+        },
+        {
+            "text": "Communities of Practice (CoP)\nShortly after I joined Justice Digital - LAA became a founding member of the Testing CoP which looks at helping development teams work more effectively with testers, ensuring they are involved throughout development work. This has greatly expanded my knowledge of the different types of testing (including mutation testing) and how I can collaborate better with the tester on my team. I\u2019ve also presented to the group and shared my experience of exploring different tools to produce data for API testing."
+        },
+        {
+            "text": "Working in Justice Digital - LAA has at times been challenging but also really enjoyable. There is always something to learn and plenty of support to help me grow. I am looking forward to building my experience and seeing how the next stages of my career unfold."
+        }
+    ]
+}

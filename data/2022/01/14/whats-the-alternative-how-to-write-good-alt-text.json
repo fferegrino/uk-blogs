@@ -1,0 +1,102 @@
+{
+    "url": "https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text/",
+    "title": "What\u2019s the alternative? How to write good alt text",
+    "authors": [
+        "Design102 team"
+    ],
+    "categories": [
+        "Accessibility",
+        "Advice",
+        "Copywriting"
+    ],
+    "pub_date": "2022-01-14T12:00:42+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "How do you write good alt text?"
+        },
+        {
+            "text": "Alternative text, often called alt text, is not a new concept, but as more of our lives are focused online, it\u2019s important that we do everything we can to make sure our content can be accessed by as many people as possible."
+        },
+        {
+            "text": "With the recently published Government Equalities Office disability strategy detailing how it wants to make the UK the most accessible place to live in the world, we should all focus on how we can make digital content the most accessible place for everyone, too."
+        },
+        {
+            "heading": 2,
+            "text": "Who uses alt text?"
+        },
+        {
+            "text": "When uploading images and visuals online, or in documents shared digitally, adding alt text can help people using assistive technologies to 'hear' those visuals. We aim to make sure that anyone using alt text through assistive technologies can get the same information from the description of an image as someone who relies on the visuals. Alt text often assists visually impaired people but is also used for search engine optimisation and for making sense of an image if it isn't visible or doesn't load."
+        },
+        {
+            "heading": 2,
+            "text": "What elements need alt text?"
+        },
+        {
+            "text": "When writing alt text, you should consider: will any of the content\u2019s meaning be lost if the image can\u2019t be viewed and is the image purely decorative?"
+        },
+        {
+            "text": "Decorative images with alt text can make the content \u2018noisy\u2019 \u2013 this is a term used by assistive technology users to describe alt text on images that don\u2019t need to be described and add no worthwhile information. This includes elements such as borders, line breaks and brand graphics. Keeping alt text concise is a skill, and honing in on that skill to make the most of your alt text will ensure that many accessibility needs are met."
+        },
+        {
+            "heading": 2,
+            "text": "How to write alt text"
+        },
+        {
+            "text": "Writing alt text is all about context. Being aware of how the image is presented and the context in which it sits will give any assistive technology user a better experience. If you\u2019re writing about an image of a painting, you might want to consider if the style of painting is important, does knowing the painter\u2019s name add value? It\u2019s up to you to decide what information is essential."
+        },
+        {
+            "text": "Here are a few of things to keep in mind when writing alt text:"
+        },
+        {
+            "heading": 2,
+            "text": "Alt text on social media"
+        },
+        {
+            "text": "Only recently have websites and social media platforms made it easier for us to add alt text. When uploading images to sites like Twitter and LinkedIn, you are now automatically prompted to add alt text."
+        },
+        {
+            "text": "Hashtags are an essential part of social media. If you write a hashtag all in lowercase such as: #designinlondon \u2013 a screen reader will struggle to identify the individual words. For this hashtag to be read aloud accurately, we need to use CamelCase, so this hashtag now becomes #DesignInLondon. CamelCase is a way of writing without spaces or punctuation, but indicating a new word by starting it with a capital letter."
+        },
+        {
+            "heading": 2,
+            "text": "Alt text examples"
+        },
+        {
+            "text": "The following examples of alt text will give you an idea of how it could be written."
+        },
+        {
+            "heading": 3,
+            "text": "Example 1"
+        },
+        {
+            "text": "\nThe alt text for the image above could be: Two prison guards stand in a hallway, both are laughing."
+        },
+        {
+            "text": "Adding information about gender, age and race may not help with the context in this image. However, those elements could be considered, but be careful not to make assumptions."
+        },
+        {
+            "heading": 3,
+            "text": "Example 2"
+        },
+        {
+            "text": "\nThe example from Instagram featured above, already comes with a descriptive caption. Alt text probably won\u2019t provide any further information, so adding it in this case isn\u2019t necessary."
+        },
+        {
+            "heading": 3,
+            "text": "Example 3"
+        },
+        {
+            "text": "The alt text for the photo above of a mural could be: A mural of actor Chadwick Boseman, graffitied on a wall. T\u2019Challa, Boseman\u2019s superhero character, has been painted in the background with the artist\u2019s name, artful_dodger underneath. The words Black Panther Lives, Chadwick Boseman 1976 to 2020 also appear in graffiti."
+        },
+        {
+            "text": "This image needs quite a substantial amount of alt text. Sighted people could gain a lot of information from just a glance at this image: who, where, what, as well as any text that is part of the image. Alt text should reference the same information."
+        },
+        {
+            "text": "There are no set rules for writing alt text, and adding \u2018bad\u2019 alt text is still better than adding none at all. If alt text is missing from images and other visuals such as graphs, charts and infographics, on websites and in any files you share digitially, a significant number of your audience could be unable to access the information you're trying to convey. According to the Royal National Institute of Blind People (RNIB), two million people in the UK live with significant sight loss, and many of these will use assistive technologies that rely on alt text."
+        },
+        {
+            "text": "If you have any questions about accessibility, Design102 are experts at making sure projects meet government accessibility requirements. If you\u2019d like to know more, or you\u2019ve got a project we can help with, just drop us a line at hello@design102.co.uk"
+        }
+    ]
+}

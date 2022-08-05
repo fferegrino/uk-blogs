@@ -1,0 +1,89 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2022/06/28/digital-planning-reform-an-overview/",
+    "title": "Digital planning reform - an overview",
+    "authors": [
+        "Paul Maltby"
+    ],
+    "categories": [
+        "Digital Land",
+        "Digital Planning",
+        "PropTech"
+    ],
+    "pub_date": "2022-06-28T13:40:28+01:00",
+    "content": [
+        {
+            "text": "Have you ever tried to get planning permission or engage with the planning system as a user? For homeowners wanting to make improvements or housing developers building new homes the experience is too often one of confusing and seemingly uncertain rules, annoying software and long waits. For those working in planning authorities the experience is little better\u2014poring through countless submitted documents, wasting time rectifying minor errors in applications and spending too little time doing the highly skilled 'place shaping' work that they were trained to do."
+        },
+        {
+            "text": "Perhaps you have not been directly involved in the system but still have an interest\u2014as a person struggling to find a place of their own and keen to see more suitable houses built, or as someone concerned that poor quality development is blighting their local area. We all know you can have your say locally, if you can track down and understand the notice posted on a lamppost, if you can make time to pore over diagrams in the town hall when it is open, or if you can turn up in person at a public planning meeting."
+        },
+        {
+            "text": "Planning is where democracy about the contested use of place happens, it is also a lynchpin of wider economy growth. While the headlines are reserved for high profile planning issues such as big national infrastructure, much of the time of the planning system is taken up with relatively basic transactional matters. And that process too often looks and feels like it is from a different era."
+        },
+        {
+            "text": "The digital planning reform team in DLUHC have been working over the last couple of years to investigate how digital and data could improve on what we have now: saving time and money for both end-users and planning authorities, and better connecting the public to the issues and decisions made on their behalf. We have worked hard to understand user needs and prototyped a range of digital tools during that time. While legislation underpinning this approach is now in Parliament as part of the Levelling Up and Regeneration Bill, the digital services are already out in the wild, being used by growing numbers of people as we iterate and scale up the offer."
+        },
+        {
+            "heading": 2,
+            "text": "The three core elements to our approach"
+        },
+        {
+            "heading": 3,
+            "text": "1. Digital citizen engagement"
+        },
+        {
+            "text": "The first part of the reforms is about using modern digital tools to improve the way in which the public can engage with the planning process. We know there are a clutch of small but dynamic UK PropTech companies that have specialised in citizen engagement about local issues, whether about housebuilding or related concerns like local environmental or traffic schemes. We also know that some planning authorities are interested in looking at new approaches to complement those traditional forms of engagement, but are not sure what good looks like and are too small individually to influence the market."
+        },
+        {
+            "text": "Our PropTech Engagement Fund, now in its second round, is designed to stimulate this market - enabling PropTech startups to iterate their products and demonstrate to their backers that there is a stable demand for their offer; and enabling councils to experiment more easily with these new methods, so reformers in the sector can demonstrate the potential to their own organisations and test what works for their local populations. The aim is for central government to shape and where necessary regulate a modern digital marketplace, not for central government to supply or centralise an area of public service that thrives on proximity and trust with local communities. It is still early days for the fund, but one example is Watford Borough Council who are trialling the benefits of putting all new major planning applications online for people to view and make comments on."
+        },
+        {
+            "heading": 3,
+            "text": "2.Modern development management software"
+        },
+        {
+            "text": "The second of our approaches is related to the process of applying for and approving planning permissions, known as 'development management'. At the moment this system is semi-analogue; of course, applications can already be made on the web and there are back office digital services for planning officers to use to make decisions. But these existing systems mostly transport analogue data, largely in the form of uploaded PDF documents which have to be matched against a set of rules that again only exist as (hard to find) documents, and it is often not straightforward to extract the data and use it in an interoperable way. The planning system prizes the space given for judgement calls about the suitability of development by planning professionals and politicians, but large parts of the system, especially where national permitted development policy is concerned, is essentially rules-based \u2013 if it meets the criteria set out then it's fine to proceed past that element of the process. The irony is that the rules and the data which relates to it are strangely ambiguous where they have no need to be, and this makes the whole system feel unnecessarily uncertain, cumbersome and risky."
+        },
+        {
+            "text": "We believe there is a significant opportunity to move to a next generation of digital services where the things that should be known are known, and are machine-readable so that modern software can guide the application and decision process so that it requires much less effort. There are two complementary open source software projects that we are investing in\u2014Reducing Invalid Planning Applications (RIPA) and the Back Office Planning Service (BOPS)\u2014both of which emerged from our earlier Local Digital Fund and have been developed in partnership with Lambeth, Southwark and Buckinghamshire councils."
+        },
+        {
+            "text": "RIPA translates central and local legislation and guidance into a software decision tree, and then uses well-written content and diagrams to guide applicants through the process\u2014indicating where and how proposals need to be changed in order to meet those rules. The first iteration of the product has been done with the high volume (but relatively simple) question of finding out if planning permission is required for a particular development, all too often a frustrating process for end-users and councils alike. This product went into public use in those councils this year."
+        },
+        {
+            "text": "BOPS takes on the process from when the application reaches the local planning authority. Instead of leaving officers to pore through the material to determine what it is being proposed and whether it meets the rules, it presents the information provided from RIPA in a more user-friendly, data-centric way. It indicates clearly whether the application meets the criteria set out in the rules-based elements of the system, and points planning officers to the core decisions they need to make using their experience and judgement."
+        },
+        {
+            "text": "The plan is for these tools to be expanded in scope and also by growing numbers of councils\u2014there are eight local planning authorities in the process of adopting the products. As with our work on digital citizen engagement, we are not aiming for central government to become a software provider to this market, rather we are using the leverage of central government to modernise and where necessary regulate the fundamentals of this market to bring it into the modern digital age. We expect a number of councils to provide governance over the emerging open source tools, and for private software providers to provide commercial offers based on these core products (as seen in models like the Local Gov Drupal project, another local authority digital reform backed by the Local Digital Fund). We are also working with existing planning software providers in the market to enable their products to adapt and integrate with these new services, and we are seeing interest in these providers taking elements of the open source code to improve their own offers."
+        },
+        {
+            "heading": 3,
+            "text": "3. Planning data that is easy to find, use and trust"
+        },
+        {
+            "text": "At its heart these digital planning reforms are about moving to a data-led planning system. But the data produced and used by the planning system is notoriously fractured and analogue. We want to expose the fundamental data required for and produced by the planning system and to see that data standardised so that it is suitable for both the state and external users to build value-adding digital services on top of."
+        },
+        {
+            "text": "Driven by the real-world software needs of RIPA and BOPS, we have developed an approach with councils that a) creates standards for critical planning data, b) helps councils provide data to these standards by collecting and indexing it centrally and providing feedback useful to the council, and c) creates a platform that external digital services can use to find, download or access the data directly\u2014regardless of whether those services are associated with the state like RIPA and BOPS, or whether they are external PropTech companies or analysts. This platform also provides a basic visualisation of the data, although we expect others will develop more user-friendly and sophisticated ways for citizens to interrogate the data."
+        },
+        {
+            "text": "Prototypes of this work already exist in the open, via digital-land.info (although our public Beta will move to a gov.uk URL in the near future), although the coverage of data sets and local areas is limited to the areas we have been working with so far, or where the data is already published elsewhere. Our approach is designed to keep data close to those who create and publish the data, not to centralise and store or create data remote from the original custodians, but to index and to create paths to ingest this data nationally. Users have repeatedly told us they want to avoid having to go to each planning authority to obtain the data, and want it to be consistent and machine-readable."
+        },
+        {
+            "text": "We are conscious of how this Government as a Platform approach needs to work with and support the emerging and ambitious UK PropTech sector. There are rapidly growing companies like LandTech and Urban Intelligence who have pre-existing and sophisticated data-led offers that provide data and insights to commercial users; there are innovatively disruptive companies like residential online architects Resi who have told us they are eager for planning rules to be more straightforwardly available and machine-readable across the country; and venture capitalists such as Pi-Labs who are investing in the PropTech sector."
+        },
+        {
+            "heading": 2,
+            "text": "The start of an end-to-end digital planning system"
+        },
+        {
+            "text": "These three areas of digital reform above sit as part of a wider end-to-end planning system, where there are many other areas of potential. For instance, the Planning Inspectorate has recently launched their new 'Appeal a planning decision' service, and\u2014linked to the data infrastructure work\u2014there are opportunities to improve how the evidence base for local plans is gathered, and to create local plans themselves in a more digitally-native way."
+        },
+        {
+            "text": "In this project we have worked as a team alongside policy colleagues in the department, and have drawn on our core digital ways of working: wherever we can we work in the open (see our related Local Digital website and YouTube and Twitter accounts), and our approach is rooted in the vision of modern, reusable, user-friendly, data-led and modular digital services for local government set out in the Local Digital Declaration. A fundamental aspect of the team's approach has been to support and back the growing community of digital reformers in local government and planning authorities, and to promote a better connection with the emerging UK PropTech sector."
+        },
+        {
+            "text": "As legislation passes its course through Parliament these digital reforms to the planning system are already taking shape in the real world, and are being improved upon based on the feedback from users as they scale across the country."
+        }
+    ]
+}

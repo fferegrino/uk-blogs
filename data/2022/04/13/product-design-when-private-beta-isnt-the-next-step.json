@@ -1,0 +1,107 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/04/13/product-design-when-private-beta-isnt-the-next-step/",
+    "title": "Product design: when private beta isn\u2019t the next step",
+    "authors": [
+        "Lindsay Green - Content Designer, DWP Digital"
+    ],
+    "categories": [
+        "Content Design",
+        "DWP Digital",
+        "Product Design",
+        "Service Design"
+    ],
+    "pub_date": "2022-04-13T14:31:09+01:00",
+    "content": [
+        {
+            "text": "We know that not all projects move from alpha to private beta. But there\u2019s an expectation that it\u2019s the next logical step\u2026 then to public beta, then live."
+        },
+        {
+            "text": "So, when we realised our project wouldn\u2019t make it out of alpha, it felt a bit sad. Almost like something had gone wrong."
+        },
+        {
+            "text": "We won\u2019t be the only team who find themselves in this situation and we wanted to share what we have learned and more importantly, how it\u2019s actually been a positive thing."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s the story?"
+        },
+        {
+            "text": "Our alpha focused on \u2018mandatory reconsiderations\u2019. This is where a citizen is unhappy with a benefit decision and asks the Department for Work and Pensions (DWP) to look at it again. The citizen explains why they think the decision is wrong and can give evidence to support their case."
+        },
+        {
+            "text": "Our discovery work pointed towards this being a key area for us to improve for several reasons:"
+        },
+        {
+            "text": "It felt like we were operating in an area that had so many opportunities for change and improvement, it was hard to know where to start."
+        },
+        {
+            "heading": 2,
+            "text": "Our focus"
+        },
+        {
+            "text": "Our discovery work showed that Personal Independence Payment (PIP) receives the highest volume of mandatory reconsiderations, so this is where we decided to focus our efforts. We set out by mapping our user journeys, starting with the PIP application, and ending with the appeals process."
+        },
+        {
+            "text": "Our service was in the middle. At first that felt ok as there were clearly defined \u2018start\u2019 and \u2018end\u2019 processes to an application, mandatory reconsideration and then an appeal. But what emerged very quickly was that citizens didn\u2019t see it chunked up that way. They saw it all as their \u2018PIP application\u2019. They didn\u2019t want to start a new process. Our user research was telling us we needed to build the mandatory reconsiderations process onto the existing service."
+        },
+        {
+            "heading": 2,
+            "text": "A complex landscape"
+        },
+        {
+            "text": "We also learned more about all the work going on to improve the PIP application process. Their goal was to ensure that fewer applications get to the mandatory reconsiderations stage in the first place."
+        },
+        {
+            "text": "The team who were developing the online PIP service were already building in excellent feedback loops to improve the service, learn from mistakes and make it easier for citizens to give DWP the right information and evidence at the start."
+        },
+        {
+            "text": "This work was well underway and would affect anything we knew we\u2019d need to build to help citizens. It started to feel like we didn\u2019t have a \u2018new\u2019 service to work on that would fix lots of problems. It felt more like we were trying to squeeze into a space that was rapidly changing size and shape. We felt that digitalising the mandatory reconsiderations service could be more of a hindrance than a help at this point."
+        },
+        {
+            "heading": 2,
+            "text": "Solve a whole problem for users"
+        },
+        {
+            "text": "The second Government Digital Service (GDS) service standard was screaming out to us. We couldn\u2019t solve a whole problem for users alone. It wasn\u2019t going to be possible to look at this \u2018mandatory reconsiderations chunk\u2019 in isolation even though it seemed logical to start with.\u00a0 These were problems that we were unable to solve anytime soon, and certainly not during a private beta phase."
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s not over!"
+        },
+        {
+            "text": "The time wasn\u2019t right to progress our alpha. But that\u2019s not to say it never will be."
+        },
+        {
+            "text": "We learned so much about the needs of our users in terms of communications, updates, expectations of the service and much more. We packaged up all our work \u2013 user needs, thoughts, designs and plans for private beta. This means we can share our insights with teams when they start to look at this stage of their user journeys. Or we can come back and pick up this work again when the time is right."
+        },
+        {
+            "text": "We have also been able to recommend changes to the notifications people receive after raising a PIP mandatory reconsideration. Our work showed that these could be timelier and reassuring. \u00a0A trial has now started to test these notifications and their impact."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Our alpha work highlighted that our agents are using systems that aren\u2019t fit for purpose when dealing with mandatory reconsiderations and appeals. For appeals especially, we saw some key areas where we can improve the user experience for our agents."
+        },
+        {
+            "text": "We have already started to look at this and identify where we can add value. We know that anything we can do to improve processes for agents will ultimately help citizens too."
+        },
+        {
+            "heading": 2,
+            "text": "On reflection"
+        },
+        {
+            "text": "Sometimes as you go into an alpha, you can learn that your service is much, much larger than you first thought. The need to solve the whole problem for the user can show how much you need to navigate across boundaries both within and outside your organisation.\u00a0 This doesn\u2019t mean it\u2019s impossible \u2013 we know we should do the hard work to make it simpler for the user. But equally, the timing also needs to be right, or you risk developing the wrong thing. \u00a0We all strive to do what\u2019s best for our users, and sometimes, that is to wait until the full lay of the land can be seen."
+        },
+        {
+            "text": "We could have pushed on and built something independently that could have helped people in the short term. \u00a0But longer term there\u2019s a real possibility that we\u2019d have created a beast that caused more problems for users and was unsustainable due to so many moving parts and dependencies."
+        },
+        {
+            "text": "We have learned, very quickly, that the route from alpha isn\u2019t always private beta. That\u2019s ok. Sometimes it\u2019s just not the right thing to do at that time."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

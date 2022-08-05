@@ -1,0 +1,51 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2022/06/15/taking-an-evidence-led-approach-to-delivery-of-the-governments-tree-target/",
+    "title": "Taking an evidence led approach to delivery of the Government\u2019s tree target",
+    "authors": [
+        "Tim Hill"
+    ],
+    "categories": [
+        "Biodiversity",
+        "Climate change",
+        "Mapping"
+    ],
+    "pub_date": "2022-06-15T10:59:12+01:00",
+    "content": [
+        {
+            "text": "The UK Government\u2019s ambition to increase tree and woodland cover in England from 14 to 17%, by more than trebling annual planting rates by 2050, represents a major shift in land use policy. As well as enhancing carbon sequestration, new woodlands and trees have a pivotal role to play in supporting the recovery of nature, by increasing structural complexity at a landscape scale. Where and how we establish these woodlands profoundly influences their value for the range of public benefits sought."
+        },
+        {
+            "text": "Poorly targeted tree planting and woodland establishment can damage existing wildlife and carbon-rich habitats. Conversely, targeting new native woodland creation to locations where ancient woodland ground flora survives can help enable recovery of plant communities as a whole."
+        },
+        {
+            "text": "A central element of Natural England\u2019s role in supporting delivery of the targets is to ensure the best evidence is available to inform our options and priorities, direct our decisions and deliver most effectively for nature. To this end, Natural England and the Botanical Society of Britain and Ireland (BSBI) have been working in partnership under the Natural Capital and Ecosystem Assessment Programme, funded by Defra, to develop mapping products based on BSBI plant records. The Woodland Trust helpfully funded early development of this approach and, alongside Forestry Commission, has provided advice and support."
+        },
+        {
+            "text": "The resultant maps use expert volunteer data to help identify areas of high botanical value which may be missing from Natural England\u2019s Priority Habitat Inventories. By doing so, they help ensure such areas are properly considered and protected when making land management decisions, including tree planting schemes."
+        },
+        {
+            "text": "Two types of data products have been produced for different purposes. The \u2018botanical heatmaps\u2019 present data at the 100 m scale for Rare, Scarce and Threatened plant species, and at the 1 km scale for Priority Habitat Positive Indicator species, which are species that reliably indicate the presence of high-quality, semi-natural habitat."
+        },
+        {
+            "text": "The heatmaps provide valuable insights into the locations and types of high value habitat present within a 1 km grid square, with the finer 100 m scale records helping to pinpoint likely areas of interest for further for individual site assessment (Figure 1). Access to the heatmap data layers is restrictive due to the sensitive nature of the species data, please contact botanicalheatmaps@naturalengland.org.uk for more information."
+        },
+        {
+            "text": "The second \u2018summarised botanical value\u2019 map summarises these data further, assigning a simple \u2018high\u2019, \u2018moderate\u2019 and \u2018low\u2019 score to each 1 km grid square (Figure 2). This botanical value map provides a more easily interpretable assessment that is ideal for high-level spatial planning on a landscape scale. However, it is not detailed enough for assessments of the suitability of individual sites for tree and woodland establishment \u2013 these need to be undertaken using the more detailed heatmaps described. The botanical value map has now been made available under an Open Government Licence on data platforms including MAGIC and Natural England\u2019s Open Data Portal."
+        },
+        {
+            "text": "As with all environmental datasets, the heatmaps have important limitations which need to be considered when applying these data. First, whilst the records that underpin them represent the most extensive botanical database ever produced, they are not comprehensive at the 1 km scale. BSBI\u2019s volunteers have not surveyed all areas or species with equal intensity due to the accessibility of 1 km grid squares and organisation at the local, often county, scale. To account for this bias, we applied a standard measure of what reflects \u2018good\u2019 and \u2018poor\u2019 survey effort at the 1 km scale, using the number of recorder days achieved since 1970. Where a 1 km grid square has \u2018poor\u2019 survey coverage, confidence in the heatmaps will be lower than compared with squares where \u2018good\u2019 survey coverage has been noted, and this is made clear in the maps themselves."
+        },
+        {
+            "text": "Second, the maps only draw on records captured at the 1 km or higher resolution. In some counties records have been routinely collected at the 2 km scale in recent decades. In these areas, the heatmaps will be of limited use and other sources of information must be consulted. Third, this approach does not account for the bryophytes and lichens that are present, which sometimes represent a significant aspect of the botanical value of a site."
+        },
+        {
+            "text": "Finally, whilst the heatmaps can indicate the likely botanical interest of a site or area, they should always be consulted in combination with other environmental datasets to assess existing interest. When botanical interest is indicated, or when survey coverage is too poor to rule out interest, areas proposed for new trees and woodlands should be visited or field surveyed by a competent botanist during the flowering season."
+        },
+        {
+            "text": "These maps, underpinned by volunteer data, provide a powerful tool to guide decision-making and represent a significant step towards ensuring better protection for important plant sites. The project demonstrates the power and value of close partnership working between Government bodies and expert recording societies."
+        },
+        {
+            "text": "More information on how the maps have been derived is available in a technical report. If you have any questions or would like to know any further details about the data, please contact the team at botanicalheatmaps@naturalengland.org.uk."
+        }
+    ]
+}

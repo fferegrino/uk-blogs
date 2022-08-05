@@ -1,0 +1,63 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/06/16/enabling-active-choices-online-trialling-behaviourally-informed-prototypes/",
+    "title": "Enabling active choices online: Trialling behaviourally informed prototypes\u00a0",
+    "authors": [
+        "Nathan Bookbinder-Ryan",
+        "Jessica Bancroft"
+    ],
+    "categories": [
+        "Data",
+        "Public engagement",
+        "Responsible innovation"
+    ],
+    "pub_date": "2021-06-16T08:41:16+01:00",
+    "content": [
+        {
+            "text": "Following publication of our review of online targeting, we began to work with the Behavioural Insights Team (BIT) to explore different ways to empower users to make active choices online about their privacy and personalisation settings. We defined \u201cactive choices\u201d as choices that reflect users\u2019 wishes without obstruction, and are based on an understanding of the likely consequences. This work builds on recommendations made in our review of online targeting about how giving people greater control over how data about them is used might be a way to combat online harms."
+        },
+        {
+            "text": "When engaging with the public to inform our review of online targeting, we found that, in addition to stronger regulation, people wanted to have more control online. We found that only 36% of people believe they have meaningful control over online targeting systems. In part, this is driven by a low level of trust that companies will do what users request through their settings and preferences (only 33% believe this is the case). Participants reported finding user controls difficult to find, complicated in their layout, biased and positive in their language in favour of online targeting, and overly burdensome to navigate.\u00a0"
+        },
+        {
+            "text": "During our exploratory research with BIT, we reviewed a collection of prominent data-driven services to identify barriers to people making and understanding active choices. We also carried out a review of behavioral science literature, and conducted interviews with a range of individuals, to draw out important user design principles that help users to make more informed decisions and express choice. Informed by this research, we ran workshops with participants from industry, regulators, and civil society, to create prototype designs that would better enable active choices. These designs cover a range of typical online experiences (including a smartphone operating system, an internet browser, and a social media feed), as well as a number of the different types of controls users are offered online.\u00a0"
+        },
+        {
+            "text": "Following the creation of the behaviourally informed prototype designs, BIT has been running randomised controlled trials with thousands of participants. The report we have published today details the findings from the first of three experiments, in which four different ways to present smartphone settings were tested with participants. A control design, which was based on the recent Android 10 interface, was tested against three alternative behaviourally informed designs. These included: a slider design (where users had to select a position on two sliders); a private mode (where users chose either \u2018regular\u2019 or \u2018private\u2019 mode); and a trusted third party design (that delegates choices to another organisation).\u00a0"
+        },
+        {
+            "text": "In the first experiment, we focused primarily on controls around privacy and notifications, while in the second and third experiments, we are exploring other ways to empower and inform users, in order to give them greater personal control over what they see online (such as giving users the option to filter out harmful content from their social media feed).\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What did we find?\u00a0"
+        },
+        {
+            "text": "All of the prototyped designs outperformed the control design on the three outcomes measured in the experiment. There was only one exception to this: the trusted third party design did not improve feelings of control.\u00a0"
+        },
+        {
+            "text": "We did find, however, that design performance varied depending on persona choice, indicating that different designs may work for different people. For example, the trusted third party design resulted in the highest task accuracy score for the least concerned persona, but performed worse than all other options including the control for the very concerned persona."
+        },
+        {
+            "text": "Overall, there was no clear \u2018winner\u2019 among the new designs, although the slider design performed well across all outcomes. None of the designs had a backfire effect on any of the outcomes, so improvements in one metric (e.g. task accuracy) do not need to come at the expense of others (e.g. feeling in control).\u00a0"
+        },
+        {
+            "text": "We also measured concern about technology and perceived level of digital comfort. We found that higher concern about technology was associated with lower task performance, even after controlling for treatment assignment, persona selection, and demographics. Future research could focus on this group of people to further develop and test designs that work for them. At the same time, those who reported being more comfortable using digital technologies performed better. This suggests that self-reported digital skills can be a good indicator of how well people can align settings with preferences."
+        },
+        {
+            "text": "The experiment provides evidence that simplified choice bundles can improve the ability of users to choose settings in line with their preferences, better understand the consequences of their choices and feel more in control. It should be noted, however, that where preferences don\u2019t obviously map to a bundle, such bundles could reduce the ability of some users to make active choices. Therefore, these should be developed with caution and tested before being implemented. Furthermore, transparency about how options are simplified and bundled would be crucial to ensure these options are aligned with users\u2019 best interest.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "Alongside wider regulatory and industry change, our research suggests active online choices can contribute to improving the technology landscape and create a positive shift in people's experience of using digital technologies. Many technology companies do not provide their users with active choices because they do not perceive a business imperative or a clear regulatory need to change their current practices. In other cases, firms may not know how to change these interfaces in a way that better enables active choices. The findings suggest that alternative approaches are possible.\u00a0"
+        },
+        {
+            "text": "We will publish the final report this summer, which will detail the findings from the second and third experiments. Over the coming months, we will discuss the findings with online services across different sectors, to provide firms operating online with examples of evidence-based tools and techniques to design user-empowering choice environments. The findings will also be used to inform the government's wider online safety agenda."
+        },
+        {
+            "text": "For more information about this work, please get in touch with us at cdei@cdei.gov.uk or via the comments section below."
+        }
+    ]
+}

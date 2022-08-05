@@ -1,0 +1,381 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/09/30/podcast-making-secure-data-accessible-through-nginx/",
+    "title": "Podcast: Making secure data accessible through NGINX",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Architecture",
+        "Podcasts"
+    ],
+    "pub_date": "2021-09-30T11:10:39+01:00",
+    "content": [
+        {
+            "text": "In the latest episode of the DWP Digital podcast, hear about how we\u2019ve integrated NGINX reverse proxy technology into our architecture in order to provide our teams with a secure and reliable way to access our platforms and technologies."
+        },
+        {
+            "text": "Emma Murray, product owner, Dave Glover, senior engineer and Daniel Barella, enterprise tooling lead, tell us more about the project and how the introduction of NGINX has changed the way people work across the organisation."
+        },
+        {
+            "text": "A full transcript of the episode can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating."
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Welcome everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're discussing how we have integrated NGINX into our architecture in order to provide our teams with a secure and reliable way to access our platforms and technologies. And as always, hit the subscribe button now to make sure you don't miss our next episode. So let's get started. Emma, Dave and Daniel, would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "My name is Emma Murray. I am a product owner within the infrastructure services team, which is part of the wider DWP Digital technology services. I\u2019m responsible for making sure that the service is running to our service levels, working with our engineers, our stakeholder community that the service is delivering what our customers need, and working closely with our engineers, of which Dave is on the call, to help develop and make the system more effective. I have been in the department for 29 years now. So I'm a career civil servant starting work in one of our jobcentres. I\u2019ve progressed from being frontline working with our citizens right the way through to our IT and built my technology career through the department who've supported me."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "My name is Dave Glover. I'm a senior infrastructure engineer in the enterprise tooling team. My remit is predominantly looking after asset based tooling, which I perform a lead engineering role on that. So yeah, so I'm in the same team as Emma and Daniel.\u00a0 I work quite closely with Emma, as Emma is the product owner for a lot of the tools that I perform the engineering tasks on. So we collaborate quite a lot. And we've worked together quite closely in the in the deployment of this NGINX project."
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "Hi, I am Daniel Barella. I'm a joint lead for the infrastructure services tooling team within DWP Digital. My responsibilities are Senior Product ownership of the tools and our portfolio, lead strategy for those tools, and also the architecture that goes with them. I've been in IT now for over 20 years. I joined DWP about three years ago. Before that I worked in the private sector for a managed service and telecommunications company. I've done everything from delivering complex managed service solutions through to architecture to eventually running a department with several teams that supported monitoring ITSM and automation technologies."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Thank you. So tell me about your teams and responsibilities."
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "Yeah, so our team provide the IT operations management systems for the DWP teams that mostly cover things like monitoring, asset collection, data analytics, batch scheduling. The teams that use these products effectively support the DWP applications and infrastructure. Those applications and infrastructure is obviously used by over 100,000 DWP staff and accessed by 22 million citizens. So very critical applications and our tools support those and provide visibility of them. The team itself actually comprises of a mixture of engineers and an operations team, project and delivery, architecture and product owners."
+        },
+        {
+            "text": "We have responsibility for each of the tools in that portfolio, including the sort of the design, the build, the implementation, and the support and enhancement of those technologies. The purpose of our team is really to provide a service that allows the operations teams to be able to get full visibility of everything that's happening within the estate. And that's through a mixture of sort of dashboards or reports or accessibility tool sets. But ultimately, it's a way of collecting, consolidating and correlating data across the estate."
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "Yeah, I think from my perspective as being more of the non-technical, I suppose, side of things, is that the team is great where you spend a lot of time engaging with wider audiences and stakeholders, there's so much collaboration that goes on, because there's so much to try and understand what people want out of your tool, so our tools can run, and they can deliver our service to meet our needs. But now we're seeing this particularly with NGINX, is how that all that information actually can help other teams in order to drive a better service in their areas as well. So actually working with such a wide cross department groups is quite inspiring, really."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "I think one of the things that has stood out for me since I joined the team two years ago, having always worked in the private sector for roughly about two years before that, similar to Daniel really, is that I was quite surprised how much autonomy we had within the team, from an engineering perspective at least. To be able to just try stuff and think about things, work on your own or as part of a team to just solutionize, if you like. And so it's great that we've been sort of empowered and we're trusted within the engineering part team, to just come up with different ways of doing things, better ways of doing things. And I found that really refreshing. And it's been a brilliant part of this team."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So can you give me a little bit of background into the NGINX project, and how it came about?"
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "Yeah, so our team\u2019s been working on a project called NGINX, which is a technology that we utilise in DWP, to allow people to gain access to technologies and platforms that would be ordinarily quite difficult to get hold off. It's a reverse proxy technology. For those people who are familiar with those, it effectively means that you can access something from a non-secure location in a secure fashion."
+        },
+        {
+            "text": "So as DWP have a whole raft of tools, our own tools included, that sit behind many layers of security as they need to be, we needed a way to be able to provide users with the ability to access the data and the content of those tools, without necessarily having to go through all of the complex steps or the security requirements, to be able to get to the back end technology, when really all they need is a way to be able to pull up data reports and things like that."
+        },
+        {
+            "text": "Our initial use case came from the UXCC. And they effectively monitor all of DWP services 24 seven, and they needed a quick and easy way to be able to access that information so that they can, the eyes on glass be able to see the types of things that are happening and be able to react to them in the fastest way possible. The NGINX product is one of the best reverse proxy technologies out there. We initially started with the free version, and we'll talk a little bit more about that later on. But really, it was there to provide a simple and seamless experience for those users to be able to access the tools."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "NGINX as a whole is an industry standard web server technology traditionally, and like Daniel said we utilise the reverse proxy function of that here within DWP. To set a bit of context around NGINX as well. It's owned by a company called F5. And there's various other NGINX products in the portfolio performing all various different functions. But the one that we look at is NGINX plus. And we previously had the open source equivalent. And that provides us with the reverse proxy functionality. There's also web server, load balancer, API gateway and various other things that are part of that suite of products. Yeah, and the key thing for us really has been the fact that we can, we can deploy this and enable the access for users to be able to go from their own laptop devices and connect to these very secure back end applications and do all that seamlessly and securely. And that's precisely what the NGINX reverse proxy project has enabled us to do."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "What are your views on using open source established systems or in house development to build a solution?"
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "Yeah, so open source often can be very great. You know, we have many examples within DWP, where we're using open source technologies really effectively. Often however, they don't usually come with the level of support or possible regular release cycles, or in the case of NGINX, the high availability that we really need to be able to deliver an enterprise solution. So when to learn. And we actually rarely use open source, we actually generally use enterprise tools exclusively, because we get access to experts, regular updates, and of course, being able to talk to the support teams in the back end."
+        },
+        {
+            "text": "DWP is made up of a lot of in-house systems, it needs to be due to the complexity of the functions that we have. We need to be able to support them, which can be really hard because we have all variations from things that are absolute cutting edge in the cloud, to really legacy technologies that might be sitting in the data centre that are a little bit harder to be able to monitor and things. So when we're picking a tool or a collection of tools, we really have to factor that in. So they're kind of the positives of being able to develop your own solution because of the functionality and things is fantastic, then actually being able to then monitor that effectively can sometimes be a challenge for DWP?"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So what did we have in place before NGINX?"
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "So actually, we didn't have anything before this. The only method for connectivity was to put members of staff through increased security clearance, to then give them access to the back end technologies that they probably didn't need to get back access to. So there wasn't really anything in place before we did this."
+        },
+        {
+            "text": "The initial, the free version, the initial project which Dave talked about, was to try and combat that. But it had only really a very limited use case, it was only really for one or two applications. And then as time went on and word got out, and people understood that, actually now we can access of the applications direct from our desktop, rather than having to go through the more complex solution, that actually we want to be part of that as well. So quickly over the space of time, went from sort of three or four applications up to 20 applications. And with that, as Dave mentioned, you've got the issues around the high availability and things like that. Previously, it was just running on a single server. If that server went down, effectively hundreds of people might not be able to access critical applications or be able to see the important things that could be happening on the estate."
+        },
+        {
+            "text": "So the whole point of this project was to remove that risk, to build in that resilience, to have offsite DR. So in the event that we lost an entire data centre, we have another version of it in another data centre will be a seamless experience for those users. They would sort of continue to log on, and access the tools in the way that they would. So it's a real, real massive leap from where we were three years ago to where we are today."
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "And that I think the perception of the tool itself. So it came in as sort of, this will help us.\u00a0 So we had a limited use case, we'll be able to do this. And as it was utilized, not only is it expanded, but it became from being a nice to have to actually be considered among lots of our stakeholders as the norm."
+        },
+        {
+            "text": "It\u2019s become from a nice to have to actually being, I'm not going to say critical, but a key enabler, a key function that people are using. And they do notice when it isn't available, not that it is not available very often, usually only if we\u2019re doing a major upgrade. And we do have to make sure all our stakeholders now. And again, it's to the point where all our upgrades now have to be out of hours. Because if we try and do anything with the application, end users notice straight away and you don't want them users to notice."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "I was just gonna echo what Emma said there actually and it's that it's exactly right. And the way it feels, or the way I like to think of it is we now have deployed an enterprise level solution. And that\u2019s regarded as such by other areas and other teams within DWP and it has to be treated and managed that way."
+        },
+        {
+            "text": "Whereas previously, I would call it a cottage industry solution or the scanner thing you might rustle up in your garage, which isn't good enough. So it served its purpose initially, to enable access for a very small set of users, and it was a deployment that was put in place by a third party as a means to an end, you know, and what we've done is we've basically just turned it around and we've scaled it out to be enterprise level."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So, what software and hardware did we need to use to incorporate NGINX into our architecture?"
+        },
+        {
+            "heading": 3,
+            "text": "David Glover"
+        },
+        {
+            "text": "So for our NGINX deployment, it's all running on Red Hat Linux. And previously, on our old deployment, the open source one, we just had one server, just one virtual machine with Red Hat and as the operating system and our NGINX reverse proxy was running there."
+        },
+        {
+            "text": "But as we've said, that's not an enterprise level solution. So it's part of our movement into this sort of the enterprise level solution. And we've deployed a four node cluster. So what that means is that we've got two servers in one data centre, two servers in the other data centre and they have high availability failover configured between them. So if the NGINX service goes down on the master server, and one of the data centres then it'll just immediately within possibly less than a second switch over to the backup, and the same in the other data centre. So they're all synchronised so they're all highly available. So really, that enables us to offer users a very resilient platform."
+        },
+        {
+            "text": "And another benefit to our recent deployment. In order for our users to get through from their laptops, which are in a completely separate environment to where our key applications and critical applications run in, and they have to be directed securely and safely through. What we've done here is we've set up a global traffic Manager, load balancer, a GTM load balancer, which sits in the same domain as where the users are. So as the user is there on their laptop doing the work, they access a URL, which is a friendly name that we've set up in DNS."
+        },
+        {
+            "text": "And in that name, in that URL, it will have the application that they want to connect to. And this is the one that's running in their secure environment, which they ordinarily can't get to. What that'll do, when they hit that URL, the traffic gets routed through to this global traffic manager load balancer. It hits there, it then gets routed through to a local traffic manager load balancer, which is in a secure environment. So there that tsort of connection has been made. Now they\u2019re there, the traffic will get sent to one of two virtual IP addresses. So each of the cluster pairs in each data centre has a virtual IP address, which indicates that is the master. So the load balancer is configured to round robin traffic from one to the other."
+        },
+        {
+            "text": "So even if one of those goes down, as Daniel mentioned before, if you lose a data centre, you will not lose connectivity, because they're load balancer will just route you to the to the virtual IP address that's listening in the data centre. So yeah, so it's all that together, builds that sort of resilient high availability platform, all based on virtualization technology. So it's all Red Hat running on a VMWare platform. Yeah, and it seems to be doing the job brilliantly."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Thanks Dave, that's really interesting. Can we talk a little bit about how the introduction of NGINX has changed the way people work?"
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "Okay, so introducing NGINX, obviously through its evolution from being an open source for a very small group of stakeholders, which were generally within the engineering community themselves. Usually, just so they could just have a quick look at some of the information and expanding it to the enterprise level, has actually increased the number of stakeholders that we've got involved."
+        },
+        {
+            "text": "As Daniel said, before we started with our UXCC, which is our knock. They provide 24 seven monitoring, so using this tool means that they can actually get into the information when they're analysing any issues a lot quicker. So it's actually speeding up the ability to resolve incidents or investigate issues. It allows them also to have a certain level of predictability. So, because they're able to access the tools a lot quicker and be able to monitor them, they're actually able to maybe see if something looks like it's starting to go a little bit awry. So, there's that element of enabling the predictability as opposed to be reacting."
+        },
+        {
+            "text": "But also, on top of that, the scope has widened across the team. So, one of the key areas that came in was actually, surprisingly, was security.\u00a0 Because security, again, they have their own monitoring tool. And they were realising that they heard that we had this reverse proxy. And they approached us to see whether there was a way that they could get access. So when you've got security, the security team themselves actually adopting this process and using it to be able to run their service and be able to react to security incidents, was really quite an achievement."
+        },
+        {
+            "text": "But it doesn't stop there. We've had our networks team, a part of our enterprise tooling team. They also have a number of their infrastructure tools as well, and once they realised how well it was working for our side of our tools they started looking at their networking tools. So we've on boarded four of those applications in the last three months. So we've sort of massively increased our number of users and in actual fact, it's sort of as soon as you deliver one, they're going \u201cOh well can you do this one as well?\u201d So they're actually using it and what it means is their team, rather than only the staff that are security cleared that are probably a little bit more hands on with the toil, it's actually enabling the areas of the product managers, the delivery managers are able, and even the senior managers are actually able to get into the tools a lot easier and sort of see what's going on."
+        },
+        {
+            "text": "We've got other areas that want to have view only of some of our tools. So we have our asset management team, they go into it. And it enables them to sort of, one of the key things that NGINX does, it's connecting lots of our tools. So whereas before, you will probably only have somebody that could access one tool. So, they would only be able to use that piece of information and maybe get some other information from other tools third party, third hand, it might come through email, whatever. What this is enabling is that, for instance, the asset team are able to start looking at multiple tools, at the same time, and able to compare and contrast to get the reports. And basically self serve, which is something that within the enterprise tooling has not really been as achievable due to the security."
+        },
+        {
+            "text": "So we're enabling a lot more self-serve with across a wider variety of teams. We've got our configuration teams that work with asset, they've got access to theirs, we've got our hybrid cloud services, that are able to start looking at what's in our on-premise area as well. We've got our reliability engineers, our operations teams, enabling them to sort of actually access the tool, not just at the back end, which is quite restrictive, but actually be able to enable the remote working a lot more and be able to get reports."
+        },
+        {
+            "text": "And the most recent one, which is something that's sort of driving a lot of the progress we've got at the moment is a data analytics tool that we've got. And this data and analytics tool, which is absorbing data from all our others, you\u2019re going, \u201cWell, why if all that data is going in one place, then you could look there.\u201d But in actual fact, you need to see the core data in its own space. But once you've enabled all that to be collated, that user group absolutely expanded massively, and you've actually gone up to director level. So you're not going to really want the directors having to jump on to a secure server in order to just read a report. So it has massively changed. And like I say, this is why it's starting to become more of a prominent tool, as opposed to being a nice to have because it's really driving change."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "Thanks, Emma. What challenges have you faced in the project's development? And what would you have done differently?"
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "With any project, there's a variety of different challenges that you come across. But it's important to remember that when you're working with IT, that you can have technical challenges, which I'll briefly cover, but you've also got to think about how you actually deliver that and the people that are involved. Being a relatively new product owner, I only joined this role last year. So I\u2019ve been here 18 months.\u00a0 I previously was on a team where it was a SaaS solution. So as a software as a service solution. So I mainly dealt with the application."
+        },
+        {
+            "text": "With NGINX, you're actually dealing with the build, the actual physical servers. So it was a whole raft of different areas that you needed to understand and be aware of. So when I look and start thinking about the challenges, I think the first thing you've got to look at is who's involved, the people. And probably because I am a people person, it sort of is the first thing. The technology is the enabler, so NGINX itself will do that, we can configure it, but what we want to do is focus on the people. We want to focus on what is wanted, why it's wanted and who can deliver it."
+        },
+        {
+            "text": "So first of all, we have to understand who needs to use it, we have to see who we've got around us. So when I first started there was one engineer that was running it because it handed over. So the one of the first things was looking to understand if we start going down this development route that we wanted to do, is that we needed to have more capability across the team, we needed to increase that. So we started looking at who that would be and how we could start increasing that. So that is when Dave joined us and he started doing a smaller part of it, and then slowly built up. A lot of it was a collaboration between the two lead engineers that delivered it, but ultimately now Dave has taken ownership."
+        },
+        {
+            "text": "Once you've understood that and worked out how you're going to be able to resource it is then you need to look at what are the governances, and there are tight governance restrictions, so we have security, we have the Digital Authority, we have risk. And one of the things was, it can take quite a long time. So I started with this vision, \u201cThere you go, you're gonna deliver this.\u201d And there was an expectation it was going to be delivered in six months. Unfortunately to actually go through all those governance and rules and regulations, I think it was about five months. And you can't even start to actually do any building and put out any requests with all the teams to sort of build the servers and do all the firewall connections, and all that sort of good stuff, until you've got all those approvals, because it's the first stop."
+        },
+        {
+            "text": "So, one of the things is being very aware upfront of what all those governance restrictions are. And the other thing is, there's a big change to work in an agile manner. So development in an agile manner. So when you start developing, there's that waterfall effect where you can't do this before you can do that. So, with agile, you can actually do some things concurrently. So that was one of the things that we were finding through the project is actually, at what point can we be flexible, can we adjust. And it was towards the end of the project that me and Dave had to get together and do a quick replan, to try and keep the project on target. The thing is even though it happened, it was it was really quite fulfilling to know that you've sort of overcome it. But I know Dave, you had a few things to talk about the learning of the product and stuff."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "I did, yeah. So, I was in a fairly similar boat to Emma really. From my perspective, it's been fairly similar, you know, I had to understand A, what NGINX is, B, what we're using for, C, what we're trying to do with it. And sort of piece all that together in my mind, and work with others in the team to try and understand history of it and how it works. And what I found was, and it's often the case is, theory\u2019s fine, and just sort of reading documents and looking at videos, that's fine, you know, you get a basic level of understanding, but it's only when you actually try and do something, technically, and try and deliver something that you really start to get to grips with it because invariably, things start to go wrong. And for me personally, that's how I tend to learn better is by fixing something. And fixing it, you really get into the nitty gritty of the product."
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "We had, it was it was towards the end, and one of the stakeholder groups I have to support us was in our identity area. And we were asking something that never been asked before. And you can't predict that it's not possible to know at the start of a programme that you want to deliver something that that's never been done before. So working with that back team, and we collaborated really well. It was a case of, \u201cRight okay. Well, if we can't do that, while that's been sorted, what else can we do?\u201d And that comes back down to that agile. And me and Dave were having a conversation and I think in his head it\u2019s like \u201cOh, we'll just wait til they get back.\u201d And I went, \u201cFor me as a product owner, I don't know when that date is going to be. I don't know when they're going to resolve that. So can we do this instead?\u201d"
+        },
+        {
+            "text": "And it worked. It was a simple solution. But it enabled us to complete all our testing in both environments, it meant that we kept ahead of the game, even though we were just still waiting for a way to actually migrate. So, it's really good to be able to take advantage of the agile method and know that if things do crop up, there's a way to replan and refocus and still deliver. And it's\u00a0 having that attitude of not taking these challenges that \u201cOh well, I'll just wait for something to happen or it's the end of the world.\u201d It's taking it and going, \u201cWhat else can we do?\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "What advice would you give to others if they were thinking of implementing something like this?"
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "From my perspective as a product owner, so I'm responsible for delivering this product. I think the key messages from my point of view will be is to know your stakeholders, so understand who they are and widen that net as far as it'll go. Understand who needs to be involved in what, because sometimes that can catch you if you've not quite engaged or not quite articulated something that's given you the answer. I think we definitely learned that one."
+        },
+        {
+            "text": "And my other key one would be if you're going to deliver anything, particularly in a technology environment, is focus on the end users, understand what you're getting out of it, because as long as you understand that, the actual design and delivery and development of the IT solution will just fall into place. But it's how it's going to be used, that will give it value."
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "Preparation. So, we're fortunate to have a lab environment we can use to prepare and test things and have a go at doing some implementations, make mistakes, learn, and get to know things. So having that is very important and then that leads on to planning. So once you've got a feel for how things are going to work when you've done your preparation, you can start to plan your activities and organise what order you're going to do things.\u00a0 You kind of know which bits might go wrong or might take some time."
+        },
+        {
+            "text": "And then that leads on to the sort of the persistence. So you've just got to keep plugging away at things. Personally, I'm quite good at that. It's like, if you're presented with a with a puzzle, you know, you can sort of have a go and decide like it\u2019s a bit hard this, the just give it up. It's having that persistence just to stick with it. And the patience as well, just to stick with it. Keep trying things, keep working at it and I think all those things is altogether, is has been how I've sort of approached it. And if I was going to do it again, or give advice to someone else, I think that would be the way to go."
+        },
+        {
+            "heading": 3,
+            "text": "Dave Glover"
+        },
+        {
+            "text": "Yeah, and obviously we work for government, governance is an important thing. I would say don't forget about the governance part. It can actually be one of the most in depth and longest parts of a project. Emma mentioned earlier on, you know, in DWP we have to go through various steps, design, security, risk assessments, all of these things mount up, and they can take time, and you can't even engage with the other teams until they have been completed. So think governance, get all that done first and make sure that you've ticked all of the boxes, and then you're in a really good position to start your project."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So what does the future hold for your team? Will there be any future developments for NGINX?"
+        },
+        {
+            "heading": 3,
+            "text": "Emma Murray"
+        },
+        {
+            "text": "So I'll start. As I mentioned earlier on when I was talking about my relationship with the vendor. So one of the things that he prompted me to was other areas in DWP that were interested in NGINX. So we reached out to those teams and we've recently done a collaboration with them. And one of them is within our hybrid cloud services. So that team are looking to deploy NGINX as well. So we are the ones that they're coming to, \u201cWhat have you delivered first?\u201d And so keeping that close relationship with this other team is kind of key because DWP has got a target to go cloud first, so looking at getting everything as much in the cloud as we can."
+        },
+        {
+            "text": "The other thing that we've looking at is, we've learned that right, okay, we've delivered the tool, it's working, we're happy, what else can we do next? So, one of the things is we're looking to deploy, and we're actually at the commercial stage of this, is to bring in another part of NGINX, which is the instance manager. So with the instance manager, it will enable us to be able to manage our cluster service a lot easier. It will also help us to connect with our other colleagues that are looking to deploy NGINX as well. So it means in actual fact, we're gonna have a better view of other areas that are wanting to use it or starting to use it. I think Dave, there's another couple of things that you're looking at as well?"
+        },
+        {
+            "heading": 3,
+            "text": "David Glover"
+        },
+        {
+            "text": "Yeah, that's right. I mean the instance manager is one of the key ones, and that's where I make my preparation stage to be like is, is evaluating the functionality that offers in our lab environment, you know, just to get a feel for it, what can it do, test it all out and explore the functionality of that. Because like Emma says it's that sort of integration, and it's breaking down those silos, which, you know, makes the department operate more efficiently, more effectively. And then is a perfect example of that is where we can use this add on to the NGINX deployment we've already got to start to integrate with other NGINX deployments and, you know, when you're talking about an organisation, the scale of the Department for Work and Pensions, and you can imagine that there are pockets of activity that take place that are very similar, or even using the same product, particularly where it's an open source version, where there isn't a central commercial avenue that people go through."
+        },
+        {
+            "text": "And so this instance manager allows us to sort of centrally manage all our different NGINX deployments, that we\u2019ve got out there. It also simplifies it and he takes away some of the manual changes that people can make. So in terms of the actual backend configuration of NGINX, there's loads of configuration files that we have, and they\u2019re spread across multiple servers. As I talked about earlier on with our cluster servers, we've also got a UAT server."
+        },
+        {
+            "text": "So, in order to seamlessly transfer updates and changes and promote those from UAT into production, it's a fairly manual process. And as we all know, manual processes are prone to human error, that's natural. What this technology enables to do is to automate that and do it from a more programmatic perspective. So I think that'd be really valuable. Another key thing that we're that we're looking at, we have had in the past, an integration with our major data analytics platform Splunk, which is used very, very sort of, it's got a huge use us base in DWP now. And that is our central place for performing data analytics."
+        },
+        {
+            "text": "What we can do is we can integrate NGINX with that and that will give us all the metrics and the throughput and all the health checks and things for the NGINX platform. Again, won't spread over multiple services, it\u2019s hard to do that individually. But if you can bring it all together, by integrating it with, with other products such as Splunk, then we have that central view. And it's not just for an engineer, it's for anybody that can look at it. So if there's an issue that somebody has anywhere that believes may be related to the NGINX reverse proxy by a user, or someone in the 24 by seven operations team, they can just hit this central dashboard and it's there. They can even look at it on the mobile devices they want. So, that's where we want to get to is to really sort of move ahead with integration, simplification, automation, and that sort of centralised, single pane of glass."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So just before we end, how would you like to see NGINX being used in the future?"
+        },
+        {
+            "heading": 3,
+            "text": "Daniel Barella"
+        },
+        {
+            "text": "In the future, we'd like to see NGINX used as our primary access point for users. You know, at the moment, the NGINX environment that we use is specific to a wide range of tool sets. But it's not covering all of the different areas of DWP. We want to have a single NGINX that allows us users to be able to have that seamless experience no matter where the technology is hosted, whether it's in cloud or in our data centres."
+        },
+        {
+            "text": "We also want to expand that so that users who traditionally would never have access to this information, so people who aren't part of the DWP digital hubs, so that they can get access and view information on things like service health for their services, or being able to pull back some of these data analytics that Dave just talked about. And you know, that could be everything from a director or somebody wanting to bring something over a machine to see some really useful information being displayed in the jobcentre. So really expanding and beyond what we do right now."
+        },
+        {
+            "text": "And then the final thing that we\u2019re looking to do in the future is to introduce the mobile ability for it. A lot of our tools that we have very similar to what we talked about before, we had the reverse proxy with NGINX, in they're not accessible from a mobile phone. And that's because of the various security restrictions that prevent that communication from the application through. But if we can present NGINX to the mobile devices that we use within DWP, very quickly you get the ability to be able to pull up dashboards, reports, and that can be really, really powerful. It's a huge enabler for people to be able to do their jobs direct from their mobile phone and get the information they need at the time that they need it."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money"
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button if you want to make sure you don't miss our next episode. And I'd like to thank Emma, Dave and Daniel for taking part. It was really interesting to hear about your project today."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/05/12/meet-the-engineer-james/",
+    "title": "Meet the engineer: James",
+    "authors": [
+        "James Tolley, infrastructure engineer, DWP Digital"
+    ],
+    "categories": [
+        "DWP Digital",
+        "Engineering",
+        "Infrastructure engineering"
+    ],
+    "pub_date": "2022-05-12T09:30:54+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Tell us a little bit about your role\u00a0"
+        },
+        {
+            "text": "I work on the Specialist Devices team, managing and enhancing the platforms that our team is responsible for. This includes anything that isn\u2019t Windows or production network-based, such as the DWP Secure MacBook Service and the customer computers that are in every jobcentre.\u00a0\u00a0"
+        },
+        {
+            "text": "Our team works in sprints, and we prioritise our workload for the month ahead. My current open tickets are to design a better backup process for our users with OneDrive, migrating 2,500 users over to a new version of Zscaler 2.0 and device attestation testing on our beta platform,\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How long have you been working at DWP Digital and what roles have you done?\u00a0"
+        },
+        {
+            "text": "I\u2019ve been in DWP Digital for 4 years now. I started as a tech support manager providing first line support in the Newcastle hub. The variety of queries was a little daunting at first, but the team around me were supportive and the culture meant there was less emphasis on knowing the answer and more on knowing where to find it. This was my first Civil Service job and it helped me understand the breadth of technology that DWP uses. \u00a0"
+        },
+        {
+            "text": "\u00a0Before DWP Digital, I worked at Apple as a \u2018Genius\u2019, where I would repair hardware and software and educate users on new features. I championed the in-built accessibility features and hosted workshops on things like voice-over and switch control. I think this experience combined with my time as a tech support manager helped me get my current role in infrastructure engineering. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What do you like most about your job?\u00a0"
+        },
+        {
+            "text": "I enjoy scripting, troubleshooting and packaging applications - all the nuts and bolts of what makes our platform what it is, with an eye on how any changes will enhance our users\u2019 experience.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s the best thing about DWP Digital?\u00a0"
+        },
+        {
+            "text": "There's a big drive to support people to develop their skills and expertise so that you can thrive in your role or if you\u2019d like to progress. I have completed a range of training courses, both internal and external, since joining the organisation.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What are your career goals for the next few years?\u00a0"
+        },
+        {
+            "text": "I\u2019d like to work towards a Senior Infrastructure Engineer position, whether that\u2019s in my current team or a different team or different discipline.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What do you enjoy doing in your spare time?\u00a0"
+        },
+        {
+            "text": "I have 2 young children, so they take the lion\u2019s share of my time. I live near the beach so try and go paddle-boarding when the conditions are good. My actual favourite thing to do is wash the car though - it\u2019s like therapy!\u00a0"
+        },
+        {
+            "text": " To find our more about a career in engineering at DWP Digital visit our Careers site."
+        }
+    ]
+}

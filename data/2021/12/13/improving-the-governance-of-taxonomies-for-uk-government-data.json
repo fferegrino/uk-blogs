@@ -1,0 +1,50 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2021/12/13/improving-the-governance-of-taxonomies-for-uk-government-data/",
+    "title": "Improving the governance of taxonomies for UK government data",
+    "authors": [
+        "Rosie Maslin"
+    ],
+    "categories": [
+        "Classifications",
+        "Data architecture",
+        "Data governance",
+        "Office for National Statistics",
+        "Transformation"
+    ],
+    "pub_date": "2021-12-13T15:58:00+00:00",
+    "content": [
+        {
+            "text": "The Office for National Statistics\u2019 Classifications Team in partnership with the Data Standards Authority (DSA) have created a Taxonomy Oversight Group (TOG), which is made up of a community of cross-government and public sector experts to address the lack of a central governance mechanism for taxonomies in the UK. This may sound a little complicated, so hopefully this blog will provide more clarity on what the group is and what it aims to do."
+        },
+        {
+            "text": "So,\u00a0what are taxonomies?\u00a0Well, I\u2019m glad you asked because a taxonomy\u00a0is simply the classification\u00a0of data into categories, which can be complex and hierarchical. Examples of this are the UK Standard Industrial Classification (SIC) or the Standard Occupational Classification (SOC), which has nine groups of occupations from managers, directors and senior officials to elementary occupations, each with their own sub-groups. Taxonomies can also be flat. In this sense, they may be code lists such as gender."
+        },
+        {
+            "text": "Taxonomies are used extensively across government and are a crucial\u202fcomponent of data\u200b.\u00a0They are\u00a0fundamental for producing quality data and statistics, yet there is no central governance mechanism for taxonomies in the UK.\u00a0Following EU exit, this is particularly important as the UK are no longer legally obligated to implement some taxonomies that have been developed and are owned by the EU.\u00a0It is necessary for there to be a\u00a0UK mechanism\u00a0and a clear process\u00a0for deciding and recommending which taxonomies to\u00a0adopt nationally.\u00a0"
+        },
+        {
+            "text": "The lack of central governance\u00a0and a UK central body to oversee\u00a0taxonomies has led to\u00a0a lack of taxonomy coordination\u00a0and sometimes to\u00a0the\u00a0use of outdated taxonomies\u00a0or\u00a0departments\u00a0using\u00a0\u2018tweaked\u2019\u00a0taxonomies for their own purposes, which impacts comparability between data sources.\u00a0During the height of the pandemic,\u00a0for example,\u00a0such issues meant that\u00a0individuals\u00a0had trouble\u00a0accessing benefits as a result of organisations using different taxonomies.\u00a0"
+        },
+        {
+            "text": "Establishing a Taxonomy Oversight Group as a sub-group of the\u00a0cross-Government Data Architecture Community (GDAC)\u00a0aims to address\u00a0these\u00a0challenges\u00a0by\u00a0providing\u00a0transparency and aiding the\u00a0governance of taxonomies used across government, particularly the Government Statistical Service (GSS).\u00a0It will\u00a0provide the standards, policy and assurance needed to resolve the absence of effective central governance.\u00a0The group\u00a0makes recommendations to\u00a0the DSA, who\u00a0follow its existing governance mechanisms to\u00a0endorse\u00a0taxonomies\u00a0put forward by the group\u00a0for cross-government use.\u00a0"
+        },
+        {
+            "text": "TOG\u00a0is not solely limited to\u00a0government\u00a0professionals; it\u00a0brings together\u00a0data management\u00a0and subject matter experts\u00a0from\u00a0across the public sector and third sector as well as government.\u00a0Some of the departments\u00a0and organisations who are a\u00a0part of this community\u00a0are Cabinet Office, Warwick University, Nesta, Gatsby\u00a0Foundation and the Scottish and Welsh Governments\u00a0to name a few.\u00a0This enables TOG to have greater impact across sectors and break\u00a0down barriers between the government and other sectors.\u00a0\u00a0"
+        },
+        {
+            "text": "Members of the group will work together to\u00a0provide guidance and advice which lead to better government data management practices.\u00a0The group will\u00a0ensure a unified approach across the four UK nations, enabling clear decisions on ownership and associated responsibilities, which is also a necessary foundation to assist with the need for the UK to maintain strong international influence."
+        },
+        {
+            "text": "TOG is currently in its\u00a0test phase and\u00a0is made up of the central Taxonomy Oversight Group and\u00a0four\u00a0Task and Finish Groups who are working on\u00a0different\u00a0test cases.\u00a0The test cases are, skills, vulnerability, Classification of Individual Consumption According to Purpose (we are glad it has the acronym: COICOP), and\u00a0industry. Each test case has its own\u00a0host\u00a0of\u00a0challenges\u00a0and work is currently underway by members\u00a0to address them."
+        },
+        {
+            "text": "As part of this work, we\u2019re aiming to make these cross-government taxonomies more accessible and visible, together with\u00a0management information such as point of contact and ownership, revision processes, and which organisation represents the UK on relevant international groups."
+        },
+        {
+            "text": "Ultimately, TOG will\u00a0provide a vital contribution to achieving the\u00a0National Data Strategy\u00a0vision of maximising the value of data in the UK.\u00a0\u00a0It is reflective of what can be achieved when organisations work together to address challenges and develop solutions for data alignment."
+        },
+        {
+            "text": "This blog is the first in a series of follow up blog pieces so keep an eye out for more detail on how the work progresses as well as insights into what makes a good taxonomy. And finally, if this\u00a0blog has sparked your interest, please contact\u00a0data.architecture@ons.gov.uk to find out more information or express your interest in becoming part of the community."
+        }
+    ]
+}

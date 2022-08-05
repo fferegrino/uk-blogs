@@ -1,0 +1,117 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2021/08/05/driving-technology-convergence-and-reuse-in-our-future-borders-and-immigration-system/",
+    "title": "Driving technology convergence and reuse in our Future Borders and Immigration System",
+    "authors": [
+        "John Holben, Migration and Borders Chief Technology Officer"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "DDaT Strategy"
+    ],
+    "pub_date": "2021-08-05T10:04:56+01:00",
+    "content": [
+        {
+            "text": "We recently published our Home Office 2024 DDaT Strategy, which outlines the principles we\u2019re using to transform digital, data and technology in the Home Office."
+        },
+        {
+            "text": "Now we want to share examples of each of these principles in action."
+        },
+        {
+            "text": "In this blog we\u2019re talking about our transformation programme, Future Borders and Immigration System (FBIS). Home Office DDaT professionals have helped the programme build a joined-up single digital system to implement new points-based immigration routes."
+        },
+        {
+            "text": "We\u2019ve done this relatively quickly by reusing technology and by using converged infrastructure, including a shared cloud platform."
+        },
+        {
+            "heading": 2,
+            "text": "New points-based immigration routes"
+        },
+        {
+            "text": "On 1 January 2021, a new points-based immigration system replaced free movement with the European Union (EU)."
+        },
+        {
+            "text": "The new system works in the same way for all nationalities \u2013 EU and non-EU citizens alike. For skilled workers, the Home Office assigns points for specific skills, qualifications, salaries, or professions. Visas are then granted to those who gain enough points."
+        },
+        {
+            "heading": 2,
+            "text": "Improving the digital experience for users"
+        },
+        {
+            "text": "The points-based routes are supported by a new digital system designed to be easy to use. You can securely apply online for a visa and identity can be proven remotely."
+        },
+        {
+            "text": "FBIS also took the opportunity to:"
+        },
+        {
+            "heading": 2,
+            "text": "Reusing existing technology"
+        },
+        {
+            "text": "Home Office DDaT focussed on adapting and enhancing existing products introduced by our Immigration Platform Technologies (IPT) programme. These enabled online applications and identity checks and verification, case management and data sharing across immigration services centred on a person rather than their different applications."
+        },
+        {
+            "text": "These products were designed and built to be flexible and scalable enough to adapt to immigration policy changes and to introduce new immigration routes quickly."
+        },
+        {
+            "text": "FBIS is also reusing products first introduced in the EU Settlement Scheme including:"
+        },
+        {
+            "text": "These products significantly improve the way customers interact with our services. They help create a truly end-to-end digital service, supporting the new points-based routes."
+        },
+        {
+            "heading": 2,
+            "text": "A shared cloud platform for immigration services"
+        },
+        {
+            "text": "The new digital system is supported by more than 60 shared services, built on the cloud. These have evolved into a shared cloud platform that drives technology convergence by helping us deliver services quickly and consistently across our migration and borders technology."
+        },
+        {
+            "text": "We\u2019re constantly evolving the platform, taking advantage of advances in technology and the latest engineering patterns. A new \u2018continuous integration pipeline\u2019 lets developers release and test small changes to the code. This ensures we can deploy changes to FBIS products without taking them down or causing any disruption to users."
+        },
+        {
+            "heading": 2,
+            "text": "Using event streaming to create a converged architectural view"
+        },
+        {
+            "text": "Given so many existing data-driven products need to interact in the delivery of FBIS, the teams chose an architectural solution capable of integrating them, ensuring they can exchange information in near-real time."
+        },
+        {
+            "text": "The FBIS team adopted a business event streaming approach that uses a publish-subscribe data sharing model. This allows applications to be kept up to date with continuously changing data. New or updated data (also referred to as \u2018events\u2019) is published into a data stream for applications to subscribe to."
+        },
+        {
+            "text": "This architecture allows different systems to act together in a converged way, without having to use a shared database."
+        },
+        {
+            "text": "By using a common publish-subscribe model, products and services continuously publish and subscribe to updates, linking the systems together."
+        },
+        {
+            "text": "This architecture means services can base decisions, like approving an application, on the latest available data. For example, the digital immigration status must continuously respond to events that might affect someone's permission to work, study, travel, and access services."
+        },
+        {
+            "heading": 2,
+            "text": "Improving user support"
+        },
+        {
+            "text": "In addition, DDaT has helped explore how we can improve the customer support model through reusing technology from elsewhere in the Home Office."
+        },
+        {
+            "text": "People often need help when they are using their immigration app or account. Their feedback led to the FBIS team building a contact form, reusing shared technology from the Home Office Forms product."
+        },
+        {
+            "text": "The team then made the code fully open source and available on GitHub for anyone to reuse."
+        },
+        {
+            "heading": 2,
+            "text": "Looking to the future"
+        },
+        {
+            "text": "FBIS is still developing, iterating, and expanding to include new immigration routes and transform UK immigration systems and processes."
+        },
+        {
+            "text": "The event-driven architecture developed in FBIS is now the basis for data sharing between products. It will help to facilitate the digitisation of the entire migration journey which spans immigration, borders, and many other Home Office and government systems."
+        },
+        {
+            "text": "By reusing and adapting products, DDaT teams have converged technology to deliver a much more user-friendly, digital immigration system which results in a better experience for our customers and can adapt to change as immigration policy develops."
+        }
+    ]
+}

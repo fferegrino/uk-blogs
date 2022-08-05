@@ -1,0 +1,77 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/05/06/designing-for-a-relationship-not-a-user/",
+    "title": "Designing for a relationship, not a user",
+    "authors": [
+        "Lisa Talia Moretti"
+    ],
+    "categories": [
+        "Design",
+        "Our services"
+    ],
+    "pub_date": "2022-05-06T15:45:55+01:00",
+    "content": [
+        {
+            "text": "When was the last time you helped someone do something online? A few personal examples from me: during a prototype testing session I talked a participant through how to share their screen with me, while on a whatsapp call with my mom I talked her through how to switch our voice call to a video call and last year while abroad for a conference, I sat next to a fellow speaker and helped him as he completed the online public health passenger locator form for entry back into the UK. For the purposes of this blog I\u2019m going to call this informal support.\u00a0"
+        },
+        {
+            "text": "Next question. Do you have any formal \u2018authority\u2019 in place? Perhaps you\u2019re a parent or a guardian. Perhaps you have a lasting power of attorney in place for your mum or your dad or your granny? I have a power of attorney in place for my sister. The UK Gov Good Practice Guidelines (GPG) identifies three different types of authority:"
+        },
+        {
+            "text": "For the purposes of this blog, we\u2019ll refer to all these authoritative examples as \u2018formal support\u2019."
+        },
+        {
+            "text": "While working on modernising lasting powers of attorney, I\u2019ve come across tens of stories and anecdotes, just like the ones I\u2019ve shared with you above, where participants talked through how they received help from or gave help to a friend, neighbour or family member while completing their forms. These stories are often accompanied by tales of woe; because once they had a lasting power of attorney in place, they quickly discovered how difficult it was to start using this really important document.\u00a0"
+        },
+        {
+            "text": "As a result of this work, I\u2019ve started seeing the absence of informal support and formal delegation journeys everywhere and I cannot stop thinking to myself, why do we make it so difficult for people to get the help they need? The reason I\u2019m getting on my soapbox about this is because this isn\u2019t just a design flaw. In some instances, this absence becomes outright service failure.\u00a0"
+        },
+        {
+            "text": "When you start adding up the numbers, you quickly start to see how important supported journeys are. There are nearly six million lasting powers of attorney and counting in the UK, with around one million being added each year\u2026 and that\u2019s just one kind of formal support. Supported journeys aren\u2019t a chance occurrence, they are a certainty.\u00a0"
+        },
+        {
+            "text": "Why is it important for us to design \u2018in\u2019 support?"
+        },
+        {
+            "text": "The simplest answer to this question is because informal and formal support are a key feature of human life and as a result, our services should be flexible enough to cope with a supporter-in-tow on the other end of a screen, telephone or paper form. However, there are a number of other important reasons too."
+        },
+        {
+            "text": "Reduce fear and anxiety"
+        },
+        {
+            "text": "On more than one occasion, I\u2019ve heard how filling out government forms overwhelms people. There is a real fear and anxiety in getting it wrong or getting into trouble because they got it wrong. Very often, it\u2019s this fear and anxiety that drives people to seek support and reassurance from someone else but that, in turn, concerns people that by including someone else, they\u2019re doing the wrong thing. Designing \u2018in\u2019 support and delegation makes it known to people that getting support is perfectly ok and normal."
+        },
+        {
+            "text": "You could include an entry point for a supporter at the very start of the journey, like this."
+        },
+        {
+            "text": "Reduce errors"
+        },
+        {
+            "text": "Designing in support means that we\u2019re able to reduce errors when people are sharing information with us. When you\u2019re helping someone complete an online form, it\u2019s easy to default to \u2018your\u2019 details when you see the word \u2018you\u2019 or \u2018yours\u2019. Customising the journey with names reduces the cognitive load on the supporter and can help to reduce errors."
+        },
+        {
+            "text": "Avoid this: Do you have an account?"
+        },
+        {
+            "text": "Rather this: Does Wendy have an account?"
+        },
+        {
+            "text": "Reduce delays in access to public services"
+        },
+        {
+            "text": "This is especially important with regards to formal supporters like guardians, attorneys, appointees and others because the person we intended to speak to, our imagined \u2018user\u2019,\u00a0 isn\u2019t driving the car but is rather in the front seat, so to speak. For those with a formal support arrangement in place, they are relying on service providers to know what these arrangements are, how they work, and to have a process in place to verify the arrangement. Without this, a potentially vulnerable person and their supporter is left in significant distress. Verifying the relationship between two people also ensures that should any queries arise or notifications need to be shared, that we contact the right person. Calling someone who has dementia and questioning them about, say, identity documents is not helpful."
+        },
+        {
+            "text": "Design for a relationship not a user"
+        },
+        {
+            "text": "Once you open this box, you realise there is a lot to think about. For starters, there\u2019s the fact that you\u2019re having to reframe the design challenge in front of you because you\u2019re now having to design for a relationship not a user. That\u2019s some real weirdness right there and it takes some getting used to. Then there are other design challenges that crop up like capturing consent from the person getting the support, and adapting guidance so that those who are supporting have the language they need to explain what the service is requesting and what decisions need to be made clearly to someone else. Building in safeguards, to reduce the risk of undue pressure and coercion, takes time. Consideration also needs to be given to how the kind of supported journeys that are described above should be designed differently to professional support services that solicitors, accountants, charities etc provide. However, this is a blog and not a thesis and there is only so much space that I\u2019m allocated. If you\u2019d like to read more about this topic, I\u2019m starting to document my thinking in a framework that I\u2019m publishing on this Google Doc over here.\u00a0"
+        },
+        {
+            "text": "As more public services and national infrastructure, like single sign-on accounts and identity, move online, the design of informal and formal support journeys will need to move from nice-to-have into the territory of accessible and inclusive design practice."
+        },
+        {
+            "text": "So the next time someone asks you, \u201cWill it scale?\u201d The answer is, \u201cIt has to\u201d."
+        }
+    ]
+}

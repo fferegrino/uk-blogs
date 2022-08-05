@@ -1,0 +1,75 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/06/24/automatically-produce-best-practice-spreadsheets/",
+    "title": "Automatically produce best practice spreadsheets",
+    "authors": [
+        "Rowan Hemsi, Data Scientist, Office for National Statistics"
+    ],
+    "categories": [
+        "Excel",
+        "Python",
+        "Reproducible Analytical Pipelines",
+        "Spreadsheets"
+    ],
+    "pub_date": "2022-06-24T16:21:54+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Reproducible analytical pipelines"
+        },
+        {
+            "text": "The recent RAP strategy encourages analysts to create transparent, quality processes. We achieve this by focussing on user needs and borrowing good practices from software engineering. Colleagues from across government are developing tools to make this easier. For example, govcookiecutter can help set up an Agile, analytical project \u2013 check out Eric\u2019s blog to find out more. rgovspeak can help you create govspeak files for publishing."
+        },
+        {
+            "text": "A key part of RAP is using open-source programming languages rather than risky, inefficient spreadsheets. However, what if you create an efficient and transparent RAP, but your users want the results in Excel?\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where gptables comes in"
+        },
+        {
+            "text": "gptables is a python package that generates good practice spreadsheets. With your dataset and a few extra parameters, you can produce outputs in the format your users are asking for.\u00a0"
+        },
+        {
+            "text": "A new major version of gptables is available now. This follows the updated Analysis Function guidance on releasing statistics in spreadsheets. This guidance advises analysts on our digital accessibility responsibilities. gptables v1.0.0 can help you generate spreadsheets that are accessible to more people."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Agile collaboration"
+        },
+        {
+            "text": "We developed the update using a collaborative, Agile approach. Finding the time to work together was not always easy, but pair-programming helped us to solve problems more quickly. Running sprints greatly improved our outputs. At the end of each sprint, we discussed progress with experts and users. We also met with analysts to understand their pipelines and needs from the package. This helped us create an easy-to-use product that met the accessibility brief. By speaking to disability network leaders and accessibility experts, we were able to better understand end-user needs.\u00a0"
+        },
+        {
+            "text": "Involving the Analysis Function Presentation and Dissemination lead, Hannah Thomas, helped us to understand the guidance. Through Hannah, we met others working on accessible dissemination. This community share their questions and successes, showing us real world examples of good practice."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Developing in the open"
+        },
+        {
+            "text": "Much of this was possible because we developed the package in the open. This allowed existing users to get an earlier idea of how the update would work and give feedback. Users developed pipelines around the package and shared their examples and code. This will inspire future developments to the package, completing the development cycle.\u00a0"
+        },
+        {
+            "text": "Aside from the accessibility legislation, the biggest feedback was the need for an R native solution. R users can use gptables via the package `reticulate`, but this is difficult in some digital environments. Cabinet Office\u2019s Matt Dray filled this gap with the a11ytables R package."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Other RAP reading"
+        },
+        {
+            "text": "The cross-governmental RAP strategy is available now. If you would like to get involved with the RAP community, check out the rap_collaboration slack channel and consider joining the RAP champions network."
+        }
+    ]
+}

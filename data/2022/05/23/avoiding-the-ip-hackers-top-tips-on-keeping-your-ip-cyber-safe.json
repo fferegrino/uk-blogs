@@ -1,0 +1,96 @@
+{
+    "url": "https://ipo.blog.gov.uk/2022/05/23/avoiding-the-ip-hackers-top-tips-on-keeping-your-ip-cyber-safe/",
+    "title": "Avoiding the IP hackers: top tips on keeping your IP cyber-safe",
+    "authors": [
+        "Paul Peters"
+    ],
+    "categories": [
+        "Business",
+        "Digital",
+        "Enforcement"
+    ],
+    "pub_date": "2022-05-23T16:26:45+01:00",
+    "content": [
+        {
+            "text": "Have you ever wondered how safe your intellectual property is when stored on your computer? We invited Paul Peters of the Cyber Resilience Centre for Wales to give us some tips on how we can help make our IP cyber-safe. \u00a0"
+        },
+        {
+            "text": "Intellectual property. It\u2019s something you create with your mind. It could be the name of your product or brand, your invention, the design or look of your product, the things you write, make or produce.\u00a0\u00a0"
+        },
+        {
+            "text": "For many companies these might be considered their most valuable assets\u2026so how can you help prevent your IP from being accessed and used without your permission?\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Defining the hacker"
+        },
+        {
+            "text": "Hackers go after whatever is considered valuable, whether that be access to data, the data itself, or the opportunity to take over an account and carry out a fraudulent transaction. Their business model is to disrupt and blackmail you into making a payment or to access your information.\u00a0"
+        },
+        {
+            "text": "Misappropriation of intellectual property is a real issue and can have a significant impact on a business. This can be in terms of financial cost but also reputation. You may have seen reports of hacking groups and state actors seeking to obtain sensitive information. This can include obtaining IP from a business, for example, confidential information about your invention. Poor cyber security has the potential to increase vulnerability to such an attack.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "So how can I help keep my business safe from a cyber-attack or cyber breach?"
+        },
+        {
+            "text": "A cyber breach can give the attacker access to IT systems, which means they can access some of your most valuable information and assets. This can include your IP if you do not put in measures to protect yourself. The Cyber Resilience Centre for Wales is often asked by businesses how they can protect themselves.\u00a0\u00a0"
+        },
+        {
+            "text": "These are some of the steps we recommend:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Use a strong password"
+        },
+        {
+            "text": "There are many cases of intruders preying on weak employee passwords. Once they have cracked those accounts, getting into internal systems is easy. They can use existing accounts as though they are legitimate users, with their activity going unnoticed. The use of a strong password, ideally using three random words with capitals, symbols and numbers mixed in, makes the password far more difficult to crack.\u00a0\u00a0"
+        },
+        {
+            "text": "One final step we recommend is using two-factor authentication (2FA) which can strengthen the security on your account considerably.\u00a0"
+        },
+        {
+            "text": " "
+        },
+        {
+            "heading": 3,
+            "text": "Identify \u2018phishing\u2019 emails"
+        },
+        {
+            "text": "The most common threat currently used by cybercriminals is a \u2018phishing\u2019 email. This may be a general widespread attack, or a more focused assault on your organisation.\u00a0\u00a0"
+        },
+        {
+            "text": "What happens when you click on a corrupt attachment or link?\u00a0"
+        },
+        {
+            "text": "This may allow malware (also known as malicious software) to be downloaded to your computer which could be used to:\u00a0"
+        },
+        {
+            "text": "- reveal your passwords\n- access your email account\n- send emails pretending to be you\n- obtain client data and blackmail you for its return\u00a0"
+        },
+        {
+            "text": "The key to defending yourself against this attack is staff awareness. This will help all employees to understand the key elements to recognising a phishing email if or when they receive one. This will place your organisation in a far stronger position to prevent themselves falling victim to being hacked and blackmailed.\u00a0\u00a0"
+        },
+        {
+            "text": " "
+        },
+        {
+            "heading": 3,
+            "text": "The principle of 'least privilege'"
+        },
+        {
+            "text": "Misappropriation of IP can be an internal as well as an external threat. We recommend a tiering model for administrative accounts which allows employees access to the specific administrative capabilities they need, rather than all of them. This limits users on privileged accounts. It also reduces the access an attacker gains if a lower privilege administrator account is compromised.\u00a0\u00a0"
+        },
+        {
+            "text": "If you need to share confidential information with others, we recommend asking them to sign a non-disclosure document (NDA). https://www.gov.uk/government/publications/non-disclosure-agreements\u00a0"
+        },
+        {
+            "text": " "
+        },
+        {
+            "heading": 3,
+            "text": "For more information on making your business cyber-safe:"
+        }
+    ]
+}

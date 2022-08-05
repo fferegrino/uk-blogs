@@ -1,0 +1,107 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2022/01/31/analysing-data-to-identify-risks-at-the-uk-border/",
+    "title": "Analysing data to identify risks at the UK border",
+    "authors": [
+        "Andy Gregory, Deputy Director, Data Services and Analytics"
+    ],
+    "categories": [
+        "Data",
+        "DDaT Strategy"
+    ],
+    "pub_date": "2022-01-31T11:28:41+00:00",
+    "content": [
+        {
+            "text": "Data sits at the heart of operations at the UK border. Analysing data on the people and goods that cross our border is vital for keeping the UK secure."
+        },
+        {
+            "text": "In this post we discuss how we ensure data analysis at the border is as efficient as possible to combat crime and reduce our reliance on expensive legacy technology. It demonstrates how the Home Office is becoming more data-driven in its approach, a principle we commit to in our 2024 DDaT Strategy."
+        },
+        {
+            "heading": 2,
+            "text": "An advanced Border Risking and Targeting Capability (BRTC)"
+        },
+        {
+            "text": "In Home Office Digital Data and Technology (DDaT), we\u2019ve worked with Border Force to develop an advanced Border Risking and Targeting Capability (BRTC). This brings together and analyses diverse data in real time to help us easily and quickly detect and combat fraud, crime and illegal migration."
+        },
+        {
+            "text": "The BRTC builds on Border Force\u2019s prior investment in targeting capabilities. It also enhances these through reusing existing data ingestion and task management products, as well as through developing a new search product and rules engine."
+        },
+        {
+            "text": "Developing this new capability means we can stop using several \u2018legacy\u2019 systems which cost millions of pounds to maintain and are less efficient to run. Current projections show that after deployment we could potentially save up to \u00a3100 million over the next 10 years."
+        },
+        {
+            "heading": 2,
+            "text": "How BRTC works"
+        },
+        {
+            "text": "The BRTC ingests large volumes of data through data streams and Application Programming Interfaces (APIs) that connect to law enforcement, international data and data collected at the border."
+        },
+        {
+            "text": "The BRTC then analyses, structures, and matches the data so that Border Force officers have the information they need to find patterns and generate intelligence. Much of this data analysis and processing is automated, leading to efficiencies. Officers have their own analytics dashboard to perform searches and see the \u2018rules\u2019 being set by intelligence analysts."
+        },
+        {
+            "text": "Analysts set the rules based on patterns of observed suspicious behaviour. The BRTC then uses these rules to analyse a wide range of data sets. Intelligence analysts can amend rules based on the outcomes of the intelligence."
+        },
+        {
+            "heading": 2,
+            "text": "Developing BRTC according to user needs"
+        },
+        {
+            "text": "The BRTC development team spent time understanding users and their needs before drawing up its functionality and architecture."
+        },
+        {
+            "text": "Through a series of stakeholder interviews the team collected over 200 \u2018use cases\u2019. From those use cases we were able to understand how colleagues in the UK border community, for example intelligence officers, use data to analyse certain patterns in how people enter the UK."
+        },
+        {
+            "text": "Now that the BRTC is operational, Border Force subject matter experts have joined product teams and work closely with user researchers to understand user needs and provide evidence to support any product iterations."
+        },
+        {
+            "text": "Working together in this way, and combining operations with development aspects, means teams have clear insight into what officers need at the border and ensures we design data-driven products that help colleagues to be effective, efficient and fair."
+        },
+        {
+            "heading": 2,
+            "text": "Structuring and matching the data"
+        },
+        {
+            "text": "Data ingested into the BRTC is structured using the common data model POLE (Person, Object, Location, Event). This is the standard data model used for all Home Office analytics and insights data. Use of the model helps us standardise the data, making it easier to share, access and match up with other data."
+        },
+        {
+            "text": "A BRTC matching and searching capability then works on the standardised data, finding links and combining similar records to reduce duplication and understand associations. This might be necessary if someone has multiple records that are similar but not the same."
+        },
+        {
+            "text": "Use of these data models, standards and matching capabilities helps officers identify hidden relationships between data sets and make swift and accurate interventions to combat crime."
+        },
+        {
+            "heading": 2,
+            "text": "Using data safely and securely"
+        },
+        {
+            "text": "Of course, any project that involves the analysis of data in this way needs a great deal of scrutiny and oversight. There\u2019s a lot of work we do to ensure data is being used safety and securely. This starts with having anyone handling or relying on the BRTC data understanding their legal obligations."
+        },
+        {
+            "text": "All data is held securely and processed in line with relevant human rights and privacy legislation, including UK data protection laws and the Human Rights Act 1998."
+        },
+        {
+            "text": "We have dedicated teams assessing the impact of any data and ensuring it\u2019s used securely. There\u2019s also a Border Force data governance team to provide independent audits."
+        },
+        {
+            "text": "We use Memorandums of Understanding (MoUs) and data protection impact assessment processes to identify and manage data protection risks, as well as any other risks to fundamental rights and freedoms caused by the processing of personal data."
+        },
+        {
+            "text": "Data sharing agreements set out the purpose of any data sharing with external organisations, and set standards, roles and responsibilities for everyone involved."
+        },
+        {
+            "text": "The BRTC also has dedicated Data Protection Practitioners (DPPs). Its data protection policy is peer reviewed by Home Office legal advisors."
+        },
+        {
+            "heading": 2,
+            "text": "Becoming data-driven across the Home Office"
+        },
+        {
+            "text": "As a data-driven organisation we believe transformation should start with data rather than our technology. Data is one of our primary assets, and our technical architecture is modelled around the needs of collecting, securing and processing it."
+        },
+        {
+            "text": "We are starting to assess more projects on their use of data as part of our new Home Office assurance model. We are working to ensure our users can quickly provide and access high-quality data to inform our policy decisions, secure the country and monitor our performance."
+        }
+    ]
+}

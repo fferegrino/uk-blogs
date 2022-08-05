@@ -1,0 +1,103 @@
+{
+    "url": "https://technology.blog.gov.uk/2021/10/08/a-new-standard-of-testing-for-gov-uk/",
+    "title": "A new standard of testing for GOV.UK",
+    "authors": [
+        "Ben Thorner, Developer, GDS",
+        "Peter Hartshorn, Developer, GDS"
+    ],
+    "categories": [
+        "GOV.UK",
+        "Tools"
+    ],
+    "pub_date": "2021-10-08T12:43:41+01:00",
+    "content": [
+        {
+            "text": "GOV.UK has a strong culture of testing the changes we make to our apps. We often write tests before we make a change (as in test-driven development), and all the existing tests need to pass before a change can be deployed (as in regression testing).\u00a0"
+        },
+        {
+            "text": "Sometimes it\u2019s more practical to test a change manually, and over the years the idea of doing some kind of manual check had become a staple in our deployment process. But having too many manual checks can lead to problems. For example:"
+        },
+        {
+            "text": "As GOV.UK continues to develop, it would be easy to lose sight of the gaps manual checks were meant to fill. Replacing them with automated tests is not straightforward, as over the years the types of tests we write have evolved, and while each type has its merits, it\u2019s hard to tell which ones we should continue to invest in."
+        },
+        {
+            "text": "This is an exciting challenge for GOV.UK, as we prepare to deliver more at scale. More code means more tests, so now more than ever we need to agree what good looks like. Agreeing when we have enough tests is also critical for switching our apps to Continuous Deployment. This blog post is about what we\u2019ve agreed so far."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s in a test?"
+        },
+        {
+            "text": "GOV.UK is an ecosystem of 70 applications and components, which are mostly written in Ruby on Rails. For each app, we have tests to make sure it works in isolation:"
+        },
+        {
+            "text": "Apps also need to work together to provide GOV.UK as a whole. So as well as testing them individually, we also have tests that span multiple apps:"
+        },
+        {
+            "text": "Not every app had every type of test. For example, only one app had contract tests, and some apps had no unit tests for their JavaScript code. It was hard to tell at a glance if these were genuine gaps or if that type of test was redundant here. To make progress, we needed to agree what the tests for a typical GOV.UK app should look like."
+        },
+        {
+            "heading": 2,
+            "text": "A new standard"
+        },
+        {
+            "text": "We can always write more tests, but the number of possible faults is infinite, so we need to find a balance. People often refer to the test pyramid as a guide for writing new tests, but while this can help channel our efforts, it\u2019s too vague to use as an auditing tool. We needed something quantifiable and specific to the way GOV.UK is structured."
+        },
+        {
+            "text": "One way to think about the problem is to borrow a concept from security: an 'attack surface'. Instead of attacks by humans, we can think of attacks by 'bugs', where the role of tests is to defend certain parts of the code. So rather than seeing GOV.UK as one big mass with a test pyramid on top, we can break it down into a surface of possible bugs."
+        },
+        {
+            "text": "Each area on the bug surface needs a different type of test to protect it. As part of switching our apps to Continuous Deployment, we agreed on what a safe minimum should be for each type, and the result was a new standard of testing:"
+        },
+        {
+            "text": "At first sight this might look too vague to be useful, but actually the opposite is true. Instead of trying to specify the individual tests we need to have, this standard guides us to places where there might be gaps. Instead of an overbearing list of requirements, it\u2019s a set of simple prompts that builds on our existing culture of testing."
+        },
+        {
+            "text": "A problem we had when writing the new standard was deciding what to do with the Smoke tests and the end-to-end (E2E) tests. The E2E tests in particular were extremely slow and temperamental, so we were reluctant to add more of them."
+        },
+        {
+            "text": "Smoke tests are really an extra layer of tests for 'critical functionality'. Given the secondary nature of the tests, we agreed that for now it\u2019s out-of-scope to decide what 'critical' means exactly. For now, we assume all our existing Smoke tests represent critical functionality, that\u2019s worth checking twice."
+        },
+        {
+            "text": "E2E tests can be seen in the same way. Unfortunately, the ones we have are brittle and slow, to the point where we often disable them temporarily when they block time-critical changes. We agreed that, in their current form, we would get more value from deleting the E2E tests than trying to maintain them."
+        },
+        {
+            "text": "We audited every GOV.UK app against the new standard. Some apps had more issues than others, usually due to their size and complexity. Some of the issues would be trivial to fix, while others would need more investigation. To really understand the effect of the standard on GOV.UK, we would have to start applying it."
+        },
+        {
+            "heading": 2,
+            "text": "Case Study: Whitehall"
+        },
+        {
+            "text": "Whitehall (GOV.UK\u2019s oldest app) has had many responsibilities during its lifetime - at one point, it was GOV.UK. Bringing it up to scratch presented a number of challenges when we implemented the new testing standard."
+        },
+        {
+            "text": "First, we needed to assess Whitehall's test coverage. This involved a manual audit, aided by a test coverage tool: SimpleCov which reported 89%. We found that a portion of the 'missing' tests related to code that was no longer used. In order to obtain a realistic percentage, we had to remove this code.\u00a0"
+        },
+        {
+            "text": "The audit highlighted to us the areas most in need of improvement, and from this we added integration tests, which make sure the various components used to form a page work together successfully. We also added unit tests for important classes (helpers, models, and more). We didn\u2019t add tests where the amount of logic was minimal, for example: configuration classes. We then ran the coverage report again which returned 95.5% (a higher percentage than the target).\u00a0"
+        },
+        {
+            "text": "Tests for manually triggered rake tasks were not in scope, but we added them for certain tasks that we deemed 'high value'. These tasks are often used for maintenance purposes, like bulk updating live pages and so it's important they work as expected, which the tests ensure. The added tests brought the coverage up to 96.7%."
+        },
+        {
+            "text": "As well as being a frontend and publishing tool, Whitehall also provides some API endpoints, such as gov.uk/api/world-locations. As these APIs are used by multiple 'consumer' apps they require contract (Pact) tests.\u00a0GOV.UK uses a Ruby gem, GDS API Adapters, as a middleware for app to app communication. Instead of adding tests in every consumer app, we added them between GDS API Adapters (for the consumers) and Whitehall (the provider)."
+        },
+        {
+            "text": "Finally, we added extra health checks to make sure Whitehall could successfully talk to all the services it depends on. There were already a couple of health checks that had been implemented, one for Redis and one for MySQL. The additional health checks tested connectivity for Memcached and AWS S3."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We intend to apply the standard to all our apps, and at the time of publication we've already standardised over 60% of them. Once we have implemented the new testing standard in enough of our apps, we can then look at removing the old end-to-end (E2E) tests. Running these has a significant development cost and the limited protection provided by them will be negated by the other improvements in testing from implementing the standard."
+        },
+        {
+            "text": "This is just the beginning. We need to think about how we can make the standard part of the day-to-day work of developers, for a GOV.UK that continues to evolve. We need to challenge what we agreed and if we should ask for more. This means digging deeper into the types of tests we write, and agreeing tools and processes we can put in place to monitor gaps. What does a practical E2E test look like? Is it fair to enforce code coverage?"
+        },
+        {
+            "text": "Look out for more blog posts on this."
+        }
+    ]
+}

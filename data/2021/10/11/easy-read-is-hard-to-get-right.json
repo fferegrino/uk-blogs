@@ -1,0 +1,198 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/10/11/easy-read-is-hard-to-get-right/",
+    "title": "Easy read is hard to get right",
+    "authors": [
+        "John Newton \u2013 Content designer, UK Health Security Agency"
+    ],
+    "categories": [
+        "Content Design",
+        "Tried & tested"
+    ],
+    "pub_date": "2021-10-11T09:00:39+01:00",
+    "content": [
+        {
+            "text": "During a pandemic, making sure people can access services and information is vital. This is especially true for groups who might be harder to reach or disproportionately affected by coronavirus (COVID-19)."
+        },
+        {
+            "text": "Our job in the Inclusive Design team at UK Health Security Agency (UKHSA) is to make sure that everyone gets the information and the support they need."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We prototyped content for the PCR \u2018book a test\u2019 journey and had users with cognitive disabilities and lower levels of literacy test the content."
+        },
+        {
+            "text": "We wanted to understand how well users in these groups would be able to complete an end-to-end journey on NHS.UK."
+        },
+        {
+            "heading": 2,
+            "text": "What is easy read?"
+        },
+        {
+            "text": "Don\u2019t let the name fool you. Easy read content is really tricky.\u00a0"
+        },
+        {
+            "text": "The first thing we noticed during our preliminary research was that lots of people had heard of easy read but weren\u2019t always very sure of what it was."
+        },
+        {
+            "text": "So, to clear things up, easy read is used mainly by people with learning difficulties. It uses pictures and text to convey meaning."
+        },
+        {
+            "text": "Easy read means:"
+        },
+        {
+            "text": "Because of this format, easy reads are almost always PDFs."
+        },
+        {
+            "heading": 2,
+            "text": "Prototyping and testing"
+        },
+        {
+            "text": "Over 2 rounds we tested with 18 participants and their support people."
+        },
+        {
+            "text": "The first round focused on their experience during the pandemic so far, their familiarity with the testing process and their preferred way of getting information."
+        },
+        {
+            "text": "We used these early findings to inform a mock-up of some of the core content needed in the PCR testing journey. This included:"
+        },
+        {
+            "text": "There was an HTML version that was text-only, and an easy read version that was arranged in PDF documents."
+        },
+        {
+            "text": "For logistical reasons, we decided not to include the transactional pages, where users actually book tests on GOV.UK."
+        },
+        {
+            "text": "Even without those pages, it was a massive amount of pretty nuanced information to convey. We tried to draw out the core pieces of information from the existing content on the NHS site."
+        },
+        {
+            "text": "As a content designer, testing something that you\u2019ve designed with real users is simultaneously the most thrilling and terrifying thing you can do."
+        },
+        {
+            "text": "Some things went well, others not so much. Either way, we learned a lot."
+        },
+        {
+            "heading": 2,
+            "text": "What we found"
+        },
+        {
+            "heading": 3,
+            "text": "Users\u2019 needs are complex, give them options"
+        },
+        {
+            "text": "Some users:"
+        },
+        {
+            "text": "Most users expressed a level of anxiety around visiting test sites, and indicated that video content showing what to expect at a test site would have helped."
+        },
+        {
+            "text": "We need to make sure that users have a range of accessible options to choose from."
+        },
+        {
+            "heading": 3,
+            "text": "Don\u2019t hide the content"
+        },
+        {
+            "text": "How users access these resources is also key. Users generally missed links on the homepage to the easy read content. They expected to have accessible options that sat alongside the mainstream content."
+        },
+        {
+            "text": "Having said that, it could also be useful for support people who want to print out the material, to have it grouped together."
+        },
+        {
+            "text": "There\u2019s no reason that it couldn\u2019t be arranged in both ways."
+        },
+        {
+            "text": "Also, knowing that many people in this group will have someone to support them, it makes sense to make the content easy to share."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons for how we do easy read"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s in a name?"
+        },
+        {
+            "text": "We found that lots of users weren\u2019t totally sure what to expect from easy read content. Also, what\u2019s called easy read content is massively inconsistent."
+        },
+        {
+            "text": "If it doesn\u2019t have all the hallmarks of easy read (images left-aligned, wide margins and larger text), don\u2019t call it easy read."
+        },
+        {
+            "text": "It\u2019s also really important to maintain a consistent style throughout all our easy read materials."
+        },
+        {
+            "text": "This is tricky because most of it is commissioned by individual teams."
+        },
+        {
+            "text": "It would be good to have a single point of contact for teams to give guidance and ensure standards are being met."
+        },
+        {
+            "heading": 3,
+            "text": "Don\u2019t just do it, design it"
+        },
+        {
+            "text": "It\u2019s worth having a content designer look at the content before you send it off to be made into an easy read document."
+        },
+        {
+            "text": "The language and tone might need to change. The amount of information at each point might need to change."
+        },
+        {
+            "text": "Bear in mind that some people in this group find it hard to retain information or get anxious if presented with lots of information."
+        },
+        {
+            "text": "These things need to be designed. That\u2019s why it\u2019s important to have a content designer with you when you start to think about creating easy read content."
+        },
+        {
+            "text": "Lots of users said they liked having things they had to do set out in a step-by-step fashion, so it was easy to tell where they were in the process and what to do next."
+        },
+        {
+            "heading": 3,
+            "text": "Easy read it and understand it (and how long it takes)"
+        },
+        {
+            "text": "Make sure your team understand what easy read is, who it\u2019s for, and what you hope to achieve with it. This will help if you need to distil some of the information you\u2019re conveying down to its essentials."
+        },
+        {
+            "text": "It\u2019s also worth noting that easy read takes a long time to produce, so start with this content rather than leaving it as an after-thought once you\u2019ve got your main content signed off."
+        },
+        {
+            "text": "Although it takes a long time to produce, having a content designer with you at the beginning will make this easier."
+        },
+        {
+            "text": "Ideally, you\u2019d also test it with the users it\u2019s intended for."
+        },
+        {
+            "heading": 3,
+            "text": "PD effed"
+        },
+        {
+            "text": "One of our biggest issues was there was no way of keeping the easy read formatting in HTML. This meant that we had lots of PDF documents."
+        },
+        {
+            "text": "While it was good to keep the formatting, it meant that users\u2019 journeys were broken up between multiple documents. Screen readers sometimes struggle with PDFs. There were lots of technical struggles as users had to download things. Sometimes they just didn\u2019t work."
+        },
+        {
+            "text": "What we think we\u2019d like, in an ideal world, would be an HTML page that:"
+        },
+        {
+            "heading": 2,
+            "text": "And there\u2019s still loads we\u2019d like to find out"
+        },
+        {
+            "text": "We got some really good insights from both building the prototypes and showing them to users, but there\u2019s still lots we\u2019d like to find out more about, like:"
+        },
+        {
+            "heading": 2,
+            "text": "Resources we found helpful"
+        },
+        {
+            "text": "Here\u2019s a list of resources that helped us during the research:"
+        },
+        {
+            "text": "If there\u2019s anything we\u2019ve missed feel free to stick it in the comments or get in touch with any questions."
+        }
+    ]
+}

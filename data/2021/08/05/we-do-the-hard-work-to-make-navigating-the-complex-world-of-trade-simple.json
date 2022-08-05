@@ -1,0 +1,89 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/08/05/we-do-the-hard-work-to-make-navigating-the-complex-world-of-trade-simple/",
+    "title": "We do the hard work to make navigating the complex world of trade, simple.",
+    "authors": [
+        "Alex Giamas, Technical Architect"
+    ],
+    "categories": [
+        "Careers",
+        "Culture",
+        "Digital Services",
+        "People and Skills"
+    ],
+    "pub_date": "2021-08-05T13:44:55+01:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "Alex Giamas, Technical Architect for great.gov.uk"
+        },
+        {
+            "text": "After years of working for a range of companies from blue chip to co-founding a digital health startup, I was excited to join the youngest UK government department to be the Technical Architect for great.gov.uk. Four and a half years later, the platform is now in a completely different place."
+        },
+        {
+            "text": "We have recently been featured by the Prime Minister for our work on designing, developing and expanding the platform. great.gov.uk has helped over 130,000 UK businesses export from the UK and is now on a journey to accelerate UK small business\u2019 success. We will do this by building a frictionless and compelling platform, which reassures, educates, and simplifies trade with the rest of the world."
+        },
+        {
+            "heading": 3,
+            "text": "Our story"
+        },
+        {
+            "text": "As a Technical Architect for great.gov.uk, I follow the Government Digital Service (GDS) guidance. I am responsible for:"
+        },
+        {
+            "text": "The Department for International Trade (DIT) manages great.gov.uk. The platform started off as a promotional website consisting of a disconnected set of services, reflecting organisational structure, instead of user needs. Over time, we realigned all services according to user needs, under a unified architecture. We use microservices for common functionality (for example Single Sign On and Forms data lake) and larger building blocks for underlying infrastructure like Wagtail CMS."
+        },
+        {
+            "heading": 3,
+            "text": "Developing new skills on great.gov.uk"
+        },
+        {
+            "text": "DIT is a great place to learn, enjoy and excel in delivering world class digital services for the wider public. As the platform\u2019s Technical Architect, I had the chance to collaborate with colleagues from the big four technology companies on solving some of the toughest challenges around trade and investment. When we needed to build trailblazing personalisation capability on the GREAT platform, Google and their UK technology partner CTS helped us design a solution using BigQuery and Google Analytics 360."
+        },
+        {
+            "text": "We participate in development and influence the design of open source projects that we use in the department, such as the Wagtail CMS\u2019s newest translation engine. We can make these happen because we solve big problems, with a drive and urgency to innovate and consistently deliver based on modern development practices. We follow the GDS Service Standard such as using code in the open and use agile ways of working."
+        },
+        {
+            "heading": 3,
+            "text": "Supporting remote working"
+        },
+        {
+            "text": "Being a Technical Architect for great.gov.uk I was able to embark on this exciting journey, in the middle of a global pandemic. When the first Covid-19 lockdown was announced we shifted to full time remote working overnight. Thanks to our outstanding infrastructure, we were already prepared to work from home and didn\u2019t face any issue from the technology side. Actually, DIT\u2019s Digital Data and Technology (DDaT) culture was already embracing working remotely meaning that we already had the right technology to support working from home."
+        },
+        {
+            "text": "By working from home, we can work on tasks that require deep focus. However, always working remotely means that you need to bring the entire office life to your home. On top of this, we also had to hire most of the technical members of staff, remotely, without ever meeting them in person."
+        },
+        {
+            "text": "To meet these challenges, I started by writing our team's \u2018remote working manifesto'. A set of clear, simple and easy to follow rules that would serve as the guideline for the months to come. We operate on trust, we are contactable and respect work life boundaries, we work as a team and help each other to upskill and resolve blockers as a priority. We don\u2019t blame, but learn from our mistakes, optimising our process for the future."
+        },
+        {
+            "text": "We are able to use the same tools we used in the office remotely. We use GitHub, Jenkins, hosting our services in the GOV UK cloud, pair Pull Request reviews using static code analysis tools, and make sure that our code follows the testing pyramid paradigm."
+        },
+        {
+            "heading": 6,
+            "text": "A screenshot of the team on an MS Teams call"
+        },
+        {
+            "heading": 3,
+            "text": "DDaT\u2019s culture and people"
+        },
+        {
+            "text": "The biggest shift with remote working came from the culture and people side. As a Technical Architect for the team, I felt isolated and lonely. I suddenly lost touch with all the developers. I was not alone in feeling this way."
+        },
+        {
+            "text": "To support our remote working, I established weekly 15 minute 1-2-1 meetings with every member of the team, and even reached out to people from different teams to have the quick 'watercooler chat\u2019 that we could no longer have. But quick chats in the hallway turned into meetings, which turned into frequent breaks for the developers that couldn\u2019t allow them to \u2018get into the zone\u2019."
+        },
+        {
+            "text": "Over time we balanced that with a few adjustments. Meetings now have mandatory and optional participants, and we may post keynotes after the meeting for the wider team. Members of technical staff can also block out time for deep focus. We started using tools to achieve these goals, such as Microsoft Teams, Invision Freehand, Google Suite and Microsoft Office to better collaborate in the new, digital-only work world."
+        },
+        {
+            "text": "As well as this, DDaT hosts a weekly 30-minute session called \u2018Lightning Talks\u2019 which is a great way to listen to wider team members give short 5-minute presentations on topics that interest them. It supports our learning and development and provides us with a chance to take a break and socialise with new people."
+        },
+        {
+            "heading": 3,
+            "text": "Embracing new ways of working"
+        },
+        {
+            "text": "The end result was, simply put, brilliant. The team is more autonomous than ever, all the while embracing a single vision. It\u2019s what allowed us to build a personalised platform, with world-leading commodity code search, delivering our vision for great.gov.uk. We are now able to attract top talent to support our vision through the new ways of working we have embraced."
+        }
+    ]
+}

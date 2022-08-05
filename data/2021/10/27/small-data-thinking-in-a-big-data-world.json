@@ -1,0 +1,91 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2021/10/27/small-data-thinking-in-a-big-data-world/",
+    "title": "Small data thinking in a big data world",
+    "authors": [
+        "Aidan Smith - Actuary"
+    ],
+    "categories": [
+        "Actuary"
+    ],
+    "pub_date": "2021-10-27T13:28:50+01:00",
+    "content": [
+        {
+            "text": "We\u2019ve just bought some bathroom scales. They not only measure your weight but also allow your mobile phone to track lots of other metrics such as your body fat percentage and protein rate over time."
+        },
+        {
+            "text": "But are these measurements correct? We bought these new scales because it turns out that our previous ones were under-reporting weight by around 3kg. As you can imagine, that was a disappointing discovery! (Especially as it didn\u2019t coincide with a similar under-reporting in my height!)"
+        },
+        {
+            "text": "I hadn\u2019t even considered that our scales might be incorrect, especially when showing my weight to the nearest 0.1kg on a digital display. Sure, if I\u2019d been using some antique scales requiring calibration and trying to read an analogue dial, I would expect some margin for error. But not with a digital display!"
+        },
+        {
+            "text": "Does a similar problem affect users of analytical models? Particularly in the era of big data and snazzy artificial intelligence models? Do model users remember to ask the basic questions they\u2019ve applied to modelling projects for many years?"
+        },
+        {
+            "heading": 2,
+            "text": "Underlying data"
+        },
+        {
+            "text": "You\u2019ve probably heard the term \u201cgarbage in, garbage out\u201d \u2013 the concept that analysis based on flawed data (the input) will produce unreliable results (the output.) The process of verifying data has been central to analytical modelling for decades. Do we apply this sufficiently to big data?"
+        },
+        {
+            "text": "As an example, when we rely on online reviews, how much do we consider the self-selecting nature of respondents? Compare this with the stratified random sampling approach which has been a key part of political opinion polling for many years."
+        },
+        {
+            "text": "Location data is particularly susceptible to being taken at face value. A 2016 BBC News article explained how blank US IP addresses were being mapped by a database provider to a default address which happened to be a farm in Kansas. This led to the farm\u2019s owner being blamed incorrectly for a range of scams!"
+        },
+        {
+            "text": "It\u2019s likely that the original data provider would know that any data mapped to that address would be unreliable. However, subsequent users may not have taken the same care to understand and interrogate the data before relying on it."
+        },
+        {
+            "text": "As a further example, the Alan Turing Institute has explained how web-scraping can ultimately lead to facial recognition applications failing to operate properly across diverse populations."
+        },
+        {
+            "text": "Facial recognition models can be programmed using pictures of people taken automatically at scale from public websites. This approach can limit the images used when programming the technology from diverse populations which were not sufficiently represented in the training data. This is because it depends on which photos were easily picked up, rather than considering systematically whether the approach was sufficiently comprehensive or diverse."
+        },
+        {
+            "text": "Who thought to ask the basic question of whether the data being used was appropriate for the intended use of the model?"
+        },
+        {
+            "heading": 2,
+            "text": "What about the modelling?"
+        },
+        {
+            "text": "Let\u2019s think about trying to forecast the level of the stock market in a year\u2019s time. If I were to show you a single point estimate, I\u2019d expect a healthy discussion about uncertainty: what if future experience differs from the outcome I presented?"
+        },
+        {
+            "text": "What if I instead use a more sophisticated approach, modelling the outcome stochastically, presenting colourful graphs showing the distribution of outcomes and providing 95% and 99% confidence intervals?"
+        },
+        {
+            "text": "In my experience, such analysis helps in conveying there\u2019s uncertainty inherent in future outcomes, but sometimes at the expense of any discussion of model and parameter error. In other words, the discussion can focus on the uncertainty shown by the model at the expense of the uncertainty which is not shown (the chance that the model is wrong.)"
+        },
+        {
+            "text": "With Machine Learning or Artificial Intelligence models, many of us will lack the confidence to discuss model choice in detail. At the same time the models might be described in a way which makes them sound unassailable. The opaqueness of some models can make modelling discussions more difficult, while their reach makes these discussions especially important."
+        },
+        {
+            "heading": 2,
+            "text": "What can I do about this as a model user or owner?"
+        },
+        {
+            "text": "A great starting point is to, as a minimum, ask the same questions that you would with a simpler model. For example:"
+        },
+        {
+            "text": "Machine Learning and Artificial Intelligence models should be interrogated in greater detail than standard models given their data needs and potential reach. For example:"
+        },
+        {
+            "text": "Some organisations have developed frameworks to help with such considerations. One such is the Institute and Faculty of Actuaries which published A Guide for Ethical Data Science in collaboration with the Royal Statistical Society."
+        },
+        {
+            "text": "The Government Actuary\u2019s Department is well placed to help public sector bodies with these issues from its position at the intersection of data science skills and domain-specific experience."
+        },
+        {
+            "text": "In the meantime, let\u2019s hope my new scales aren\u2019t still under-reporting!"
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog\u00a0page."
+        }
+    ]
+}

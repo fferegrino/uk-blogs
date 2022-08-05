@@ -1,0 +1,121 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2021/06/16/negative-interest-rates-the-lowdown/",
+    "title": "Negative interest rates: the lowdown",
+    "authors": [
+        "Thannima Shamoli - Junior Trainee Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis"
+    ],
+    "pub_date": "2021-06-16T09:45:42+01:00",
+    "content": [
+        {
+            "text": "In February 2021, headlines were made when the Prudential Regulation Authority (PRA) published a letter sent to banks in October 2020 to gauge their 'Operational readiness for a zero or negative Bank Rate'."
+        },
+        {
+            "text": "It has been stressed that, while it is not the current intent to set negative rates, it is important for the Bank of England (BoE) to ensure that it could be 'effective as a policy tool' should it happen."
+        },
+        {
+            "text": "In this blog, we consider why negative interest rates might be chosen and what might happen as a result."
+        },
+        {
+            "heading": 2,
+            "text": "Bank Rates"
+        },
+        {
+            "text": "When we refer simply to the interest rate, we mean the 'Bank Rate', sometimes known as the Bank of England base rate. The PRA is part of the BoE, the UK\u2019s central bank. It is responsible for the regulation of financial firms which hold our money."
+        },
+        {
+            "text": "The Bank Rates are set by the Monetary Policy Committee (MPC) within the BoE and are the rates at which the BoE lends money to financial institutions."
+        },
+        {
+            "heading": 2,
+            "text": "Nominal vs real"
+        },
+        {
+            "text": "The Bank Rate is a 'nominal' or 'money' rate of interest. Unlike a 'real' rate, a nominal rate does not consider the purchasing power of the monetary amount (ie inflation)."
+        },
+        {
+            "text": "As an example of the distinction between the 2 rates, if the nominal interest rate is 3% per annum (the rate at which you can lend and borrow money) and the inflation rate is 2% per annum (the rate at which your purchasing power erodes in response to price increases), then the 'real rate' of interest would be 3% - 2% = 1%."
+        },
+        {
+            "text": "This means that if you had \u00a3100 in your account today, in a year\u2019s time your balance would be \u00a3103 with which you could purchase the equivalent of approximately \u00a3101 worth of goods in today\u2019s money."
+        },
+        {
+            "text": "Both real interest rates and inflation rates can be negative and have been so without attracting much attention. Intuitively, the idea of our purchasing power decreasing at times is far easier to comprehend than that our money held by financial institutions could decrease in monetary terms."
+        },
+        {
+            "heading": 2,
+            "text": "Borrowing and lending"
+        },
+        {
+            "text": "Nominal interest rates directly impact the way we borrow and lend money. With a positive interest rate, banks will earn interest on the money they hold for customers in savings accounts and will pass some of this on to the saver."
+        },
+        {
+            "text": "When the interest rate is close to 0% or negative, the bank still needs to offer a greater value in the future than the amount deposited today for this to be an attractive service. To cover the costs of providing the positive rate to lenders while the Bank Rate is zero or negative, banks may need to increase or introduce additional charges and reduce the rates they offer for savings accounts."
+        },
+        {
+            "text": "It was long believed that in this scenario, there would be a mass shift to cash. Instead, what we have seen is that, while current rates are close to 0% (0.1% at time of publishing), the convenience of not withdrawing our cash means we are likely to continue depositing it in banks."
+        },
+        {
+            "text": "It could also be the case that even a negative rate of interest is still a greater rate than alternative rates offered elsewhere. In effect, while the rate is close to zero, a small shift in either direction has negligible impact to the monetary value. There is, however, a limit to how negative the rate can get before this puts unmanageable financial strain on the economy."
+        },
+        {
+            "heading": 2,
+            "text": "Possible outcomes"
+        },
+        {
+            "text": "So, why would a central bank choose to set negative interest rates? Rate reductions, such as the way the current Bank Rate was set in response to the coronavirus pandemic, are a common method used by central banks to incentivise spending. Negative rates are an extension of this policy."
+        },
+        {
+            "text": "The MPC sets the rate with the intention of trying to keep inflation at 2% per annum (the Bank\u2019s 'inflation target' as set by the government for economic stability). The BoE has never set negative rates however this has been seen elsewhere including Japan, Sweden, Switzerland, and in the eurozone."
+        },
+        {
+            "text": "As I mentioned, when rates are low, banks are reluctant to pass on the lower rate to customers directly but will need to find other ways to generate the income required to meet the rates they do offer. As with any rate reduction, negative rates would make it cheaper to borrow and less rewarding to save."
+        },
+        {
+            "text": "Accordingly, the hope in setting negative rates would be that it would encourage a great deal of immediate spending by businesses and individuals."
+        },
+        {
+            "text": "However, as banks become squeezed, their profitability becomes reduced and it becomes more of a challenge for them to secure the necessary funding. Banks may also reduce the amount of lending that they provide which would be counterproductive to the goal of increasing business spending."
+        },
+        {
+            "text": "One way in which banks could generate further income would be to introduce charges for depositing or withdrawing money from accounts. In Germany, where some banks have started charging for deposits over \u20ac100,000 (\u00a390,000), some people are now keeping their money in vaults instead."
+        },
+        {
+            "text": "This was similarly the case for the Danish Jyske Bank when it introduced fees for deposits for some customers. This trend, however, has been limited as bank deposits still offer greater security over storing physical cash."
+        },
+        {
+            "text": "Negative rates could also have an unusual consequence for mortgage and loan repayments meaning that the loan outstanding would reduce more quickly. However, most UK mortgages are on a fixed interest rate so repayments would be unchanged. Even in the case of variable rates, these are unlikely to be drastically reduced and may be limited by the terms and conditions of the mortgage."
+        },
+        {
+            "text": "Negative interest rates would also impact the UK bond markets. A decrease in yields (the rate of return on the bond) causes bond prices to increase while the income received on these bonds by the bond holders decreases."
+        },
+        {
+            "text": "There could also be a positive effect on the UK stock market. This is because company earnings, which are paid out to shareholders, would be more valuable and therefore be priced higher."
+        },
+        {
+            "text": "The letter mentioned at the start of this blog was to help the Bank consider what measures would be needed for them to successfully transition to negative rates. It has been assessed that firms would need to have measures in place that would support a move to negative interest rates given 6 months\u2019 notice."
+        },
+        {
+            "text": "The firms raised concerns around the 'increased operational risks' of rushing in negative rates in any timeframe shorter than this. The PRA will now be engaging with these firms to develop systems to support potential implementation of negative rates."
+        },
+        {
+            "heading": 2,
+            "text": "Bottom line"
+        },
+        {
+            "text": "A small negative nominal interest rate is likely to have a small impact on our daily lives. Whether it could bring about positive outcomes in the economy is less certain and the risks of negative outcomes make this a highly unfavourable option only to be considered under extreme circumstances."
+        },
+        {
+            "text": "So far, the UK is only ensuring that the mechanisms are ready should such an unprecedented move be made with no suggestions that it could be brought in any time soon."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the\u00a0About this blog\u00a0page."
+        }
+    ]
+}

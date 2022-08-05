@@ -1,0 +1,122 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/05/09/using-documentation-driven-development-for-gov-uk-sign-in/",
+    "title": "Using documentation-driven development for GOV.UK Sign In",
+    "authors": [
+        "Pippa O\u2019Driscoll, Technical Writer, Government Digital Service"
+    ],
+    "categories": [
+        "Digital, Data and Technology",
+        "GOV.UK",
+        "Transformation"
+    ],
+    "pub_date": "2022-05-09T13:43:06+01:00",
+    "content": [
+        {
+            "text": "Documentation-driven development, or docs-driven development, means documenting what you\u2019re trying to build before you build it. You\u2019d use docs-driven development to write down things like the endpoints, responses and requests before you even start coding."
+        },
+        {
+            "text": "Essentially, instead of documenting your code, you code your documentation. It\u2019s a low-cost way of prototyping your code."
+        },
+        {
+            "text": "Teams use docs-driven development for a number of reasons:"
+        },
+        {
+            "heading": 2,
+            "text": "Interrogating the build at an early stage"
+        },
+        {
+            "text": "Docs-driven development is a cheap and fast way to interrogate your design without wholly committing to its build. It\u2019s important to know the team is creating the right thing in the right way without investing significant money, time and resources upfront to build the service and its design."
+        },
+        {
+            "text": "Crucially, docs-driven development isn\u2019t a \u2018Big Design Up Front\u2019 approach to set every design decision. Instead, docs-driven development interrogates the top-level blueprint of what the team expects to build. The team can then use the documentation to:"
+        },
+        {
+            "text": "All these benefits save time and money overall. On top of this, docs-driven development allows for increased collaboration for a wider team to be involved and bounce ideas off each other in the early stages of building a service."
+        },
+        {
+            "heading": 2,
+            "text": "Minimising silos or isolated work"
+        },
+        {
+            "text": "Docs-driven development means the team doesn\u2019t work on features in isolation, but instead can see the build and how it works as a whole. Documenting the service and its features means it\u2019s more straightforward to experiment with different architectural approaches and use the documentation to check how all the features worked in connection with other features."
+        },
+        {
+            "text": "This replaces creating individual features without seeing how they interact with each other. Minimising silos improves the end-user experience and can help inform wider design choices at an early stage before the product is too developed."
+        },
+        {
+            "heading": 2,
+            "text": "Maintaining consistency"
+        },
+        {
+            "text": "Maintaining team consistency can be hard, especially when work spans multiple teams. Documenting how a product or service works means you can use the documentation as the single source of truth. This improves consistency and means the code will always be up to date."
+        },
+        {
+            "heading": 2,
+            "text": "Realising docs-driven development potential"
+        },
+        {
+            "text": "In March 2021, GDS's One Login for Government programme started developing the authentication component for its new product that will make it easier for users to sign in, prove their identity and access government services. This product is currently called GOV.UK Sign In."
+        },
+        {
+            "text": "The authentication component will sit alongside GOV.UK Sign In\u2019s identity verification component, which has an initial release later this month. Authentication needed to pave the way and set up practices and workflows which identity could integrate with at a later stage."
+        },
+        {
+            "text": "The authentication team chose to use docs-driven development because:"
+        },
+        {
+            "heading": 2,
+            "text": "Mapping the technical architecture and user needs"
+        },
+        {
+            "text": "We started with using subject matter experts\u2019 previous knowledge of authentication solutions to work out the architecture for how the technology would work, the type of requests, responses and endpoints we would use, and the technical flow."
+        },
+        {
+            "text": "The technical writer and subject matter expert mapped this flow to users\u2019 tasks. This helped with checking we weren\u2019t flooding users with unneeded information about how the service worked in the backend, just what they needed to do to get it working."
+        },
+        {
+            "text": "We took these tasks and created a task-based top-level hierarchy of pages, for example: \u2018Generate a key pair\u2019 or \u2018Choose the level of authentication for your service\u2019. Using this approach helped interrogate our information architecture before we got too deep in writing the documentation."
+        },
+        {
+            "text": "We shared the documentation plan and technical architecture for the service build with the wider team. This meant we all had an understanding of what the build would look like and could contribute to any iterations."
+        },
+        {
+            "heading": 2,
+            "text": "Writing and developing the authentication component"
+        },
+        {
+            "text": "The technical writer began pair-writing the technical documentation with the subject matter expert, prioritising the pages based on:"
+        },
+        {
+            "text": "Referring to the OpenID Connect technical specification and writing the technical documentation became the first step in holding conversations for what features the authentication component would support. The developers then used the documentation to help build the endpoints, requests and responses. The technical writer could work with user researchers to regularly test the technical documentation and iterate based on changing user needs and feedback."
+        },
+        {
+            "heading": 2,
+            "text": "Maintaining docs-driven development beyond launch"
+        },
+        {
+            "text": "Docs-driven development worked well before launch when the landscape was open, but we needed to maintain this approach through to launch and beyond."
+        },
+        {
+            "text": "To do this, the team instilled a culture to update the documentation as standard when building a feature or fixing a bug."
+        },
+        {
+            "text": "Having a technical writer dedicated to maintaining docs-driven development lifted the documentation load off the developers. The technical writer and developers could work in tandem with the developers building, while the technical writer could focus on writing."
+        },
+        {
+            "text": "Writing or updating documentation and testing the documentation is a success criteria for our features. This has helped create a user-led and interrogated build, which helps improve the service quality overall."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "The authentication team continues to blend feature development with writing technical documentation, and our technical documentation for GOV.UK Sign In is now live."
+        },
+        {
+            "text": "The team is now working on building the identity component. The identity component will use docs-driven development to help build their technology."
+        },
+        {
+            "text": "GOV.UK Sign In is currently inviting beta partners for authentication. You can find out more about our selection process and GOV.UK Sign In on our recent blog post."
+        }
+    ]
+}

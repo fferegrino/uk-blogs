@@ -1,0 +1,57 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2021/10/14/understanding-uk-occupations/",
+    "title": "Understanding UK occupations",
+    "authors": [
+        "laurayoung"
+    ],
+    "categories": [
+        "Classifications",
+        "Data architecture",
+        "Data governance",
+        "Office for National Statistics",
+        "Roles",
+        "Uncategorized"
+    ],
+    "pub_date": "2021-10-14T11:18:16+01:00",
+    "content": [
+        {
+            "text": "How we\u2019ve enhanced our Standard Occupational Classification to help better understand the UK jobs market."
+        },
+        {
+            "text": "The Standard Occupational Classification (SOC) is a framework used to classify occupations according to skill level and specialisation. It assigns all jobs a four-digit code based on the skills and qualifications needed for the role. It enables the comparison of occupations across different datasets."
+        },
+        {
+            "text": "Many existing users of SOC felt that the existing four-digit\u202fSOC did not provide sufficiently granular detail to meet their needs. The SOC extension project was formed to address this need by developing an additional layer of detail which has been termed a \u2018Sub Unit\u202fGroup\u2019 level comprised of six-digits."
+        },
+        {
+            "text": "From the outset, the team knew that an extended framework would hold value by identifying emerging occupations and aiding the tracking of employment trends. The economic impact of COVID 19, which has resulted in a significant shift in the demand and availability of specific roles, as well as long term issues such as Brexit and automation, make the extension more relevant than ever.\u202fGreater detail in the classification of roles can:"
+        },
+        {
+            "text": "The combined result has been an increase in the number of occupation groupings from the existing 412 to 1,463. The second edition of the extended framework has recently been published and is now available on the ONS website."
+        },
+        {
+            "text": "At the beginning of the project, the focus was firmly on providing a resource to support those using SOC in an operational context to have a better understanding of role and occupation classifications.\u202f Statistical production was at this point firmly out of scope. However, as the\u202fproject progressed, the strong demand for more granular SOC statistics became clear. The project is therefore expanding and is addressing the challenges involved in making statistical production at the extended level a reality."
+        },
+        {
+            "text": "The publication of the SOC 2020 six-digit index, which contains around thirty thousand UK job titles, represents the first step towards enabling the automatic coding of survey data.\u202fThe index accompanies the SOC 2020 extended framework . The job titles within the index have now been matched to the framework and are available as an online resource. This enables the look up of any UK job title to the relevant six-digit SOC code."
+        },
+        {
+            "text": "Alongside this, we have developed Sub Unit Group descriptions to aid both automatic and manual coding of data. The development of these descriptions adds further clarification to the types of occupation included within a given group. Their production has played a significant role in the ongoing development and refinement of the framework which has led to the second publication."
+        },
+        {
+            "text": "A Standard Industry Classification (SIC)/Standard Occupation Classification (SOC) matching tool developed internally to ONS has been used to trial the matching of occupations from previous Census data to Sub Unit Groups. The team are analysing the outputs of this work, but early indications are encouraging. It should be noted that matching tools will not achieve 100% match rate with adequate quality, at the six digit level and the four-digit level; some level of clerical matching will be required. Work is continuing to maximise the automatic match rates of test data and explore the feasibility of clerically matching the remainder. Once complete, the ambition is to produce experimental statistics at the six-digit level."
+        },
+        {
+            "text": "There are still questions which need to be answered about the practicalities of how six-digit SOC can be incorporated into survey design, and any impact that this could have on data collection. The team need to improve their understanding about the impact that a widened classification could have on both the automatic and manual coding of data. Additionally, they need to consider issues around maintenance, updates and management of the extended framework and supporting materials."
+        },
+        {
+            "text": "The team are keen to begin to work with partners both internally in ONS and external users, to explore further how the extended framework could be successfully implemented into their areas of work."
+        },
+        {
+            "text": "If this blog has grabbed your attention and interest, please visit these website pages to find out more about the project, and to access the new version of the framework. The team are also hosting a show and tell session to give more detail about where we are now. Sign up to the talk by following the Eventbrite Link."
+        },
+        {
+            "text": "If you work with SOC, if you feel that the extension could have implications for the work you do or would like to learn more about the project please contact the team at SOCExt@ons.gov.uk"
+        }
+    ]
+}

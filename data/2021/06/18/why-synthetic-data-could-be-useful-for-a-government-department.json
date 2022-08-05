@@ -1,0 +1,71 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/06/18/why-synthetic-data-could-be-useful-for-a-government-department/",
+    "title": "Why synthetic data could be useful for a government department",
+    "authors": [
+        "Shruti Kohli, data scientist, DWP Digital"
+    ],
+    "categories": [
+        "Data",
+        "Data Science",
+        "Innovation Lab"
+    ],
+    "pub_date": "2021-06-18T08:00:46+01:00",
+    "content": [
+        {
+            "text": "In my role as lead data scientist for DWP Digital\u2019s Innovation Lab, I\u2019m always looking for new ways for our department to work. One area in particular that I\u2019ve been looking at recently is synthetic data, and the opportunities it could open up for a government department like ours. With this in mind, we\u2019ve set up the Synthetic data, Applied analytics, Innovation Lab (SAIL) team to explore this area further."
+        },
+        {
+            "text": "Synthetic data is essentially artificially generated but realistic data. It\u2019s created by funnelling authentic source data through algorithms that are specially designed to anonymise, while keeping the structure of the original information. The new synthetic data set can be used for analytical and modelling purposes, which would bring significant benefits to both our department and the wider data science community. At the moment, synthetic data is very much an emerging tool, and it\u2019s important that we consider the potential benefits and risks to a department like ours before we start to use it."
+        },
+        {
+            "text": "One of the key benefits that synthetic data could provide is in progressing data testing and sharing capabilities, both internally and externally with other government departments, academia and other sectors. Minimum friction across services will aid collaboration, which will ultimately help us to improve services for our users."
+        },
+        {
+            "text": "Also, synthetic data could provide an opportunity to enable better analysis. The larger a data set, the more it can be interrogated, and synthetic data could help to generate reliable data sets that will help us to analyse and improve our services. Real world data can be fragile and difficult to work with from an analysis point of view; synthetic data can provide a more robust data set that will be easier to work with."
+        },
+        {
+            "heading": 2,
+            "text": "Opportunities for sharing and collaboration"
+        },
+        {
+            "text": "Synthetic data will also help to promote data literacy and understanding. As of now data is locked behind closed doors which is accessible only to data scientists and analysts. Synthetic data will help to build quick dashboards that can be built on this realistic replica. This data literacy can then help businesses to make more informed decisions."
+        },
+        {
+            "text": "Further, it could also open doors to further data sharing and cross collaboration, leveraging the benefits of crowd-sourcing innovation, working with industries and academic institutions. In the current landscape these opportunities can be very limited, and require a lot of effort to materialise."
+        },
+        {
+            "text": "Currently, anonymisation of data takes place across the department in order to keep it secure and private when sharing with other departments. This can be a costly and time-consuming process, which synthetic data could help to reduce."
+        },
+        {
+            "text": "However, synthetic data is only useful for a department like DWP if it can meet a number of strict criteria. First of all, the quality of the synthetic data needs to be assessed. How close does it match the format of the original source data? If the core characteristics and statistical properties are not retained, then the usefulness of the data is lost."
+        },
+        {
+            "text": "Similarly, the robustness of the data produced needs to be considered. We need to be confident that there are no missing or incomplete values in the data, and that once formatted is consistent with the original."
+        },
+        {
+            "text": "Perhaps most importantly, as a government department we have to be particularly cautious when it comes to the security and privacy of people\u2019s data. We need to be confident that the synthetic data produced doesn\u2019t contain any information that is sensitive or could identify one of our users."
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019ve been exploring synthetic data"
+        },
+        {
+            "text": "With all of this in mind, the Innovation Lab team has been exploring the possibilities of synthetic data in order to report our findings back into the department. Earlier this year, we identified three industry leaders of synthetic data and then conducted a 3-day \u2018hackathon\u2019 using open data representative of our department's actual user cases."
+        },
+        {
+            "text": "Each of the vendors was tasked with producing 10 million records from approximately 5 million in the source dataset. We then tested each of the different synthetic data vendors for quality, accuracy, robustness, security and privacy, with privacy given particular weighting in our assessment, given its importance for the department. The hackathon results showed that one vendor in particular produced the most accurate data, and also the highest levels of security and privacy."
+        },
+        {
+            "text": "From here, we wanted to subject our results to further academic rigor, in order to challenge our findings. So, we have partnered with the Alan Turing Institute (ATI) for a data study group challenge. The ATI are scrutinising our results and developing privacy and utility metrics for synthetic data that could help us to validate its use for data sharing."
+        },
+        {
+            "text": "That\u2019s not the end of the journey though. Alongside this academic consideration, we have proposed establishing a tech challenge on DWP datasets to further test our findings. The tech challenge will involve giving fully anonymised data that is representative of authentic DWP data to external participants, and tasking those involved to crowd-solve a specific task."
+        },
+        {
+            "text": "This will allow us to assess whether the generated synthetic data can be used to conduct analysis to the extent we would require in a real-world scenario. It\u2019s a further layer of robust testing of synthetic data to advance our understanding of its usefulness to our department."
+        },
+        {
+            "text": "From there, our hope would be that we can move closer to proposing the use of synthetic data as part of our data sharing toolkit across the department. However, that can only happen when we\u2019re fully confident that it provides us with the security, accuracy and privacy we require as a government department."
+        }
+    ]
+}

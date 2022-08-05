@@ -1,0 +1,51 @@
+{
+    "url": "https://giaa.blog.gov.uk/2021/12/17/data-analytics-and-artificial-intelligence-empowering-internal-audit/",
+    "title": "Data analytics and artificial intelligence empowering internal audit",
+    "authors": [
+        "Lauren Petrie, Data Analytics Specialist",
+        "Nicola Osinaike, Innovation Product Manager"
+    ],
+    "categories": [
+        "Innovation",
+        "Internal Audit",
+        "People"
+    ],
+    "pub_date": "2021-12-17T13:57:52+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Lauren Petrie - Data Analytics Specialist"
+        },
+        {
+            "text": "Data analytics empowers us to transform our internal audit and counter fraud work. I was excited to join the Government Internal Audit Agency (GIAA) in August 2021 as the first member of our new Data Analytics specialism team. I\u2019m very proud of what we\u2019ve already achieved in the first few months. We\u2019re collaborating with more than 15 of the Agency\u2019s audit and investigation teams, enabling our colleagues to complete analyses that, in some cases, would not have been possible or practical without the coding we have provided."
+        },
+        {
+            "text": "Our objective is to develop, extend and embed the use of data analytics throughout the GIAA to support our mission of delivering \u201cbetter insights, better outcomes\u201d for our customers."
+        },
+        {
+            "text": "Through our data analytics specialism team, we are enabling this transformation by automating repetitive tasks, for example - writing code to extract text and tables from PDF (portable document format) documents. This means that the information doesn\u2019t need to be manually copied, leading to greater efficiency and cost-savings. Using scripting, we\u2019re able to rapidly reproduce analysis which gives auditors and investigators more time to understand the data, extract insights and draw conclusions. We are working with our colleagues to expand testing from samples and apply this to whole populations. This will give wider audit coverage and help to identify where processes aren't working and where potential fraud could be occurring."
+        },
+        {
+            "text": "By switching our methods of analysis to coding tools like R and Python, we're ensuring our work is rapid, repeatable, and reproducible. Interactive outputs and powerful visualisations allow customers to interrogate the data and analysis. This approach not only ensures we have clear audit trails but also allows us to keep pace with best practice across government."
+        },
+        {
+            "text": "We are also developing tools to enable our colleagues to draw out key themes from reports and identify patterns from the text of documents, giving them \"super-human\" reading skills. By working with auditors and investigators we are building skills across the agency, introducing exciting new technologies, and enabling a greater sharing of knowledge across the organisation."
+        },
+        {
+            "heading": 3,
+            "text": "Nicola Osinaike \u2013 Innovation Product Manager"
+        },
+        {
+            "text": "The term Artificial Intelligence (AI) often brings to mind images of robots, driverless cars or even the digital assistant Alexa. You may be wondering, \u201cwhat has AI got to do with audit and GIAA?\u201d. As an agency, we are fiercely passionate about innovation and we enjoy a challenge. So, our Innovation Directorate team welcomed the task of finding a way to extract the emerging trends that are forming across government which we have identified through our internal audit work."
+        },
+        {
+            "text": "As the product innovation manager, I was excited to lead the quest to find a solution. This insight could help our clients to share good practice whilst also highlighting areas for improvement across government. We conduct audits and provide additional support right across the civil service and public sector, offering an eclectic range of services. Our work generates over 1,500 audit reports annually. We knew that AI had the potential to help us analyse this vast quantity of information, but at the start of our journey, we had no idea how we could obtain the type of AI that we needed."
+        },
+        {
+            "text": "Our approach was simple. We networked diversely, meaning that we upskilled our knowledge through background reading and liaising with both civil service and private sector colleagues to learn more. We were fortunate to have access to the right dedicated resource, meaning that we had a range of technology capabilities within our team. We experimented regularly, willing to try out lots of different ideas, learning from the things that went well, and from the things that didn\u2019t."
+        },
+        {
+            "text": "The result enabled us to deliver a solution which uses a branch of AI called Natural Language Processing (NLP). This solution enables us to analyse text in a large number of documents. This is the technology which helps provide our auditors with \"super-human\" reading skills as Lauren mentioned above. We aren\u2019t stopping here. We are now investigating more opportunities to not only use AI, but to develop the capabilities to audit AI. This is certainly an exciting area in which to work and I am looking forward to discovering more as we continue to experiment and innovate."
+        }
+    ]
+}

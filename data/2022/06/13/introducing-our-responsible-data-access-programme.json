@@ -1,0 +1,42 @@
+{
+    "url": "https://cdei.blog.gov.uk/2022/06/13/introducing-our-responsible-data-access-programme/",
+    "title": "Introducing our responsible data access work programme",
+    "authors": [
+        "Mark Durkee"
+    ],
+    "categories": [
+        "Data",
+        "Data-driven technology",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2022-06-13T12:56:01+01:00",
+    "content": [
+        {
+            "text": "Access to data is an obvious requirement for data-driven innovation, but many innovators struggle to access the data they need. In a recent CDEI survey, 86% of vendors of AI and data-driven technologies stated that a number of data-related factors represented clear barriers to innovation, most notably data fragmentation, poor data quality, and a lack of data availability. The government has set out the importance of addressing this in the National Data Strategy."
+        },
+        {
+            "text": "Challenges in accessing data do not simply impede innovation, they also risk innovation being carried out unethically. Innovators face considerable uncertainty about the legal and ethical conditions for using data to develop data-driven technologies, for example because they can struggle to assess the provenance, characteristics, and risks of the huge datasets they require. This uncertainty can both deter responsible innovators and allow irresponsible innovation to proceed, to the detriment of individuals\u2019 privacy and related rights.\u00a0"
+        },
+        {
+            "text": "These issues have been a core focus for the CDEI since we launched in 2018, with our work including approaches to addressing the challenges of public sector data sharing, the opportunities offered by data intermediaries, and an adoption guide to promote the usage of novel privacy-enhancing technologies (PETs). We have also worked closely with individual public sector organisations to promote responsible data access, for example by partnering with Bristol City Council to develop an ethical data governance framework to support it to achieve its smart city objectives.\u00a0"
+        },
+        {
+            "text": "The CDEI\u2019s review into bias in algorithmic decision-making highlighted a related challenge. As society makes more decisions on the basis of data, it becomes increasingly important to\u00a0 be able to access demographic data to assess whether these data-driven decisions are fair to individuals. But again, obtaining such data is a well-established challenge \u2013 beyond the CDEI\u2019s review into algorithmic bias, both the Lammy Review and the Report of the Commission on Race and Ethnic Disparities have acknowledged uncertainty and practical barriers to demographic data collection as blockers to algorithmic fairness. The upshot of this is that even innovators with the best of intentions are unable to assess whether their machine learning models may contain unacceptable bias.\u00a0"
+        },
+        {
+            "text": "Today, we announced the launch of a new programme of work on responsible data access, which aims to drive innovative approaches to tackling some of these barriers. The programme will build on our previous work in this space and support innovators in the public and private sectors to maximise the value of data. The responsible data access programme aims to deliver and demonstrate practical solutions to a number of these issues, supporting innovators to use data in trustworthy ways the public can have confidence in."
+        },
+        {
+            "text": "This programme will complement government\u2019s wider work under Mission 1 of the National Data Strategy. There are some challenging trade-offs between data availability and individual privacy, with knock-on impacts on issues such as safety and fairness. As the UK develops its approach to data use, offering good access to data whilst simultaneously protecting individual rights, will give innovators confidence that they can build responsible products. The UK has an opportunity to be a world leader by striking the right balance in this space."
+        },
+        {
+            "text": "Several organisations across industry, the public sector, regulators and the third sector are currently doing important work in this space, including the Open Data Institute, Office for National Statistics Integrated Data Service, and Ada Lovelace Institute. The CDEI\u2019s programme will complement these initiatives and others delivering pilots and projects to tackle barriers to responsible data access and drive responsible innovation.\u00a0"
+        },
+        {
+            "text": "Our immediate focus will be on:"
+        },
+        {
+            "text": "We will share more details on the programme in further blogs this week, and are keen to hear from organisations and individuals who would like to work with us on these projects. Please get in touch with us at cdei@cdei.gov.uk."
+        }
+    ]
+}

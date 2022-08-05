@@ -1,0 +1,62 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2021/07/02/automating-for-the-people/",
+    "title": "Automating for the people",
+    "authors": [
+        "Dave More"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra interaction",
+        "Defra Science and Innovation",
+        "Digital transformation",
+        "Software tools"
+    ],
+    "pub_date": "2021-07-02T08:47:59+01:00",
+    "content": [
+        {
+            "text": "Last year we established a brand-new Digital Robotics Automation Centre of Excellence (DRACoE) for Defra. Our aim was to partner with teams and organisations across Defra to build cost effective robot solutions that help those teams become more productive. Nearly a year on, this new and cutting-edge capability is growing and making a difference in ways many of our partners in Defra group couldn\u2019t have imagined."
+        },
+        {
+            "text": "This technology enables our partners to use a software robot that will emulate and mimic them undertaking a business process involving IT systems at high speed and with flawless accuracy. In days gone by the word robot may have conjured up an image of a metallic, human-like figure, perhaps like the character C3-PO in Star Wars. Those days of robots being familiar, yet inanimate objects, are gone though."
+        },
+        {
+            "text": "We partner with Defra organisations to help them understand whether they would benefit from having robot assistance, we help design the robot process and we\u2019re completely transparent on whole life costs and return on investment. We can then build and deliver their robot in high supervision mode and will support them once it\u2019s trusted and in low supervision. We can do all of this at a fraction of the cost of any digital experience they\u2019ve ever had."
+        },
+        {
+            "heading": 2,
+            "text": "High Supervision Mode \u2013 sounds like that could be high maintenance?\n"
+        },
+        {
+            "text": "We deploy robots in high supervision mode because we think of robots, like people, as new starters in the team. New starters need to ask for help and check their work is right before they press submit and commit data."
+        },
+        {
+            "text": "We recognise that it\u2019s not possible to get 100% of the process knowledge at key stroke level out of subject matter experts doing their job, it\u2019s often something they just can\u2019t verbalise. It\u2019s their magic. So consequently, we see data as the risk, that the robot won\u2019t have the correct instruction and that data entered incorrectly can feed downstream systems and have negative consequences."
+        },
+        {
+            "heading": 2,
+            "text": "The user is in control"
+        },
+        {
+            "text": "With that in mind my team build pause points into the robot so that it can confirm with the user before it alters any data. This approach enables the users to get their robot new starter on the desktop in sprint 1 and safely begin to use, tease out what they haven\u2019t told us and live prove using real records. We can then safely move through the pause points in a process, hitting the user success criteria before moving the robot to low/no supervision mode."
+        },
+        {
+            "text": "It's not difficult to imagine that the teams we\u2019re looking to partner with might be thinking, when they come to us to build them a solution, that it could be costly, time consuming and resource-sapping to set up. But that\u2019s not the case at all. There\u2019s minimal upfront investment and no disruption to underlying systems."
+        },
+        {
+            "text": "My team provides support during the transition, and most of our solutions are highly scalable and can adapt to changing business environments. And the benefits tend to be realised very quickly. It\u2019s quite common for robots to be on the desktop delivering user benefit within three months of first contact."
+        },
+        {
+            "heading": 2,
+            "text": "Robots \u2013 they\u2019re just like humans\u2026sort of"
+        },
+        {
+            "text": "Their robots are THEIR robots. They trigger them, they interact with them. A robot augments them. A robot will use their user interface to capture data and manipulate applications, completing a process just like they would do. Robots require logic and rules and can perform a vast variety of repetitive tasks, just much faster and with 100% accuracy."
+        },
+        {
+            "text": "It\u2019s common to reduce manual processing effort by ninety percent or more. We\u2019ve been delivering robots mainly to the Rural Payments Agency and the Environment Agency, delivering five automation capabilities since October alone, with automations six and seven about to go live imminently."
+        },
+        {
+            "text": "Find out more: Robotic Process Automation"
+        }
+    ]
+}

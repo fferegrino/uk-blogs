@@ -1,0 +1,429 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/04/01/podcast-accelerating-digital-services-using-a-cloud-native-common-platform/",
+    "title": "Podcast: Accelerating digital services using a cloud-native common platform",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Podcasts"
+    ],
+    "pub_date": "2022-04-01T13:41:13+01:00",
+    "content": [
+        {
+            "text": "In the latest episode of the DWP Digital podcast, we catch up with Jacqui Leggetter and Dean Clark from the Integration team, who tell us all about how we're building cloud-native common platforms for standardisation and reuse."
+        },
+        {
+            "text": "They go into detail about what drove the need for a common platform approach, the processes they needed to follow and share they advice for anyone thinking about adopting a similar approach."
+        },
+        {
+            "heading": 2,
+            "text": "Listen now\u00a0"
+        },
+        {
+            "text": "You can listen now on:\u00a0"
+        },
+        {
+            "text": "A full transcript of the podcast can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode\u00a0\u00a0"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people.\u00a0"
+        },
+        {
+            "text": "\u00a0Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts.\u00a0"
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Careers at DWP Digital\u00a0"
+        },
+        {
+            "text": "Visit\u00a0our\u00a0Careers site\u00a0to find out more about joining us.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money "
+        },
+        {
+            "text": "Welcome everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're talking about common platforms with two returning guests, Jacqui Leggetter and Dean Clark. And don't forget, if you're interested in technology and the types of things we do, hit the subscribe button now to make sure you don't miss an episode. So let's get started."
+        },
+        {
+            "text": "Welcome back, Jacqui and Dean. Thank you for joining me again."
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "Thanks for having us back again, Stuart. I think it's been maybe just around a year since we did our last podcast and we had a really great response to that. So it's really great to be back doing another one with you. Hi, everyone. I'm Jacqui Leggetter, and I'm Head of Integration at DWP Digital."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "Hi, everyone. I'm Dean Clark. I am Technical Lead within Integration, DWP Digital."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "This is your second episode. You both featured in season one, episode three, \u201cWhat are APIs and how do you use them?\u201d So how have you both been since we last spoke? And what have your teams been up to?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "Since we last spoke, it's been a really busy time on the API front in addition to some of our other strategic components, Stuart. So some of the things that we've been looking at in the last year in particular is, how do we accelerate our speed in delivering new services? How do we up the ante on reuse? How do we really embrace reusing and building things once and particularly looking at our platform, cross Integration and across Digital, we have lots of teams struggling with the technologies of building new platforms. And we've been working on the concept of platform as a product and building the platform once, and then using that common and shared platform. So it's been a really busy time on that. And that's what we're going to be talking a little bit about in today's podcast."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "I think that's exactly right. I think coming out of COVID, we've now had laser focus on where our focus should be with regards to accelerating the delivery of our products, they enhance the lives of citizens. And also we've looked at what is the best possible resilience we can get. How much automation could we put into this process? And it's really come to light the limitations that we have as an organisation much like any, with regards to bringing in engineering talent to solve some of the major challenges that we have, which has led us to really work collaboratively across the department to work on this common platform that provides an ecosystem whereby we can really, really utilise effectively the resources that we have, and also drive the significant change as a result."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Today, we're talking about common platforms and your award-winning work in this area. So to help set the scene for everyone, what do you mean by common platforms? And what is the theory and principles behind it?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "So the theory behind the common platform is that we build the platform once. So if we think about our hosting platform and our environments that we deploy our applications into, traditionally we've worked in a way where each team won their product end to end and they spend a bit of time building the development environment, building their common tool set, building up their platform. Then they get to building the application. And it's the application that contains all of the features."
+        },
+        {
+            "text": "And if we think about all of the slight variations across the platforms, they're all kind of doing the same things. They\u2019re hosting applications and they\u2019re support the applications. But with those slight variations, it means that every platform becomes bespoke, and it's unmanageable, difficult to support and costly to support. By having a common platform, it means that we've got a standard approach to providing the hosting platform and the tooling that goes along with that. So we build the platform once and it's there as an easily consumable resource for feature teams. So we can remove the cognitive load from the feature teams of building platforms. And the platform was built by the expert team and push of a button, the platform can be there, the common tooling can be there. And that enables the line of business teams and the feature teams to focus, where they should be focusing on is building new features. Dean can talk a little bit about how we've done that and the technologies and tooling that we've got in the common platform, Dean?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "Thanks, Jacqui. Yeah, you're absolutely right. It's all about adopting more cloud native ways of working and when we talk about cloud native, it's more of an ephemeral environment where we can really abstract away most of the complexities with the underlying infrastructure. So again, that we just look to enable the teams to focus on actually delivering the value. If they're engineering and product resource that will benefit citizens, for example, reusing the majority of the underlying platform that teams can benefit from."
+        },
+        {
+            "text": "So we looked at that as a new model. And we also looked at what needs to change organisationally to allow the teams that exist at the minute to cooperate effectively within this new ecosystem, and how those communication channels might be improved through the likes of Team Topologies etc and the thinking there.\u00a0 A lot of this brings about more of a cultural change. And we wanted to demonstrate it with the core team with a common purpose to drive out a number of experiments to show how this could be done at scale."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what drove the need for common platforms, and what sort of applications are we hosting on it?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "Thinking about this from a departmental perspective, there was a number of challenges that we faced. We have a level of autonomy within each product delivery unit, which specialises on delivering services that are effectively part of that business unit or that line of business."
+        },
+        {
+            "text": "And we know that moving towards a more cloud native way of working is going to provide additional automation across the products that we produce, and also the ability to really get effective information monitor alerting and telemetry throughout that as a result of actually deploying that service."
+        },
+        {
+            "text": "The challenge that we've seen is that with the autonomy that we had across the teams, teams were then building their own platforms to do the same thing. And as I mentioned earlier, the resource for me is one of the biggest challenges because it's finite. We don't have unlimited, super skilled engineers, who can influence the entire stack and ecosystem and take us to where we needed to be."
+        },
+        {
+            "text": "Similarly, the wider ecosystem around the likes of Kubernetes and all this other great technology moves at a pace which is quite uncomfortable for large organisations. You know, we have to be mindful that we have services that will need to maintain a level of uptime for our citizens etc, and compliance with regards to what can be put into production and when. So that being said, we have to be cautious around the technology that we choose to ensure that we tick all of those boxes."
+        },
+        {
+            "text": "So that the common platform was more around how can we build a community of practice round this capability in the department so that we're actually solving the same problem, one problem together?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "I think, for me, when Dean first brought the common platform to me as a concept, the thing that got me immediately excited about it was looking at the number of DevOps that were based within the feature teams. I was almost matching DevOps one for one with software engineers. And that's a really high ratio. And when I was looking at why did a need have such a high demand for such a scarce skill, and a really deep technical skill, as well. And it really came to light that everybody was building, each of the teams were building their platforms to host their applications. And were building it many times."
+        },
+        {
+            "text": "And when we think about things like monitoring, alerting, making sure that our systems were scalable, robust, all of that. And we were repeating an awful lot of things across the team. And that led me to think well we must be repeating that across Digital. So as Dean said, we started with an experiment. And we actually rallied round a hybrid team. So we brought in our hybrid cloud platform team with the integration team, plus some of the citizen information team that were building services that would be hosted on it."
+        },
+        {
+            "text": "So traditionally, we would build micro services and host the micro services on it and expose them through APIs. So bringing all of that together in those three facets of building out a service worked really well. And it meant that we could build something that was co-created so teams could buy into it. So that need was really driven to not just in terms of reducing the number of people needed to build platforms, but really to help us get those feature teams focusing on the features and applications. So the platform was available as a push button deployment and then go. So it not only sped up delivery, it meant more effective use of our resource and avoided that cognitive overload load on our engineering staff."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "How long have we been working on common platforms?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "We\u2019ve been on this journey now for about 12 months. But a lot of that has been really focused around creating the right culture, creating the right environment, creating the space for these new teams, these new communities of experts to really flourish and start influenced that from the ground up effectively."
+        },
+        {
+            "text": "The technology is well understood and robust, and we know that it will do what we needed to do, but it's more around the communication channels and the new ways of working that can really help us solidify this as a true new way of working in the department. And like any transformation, it doesn't change, because you're constantly trying to evolve, you're really testing and learning and really building deep connections within the department by removing those silos. So it's an ongoing, ongoing journey."
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "As Dean says the technology is well proven. So this core technology is Red Hat, chosen very open source product, it's agnostic to whatever programming language our applications are built in, really flexible. The work that we've been doing and running experiments and co-creating, we didn't start off with a known outcome. We started off with some good intent and some experiments and proved and disproved some hypotheses, and then moved forward. So we've really done this in an iterative way over the last 12 months, and bringing people on the journey with us."
+        },
+        {
+            "text": "So some of it's been about the technology and how we get Kubernetes up and running with a API gateway embedded in the platform. But a lot of that has been about open leadership, allowing the team to grow, helping people upskill our platform SMEs and really coming on. And we've evolved into not just the common platform, but the platform as a product. So we now treat our platform as a product in the same way that we treat any other product. So our platform has a backlog, it has a product manager, it has a team that sits around it. And it's fed and watered in the same way as all of our other products. So it's kept refreshed. And that's been a real game shift for us over the 12 months."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what are the benefits of working in this way? And what benefits have you seen so far?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "There's been a myriad of various different benefits by working in this way, if I'm honest. So we could focus solely on the technical by adopting more true automation within our pipelines, the likes of GitOps, etc. And operators within Kubernetes, we've significantly reduced the amount of error that we\u2019d previously seen with regards to deployments. So change failure rate has been significantly reduced."
+        },
+        {
+            "text": "But more importantly, the time it takes us to put something into production from its initial idea is significantly reduced as well. So I think there was some headline figures with regards it took around four to five days from the full lead time to around 30 minutes. We have that ability to safely put things into production, and more effectively roll back with minimal impact to our citizens, etc. So we're really, really pushing the benefits of working in containerised Kubernetes cloud native environment."
+        },
+        {
+            "text": "On the cultural side of things we've actually seen by working this way, by creating this space for our engineers and other colleagues to really drive this change and experiment, we've seen some really key KPIs with regards to increased motivation, and general staff wellbeing etc, to the extent where we've managed to bring engineers who were perhaps not feeling quite at home within the department, into this new team and new way of working. And they've subsequently said that this has been an actually fantastic experience for them. And they are so motivated and committed to drive forward this change."
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "I think some of the other benefits that we've seen, as well Stuart is as I said one of the key reasons for doing this was looking at our speed to deliver services. And we are seeing that, so we're seeing a real cut the timeline of delivering services using the new platform."
+        },
+        {
+            "text": "We've just stood up a new product for external data sharing. And normally, at least the first four or five sprints would have been working on standing up the platform and getting all the tooling ready. And in reality, it took them one sprint to adopt the new platform, and then focus on the application that they're building themselves. So that's eight weeks off the timeline straight away, that's not even taking account of the bumps that they would hit in the road had they built their own platform. So the MI is there that really demonstrates that we are delivering faster."
+        },
+        {
+            "text": "And the other thing that I'm seeing is less of a demand for DevOps in the teams, so the feature teams become more self-sufficient, which is much better position for the team to be in and helps that agility as well. So we're seeing maybe one DevOps person in some of the larger teams, and some of the teams don't have a DevOps, they share a DevOps across two or three teams. So we're seeing a reduction in the need. And that tells us that the adoption of the common platform is assisting the feature teams as well."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Just before we started recording you spoke to me about team typologies. Can you explain to our listeners what this is, and how we're adopting the methodology?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "Yeah, love to talk about team topology. So I think if we look at DevOps and its evolution throughout its creation to now there's been year on year studies with regards to how organisations are adopting DevOps and how they would classify either high, medium or low performing DevOps with regards to the attributes and skills and etc, that we\u2019ve typically seen in the industry. And Team Topologies was born out of that study across, I think it was 35,000 organisations, which formed this body of evidence around how the introduction of DevOps will affect the culture and the outcomes with regards to faster, safer deliveries of value, etc."
+        },
+        {
+            "text": "So this looked at from a cultural perspective, how teams could be formed and organized. But more effectively and more appropriately how teams can communicate with each other going forward to get the best possible flow and delivery with regards to DevOps and their changes. So it looks at identifying the movement from not only just DevOps, which traditionally sit in what we call our feature teams, which are multidisciplinary teams with a purpose to deliver a slice of value, or a product or an API or something that will deliver value to a citizen."
+        },
+        {
+            "text": "And then team topology has brought about the concept of a platform team, which sits underneath that feature team, but has a way of communicating and collaborating, which encourages self-service. But the platform team's responsibility was to create those common reusable services or solutions that would really enable and accelerate the feature teams, like Jacqui mentioned earlier, taking away that cognitive load around what that feature team has to specifically do each time they make a change. So if we can provide common abstractions and automation technologies, then that would naturally mean that we could deliver faster, safer and achieve better flow."
+        },
+        {
+            "text": "So the Team Topologies is all about from an organisational perspective how to create the best possible space for these teams to form and flourish. And we use the thinking and the practices and principles from that book to really strengthen the experiment that we ran within DWP, looking at traditional silos, taking Conway's Law into the equation, and really applying that really deep thinking into something that was more of a true experiment in DWP on a smaller scale, and then trying to use that as a this is how we need to organise our teams going forward."
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "I think the only thing that I would say is if you haven't read the book Team Topologies, it's well worth a read. There's loads of great insights."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So if I was looking to develop my own set of common platforms, what sort of things should I be looking to standardise? What plans and processes did we follow to implement this approach?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "I think from a leadership perspective Stuart, you need to be prepared to take a step into the unknown. You need to be comfortable working with ambiguity upfront. I think it's fair to say we didn't set off with a vision of we're going to create a common platform or we're going to create a platform as a product. We started off with a problem statement around the complexity of starting new product development and the complexity in every team building platforms. And we ran a set of hypothesis and experiments that's led us to where we\u2019re at."
+        },
+        {
+            "text": "And I think it's led us to a great outcome, but it did take a leap of faith from our senior leadership. And fortunately, our director Craig Eblett and our DG Simon McKinnon were supportive in that experimentation and taking that leap of faith, and it has paid off. And I think that's the thing from a leadership perspective is don't go into it with a predefined answer. It's true agile, it's true allow the team to evolve, and check in and change direction as and when you need to. And that was really important for us, it was really important that the team had that autonomy and had the ability to experiment, and then report back, take forward what worked and learn from what didn't."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "With regards if we think about Kubernetes, and we think about cloud native and we keep talking about the CNCF, and the Cloud Native Computing Foundation is a body or a way that organisations can benefit from open source technologies, all of these fantastic new tools that will help us move faster. The challenge there is that CNCF, that body of new start-ups and experiments that are bringing new tools, the organisations moves at a pace that's significantly hard to keep up with. What we need to do is we really need to focus on what is the right level of skills that DWP need to bring in and focus on engineers and bring that capability up as we grow the talent etc and also looking to the market with regards bringing those talent people into the organisation."
+        },
+        {
+            "text": "We understand that there's an element of decentralisation needed. There's still the need for teams to be autonomous somewhat. So we know that a common platform in a single instance perspective might not be the right answer, but we do know that a hybrid mode would be more appropriate where we could have the true autonomy in the teams where they have their own Kubernetes clusters, for example, but we have the ability to apply policy centrally. So that we know that everywhere has the security patches, the relevant guardrails that would stop things going into production when the shouldn't, the telemetry, the monitoring and alerting solution is the same so we can have good visibility across our environments."
+        },
+        {
+            "text": "So we know that from working and maturing our understanding in how Kubernetes works and what their benefits will bring us, the benefit of this approach that we've taken is we\u2019ve really kind of teased and peeled the onion to say, actually, this is the approach that we would take. So as opposed to building one thing and expecting everyone to come and live on it with the risk that that presents to the organization, instead we've got a really clear view on how do we create commonality across our clusters in any environment, any cloud, but also apply the same amount of policy and governance within the process whilst enabling self \u2013service, whilst enabling the teams to build and run their solutions in production."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What are we building our platforms in? What frameworks and coding languages are we using and standardising?"
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "So I don't mind taking this one, Jacqui. So it's really important that we provide a level of abstraction from the underlying technologies that we use. And we are focusing our processes around a framework or a deployment pattern that is called GitOps. So that will really enable us to decouple the building of containers for example, which is how our engineers interact or build their solutions and they can use any language any programming language, that is something that we've decided upon in DWP. So if it it's an appropriate language from a DWP perspective, and we could build a container, it can be built and deployed into the image repository of choice that we choose."
+        },
+        {
+            "text": "So we still give teams the autonomy to make the decisions that is right for that product. Obviously, within the pipelines, they'll have the appropriate linting testing and all this other good stuff that ensures that the solution they're building is something that we would be happy with going into production."
+        },
+        {
+            "text": "Now, that allows us to have a standard process that engineers and teams building the solutions can follow. Now underneath that, we also have the ability to then use true infrastructure as code and declarative ways of working that Kubernetes offers so that we can further decouple that and use the likes of Flux or other tooling, which will basically recognise when a change has happened at that developer code container build perspective, and then automatically deploy it into the environment without them having to understand deeper Kubernetes architectural decisions, etc."
+        },
+        {
+            "text": "So we've really focused on how do we create that right level of developer experience so that removing the cognitive load, making sure that they can just basically focus on the things that are adding value to the solution that they are building. And that naturally is led us to Kubernetes. It's led us to the fact that we are cloud agnostic, we have the ability to deploy to any cloud. But we also have our on-premise environments, which is traditionally less, it's certainly harder to establish a cloud native environment based on the nature of an on-premise environment not being as elastic and flexible, that we would see in clouds."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Do our engineering teams still have flexibility regarding what they can use? And what guidance have we built around using our common platforms?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "It's worth just highlighting that since we've built out the common platform, we have across shared platforms and across digital now, if we are building standard services or micro services, you should be adopting the common platform. Yeah? And if you're not adopting the common platform, then there needs to be a good rationale why."
+        },
+        {
+            "text": "So we have a really robust technical reference architecture. So while our teams have a lot of autonomy, we build in line with our technical reference architecture and in line with some guide rails that HCS have provided us. We also work in partnership, so if there's something within the common platform that you need that perhaps isn't there yet, and we need a new element or a new component, then that doesn't mean you go and build your own, we have our ways of working that says work with the cloud team to build that new feature that you might need."
+        },
+        {
+            "text": "So we're rallying around it. And that all stems from the ways of working that Dean mentioned earlier, in getting teams to buy in from an early stage. So getting that adoption is really through the simplicity of using it. And because we've listened to those teams that are actually deploying into it and utilising it right from the outset, they've actually co created it, and helped to build it. So I think creating that community is really important. But also having the technical reference architecture and the guide rails for teams to work within is really important to maintain and promote the usage of the platform as well."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "So again, yeah, touching on that in the previous question, absolutely. It's really important that engineers have the ability to choose the right languages etc, that are appropriate to get the best result from their product. So we've done that using the GitOps and the separation that I mentioned previously. So we can still build a container, we can still test it, we can still piece those together through API calls and all the other great mechanisms that we have with regards to how our services are built."
+        },
+        {
+            "text": "So we have that, but we also have the ability to standardise how these applications are deployed into the underlying hosting platforms through the reusable common services that our platform teams have built. So we have Helm charts, we have Kustomize, we have all this other great technology, which will allow us to architect and create these solutions, without developers needing to know the depth or the full length of the stack with great detail."
+        },
+        {
+            "text": "But we also look at it from a how does this transfer across our various environments, and is this allowing us to move to a more declarative way of working where we are allowing the technologies from a list of things that we put in our Git repos to generate the actual environment for us. And similarly, we have now the ability to see everything as in a piece of code. So we treat everything as code. So we've got infrastructure as code, we've got software defined networks, we can quickly see how the environment is going to be composed. And that is our source of truth. Nothing can differ from that in the environment, we'll make sure that it always sticks to that, what is in the Git repo. And if that changes, it only changes through strict, robust processes where we have merge requests and peer reviews and sign offs, etc. So we have a good level of assurance that the environment is how we expect it."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Is this a widely adopted approach within the private and public sectors?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "I don't believe it is yet. I've not seen anything across government that has talked about this yet. In certainly in private sector, it's a fairly new concept. We are seeing some of private sector moving this way, and there's certainly a lot of publicity around the Teams Topology book that were referenced earlier. So it's certainly growing and I think we'll see a lot more adoption of it, and certainly a lot more adoption of the platform as a product concept in the coming year or so as well. So I think we're quite ground-breaking in some of this. We're probably not first, but we're certainly one of the early adopters, I think it's fair to say."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "Yeah, I think that's definitely right, Jacqui. And if we go back to the body of research that we talked about earlier, as we see within wider industry, which spans not just public and private sectors in the UK, but it's globally. So as we e assess the maturity levels of the teams who are working at a DevOps, or a platform engineering way of working, the underlying technology that powers that is absolutely similar to what we're deploying within DWP. So we're really using that to help validate and ensure that we are doing the right things. Even though we might be feeling some different challenges, we know this is going to take us to the level of maturity that we want our products to be able to provide the citizens."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "I mentioned earlier about an award win. Can you tell me about your recent Red Hat award for working on common platforms?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "So we recently won the Red Hat award, it was the Digital Leader of the Year Award. And it was an award sponsored by Red Hat, IDC and Intel and it was really because of the innovation that we did, so innovation and return on investment and the impact that the common platform had across our services, and also recognising how we worked in the open and went beyond our team into other areas of digital and getting that wider adoption. So it was a really great recognition for the team and winning across 120 entries, and we won the UK region. And we're now actually going into finalist for a global award that will be announced in May. So that's really great recognition of the work that the team has done and shows how ground-breaking it actually is."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what advice would you give to someone thinking about adopting a similar approach? What types of things did you need to consider before during and after implementation?"
+        },
+        {
+            "heading": 3,
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "My advice, as a digital leader would be, listen to your experts, be comfortable with a little bit ambiguity, allow the innovation and experimentation and encourage the collaboration."
+        },
+        {
+            "heading": 3,
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "And I think to add to that as well, I would strongly suggest\u00a0 having a holistic view of your guys' process, and a really deep dive into the lead time that it takes now to make changes. We use a tool called value stream mapping, which allows us to look at the end to end flow of everything from starting the process to getting something into production, and then maintain that thereafter."
+        },
+        {
+            "text": "And the information that we were able to get from that was quite eye open and we use that data to then drive some of these hypotheses in the future experiments to say, if we made this change, will it impact this part of the overall workflow? And I think aswell on top of that, we really need to create that community, that real common purpose, common objectives, everyone bought into this as a way of work and everyone feeling safe and ability to influence this change at the every level."
+        },
+        {
+            "text": "And I think once you get that power of that community, the buy in and the onboarding and the resistance to change is significantly lower as a result."
+        },
+        {
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, what plans do you have for our common platforms moving forwards?"
+        },
+        {
+            "text": "Jacqui Leggetter\u00a0 "
+        },
+        {
+            "text": "So the plan is for the team to continue. As I mentioned earlier, we treat our platform as a product. So we'll be continuing to grow continuing to maintain, keep up-to-date, and to really extend the utilisation. So the platform team working in collaboration with all of the line of business teams and application teams to really help them onboard adopt and support the growth in terms of usage of the platform."
+        },
+        {
+            "text": "Dean Clark\u00a0 "
+        },
+        {
+            "text": "And I also see this, there's some help that we could do with other teams that might not have had full visibility of the great work that we've done. I think this is a model that can really be applied everywhere. So I hope by this story and some of the others, such as the digital leader, it really inspires other organisations even to kind of think of how to address this challenge. I think there's even pockets within DWP and other government departments that I think we could really help shape how they go about achieving similar results."
+        },
+        {
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button now to make sure you don't miss our next episode. And I'd like to thank Jacqui and Dean for taking part today. I hope you've all enjoyed our discussion around common platforms. And if you'd like to know more about DWP Digital and our thoughts on other tech topics, feel free to check out our previous episodes."
+        },
+        {
+            "text": "So thanks for tuning in. And I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

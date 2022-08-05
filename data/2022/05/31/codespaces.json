@@ -1,0 +1,94 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2022/05/31/codespaces/",
+    "title": "Codespaces \u2013 a content designer\u2019s best friend",
+    "authors": [
+        "Ellie Nodder, Content Designer"
+    ],
+    "categories": [
+        "coding",
+        "Content design"
+    ],
+    "pub_date": "2022-05-31T14:28:14+01:00",
+    "content": [
+        {
+            "text": "The Get Into Teaching service has been live for 1 year now. Our team often updates the website several times a day to ensure users get the most accurate and up to date information."
+        },
+        {
+            "text": "Our job is to provide useful content for aspiring teachers - supporting them on their journey into the classroom. This could be information on funding, teaching internships, or finding training."
+        },
+        {
+            "text": "It was taking us a relatively long time to update the website and check our changes. We needed a simpler way to upload content onto the website."
+        },
+        {
+            "text": "In this post, I explain how my team used to upload content, and how a change in technology is helping us do this more easily."
+        },
+        {
+            "heading": 2,
+            "text": "Using GitHub"
+        },
+        {
+            "text": "Uploading content isn't as simple as changing some text in a box and it then appears on the website. A lot happens behind the scenes to make sure the code that contains the new content works. My team uses a platform called GitHub to do this."
+        },
+        {
+            "text": "Typically, these are the steps we take:"
+        },
+        {
+            "text": "GitHub is handy because when we want to make a change, we can create a new branch. A branch is our own snapshot of the website that only contains our changes."
+        },
+        {
+            "text": "We then create a pull request with our branch, which is how we propose our changes to the team. Pull requests give the team a chance to leave feedback, add suggestions and discuss the changes."
+        },
+        {
+            "text": "When everyone is happy, we can merge our branch with the live website."
+        },
+        {
+            "heading": 2,
+            "text": "Our old ways of working"
+        },
+        {
+            "text": "Using GitHub on a computer where we can\u2019t run the website means we can\u2019t see what our changes look like straight away. We have to create a pull request and wait for the review app to build. Creating a pull request basically means requesting our changes, and the review app lets us see how these will look on the site."
+        },
+        {
+            "text": "This can be challenging if we\u2019re making lots of changes throughout the day. Sometimes the review app doesn't build because we've made a mistake in the Markdown code, which means we can\u2019t review our changes."
+        },
+        {
+            "text": "This means that it\u2019s harder to check that the content we\u2019re uploading onto the website looks right - and in the best format for the user. So we end up wasting time checking and re-doing our work."
+        },
+        {
+            "text": "This is where Codespaces comes in."
+        },
+        {
+            "heading": 2,
+            "text": "Codespaces - a content designer\u2019s best friend"
+        },
+        {
+            "text": "Codespaces is a development environment that uses GitHub. Codespaces allows us to see the changes we want to make on the website before we actually make them. It gives us an immediate preview."
+        },
+        {
+            "text": "This helps us see what the content will look like. That way, if we see it doesn't work, we can tweak it. And rather than waiting for the review app to build, we can see it more or less immediately."
+        },
+        {
+            "text": "Codespaces is very useful for non-technical team members like me. I don\u2019t speak fluent Markdown like my developer friends, so it\u2019s harder to spot mistakes. Codespaces makes it easier for me to do this."
+        },
+        {
+            "heading": 2,
+            "text": "Advantages of using Codespaces"
+        },
+        {
+            "text": "Here are some more benefits of using Codespaces."
+        },
+        {
+            "text": "It\u2019s easy for developers to set up. They can make sure all the right software is installed and everything\u2019s configured. We can be up and running with a new project in minutes."
+        },
+        {
+            "text": "It also ensures everyone on the team has the same environment, making it easier to diagnose and solve problems."
+        },
+        {
+            "heading": 2,
+            "text": "Being a better content designer"
+        },
+        {
+            "text": "Using technology like Codespaces means we can make better content decisions, quicker. Instead of fighting the GitHub review app, we can spend our time thinking about how we can best support tomorrow\u2019s teachers on their journey into the classroom."
+        }
+    ]
+}

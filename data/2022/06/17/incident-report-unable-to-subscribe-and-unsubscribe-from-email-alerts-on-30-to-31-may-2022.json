@@ -1,0 +1,99 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/06/17/incident-report-unable-to-subscribe-and-unsubscribe-from-email-alerts-on-30-to-31-may-2022/",
+    "title": "Incident report: Unable to subscribe and unsubscribe from email alerts on 30 to 31 May 2022",
+    "authors": [
+        "GOV.UK support team"
+    ],
+    "categories": [
+        "Incident reports"
+    ],
+    "pub_date": "2022-06-17T09:12:51+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What happened"
+        },
+        {
+            "text": "For just over 24 hours on 30 to 31 May 2022, people were unable to subscribe or unsubscribe to page changes on GOV.UK. This happened as a knock-on effect from a security update being manually deployed to the email-alert-frontend application."
+        },
+        {
+            "text": "There were up to 6,000 subscribe/unsubscribe requests across the whole of GOV.UK in that time. This number could also include individual users making repeated requests or bots, so it\u2019s likely that the number of individuals affected is much lower than 6,000."
+        },
+        {
+            "text": "We explain in this incident report how we resolved the issue by investigating and fixing our hash functions."
+        },
+        {
+            "heading": 2,
+            "text": "What users saw"
+        },
+        {
+            "text": "When visitors sign up to receive email alerts about a page on GOV.UK they receive an email that asks them to confirm their email address by following a link."
+        },
+        {
+            "text": "Normally, following the link in the email would take the user to a page confirming that they were subscribed to the email alerts. When this incident happened, the link took them to a page that said \u201cYour link has expired\u201d."
+        },
+        {
+            "text": "This should only appear if the email is older than 7 days, but in this case users were seeing this message even if they clicked on the link in the email immediately."
+        },
+        {
+            "text": "This meant that they couldn\u2019t complete the sign up process for email alerts they were interested in."
+        },
+        {
+            "heading": 2,
+            "text": "How the process usually works"
+        },
+        {
+            "text": "Security updates are a normal part of keeping GOV.UK up to date and secure, but in this case it caused the application to get out of sync with the subscribe/unsubscribe component of the email alert system."
+        },
+        {
+            "text": "When a user subscribes or unsubscribes for email alerts, we ask for this email to be verified. If we didn\u2019t do that, someone could sign up another person\u2019s email address to receive or unsubscribe from alerts without their permission."
+        },
+        {
+            "text": "The email verification process requires the user to follow a link to confirm that they want to receive alerts. This link contains an encrypted token which is a long series of letters, special characters and numbers in a random order."
+        },
+        {
+            "text": "The token is encrypted, and part of the encryption includes a mathematical function called a hash function. Up until the security update, both the application component and the subscribe/unsubscribe components used a function called SHA1, and the token written by one component could be read by the other."
+        },
+        {
+            "text": "The security update, however, changed the function in the updated component to SHA256. This is a newer version of the function, and much more secure, but unfortunately it meant that with one component using the old function and the other the new function, the tokens could not be read."
+        },
+        {
+            "heading": 2,
+            "text": "How we fixed it"
+        },
+        {
+            "text": "We looked to see if any changes to the application had happened around the time the incident was reported. We discovered the reports followed on closely from when the updated email-alert-frontend application was deployed."
+        },
+        {
+            "text": "The incident team began a rollback - this is where a previous version of that application, from before the security update, is redeployed. This confirmed it was this recent deployment that caused the issue, and we were able to resolve subscribe and unsubscribe functionality within 25 minutes."
+        },
+        {
+            "text": "When it was resolved, we wanted to investigate further. We discovered that the 2 components of the email alert service were using different hash functions. We were able to make and release a new version of the email-alert-frontend that contained the important security updates, but also used the older SHA1 hash that the email-alert-api component uses."
+        },
+        {
+            "text": "Over the next week, we updated both applications: first an update to email-alert-frontend so that it could understand both types of hash function, then an update to email-alert-api to begin using the newer SHA256 hash function. Finally, a week after that was deployed, when all the old SHA1 tokens would have either been used or expired, we could remove any use of SHA1 in these applications."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "In our usual incident review process, we wanted to ask these 2 questions:"
+        },
+        {
+            "text": "The answer to the first question is that we caused the applications to get out of sync by applying a security update to only one of the 2 applications."
+        },
+        {
+            "text": "We found that when the security update was applied to email-alert-api many months earlier, it did not update to the new hash function, and still used the old one (SHA1). This meant when the security update was deployed to email-alert-frontend with the new hash function (SHA256), the 2 were out of sync."
+        },
+        {
+            "text": "These applications also have automatic test suites which run whenever a change is made in order to confirm that the application still works as expected. But because this form of test runs only within the one application, it can\u2019t detect failures like this one which happen between the applications."
+        },
+        {
+            "text": "To detect problems like this in future, we\u2019ve added tests to both components to make sure that they definitely write and read the exact form of tokens the other component is expecting. That way, if one side changes to a newer, even more secure hashing function the tests will fail and warn us that we need to keep in sync with the other component."
+        },
+        {
+            "text": "This is a form of testing called contract testing, which we also use on GOV.UK Pay."
+        }
+    ]
+}

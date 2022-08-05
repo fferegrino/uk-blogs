@@ -1,0 +1,489 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/12/01/podcast-improving-services-with-user-research/",
+    "title": "Podcast: Improving services with user research",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Podcasts",
+        "User research"
+    ],
+    "pub_date": "2021-12-01T11:04:12+00:00",
+    "content": [
+        {
+            "text": "At DWP Digital, we put our users\u2019 needs at the heart of everything we do.\u00a0With over 20 million people using our services, it\u2019s important that\u00a0all\u00a0our customers\u2019 voices are heard.\u00a0"
+        },
+        {
+            "text": "In this final episode of the DWP Digital podcast for 2021, we catch up with\u00a0user researchers Sheena\u00a0Gawler\u00a0and Chris Moffit, as well as Jon Houghton, lead interaction designer and Malcolm\u00a0Canvin, senior product manager, who discuss the importance of representing the customer at every stage of a service\u2019s development.\u00a0\u00a0"
+        },
+        {
+            "text": "You\u2019ll hear\u00a0about the different user research methodologies we use,\u00a0the key principles we follow when carrying out user research,\u00a0how we turn someone\u2019s feedback into useful information, and how our user researchers can influence design decisions.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Listen now\u00a0"
+        },
+        {
+            "text": "You can listen now\u00a0on:\u00a0"
+        },
+        {
+            "text": "A full transcript of the episode can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode\u00a0"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people.\u00a0"
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts.\u00a0"
+        },
+        {
+            "text": "And\u00a0if\u00a0like what you hear, don\u2019t forget to give us a 5-star rating.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Careers at DWP Digital\u00a0"
+        },
+        {
+            "text": "Visit\u00a0our\u00a0Careers site\u00a0to find out more about joining us.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Welcome, everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're discussing the importance of user research, the approach we use and the impact it has on our projects and services."
+        },
+        {
+            "text": "This is our last episode for the year and I'd like to take this opportunity to thank all of our guest speakers who made this series possible. And a big thank you to you, our listeners, for joining us on this journey. I hope you found our topics and themes interesting and useful. So let's get started. Sheena, Chris, Jon and Malcolm, would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "Hi, my name is Sheena Gawler. I'm the lead user researcher in the health function here at DWP. I've been at DWP for three years and prior to that I was user researcher at HMRC. Prior to that, I worked in academic research at University College London, mainly working on randomised control trials. And before all of that I was an exercise instructor and a photographer."
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "Chris Moffitt, I'm a senior user researcher within DWP. I started in DWP two years ago now, moving across from HMRC as a user researcher. Background for me is all government-based. I started when I was 19 years old, worked through various operational areas, things like tax credits on the phone lines. Started a career in user research in a digital environment about nine years ago now and have just continued in that space moving to the present day with DWP, and working at the moment in health and disability."
+        },
+        {
+            "heading": 3,
+            "text": "Jon Houghton\u00a0 "
+        },
+        {
+            "text": "Hello, my name is Jon Houghton, I'm a lead interaction designer at DWP. I've been with DWP for three years now. I started out in user-centred design as a user researcher with the NHS and then HMRC and I've also worked in the banking sector before coming into DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "Hi, I'm Malcolm Canvin. I'm a senior product manager within the health and disability space at the Department for Work and Pensions. And I used to be a user researcher, and I've worked at the Department for Work and Pensions for about four years now."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what key principles do we follow when carrying out user research?"
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "So, in the first instance, we would look to establish a really clear research question. And what we mean by that is what the researcher\u2019s looking to find out. And then the skill of the user researcher lies in selecting the most appropriate research methodology to answer the research question. So for example, if the research question was about information architecture, we might use something like a card sort. Whereas if the research question concerned usability of a digital product, for example, we might use usability testing as our methodology. We also focus a lot on making sure the data collected are not skewed, for example, we wouldn't want a researcher asking leading questions. And we need to remain very open to finding out things that are not already on our agenda. And in a nutshell, I guess this is all about making sure the research is really robust and so the evidence that we gather is sound."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What methods or methodologies that we follow, and why are some better than others?"
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "The full range of user research methodologies can be, broadly speaking, categorised against two what we probably call continuums. So one of these is attitudinal versus behavioural, which simply means does the methodology provide insight about what the user actually does, which is their behaviour of course, or what they say they do, which is their attitude. And again, generally speaking, behavioural insight is considered of higher value. Because what people say they do is not always what they actually do when we want the real behaviours of our users. The other metric or continuum is qualitative versus quantitative. And this describes of course, whether the research data collected are numerical or not. So for example, something like the time users spend on a screen is very much quantitative, whereas something like their trust of government is rich, qualitative data. And because quantitative data tell us what people do, whereas quali data tells us why people do it, we wouldn't think about one of these as being better than the other. But we would need to look to use both in order to triangulate and collect the full picture."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "And I think the point that Sheena makes there at the end around triangulating in on Insights is very important. I think, certainly, from my perspective, when I look at making decisions around a product or service, if several methodologies have been used across a range of sort of qualitative and quantitative data points, it's really powerful, because then I can say, \u201cLook, we've seen users tell us this in say qualitative interviews. We've got some data from, say, Google Analytics that speaks to that trend that was observed in research. And we've also confirmed it via a survey or something like that.\u201d"
+        },
+        {
+            "text": "So, you know, as Sheena says, I think it's not necessarily some methods are more suited to others to try and find out the answer to certain questions. But for me, it's if we can have a range of things that help us narrow in and really ensure that we have robust insights, then that's really the gold standard."
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "I think I would just add to that, in terms of talking about when we are and as we are user researchers working within teams, especially in teams that I've been involved in across HMRC and across DWP, within health and disability, we generally practice the qual side of things from a research perspective. So, methodologies like one on one interviews, retrospective interviews, understanding methodologies around usability testing with various participants of research. So very much like the qual, from a qual perspective, what's really important as Malcolm referenced, as well as a mixture of those methodologies. And from a quantitative perspective, it's in relation to the numbers and the volumes, and that's given us the, the what, and that generally feeds in to the why. So, if we've got a lot of what, from the quant side of things, as a researcher, I have a real interest in that, because it also helps me in the planning of future research and focus on the qual perspective in terms of the methodology that we're utilising as well."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So talk me through the stages and types of research we do, be it face to face remote, in groups, or with individuals."
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "So, projects have stages from discovery through alpha and beta to live. And the aims of our user research in each of these project phases are different. Thus, the types of research we do in each phase will differ. Commonly, discovery would entail gathering contextual data via something like depth interviewing. And being contextual, this user research is ideally face-to-face in the person's real environment. So that might be their workplace or their home but not in in a laboratory setting. We do sometimes conduct group research but the downside of this is that the voice of quieter personalities can be lost. So I'd say the overall the specifics of the research approach must best suit the methodology, the research question, and of course, the phase of the project."
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "Just with that in mind, and what Sheena\u2019s mentioned there. In terms of like user research and research being conducted across teams, we are always looking to discover things. So as the discovery moves into an alpha, and as that alpha moves into a private beta, private beta into public beta, there's a continuous interest from our perspective and from the teams that we're working within, to learn about the users, to learn about the participants research. So just because we've come out of a discovery phase, where we're gathering a lot of insight in relation to the participants of the research, identifying our users, what the problems are that they experience and identify at that stage in the Agile sort of phase of development, as we progress through an alpha and into the beta stage as well, just because we're testing different prototypes, different approaches, we're still learning about things."
+        },
+        {
+            "text": "And the full intention of us as researchers and as to bring insights back into the product teams to help us design services that people can use, is to continuously learn about their experiences, their expectations and learning about the users throughout."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "I think I'd just add that we have different questions that we that we ask at different stages of the project lifecycle. And it's about sort of horses for courses, and the questions we have at the very beginning in discovery and we need answers on might be quite ill defined, might be quite nebulous, might be quite broad. Whereas as we progress throughout those different phases, the questions may well become very specific, in order for us to make very clear decisions about the direction of a product as well. And so, inherently the research needs to sort of adapt and change using different methodologies, and doing different things as our needs change as a sort of a product team or a service team as well, just to give us that sort of just enough research to make the next decisions that we need to make and do what we need to do, given where the project is at."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So can we talk about how we turn someone's feedback into useful information?"
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "So I think predominantly, for me, this is around in the first instance, the researcher being that sort of representative of their own research within the teams. So having strong communication skills to gather the data, whether it's behavioural, whether it's sort of quantitative, engage with it critically, synthesise it into a sort of a clear and concise set of insights or a clear story that they can feed back to the team."
+        },
+        {
+            "text": "Obviously, while the researcher is the main conduit for that, it's something that the rest of the team has to buy into, has to engage with and has to sort of carry forward to have the group team discussions about, \u201cRight, well we've learned this. What are the implications of that either for the direction of the service, for decisions about design, for decisions about what we might be doing in terms of a technical direction, and what we might need a product or service to do."
+        },
+        {
+            "text": "So I think the role of the researcher is being that conduit, but in terms of how does it impact the team, it's very much a sort of a team effort that everyone has bought into, and is actively engaging with the story that the research is telling us. And for some of the things that you might learn in the discovery phase, it's more about immersing yourself in that understanding of your users. Once you get to the stage of say a public beta, when you've got really robust KPIs and analytics, it might be that we can make some really fast decisions based on a few key data points that we thoroughly understand and given the thorough immersion we have in understanding the needs and situation of our users, we feel very confident to make that decision quickly."
+        },
+        {
+            "text": "But again, it's a conversation, I think these things work best when they're sort of collective. Although, obviously, as I've mentioned I think the researcher plays a key role in sort of bringing that back to the team and being that representative in the team. I think we've all worked in teams where the ideal isn't the case, and where the researcher needs to be very forthright about presenting and forwarding the needs of the user and that team. So it's not to diminish the role, but it's very much a sort of a team effort to turn the insights into realities of strategy, vision, design, and what we eventually build."
+        },
+        {
+            "heading": 3,
+            "text": "Jon Houghton\u00a0 "
+        },
+        {
+            "text": "I guess in terms of like, as Malcolm was saying about telling the story really as well and communicating that to the rest of the team and stakeholders, in terms of like, useful artefacts to help to do that quite often we can turn the insight into storyboards to kind of bring those scenarios to life and engage an audience in the research and get across what the research is telling us. So what happens in the lives of users, what they struggle with and why."
+        },
+        {
+            "text": "Also kind of communicate that full story in things like user journey maps as well. So where we kind of plot the interactions with a service from a user's perspective along a timeline, and kind of aggregating some of the research insights into pain points and behavior and emotional responses to those scenarios in that single artefact can be really useful and powerful to getting those messages across. And I think these artefacts as well, just touching on the stuff that Chris was saying earlier about as we continue to learn, these artefacts can be living documents that we continue to add to and can keep constantly referring to when we're presenting back the insights."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "How is research used to inform the direction of our services, influence stakeholders, and make important decisions?"
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "So I think as I mentioned in an earlier answer when we talk about strong stories that we can tell, that's the key thing that we need to get out of research, especially at the early stage of a project. So when we start off in a discovery, we need to be really immersing an entire team and our stakeholders in the insights that we're learning from our users and in that research. And all of that will help in the long term to grease the wheels of the direction that best serve their needs as well."
+        },
+        {
+            "text": "Really, when it comes to prioritising and thinking about the strategy and vision for a service, there's no set formula, it's something that collectively a team will use a range of insights from a range of research sessions across a range of methodologies to arrive at. It is in many respects a dialectic process whereby you are engaging with a range of sources and critically analysing them to think, \u201cYeah, these are telling me this, these are telling us that, and therefore, the direction that we should be doing this, users might need that or we should be making changes to this and all that as well.\u201d"
+        },
+        {
+            "text": "So I think to come back to it, it's very much the team engaging with the story that the research is telling us. I mean, the point that Jon made earlier about artefacts is important. We can well document the insights that we're gaining. That can be very helpful in telling the story of our research and supporting the vision that we have for a service. We can do a great deal of stakeholder engagement, including getting stakeholders and even ministers along to research to hear firsthand what our users are telling us. And obviously, as we progress throughout the phases, we can we can solicit regular feedback, making sure we're regularly inspecting and adapting the service based on the sort of the continual findings that we're getting from user research, performance analysis, and usability testing and a range of other things that we're actively doing."
+        },
+        {
+            "text": "Very much for me, it comes down to individuals. I, as a product owner, need to be engaging with research, making sure I'm taking it into account regularly attending sessions, engaging with what researchers are telling me, revisiting past assumptions that may no longer be the case, making sure that, \u201cOkay, that helps to confirm some of what I thought. That lends more weight to this or that being a more valuable thing to do.\u201d Especially when I'm making decisions about roadmaps and to do this, before I do that questions of value are heavily informed by what the research is telling me, as we live in an imperfect world, certainly within government, where by no means do we have all the data and hard evidence that we might want."
+        },
+        {
+            "text": "And so in that instance, some of the qualitative findings that we're gaining from talking with users, observing users, in many cases may be the only things that we have in order to make informed decisions about the direction of a product or service. And we are constantly making decisions with an imperfect or incomplete picture. And we do the best we can, which is why we you know, as best as to as great an extent as we can, we need to come back to that point that we raised with the very first question of triangulating our insights across a range of methodologies wherever possible, so that we can make sure that we're making as robust decisions as we can be, without letting the perfect be the enemy of the good here."
+        },
+        {
+            "text": "And I would reiterate that sort of point around, once we have enough research and evidence to feel that we as a team can make a decision, very much cracking on and making that decision, accepting that we can let things fail, we can let things go wrong, because we work in an agile way. And we can come back and fix them if we break them. And all the decisions we make will not be perfect, because user research isn't perfect, nor is performance analysis. You know, we will make imperfect research but we will do the best we can and gather as much insight as we can to make sure that we make as few of those wrong or imperfect decisions for users as possible."
+        },
+        {
+            "text": "And another thing we need to consider here, which I should have mentioned, is that is the need to influence stakeholders and challenge some of the potentially long held assumptions that people across operations and policy and service delivery may have had, based on the fact that they haven't had always had access to the great resource of user researchers \u00a0and that sort of fresh coherent engagement with research insights, as well."
+        },
+        {
+            "text": "And so the more we can sort of tell a convincing concise narrative, and present them with as much insight and data as we can, certainly from the product manager perspective, that really helps to take them along on the journey that we're trying to go on within digital. Because let's face it, we operate in, especially within government, in a complex landscape where realistically, an individual team does not have the autonomy to do whatever their research may or may not be telling them to do. There are a lot of people that we need to convince that this is the approach we should be taking for this service. And so research plays a really key role in that process."
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "I agree with Malcolm's point that we can fail fast within an agile environment. But it is also the case that if the user research is robust, and of the highest standard, our team members are likely to really get into the shoes of our users, and therefore the chances that we make wrong decisions are reduced."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So can you tell me about our datasets, our models and user profiles?"
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "So yes, we continuously sort of reviewing this as part of ongoing research, so that data sets models, user profiles, all of those things are really important for research in mind. And I know Jon mentioned some things around the visibility of research coming in and making sure that the visibility of that research is prominent wiwithin the teams and the services that obviously we\u2019re working within."
+        },
+        {
+            "text": "For me, the individual researchers utilise different models and tooling to represent the research that's being conducted as well. So we in health and disability, as an example, have got a range of case studies. And that has been created based on data coming in from user research, from the insights that come in, created on factual sort of insight on the research that's been conducted. Alongside these, we have user goals and needs that represent those users and those users being citizens and members of the public that interact with DWP for benefit purposes."
+        },
+        {
+            "text": "But also to understand what those experiences are like outside of DWP, because it's not just about citizens and users coming in to DWP to say apply for benefit and receive the benefit or receive a decision based on the benefit application."
+        },
+        {
+            "text": "So, bringing in those user goals and the needs that we've identified, understanding the communication expectation so we've got a set of communication principles and considerations to sort of consider as internal numbers of staff, as internal representatives on teams when we're building the services."
+        },
+        {
+            "text": "And like I said, like researchers on teams form their own profiles, characteristics of the users, there's different ways that we can do that. And the sort of different opinions to a degree in relation to researchers and that the tools that are utilised in teams and the tools that are utilised as well. So, personas are one thing that can be created to represent those users, those citizens. Different things, we can use profiles of citizens and case studies that I've mentioned that we have in health and disability."
+        },
+        {
+            "text": "Like I say, across DWP, across health and disability, there's different ways to represent users, different ways to use those data sets and models and profiles. And for me, it all depends on how these things are created. If they\u2019re based on actual evidence from research, if it lacks in sort of assumption based because they're things that we think are going to happen and we\u2019re building services based on assumptions, then it's obviously a little bit more concerning because it's not us that are using the services at the end of the day. It's the actual users, it\u2019s citizens in this aspect as the primary user. So, if we\u2019re basing the things that we're producing, so the profiles that we're creating, the artefacts and the visuals that are being created on the back of actual user research that's conducted. And how we communicate those effectively, is an important aspect of that. And if we're doing that in the right way, then we're feeding the teams with the relevant insights. And we're using the datasets, we're using the models we use and the user profiles with research in mind in the right way. And that's allowing us to make effective decisions on the services that we build, and building those services across channels. So it's not just about the digital services that we're building. It's understanding what the needs are from the users that we are engaging with as part of research and building a journey that satisfies and meets those needs."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "How do you share the knowledge we gain across all of our services?"
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "A significant part of the user research role, as we've already said, is creating research artefacts that will really effectively communicate our research findings. And examples of these, I think we may have mentioned already, are things like journey maps, personas and documented user needs. Also, the storytelling element, making sure that we can tell a story about our users that really engages our colleagues. And I often find that\u2019s about sharing the sort of real-life sort of detail of users\u2019 experiences, and making sure we use verbatim quotes to really bring those research findings to life and stop them being sterile. So we do a lot of talking things like show and tells. And then the documentation is, of course stored, which is part of our knowledge management strategy. And this forms part of the evidence base that we would draw upon to inform our design decisions."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So how can our user researchers influence design decisions?"
+        },
+        {
+            "heading": 3,
+            "text": "Jon Houghton\u00a0 "
+        },
+        {
+            "text": "Yeah, so the research I feel, really does shape the design decisions that we make. And we've spoken a bit before about how the communication of research insights is really core to influencing the design decision. But also involving the whole team in the research really helps to embed the findings in the individual and the collective knowledge of the service team as well."
+        },
+        {
+            "text": "So at any point that we're designing something, we're considering its impact on the user. What it says for me, like design in government, is really a collaborative process. So involving user researchers brings the voice of the user into the process. And there's nothing more valuable than having that outside perspective influence the design decisions that we make. This helps us to strike the right balance between user needs and departmental requirements. So we can really be confident that we're building the services that are simple to use and meet the needs of the user."
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "I completely agree with what Jon said, and just wanted to add that we can't ask, we can't and indeed we shouldn't ask users to solutionize, and we can't ask them about everything. But if our user research is good, then we'll know who the user is and what they're trying to do. And therefore that knowledge allows us as a team to make those design decisions."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Is the way we work unique? Do other government or private organisations work in a similar way?"
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "So prior DWP, as I mentioned as part of my introduction, I was a user researcher within HMRC for seven years, which is basically where I sort of learned me trade in terms of research and built a skill set that I have now in and are applying in DWP."
+        },
+        {
+            "text": "The two sort of government departments in terms of the experience that I have within those with research in mind are very similar in terms of the approaches that we take to conduct user research. As a researcher, and as a researcher working within teams, we're always aiming to meet those government service standards. We're always aiming to meet those needs of the users, so building services that effectively users can use successfully and achieve their aim and that's what the whole intention is for us, is sort of working within this environment."
+        },
+        {
+            "text": "Researchers as well, making sure that we've got the tools and the skill sets to be able to conduct the role and make sure that were sort of providing the needs of the team. So coming back with relevant insights, coming back with insights that are of value to the team and are factual based on the research that's conducted. Again, same approach across HMRC, across DWP, and when I've been assessing user research as part of an assessment panel, see similar approaches across different government departments as well."
+        },
+        {
+            "text": "One difference is the tooling that's used within the departments can differ. Again, the principles and the approach is the same. But the tooling and the access to users in the opportunity to be able to yes, identify the users as part of the remit as a researcher and working with the team to do that. But the ease and access of those users, so we might know where those users are, we may know where they are going to in terms of third party organisations to get support and assistance."
+        },
+        {
+            "text": "When the difficulty arises is like sometimes you've got to jump through various hoops to be able to get to the point in actually speaking to those users. And that can differ between department and the setup of research. As an individual researcher and experienced and across various teams across the two organisations as an HMRC and DWP can differ, but having that time to focus on research as a user researcher, and not get involved in other aspects of the workload, albeit contributing to the different roles as part of agile and as part of the work that the BAs do, as part of the work designers do, massively important to collaborate in that way across the team and with the different roles in the team. But being able to concentrate as a user researcher on the actual research and the methodologies being applied is really important."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "I think I'd just add a point to pick up on what Chris was talking about there, in that depending on the organisation that you're working for, researchers have access to varying degrees of tools, of software, are able to do varying different things in terms of recruiting, sharing, some of their data, recording, things like that. And that can have an influence ultimately on how well people are able to tell the story, how well they're able to evidence their research as well. So we should never underestimate what might seem like a trivial restriction that sometimes we are under for understandable reasons in government can also impact the ability that we have to share videos of users or quotes from users or recordings from users, which can be really, really powerful and useful to help tell the story of research."
+        },
+        {
+            "text": "I'd also mention that I've certainly worked across both large and small departments within government and the health service. And certainly I see big differences compared to a big department like DWP or perhaps HMRC, although I've never worked there. And smaller organisations where you, in many respects, have a bit more freedom and are less restrictive, and you are regularly engaging at perhaps a higher level. But also, you have less of a of an established community, you aren't doing things to such a scale, as well. So there can be very different sort of experiences depending on the size of organisation."
+        },
+        {
+            "text": "And then I think it's also worth reflecting on the fact that within government, we obviously have some restrictions, but we also avoid some of the sort of the difficulties that people will have working in the private sector in terms of sort of market forces competition, and some of the commercial pressures that they may be under although we have pressures of our own, no doubt. I think certainly from hearing stories that have been shared with me around experience of working in various sort of private sector roles. While they might have a degree of freedom, they are also under significant pressures in very different ways that we are in government. We have the luxury to an extent of being the only people who do what we do and we are the only people who deliver these services. We don't have to worry about another government is stealing our uses. So that's very nice."
+        },
+        {
+            "text": "But obviously, that shouldn't make us complacent about our role in meeting user needs and delivering services for citizens. There is still that imperative to deliver value as quickly as possible for citizens. It just may be that within government, we have to worry less about some of the other commercial noise that other private sector organisations might have to deal with. And researchers in those environments might be hampered by or pressured by."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So what advice would you give to other user researchers?"
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "So I think with this question, for me, there's quite a lot of things to reference. And I'll probably not cover them all. But like, yeah, based on the experience that I have over the last nine years, and from the point in being very new to the role to the point that I'm at now, there's quite a few things."
+        },
+        {
+            "text": "Like to reference, the most important things for me with research in mind, is the approach and planning to research is absolutely imperative and really important. Taking time to do this, understanding the what is part of your research, understanding the why, and also understanding the how, so when we're looking at the approach and planning, what do we want to learn? What methodologies are we going to utilise to be able to learn that? Why are we doing it? And why are we engaging with these users from the users that we've identified? And how are we going to do that? All key to make sure that the research moves forward in a positive way."
+        },
+        {
+            "text": "And like focusing on that approach and planning and then sharing that approach and planning across your team, across the organisation that you're working within. So, everyone is clear and has clarity on what that sort of research approach and plan is from the user researcher\u2019s perspective. But also providing the team and others to contribute towards those plans and the approaches. And to get feedback on that. And I think that's a massive thing as well, to continuously get feedback and sort of input from others that you're working with. Because as people may have already heard, user research being a team sport, and it's always referenced, but it is that in terms of right, the user researcher\u2019s a professional within that role. And but the team need to contribute to that. And the team need to take part in the planning organisational research, to conduct the research and the analysis and the outputs of the research as well."
+        },
+        {
+            "text": "Research for me isn't just about testing a thing. So, the discovery approach always provides value. And I mentioned it earlier on in another question, but regardless of what phase of development you\u2019re in and if we're working in agile, which we do in government. If you're in a private beta, if you're in a public beta phase, if you're even in a live phase, there's always an opportunity to learn from the users and from the users that you've identified. And as a researcher, progressing through discovery into alpha into beta, running blended sessions, so if you're running usability sessions in an alpha, making sure that you're involving some sort of interview technique in those sessions to learn from those users, is still massively important and can provide real insight into the work that you're doing to the research that you're doing."
+        },
+        {
+            "text": "The next point for me is having confidence in your approach. So as a researcher, I mentioned it before, as a researcher on a team, you are the professional within that field, you have the knowledge and the expertise in the research field. And one thing that I've learned, as I sort of became more experienced within the research role, is have confidence in the approach and have confidence in the research that you're conducting. And obviously, you're getting feedback from the team and from others and take feedback on board, be confident and comfortable enough to challenge as well within the team, \u2018cause that's always a positive, but challenge in the right manner."
+        },
+        {
+            "text": "Ensuring that, like I said before, utilising the other members of the team, helping with the planning and the conducting and I mentioned, the sort of importance of it being a team sport, all sorts of feeding back on to the way that you as a researcher, run the research on that team. So, making sure people are involved in the research and again, having confidence in the stuff that you're doing with research in mind. The next point and a couple more. So collaboration is really important as part of research, so collaborating amongst a team, collaborating in the wider UR community. So wider URs in terms of across like, as an example, health and disability. We've got a community within health and disability. So, making sure that we collaborate across the different researchers is really important as well. So, we're sharing learnings, we\u2019re sharing experiences across all of the teams, across all of the roles and basically just collaborate and wider and as wide as we possibly can based on the user groups that you are researching with."
+        },
+        {
+            "text": "And then lastly is something that Jon referred to earlier on on one of the questions and that relates to telling the story. And that's a real sort of important aspect of user research. So we are conducting research with users, we're conducting various methodologies. Bringing that back into the department, bringing that back into the teams, go into the likes of show and tells with your research, and then attending assessments. So, service standard assessments where you're basically showcasing the research that you've done, that you have confidence in your user groups, that you have confidence in the needs that you've identified and the artefacts that you've created. Being able to tell that story with the research in mind helps people understand the problem that you're trying to solve, but also is really important in relation to the research that's been conducted and the outputs and artefacts that have been created. So how you got to those outputs and artefacts, how you've created, for example, your user needs that are visible, how you've sort of fed into the user experience maps or the user journeys that you've created, how you've contributed and fed into your user profiles or your personas that have been created. Given that structure and sort of backing in terms of the research that's been conducted, and the outputs that have been created based on that, and telling that story, really important things for me."
+        },
+        {
+            "heading": 3,
+            "text": "Jon Houghton\u00a0 "
+        },
+        {
+            "text": "I'm not sure I could add anything further in terms of advice for a user researcher, but perhaps thinking about the other roles in the team, in terms of my advice, would perhaps be to take the opportunity to get involved as Chris was talking about, involving the team in the planning and how the research is conducted, and observing sessions and things like that. I think that's all really valuable in terms of sort of instilling the findings and the insight into the way that you do your work and it informs your design decisions, as we talked about earlier. I think it\u2019s only ever going to make the product that you're working on better if you are involved in that process as well."
+        },
+        {
+            "heading": 3,
+            "text": "Sheena Gawler\u00a0 "
+        },
+        {
+            "text": "I completely agree that we need to have effective planning and professional understanding of research, whether that's to do with sample sizes or skew or bias or whatever it may be. But all of that not withstanding, I think my advice is get on with it. Because sometimes we spend too long talking about research and planning research, and not actually doing it. And we can never help our team make the right design decisions unless we engage with users and lots of them."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "And I think I\u2019d just pick up on Sheena's point there, and my advice would be more around things not to do."
+        },
+        {
+            "text": "I've seen on a few different projects, where I've worked with researchers, not to generalise but several people who have come from non-agile or academic environments, who spend a huge amount of time planning research, producing vast reports about their findings that no-one's going to read. And so I come back to that mantra of just enough research for the team or service to make the decision it needs to make to answer the questions it needs to answer and to prove or disprove the hypotheses that they may have."
+        },
+        {
+            "text": "I think the other point I'd make around someone starting off in a user research role, would to really be reflexive and understand the value that user research can bring, and what it can do and what it can help with, but also think strongly about what it can't do. And don't oversell it."
+        },
+        {
+            "text": "User research, in many cases cannot give you definitive answers about some questions, and we need to be open and honest about that. It will help inform, it can evidence. But in many respects, if you were to say, \u201cDo users prefer this or prefer that?\u201d, which I've heard teams ask user researchers. We need to understand that user research does not necessarily have all the answers and in fact, no form of research or data analysis may well be able to answer some questions."
+        },
+        {
+            "text": "So it's really understanding what user research does and does well, but also what user research cannot give you a definitive answer on and what it cannot do or where the limitations of that lie. And being open and honest about that, because a better understanding of that leads to better research and doesn't lead to people jumping in inserting opinion and bias and all sorts of other things, or just giving answers for the sake of giving answers. And well, because I've spoken to one person, I think this is the opinion and this is what users prefer. You know, we obviously can't do that. And so, having that engagement with the methodologies, with what researchers and what the limitations are very important."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What has been your biggest discovery through user research? What has surprised you?"
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "So, as part of user research for me, and with the question being around discoveries, I feel like I'm always discovering new things. I see all discoveries as being big ranging from, in my own experiences, researching with businesses and understanding their needs regarding the technical aspect in APIs in relation to services that we are building internally, to what I would class as a bread and butter research for government users and those government users being primarily like citizens and members of the public."
+        },
+        {
+            "text": "In my experience, and it's in reference to research that I've conducted in DWP and quite recently, around health and disability and understanding the users, and the primary users being citizens within health and disability. And what that allowed us to do was conduct research with those citizens and using the research to allow us to understand from the citizens\u2019 perspective across a range of benefits that they experienced, engaging with DWP in relation to, but also around their experiences outside of DWP, around the health condition that they were experiencing at that time or had experienced as part of their life. And then obviously, understanding their experiences in relation to DWP. All of which was fascinating to me as a researcher."
+        },
+        {
+            "text": "And regardless of how many interviews and one on one sessions that I've had, contextual sessions, remote sessions since lockdown hit, doing usability research, testing various prototypes, always continuing to learn and always discovering new things as part of a research session, as part of a user research role. Really, really hits home for me when you're talking to members of the public or citizens around the health conditions and also the experiences that they have when engaging with government, in this case, in relation to health benefits and benefits that they feel they are entitled to. They have a lack of understanding of the benefits that we offer to a degree, not knowing where to go, who to turn to. Talking to us quite openly about their health condition, how that sort of impacts them, how that affects them on a day to day basis."
+        },
+        {
+            "text": "And then on top of all of that having to speak to the likes of DWP and engage with DWP, around their health benefit. And in order to achieve the outcome of getting that financial support or getting their life back on track to a degree, all of which DWP can assist them with. But then learning about the pains that they're having, and the challenges that they have, in order to get to that end goal or achieve that outcome is like, huge. And it's massively impacting from a researcher\u2019s perspective. And you're bringing those insights back into the team. And trying to get that sort of depth in relation to what the participants and the citizens are telling you as part of those research sessions. bringing that back into the department and reflecting on that as teams and making sure that we\u2019re removing those pains, removing those challenges and meeting those needs of the users and in this case, the citizens as our primary users. It's something that's really sort of powerful, and something that I'm really passionate about in terms of user research, I am the voice of the users. And I\u2019m bringing that back into the department."
+        },
+        {
+            "text": "And discovery as a phase is for me the most important phase in any research. And that if you get that right, or if you get the insights that you need to get from that discovery and bring that back in to the teams bring, that back into the department, it helps build on the things that you do and alpha, the things that you do in private beta, public beta. And then once that service goes to live, whether that's via digital service, whether that be a paper channel, a method of telephony in terms of applying for a service, whatever that is, it makes sure that the outcome is effective from a departmental or perspective. And the users are able to achieve what they set out to do from the offset."
+        },
+        {
+            "heading": 3,
+            "text": "Malcolm Canvin\u00a0 "
+        },
+        {
+            "text": "So I think certainly to add to what Chris has said, one thing that really, I've had a few rather surprising research findings, throughout both being a researcher and being a product manager on a team. To talk about a few examples,\u00a0 when I was working on Get your State Pension, we did a huge amount of testing of existing pension award letters, whereby we realised that pretty much no one was reading anything apart from the top bit of the first page."
+        },
+        {
+            "text": "I also worked on an agent facing system, looking at how we report deaths, and realised that one or two things that we hadn't even deemed worthy of particular attention in user testing, were being rather interestingly, shall we say, interpreted by agents. A classic example of where we thought we knew what our users needed and wanted. And we made the mistake of not focusing some of our research and testing effort on that and failed and they needed to change accordingly. So as research goes on, as projects learn new things and change, you're always coming across surprising new findings and different things."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, how would you like to see your research being used in the future?"
+        },
+        {
+            "heading": 3,
+            "text": "Chris Moffit\u00a0 "
+        },
+        {
+            "text": "With this in mind, I think we're still learning as a department. I think we'll still continue to learn. And I don't think we'll be the only department learning within s the user research field and how that is effectively integrated into the work that we do. How we utilise research positively, and we're getting the messages across and as I've mentioned on previous questions around getting those insights back into the department and acting on those insights as well."
+        },
+        {
+            "text": "I do think we're making great strides towards this. I mentioned the discovery piece in relation to understanding citizens\u2019 goals and needs and creating artefacts on the back of that. So that's just one example in terms of the development and the progress that we're making with research in mind. As a researcher, I always see the value in championing the actual research role and the value of research and what that brings into the teams. Embedding that into the teams as well so that research is occurring naturally, insights are being acted upon. Ensuring that research is happening on a regular basis, that all the teams and researchers have focus on the end users and those primary users being citizens."
+        },
+        {
+            "text": "Continuing to consider other users involved in the things that we are involved in, in the problems that we\u2019re trying to solve. And when refer to other users, it\u2019s around third party organisations that we know have a heavy involvement around health benefits and that\u2019s come through research. Internal DWP staff, so all of our internal staff that are involved in the touch points from a citizen\u2019s perspective, are involved in getting the decision to the citizens. And all of that in terms of the multitude of users and making sure that we are involving users in the research that we're conducting. All important in relation to the approach that we take."
+        },
+        {
+            "text": "Having the opportunity and the ability to clearly articulate, like what we found through research, what we've then done about the findings and the insights that we're bringing in, and then having the ability and the opportunity to showcase those changes with citizens, with third party organisations, and evidencing difference that these changes have made in relation to the citizens\u2019 experiences of DWP. And in my case, in relation to the work that's been done in health and disability, the experiences and the positive experiences that citizens have in the longer term with the benefits and with the engagement that they have with DWP in an organisation, for me would be fantastic if we can get to that point at some point in the future."
+        },
+        {
+            "text": "I think we've got a way to go to get to that point. But like I said earlier, the steps that we're taking, we're definitely moving towards that and moving towards the success of \u00a0that in relation to research and agile always a work and the ways that the product teams are working within the department."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button if you want to make sure you don't miss our next series. And I'd like to thank Sheena, Chris, Jon and Malcolm for taking part today. It was really interesting to hear about your take on user research. So, thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

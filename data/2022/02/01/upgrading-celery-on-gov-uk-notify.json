@@ -1,0 +1,111 @@
+{
+    "url": "https://technology.blog.gov.uk/2022/02/01/upgrading-celery-on-gov-uk-notify/",
+    "title": "Upgrading Celery on GOV.UK Notify",
+    "authors": [
+        "David McDonald, Tech Lead, GOV.UK Notify",
+        "Karl Chillmaid, Senior Content Designer, GOV.UK Notify"
+    ],
+    "categories": [
+        "GOV.UK Notify",
+        "Tools"
+    ],
+    "pub_date": "2022-02-01T15:56:46+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK Notify team at Government Digital Service uses the open source Python library Celery to manage our task queues."
+        },
+        {
+            "text": "Task queues let applications work asynchronously, independent of user requests. The ability to do this is a fundamental part of how Notify works."
+        },
+        {
+            "text": "Updating software dependencies is not always the most glamorous part of the job but it is still something that we can learn from."
+        },
+        {
+            "text": "This post explains how we recently upgraded to version 5.2.0 of Celery, the impact this had and what we learned by doing this."
+        },
+        {
+            "heading": 2,
+            "text": "Using task queues on GOV.UK Notify"
+        },
+        {
+            "text": "On GOV.UK Notify we use task queues for almost everything, including:\u00a0"
+        },
+        {
+            "text": "When you send an HTTP request to the Notify API to send an email, we don\u2019t actually send the email before returning a response. Instead we put a task on a queue to send the email, then we return the HTTP response.\u00a0"
+        },
+        {
+            "text": "There are several advantages to doing this:"
+        },
+        {
+            "text": "We use Amazon SQS as our queuing service. It stores and keeps track of all the tasks on queues. Then we use Celery to pull, put and process tasks from our queues."
+        },
+        {
+            "heading": 2,
+            "text": "Why we upgraded to Celery 5.2.0"
+        },
+        {
+            "text": "Until recently, we were running version 3.1.26 of Celery on the Notify API. We wanted to upgrade to a more recent version of Celery so we could:"
+        },
+        {
+            "text": "We delayed the upgrade for almost 2 years so we could focus on supporting services that were set up in response to the coronavirus (COVID-19) pandemic. But, because we have a commitment not to use end-of-life software, we could not wait any longer."
+        },
+        {
+            "heading": 2,
+            "text": "How we rolled out the changes safely"
+        },
+        {
+            "text": "When making a big change to our applications, we need to be confident the change will not cause any problems. In this case, we:"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned from using a canary"
+        },
+        {
+            "text": "When we tested Celery 5 in our staging environment we saw a clear improvement in performance. Even so, we were cautious about deploying changes to our production environment."
+        },
+        {
+            "text": "We introduced a canary, a single instance of Celery 5 that we could use to monitor performance. For continuity, all the other instances in production continued to use Celery 3."
+        },
+        {
+            "text": "Using a canary is generally considered good practice, but we ran into a problem."
+        },
+        {
+            "text": "When we deployed our canary we saw it burst to 500% in CPU usage. Celery 5 was hogging almost all the available tasks while the Celery 3 instances did very little.\u00a0"
+        },
+        {
+            "text": "To try and fix the issue, we increased the scale of our canary to 5 instances. This reduced the CPU usage by distributing the tasks across 5 instances instead of 1."
+        },
+        {
+            "text": "We think this issue was caused by the difference between long polling versus short polling. Celery 5 uses long polling by default, but our Celery 3 instances were still using short polling."
+        },
+        {
+            "text": "Our deployment and load test on staging might have caught this if we had used a canary in that environment too.\u00a0"
+        },
+        {
+            "text": "Next time, we\u2019ll consider running load tests against 2 situations:"
+        },
+        {
+            "heading": 2,
+            "text": "The impact on performance"
+        },
+        {
+            "text": "Since we deployed Celery 5 on 5 November 2021, tasks are now picked up and processed more quickly."
+        },
+        {
+            "text": "For example, we used to send 96% of notifications to our email or text message providers within 10 seconds. Since the upgrade, this has increased to 99.98%."
+        },
+        {
+            "text": "As a result, we updated our performance dashboard to show data rounded to 2 decimal places. This was because we felt that displaying 100% might look suspiciously good!"
+        },
+        {
+            "text": "One user even contacted Notify because they were surprised (and pleased) that their HTTP request speeds were 40% faster."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "In the past couple of months we\u2019ve upgraded some of our core dependencies. Next, we plan to retest the performance limits of Notify to make sure we can handle whatever 2022 will throw at us!"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/10/19/single-sign-on-what-we-learned-during-our-identity-alpha/",
+    "title": "Single sign-on: What we learned during our identity alpha",
+    "authors": [
+        "Richard Walker - Product Manager, GDS"
+    ],
+    "categories": [
+        "GOV.UK",
+        "Identity Assurance",
+        "Service design",
+        "User research"
+    ],
+    "pub_date": "2021-10-19T15:49:15+01:00",
+    "content": [
+        {
+            "text": "GDS is building a single sign-on and identity solution, with help and support from colleagues right across government. This is the third mission of the GDS strategy for 2021-2024: \u201cA simple digital identity solution that works for everyone\u201d."
+        },
+        {
+            "text": "We recently passed a service assessment for our alpha on identity checking, so we thought we\u2019d share some of our learnings."
+        },
+        {
+            "heading": 2,
+            "text": "Prototyping was our fastest route to learning"
+        },
+        {
+            "text": "In pre-discovery we reviewed over 100 rounds of research from GOV.UK Verify and spent hours learning from colleagues across the public sector who run identity services, such as the Home Office and NHS Digital."
+        },
+        {
+            "text": "We also decided to start prototyping in our discovery phase, since we felt we would learn more - and learn faster - from thinking about our own user journeys and prototyping them than we would repeating research that had already been done by others."
+        },
+        {
+            "text": "Getting the whole team generating divergent ideas for user journeys in discovery flushed out major design, technical and scope questions to explore in alpha, and we were testing our first prototype and learning from real users in week one of alpha."
+        },
+        {
+            "heading": 2,
+            "text": "Inclusion works on several levels"
+        },
+        {
+            "text": "Inclusion is a hugely important part of our work, because anyone should be able to prove their identity to access government services, and it\u2019s often the most vulnerable people who are at most risk of being excluded. To be honest we didn\u2019t get this right with GOV.UK Verify. We have an opportunity and obligation to do much better this time."
+        },
+        {
+            "text": "But as soon as we started exploring this space, it became clear it\u2019s a concept with more than one meaning."
+        },
+        {
+            "text": "First, there\u2019s digital inclusion, which is a concept relevant to any online service. We owe a lot to our colleagues at Universal Credit and DWP for helping us to think about different barriers to inclusion, which could relate to digital skills, confidence, time, or someone\u2019s financial situation."
+        },
+        {
+            "text": "Second, there\u2019s an identity-specific dimension to inclusion, which is about which documents or evidence sources someone can use to prove who they are. Millions of people in the UK don\u2019t have a passport or driving licence and there\u2019s no magic document that lets everyone prove their identity. To include everyone in identity checking we will need to accept a broad range of documents and evidence types: there\u2019s no silver bullet. And although we often talk about \u2018digital identity\u2019, it\u2019s clear that we will need to go beyond online channels to include everyone."
+        },
+        {
+            "text": "These two types of inclusion are distinct but they intersect and interact."
+        },
+        {
+            "text": "For example, someone with a strong credit record and two types of photo ID but with poor internet access, low digital confidence and a wariness of sharing personal information online could be excluded from proving their identity. And so might a young, highly educated, urban renter who does everything online but who has never needed a driving licence, moves address frequently, isn\u2019t named on any bills, and is short on time."
+        },
+        {
+            "text": "Our understanding of inclusion in this context has benefitted from thinking about these two levels - general barriers to inclusion plus documents and data sources - and the interaction between them."
+        },
+        {
+            "heading": 2,
+            "text": "A mobile app is the quickest and most convenient route for some users"
+        },
+        {
+            "text": "Most user needs can be met without an app, but there are exceptions to this."
+        },
+        {
+            "text": "Mobile apps are a helpful tool in identity checking because they allow users to do things that can\u2019t easily be done in a browser. For example, someone with a document containing a near-field communication chip (like a UK passport or a biometric residence permit) can scan that document using a smartphone to open the chip and read the contents. This is a high value check that provides assurance about the validity of the document which can then remove the need for additional checks that would take longer and might require the same user to share extra personal information."
+        },
+        {
+            "text": "Not everyone will want to use an app or even be able to, and that\u2019s OK. But if a mobile app can be cost-effective, secure, and help us meet the needs of some users better than we\u2019d ever be able to without one, we should offer them one."
+        },
+        {
+            "text": "So, GDS is developing an app as one of several routes for people to easily prove who they are, when they need to access government services. Use of the app will always be optional, not mandatory. And, we will be running a discovery in parallel with this work to explore whether there would be value in further uses of mobile app technology to personalise and improve the experience of GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Strength + document + channel = journey"
+        },
+        {
+            "text": "From exploring the array of user journeys we could offer, we realised there are three dimensions that identity checking can vary across:"
+        },
+        {
+            "text": "This creates a large number of possible combinations. For a rough indication of scale, let\u2019s say there are 4 strength levels, 10 accepted documents which can each be checked in 2 ways, across 3 channels. That\u2019s already 240 unique user journeys. This has been a helpful framework not only to understand journeys, but also to define our initial scope and help us understand complexity"
+        },
+        {
+            "text": "For private beta, we will be starting with one strength level, one document, and one channel. This will let us build something quickly, get it into the hands of real users, and start augmenting our research and interviews with observed user behaviour and feedback."
+        },
+        {
+            "heading": 2,
+            "text": "Identity is complicated, but proving your identity shouldn\u2019t be"
+        },
+        {
+            "text": "Identity checking is an inherently complex problem. All too often this gets translated into a difficult and unwieldy process. We don\u2019t think it has to be this way and we\u2019re experimenting with how to keep things as simple as possible."
+        },
+        {
+            "text": "Identity checking can\u2019t be a one-size-fits-all journey (there\u2019s no magic document) but we don\u2019t want to create a confusing maze of possibilities. One of our main discoveries from usability testing was that a task list-based design pattern works well as a simple, flexible and extensible way of assembling user journeys from different types of checks to fit different demographics."
+        },
+        {
+            "text": "Another learning was a \u2018just in time\u2019 principle for introducing concepts. For example, our first prototype tried to educate users at the start of the journey about the value of having a reusable identity, but it was too abstract and confusing. We knew it was important for users to understand that they\u2019re creating something that can be reused, but the right moment to introduce this idea is when someone has finished proving their identity and has the option to save it. This has tested much better and makes the journey more seamless."
+        },
+        {
+            "heading": 2,
+            "text": "Live traffic is the next big step in learning"
+        },
+        {
+            "text": "In alpha we learned a huge amount from six rounds of usability testing, countless technical spikes, and some frankly mind-bending team workshops as we dove into the complex world of identity checking."
+        },
+        {
+            "text": "But just as we decided in discovery that we needed to start prototyping to keep up the pace of our learning, a few months later - and after an intense alpha - we concluded that doing real identity checking with real users will unlock the next big frontier of learning."
+        },
+        {
+            "text": "To continue learning at the same pace, we need to make things real. That\u2019s why we headed to our service assessment, and why we\u2019re excited to move into private beta."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

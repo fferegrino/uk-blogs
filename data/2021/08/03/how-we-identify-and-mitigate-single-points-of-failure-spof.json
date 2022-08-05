@@ -1,0 +1,115 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2021/08/03/how-we-identify-and-mitigate-single-points-of-failure-spof/",
+    "title": "How we identify and mitigate single-points-of-failure (SPOF)",
+    "authors": [
+        "Faith Johnstone"
+    ],
+    "categories": [
+        "single-points-of-failure"
+    ],
+    "pub_date": "2021-08-03T11:32:54+01:00",
+    "content": [
+        {
+            "text": "Do you get cold sweats brought on by the thought of losing one particular person from your team? Well, read on."
+        },
+        {
+            "text": "Confession: I don\u2019t like the title of this blog post. "
+        },
+        {
+            "text": "Single-points-of-failure (SPOFs) are the people who have worked relentlessly on a service for years, they are your experts, your storytellers, able to provide the folklore and journey that has got you where you are today. They are the ones you rely on to work late into the night on legacy technology, completing complex sequential releases that can take a whole weekend, the ones you ask to cram in what they can before they go on holiday. When they take time off your team stalls or has to divert focus elsewhere without their specialist knowledge. Even worse, when they leave, teams panic. They become completely blocked.\u00a0\u00a0"
+        },
+        {
+            "text": "SPOFs are indispensable, and we need to value them by removing the pressure that comes with the weight of this expectation, and the stress it creates within a team. For the rest of this blog post, I will rebrand them, the linchpins.\u00a0\u00a0"
+        },
+        {
+            "text": "Organisationally, this is about reducing risk. It costs a lot of money when a team is blocked by someone leaving: I have seen services stalled for months, with those left behind trying to re-learn years of work. Operationally, it is unsustainable not to address this in your delivery strategy.\u00a0"
+        },
+        {
+            "text": "Government-wide, this is important. In Organising for Digital Delivery, an independent report published in July this year, challenge 2 of 7 is \u201cUnaddressed legacy systems and technical debt.\u201d There is an increased likelihood of linchpins being present with legacy services because they are \u201cbuilt on obsolete technical platforms or using programming languages that are no longer widely supported.\u201d There are often expensive, siloed third parties involved, and an ever diminishing pool of people who understand the architecture and how your system works. This pattern isn\u2019t limited to older technology. If you aren\u2019t addressing linchpins in your delivery thinking your team can still be impacted, for example when the person who did all that great exploration work at the start of your service leaves."
+        },
+        {
+            "text": "So this is about supporting your delivery teams in being sustainable, resilient, and making this an integral way of how they work. Here are some ideas you could consider:"
+        },
+        {
+            "heading": 3,
+            "text": "Break the monoliths\u00a0"
+        },
+        {
+            "text": "Legacy systems are complex monoliths. You need to be able to understand the parts that make up the whole and this requires system thinking like event-storming and service design. It will take time, investment, and long-term thinking. GDS has a Managing legacy technology strategy and I\u2019ll stop here, but when dealing with legacy services, this point is the foundation that will free your linchpins, and enable many of these other ideas to succeed.\u00a0 \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Understand the ecosystem of your team\u00a0"
+        },
+        {
+            "text": "There\u2019s a whole ecosystem of people that surround your team and their ability to deliver, and you\u2019ll often find Linchpins there too, in governance, stage gates, and approvals for things like POs. If one person isn\u2019t around, and things start to fail or be delayed, that\u2019s a sign that a way of working needs to change. Another question to ask is are you mindful in sharing your way of working when insourcing help from third parties, or do they remain siloed on their particular outcome? The ecosystem around your team will thrive when connected and visible."
+        },
+        {
+            "heading": 3,
+            "text": "Better communication flows\u00a0"
+        },
+        {
+            "text": "Thoughtworks have an interesting concept of North South and East West communication flows\u00a0"
+        },
+        {
+            "text": "\"north-south is how strategy and direction flows down to teams, and how the realities on the ground flow back up to direction-setters; and east-west is how teams share their lessons, discoveries, and innovations to other teams and groups in the organisation\".\u00a0"
+        },
+        {
+            "text": "East to West communication is where your linchpins can be most supported. It\u2019s about open, transparent communication across teams. In the area of the MoJ where I work, we have an open calendar of team demos & other meetings that could benefit a wider audience, profession-based communities of practise and monthly all-hands and alignment meetings to break silos and increase the flow of communication. We iterate on this all the time by asking people what they want to see less or more of.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "No more heroes"
+        },
+        {
+            "text": "The shadow side of the linchpin is the hero anti-pattern, and it\u2019s summarised here by Fagner Brack:\u00a0"
+        },
+        {
+            "text": "\u201cThe hero might eventually realize they are essential. Without them, some things just don't work. Once they figure that out, their ego can get bigger, which can make them believe they know better than what they actually do for similar subjects. That blocks their capacity for having an open-mind and continuously improving.\u201d\u00a0\u00a0"
+        },
+        {
+            "text": "I have seen this happen in teams. Delivery timelines are pressured and the perception is that leaving things unchanged is the only way to get things done, and the ability to deliver rests on the hero. Lucas Hendrich shares some awesome tips on how a team can work together to break this cycle. This work is easier when your senior management consciously supports the time it will take to undo this pattern, and understands the long-term strategic benefit."
+        },
+        {
+            "heading": 3,
+            "text": "Encourage upskilling\u00a0"
+        },
+        {
+            "text": "Here at the Ministry of Justice we all have a set training budget and dedicate 10% of our time to learning and development. Plan similarly in your teams. Encourage opportunities to try new things and for it not to be perfect the first time. Learning can be messy to start with, but the long-term individual, team and organisational benefits are worth it.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Automate your testing"
+        },
+        {
+            "text": "Automated testing isn\u2019t just about quality and pace. To automate something, the team needs to have understood it, and by building up that knowledge people can be freed from the monotony of repeatable tasks. This is most relevant when working with legacy services, and this point goes hand in hand with the previous: upskilling your team to have the capability and time to integrate automation into their definition of done will remove the common pattern of finding a linchpin at the heart of testing."
+        },
+        {
+            "heading": 3,
+            "text": "Code-pairing and rotation"
+        },
+        {
+            "text": "Encouraging two-people to tackle a problem together is a powerful way to transfer skills and knowledge throughout the team, and improve quality along the way. Perhaps you do this already, but how often? Create diverse pairings. Mixing juniors, seniors, permanent members of staff, contractors and managed service providers on rotation so people don\u2019t always pair with the same person each time will build further resilience into the team. Rotating people within a service, such as our hosting service team in the Ministry of Justice is another strategy we are exploring with success to share knowledge."
+        },
+        {
+            "heading": 3,
+            "text": "Documentation"
+        },
+        {
+            "text": "Making things open, makes them better - be transparent and accountable for the documentation within your team. Many of our teams in the Ministry of Justice publicly share their documentation on places like Git (see our Cloud Platform) and documentation is integrated into their definition of done, where appropriate. Document your processes, your runbooks, your architecture design decisions, the product vision, and more, and put these things in a place that everyone can access, not on personal drives or laptops."
+        },
+        {
+            "heading": 3,
+            "text": "Futurespectives\u00a0"
+        },
+        {
+            "text": "Regularly run through risk scenarios with the team, and ask yourselves the tough questions like what would happen if x leaves? Are we doing enough to protect them and us as a unit and team? There are a lot of great facilitation techniques for these \u2018futurespective\u2019 sessions."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "I hope these nine ideas give you something new to think about with your teams, and for those of you reliant on your linchpins, fewer cold sweats and sleepless nights. "
+        }
+    ]
+}

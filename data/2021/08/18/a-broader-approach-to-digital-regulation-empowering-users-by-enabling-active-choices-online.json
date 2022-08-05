@@ -1,0 +1,61 @@
+{
+    "url": "https://cdei.blog.gov.uk/2021/08/18/a-broader-approach-to-digital-regulation-empowering-users-by-enabling-active-choices-online/",
+    "title": "A broader approach to digital regulation: Empowering users by enabling active choices online",
+    "authors": [
+        "Jessica Bancroft",
+        "Grace Elcock"
+    ],
+    "categories": [
+        "Data",
+        "Public engagement",
+        "Responsible innovation"
+    ],
+    "pub_date": "2021-08-18T11:00:06+01:00",
+    "content": [
+        {
+            "text": "In February 2020, we published our review of online targeting, which included a number of recommendations to government, regulators and industry, regarding how data is used to shape the online experience. In the final report, we recommended that online platforms should improve the information and controls they offer to users. To further strengthen the evidence base, we partnered with the Behavioural Insights Team (BIT) to find ways to empower people to make \u2018active\u2019 online choices. We defined active choices as choices that reflect users\u2019 wishes without obstruction, which are based on an understanding of the likely consequences. The aim of the project was to:"
+        },
+        {
+            "text": "We shared a progress update in November 2020, and published an interim report in June 2021, which detailed the findings of the first of three experiments. Today, BIT has published the final report which includes the results from all of the experiments, and sets out the implications of this work for policymakers, regulators and industry. The accompanying technical report provides additional information on the methodology used to run the experiments and findings from them.\u00a0"
+        },
+        {
+            "text": "Policymakers, regulators, industry and civil society are all considering how to empower users online. A number of policy initiatives, including the Draft Online Safety Bill, Information Commissioner\u2019s Office\u2019s (ICO) Age Appropriate Design Code and establishment of the Digital Markets Unit, have recognised the central role that empowering users through active choice can play as part of a broader approach to digital regulation. The Competition and Markets Authority (CMA) called for a \u201cfairness by design\u201d duty in its market study of online platforms and digital advertising. Our work with BIT also coincided with announcements by various prominent technology firms to consider user design in how people make decisions about their privacy and data. In January 2021, Apple announced the introduction of opt-in data consents for apps in iOS14, and in May 2021, Google launched features to improve the interface for safety and privacy controls as part of Android 12. Last year, Facebook published a white paper on its work with regulators, governments and civil society to improve the communication of privacy information. It has also recently introduced new tools to give users\u2019 greater control over their News Feed. However, further action is needed to enable active choices online.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Research undertaken by BIT\u00a0"
+        },
+        {
+            "text": "In this project, BIT carried out the following research activities:\u00a0"
+        },
+        {
+            "text": "When testing the behaviourally informed prototypes against the controls,\u00a0BIT used three measures identified as the components of active choices in the exploratory research phase of this project:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Key findings"
+        },
+        {
+            "text": "While an online experiment with simplified interfaces and a limited number of choices cannot fully replicate the experience of using technologies in everyday life, there were some significant findings that point to the benefits of active choice design:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps\u00a0"
+        },
+        {
+            "text": "We would encourage policymakers, regulators and industry to consider the implications of this work and build on our findings.\u00a0"
+        },
+        {
+            "text": "Further research could be done to test some of the design ideas in real life settings. A promising avenue of further exploration is looking at the best ways to combine or bundle options to reduce the complexity for users, as well as the optimal moments in time and frequency to engage with users. It would also be valuable to investigate the differences across participants who chose different personas, and to develop designs with the most vulnerable groups of users in mind. Importantly, further research is needed on delegating decisions to trusted third parties, that engages regulators, as well as leading consumer protection and civil society organisations."
+        },
+        {
+            "text": "Additionally, regulatory frameworks for online interactions should consider incorporating active choice requirements where appropriate, as obtaining consent is not necessarily a marker that the user has made choices in line with their preferences and understood the consequences. Meanwhile, this work should encourage industry players to consider applying the same level of service optimisation for active choices in settings as they do to other parts of their platform design. It will be important for companies to develop, adapt and test their interfaces to ensure they better enable active choices, and for them to share updates on their development and findings.\u00a0"
+        },
+        {
+            "text": "If you would like to talk to us about this work in more detail, please get in touch with us at cdei@cdei.gov.uk."
+        },
+        {
+            "text": "*We chose a number of common existing interfaces as a baseline. The purpose of this was to have a realistic control. We then simplified and modified the control interfaces to allow for fairer comparison with our designs. Our mock-up designs were not endorsed by any organisations."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/07/14/tapping-into-test-automation/",
+    "title": "TAPping into Test Automation",
+    "authors": [
+        "Daniel Susser"
+    ],
+    "categories": [
+        "Test Automation"
+    ],
+    "pub_date": "2022-07-14T14:14:05+01:00",
+    "content": [
+        {
+            "text": "In Justice Digital we have been experimenting with using an Enabling Team to promote Test Automation. Here\u2019s what we\u2019ve learnt along the way."
+        },
+        {
+            "text": "The Legal Aid Agency (LAA) Digital has a mission to enable fair and swift access to Justice by looking after systems that support Legal Aid in England and Wales. Our users include legal service providers, Legal Aid applicants and civil servants. Our tech is a mix of brand new and creaky and old (one of our systems was built in 1997!), and a whole mish-mash of open source, customised off-the-shelf and everything in between. We need to keep up with a changing legislative landscape whilst making our systems easier to use.\u00a0"
+        },
+        {
+            "text": "What is Test Automation?"
+        },
+        {
+            "text": "Modern software teams use automation to test their software. Test automation makes software delivery quicker, safer and easier - computers can run more tests, quicker and more consistently than a human can. Test automation relies on collaborative team practices supporting a test strategy. Brilliant test automation can\u2019t happen overnight.\u00a0"
+        },
+        {
+            "text": "Team Topologies describes an \u2018Enabling Team\u2019. They help value-delivering teams to overcome barriers and be more effective in a particular domain. We set up TAP - The Test Automation Powerhouse - in September 2021 to try out this approach with test automation in LAA Digital.\u00a0"
+        },
+        {
+            "text": "Why use an Enabling Team?"
+        },
+        {
+            "text": "We chose an Enabling Team approach because improvements in test automation can\u2019t be outsourced. Test automation is most effective when the team sees it as part and parcel of writing the code. Upskilling the team, changing their practices, and helping them overcome technical barriers is the best way to improve test automation. Enabling teams have short engagements focusing on one or two key problems and then they move on, leaving the team with greater skills and knowledge (whilst being available for follow-up support).\u00a0"
+        },
+        {
+            "text": "TAP teaches test automation principles, researches technical solutions on behalf of the team and works with teams and team members to do whatever it takes to upskill them. This allows TAP to take things it learns in one place and apply them elsewhere. TAP improves at coaching and teaching with each engagement and can visualise problems they see across the whole organisation."
+        },
+        {
+            "text": "Has it helped?\u00a0"
+        },
+        {
+            "text": "Yes! TAP has discovered unknown technical solutions for teams, taught new technologies, set up automated pipelines on old products and done other things nobody thought was possible. TAP\u2019s work has led to teams uncovering bugs and has invigorated our developers and testers. We have more work to do to build world class Test Automation at LAA Digital, but we\u2019re sure our best days are ahead.\u00a0"
+        },
+        {
+            "text": "If you think you can bring your Test Automation skills to help us, or have some ideas to share, get in touch!"
+        }
+    ]
+}

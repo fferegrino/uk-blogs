@@ -1,0 +1,79 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/07/07/how-gov-uk-pay-is-making-invoicing-easier/",
+    "title": "How GOV.UK Pay is making invoicing easier",
+    "authors": [
+        "Miriam Raines - GOV.UK Pay Product Manager, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2022-07-07T12:36:35+01:00",
+    "content": [
+        {
+            "text": "GOV.UK Pay is the payments platform for the public sector. We want to make it easy for anyone to pay the public sector online and over the phone. We want to make it easier and cheaper for public sector teams to take and manage payments."
+        },
+        {
+            "text": "In 2018 we released payment links. With these, public sector teams can set up a standalone payment page in a few minutes, without any technical knowledge, and send it to their users to take a payment."
+        },
+        {
+            "text": "Services can now pre-fill the amount and payment reference in the URL they share with the user. This means that services can set up one reusable payment link and then share a personalised version of the link with each paying user in an email or text message."
+        },
+        {
+            "text": "Payment links make it easy to take an online payment for services that aren't part of an end-to-end digital journey. For many of these services, the user was previously asked to make a payment over the phone or send in a cheque. Offline methods are around 4 times more expensive, are more manual processes, and can make it harder for some users to pay."
+        },
+        {
+            "text": "Payment links are used by more than 150 organisations, ranging from dropped kerb applications to surgical training courses to boatmaster licences. We've had feedback from services that it greatly improved efficiency of their operations, and they allowed teams to get services online quickly during COVID-19."
+        },
+        {
+            "text": "For example, instead of requiring users to call up to pay during office hours, they could now pay 24 hours a day. We also saw that users prefer to pay online when they have the option. On one Home Office service that introduced GOV.UK Pay, 75% of card payments are now made online, rather than over the phone."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "We used a mixture of data analytics and qualitative feedback to understand how payment links were being used in practice."
+        },
+        {
+            "text": "Some services told us they weren't sure about using payment links if users entered their own reference number. Incorrect references create manual work for finance or operational teams to match up payments to cases or applications. When we spoke to services using payment links, they said that paying users generally provided the correct reference, especially since service owners were able to add instructions on where to find the reference. But we could not guarantee that incorrect references would not get through."
+        },
+        {
+            "text": "We also looked at our logs and noticed service teams using payment links in ways we had not expected. We expected public sector teams to set up one payment link that lots of different paying users would use. Instead, some services were creating one payment link per paying user, and putting the reference number in the title of the payment link. One service had created more than 600 payment links like this."
+        },
+        {
+            "text": "It looked like a workaround to make sure that the reference number could be set by the service team so that they could be confident it was correct. Even though each payment link only takes a few minutes to set up, that is not a great use of time, it makes managing user permissions more complicated, and there are a lot of out of date payment pages still being hosted on GOV.UK."
+        },
+        {
+            "text": "We also researched pain points for finance teams through research interviews, surveys, and collaboration with the Government Finance Function and Government Shared Services. We found that invoicing is a problem. More than 400,000 invoices are issued each year in central government, and many cannot be paid online. Finance teams also spend a lot of time chasing overdue invoices and we thought this was in part because users had limited ways to make a payment, especially if they couldn't easily call during office hours."
+        },
+        {
+            "text": "We thought there was an opportunity for GOV.UK Pay to make it easier to pay invoices online, which would reduce the manual work for finance teams associated with offline payment methods and reduce the number of overdue invoices. We also needed to improve services' confidence that payments had the correct references."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "Services can now use query parameters (extra information at the end of a URL) to pre-fill information when using payment links."
+        },
+        {
+            "text": "When the user opens the link, they're taken to a landing page explaining what they're paying for."
+        },
+        {
+            "text": "When the user selects 'Continue', they'll see the details that have been pre-filled by the service."
+        },
+        {
+            "heading": 2,
+            "text": "How it's working"
+        },
+        {
+            "text": "We're currently testing pre-filled payment links with a few beta partners and will be releasing this to new and existing services in a few weeks."
+        },
+        {
+            "text": "HM Land Registry is sending pre-filled payment links to users who sent cheques that haven't cleared. When the payment is made, data about the transaction will go into their finance system (Oracle Fusion) and be automatically matched up to the right user."
+        },
+        {
+            "text": "We're hoping to see services that are currently creating dozens of payment links use this instead. We're also hoping that this makes it easier for public sector finance teams to start using GOV.UK Pay for invoices, fines, and other ad hoc payments."
+        }
+    ]
+}

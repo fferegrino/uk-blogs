@@ -1,0 +1,83 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2022/03/23/how-were-doing-our-bit-for-world-water-day/",
+    "title": "How we\u2019re doing our bit for World Water Day",
+    "authors": [
+        "Tim Tamimi",
+        "Mark Harvett"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra interaction",
+        "Open data",
+        "Software tools",
+        "User research"
+    ],
+    "pub_date": "2022-03-23T08:00:39+00:00",
+    "content": [
+        {
+            "text": "World Water Day offers a reminder about the importance of our most vital natural resource. This year\u2019s theme is groundwater. Essentially, this is water that we get out of places like wells and boreholes, as opposed to surface water, which comes from places like rivers and lakes."
+        },
+        {
+            "text": "Water is our most precious of resources. Around a third of England\u2019s public water supply comes from groundwater sources. Some areas, such as Cambridge, derives almost 100% of its public water supply from groundwater."
+        },
+        {
+            "heading": 2,
+            "text": "About the Service"
+        },
+        {
+            "text": "The Water Resources Licensing Service (WRLS) is a service that allows abstraction licence holders to manage their licences online. They can view their licences, delegate access to their account and submit information about how much water they have taken."
+        },
+        {
+            "text": "WRLS is replacing a legacy Environment Agency (EA) system, which is no longer fully supported, to help manage England\u2019s water resources. In June 2021, for the first time, the WRLS was used to bill abstractors, a huge step forward!"
+        },
+        {
+            "text": "The creation of this service for water abstractors has been a collaborative effort between the EA and colleagues from Defra\u2019s Digital Data and Technology function. The teams have been working on it, together, for the last four years."
+        },
+        {
+            "heading": 2,
+            "text": "An update on e-alerts"
+        },
+        {
+            "text": "Back in November, we wrote about the new e-alerts system, which is going to allow the EA to send alerts to licence holders via email, as opposed to the [slower] legacy method, which relied on postal letters."
+        },
+        {
+            "heading": 5,
+            "text": "The image above shows how the percentage of groundwater in public water supply varies across England and Wales, and is courtesy of our colleagues at the British Geological Survey."
+        },
+        {
+            "text": "To push this forward, we have created over 1,800 digital links between licences and monitoring stations. This is going to enable us to fire off rapid email alerts to licence holders when their respective monitoring station has changed level or flow, helping us improve access to water when it is available and better protect the environment when it is not. We\u2019re just scratching the surface at the moment and will continue to create more and more digital records over the coming months."
+        },
+        {
+            "text": "We\u2019re excited to share with you what those email alerts are going to look like. The new alerts include more detailed information about the licence condition, and they have been specifically designed and tested to be easy to understand. Our aim is to make it easier for abstractors to comply."
+        },
+        {
+            "text": "There will be three types of alerts; one to warn abstractors river flows or levels are starting to fall, another telling them to stop (or reduce) their abstraction, and another to resume abstraction."
+        },
+        {
+            "heading": 2,
+            "text": "What else is happening and where are we going next?\n"
+        },
+        {
+            "text": "As well as working on e-alerts, the team is also busy with supporting the consultation on changes to the way charges are worked out. If the new charging scheme is approved, the team will be making substantial changes to how we calculate charges, so do watch this space."
+        },
+        {
+            "text": "In the meantime, there\u2019s still a huge amount of work to be done. Although WRLS came to life in 2018, the service is still growing. The team is passionate about continuing to bring more self-service to water resource licence holders, and about working with the EA on figuring out how we can best manage and protect water through building a better back-office application."
+        },
+        {
+            "text": "Over the coming months, we will:"
+        },
+        {
+            "heading": 2,
+            "text": "While you're here"
+        },
+        {
+            "text": "Back in February, Sir James Bevan delivered an insightful speech in World Water Tech Innovation Summit exploring some common myths and inconvenient truths about our water resources."
+        },
+        {
+            "text": "More information\nFind out more about World Water Day."
+        },
+        {
+            "text": "Fancy becoming a Defra software developer? You could be working on projects like this that really make a difference to people\u2019s lives. We\u2019re hiring now, take a look at our latest vacancies."
+        }
+    ]
+}

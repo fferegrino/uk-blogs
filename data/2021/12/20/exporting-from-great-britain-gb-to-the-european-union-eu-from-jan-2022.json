@@ -1,0 +1,64 @@
+{
+    "url": "https://taxagents.blog.gov.uk/2021/12/20/exporting-from-great-britain-gb-to-the-european-union-eu-from-jan-2022/",
+    "title": "Exporting from Great Britain (GB) to the European Union (EU) from Jan 2022",
+    "authors": [
+        "geoffgreensmith"
+    ],
+    "categories": [
+        "News and Updates"
+    ],
+    "pub_date": "2021-12-20T12:44:40+00:00",
+    "content": [
+        {
+            "text": "From 1 January 2022, goods exported through border locations will be subject to full customs controls. You\u2019ll need to make sure that you or your client have submitted the correct customs declaration. This would be either a pre-lodged export declaration or an arrived export declaration - check which locations need an arrived export declaration."
+        },
+        {
+            "text": "You can also find out which reference numbers need to be shown at the border if you\u2019re exporting goods out of GB. If the goods are selected for inspection, most ports will be able to check the goods on site. However, Port of Dover, Eurotunnel and Holyhead require drivers to attend an inland border facility (IBF)."
+        },
+        {
+            "text": "To help exporters prepare early for goods being moved through Goods Vehicle Movement service (GVMS) locations, they can submit pre-lodged or arrived declarations from 29 December 2021 for any movements on or after 1 January 2022. We would encourage you or your client to do this if you are exporting goods on 1 January 2022. "
+        },
+        {
+            "text": "To do this, you will need to:"
+        },
+        {
+            "text": "1. determine what type of declaration is required \u2013 a pre-lodged or arrived export declaration\n2. submit the declaration on CHIEF, you MUST enter\u202fAdditional Information code \u2018RRS01\u2019\n3. create a Goods Movement Reference (GMR) in GVMS"
+        },
+        {
+            "text": "When to submit an arrived or pre-lodged export declaration"
+        },
+        {
+            "text": "For exports going through Dover, Eurotunnel, Holyhead and Fishguard (locations that use the Goods Vehicle Movement Service (GVMS) only to control goods):"
+        },
+        {
+            "text": "\u2022 declarants must always submit and gain Permission to Progress (P2P) by submitting an Arrived Export declaration. The following exports declaration\u00a0 \u00a0 \u00a0types can be arrived: full exports declarations, Simplified Declaration Procedures (SDP) and C21 declarations. To submit an arrived export, you must enter the AI code RRSO1 (in box 44 for CHIEF and in Data Element 2/2 in Customs Declaration Service (CDS) and your mode of transport 6 must be Roll on Roll off (RoRo)"
+        },
+        {
+            "text": "\u2022 if goods moving through Dover, Holyhead and Eurotunnel are selected for a check, the haulier should present the goods at the nearest IBF. To be aware,\u00a0 \u00a0 \u00a0checks at Fishguard will be done on site at the port\u2019s Designated Customs Checking facility"
+        },
+        {
+            "text": "\u2022 upon completion of the physical check, the declarant should ensure that the haulier/driver is aware that P2P has been granted."
+        },
+        {
+            "text": "For exports going through Liverpool, Heysham and Milford Haven/Pembroke (locations that use GVMS and Inventory Linking to control goods):"
+        },
+        {
+            "text": "\u2022 if the carrier is using GVMS, declarants must submit an arrived exports declaration. To submit an arrived export declaration, you must enter the AI code RRSO1 (in box\u00a0 \u00a044 for CHIEF, and in Data Element 2/2 in CDS) and your mode of transport 6 must be Roll on Roll off (RoRo)"
+        },
+        {
+            "text": "\u2022 if the carrier is using Inventory Linking, the declarant must submit a pre-lodged exports declaration, and must not use the AI code RRSO1."
+        },
+        {
+            "text": "\u2022 if goods are selected for a check, the haulier should present the goods at the port\u2019s Designated Customs Checking Facility."
+        },
+        {
+            "text": "\u2022 upon completion of the check, the declarant should ensure that the haulier/driver is aware that P2P has been granted."
+        },
+        {
+            "text": "For details on how to complete arrived declarations, including how to enter the arrived exports AI code RRSO1, EXRR authorisation type code (for CDS), and port location codes (which differ depending on whether you\u2019re declaring on CHIEF or CDS) on your exports declarations, please refer to the Customs Information Paper: Goods leaving Great Britain from 1 January 2022 at ports using GVMS."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

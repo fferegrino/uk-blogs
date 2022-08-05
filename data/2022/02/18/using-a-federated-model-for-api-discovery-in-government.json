@@ -1,0 +1,76 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/02/18/using-a-federated-model-for-api-discovery-in-government/",
+    "title": "Using a federated model for API discovery in government",
+    "authors": [
+        "Bethan Palmer, Data Standards Authority Developer, Central Digital and Data Office"
+    ],
+    "categories": [
+        "Data Standards",
+        "Guidance",
+        "Implementation",
+        "People and Skills"
+    ],
+    "pub_date": "2022-02-18T14:14:16+00:00",
+    "content": [
+        {
+            "text": "In the Data Standards Authority we\u2019re currently thinking about the discovery of Application Programming Interfaces (APIs) within and between different government departments and agencies. We specifically mean web APIs, which are web interfaces for software. APIs are a great way to share data as and when it\u2019s needed using agreed open formats, rather than copying and duplicating data in different places.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why we need API discovery"
+        },
+        {
+            "text": "Using existing APIs allows people to build end to end services that join up multiple data sources to solve a citizen need. It can also help drive innovation, as knowing about existing APIs can give people ideas about how to improve their own APIs or services."
+        },
+        {
+            "text": "We also want to prevent departments from inadvertently duplicating APIs. For example we don\u2019t want every department to build their own bank holidays API, or for the same department to build dozens of APIs that do the same thing."
+        },
+        {
+            "text": "We want to improve API discovery because it:"
+        },
+        {
+            "text": "At the moment there is one big central API catalogue, which contains details about many (but nowhere near all) of the APIs published by public sector organisations. This is great, but it does have some drawbacks. The Technology Code of Practice recommends coding in the open by default, because it makes collaboration easier and encourages working to a high standard. But not all APIs across government can be made public because of security, commercial or policy concerns."
+        },
+        {
+            "text": "In the Data Standards Authority we want to focus on setting and enforcing open standards rather than building a one-size-fits-all platform. So we\u2019re focusing on building tools that enable others to build the things they need."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The federated model"
+        },
+        {
+            "text": "For these reasons we are exploring a federated model of API discovery. By federated, we mean that instead of having one big catalogue, the idea is to have a reference implementation that helps departments and agencies to spin up their own API catalogues in a standard and interoperable way. This will let departments see what they already have and what others have. There will still be a central catalogue for cross government APIs, it just won\u2019t try and do everything for everyone.\u00a0"
+        },
+        {
+            "text": "To underpin this we\u2019re also exploring a metadata model to define what attributes an API in a catalogue using our model should have. Some properties will be required in order to add APIs to a catalogue (for example the name and URL of the API), but others will be optional. The required properties will be quite lightweight so that API details can be shared in the open without the need to share things that might cause a security issue.\u00a0"
+        },
+        {
+            "text": "This model should allow API reuse to be self-sustaining, autonomous and scalable, while still ensuring that APIs meet the open standards we set.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re working on"
+        },
+        {
+            "text": "With the existing API catalogue we had already begun thinking about what properties an API in a catalogue should have. We have now started doing a discovery on this metadata model, and will be doing some user research to test our assumptions about it."
+        },
+        {
+            "text": "We\u2019ve started working on a proof of concept for this federated metadata model, and created a set of schemas, which we\u2019re then using to build a Java Spring Boot app. This will be an API with endpoints for returning metadata about other APIs and loading new entries, as well as being able to parse external services for data.\u00a0"
+        },
+        {
+            "text": "We\u2019re also planning to add API linting of our API specification, and in the long run to have a separate API linting tool that will be reusable by others. We\u2019re hoping this will be a means to providing faster and more immediate feedback that will help people follow the Data Standards Authority\u2019s API guidance, and that more issues will be caught by developers before the API assessment stage."
+        },
+        {
+            "text": "We\u2019ve also spoken to people in other departments about what relevant tools they\u2019re using for API discovery. We are still in the discovery phase of this work and want to understand user needs from the beginning to make sure we\u2019re building the right thing. "
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

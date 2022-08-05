@@ -1,0 +1,110 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/09/09/platforms-and-services-the-gov-uk-architecture-strategy/",
+    "title": "Platforms and services: the GOV.UK architecture strategy",
+    "authors": [
+        "Himal Mandalia, Head of Technology at GOV.UK, Government Digital Service (GDS)"
+    ],
+    "categories": [
+        "GDS team",
+        "Vision and plans"
+    ],
+    "pub_date": "2021-09-09T09:08:20+01:00",
+    "content": [
+        {
+            "text": "This year, we\u2019ve published our 5 objectives for GOV.UK and our roadmap shows how we are delivering against them. More widely, the Government Digital Service (GDS) has published its strategy for 2021 to 2024, with a focus on joined-up services, reusable platforms and personalisation - all tied together through a GOV.UK account and a single sign-on."
+        },
+        {
+            "text": "When we launched our GOV.UK Account work, we wrote about how the way people interact online has changed a lot since GOV.UK launched in 2012. Shopping, banking and media services are increasingly personalised, proactive and seamlessly available across multiple devices."
+        },
+        {
+            "text": "We want to meet this raised expectation by providing an experience that is just as tailored and relevant to the user - meeting them where they are. At the very least, we want to be able to test these propositions with users."
+        },
+        {
+            "text": "In this blog post we'll set out how we intend to transform GOV.UK's infrastructure and architecture to deliver a proactive and personalised experience across different devices and channels, while improving accuracy and accessibility and offering a stable and secure service. We'll cover how and why we'll be making these changes and how it will improve the overall user experience on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Explaining platforms"
+        },
+        {
+            "text": "This is a strategy centred on platforms and services. Let\u2019s cover what we mean by platforms. The word \u201cplatform\u201d seems to be everywhere these days. What does it mean?"
+        },
+        {
+            "text": "Broadly speaking we mean:"
+        },
+        {
+            "text": "\u201c...a group of technologies that are used as a base upon which other applications, processes or technologies are developed,\u201d as defined by Techopedia."
+        },
+        {
+            "text": "Essentially this is functionality you can build on top of, functionality that delivery teams don\u2019t have to build themselves because it is made available in an easy to use, supported and reusable way. You don\u2019t have to know about its inner workings. Someone else has taken care of the hard work - leaving you to focus on delivering what\u2019s distinct and valuable about your product or service."
+        },
+        {
+            "text": "Good examples of this outside government include:"
+        },
+        {
+            "text": "Some platforms are live services, others are simply well supported reusable patterns and components."
+        },
+        {
+            "text": "We recognised the value of platforms in GDS early on with our government as a platform (GaaP) work, and began to solve the most common needs with notifications, payments and cloud hosting. We also have the GOV.UK Design System, a set of styles and patterns actively maintained and supported as templates and components."
+        },
+        {
+            "text": "Our GaaP products are used by thousands of services across government, leaving their teams to focus on delivering value which is distinct to their users while we take care of the \u201cundifferentiated heavy lifting\u201d."
+        },
+        {
+            "text": "Platforms expose functionality and data, through open and standardised APIs, which teams can use to deliver their services quickly and easily. Some of those services may in turn be platforms themselves, with others building on top of them, or reusing them; for example, our payments platform uses our notifications platform, which in turn runs on our cloud hosting platform. Platforms emerge to encapsulate and solve common problems, and can provide a growing ecosystem of applications and features which are built on top of them."
+        },
+        {
+            "heading": 2,
+            "text": "Past and present"
+        },
+        {
+            "text": "The changes we\u2019re talking about in this post concern the 70 or so publishing and frontend applications/components that make up GOV.UK. These applications serve the more than half a million pages on www.gov.uk, but not the hundreds of individual services that are hosted and run by respective departments."
+        },
+        {
+            "text": "While GOV.UK may look like a single website, it\u2019s made up of several different domains which are detailed in the GOV.UK proposition. Our plans are to improve the architecture for www.gov.uk - the publishing platform for government."
+        },
+        {
+            "text": "The foundations of this were put in place nearly a decade ago. At a very high level this is made up of:"
+        },
+        {
+            "text": "It has grown and evolved over time, and additional frontend or publishing applications have been added to meet emerging needs."
+        },
+        {
+            "text": "Duplication has crept in as the applications and architecture have evolved, making it difficult to add new features; it can be difficult to know how many places a single change may impact, or how many applications need to be updated. This is technical debt."
+        },
+        {
+            "text": "The infrastructure was designed to serve static content which did not change frequently, rather than automatically scaling to meet demand by adding new machines. We've been able to use a CDN to serve cached pages at scale, rarely needing to serve them directly ourselves."
+        },
+        {
+            "text": "That setup has worked well, especially during the coronavirus pandemic when we saw tremendous traffic spikes. It is a simple and robust design which has stood the test of time and a testament to the architecture and engineering skill of the original teams on GOV.UK."
+        },
+        {
+            "text": "However, users and technology have moved on since GOV.UK first launched; there are more ways to be connected than before, and where and how content is delivered has changed. We need to test proactive and personalised propositions to meet these new needs across different channels."
+        },
+        {
+            "text": "We need an architecture and infrastructure which can support dynamic, tailored content at scale. The \u201cpage\u201d is no longer the only unit of content. It is \u201cstructured information\u201d breaking down into reusable \u201cchunks\u201d of content, reusable and applied based on context."
+        },
+        {
+            "text": "This is a big change. A fundamental rethink and redesign of the architecture and infrastructure of the GOV.UK publishing and presentation applications, as well as a change in how the teams sustaining all of this are organised and work. Our cross-government publishing users will see improvements through a more cohesive and intuitive set of publishing tools, and public users will have a more personalised and relevant experience."
+        },
+        {
+            "heading": 2,
+            "text": "Future platforms and services"
+        },
+        {
+            "text": "In the future we want to think about our content publishing and presentation technology as platforms and services:"
+        },
+        {
+            "text": "We\u2019re taking time to think and plan how this could work over the next few months, and what that means for how we currently support our applications and infrastructure. It will change and evolve as we explore and experiment."
+        },
+        {
+            "text": "This is a wholesale change to how we handle presentation, personalisation, publishing and content. We want to:"
+        },
+        {
+            "text": "We\u2019re taking an incremental, iterative and open approach and will be \u201czooming in\u201d on the areas touched on here in future blog posts."
+        },
+        {
+            "text": "These are exciting times for GOV.UK! Get in touch via email if you want to talk more."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/08/25/busting-acronyms-with-a-chatbot-how-my-acronym-confusion-led-to-a-chatbot/",
+    "title": "Busting acronyms with a chatbot: How my acronym confusion led to a chatbot",
+    "authors": [
+        "Thomas Yems, Content Designer"
+    ],
+    "categories": [
+        "Content",
+        "Digital Services",
+        "People and Skills",
+        "Technology"
+    ],
+    "pub_date": "2021-08-25T14:04:54+01:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "Screenshot of the acronym buster explaining what DIT means"
+        },
+        {
+            "text": "We use a lot of acronyms and terms that are quite complex to understand, especially if you\u2019re new to the Civil Service."
+        },
+        {
+            "text": "I spent most of my time helping stakeholders design their content, making it simpler to understand and quicker to read. Often our experts do not even realise that they are using terminology or acronyms that are not universally understood."
+        },
+        {
+            "text": "I noticed that there were several glossaries and dictionaries being created, used and then discarded. So I wondered if we could make one central source, maintained by everyone."
+        },
+        {
+            "text": "The motivation to solve this problem was to make the lives of our colleagues easier. We needed to help new and experienced colleagues to look up terms or acronyms quickly and easily. This would reduce confusion and ambiguity and make us more efficient and effective."
+        },
+        {
+            "heading": 3,
+            "text": "Assessing the options"
+        },
+        {
+            "text": "At DIT, once per quarter, we have a Firebreak week, where we can work in new temporary teams on common problems to find innovative solutions. I thought Firebreak was a great opportunity to get together a group of like-minded skilled colleagues to see if we could solve this problem."
+        },
+        {
+            "text": "We first looked at some options. We researched what was out there already both internally inside DIT, and externally. Excitingly we found this 402 page PDF of Ministry of Defence acronyms and abbreviations and thought about how we could improve on this."
+        },
+        {
+            "text": "We realised that colleagues just needed to be able to input their acronym and get a response, without needing to wade through all the other acronyms that we might use. We considered a form with an email response, but this was cumbersome and hard to use, so we needed to make it more interactive. This led us to the idea of a chatbot."
+        },
+        {
+            "heading": 3,
+            "text": "Creating the chatbot"
+        },
+        {
+            "text": "Having never made a chatbot before, we didn\u2019t know what it might involve. We discovered that we could use Microsoft\u2019s Power Virtual Agents to try to create one, without any idea what it would be like."
+        },
+        {
+            "text": "This allowed us to create a chatbot without even writing a single line of code. No python, java, or visual basic in sight. Much to the disappointment of the developer on our team!"
+        },
+        {
+            "text": "We merely scratched the surface of the potential capability of Power Virtual Agents, there are so many more opportunities to expand the functionality. The chatbot uses Power Automate to find an explanation of the acronym in a SharePoint List, which holds all the information. This is all part of the Microsoft Office 365 suite of products, we didn\u2019t even need to get any additional licences."
+        },
+        {
+            "text": "Once created, the chatbot can be accessed through many different channels, from web sites to Microsoft Teams. Adding another channel is so easy, and just takes one or two clicks."
+        },
+        {
+            "heading": 3,
+            "text": "Iterating and improving"
+        },
+        {
+            "heading": 6,
+            "text": "A screenshot of the Firebreak team on a call"
+        },
+        {
+            "text": "We also tested our solution with a small set of users. We watched them using the chatbot, as it\u2019s so insightful to actually observe their behaviour. They fed back that knowing what the acronym stood for wasn\u2019t enough to help them understand, and that an explanation would be helpful."
+        },
+        {
+            "text": "So we iterated, adding the option of a short explanation and a link to further information. This allowed users to solve their whole problem. In addition, this meant users could look up jargon as well as acronyms, increasing the benefit, and making the lives of our colleagues easier."
+        },
+        {
+            "heading": 3,
+            "text": "Busting the acronyms"
+        },
+        {
+            "text": "There are some amazing acronyms currently used such as:"
+        },
+        {
+            "text": "We are looking forward to rolling the chatbot out with colleagues to make working at DIT easier! We\u2019re just working through some security assurance and our plan for future support."
+        }
+    ]
+}

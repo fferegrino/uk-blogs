@@ -1,0 +1,79 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/06/08/how-dit-developers-keep-uk-businesses-up-to-date-with-tariff-changes/",
+    "title": "How DIT Developers keep UK businesses up to date with tariff changes",
+    "authors": [
+        "The Developer Community"
+    ],
+    "categories": [
+        "Data",
+        "Digital Services"
+    ],
+    "pub_date": "2021-06-08T10:14:08+01:00",
+    "content": [
+        {
+            "text": "The UK Tariff is a critical national dataset that records the charges and controls that the UK applies on imports and exports. The tariff data changes regularly in line with new trade policy and new Free Trade Agreements (FTAs) negotiated by the Department for International Trade (DIT). Since the new tariff went live on January 1, we have made updates to the data on average every 3.8 days."
+        },
+        {
+            "text": "Tracking how the tariff changes is very important. UK businesses need to keep up to date to comply with new requirements or take advantage of new preferential rates. Operating border systems also need to be informed when the policy they are implementing is changed, so that they can apply the correct rules. This applies to systems both inside and outside of government."
+        },
+        {
+            "heading": 3,
+            "text": "Tracking changes through a dataset"
+        },
+        {
+            "text": "When a change to the tariff is published it can be applied by border systems straight away. This will then impact the way importers and exporters trade. However, the declaration process is not quick, and it can take up to 6 months for a trade to be fully processed and charged correctly. Therefore, we need to keep and communicate an entire history of the tariff, as well as who performed changes and when they happened."
+        },
+        {
+            "heading": 3,
+            "text": "Never deleting any data"
+        },
+        {
+            "text": "We solved this problem by never deleting any data and instead keeping track of each change using a new database row. This is referred to as an append-only log system. It only permits new versions to be appended, past records cannot be changed. This is because they will always need to be available for interrogation."
+        },
+        {
+            "text": "For example, imagine we need to record import duties for any cereal made from \"durum wheat seeds\""
+        },
+        {
+            "text": "This example would show like this in the database:"
+        },
+        {
+            "heading": 3,
+            "text": "Providing auditable change-based data"
+        },
+        {
+            "text": "The UK Tariff is a dataset that is shared between many different border systems and third parties. With over 2.5 million data points, it\u2019s impractical to share new versions every time a change is made. Instead, consumers of UK Tariff data usually want to see all changes made since the last time they took updates."
+        },
+        {
+            "text": "Some changes also only make sense when combined with other changes. For example, it shouldn\u2019t be possible to define new products without having an import rate for them that traders can use. To cater for this, UK Tariff changes are grouped as \u201ctransactions\u201d. Each transaction is an indivisible and permanent set of changes that must be taken as a whole."
+        },
+        {
+            "text": "Transactions must be applied in order, as it doesn\u2019t make sense to talk about the duty rate until we have also specified a new kind of product classification. Each transaction therefore exists in an ordered sequence. This makes it possible for other systems to only consume the transactions they haven\u2019t yet seen which reduces the work they need to do when the tariff changes."
+        },
+        {
+            "text": "To enable a more auditable process each transaction also holds a timestamp and details of the user who created it. This ensures any change made to the tariff is transparent and that users can\u2019t make changes without them being visible to everyone else."
+        },
+        {
+            "heading": 3,
+            "text": "Enable drafted transactions"
+        },
+        {
+            "text": "Sometimes a set of tariff changes are known about in advance. For example, if we negotiate a new FTA then the terms of the agreement will be known long before the agreement is due to take effect. We keep transactions in \u2018draft\u2019 and allow them to be applied once agreements have been signed. This reduces the amount of pressure put on our Tariff Management colleagues to make changes when they are needed. Any transaction in \u2018draft\u2019 doesn\u2019t get sent to border systems until it is approved."
+        },
+        {
+            "heading": 3,
+            "text": "How this helps UK businesses and colleagues"
+        },
+        {
+            "text": "Working with such a complex data model has been a rewarding challenge! Our team was tasked with the challenge of making the UK Tariff efficient and easy to work with. It has pushed our normal database techniques to their limit and we have learned a lot about what really works in practice. Now that we have done the hard work to make our data simple, safe and secure, we are satisfied to see our users querying tariffs and making changes with minimum fuss."
+        },
+        {
+            "text": "As well as sending tariff changes to border systems, we also publish the UK Tariff openly on data.gov.uk. Everyone from small traders to other world governments uses our data to make sense of UK imports and exports."
+        },
+        {
+            "text": "In our recent research with these users, we have learned that these users want to get a better picture of how the tariff is changing too. Our next step for this work will be to investigate ways we can make more use of our data model to present tariff changes in a more user-friendly way for non-technical users."
+        },
+        {
+            "text": "With thanks to Nick Sarbicki, Simon Worthington and Rachael Robinson"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/10/29/how-we-made-the-gov-uk-accordion-component-more-accessible/",
+    "title": "How we made the GOV.UK accordion component more accessible",
+    "authors": [
+        "Chris Yoong, Frontend Developer at GDS",
+        "Nikin Nagewadia, Interaction Designer at GDS",
+        "Mia Allers, Senior Graphic Designer at GDS",
+        "Owen Jones, Frontend Developer at GDS"
+    ],
+    "categories": [
+        "Accessibility"
+    ],
+    "pub_date": "2021-10-29T09:11:25+01:00",
+    "content": [
+        {
+            "text": "We recently improved the accordion component as part of ongoing work to make sure GOV.UK is accessible and meets user needs."
+        },
+        {
+            "text": "An accordion allows users to show and hide content sections on a page. In this blog post, we're talking specifically about how we improved an accordion component. GOV.UK is built on a set of designs, patterns and components; when we update them, changes are deployed across the platform for a consistent user experience."
+        },
+        {
+            "text": "As well as deploying the improved component to the GOV.UK, we also wanted it to replace the GOV.UK Design System accordion component used by cross-government digital teams to build services."
+        },
+        {
+            "heading": 2,
+            "text": "Meeting accessibility standards"
+        },
+        {
+            "text": "We needed to redesign the accordion to meet the Web Content Accessibility Guidelines (WCAG) which are detailed standards public sector organisations have a legal duty to meet. We needed to meet WCAG 2.1 AA standards which are also known as \u201csuccess criteria\u201d."
+        },
+        {
+            "text": "We knew the accordion component did not meet 2 WCAG success criteria:"
+        },
+        {
+            "text": "As the component will eventually live in the GOV.UK Design System, we additionally had to build it to the Design System\u2019s principles of usability, consistency and versatility and accessibility. But we also wanted to go beyond just meeting the required standards by building the most accessible accordion possible and share our findings by working openly."
+        },
+        {
+            "heading": 2,
+            "text": "Our development approach"
+        },
+        {
+            "text": "To resolve the lack of style consistency, we iterated on an existing award-winning step by step accordion pattern. This helped us align the \u201copen-and-close\u201d element in the updated accordion with the GOV.UK step by step component for a consistent design language."
+        },
+        {
+            "text": "The accordion, like GOV.UK, follows the progressive enhancement methodology. We started by making it work first in HTML before adding Cascading Style Sheets (CSS) and JavaScript (JS) because HTML is the most resilient layer - even when CSS or JavaScript fail or the user switches them off, HTML will still render correctly. This also means that if the HTML fails, there is no webpage. Progressive enhancement benefits all users because \u201call your users are non-JS while they\u2019re downloading your JS\u201d, so observing it makes your website more robust for all users, another WCAG accessibility principle."
+        },
+        {
+            "heading": 2,
+            "text": "What we changed"
+        },
+        {
+            "text": "As well as establishing a consistent accordion style across GOV.UK, we:"
+        },
+        {
+            "heading": 2,
+            "text": "Accessibility testing"
+        },
+        {
+            "text": "Before releasing the new component, we tested it:"
+        },
+        {
+            "text": "We tested across various platforms and assistive technologies because they all interpret webpages slightly differently. We also asked accessibility specialists in the Central Digital and Data Office (CDDO) to review the accordion as it would be eventually deployed across GOV.UK."
+        },
+        {
+            "text": "We found a few problems including that when a user changed the colour settings in the Firefox browser, parts of the accordion weren\u2019t visible. A user might increase or reduce the colour contrast for comfortable reading if they are visually impaired or looking at a webpage in difficult light conditions, for example bright sunlight. We fixed this issue by using \u201cforced-colors\u201d and \u201chigh-contrast\u201d media query."
+        },
+        {
+            "text": "We also found that when we zoomed into the accordion, the chevron icon did not scale in line with the text. This is because it was originally pixels so we updated it to use relative values or EMs. The update also helped us to meet other WCAG success criteria that relates to resizing text such as WCAG 1.4.4, WCAG 1.4.8 and WCAG 1.4.10."
+        },
+        {
+            "heading": 2,
+            "text": "The result"
+        },
+        {
+            "text": "The updated accordion component is now live across the main GOV.UK publishing platform and a future iteration will shortly be rolled out by the GOV.UK Design System for UK department digital teams to use in service platforms. It meets WCAG and Design System design digital standards and was iterated following accessibility testing."
+        },
+        {
+            "text": "If you\u2019d like to know more about accessibility on GOV.UK, you can read about our work to meet the accessibility regulations deadline and how data specialists helped make GOV.UK more accessible."
+        }
+    ]
+}

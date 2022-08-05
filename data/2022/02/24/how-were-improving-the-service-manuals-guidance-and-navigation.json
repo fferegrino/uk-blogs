@@ -1,0 +1,87 @@
+{
+    "url": "https://services.blog.gov.uk/2022/02/24/how-were-improving-the-service-manuals-guidance-and-navigation/",
+    "title": "How we\u2019re improving the Service Manual\u2019s guidance and navigation",
+    "authors": [
+        "Alan Maddrell \u2013\u00a0Lead content designer, CDDO",
+        "Alison Foley \u2013 User researcher, GDS",
+        "Ben Carpenter \u2013 Service designer, GDS",
+        "Martin Jordan \u2013 former Head of Service Design, GDS",
+        "Melanie Dunkley \u2013 Senior content designer, CDDO"
+    ],
+    "categories": [
+        "Service Standard",
+        "Service transformation"
+    ],
+    "pub_date": "2022-02-24T13:55:18+00:00",
+    "content": [
+        {
+            "text": "Last summer, we wrote about making the Service Manual community-led. We also blogged about using user research to inform guidance and working with users and economists to evolve the Service Manual."
+        },
+        {
+            "text": "Over the last few months, we continued to apply our community-led approach to every area of our work and develop it further. As we described before, every piece of guidance we update or create requires a specific and slightly different approach. For example, the way we work on an annual update to an established piece of guidance in the technology section is unlikely to be identical to creating all-new guidance with a new community of practice for the design section."
+        },
+        {
+            "text": "Our approaches to co-creation, research and engagement will differ depending on the type of guidance, the kind of changes we want to make, and the user groups impacted by those changes. They include users and subject matter experts, though, as our team members are neither the users nor have deep subject matter expertise.\u00a0"
+        },
+        {
+            "text": "Throughout 2021, we made 16 major and 81 minor updates to guidance. In September, we published all-new guidance on making services in an emergency, collecting and reflecting on the experiences and practises of service teams, who designed and delivered services at a rapid pace in the past two years.\u00a0"
+        },
+        {
+            "text": "We also made improvements to point 2 of the Services Standard on solving a whole problem for users based on research findings. Together with the user research community, we created new guidance on doing user research during coronavirus (COVID-19). Furthermore, we updated guidance on cookies and personal information and on getting your service on GOV.UK. Beyond that, we created pages for the data engineering community and the policy design community."
+        },
+        {
+            "heading": 2,
+            "text": "Working with different communities of practice across government\u00a0"
+        },
+        {
+            "text": "In 2021, we ran workshops with community members to help inform guidance. We\u2019ve continued to involve the community in new guidance creation, iterated and adapted our approaches, and documented what we\u2019ve learned.\u00a0"
+        },
+        {
+            "text": "Our service designer Kara mapped out our different community contribution approaches to identify pain points and overlaps. We found community contribution work splits into 3 areas:\u00a0"
+        },
+        {
+            "text": "Each piece of content work has required a slightly different approach due to the varied content in the Service Manual and the varying knowledge and expertise within the team, our organisation, and our contributors."
+        },
+        {
+            "text": "We identified that we generally involve experts in updates to guidance, while we\u2019ve involved service teams and our community members in new guidance creation and fixes, changes, and minor updates. By community members, we mean people who engage with the Service Standard and Service Manual intending to contribute and improve them. People engage with us through Zendesk, email, and Slack, where we post weekly updates so people can follow what we\u2019re working on."
+        },
+        {
+            "text": "Most recently, we ran a workshop and follow-up sessions to co-create new guidance on \u2018understanding and meeting policy intent\u2019. We started by engaging with the cross-government policy design community, ran a workshop to understand how the guidance should be structured, and had follow up research sessions to understand the content that should be included."
+        },
+        {
+            "heading": 2,
+            "text": "Running a design sprint to improve navigation"
+        },
+        {
+            "text": "End of November 2021, we ran a 3-day design sprint to explore navigational improvements. Our initial questions were: \u201cHow do we make the Service Manual easy to use and quick to navigate? How do we help people find what they are looking for and make it easy for them to retrieve it later again?\u201d Our goal is to evolve the Service Manual for its core user groups and ensure its information architecture reflects their mental models and supports changing content.\u00a0"
+        },
+        {
+            "text": "In addition to a close review of our users\u2019 pain points, we looked at web analytics and how people access our guidance, navigate it and what they are most interested in. We also invited experts, including our colleagues from the NHS Digital Service Manual and the CDDO\u2019s Technology Code of Practice team. They shared what they have learnt about the mental models of their users, their tasks, and how it is reflected in the information architecture and navigational structure of their offerings."
+        },
+        {
+            "text": "Following a thorough examination of user needs, behaviours, and current pain points with our existing software products, we defined the opportunity space and then drafted, discussed and prioritised potential design ideas."
+        },
+        {
+            "text": "Afterwards, we quickly made realistic looking prototypes in a matter of hours and tested them with users we recruited via our established channel on the cross-government Slack. Among other things, we showed them a new navigation bar, a \u2018what\u2019s new\u2019 section on the landing page, and new categories in which we present guidance by task, by delivery phase, and by topic. Interacting with users on Slack continuously allowed us to find research participants who provided valuable critical feedback in a few hours."
+        },
+        {
+            "text": "After completing the design sprint and its 6 research sessions, we reviewed the comments, questions and suggestions received, iterated our design drafts, and mapped the proposed changes to our product regarding their impact and effort. Subsequently, we shared the results in show and tells, presented them to senior management and started working on changes that do not require support from many other people or skills we currently do not have in our team.\u00a0"
+        },
+        {
+            "text": "After working on numerous content changes and establishing a new community-led operating model, the entire team found it refreshing to work on the underlying software product and improvements to the experience users have with it.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s happening next"
+        },
+        {
+            "text": "In the coming weeks and months, we plan to make several smaller but fundamental changes to navigation and content presentation in the Service Manual and Standard. In addition, we are developing various essential improvements in response to the different mental models of our users and to accommodate their primary tasks. To further identify, prioritise, and measure the most common user tasks across the Service Manual and Standard, we are planning work using Gerry McGovern\u2019s Top Tasks methodology. This will also cover the Technology Code of Practice and other CDDO-owned content on GOV.UK. On a strategic level, we are linking our work closely to CDDO\u2019s new services transformation programme.\u00a0"
+        },
+        {
+            "text": "At the same time, we have multiple minor and major guidance changes in the works. The most extensive forthcoming alterations are to our data guidance and the new policy intent guidance. Moreover, we are rethinking how our different products, the Service Standard and the Service Manual relate to each other, to other guidance and standard products like the GOV.UK Design System and the Technology Code of Practice and wider service transformation efforts in CDDO and GDS."
+        },
+        {
+            "text": "Join the channel #servicemanual on the cross-government Slack to read our weekly updates and engage in discussions with other users or write us an email to provide feedback on our products and guidance. You can also sign up to take part in research activities that inform our work on the Service Manual and Service Standard. "
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/07/29/ensuring-everyone-has-access-to-work/",
+    "title": "Ensuring everyone has access to work",
+    "authors": [
+        "Malcolm Canvin - Product Owner, DWP Digital"
+    ],
+    "categories": [
+        "Apply for Personal Independence Payment"
+    ],
+    "pub_date": "2022-07-29T10:23:18+01:00",
+    "content": [
+        {
+            "text": "In DWP Digital we strive to make complicated services better for our users. Access to Work is a good example of this, where we\u2019re providing a service that helps disabled people and people with health conditions to start or stay in work, by providing a grant to pay for the support they need to do this."
+        },
+        {
+            "text": "It\u2019s a wide ranging, discretionary grant that covers a multitude of support. Generally, the grant is for things that are above and beyond the reasonable adjustments that an employer has to make by law. This tends to be more substantial support, for example travel to and from work, specialist equipment or providing support workers. Access to Work is part of a broader set of packages the government has introduced to help disabled people into and to keep them in, work."
+        },
+        {
+            "text": "There are two different aspects to Access to Work - applying for the grant and claiming against an agreed grant award. We get around 45,000 applications and receive around 170,000 claims a year from these users."
+        },
+        {
+            "heading": 2,
+            "text": "Claiming Access to Work"
+        },
+        {
+            "text": "Our claims process is currently a paper-based process that relied on filling in a paper form, getting the form countersigned by the employer via a physical signature and sending receipts through the post. When claiming against their grant award, the service user or employer pays in advance for the adjustment and then claims the money back in arrears, an arrangement that works a bit like a pre-agreed expenses claim. It can involve long wait times of up to 6-7 weeks before being paid."
+        },
+        {
+            "text": "Hence building an online claims journey to address this issue is something we\u2019re working on right now."
+        },
+        {
+            "text": "This is the journey where users will immediately see the most transformation, they\u2019ll be able to go into a new digital portal, verify their identity, upload evidence digitally and see previously submitted claims. They\u2019ll also be able to see how much grant award they have left and allow employers to counter sign the claim. DWP agents will then be able to review the claim, process and pay it."
+        },
+        {
+            "heading": 2,
+            "text": "Applying for Access to Work"
+        },
+        {
+            "text": "We currently have a separate user journey for our online application process that, technically, meets the GDS standards. However, we\u2019re continuously iterating and improving our services, as something that began as a minimal viable product in 2017, it doesn\u2019t necessarily meet the needs of our current users today."
+        },
+        {
+            "text": "So, reforming this older digital application journey is something that we needed to do. Put simply, the user applies for the grant, the application is accessed, and a grant award is agreed. For example, a person with a visual impairment takes a new job in a location with no public transport. That person could apply for Access to Work to help them cover the cost of taxi fares to and from work. The grant awarded could also include help with the cost of assistive technology (for example a screen reader) to allow the person to carry out the job. How that happens for the user is the crux of what we are doing."
+        },
+        {
+            "text": "We have redesigned the online application so that, in addition to being more usable, accessible and inclusive, it will enable our users to provide more of the information we need, in a far more structured format, in order to make a decision on their application as fast as possible. The sooner they get an award decision the sooner they can get the support they need."
+        },
+        {
+            "heading": 2,
+            "text": "Future plans to improve the service"
+        },
+        {
+            "text": "Access to Work is a discretionary grant, rather than a benefit, so there are limitations on how we administer that. We\u2019ll always need a real person to make decisions, so we\u2019re never going to fully automate it or make it an agent-less process and that\u2019s ultimately a good thing as each application and each user will be considered on their circumstances on a case-by-case basis."
+        },
+        {
+            "text": "We\u2019ve had 3 digital teams working on various aspects of the end-to-end service to ensure we are delivering against the most important priorities across the whole piece. This has entailed a degree of cross-team working and coordination which has been helped by one vision, a shared roadmap, common tooling and working from a single backlog."
+        },
+        {
+            "text": "We\u2019re just about to move into a private beta phase for the new online claims service. This means initially people have been selected and will be invited to take part. Once this is fully tested and we\u2019re confident that the service is running efficiently, we\u2019ll move into public beta, where anyone who is getting Access to Work will be able to make their claim online. We expect this to happen before the year end if everything runs to plan."
+        },
+        {
+            "text": "Beyond the user facing aspects of the transformation, we\u2019re also looking to replace the legacy systems on which the grant is currently administered. This will involve building out a microservice architecture to support a full case management system \u2013 making use of common DWP shared components where available. This will enable our staff to assess, award and pay the grant as quickly as possible to ensure users get the support they need when they need it."
+        },
+        {
+            "text": "By bringing in the pain points - real issues our users are facing in accessing the service, for example not having a choice of channel for claiming \u2013 we can prioritise what we\u2019re working on and the changes that will be of most benefit. So that, not only will the redesigned service meet our user needs, but it will also meet the needs of what we want the service to be in the future."
+        },
+        {
+            "text": "So eventually the Access to Work service will be fully digital, it will be more accessible, users will have a choice of channels to access help and it will be much faster to go from application or claim through to payment. But transforming a complex discretionary grant like this takes time, it necessitates collaboration and requires thinking about the design of the whole service \u2013 not just the digital aspects of it. In short, it\u2019s a long road, but we\u2019ll get there!"
+        },
+        {
+            "heading": 2,
+            "text": "Join a team where you can make an impact"
+        },
+        {
+            "text": "For digital specialists working in DWP Digital it\u2019s really exciting stuff. If you\u2019re interested in a role with us have a look at our latest vacancies."
+        }
+    ]
+}

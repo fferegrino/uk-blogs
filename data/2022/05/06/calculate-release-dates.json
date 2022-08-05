@@ -1,0 +1,105 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/05/06/calculate-release-dates/",
+    "title": "Calculate Release Dates",
+    "authors": [
+        "Frazer Rhodes",
+        "Emily Docherty"
+    ],
+    "categories": [
+        "Calculate Release dates",
+        "Our services"
+    ],
+    "pub_date": "2022-05-06T11:05:20+01:00",
+    "content": [
+        {
+            "text": "HMPPS Digital, in partnership with prisons, are building a service to improve the calculation of release dates by freeing up time for staff, improving accuracy and making sentences easier to understand for staff and prisoners."
+        },
+        {
+            "text": "I\u2019m Frazer Rhodes and I\u2019m a Service Owner in HMPPS Digital (Her Majesty\u2019s Prison and Probation Service) working with the Calculate Release Dates team which is part of the replacing legacy technology strategy.\u00a0"
+        },
+        {
+            "text": "Emily Docherty, I\u2019m a Hub Manager currently working within the OMU (Offender Management Unit) at HMP Holme House. My role involves overseeing the admin processes that fall under offender management, including Sentence Calculation.\u00a0"
+        },
+        {
+            "text": "It is my responsibility to ensure sentence calculations are accurate upon transfer and I am also the final sign-off for sentence calculations upon release from prison."
+        },
+        {
+            "text": "Emily:\u00a0 Currently, the process of completing a sentence calculation check involves using a combination of the existing prison system (NOMIS), paper copies of imprisonment orders, remand warrants, and trial record sheets along with a manual check carried out with a calculator and the relevant calculation sheet.\u00a0\u00a0"
+        },
+        {
+            "text": "There is a lot of pressure on the staff responsible for sentence calculation checks as ultimately the responsibility lies with them. Sentence calculation errors can have a detrimental impact on not only the establishment but could also pose a serious risk to the public too. We therefore must ensure each calculation is accurate. This involves checking, double checking and checking again. The NOMIS system that we currently use is quite dated. New legislation can take a while to be updated onto the system resulting in release dates populating incorrectly, making our job a bit more difficult than it already is.\u00a0"
+        },
+        {
+            "text": "Problems with the current approach"
+        },
+        {
+            "text": "Emily: The main problems we have are:\u00a0"
+        },
+        {
+            "text": "Frazer: Ultimately whenever you have humans in a process there is risk that errors will occur. The personal responsibility that staff have when it comes to calculations means that accuracy and trust in digital services is paramount."
+        },
+        {
+            "text": "Establishing the vision, priority and prototyping"
+        },
+        {
+            "text": "Frazer: In May 2021, a digital team was set the task of transforming how we currently calculate release dates. The vision established is a service that enables the easy and accurate calculation and recalculation of sentences which has the flexibility to quickly incorporate changes in circumstances, policy or any other factors that affect sentence length, meeting with GDS standards.\u00a0"
+        },
+        {
+            "text": "As with any agile software development we prioritised where to place our efforts. This meant focusing on one type of user initially: an individual who calculates release dates based in the offender management unit. We also focused on standard determinate sentences (SDS) to begin with."
+        },
+        {
+            "text": "What people thought of the prototype"
+        },
+        {
+            "text": "Frazer: Users liked the design of the service, how the information was presented and the opportunity to review. They particularly liked how the calculations were explained and the inclusion of aspects like accounting for leap days as it\u2019s something they have to be aware of.\u00a0"
+        },
+        {
+            "text": "\u201cIt\u2019s near and clear, no searching all over\u201d"
+        },
+        {
+            "text": "'it's very easy to navigate and the concurrent/consecutive references are clear.\u00a0 I've not seen it come up with any wrong dates so far, which is a good thing!'"
+        },
+        {
+            "text": "\u201cThe layout is much clearer, fill out a few boxes per page. Not muddled. User friendly layout\u201d"
+        },
+        {
+            "text": "\u201cIf there is a problem it\u2019s much easier to see why and how to fix it\u201d"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Moving on from prototyping & Working with HMP Holme House"
+        },
+        {
+            "text": "Emily: \u200b\u200bWe feel really lucky to be included as one of the six pilot locations across the country. Involving the staff who will be directly using the system daily is a really positive way of working and is the right step forward. Staff have been involved in everything from the way the system looks, to providing feedback on what information is useful and what is not. Our aim is to continue to provide feedback to ensure the system is the best it can be for all users."
+        },
+        {
+            "text": "Frazer: The initial testing gave the team enough confidence to proceed to private beta, where we produce functioning software and started to work with a small number of prisons. We approached three prisons initially, HMP Hewell, HMP Holme House and HMP New Hall. This has now expanded to include HMP Bristol. HMP Kirkham and HMP Thameside.\u00a0"
+        },
+        {
+            "text": "We wanted to hear first hand from colleagues involved in sentence calculation but also to discuss how we intended to work. In the past, prison technology has been developed remotely and built on assumed needs rather than tackling the real issues that users face'."
+        },
+        {
+            "text": "Emily: Moving to a system that does a calculation for us, without the need of a manual check feels like something out of reach. Understandably, there is some apprehension on solely relying on a computer system to do the job for us, especially when the repercussions could be detrimental. This is why, at this stage it is so important to work together. We need to ensure we get the system as accurate as it needs to be in order to build up that trust.\u00a0"
+        },
+        {
+            "text": "Next steps"
+        },
+        {
+            "text": "Frazer: We plan to focus efforts on both the inputs upstream of the calculator such as the sentence and offence information as well as adding more complex sentence types to the calculator. We\u2019ll continue to work with our six pilot prisons including HMP Holme House, to continuously learn and improve the service."
+        },
+        {
+            "text": "Emily: The team at Holme house are really looking forward to getting started with the system and supporting the project throughout its journey. It is an extremely interesting piece of work, with the potential to have a real positive impact on prisons across the country.\u00a0 Hopefully, it will transform the way OMU departments work and we are grateful to have been involved from the beginning.\u00a0"
+        },
+        {
+            "text": "Contacts for further information:"
+        },
+        {
+            "text": "Louise Ball, Product Manager: louise.ball@digital.justice.gov.uk (@LouiseB33083874)"
+        },
+        {
+            "text": "Frazer Rhodes, Service Owner: frazer.rhodes@digital.justice.gov.uk (@frazer_HX)"
+        }
+    ]
+}

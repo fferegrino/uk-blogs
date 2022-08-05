@@ -1,0 +1,103 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/01/21/how-the-content-hub-is-taking-on-accessibility/",
+    "title": "How the Content Hub is taking on accessibility",
+    "authors": [
+        "Jane Stead"
+    ],
+    "categories": [
+        "Accessibility",
+        "Content",
+        "Content Hub Team"
+    ],
+    "pub_date": "2022-01-21T17:38:53+01:00",
+    "content": [
+        {
+            "text": "The Content Hub is basically a restricted and secure intranet created, designed, developed and written solely for the prison estate. It's the only 100% prisoner-facing service in MOJ Digital and Technology. In developing it, we've been constantly awake to the needs of these users and their highly-specific accessibility requirements."
+        },
+        {
+            "text": "As outlined in the Equality Impact Assessment for the In-Cell Technology (ICT) Programme, we're working to give adequate and appropriate user support so that no individual across the prison estate is discriminated against or disadvantaged by the introduction of the tech."
+        },
+        {
+            "text": "Communication in the prison estate is extremely important, as mentioned in our last blog. It can mean the difference between a calm landing and 'association' session, and a fight breaking out. If prisoners can't get the information they need, or can't get to use the kiosks to send apps or check their personal information, this leads to frustration, anger, sometimes aggression and even violence.\u00a0"
+        },
+        {
+            "text": "With the Content Hub, we have a great opportunity to create a new (hopefully, more efficient) way of communicating with prison prisoners.\u00a0"
+        },
+        {
+            "text": "Accessibility on the Hub is top of the list"
+        },
+        {
+            "text": "Why? It's widely accepted that many people in prison have limited literacy skills, on top of concentration and neurodiversity issues, alongside their own individual long-term trauma, addiction and mental health problems. Our research has shown that 100% written communication and verbal instruction can easily go unread or unheard due to a cocktail of some, or all, of these factors. How then, do prisoners learn the rules, processes and what goes on in the place in which they live?"
+        },
+        {
+            "text": "An end to the paper trail\u00a0"
+        },
+        {
+            "text": "All things have their place, of course, but in an increasingly information-heavy world, overloaded prison staff and traumatised prisoners (with literacy issues) communicating by paper notices under room doors does seem increasingly doomed to fail. Easy to say in hindsight.\u00a0"
+        },
+        {
+            "text": "But communication by paper now seems outdated to us all, as well as it being:"
+        },
+        {
+            "text": "Misinformation on the landings"
+        },
+        {
+            "text": "So if paper isn't getting through, what is? We found the communication of prison rules and procedures by word-of-mouth could be even worse. Staff might get exhausted with prisoners constantly asking the same things. prisoners might pass on incorrect information, genuinely and on purpose. A combination of many opposing 'truths' can leave a newcomer, already in crisis, reeling. "
+        },
+        {
+            "text": "Communicating with people in prison - truth, trust, simplicity"
+        },
+        {
+            "text": "The Content Hub team was very conscious of accessibility issues in adult pilot prisons HMP Wayland and HMP Berwyn. Using this research, we could build much more into the Young Offender Institutions (YOIs) research by Will and Iram as we planned the rollout into HMYOI Cookham Wood (boys aged 15-18)."
+        },
+        {
+            "text": "As stated above, people need to trust the information given to them is the truth. When rumours and misinformation creeps in, reality becomes distorted and chaos resumes. But, even before that, the information has to be understood.\u00a0"
+        },
+        {
+            "text": "We tested and found highly visual information allowed inclusivity for foreign nationals, boys with reading difficulties, as well as people with visual impairments, for example, low or partially sighted vision. Graphics serve as visual cues working together with text. Similarly with audio, we found the boys were happy to listen to information, so long as it was in a voice they trusted (what we now call 'the authentic voice') and information was in simple language with no jargon or acronyms.\u00a0"
+        },
+        {
+            "text": "Bearing this in mind, we created a 'Guide to Cookham Wood'. This is a visual rulebook for staff and boys which includes everything they need to know about their time in Cookham Wood. Fundamentally, a digital version of the paper-heavy induction guide."
+        },
+        {
+            "heading": 3,
+            "text": "What we did to put accessibility first\u00a0"
+        },
+        {
+            "text": "Text and graphics"
+        },
+        {
+            "text": "The default font size on the Content Hub is also slightly larger than the standard font sizes recommended in the GDS typography style guide. We did this because we know from research there's a disproportionate percentage of users with low literacy, numeracy and 'digital literacy' in the prison estate compared with an average sample from the public."
+        },
+        {
+            "text": "A picture is worth 1000 words. Nobody now knows this more than Senior Interaction Designer, Olivia Todd, who created from scratch a series of engaging, stimulating and brilliantly designed infographics.\u00a0"
+        },
+        {
+            "text": "She said: \"One of the challenges of creating graphics was first to turn (what can be) complicated prison rules into simple language that we understood fully, before trying to visualise them. Infographics here are not just pretty pictures to break up a page of text - we want them to be fully-functional messages so that as many people in prisons can be as informed as possible.\""
+        },
+        {
+            "text": "Research in HMYOI Cookham Wood found that many of the 15-18-year-old boys didn't know the rules of where they were living, what they needed to do to get food or how to order from canteen. However well induction information is given, it can still not be 'heard'. And then we found some boys don't even make eye contact with another boy for weeks, never mind dare to ask them what time lunch might be."
+        },
+        {
+            "text": "So having everything the boys need to know about where they are on their laptops means they have a better chance of getting the information they need, at a time they feel able to process it. They can check information 24/7 so are less likely to pick up wrong information from the landings, lowering levels of stress, anxiety and aggression.\u00a0"
+        },
+        {
+            "text": "We provide 'alt text'\u00a0 so that it can be read aloud for people using screen readers. It can be beneficial for other users, if an image fails to render due to slow wifi/internet or maybe a bandwidth issue, for example."
+        },
+        {
+            "text": "These infographics speak for themselves:"
+        },
+        {
+            "text": "How did the Guide test in Cookham Wood?"
+        },
+        {
+            "text": "Very well. So well that we created a 'guide template' to pass on to the next prisons we're rolling out into, so Digital and Comms Managers can write (and keep updated) their own single source of truth about what goes on in that prison.\u00a0"
+        },
+        {
+            "text": "In our next blog, we talk about how we went further and used accessibility issues to focus on using the YOI boys to create their own audio content for the Hub.\u00a0"
+        },
+        {
+            "text": "If your team or department wants to create content for the Hub, please get in touch at\u00a0hubcontentteam@digital.justice.gov.uk"
+        }
+    ]
+}

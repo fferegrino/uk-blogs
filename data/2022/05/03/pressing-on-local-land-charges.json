@@ -1,0 +1,71 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2022/05/03/pressing-on-local-land-charges/",
+    "title": "Pressing on with Local Land Charges delivery",
+    "authors": [
+        "Mark Kelso, Local Land Charges Programme Director"
+    ],
+    "categories": [
+        "Local Land Charges"
+    ],
+    "pub_date": "2022-05-03T13:39:40+01:00",
+    "content": [
+        {
+            "text": "Four years ago, the Local Land Charges Rules came into force providing the legal framework for HM Land Registry to take on delivery of the national Local Land Charges digital register. \u00a0This would be a significant part of the Government\u2019s ambition to make the property buying process simpler, faster and cheaper. Fast forward to today and we are really starting to realise that vision."
+        },
+        {
+            "heading": 2,
+            "text": "Increasing the pace of delivery"
+        },
+        {
+            "text": "Government and industry want to see the benefits of a fully digital LLC service as quickly as possible. As such, we spend every working day pushing ourselves to transfer all LLC records in England and Wales by 2025 to the national register.\u00a0 An ambition we announced a year ago."
+        },
+        {
+            "text": "Once migrated, our customers are guaranteed a standardised service that is available 24/7 and offers instant access to their search results. \u00a0This simpler, resilient, and reliable service is able to cope with market upheavals, such as lockdown restrictions or surges in search numbers like that which followed the stamp duty and land tax holiday of July 2020."
+        },
+        {
+            "text": "As a result of our work so far, residents in 40 local authorities are benefiting from this modern, digital service. The pace at which we are now migrating the local authorities has dramatically increased with 28 of the 40 completed since April 2021 and 16 of the 28 in the last six months. We attribute this progress to lessons learnt from the first 12 migrations and a commitment to continuously improve our approach."
+        },
+        {
+            "text": "Although this is the first time anyone in the UK has attempted a geospatial data transformation of this scale, timely delivery remains key. This is a challenge that needs all hands-on deck, and collaboration with our private sector and local authority IT suppliers is crucial."
+        },
+        {
+            "heading": 2,
+            "text": "Purpose built innovative tools"
+        },
+        {
+            "text": "For us to transform the local authorities\u2019 data to our exacting standards and at pace, we have developed and continue to enhance two purpose-built innovative tools. We have automated the data discovery process by combining our Data Analysis Dashboard with local authorities\u2019 software. This has reduced the analysis processing time from 3 months to 4 days on average."
+        },
+        {
+            "text": "During the early days of the programme, we travelled to council sites to manually create the spatial extents. With an average 50,000 charges per local authority and each taking 3-10 minutes, this was unsustainable. The introduction of the Migration Helper has radically sped up data cleansing by allowing multiple people to access the information remotely through GOV.UK."
+        },
+        {
+            "text": "We now use machine learning and Optical Character Recognition to extract and convert information held on scanned charge images, into textual data. The digital data is then loaded into the Migration Helper, pre-populating the data-capture screens. These enhancements have increased our per day productivity five-fold, as well as improving data quality."
+        },
+        {
+            "heading": 2,
+            "text": "Pledged support"
+        },
+        {
+            "text": "Everything we deliver is in partnership with local authorities and we are committed to fully supporting them as they transfer their service to the national register. Part of that support is \u00a340 million through transition and burden payments, which covers all their costs."
+        },
+        {
+            "text": "Maintaining clear communications with customers and stakeholders is also a priority, as such we regularly host webinars as well as attend events to give participants direct access to our experts. These sessions also give us another route to understand and address our customers concerns."
+        },
+        {
+            "text": "We are doing everything we can to ensure our customers have the information they need when required. While our Delivery Managers are available to answer questions, our Migration Hub contains extensive resources to guide and support authorities through all stages of their migration."
+        },
+        {
+            "heading": 2,
+            "text": "Award winning service"
+        },
+        {
+            "text": "The progress, benefits, and potential of the LLC Register are well recognised within the industry and we even scooped the Geospatial Innovation of the year award in 2021. We are investing heavily in understanding and unlocking the capabilities of this new national dataset."
+        },
+        {
+            "text": "While I am proud of how far we have come; I am just also excited about what will come next, especially to see what innovations come from a complete national register. Until then our objective remains the same, transform, digitise and transfer all 331 LLC registers across England and Wales into a single, simple-to-use digital service for property buyers, developers and policymakers."
+        },
+        {
+            "text": "Watch the Local Land Charges Programme video."
+        }
+    ]
+}

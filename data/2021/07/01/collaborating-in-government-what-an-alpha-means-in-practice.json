@@ -1,0 +1,116 @@
+{
+    "url": "https://services.blog.gov.uk/2021/07/01/collaborating-in-government-what-an-alpha-means-in-practice/",
+    "title": "Collaborating in government: what an Alpha means in practice",
+    "authors": [
+        "Joyce Tedone \u2013 Consulting technical architect, CDDO",
+        "Tyronne Fisher \u2013 Senior technical advisor, CDDO",
+        "Dan Bowden \u2013 Head of Digital Operations, UKEF",
+        "Paul Hosking \u2013 Delivery manager, UKEF"
+    ],
+    "categories": [
+        "Service assessments",
+        "Service transformation"
+    ],
+    "pub_date": "2021-07-01T15:35:07+01:00",
+    "content": [
+        {
+            "text": "We\u2019ve said  previously that the newly-established Central Digital and Data Office (CDDO) will provide professional leadership to the Digital, Data and Technology (DDaT) function, and collectively shape strategy and assure delivery for digital. In this blog we hope to illustrate how."
+        },
+        {
+            "text": "\u2014Chad Bond, CDDO"
+        },
+        {
+            "heading": 2,
+            "text": "Picking up from where we left off"
+        },
+        {
+            "text": "In our last blog post, we covered building capability as a fundamental cornerstone in enabling change within UK Export Finance\u2019s Digital Trade Finance Service. This, along with a slowly shifting cultural change, allowed the team to focus on reaching their next milestone: Alpha assessment.\u00a0"
+        },
+        {
+            "text": "To cut to the chase: they met all points of the  Service Standard. But how did they do that? What does it mean? What comes next? All things many service teams ask on the same journey. So let\u2019s jump right in and demystify how the team accomplished it.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Preparing for an Alpha assessment"
+        },
+        {
+            "text": "A  service assessment is often seen as a daunting challenge, but it shouldn\u2019t be. It\u2019s a point in a journey like building a plane. The hard work itself has already been done over the course of Alpha. The assessment is the chance to showcase the journey you\u2019ve been on to a team of peers. The real challenge here is collating all the evidence you\u2019ve gathered and fitting it into a single peer review."
+        },
+        {
+            "text": "On this, flying is a great metaphor for the journey of software development, as you never stop learning. Demonstrating this journey was key. They interacted with user groups internally and at various banks to ensure they solved the problem for their users. This was done as the team searched for the best technological approach in an environment and culture unfamiliar with agile delivery. At the pinnacle of building that plane was the service assessment, which some of the internal team had never done before."
+        },
+        {
+            "text": "With a supplier well-versed in agile delivery and close collaboration with CDDO the team had sure footing. At the heart of this was the ambition to deliver a service steeped in user-centric design."
+        },
+        {
+            "text": "Crucially, the service needed to be accessible to all its users, both external and internal, while adhering to government service standards. The team also wanted a service that was easy to change and improve at pace."
+        },
+        {
+            "heading": 2,
+            "text": "Tackling established user needs in Alpha"
+        },
+        {
+            "text": "In the Discovery phase, the team identified 279 user needs, some of which included:"
+        },
+        {
+            "text": "It was from these user needs, and the core needs they surfaced to tackle during Alpha, that certain choices were explored. Key areas of focus in Alpha included topics such as:"
+        },
+        {
+            "text": "One particular choice, and challenge, involved what shape the application and processing of cases would take. This highlighted the need for good evidence and why the Alpha phase was so important.\u00a0"
+        },
+        {
+            "text": "The team knew they wanted to ensure all their users, external and internal, were treated no differently when it came to ensuring their needs were met, which was a break from more traditional ways of thinking about internal users.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to approach the application and processing of cases"
+        },
+        {
+            "text": "The team had 2 approaches they wanted to explore. One was a popular off-the-shelf tool used by the department. The other was an extension of their current work, creating a fresh, simplified interface in node.js using the GOV.UK Design System.\u00a0"
+        },
+        {
+            "text": "The team did not want to recreate the user pains from the old backend service, an old workflow system built on a low-code platform that became a slow and cumbersome monolith that users despised. So, with CDDO support, the team embarked on an extended trial phase prototyping both options to find out which was the best fit for user needs."
+        },
+        {
+            "text": "Smart planning ensured that the team\u2019s delivery supplier had a solutions architect product expert to dive deep into the suitability of the product. This expert also had the experience of working across government, meaning they could point out and explore what other departments had done and open-sourced. In fact, open source patterns from the Ministry of Justice (MoJ) were ultimately used.\u00a0"
+        },
+        {
+            "text": "The work was not easy, finding the right fit against user needs whilst adhering to technology principles; yet it prepared the team for challenges not only at assessment, but from their change boards, their colleagues and leadership."
+        },
+        {
+            "heading": 2,
+            "text": "Refining the evidence, and avoiding losing the plot"
+        },
+        {
+            "text": "Afterwards, to help the team prepare, they did several dry runs before the assessment: one in the form of a show and tell \u2018mock assessment\u2019 with cross-government service standard assessors, and a sanity check to help further refine the evidence they\u2019d be showing.\u00a0"
+        },
+        {
+            "text": "Show and tells were already part of the team\u2019s ceremonies. It was as simple as inviting the right folks to one and turning it into a condensed mock review. This gave the team insight into what the assessment panel would look for, and how to present their evidence. It was also an opportunity to refine it into manageable, logical chunks reducing burden on the team and the panel."
+        },
+        {
+            "text": "For the final sanity check, they brought in their CDDO Consulting Technical Architect to do one final dry run. Like an editor with a red pen, it was a whirlwind run-through with a critical friend, leaving reams of slides on the cutting room floor (or at least, in the annex.)"
+        },
+        {
+            "text": "Then, they were ready. And they nailed it, as  the report confirms."
+        },
+        {
+            "heading": 2,
+            "text": "Navigating through Alpha into Beta\u00a0"
+        },
+        {
+            "text": "Thanks to many hours of preparation and continuous hard work from the Digital Trade Finance Service (DTFS) team, they passed their Alpha service assessment.\u00a0"
+        },
+        {
+            "text": "The team was in a great place. It had the external validation from CDDO. They were doing the right thing, working, building and thinking in a way that put users at the heart of their ambitions. This, combined with internal governance in place, meant they were good to move into Beta.\u00a0"
+        },
+        {
+            "text": "DTFS is the first project in UKEF that aligns to the Service Standard and the Technology Code of Practice. The team has taken the whole organisation on their journey, creating the right environment for effective delivery. This has laid the foundations to make it easier for service teams to be user-led, rather than tech-led in the future.\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Taking a different approach that challenges the status quo is hard - the key is to make evidence-based decisions, create networks that can advise and support you, and keep focused on the personal resilience of those under constant challenge.\u00a0"
+        },
+        {
+            "text": "Using the recommendations from the Alpha assessment, the team were able to factor these into their backlog which helped build out the roadmap for beta. \n\nIn the third blog post, we\u2019ll discuss further work on organisational change, designing with data and creating a sustainable future for the service. Subscribe to the blog to get notified about it."
+        }
+    ]
+}

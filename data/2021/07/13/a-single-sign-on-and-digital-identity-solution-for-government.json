@@ -1,0 +1,60 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/07/13/a-single-sign-on-and-digital-identity-solution-for-government/",
+    "title": "A single sign-on and digital identity solution for government",
+    "authors": [
+        "Martyn Taylor - former Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "Identity Assurance",
+        "Transformation"
+    ],
+    "pub_date": "2021-07-13T09:52:27+01:00",
+    "content": [
+        {
+            "text": "Last month Tom Read, our CEO, wrote about GDS\u2019s strategy for 2021 to 2024. Today, I want to provide an update on our work to build a single sign-on and digital identity solution for government."
+        },
+        {
+            "heading": 2,
+            "text": "The problem"
+        },
+        {
+            "text": "The impact of the coronavirus (COVID-19) pandemic has underlined people's need for swift and easy access to government services. Thanks to GOV.UK, users can already find almost all government services in one place."
+        },
+        {
+            "text": "But people are still asked to sign in and prove their identity in different ways to access different services. You would need individual usernames and passwords to file your tax return, claim benefits or apply for a driving licence. From our own research we know that many users don't understand the differences between these logins, and are confused about which ones they already have."
+        },
+        {
+            "text": "Some services need to carry out digital identity checks to make sure the people wanting to access them are who they claim to be. However, people without easy access to official documents, like passports and driving licences, are too often excluded from these simple, online routes. As government services become increasingly digital and accessing in-person ones now often relies on some kind of online interaction (like booking an appointment), it's vital that access is as inclusive as possible."
+        },
+        {
+            "text": "At the same time, departments delivering government services currently have to build or buy\u00a0 their own sign-on and identity services, resulting in people having to enter the same information time and again when accessing multiple services. Running multiple systems in this way also leads to added cost to the taxpayer and, because it is hard for different services to share information with each other, reduced capability for government to tackle fraudulent access to its services in a joined-up way."
+        },
+        {
+            "heading": 2,
+            "text": "The solution"
+        },
+        {
+            "text": "There is now a clear consensus \u2013 with strong Ministerial support across government \u2013 that it's time services are offered a better solution, and people enjoy an easier, more joined-up experience. In March, Minister Lopez set out a vision for \"one login for government\" and a key action from the recent 'Declaration on Government Reform' policy paper was to \"launch a single sign-on for online government services\". Meanwhile, the GDS strategy sets out our intention to \"create a single sign-on\" and \"a simple digital identity solution that works for everyone\"."
+        },
+        {
+            "text": "We're now working with colleagues across government to develop one simple, secure way for people to sign in and prove who they are. We are focused on reusing the deep expertise we have in government today, not on re-inventing the wheel. We're also working with colleagues across government on a roadmap for migrating existing systems to the new solutions."
+        },
+        {
+            "heading": 2,
+            "text": "Working with teams across government"
+        },
+        {
+            "text": "Building a solution flexible enough to meet the needs of different services and their users requires a cross-government effort. So, we have adopted a collaborative approach and are already working with and learning from experts from more than 30 service teams within central departments \u2013 but we\u2019d like to work with more."
+        },
+        {
+            "text": "After all, this is not a new challenge for government. It is therefore vital that our collective work builds on the many lessons we have collectively learned from products already in use across departments, including GOV.UK Verify."
+        },
+        {
+            "heading": 2,
+            "text": "Joining up with GOV.UK Accounts"
+        },
+        {
+            "text": "All of this work feeds into our vision to provide proactive, personalised and joined-up services on GOV.UK. In her blog post last month, Jen Allum, Director of GOV.UK, shared an update on the role of a GOV.UK Account in personalising users\u2019 experiences and letting people find the information they need to know, when they need to know it, on a device that works for them. Both the digital identity and GOV.UK Account teams are working towards the common goal of developing a more seamless experience of interacting with government."
+        }
+    ]
+}

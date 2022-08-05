@@ -1,0 +1,60 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/01/25/comparing-ethnicity-data-for-different-countries/",
+    "title": "Comparing ethnicity data for different countries",
+    "authors": [
+        "Darren Stillwell - Head of Quality and Standards, Equality Hub"
+    ],
+    "categories": [
+        "Data insights",
+        "Data Standards",
+        "People and Skills",
+        "Statistics"
+    ],
+    "pub_date": "2022-01-25T14:06:10+00:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "Photo by Sean McCormack-Kuhman (@sean_kuma) from Canva"
+        },
+        {
+            "text": "Sometimes analysts want to compare data on outcomes for different ethnic groups internationally. This might be because national governments want to understand how they compare with other governments across the world on certain issues. Private sector companies with offices in different countries might want to try and compare the ethnicity of their workforce in those countries on a consistent basis as much as possible."
+        },
+        {
+            "heading": 2,
+            "text": "What standards exist?"
+        },
+        {
+            "text": "\nData on some topic areas is collected using standards that are accepted by many countries. One example is the International Labour Organisation (ILO) definitions of labour market statistics.\n\nThe International Conference of Labour Statisticians (ICLS) is the global standard-setting body in this area. The ICLS agrees the definitions of the basic concepts used by labour statisticians which are then used globally for the analysis and measurement of work. These standards are crucial to ensure the consistency, accuracy and comparability of labour statistics produced around the world.\n\nComparing ethnicity data across different countries is more problematic because of:\n\n* differences in population make-up that determine ethnicity classifications\n* the importance of ethnicity in policymaking\n* the subjective nature of ethnicity\n* differences in the terms used to describe ethnic groups\n\nWe identify 2 main issues in comparing ethnicity data for different countries:\n\n* ethnicity data is not collected in some countries\n* ethnicity is classified differently in different countries"
+        },
+        {
+            "heading": 2,
+            "text": "Ethnicity data is not collected in some countries"
+        },
+        {
+            "text": "\nWhile the collection of ethnicity data is well-established in the UK, some countries such as France and Germany do not collect ethnicity information at all. \n\nIn France, the collection of ethnicity data is against the law, and is not permitted except under special circumstances. The French Constitutional Council prohibits \u201cthe processing of data of a personal nature indicating directly or indirectly the racial or ethnic origins of persons, and the introduction of variables of race or religion in administrative records.\u201d \n\nHowever many countries do collect other data that contribute to someone's cultural identity, such as their country of birth. In France, studies may be carried out on diversity of the population but these must be based on objective data, such as a person's name, geographic origin or nationality before adopting French nationality. Subjective data, such as that based on the \"feeling of belonging\", can also be collected in statistical surveys in France.\n\nIn a 2018 survey on diversity data collection from the Organisation for Economic Co-operation and Development:\u00a0"
+        },
+        {
+            "text": "\n* all 41 countries surveyed collected information on an individual\u2019s \u201cmigrant status\u201d (defined as at least one of country of birth, year of arrival in country or parent\u2019s country of birth)\n\n* 8 collected information about a person\u2019s \u201cracial identity\u201d\n\n* 17 collected information on \u201cethnic identity\u201d\n\n* 7 collected information on indigenous identity (for example, people who are Torres Strait Islanders in Australia)\n\nIn some countries information collected on \u201cmigrant status\u201d is used as a way of capturing diversity in the population and sometimes as a proxy for ethnicity. \n\nHowever, using these questions as a proxy is not recommended. The country of birth of a person does not take account of the diversity of the country of origin of the individual or the parents. It also does not include information about aspects of belonging to an ethnic group that include language, religion or other aspects of self-identified cultural identity."
+        },
+        {
+            "heading": 2,
+            "text": "Ethnicity is classified differently in different countries"
+        },
+        {
+            "text": "\nThere are complexities in every country that need to be considered when classifications are designed for collecting and reporting data on ethnic groups. These include how to best classify and describe the different groups in a population.\n\nSometimes countries can use detailed lists of ethnic groups for data collection, such as the Cultural and Ethnic Group classification in Australia. But often a country will also want a relatively short list of ethnicities that:\n\n* captures the main groups, in terms of population composition and importance for policymaking\n\n* allows people to respond quickly to surveys or other data collections\n\n* is appropriate for some survey methods \u2013 for example, a paper survey might have limited space for ethnicity categories\n\nThis need for concise lists will lead to differences in classifications between countries. \n\nIn the US, the categories \u2018American Indian\u2019 and \u2018Alaska Native\u2019 are part of the minimum standard for maintaining, collecting, and presenting data on race and ethnicity for all federal reporting purposes. In nearly all other countries the population and importance of these groups will be negligible, and so concise lists of ethnicity categories in those countries would not usually include them. In the UK white classification, the subclassifications of white British and white Irish will be less relevant in many other countries.\n\nThe US also differs from the UK in recommending 2 separate questions as a minimum for all federal reporting purposes \u2013 a question on race with 5 categories, and another on ethnicity with 2 (\u201cHispanic or Latino\u201d and \u201cNot Hispanic or Latino\u201d). Such differences introduce further difficulties in comparing data.\n\nDifferences in classifications can also occur because some ethnicity categories used in some countries, such as Gypsy in the UK, might be regarded as very sensitive elsewhere. A different label might be used to capture people who identify in a similar way in other countries.\n\nThere are also differences in the ethnicity questions within the 4 countries of the UK. This is because of the requirements of the constituent countries, and can have implications for producing outputs for Great Britain and the United Kingdom.\n\nFinally, even when ethnic groups in different countries might seem broadly comparable, there might be differences that should always be described in analysis. \n\nFor example, both the UK and the US have a white category. In the US Census, the white group includes people who identify with one or more nationalities or ethnic groups originating in the Middle East or North Africa, including Egyptian, Iranian and Lebanese. However, in the 2011 England and Wales Census, people who said their ethnicity was Iranian were more likely to be in the Asian or other ethnic group. People born in the Middle East and North Africa were more likely found in the other Asian, Arab, or any other ethnic groups than in any of the four white groups used in the Census."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "\nThe Race Disparity Unit rarely produces comparisons of ethnicity data between different countries, and this blog post has explained the main reasons why. If we ever do, comparisons must be made very carefully, and with appropriate explanations in place so that users can understand how and why data might not be completely comparable."
+        },
+        {
+            "text": "I acknowledge the assistance of Sofi Nickson and Alison Reynolds in the Office for National Statistics in writing this blog post."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

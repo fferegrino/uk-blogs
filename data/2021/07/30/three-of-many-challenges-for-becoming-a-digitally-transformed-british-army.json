@@ -1,0 +1,62 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2021/07/30/three-of-many-challenges-for-becoming-a-digitally-transformed-british-army/",
+    "title": "Three (of many) challenges for becoming a digitally transformed British Army",
+    "authors": [
+        "Brigadier Stefan Crossfield"
+    ],
+    "categories": [
+        "Digital Transformation",
+        "Programme THEIA"
+    ],
+    "pub_date": "2021-07-30T15:28:04+01:00",
+    "content": [
+        {
+            "text": "THEIA, the Army\u2019s digital transformation programme, has grown in scope and ambition since I wrote my last Defence Digital blog post. As the Army seeks to continually develop and evolve, I\u2019d like to explore three of the most challenging aspects in the hope you\u2019ll be able to share your experience and advice to help us."
+        },
+        {
+            "text": "Challenge one \u2013 culture"
+        },
+        {
+            "text": "Firstly, I\u2019d like to explore the challenge of changing an organisation that\u2019s over 360 years old and enjoys a rich tapestry of culture. Military judgement or intuition is for many an integral part, and enabler, of success. It grows alongside knowledge, skills and experience; like an unquantified superpower (analogous to the infamous \u201cright-stuff\u201d so prized by the early US space programme). We recognise that, as the Army transforms, we will need to share data with increasing impunity, but with the ever-expanding number of sources feeding us with bigger, faster and novel data sets, we cannot continue to expect commanders to use their intuition to recognise the hidden patterns and critical nuggets within the data. Resolving this will have to become the domain of machines and algorithms; being comfortable with this paradigm change will require a fundamental shift in our culture."
+        },
+        {
+            "text": "This will be critical when we\u2019re competing with an adversary, be that war fighting above the threshold (where planned activity goes past the point of go/no go and then becomes visible to the adversary), in the grey zone or supporting a national emergency in the resilience space. We will need commanders to intuitively turn to the data first, with the application of their military judgement remaining important, but only as one of a number of tools in their arsenal, not the only one!"
+        },
+        {
+            "text": "In the business space the Army has begun to shift our culture towards the data. For example, we now have a pretty comprehensive board management information pack, but the opportunity is much more than dashboards and visualisation. It\u2019s about recognising the inherent power of our data and spending time curating it to get the best insights as the technological opportunities grow."
+        },
+        {
+            "text": "However, data curation is far from engaging and it\u2019s no surprise it is often side-lined and left to functional leaders to sort out, but that\u2019s just not going to be sustainable. All leaders in the business need to own their data, for their own benefit and insight. Furthermore, as we see data democratised though open standards and the cloud, the as-yet-unrecognised utility to fellow leaders in the organisation is an opportunity we must not miss."
+        },
+        {
+            "text": "Challenge two \u2013 skills & intellectual property"
+        },
+        {
+            "text": "The second challenge is retaining skills and concomitant technical insight (you could say this latter aspect is about maintaining sovereignty over our intellectual property (IP)). The Army are working on what we need and how we can retain the right skills in a marketplace that\u2019s highly competitive and evolving quickly. We\u2019ve experimented with apprenticeships in the DevSecOps world, but ultimately many leave us for better paid roles. The result is we are currently dominated by 'As A Service' contracts, but is that the right model? What are other organisations doing to address this challenge? The RAF are currently working to train a number of software engineers and it will be fascinating to see whether or not they retain them in service and see a return on that investment."
+        },
+        {
+            "text": "Ultimately, the Army needs to think hard about value for money and sustainability of capability \u2013 and there is a lot of work still to do to overcome this hurdle."
+        },
+        {
+            "text": "I\u2019ve included the IP sovereignty challenge in here as the choices around organic skills inevitably reflect how much of the IP you can really understand, and therefore retain control over. This is important when you consider that future advances in artificial intelligence and machine learning will likely become key enablers to our commanders on the ground, speeding up the decision/action or observe\u2013orient\u2013decide\u2013act (OODA) loop and helping them out-compete our adversaries. To not know 'what\u2019s under the hood' or to be mortgaged to others to assure access is a risk the Army need to address and actively manage. That will almost certainly need much more work in how we partner commercially. The legal status and ownership of programming code and the need to have certainty about these issues will be essential, for example, in circumstances of national crisis."
+        },
+        {
+            "text": "Challenge three \u2013 Agile"
+        },
+        {
+            "text": "The last challenge concerns the Army\u2019s approach to procurement and will need us to shift the paradigm away from a traditional Waterfall, or Concept, Assessment, Demonstration, Manufacture, In-Service, Disposal (CADMID) cycle, to become nimbler."
+        },
+        {
+            "text": "The change here is to move to a model where the Army learns only enough to deliver a minimum viable product and then builds a backlog to iteratively grow the capability. However, in doing this, we need to be comfortable with either catastrophic failure \u2013 bin-it and start again \u2013 or minor fails on the path to something better. These are both real challenges for the Army. This will span policy, process and people so this change will require multiple lines of operation to stick, thus becoming the new paradigm."
+        },
+        {
+            "text": "In the policy world, work is underway to reduce the scrutiny and approvals overhead for low-complexity or low-risk programmes. In terms of process, Army Digital Services (our software and analytics house) already runs Agile processes, but we will need to scale considerably and I\u2019m aware other government departments have made great strides we can learn from."
+        },
+        {
+            "text": "Finally, people. This links back to my first challenge around culture \u2013 the Army will need to inculcate a culture that embraces the uncertain and emergent approach. We are already looking at foundation training and business skills, and training change agents to take the message out into the Army and this will also be reflected across acquisitions \u2013 a task the Land Industrial Strategy will describe when it\u2019s launched at DSEI later this year."
+        },
+        {
+            "text": "In summary I\u2019ve outlined three bold challenges facing THEIA: culture to transform, the skills to exploit and retain our IP and the need to become more Agile in how we operate across the Army. I\u2019m looking forward to hearing your advice, guidance and insights."
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "url": "https://phescreening.blog.gov.uk/2021/09/14/nbsfs-survey-results/",
+    "title": "Valuable feedback from newborn blood spot failsafe solution (NBSFS) survey",
+    "authors": [
+        "Jamili Miah"
+    ],
+    "categories": [
+        "NHS Newborn Blood Spot Screening Programme"
+    ],
+    "pub_date": "2021-09-14T09:18:19+01:00",
+    "content": [
+        {
+            "text": "The national PHE newborn blood spot screening team recently ran a survey to evaluate the newborn blood spot failsafe solution (NBSFS) system. The system is used to make sure all eligible babies complete blood spot screening."
+        },
+        {
+            "text": "Thank you to the 100 users across the country who participated in the survey. We\u2019ve already been in touch with some of you to resolve some of the issues you raised."
+        },
+        {
+            "text": "Here are some of our findings from the survey."
+        },
+        {
+            "heading": 2,
+            "text": "Failsafe statuses"
+        },
+        {
+            "text": "Many of you agreed it would be helpful to see which babies have completed screening without having to open each record individually, to see if results are available. So, we will look into adding another failsafe status, such as \u2018screening completed\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "Declined status"
+        },
+        {
+            "text": "Some users are updating failsafe status to \u2018declined\u2019 for those babies where the family has declined newborn blood spot (NBS) screening. We recommend that a blood spot card should still be sent to the lab, with the baby\u2019s details completed and \u2018declined\u2019 written in the comments box. See section 2.4 of the quick reference sampling guidelines."
+        },
+        {
+            "heading": 2,
+            "text": "Resources section"
+        },
+        {
+            "text": "Some users were not aware that the resources section contains useful links, including:"
+        },
+        {
+            "heading": 2,
+            "text": "Days column"
+        },
+        {
+            "text": "The \u2018days\u2019 column indicates \u2018days since sample taken date\u2019. We asked you whether this column is useful, and many of you felt strongly it was important and should remain."
+        },
+        {
+            "heading": 2,
+            "text": "Records mapped to the wrong maternity site"
+        },
+        {
+            "text": "Many users commented on problems with babies\u2019 records that are mapped to the wrong maternity site (a maternity site that is not responsible for the babies\u2019 blood spot screening). This problem often occurs when more than one maternity site covers a postcode. We\u2019ve raised this issue with IT system provider NEC (previously known as Northgate) which is working with those sites to find a resolution."
+        },
+        {
+            "text": "If your maternity site has these problems, please contact the NBSFS helpdesk and provide:"
+        },
+        {
+            "heading": 2,
+            "text": "Preterm babies and repeat samples"
+        },
+        {
+            "text": "Many of you said it would help:"
+        },
+        {
+            "text": "We are working with NEC to see how this might be incorporated in a future release."
+        },
+        {
+            "heading": 2,
+            "text": "Babies that move in from abroad (mover-in babies)"
+        },
+        {
+            "text": "Babies who move in from abroad do not currently have a record created automatically on NBSFS. We are working with NHS Digital to see how these \u2018mover-in\u2019 babies can be automatically moved on to NBSFS."
+        },
+        {
+            "heading": 2,
+            "text": "National search"
+        },
+        {
+            "text": "Many users said they do not always know the NHS number of a baby and it would be helpful if they could do a national search by another field, such as the baby\u2019s date of birth or mother\u2019s NHS number. Unfortunately, due to data protection rules, NBSFS can only perform a national search by a baby\u2019s NHS number."
+        },
+        {
+            "heading": 2,
+            "text": "Reports"
+        },
+        {
+            "text": "The NBSFS system produces weekly maternity site reports (see section 1.16 of the maternity operational level agreement), which many said they find helpful for monitoring red flagged babies and auditing repeats."
+        },
+        {
+            "text": "If you are a member of a maternity team and would like to receive the weekly site report, please contact the NBSFS helpdesk. If you are not a NBSFS user, the helpdesk will ask the maternity site failsafe lead to verify your name and role."
+        },
+        {
+            "heading": 2,
+            "text": "Trust mergers"
+        },
+        {
+            "text": "If your maternity site is planning a merger with another trust or hospital, please inform the NBSFS helpdesk as early as possible so the required changes in NBSFS can be made in time. Please follow the trust merger guidance."
+        },
+        {
+            "heading": 2,
+            "text": "Barcoded labels"
+        },
+        {
+            "text": "You can print barcoded labels from NBSFS. To do this:"
+        },
+        {
+            "text": "We recently updated the \u2018output based specification for barcoded labels\u2019. If your barcoded labels need to be verified to make sure they meet the required specification, see section 6 of this document."
+        },
+        {
+            "heading": 2,
+            "text": "Future release"
+        },
+        {
+            "text": "If you have any suggestions about improving the NBSFS system, you can submit a change request form (available within the resources section of NBSFS) to the NBSFS helpdesk."
+        },
+        {
+            "text": "We always welcome support with user testing before a new version of the failsafe is released. If you could spare a few hours to help us do some testing, please contact the PHE screening helpdesk. The next round of testing will take place in October and November 2021."
+        },
+        {
+            "heading": 2,
+            "text": "PHE Screening blog"
+        },
+        {
+            "text": "The\u00a0PHE Screening blog\u00a0provides up to date news from all NHS screening programmes. You can\u00a0register to receive updates\u00a0direct to your inbox, so there\u2019s no need to keep checking for new blogs. If you have any questions about this blog article, or about population screening in England, please contact the PHE\u00a0screening helpdesk."
+        }
+    ]
+}

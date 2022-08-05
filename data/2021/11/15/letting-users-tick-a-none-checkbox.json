@@ -1,0 +1,82 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/",
+    "title": "Letting users tick a \u2018none\u2019 checkbox",
+    "authors": [
+        "Frankie Roberto \u2013 Interaction designer, Department for Education"
+    ],
+    "categories": [
+        "Design System",
+        "Interaction Design"
+    ],
+    "pub_date": "2021-11-15T11:45:39+00:00",
+    "content": [
+        {
+            "text": "We\u2019ve recently updated the GOV.UK Design System to add a new feature to the existing checkboxes component. This was the result of research and collaboration from across government, and we think it will benefit users in lots of services. If you use checkboxes in your service, here\u2019s some things you should know about adding a \u2018none\u2019 option to your questions."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019ve added a \u2018none\u2019 option to checkboxes"
+        },
+        {
+            "text": "We\u2019ve called this feature the \u2018none\u2019 checkbox, although you should label this checkbox specifically to suit your service."
+        },
+        {
+            "text": "Unlike radio buttons which only allow a single answer, checkboxes allow users to select as many options as needed."
+        },
+        {
+            "text": "Often, it\u2019s fine to answer a question by leaving all of the checkboxes unchecked. However, several teams across government have found a few issues with this."
+        },
+        {
+            "text": "They saw that:"
+        },
+        {
+            "text": "To solve these issues, several teams started adding checkboxes for users to answer with \u2018none\u2019 (the exact wording was different across services) and requiring at least one checkbox to be ticked."
+        },
+        {
+            "text": "We\u2019ve added further support for this by displaying the \u2018none\u2019 checkbox after a small \u2018or\u2019 divider. Radio buttons already follow this pattern to help to make it clear that the \u2018none\u2019 option is different from the others."
+        },
+        {
+            "text": "Finally, we also added some JavaScript code to prevent users from ticking the \u2018none\u2019 checkbox as well as one of the others. This is to avoid users giving contradictory answers."
+        },
+        {
+            "heading": 2,
+            "text": "When to use this new feature"
+        },
+        {
+            "text": "Use this new feature wherever services already have a \u2018none\u2019 checkbox. It can also replace any guidance that tells users that they can leave all boxes empty."
+        },
+        {
+            "heading": 2,
+            "text": "How to create the \u2018none\u2019 answer"
+        },
+        {
+            "text": "Avoid giving directions like \u2018none of the above\u2019, as this implies a visual reference that may not be relevant for users of screen-reading software. Instead, use \u2018none of these\u2019 or similar."
+        },
+        {
+            "text": "Mention part of the question, instead of a generic answer. For example \u201cI\u2019ll be doing none of these activities\u201d instead of just \u201cnone of these.\u201d"
+        },
+        {
+            "text": "When writing the question, make sure that it can be answered with all your possible answers, including the \u2018none\u2019 option."
+        },
+        {
+            "heading": 2,
+            "text": "Alternatives you should consider"
+        },
+        {
+            "text": "If the user does not need to see the list to know that none of the options apply, consider asking a filter question first. This helps the user avoid having to scan a page looking for a \u2018none\u2019 option, particularly if it\u2019s a long list of checkboxes."
+        },
+        {
+            "text": "Based on the user\u2019s answer to the filter question, you can either show the list of checkboxes on the next page, requiring at least one to be ticked, or skip the checkboxes entirely."
+        },
+        {
+            "heading": 2,
+            "text": "Further research\n"
+        },
+        {
+            "text": "Let us know if you find this new feature helpful, and especially if you discover any issues with it via user research. Get in touch with the team, or comment below, if you have any questions or feedback."
+        },
+        {
+            "text": "Add user research findings by messaging the Design System team on x-gov slack or adding a comment to the GOV.UK design system backlog in Github, where there\u2019s an open issue on checkboxes."
+        }
+    ]
+}

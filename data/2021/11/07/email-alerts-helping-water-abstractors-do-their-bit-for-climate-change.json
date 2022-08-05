@@ -1,0 +1,73 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2021/11/07/email-alerts-helping-water-abstractors-do-their-bit-for-climate-change/",
+    "title": "Email alerts \u2013 helping water abstractors do their bit for climate change",
+    "authors": [
+        "Mark Harvett"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra services",
+        "Digital transformation",
+        "Software tools",
+        "User research"
+    ],
+    "pub_date": "2021-11-07T08:00:06+00:00",
+    "content": [
+        {
+            "text": "The Water Resources Licensing Service (WRLS) is a service that allows abstraction licence holders to manage their licences online. They can view their licences, delegate access to their account and submit information about how much water they have taken."
+        },
+        {
+            "text": "WRLS is replacing a legacy Environment Agency (EA) system, which is no longer fully supported, to manage England\u2019s water resources. In June, for the first time, the WRLS was used to bill abstractors."
+        },
+        {
+            "text": "The creation of this service for water abstractors has been a collaborative effort between the EA and colleagues from Defra\u2019s Digital Data and Technology Services (DDTS) function. The teams have been working on it, together, for the last four years."
+        },
+        {
+            "heading": 2,
+            "text": "Water abstraction alerts - how they work"
+        },
+        {
+            "text": "One of the key features of this new service is Water Abstraction Alerts (WAA). Around 3,000 abstraction licences include conditions which mean abstraction must stop or reduce when it\u2019s dry. These conditions protect the environment and rights of other water users."
+        },
+        {
+            "text": "Since licensing started, the EA has used a variety of methods to alert abstractors of the need to stop or reduce their abstraction. Most of these are labour intensive, slow and carry data risks."
+        },
+        {
+            "text": "Even the newest feature (released in 2019), using WRLS to post alerts from the Government\u2019s Notify service, is relatively slow and once a dry period ends, abstractors can miss out on taking water which is valuable to their businesses. The EA estimate this water is worth up to \u00a313.7m per year to the economy in England. To address this, they have been working on a better system to alert abstractors."
+        },
+        {
+            "heading": 2,
+            "text": "Discovery and creating our minimum viable product (MVP)"
+        },
+        {
+            "text": "The delivery team working on this has included User Researchers, Interaction designers, Business Analysts and Content Designers, sat alongside Product Owners, a Service Owner, and a Digital Advisor from the EA digital team."
+        },
+        {
+            "text": "We worked with subject matter experts in the EA to help create our MVP \u2013 the minimum we\u2019d need to do to send a WAA. The MVP included improving the alert content so licence holders would get clearer instructions about the action they need to take and be able to act on the instruction more quickly."
+        },
+        {
+            "heading": 2,
+            "text": "Designing around the users"
+        },
+        {
+            "text": "The agile approach to developing digital services which we\u2019ve taken is based on the Government's Service Manual, which sets out how to create and run services. It\u2019s pleasing to see what we\u2019ve achieved through this way of working; the close collaboration has been an approach that I\u2019ve really enjoyed."
+        },
+        {
+            "text": "Using the MVP blueprint, we worked with users to develop and test screens and refine messages over several months. During these sessions we gained a deeper understanding of the process for managing and receiving WAAs, which helped to reduce risk and increase confidence in what the team was planning to build. As part of this, meetings were facilitated with EA staff and abstractors to get their input."
+        },
+        {
+            "heading": 2,
+            "text": "From development to reality"
+        },
+        {
+            "text": "We have secured approval from the EA for the overall WAA feature and colleagues are now using the WRLS to link licences to monitoring stations, ahead of the planned launch of email alerts early next year. We believe these alerts will be key in helping abstractors adapt to climate change. As river and groundwater levels fluctuate with climate change, they\u2019ll allow abstractors to be in-sync with available water resources, rather than waiting for postal alerts which are slower, and therefore not always up to date."
+        },
+        {
+            "text": "Looking ahead even more features are expected to be added to WRLS in the future. Watch this space!"
+        },
+        {
+            "text": "Find out more about Global Day of Action for the Climate"
+        }
+    ]
+}

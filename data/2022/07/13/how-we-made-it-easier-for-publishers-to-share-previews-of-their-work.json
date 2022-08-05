@@ -1,0 +1,104 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/07/13/how-we-made-it-easier-for-publishers-to-share-previews-of-their-work/",
+    "title": "How we made it easier for publishers to share previews of their work",
+    "authors": [
+        "Tobi Ogunsina, Senior Product Manager, GDS",
+        "Ollie Treend, Senior Developer"
+    ],
+    "categories": [
+        "Content",
+        "Product changes"
+    ],
+    "pub_date": "2022-07-13T08:54:20+01:00",
+    "content": [
+        {
+            "text": "There are more than 500,000 pages on GOV.UK. This means there\u2019s a lot of content on the site, with thousands of items edited and published every week."
+        },
+        {
+            "text": "Most civil servants publish content on GOV.UK using a tool called Whitehall - a bespoke content management system. Publishers will only put something live once it has gone through various checks and reviews to make sure all content on GOV.UK is accurate and formatted correctly."
+        },
+        {
+            "text": "This review process often leads to people who aren\u2019t publishers needing to see a draft of the content before publication. However, only people who regularly publish on GOV.UK have access to publishing tools like Whitehall. This could lead to frustrations when sharing drafts with workarounds including taking and sharing screenshots, which all took time and effort."
+        },
+        {
+            "text": "We\u2019ve now improved the process so that publishers can share previews of their content quickly and easily with anyone who needs it. This improvement will make it easier for the thousands of civil servants who work on GOV.UK every single day to do their jobs."
+        },
+        {
+            "heading": 2,
+            "text": "The user need"
+        },
+        {
+            "text": "Reviewing content before publishing it is a standard part of the content design process on GOV.UK. The people involved in reviewing content before it's published on GOV.UK could include:"
+        },
+        {
+            "text": "We knew there was frustration that people couldn\u2019t share a preview of their draft content with the people who needed to check or approve it. Our research indicated people were using some time consuming workarounds, such as installing extra software for screenshots."
+        },
+        {
+            "text": "For pages with lots of linked attachments, for example: COVID-19 Response: Autumn and Winter Plan 2021, this adds time and effort to the publishing journey and makes it harder for people without access to publishing tools to preview draft content."
+        },
+        {
+            "text": "This was a problem that affected a lot of civil servants working on GOV.UK. In the last 6 months, we\u2019ve had more than 2,000 active publishers who have edited more than 100,000 pages in Whitehall. We estimate that more than 75% of that involves a review of the draft content on GOV.UK, probably multiple times by multiple people."
+        },
+        {
+            "text": "So we knew that improvements here would make a big difference."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "Our approach is based upon the JSON Web Token web standard. We generate a random value in our publishing tool, the auth-bypass-id, and we use this to create a cryptographically-signed token which can be used as a query parameter for the URL. The use of cryptography prevents a user from being able to guess a document's auth-bypass-id."
+        },
+        {
+            "text": "When a publisher wants to share this draft content with someone, they can use the \u2018shareable preview\u2019 link. This is made up of the normal link to the content on our draft site, and a query parameter containing a \u2018token\u2019. This token contains some data (including the auth-bypass-id) securely encoded as a JSON web token."
+        },
+        {
+            "text": "This means that when a reviewer accesses the content via the shareable preview link, their token is decoded and the auth-bypass-id contained within it is compared to the auth-bypass-id stored on the edition. If it matches, great! The reviewer can see the draft content, as it would appear on the website, without needing to log in to anything. If it doesn\u2019t match, they will not be able to see the draft, but will be asked to log into the publishing tools."
+        },
+        {
+            "heading": 2,
+            "text": "How it works now"
+        },
+        {
+            "text": "With this solution, publishers can now save a draft edition, open the \u2018share document preview\u2019 panel and get a shareable document preview link."
+        },
+        {
+            "text": "This link can be shared with anyone who needs to preview the draft content as it will appear on GOV.UK. After the content is published on GOV.UK, the shareable document preview link will no longer work. If a publisher creates a new edition of their content, they can get a new shareable document preview link."
+        },
+        {
+            "text": "The shareable preview links are very secure. Publishers are told in the publishing tool when they copy a link that anybody with the link can view it and that they are responsible for who they share draft documents with."
+        },
+        {
+            "text": "If the link is shared with someone it should not be shared with or if they no longer want to share the preview of a draft, publishers will be able to generate a new shareable document preview link. This means the previous link will no longer be valid and they\u2019ll need to reshare the link if needed."
+        },
+        {
+            "heading": 2,
+            "text": "The results so far"
+        },
+        {
+            "text": "This solution was launched on 22 June 2022 and in the first 2 weeks, the shareable link option was used 1,202 times, with some links viewed as much as 25 times."
+        },
+        {
+            "text": "We\u2019ve had feedback from publishers, who say:"
+        },
+        {
+            "text": "As mentioned above, we have lots of people editing lots of content in Whitehall. Our improvements will save those people time and ultimately save the government money."
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch"
+        },
+        {
+            "text": "We are continuing to make improvements to the publishing experience. If you have any questions or feedback about this update or publishing, you can reach us by emailing publishing-service-feedback@digital.cabinet-office.gov.uk."
+        },
+        {
+            "text": "We\u2019re also running regular research to learn more about how people use the publishing tools or test ideas for how things might change."
+        },
+        {
+            "text": "If you sign up, you could be invited to activities like showing the team how you complete a task, talking to us about your experiences of publishing on GOV.UK, or testing new designs. We usually only ask you for an hour of your time and you are more than welcome to say no."
+        },
+        {
+            "text": "To sign up and take part in user research, sign up through the Google form or by emailing publishing-service-research@digital.cabinet-office.gov.uk."
+        }
+    ]
+}

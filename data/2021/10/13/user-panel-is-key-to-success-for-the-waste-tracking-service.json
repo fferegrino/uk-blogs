@@ -1,0 +1,70 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2021/10/13/user-panel-is-key-to-success-for-the-waste-tracking-service/",
+    "title": "User panel is key to success for the waste tracking service",
+    "authors": [
+        "Laura McNulty"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra interaction",
+        "Defra services",
+        "Digital transformation",
+        "User centred design",
+        "User research"
+    ],
+    "pub_date": "2021-10-13T09:41:28+01:00",
+    "content": [
+        {
+            "text": "The waste tracking project is a partnership between Defra, the Department of Agriculture, Environment and Rural Affairs (DAERA) in Northern Ireland, Scottish Government, Welsh Government, Environment Agency (EA), \u00a0Scottish Environment Protection Agency (SEPA), Natural Resources Wales (NRW) and the Northern Ireland Environment Agency (NIEA)."
+        },
+        {
+            "text": "The project is developing a single digital service that will make it easy to track waste and resources in real time throughout the economy. This will improve the quality and accuracy of waste data and make it more accessible and useable by businesses, regulators, and government."
+        },
+        {
+            "text": "The service is being developed using agile methods in line with the Government Digital Service Standard which puts understanding users at the forefront. The discovery phase taught us a lot about the needs of users and it put us in touch with many stakeholders across the industry."
+        },
+        {
+            "heading": 2,
+            "text": "Establishing the user panel"
+        },
+        {
+            "text": "As part of the project, we\u2019ve established a Waste Tracking user panel to ensure organisations and businesses producing or managing waste across the UK (for example, waste producers, operators, carriers and brokers, exporters and major trade bodies representing wider waste and environment interests) are involved in the project."
+        },
+        {
+            "text": "We had 600 members in 2019. This increased to 1,200 by mid-2020 thanks to a social media campaign and direct contact with users and stakeholders which ensured the widest possible input from industry These businesses and organisations have provided feedback through interviews, online surveys and usability testing as we started building prototypes."
+        },
+        {
+            "text": "When users sign up they provide basic information about their business/organisation e.g., size, sector, and location, via an online form. This means we can direct our user research activities to relevant users and draw on the right expertise when we need it."
+        },
+        {
+            "heading": 2,
+            "text": "Adapting in a pandemic"
+        },
+        {
+            "text": "In the early stages of the project we engaged with users through site visits, one-to-one interviews, and workshops but moved these activities online once COVID-19 hit. Luckily, through our ability to operate remotely across the UK, the transition was easy and project progress was unaffected. Panel members completed easy, short online surveys on a range of topics including current systems for recording waste, and user roles and permissions."
+        },
+        {
+            "text": "A range of representative users were also invited to participate in online usability testing of prototypes through completing tasks such as entering data into online forms and reviewing user dashboards while talking through what they were doing in real time which is noted by a moderator."
+        },
+        {
+            "heading": 2,
+            "text": "Feedback is key to understanding user needs"
+        },
+        {
+            "text": "Early responses to user research confirmed industry support, a strong need for the service, and, perhaps most importantly, a willingness to engage in future work. Response rates for our surveys have been good and the information gathered has been used to define what our users need from a waste tracking service and to understand more about the issues they currently face. This has allowed us to create personas for typical users to help define the functionality of the service."
+        },
+        {
+            "text": "Usability testing of prototypes allows us to gather detailed findings on the usability of the product and use this feedback to improve the design of the service to make it easier and more intuitive for users. A good example of this is when we designed one of our prototypes as a linear journey which required every data field to be completed in turn until users told us that, in the real world, not all of the information is available at the start. Taking on board this feedback we redesigned the journey so that users could complete the fields in any order they wish and use estimated values until the actual values are known."
+        },
+        {
+            "text": "One user researcher on the project said this about the user panel:"
+        },
+        {
+            "text": "\u201cThe relatively high response rates to our invitation surveys and the willingness of panel members to take time out of their busy days to attend usability tests of the prototypes have been remarkable indicators of the commitment of panel members to deeply engage and contribute to the ultimate success of the waste tracking service.\u201d"
+        },
+        {
+            "text": "Understanding the needs of the service user has been critical when developing our prototypes. Interaction with panel members will be an ongoing process throughout the project\u2019s research and build phases."
+        }
+    ]
+}

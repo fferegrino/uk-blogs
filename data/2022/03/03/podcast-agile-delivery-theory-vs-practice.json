@@ -1,0 +1,553 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/03/03/podcast-agile-delivery-theory-vs-practice/",
+    "title": "Podcast: Agile delivery - theory vs practice",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "agile teams",
+        "Delivery Manager",
+        "Podcasts"
+    ],
+    "pub_date": "2022-03-03T16:26:11+00:00",
+    "content": [
+        {
+            "text": "Agile started out as an alternative approach to software development and is now applied more widely to running other types of projects. But how does the theory of agile delivery differ to what it's like in practice?"
+        },
+        {
+            "text": "In this episode of the DWP Digital podcast, we catch up with Barry Traish, Hannah Dell'Armi and Shafiq Porter from our Delivery practice who share their thoughts and experiences."
+        },
+        {
+            "text": "They discuss the common challenges agile teams face, the differences between agile in the public and private sectors, and share their advice to building a strong and sustainable agile team."
+        },
+        {
+            "heading": 2,
+            "text": "Listen now\u00a0"
+        },
+        {
+            "text": "You can listen now on:\u00a0"
+        },
+        {
+            "text": "A full transcript of the podcast can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode\u00a0\u00a0"
+        },
+        {
+            "text": "Over the next few months, we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people.\u00a0"
+        },
+        {
+            "text": "\u00a0Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts.\u00a0"
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Careers at DWP Digital\u00a0"
+        },
+        {
+            "text": "Visit\u00a0our\u00a0Careers site\u00a0to find out more about joining us.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Welcome everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're talking about the theory of agile delivery versus what it's like in practice. And don't forget, if you're interested in technology and the types of things we do, hit the subscribe button now to make sure you don't miss an episode. So let's make a start on today's episode. Barry, Hannah and Shafiq - would you mind introducing yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "Hi, I'm Barry Traish. I'm the head of role for agile delivery in DWP Digital group. I've been a civil servant for 27 years, so I'm a lifer. And most of that time I've been in technical roles as an engineer and developer and a Unix system admin and I moved into project delivery and became a delivery manager and a senior agile delivery, lead agile delivery manager. And last couple of years I've been head of role."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "Hi, my name is Hannah Dell' Armi, and I'm an agile delivery manager at DWP Digital working within Health. And I've been a civil servant for two years now. And prior to that I worked for over 10 years within digital agencies, building ecommerce websites and internets within the private sector. In terms of job roles, I've been a project manager, I've been a marketing executive, I've been a delivery manager, studio manager, production director and lots of different things within delivery."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I am Shafiq Porter I am the lead agile delivery manager in Shared Channels Experience in DWP Digital, specifically working in strategic delivery in tech. Background to me, I\u2019ve been with DWP, I came in actually as BPDTS - I would say this as if it's a Korean pop group, but it's BPDTS is the group that organisation I came with, which was DWP's IT organisation that recently has come back into the DWP as a formal function of DWP. So now I'm a civil servant. And that was in July. So I've been part of altogether DWP and BPDTS for nearly three years now. Before that, I worked in private sector and information security. And before that, I basically had a long history of working, doing projects, initially kind of working in humanitarian aid, and moved over to IT and tech guess about 10 years ago now."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So would you mind sharing your thoughts and experiences around the theory of agile delivery versus what it's like in practice?"
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "Stuart, you hit one of my favourite questions, I think. So as a leader, I have an interesting bird's eye view of how it operates. Being a scrum master myself on the ground, and then going into a space now where I lead multiple teams is a very interesting space. And I've had the joys of having teams and work with other people in different capacities that are either very understanding of how agile is a tool and a framework in which we used to deliver. And also those that are zealots and they they pray to the God of agile. And so it's a very complicated space. And in government, we have all the fun of trying to implement agile in an effective way that's meaningful and honest and effective. But also with constraints that are well outside of our hands at most, that most agile delivery managers are Scrum Masters we never had to deal with."
+        },
+        {
+            "text": "So it's a very complicated space. And I think that difference between theory and practicality, is something that becomes obvious. And I think we're at an interesting space. And I don't know, I can\u2019t remember Barry and Hannah\u2019s background, I think equally, you've got team agile teams, and agile delivery managers that have never done waterfall. They've gone to university, they've studied agile delivery, and they've come out of university, work with us, and they only ever know agile delivery. So you now have the complexity of a waterfall process delivery being completely foreign to them, working in a waterfall and agile delivery space."
+        },
+        {
+            "text": "So that practicality of understanding that all the work that we do whether you are a diehard waterfall fan, or whether you're a diehard for the agile frameworks, the reality is that when you come and work for government and anywhere else to be very honest, there's a practical limitation of that. And we're no different, right?"
+        },
+        {
+            "text": "And so the exciting part is that it's what we talked about earlier being able to develop a culture that is meaningful for us, we we\u2019re able to integrate all those into one where you can take that theory and keep us honest, right? Because some of us have become old heads in that process that have just either been battered down, because we've been sucked to do a certain way to deliver and that\u2019s the best we could do it or not. It allows us to keep honest when we have those purists who understand and keep us honest, as well as mixing that with those that have been here for a while, have worked in different spaces and had that wisdom to help us effectively do it. It's that combination and what we keep talking about, that kind of that place for community, that place for understanding and engagement across a team, that sharing of knowledge, it\u2019s how we do it, right."
+        },
+        {
+            "text": "So when we pull those two together, we do amazing. Bu we are in the state, we have definitely that space, we have that split between the zealots. And we have the those on the far side that have said, \u201cI know what I'm doing, leave me alone to do it\u201d, and those in the middle. So we cover all three camps very well in government. We work them to our success and to our own challenges depending on what's going on."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think for me, I think I probably sit somewhere in the middle. But I think I'd like to refer to myself as an agile pragmatist. So I think I have an appreciation of theory. And I think it's important, but I think in the real world, it doesn't necessarily work out that way. And that's not just true of agile delivery, that could be true of any profession, you know, like you can read things in a medical textbook, but actually performing an operation yourself doesn't necessarily always go by the book. And I don't think it's any different in this space."
+        },
+        {
+            "text": "I think, for me, though, some of the dangers or the pitfalls of it is that you end up in a situation where potentially doing Scrum by the book, and doing well becomes the goal, not actually delivering the product. And I think sometimes that's quite difficult to get over."
+        },
+        {
+            "text": "And I don't think we help ourselves. Because I think sometimes from a community perspective, we are obviously sharing a lot of the theory. And we are sort of telling people how to do things and buy the book. And but maybe what we should become more open to doing is sharing the ways in which people are actually implementing it, sharing what has worked, sharing what hasn't, and being very open about the fact of how we do things. And because otherwise, I think maybe new people that join us may think that oh, well, we're all like you say evangelists of the scrum guide. And I don't think that's necessarily true in the trenches, as it were."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "I 100% agree with you, Hannah. The objective isn't being agile, the objective is delivering value. And some people forget that. It's interesting about those agile evangelists versus pragmatists. And I guess I'm like you, I'm somewhere in the middle. I worry sometimes that when we say, \u201cYou don't have to be exactly an agile zealot, you don't have to follow everything to the letter\u201d, that people aren't using it pragmatically, using most of those really reasoned sensible principles. But they use that as an excuse to not do any of it. And just to do a little bit of superficial window dressing on old fashioned waterfall processes. And I've certainly seen a lot of that over time."
+        },
+        {
+            "text": "And I have a cause for reflection for myself, and we should all reflect and learn. Every day's a school day. Am I going too far? Should I be promoting much more of that pragmatism? Is it my inherent distrust that does that? And should I be a more open person to avoid those people that want to just window dress up superficial agile? We'll need to reflect on that about how things are actually done."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think there's a difference there, isn't there? I mean, I don't think we're suggesting that you take the scrum guide and you use it like pick a mix, and you pick and choose which bits you want. I think the pragmatist part of me, sort of sees it as it's window dressing, if you don't, if you don't get it. You have to understand it know how to be pragmatic about it. And I think some of the window dressing sometimes happens where there is a misunderstanding about what people should be doing, and what's right, and you\u2019re window dressing because you're just picking the things that people have mentioned. So maybe you're deciding, \u201cOh, well, I'm going to do ceremonies or I'm just going to do a stand up,\u201d because I've heard that's what we do. Knowing why you're choosing not to do something or why you're choosing to do something I think is where potentially that bit\u2019s missing from that from that setup."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "And I think people need to recognise where they are in that level of maturity. So I think you Hannah are a really mature agile practitioner and you have that wisdom. In the Shu-Ha-Ri, you're in the Ri where you can break the rules because you understand why there are the rules. But for many people that exist in our organisation and other organisations, they're breaking the rules because they don't know what the rules are even."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "Oh, Barry, you're singing sweet songs. I haven't heard anybody mentioned Shu-Ha-Ri in so long. It's such an important space and I actually use that when I worked in the product change management. I remember to help implement and introduce agile delivery. Remember using Shu-Ha-Ri as a model, so you've totally brought me back. But I agree with both you I think there's this kind of, I think we want to be as much of the middle as we can with this. There's no doubt about it."
+        },
+        {
+            "text": "And you know, you see the window dressing, you guys got window dressing, I think of it as kind of agile hippies, right. Like, \u201cEverything's agile, dude. It's all cool.\u201d You know? Like, that's, that's kind of how I think of how we see it. But I think you have the other side is that danger of like you said, where it's all good theory and you've got the most beautiful, agil- ish team, but they're actually not delivering anything. And that's seen as okay, and I think it's coming to that middle space that we\u2019re all trying to drive towards, that we see agile as a framework and a tool, as you said, Barry, like I said to deliver."
+        },
+        {
+            "text": "It's what we do, and whether you whatever tool bag you come with, whether it be the waterfall, or whether it be agile, at the end of the day are you delivering is really what we're being assessed on. Obviously, as am agile delivery manager we have that inherent space, we want to also be judged that we're also effectively creating a space that's conducive for an agile delivery. So I get that, but I think it's a balance. And it\u2019s exactly like you said, going back to the beauty of the Shu-Ha-Ri, being in that level of maturity in your agile development to know what's right, what's wrong, and what you're comfortable compromising on and what you're not."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think the Shu-Ha-Ri is good for that example as well in that don't expect the if you do implement it from day one by the book that that automatically means that it's going to work. Like if you are still in that initial phase, it's not going to happen overnight. It's not a quick fix. And I think sometimes that is a danger as well. You have to get to that point where it's mature. And your understanding is mature that you're able to do that."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So from your experience, what are the most common challenges organisations and agile teams face?"
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "Really good question. I think one of the common things that we're seeing, I guess, that kind of experience of coming from private sector and coming into government, what we're seeing now is an evolution of agile. So 10, I guess 10-12 years ago, most of us were trying to teach people the basics of what agile was. Now we're at a space where organisations are creating their own culture of what agile delivery is. And we're seeing some really good and horrendous examples of how that's going."
+        },
+        {
+            "text": "Each area and that's the interesting part about agile is that each organisation as its evolving in its kind of agile development, is finding some really interesting things along the way, both in organisational structure, financing, people, morale. So each organisation is handling it quite differently. And I think what we're seeing, both in DWP, from the people that are coming into DWP, as well as trying to keep people captivated in that space, is sometimes that divide between what people see as purists in the agile world. That kind of, you know, \u201cI work in my strap line,\u201d which most people are probably sick of is, you know, \u201cI talked to my delivery manager and remind them you don't work in Google's R&D department for agile delivery.\u201d So there are some basics and some expectations on how it works for each organisation and organisation-specific like DWP have its own constraints that have to be accommodated and understood. But I think what we're seeing across industry, both private and public sector is creating a culture of agile that is meaningful and works for the organisations that are there."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think when you when you look at an organisation as a whole problem, it's when you get sort of like pockets of the organisation that embrace agility. But you can't just have pockets of teams embracing it. So, for example, agility for me, isn't just about a team sprinting, adopting ceremonies, or even just releasing on a regular cadence. And then having leaders sort of claim that their teams are agile, and their companies are agile because of it. I think agile needs to be embraced across the very core of the organisation for it to work."
+        },
+        {
+            "text": "So I think for us, a common problem that I've certainly experienced is where you have delivery teams who are pushing up against sort of very rigid legacy processes. And like the examples of those, are there for very good reason, you know, they're there to protect the citizens such as policies and governance. And but quite often, I do sometimes question if the amount of it is still fit for purpose as it exists now."
+        },
+        {
+            "text": "And you've got the likes of GDS providing support for agile teams, and they have sort of like delivery phases that are there to assist. But at what point do those delivery phases become rigid stage gates instead of the checkpoints for reflection and adaptation I think they were originally designed for? It's quite tricky to navigate."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "So in DWP I think some of the most successful projects we've had are where we've been able to have cross functional teams. So we're all used to multidisciplinary teams, where you've got all the different roles in one team, like the engineers and the testers and the designers. But having cross functional teams, where you perhaps got people from policy involved, where you've got your business stakeholders embedded in the team. That is something that worked really well. And those projects tend to work better. Because you're not then building something where you have to go and present it out to some external body and say, \u201cIs this what you wanted? Is it right?\u201d They\u2019re there making decisions with you at the time. We do still have ones where that's harder, because sometimes our stakeholders don't want to do that, they don't understand agile processes, they come from a waterfall business. If they're not working in software delivery, then some of the things they need to coordinate like big operational changes, opening a contact centre, for example, those things have to work on a more fixed deadline. And so they struggle. And really, what we need are people who can push back and educate our stakeholders and build those cross functional teams."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "So I think as I mentioned, this evolution is I found really interesting. I think, years ago, starting off that kind of process of just teaching it and now seeing evolve, there's been some interesting behaviours that I mentioned, and both of you touched on things that I thought were really whether it was the GDS, you know, tip toe that you put your toe into Hannah. The cross functional teams, I think there's an interesting space and some missing spaces as well, where I don't think we've actually matched up all of our legacy processes and ways which in we deliver projects with the new way of doing it. And so we\u2019ve got bit of a muddled culture at the moment."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think that's it linked in. So when I'm talking about pockets, you will have sort of like newer teams, like I suppose in the grand scheme of things in the Civil Service, DWP Digital is fairly new, when you think about all the other processes that are in place and the policies. So when they are butting up against."
+        },
+        {
+            "text": "I mean, I'm very much on board with what Barry said around bringing them into teams. I've worked in teams where policy have been part of the delivery team and that, to me has been really effective. And it doesn't answer all, all the all problems, you know, sometimes they don't have the answers, and they have to go back into that into that world. But it's definitely very good for getting very quick feedback. We do it at the moment with operations where we're looking for very, very quick instant feedback on things that we're doing to make sure that we don't get a nasty surprise further down the line, which would essentially be like a big bang to operations, \u201cTada, here's the thing, now it's your problem.\u201d And so having them involved is invaluable to us."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "We're definitely still on a journey, though. And there's multiple reasons for that. I think some of our teams, the things that they deliver, are best delivered in a waterfall fashion. You know, if you're going to roll out a new PC to 700 jobcentres, that is probably a waterfall task. And it's that maturity to know which methodology\u2019s appropriate way. That's the thing I think we don't always have. So sometimes we're still muddling along with some of those waterfall processes that we've had in place on teams and people don't see they should adapt. And that's really hard when you've been doing it for many years."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I think Barry you hit on the topic there. You can still be waterfall and have an agile culture. And I think that's the part that seems to be missing in the conversation. I think at the moment, I think there are a lot of processes, and working for government we know there\u2019s lots of, as Hannah mentioned, some really necessary processes around our governance. But there's some that are not. And there there's an inability at the moment, I think, to really separate what's necessary for effective agile delivery from processes that protect us as an organisation and protect the citizen at the end of the day. I think there's still that separation."
+        },
+        {
+            "text": "And I think it's natural for most organisations, don't get me wrong. But I think we're even more mired by those processes that existed long before we were born some of us, to kind of get this right. So we're kind of right in the middle of trying to deliver these amazing digital processes and services and projects, but also mired by things that do need some unpicking without a lot of time to figure out how we unpick it"
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "So that culture is really important, but how do you change culture? It's impossible to do quickly. I think you do it through setting examples, through showing stuff that actually works, through highlighting some of the failures of where things have gone wrong as well. But we don't want to focus on the negative. Through bringing in new people. And through having conversations with thought leaders with people like yourself Shafiq."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "It's a good point. I think one of the things that as far as industry that also I've seen work really well, is that retros that really are meaningful. I've seen retros work when truly an organisation knows how to have an effective retro, to take and to look at those challenges to move forward. And I think that's something that organisations trying to figure how to get that right balance between how do you have an effective space and a retro, where when you're looking at programmatically like Health and Disability where Hannah\u2019s from. I've lived that world, I ran that world. It's not an easy process trying to get that space. And I know you see it across all the different patches, Barry, but getting that space where retros and conversations about what's necessary to change. I think that's still a challenge for most organisations, and we're as guilty as any other."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think that's true. And I think for me, there's a big thing around people thinking that if they don't do certain things, like if they're not sprinting or they're only doing some ceremonies, but they're not doing others, then they're not doing it right. And therefore they don't do it at all. And I think there is definitely something in what you're saying they're like, there's no reason why a team who maybe is working in a more waterfall fashion can't have retros, or we can't have retros with our operational colleagues, because we definitely do that, because there's benefit in having those conversations. As long as you're getting that collaboration, it's not necessarily wrong, and it's a step in the right direction."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "Again, you know, it's a journey. We're all on the journey. You all read on LinkedIn about, you know, Scrum purists and this and that, but if you\u2019re 90% of the way there, or if you 10% of the way there, that's better than being 0% of the way there isn't it?"
+        },
+        {
+            "text": "We always worry about superficial agile, about where people are doing all the ceremonies, where they hold all the meeting standing up. And instead of instead of writing something on a piece of paper, they write on a post it note and they take their Gantt chart, and they reproduce it in JIRA. We worry about that stuff a lot. But actually, we should probably be more interested in celebrating the success of where people do start running retros or start saying, \u201cThis is the date that we're aiming for. But actually, here's the probability of hitting that date.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "Yeah, and I think there's something in it for us as a community where we need to create an environment where it isn't about just \u201cdoing it properly\u201d. Like there is space and people feel safe, that they are able to stand up and say, \u201cI know I'm not doing this 100% right, but this works for me. And this is how we're doing it.\u201d And sharing those successes and not making them feel alienated because in their world, it's slightly different. That sort of pointing out that they are sort of bringing in some of the points from sort of a way of working, rather than it being about doing it in a particular framework and that being incorrect."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Are the challenges we've spoken about the same across the public and private sectors, and are there any key differences?"
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I've come to DWP after I've just left a Fortune 40 company. In the US, it's the largest private insurance company, largest private network in the nation. It was like for like, as far as some of the complexity of the organization, has been around nearly 100 years, and it's coming up to their 100-year anniversary soon. So all the things you can imagine that exist in DWP, and also highly regulated by the government because they\u2019re an insurance company, it's not the same thing. One of the differences I think was there that stood out quite significantly coming into DWP is that the same issues existed. I think what private sector I think does a better job of doing as they also got to the point where enough was enough. And that came really hard and fast. And that was a bit surprising I think for lots of people involved. For instance, they went years back and forth about how to implement agile, they created their own department specifically for agile, to kind of test and try it out to kind of get the culture there. They had all versions of it and then eventually got to a point that said we are a digital organisation, we are going to go this specific direction. If you like it, either like it or lump it, here are options, you will need to apply for your job, you will need to get certified in areas and they took a no holds barred approach to getting it done. It worked."
+        },
+        {
+            "text": "Now, user research, I mean it was there, they were specifically developing what they also did was, not like everyone can do, they expanded the organisation by tens of thousands in contingent labour and additional support to be able to build out what they needed to. Not too far for at the moment, depending on contingent labour. But needless to say, they knew how to expand the organization, they knew how to implement was necessary. But also they did take a very hard line at points. And it wasn't at all that it was lost in negotiation and complexity politics, with big Ps and little Ps, that they had to work through to get that done. But there did become a point that said our cost value is actually we get more of a benefit of doing X over Y. And I think I saw a lot more of that in private sector of sometimes slowly getting there. But eventually getting there and looking at the actual return on investment to understand what was the ROI for making decision X over Y, and sometimes making very difficult decisions, even in moving the culture quite rapidly towards what needed to go. I think that has a huge impact on the world in which we operate."
+        },
+        {
+            "text": "Is there that same level of flexibility in government? To some extent there could be, to some extent there isn't. It's a bit of a balanced base. I think there's some significant issues with probably a bit of over user research that perhaps the department does trying to stick to GDS, which in private sector is not a thing. That was something I had to get my head around coming into public as GDS doesn't exist as a thing out in private sector. Some organisations are adopting it, some don't. But in large part, that's a brand new thing that's specific to government that has its own constraints."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "So I think for me, I have worked in the private sector, but admittedly, my private sector experience has always been with much smaller companies. And so not really a like for like with DWP. But I think a big difference between those two worlds that I found is it's a big ship and change is small. So whereas in the private sector, there are lots of opportunities to make changes very quickly, and you know, a big process can change and you can implement it within weeks, that just isn't possible on a large scale within DWP. So I think that can sort of be very frustrating and knowing that it can't change overnight. And we have, I would say, much more stricter processes and hierarchy to manage that culture change. So I think like Barry said previously, it's a cultural shift that we're trying to we're trying to do here. So change is a lot slower, but it's worthwhile."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "So I've not worked in the private sector. I've always been a public sector employee. But the thing that really stands out for me when talking to new people into the organization is the amount of user research that we do, and design and testing hypotheses. And that's because we are much more focused on are we building the right thing? Are we doing it right, are we taking the right approach. Whereas in private sector, you know, often you're given a thing to build. And there it is. We spend a lot more time with that and that can be frustrating for some of our people because they want to get on. They want to deliver. Delivery people enjoy the delivery. But part of that delivery is all also ensuring that we're doing the right thing, not just the thing that we've been given."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So do you have a recent example of where your delivery teams have excelled following the theory of agile delivery?"
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "I think our agile teams have really demonstrated how they can excel in being flexible, particularly during the pandemic. When you look at how we've had to stand up new services, we've had to flex our existing services. For example, there was one week shortly after the pandemic hit where 900,000 extra people claimed Universal Credit. And although that was a big operational hit, in digital it's almost like we didn't blink. \u00a0I'm sure loads of people were scrambling around doing tonnes of work to add on 50% of their customer base over the course of week. But we've designed for that. And I think we've designed for being very flexible. We moved to remote working very easily. We can stand up services. When Ministers get a new idea or you get a change of government or change of minister and they come in with some new ideas, we're really good at standing things up quick. And that's because we've got those teams that are flexible and responsive to change. We embrace change."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "Yeah, I totally agree. I think it's a really good example. And I think the interesting part about us and deliveries, we're probably quite humble about that. Like you said, for us it's like, \u201cThat's Tuesday, what do you mean, we have to change and adapt?\u201d I think you're completely right, the team's ability to adapt on the dime. And to be honest about where it doesn't work as well, is also a really useful space as well. I think the teams are very good about understanding the landscape in which we operate in, the dangers and pitfalls in being able to effectively deliver and quite complex spaces that we're not in control of. And that ability to be adaptable to those changes, like you said, when you look at those kinds of things that come through, they're not something you necessarily get in private sector. Not at such frequency and such complexity and size and our teams are amazing at being able to turn a dime to be able to do that. And I think it's a huge nod to the work that they do."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Is there a way of defining what good looks like? Is there some kind of gold standard for agile delivery?"
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "So I don't think there's a gold standard for how we do agile. I think if there is a single measure, and we measure a lot of things, because it's really important to see how we're doing, and it's important on a broad spectrum of metrics. But it's about delivery of value. And an Agile team is performing well if it's delivering value."
+        },
+        {
+            "text": "And we all know the traditional agile values, like deliver frequently, and the most valuable things first and put stuff out there and iterate it, all that\u2019s good. But in a large organisation, we have to empower our teams. There's a lot of talk about trying to make that gold standard, and everyone's consistent. I think the only consistent thing that there should be is that we're delivering value and we're doing it for a reasonable cost. What we believe in in DWP throughout the many hundreds of teams that we've got working on all sorts of different products and services, is that the teams are empowered to determine their own ways of working, that they're held accountable once they've been empowered for solving a problem. And that that accountability is about delivery of value. And the value is measured by what do our stakeholders want and what do our users want."
+        },
+        {
+            "text": "And so in terms of the gold standard, for how we work, it's devolved. It's empowering the individual teams, and that we don't force any individual team to do any set thing. We've got some standards that we do that, you know, obviously when you're in a larger organisation, it makes sense to use some common tooling and to let's say we'll use JIRA for example. It doesn't make sense if we all use a different tool and we all bought different stuff. But for the most part, that standards about individual teams, and the team is the unit of delivery."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "So I guess if you have to be really, really black and white about it, then good delivery is going to be like Barry said, it's going to be delivery that delivers value, or you know, working software. But if I'm honest, I'm not a massive fan of the term gold standard. It makes it sound like you're taking off a checklist. So you know, if you do X, Y, Z, then you've met a standard. And although I think that might sort of be true if you're looking at specific frameworks, there's obviously be standards for those. I think it's different if you just think about agile delivery and our teams. So like, when I speak to my colleagues, you sort of realise that sort every team is unique. And being a delivery manager and DWP is about being able to adapt your approach to get the best out of those individuals and the unique way in which those people work together. And I think if the last two years of being in the Civil Service has taught me anything is that we're nothing without our people and sort of building a strong team that can collaborate effectively and with respect should be the priority for all of us, because I think it builds resilience against most of the things that we come up against when trying to deliver."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I like what both you guys said. I think it's really, and I guess it goes back to the conversation we were having previously that kind of led into this one. One of the things I think that the that we do well in DWP, it's exactly what you guys have also had, we have empowered teams. And I think it's a double edged sword, which is really interesting process. I think of my specific role, coordinating multiple teams, having teams and you've got a mixture of agile delivery, whether it be the many frameworks they might be delivering, whether it be waterfall to any of the various agile ones. The complexity of that, plus having empowered teams plus being accountable to government and ministers. I think the teams for all the challenges we have, I think they do a pretty good job in all honesty of rising to the occasion and meeting those needs. And each team has developed quite differently."
+        },
+        {
+            "text": "So I think that's one of the things that we do really well in government is we empower our teams. That gold standard then goes into, I agree with you Hanna, and it's a really odd space, but also important so I can think of lots of times we are also, as one of our constraints we have in government is that we obviously have to, and to be honest it\u2019s for every organization, whether it\u2019s government or not, we have to think about the funding and how that operates. And one of the complexities of most organisations is trying to figure out how do you fund agile teams. We're no different than anybody else, we're exactly in the right evolutionary space. Sure, we'd all like it to be better but it is where the industry is at the moment, and in the IT industry trying to figure out how you balance these teams."
+        },
+        {
+            "text": "I think we do a hell of a good job of empowering our teams and creating that autonomy. I think one of the complexities with that is then trying to orchestrate all of that empowerment and autonomy across a directorate, multiple directorates to be one unified voice. And I think striving for the gold standard is something I think would be counter, it would be an anti-pattern for what we actually want to achieve. But also there is a need to lay out a bit of a path on how we do that. And that's not through, I think the current governance structures that existed pre agile implementation, it is looking at a new way which we operate. And I think that still deserves its own space to really understand. I think we've got lots of teams that are doing some amazing stuff. And they're using a mixture of all the various skills that we've all known in delivering projects, whether they be your waterfall, agile, new ways of doing agile, evolved agile ways of thinking. And I think it goes with that commitment that we get from a goal standard for me, if we were to use that term, and actually consider that would be that we effectively are able to deliver any product and any service and that's understood and supported from the top down. That our executives down to every member of the team knows and feels confident that they can deliver in a space where they feel safe, where they are productive, where what they're doing is meaningful, and that they're consistently getting stuff out the door. And I think that is the way in which how I would define that kind of gold standard."
+        },
+        {
+            "text": "I think we're going to continue to evolve, there are going to be really good examples and really bad examples, as we kind of examine and look at ourselves in the mirror across DWP, but I think we're in a very interesting evolution. I think it's necessary, I think it's appropriate. I don't think we're any further behind any other organisation. But we are definitely going through that process of growth and understanding. And I think it's a good space."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish \u00a0"
+        },
+        {
+            "text": "I think it's definitely true there\u2019s an evolution there. I think over the years, what we've done is we've gone from having individual teams that were working in isolation delivering individual products and services, to starting working on a lot of really big things, and starting to think about how we build more reusable components. And that requires a degree of coordination that we haven't really practised before. And it's only in the last two years - ironically, during the pandemic, the hardest time to coordinate - that we've had to really start focusing on that. And it's a skill gap I think that we have. And it\u2019s somewhere that we need people to step up and provide some of those things, scaling frameworks there's lots of them. If anything, there's too much choice. And obviously, some of them we all know, lean to that over dictation of how people work. And so we're still learning as an organisation how do we evolve, we can keep that team autonomy, and yet do the big stuff that requires many teams and some of our teams might have 20 teams working on a single area. How do we do that and get more coordinated? It's a challenge we face. And I think that those sorts of challenges are the things I find most exciting."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "Yeah, and I think there's some there's some really great examples of where we're doing that well. But I totally with what Barry's saying in terms of sort of like a skills gap. Or maybe it's just something, like you say, we're just not used to doing. Because I think for me, it's really important that teams are able to work in a way that works for them in order to deliver. But in the same sense, what I think sometimes we lack if we've got lots of teams who are working on the same thing, is a real solid understanding of the why, as in are we all moving in the same direction? Are we all moving to the same thing? And being super clear about what part each team is playing on that, so you don't start to get a convergence of things. Like you said, Barry, we spend a lot of time in the user research space, which is great. But are we all trying to do the same thing? Are we all looking for the same answers? And how do we bring all that together? So we're almost sharing the effort and the load of that and moving in the same direction. And I think that's sometimes a gap for me across delivery teams."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I think it's a really good point, the skills gap. I think that's a really good, it's an evolution with the skills gap. It's an interesting consideration. And I totally agree with both of you know. What's interesting to me is who fills that space? Because I think it's a question I'm always asking as well. Like, one of the things that interestingly enough, when we talked about and I love our different profiles and how we come the organisation."
+        },
+        {
+            "text": "I know when I was hired, I was hired as a bit of a strategic disrupter, right? I'm a change agent, it\u2019s what I'm used to doing, and so I know how to kind of shake things up and kind of make them work in a way that's meaningful. I think what that gap is the one that I've seen from day one. And I think as we tried to move forward and evolve, the question is who it? And that comes up quite a bit is that the various head of role, is that the individual directorates, is it the individual teams? Like, it's an interesting conversation that I think needs an answer to it, and you broke the ARA barrier, which is really good example of SRA, right? This full way what you're bringing together, I think that coordination at the top is what I was talking about, that gold standard.\u00a0 Someone's got to say, \u201cYou know what, we're going to try this direction.\u201d And I think, the danger of being agile or when people use agility as a generic term, the danger of being agile is that you don't iterate because you don't actually take a time to try something, get it wrong, and then move to something else."
+        },
+        {
+            "text": "We can spend a lot of time all doing lots of different things. And we actually have no quantifiable data to determine whether or not we're making the right decisions or not. And that still seems to be a missing space that someone says, \u201cYou know what, I've got the mantle at the moment on how we're going to move forward. I know there's a gap, I'm going to fill it. And here's how we're going to evolve and assess whether it's a good or bad thing.\u201d I think that's still a challenge that I've yet to see filled at the moment."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "Yeah, I think it's a tricky one as well. Maybe it's a case, maybe it's not a skills gap, maybe it's more of a job description gap, like no one\u2019s sure whose responsibility it is to fill that space. And but I think it's tricky as well, because I think sometimes there's almost this reluctance to tell a team what to do. Like, that's obviously seen as a very negative thing. But there's a difference between telling a team what to do, but making it clear what the goalposts are and the space in which they should operate. And I think sometimes that difference gets blurred. And so people have a reluctance to say those things to a team and to set those boundaries."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "It's really interesting as the new scrum guide changed its wording for the scrum master from being a servant leader to a true leader who serves. I think there is that increased emphasis on leadership. And that we shouldn't be saying how things work. We all bring a role. In a multidisciplinary team, you know, the, you don't tell the tester how they should test, you don't tell the engineer how they should write code. Equally, the delivery manager brings their expertise in ways of working, and we should be prepared to say, \u201cHere's some really good ways of working. Everything we do we do as a team, but you know, I'm advancing my theory.\u201d And I think that translates into the organisation as well. We probably all need to step up a bit more. And when we see that gap, fill the gap. You know, we often say they won't let us do this, they made this rule. And it dawned on me one day that the they that's us. We're the people that make the rules, we all make the rules together. You know, and in delivery in particular, we're often setting rules, aren't we? We're focused on how things work, while the people who are actually doing the work, get on and do it. We're worried about those sorts of things like governance and stuff. We make the rules, so we should be able to step up. And those rules should be faced, based around our beliefs and our ways of working, that we should be empowering teams, but providing that direction, those North Stars."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "To that point, I think that that I've seen, going back to expertise, there's a point that Hannah mentioned earlier around the why. And I think and I completely agree that teams get really confused as to okay, here's a why and so therefore, someone's setting direction. They kind of have to fill in the why. I think there's also a bit of a creep of people that everybody believes they can do delivery and we don't always get the respect that people understand that delivery itself is the functional skill set. They know our role. They know our titles, but I think people forget that we're not just here to be the people who do the fun, get togethers or these conversations that seem to be quite unique."
+        },
+        {
+            "text": "We actually have a very important skill set and I think some of that erosion is part of what needs to be dealt with as well as when you look at that kind of skills gap or that kind of that missing link within our evolution, that we need to be really clear that we have a quite an important skills gap and that you know, besides I know the teams I was talking about our superpower of no in delivery, right? That we have a superpower that people forge. \u00a0And that has a lot of power to it. Not all the teams feel empowered to use that superpower of no, but it's quite a significant one, when we actually are able to utilise it."
+        },
+        {
+            "text": "But I think one of the things I've seen far too often is a bit of an erosion of people that they think they understand what delivery is so therefore they speak on behalf of delivery without actually understanding the complexities and nuance of what we do for our actual job."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I never really thought I had superpowers before Shafiq."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "You most definitely do."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I totally buy into that."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "We have hundreds of talented and dedicated people within Delivery. How have you built a maintained such a strong community across DWP Digital?"
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "So on that, community is exceptionally strong in the DWP Digital for Delivery. I think it\u2019s one of the strongest of the across government communities, and one of the strongest of different roles. How we build strong communities is it starts from commitment right from the very top. So our executive team have said that they value communities and they want to strengthen them, if anything."
+        },
+        {
+            "text": "We run lots and lots of different things. So there's a central practice team to coordinate everything. But also, we encourage everyone to learn and to share and to participate. It's a great way to build new skills, and we promote the value of that. We run lots of events. We're trying to change learning and development that the practice and the community also own from being just learning to being teaching, as well. And it\u2019s the place, it's how we work in agile, isn't it? We share, we work in the open, we rely on people, we rely on individuals and interactions, to quote the Agile Manifesto. It's inherent in everything we do. And we don't just pay lip service to that. And we prove that we don't just pay lip service to that, by having people who are dedicated to running it, by having time is dedicated to putting into it. And a budget for that stuff as well. People can't believe the learning budget that we have, the opportunities for growth, the opportunities to move people around, and the opportunities to network and learn from other great people and all of the million million things that they have going on."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think to sort of add to Barry's point there about some of it's not just about teaching, there's an element of sharing in that. And I think community isn't just about sort of Barry and head of role providing these opportunities, we've all got an onus on us to participate in that community. And that might not just be the Delivery community as a whole but you know individual smaller communities, either in our directorates or within small groups of communities of interest, for example like on skilled agile or on coaching."
+        },
+        {
+            "text": "But I think as well we should be sharing, and not just teaching, so sharing our successes and our failures and sharing our knowledge with each other. And you know, we can help each other and pull each other up to succeed. And I think that's really important. We're building the capacity and capability across the across the community then."
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "I think for this one, it's quite a different angle on this one. I think what Barry and Hannah\u2019s said is definitely true. I think there's another element as well, that within a directorate as a lead, I'm also building communities there. Delivery managers, we've got multiple ones that are responsible for delivering. And what I try to do in that same space is to replicate we're also doing the broader group and the space but also get down to some of the nitty gritty things that might be that probably more flexibility in that group, because it's a much more intimate setting of having discussions about what are some of the major concerns, whether kind of at the directorate level or at the team level, to kind of help provide support. So I think there's another element as well that exists within DWP Digital, that it's quite a common space for besides having the large community of practice."
+        },
+        {
+            "text": "We also have individual community practice within those within those many directorates that provide additional support. So they don't work against one another, which is a really fantastic part. They work in unison and harmony to make sure that we cover kind of all angles, what needs to get done to make sure we've got effective delivery. And I quite like that."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think they're really important. And I think those sort of smaller communities within your directorate, I think are really important. I really value mine. I think you're right, I don't think it's a case of sort of like airing dirty laundry, but you're in a smaller group of people who understand what you're experiencing. It's a smaller group of people to have that conversation and to share those concerns. And it's almost like a supportive bubble and a wrapper around that delivery community. And I really value those sort of smaller areas to have discussions, definitely."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "They\u2019re safer spaces, aren't they? Inherently they're psychologically safer spaces, because there's fewer people in and they're people that you're more intimately familiar with. You can't know 500 people in Delivery and have a personal relationship and trust every one of those but you can know and trust the dozen people that are in your immediate area. And they're all working on similar to you. So they've got similar concerns and they know about that difficult stakeholder that you all have. And they're absolutely fantastic. And sometimes geographic as well, just complaining about the problems in particular areas, or sometimes it's functional isn't \u00a0it? About the problems in your business area."
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think there's also something there around not necessarily just sharing problems, but almost making active and difference and pushing for change. So I always like the term clout. So if you've got one delivery manager who is experiencing something and wants something to change or, you know, disagrees with something that's happened, and they want to sort of push against that, then it's an easier conversation of there's 12 people backing you up, then it's just a lone voice going, \u201cI disagree with this.\u201d There's 12 people who are working with you saying, \u201cI disagree with this, but we think we should do this.\u201d And I think there's a lot to be said for that."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So just before we end, what advice would you give to others when it comes to building a strong and sustainable agile team? And where do you see ours going in the future?"
+        },
+        {
+            "heading": 3,
+            "text": "Shafiq Porter\u00a0 "
+        },
+        {
+            "text": "We in Delivery, especially agile, we're awkward people when it comes to this space of being overly prescriptive. And it's a really interesting space. And it's kind of a mixture of the things we said.\u00a0 It's this balance of setting guidance and direction without being prescriptive. And so it's definitely a very fair and understandable question. What I'd like to see as far as strong, and I guess maybe that goes to the process, is making sure that if we want to see sustainable agile delivery, we have to make sure that we have teams that are able to function as autonomous teams, with the feedback, support mechanisms and guidance needed to effectively deliver. To me, I think those are some of the core parts of how we actually have to operate to achieve that."
+        },
+        {
+            "text": "Being strong means that there's a space to be open and honest, being able to fail fast is a term that that I think people, there's another derivative that sounds a lot more positive, I like the term failing fast, because I think people lose value, that we have to be able to fail fast, and learn from those mistakes and be able to deliver quicker and be able to actually make those changes. And when we are failing, and there are learnings from those failures, being able to make systemic changes across the department to make sure we're effectively doing it."
+        },
+        {
+            "text": "So to me, those are some of the ways which I see that future. And having a space where we in Delivery have a very comfortable balance of setting that space and providing that space, but also being able to step up and provide that leadership confidence that the teams need to set the right direction to fight the good fight, at the right time for the right reasons, with the right people in the room to make that happen."
+        },
+        {
+            "heading": 3,
+            "text": "Barry Traish\u00a0 "
+        },
+        {
+            "text": "I think failing fast is another way of saying having short feedback loops. And that for me is one of the key elements of having a strong, sustainable agile team. The quicker you learn, the more adaptable you are, the more flexible you are, the more likely you are to be doing the right thing. And I think you have to make the team solve the problems. The team are responsible for their own problems. Delivery is a team sport. And so are you as delivery manager putting in place all those mechanisms that help the team solve their problems, and celebrate the successes as well? So do you have regular retros? Are you introducing them to concepts like team health checks? Are they happy in what they're doing? Have you ensured that they have autonomy? Have you got an environment where they can call out when they don't have that, when they don't feel that they're able to communicate or they're not able to raise issues? Have you ensured that your team is sufficiently diverse, that you're getting all different perspectives to feed into those feedback loops that are going to help your team learn really quickly? And to solve any red balls that come out of the blue to be able to cope with that stuff?"
+        },
+        {
+            "heading": 3,
+            "text": "Hannah Dell' Armi\u00a0 "
+        },
+        {
+            "text": "I think Barry and Shafiq have covered off most of the things that I would say. I think what's clear is that and it starts with people and I think that's really important. The team has to be resilient and strong enough to be able to fail fast as Shafiq said before and I think that's key. I think sometimes it you end up concentrating more on the delivery than you do on the people. And that's quite a dangerous place to be. And I think when you're building strong, sustainable, agile teams, it's to focus on those people, make sure that communication is happening, make sure that people are comfortable, that it's respectful, and that people are working together in the best way possible that suits them. And that's how we're going to build that resilience going forward."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button now if you want to make sure you don't miss our next episode. And I like to thank Barry, Hannah and Shafiq for taking part today. I hope you really enjoyed our discussion around the theory and practices of agile delivery. And if you'd like to know more about DWP Digital and our thoughts on other tech topics, check out series one."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        }
+    ]
+}

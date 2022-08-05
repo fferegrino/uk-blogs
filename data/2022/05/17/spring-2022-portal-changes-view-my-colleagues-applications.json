@@ -1,0 +1,53 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2022/05/17/spring-2022-portal-changes-view-my-colleagues-applications/",
+    "title": "Spring 2022 portal changes: View Applications",
+    "authors": [
+        "John Taylor, Associate Product Manager"
+    ],
+    "categories": [
+        "Digital services",
+        "Law and practice"
+    ],
+    "pub_date": "2022-05-17T12:42:53+01:00",
+    "content": [
+        {
+            "text": "View My Applications was launched within our customer portal in August 2020. This feature enables our customers to manage their portal applications and correspondence, including notices, requisitions and letters, in one central place.\u00a0"
+        },
+        {
+            "text": "We\u2019re pleased to announce that we\u2019re now introducing the biggest update to the service so far, so big in fact we\u2019re having to change the name from View My Applications to View Applications.\u00a0\u00a0"
+        },
+        {
+            "text": "But what is this change? From 12 May our customers have been able not only to search their applications, but those of their colleagues as well \u2013 functionality that has been the most requested new feature since the service was launched.\u00a0"
+        },
+        {
+            "text": "This change is one of many updates we have implemented since the launch of View My Applications, which has had more than 127,000 users and more than 3.5 million page views. Portal users have described how it\u2019s clear and easy to use, and the ability to view all applications and correspondence in one place has saved time, reduced risk for conveyancers and overall improved the customer experience.\u00a0 \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "You said we did\u00a0"
+        },
+        {
+            "text": "As I mentioned, our most requested enhancement has been for the ability to view colleagues' applications, and we\u2019ve been working hard to balance this request with concerns around security and confidentiality.\u00a0 We are pleased to announce that from 12 May business customers have been able to view the applications of colleagues from across their business unit within the portal. As a result of this upgrade to the portal View My Applications has been renamed View Applications, to describe more accurately the full capability of the new enhanced tool.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "View Applications\u00a0\u00a0"
+        },
+        {
+            "text": "Customers can view a colleague\u2019s application by searching using the HM Land Registry reference, title number, or a customer reference number.\u00a0 This will bring up all matching submitted applications from across the entire business unit, including live applications and also applications which have been completed or cancelled within the last 90 days. \u00a0"
+        },
+        {
+            "text": "You can also correspond with HM Land Registry regarding a colleague\u2019s application using the \u2018Respond\u2019 button, located in the actions panel (visible when the application row is expanded)."
+        },
+        {
+            "text": "We have also listened to customer insights and feedback into how the tool could be enhanced, which we have responded to by adding various features including Estimated Completion Date and in March of this year we introduced the ability for customers to see their draft applications from the new Digital Registration Service (DRS) alongside their other portal applications.\u00a0 Customers simply filter for \u2018saved\u2019 applications, which allows them to find those applications they have saved within DRS but not yet submitted.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Future developments"
+        },
+        {
+            "text": "This is the first part of the View Applications update. The second part will enable users to search by a colleague\u2019s name, returning an entire list of applications they have submitted. View Applications will even be able to surface applications from previous business unit users who have now left the firm. This is on course to become available during the summer of 2022. This service is currently only available via the HM Land Registry customer portal but will be considered as part of any future development of our API (application programming interface) business channels.\u00a0"
+        }
+    ]
+}

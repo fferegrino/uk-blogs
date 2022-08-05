@@ -1,0 +1,71 @@
+{
+    "url": "https://dvladigital.blog.gov.uk/2021/07/16/dvla-brings-latest-tech-to-police-roadside-checks/",
+    "title": "DVLA brings latest tech to police roadside checks",
+    "authors": [
+        "James Church"
+    ],
+    "categories": [
+        "DVLA Digital Services"
+    ],
+    "pub_date": "2021-07-16T11:10:41+01:00",
+    "content": [
+        {
+            "text": "DVLA has been working with the police and Home Office on a service which allows police officers to confirm a driver\u2019s identity at the roadside for motoring offences."
+        },
+        {
+            "heading": 2,
+            "text": "Behind the scenes"
+        },
+        {
+            "text": "As the service designer, I started out by looking at what requirements were needed, which involved working closely with the Home Office."
+        },
+        {
+            "text": "Knowing that officers can spend up to 16 minutes confirming a person\u2019s identity at the roadside, we wanted to come up with a service that could save time for everyone involved."
+        },
+        {
+            "text": "As well as saving time, we wanted to help reduce the amount of unnecessary arrests that are made at the roadside. Giving officers the ability to confirm a driver\u2019s identity on the spot means innocent drivers are no longer arrested and taken to the station for identity checks."
+        },
+        {
+            "text": "The service we developed, known as the \u2018Photo at the Roadside Service\u2019, has been running since August 2019. We are now looking to roll it out to the majority of police forces across the country. It saves time by allowing police officers to access the photograph held on DVLA\u2019s driver database through their mobile devices, meaning they can confirm the correct identity of a driver almost instantly."
+        },
+        {
+            "text": "Rob Jones, who was the Technical Delivery Project Manager for the service, said:"
+        },
+        {
+            "heading": 2,
+            "text": "How it works"
+        },
+        {
+            "text": "When police officers stop someone at the roadside for a motoring offence, they will start by searching the Police National Computer (PNC) to find their driving licence number. The driver number is a unique identifier which helps guarantee that the correct image is accessed from DVLA\u2019s records."
+        },
+        {
+            "text": "Using the driving licence number, the police officer will then access the driving licence holder\u2019s photograph and confirm their identity on the spot."
+        },
+        {
+            "text": "I should point out that the use of DVLA data in this context is strictly confined to roads policing for motoring offences and is not used for any other reason."
+        },
+        {
+            "heading": 2,
+            "text": "The results"
+        },
+        {
+            "text": "We have recently rolled out the service to 18 police forces. So far, over 86,000 driving licence images have been accessed by police support to confirm the identity of motorists at the roadside."
+        },
+        {
+            "text": "We\u2019ve seen a number of positive results but there is one we\u2019re really proud about. As of June 2021, roadside checks are now up to 66% quicker as a result of the new service, meaning motorists are getting back on the road quicker."
+        },
+        {
+            "text": "For Road Police Unit Officers and Local Policing Officers, over 14,000 hours have been saved, meaning they have got more time for patrolling, supporting investigations and community work."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "The technology has been rolled out to 18 police forces. We have\u00a0a rollout plan from the Home Office, with a view to providing access to 46 police forces across the UK. In the next few weeks alone we have 10 more forces joining up, and 18 further forces joining later this year."
+        },
+        {
+            "text": "Watch this space for more updates. Visit GOV.UK for more information on roadside checks."
+        }
+    ]
+}

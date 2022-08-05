@@ -1,0 +1,93 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2021/10/13/a-service-standard-for-the-royal-navy/",
+    "title": "A Service Standard for the Royal Navy",
+    "authors": [
+        "Sophie Bennett"
+    ],
+    "categories": [
+        "NELSON - The Royal Navy's Digital & Data Transformation",
+        "NELSON Standards"
+    ],
+    "pub_date": "2021-10-13T16:58:01+01:00",
+    "content": [
+        {
+            "text": "A service standard is a set of design principles to guide delivery teams in creating effective, digital services that provide a consistent experience for the end-user. Royal Navy delivery teams had been working to the Government Service Standard, however some early research suggested that teams would benefit from additional Defence context in the Government Service Standard, which is primarily focused on public-facing services."
+        },
+        {
+            "text": "The Navy Digital Strategy team conducted research into developing a Royal Navy\u00a0Digital Service Standard (RN DSS) that provided greater support to Defence delivery teams. Our initial plans for this piece of work can be found in our earlier blog post."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Feedback on the Service Standard"
+        },
+        {
+            "text": "We worked with a number of service delivery teams within Navy Digital Services and a group of Subject Matter Experts (SMEs) to obtain feedback on the Government Service Standard. We looked to understand what, if any, additional Defence context could be added to support the Government Service Standard and also what materials already exist within the Ministry of Defence, such as standards, policies and best practice that could sit alongside the Service Standard."
+        },
+        {
+            "text": "We ran this as a proof of concept phase over a number of weeks and hosted a series of workshops to obtain the feedback. Overall, our findings showed a clear need for additional Defence context to be added to the Government Service Standard. These findings can be split into five key themes that teams suggested need to\u00a0be accounted for in the standard from a Defence perspective:"
+        },
+        {
+            "heading": 2,
+            "text": "The Royal Navy Digital Service Standard"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Based on the feedback, we decided to add four additional elements to the RN DSS. We chose to add supplementary material as opposed to rewriting parts of the standard and deviating from it. The additional elements are intended to support Defence users in applying the existing standard. Where possible, the content has been kept generic to Defence with any Royal Navy-specific content added where appropriate. This was to ultimately support the development of a cross-cutting Defence Service Standard in the future."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The four additional elements added were:"
+        },
+        {
+            "heading": 2,
+            "text": "1. What it means for Defence"
+        },
+        {
+            "text": "A \u2018What it means for Defence\u2019 box to support the interpretation of the service standard in a Defence context. The content prompts teams to look at other considerations that are specific to the Royal Navy or Defence, such as operational deployments. It also notes where meeting the service standard might be more challenging for Royal Navy teams, or where more analysis might be needed."
+        },
+        {
+            "heading": 2,
+            "text": "2. Defence related resources"
+        },
+        {
+            "text": "Defence related resources pages have been added for some parts of the service standard to point to Defence specific policies, standards and best practice resources, that are not part of the Government Service Standard Service Manual but which teams would need to consider when developing digital services for Defence."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "3. Points of contact"
+        },
+        {
+            "text": "Points of contact for all 14 points of the RN DSS. These are individuals from within the Royal Navy who have expertise in their designated area of the standard and that\u00a0teams can reach out to for further guidance if required."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "4. Sample questions"
+        },
+        {
+            "text": "An assessment checklist and sample questions have also been produced for all 14 points of the RN DSS at each lifecycle stage (Discovery, Alpha etc.). These have been produced to provide additional guidance and support for teams to meet the standard and not as a mandatory test."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps for the Royal Navy Digital Service Standard"
+        },
+        {
+            "text": "The RN DSS has gained support from seniors and has been welcomed by service teams across the organisation. It is now mandatory to apply the RN DSS to digital projects in the Royal Navy and it is also being used in service assessments. We\u00a0continue to liaise regularly with Defence Digital and other Front Line Commands to\u00a0ensure alignment as digital delivery matures across Defence and we\u2019re looking at how we transfer our learning to the rest of Defence."
+        }
+    ]
+}

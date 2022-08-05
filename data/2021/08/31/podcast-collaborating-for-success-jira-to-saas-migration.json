@@ -1,0 +1,438 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2021/08/31/podcast-collaborating-for-success-jira-to-saas-migration/",
+    "title": "Podcast: Collaborating for success \u2013 Jira to SaaS migration",
+    "authors": [
+        "DWP Digital team"
+    ],
+    "categories": [
+        "Cloud",
+        "Cloud services",
+        "Podcasts"
+    ],
+    "pub_date": "2021-08-31T14:40:58+01:00",
+    "content": [
+        {
+            "text": "Delivering complex projects at scale and on time can be a challenge. That's why having a dynamic team of experts with a strong collaborative ethos is essential to delivering success."
+        },
+        {
+            "text": "In this episode, we speak to the team behind DWP Digital\u2019s recent Jira to SaaS migration. They take us through their journey to the cloud, sharing best practice and lessons learned along the way."
+        },
+        {
+            "text": "A full transcript of the episode can be found below."
+        },
+        {
+            "heading": 2,
+            "text": "Don\u2019t miss an episode"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be speaking to more of our in-house digital experts and leaders about some of the exciting projects we\u2019re working on that are helping transform experiences for millions of people."
+        },
+        {
+            "text": "Make sure you don\u2019t miss an episode by subscribing to the DWP Digital podcast on Apple Podcasts, Google Podcasts and Spotify and by following #DWPDigitalPodcasts."
+        },
+        {
+            "text": "And if like what you hear, don\u2019t forget to give us a 5-star rating."
+        },
+        {
+            "heading": 2,
+            "text": "Transcript"
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Welcome everybody to another episode of DWP Digital's podcast. My name is Stuart and today we're talking about our Jira to SaaS migration project, and the processes we used in order to carry out a seamless transition across our live services, and our 5,000 strong user group. And as always, hit the subscribe button now to make sure you don't miss an episode. So let's get started. Sean, Ramona, Paul and Linda, would you like to introduce yourselves?"
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "Yeah, I'm Sean Luke. I'm a transformation consultant. I've been with the department now for getting on three years and I've actually started working in the DWP back in about 1986. So, I was a civil servant for, I don't know, 13 years, something like that. And then I moved on to private sector and and then went into the supply chain, and then ended up back at the department with a service provider, and then made the leap into consulting."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "Hi, everyone. My name is Ramona Scripcaru, and I'm a cloud migration manager at Atlassian. My role at Atlassian is to offer strategic and planned guidance to our enterprise customers navigating their cloud journey for a successful transformation. I have a bit of an interesting background because I finished both the law school and engineering, but I also love the IT and the life ended up bringing me in Amsterdam and working for Atlassian."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "Hi, everyone. My name is Paul Fearn. I'm a solution architect in the department and I've been with DWP now for some 18 months, delivering various projects. My key responsibilities are ownership of the technical solution, taking that solution through governance and really supporting the delivery right through from requirements through to implementation and into support."
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "Hi, I'm Linda Anderson, I've been in the Civil Service for 30 years. Prior to that I was in the armed forces. I worked mostly in operations for the last 25 years and more recently asked to help out as a subject matter expert in digital and evolved into a business analyst where I've worked on several projects, including Access to Work, customer computers and more recently, the Jira migration."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So can you tell me about your teams, and the parts they played within this project as I understand, it's not your typical DWP Digital project?"
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "Yeah, the team that we put together for this was drawn from other parts of hybrid cloud services. So, we have some pretty talented people in HCS, from things like architecture, right through to quite low level engineering. And we also have product specialists, as well as product managers, business analysts, and, you know, product owner. So we had to build a team reasonably quickly for this requirement, because we really wanted to test that migration to SaaS experience, we wanted to get a handle on how we would cope with that as an organisation and how we deal with it, and really wanted to build up some good practice, because we know that the trend for uptake of SaaS is increasing."
+        },
+        {
+            "text": "So more and more services are becoming available via SaaS platforms is certainly a trend in the software industry. So we just wanted to get a handle on that. So we needed to pull in someone who could get a handle on business analysis, on communications with the user community. We needed very strong architecture expertise, we needed good experience of using the platform. And we needed some systems engineering and product engineering expertise as well. So that was the team that we wanted to put together. And we also wanted to experiment with some ways of working as well, to see if we could push the Agile ways of working a little bit further on as well and maybe learn from that."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "Just to add a little bit further to what Sean was saying about the team. We built a team with many sort of skills and capabilities and of a couple of the ones that that also spring to mind is certainly the testing side. Because we felt we identified early on that testing was going to be a very critical part of the project. And we reached out to the department's testing team to engage with them and make sure that they were on board with the project and became part of the wider project team. So that was really good."
+        },
+        {
+            "text": "In addition, the project was also transitioning the support of the service to a different team in the department. So again, the new support team needed to be formed there. And that was very critical piece of work that we did to get that team formed early and to engage with them throughout the project. And they're just two examples really of some of the things that we were doing and in addition to the business analysis and the architecture and engineering work that was also critical."
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "So, my part in the process was providing traditional business analysis help regarding communications, liaising with end users understanding what their needs were, and filling gaps in their knowledge on the Jira project, and understanding what they needed when we transitioned over to the cloud."
+        },
+        {
+            "text": "So much of the time was spent creating new guidance, posting the guidance and publishing it for the for the end users to use, and it was critical on the day that we went live, that we had access to the information that they were going to need to help them comfortably land on day one. The guidance that we put in place was really useful for them and they really engaged with that guidance and made that transition really swiftly."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "Part of our role is to ensure that our customers have all the resources to plan, analyse and execute a successful migration to cloud. We also advocate internally for our customer use case within our product management team and we feed insights back to the business. We also share learnings from our large customer base and subject matter experts from those who have done a migration before. And lastly, we connect our customers with a wider Atlassian family to ensure that they have the best help possible for their success project."
+        },
+        {
+            "text": "I think it is important to highlight that for most of our customers, migrations are one thing that happened once in a lifetime that they will just do once and that's all. But our team is working specifically with customers that are looking to migrate to the cloud. So we have a lot of experience in working with a lot of our enterprise customers. And we like to say that we are now the dedicated resource for the individual projects for the customer. We do recommend for them to have a dedicated project manager and the resources technical in place. But we offer that additional expertise, best practices and alignment from the experience that we gathered there."
+        },
+        {
+            "text": "So we are not providing any hands-on support for this type of project. We can't do the migrations for our customers. That's why the customer is the main accountable for the migration. But we are that contributor that adds additional best practices in place."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "To help set the scene, can you provide me with some background into DWP Digital's use of Jira across its services?"
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "So DWP Digital, the IT department in DWP, has been using Jira now for well over five years, I would say in some guise or another. And, in fact, has gone through upgrades and migrations before but not to the cloud SaaS service. So this was the first time for DWP.\u00a0 And in terms of its usage across the department, it's quite widespread, we've got an agile delivery approach to our project work. So we've got, you know, over sort of circa 2,000 people there using Jira in a sort of classic Kanban or Agile sprint type way of controlling and managing their works in terms of tasks and that comes with all the classic, you know, use of epics and stories and tasks behind it. So that's a really key use case within DWP."
+        },
+        {
+            "text": "And in addition to that, we've got lots of other users as well across the department that are not particularly involved in those day to day project activities but are involved in key delivery aspects. Particularly examples might be service transition where we have a team that supports the transition of that service through into production. And they also use Jira and many of its capabilities to help and track that work through to completion."
+        },
+        {
+            "text": "So quite a diverse really use of Jira in the department and, you know, circa 4,500 users typically, and many different roles in terms of structuring access control to these projects and Confluence spaces that we have. So very typically, we have project leads that do a lot of the administration and a team that supports administration requests, so that they can be serviced."
+        },
+        {
+            "text": "So very, very key to all really within the DWP digital business for delivering IT. And using other tools as well, such as, you know, continuous integration, continuous development and also collaboration tools as well. So, Jira fits very nicely into the tooling set that DWP Digital uses. And it's also got some real great capabilities in terms of its integration with Confluence as a sort of collaboration, wiki type tool that can really help you move forward with your tasks very quickly, in terms of brainstorming and you know, doing things like meeting minutes and things like that. And in fact, it's no surprise that we use Jira, well certainly we use Confluence in the migration project to help the delivery of this the migration project as well."
+        },
+        {
+            "text": "So yeah, really key tool for DWP Digital and moving to cloud was really put in great foundation in place for DWP Digital moving forward now with the challenges that typical project delivery brings."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So why is the migration from the Jira to SaaS so important for us? And what benefits will it bring to DWP Digital and its users?"
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "So there were quite a few different reasons for doing this migration. Firstly, we were supporting an existing Jira Confluence service that we were managing the infrastructure for. And we certainly wanted to get the benefits of moving to a cloud SaaS solution so that Atlassian did all that sort of management for us and that would free up our resources."
+        },
+        {
+            "text": "But more importantly perhaps is being able to take advantage of the new features that cloud brings us and Atlassian, continually developing their products all the time. So we don't have the headache of having to upgrade our tooling to take advantage of these things, they would just naturally come through the release cycle and we as a business would be able to take advantage of those features."
+        },
+        {
+            "text": "And I guess lastly, the sort of support aspects of service, we're moving to a different team. So it was really important that you know, that team had only got the sort of typical Jira Confluence administration skills, so they didn't have any skills around infrastructure support. So that was another key reason that we needed to move to cloud first in order to transition to another support team. And the cloud SaaS Jira Confluence service, really gives us some real improvements around new features, security performance, and really the sort of availability as well, because the service that we were supporting previously, was somewhat troublesome and had not really had much love past 18 months to sort of make sure that the service was always available to our user community. So quite a diverse range of reasons for moving to the platform. But fundamentally, this is a step forward really for this particular tool in in DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "Earlier we spoke about the team being unique. What is it about your team that's different compared to other DWP project teams?"
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "We want to experiment a little bit with the command and control structures that I've seen in play up to now. We wanted to see if we removed some of those things if whether the team would step up and take responsibility for some of those aspects. So it was a bit of a risk involved in this, a kind of calculated risk. What what we really wanted to build the team dynamic and test the team dynamic and see how strong that is. How does that develop? How quickly does it develop? And the only way to do that for as far as we could see was to dial back the micromanagement side of things and just see how much of that we really need if we've got a strong team. And that came together pretty quickly. It was pretty easy to do that and the size of the team is quite important in there. You can't really do this with a team of more than 12. And you can't do with really a team of less than three or four. So we had a good size of team to try this on."
+        },
+        {
+            "text": "And as the as the weeks went by, you could see that the team itself was becoming self aware and stronger over time. And I guess the big test for me as a consultant looking at this was ask a question of the team and see how consistent the answers are from everyone. And that certainly started to happen fairly early on. We were starting to see that the feeling of everyone in the team was starting to gel in terms of where we wanted to go, how realistic our estimates were, how quickly we could get things done. All these things started to sort of level out. So it was a very interesting thing to witness to actually watch that team begin to build. We've carried some of these lessons into the other work that we're doing within the department."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "I like to think a lot in migrations that they are like a team sport and no matter the experience that one has, if you train and work hard for the magnitude of a project, you will succeed. And I will say that this team has been extremely open and has built a trust for the project and for ensuring that everyone is there preparing for the success of the project. And it was just a pleasure to work with the team and to see how much everyone is working to ensure that this project will be successful."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So how did your new approach work in practice?"
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "So, we had a daily stand up which is no big surprise for anyone that's been doing Agile work. Daily standup is really kind of a check in for the team. So it's where you raise any concerns or flag any opportunities. And also make sure that that other members of the team kind of know what you're up to and how things are going in general. So that was that was kind of a good anchor point for the team on a daily basis."
+        },
+        {
+            "text": "And we also had a weekly check-in with the team, which was kind of semi formalized. We had a range of things we wanted to cover, but we didn't we didn't follow a kind of timed agenda or anything like that. What we found was that that that meeting tended to last less than an hour. We stuck to that. I think it was Tuesday afternoon, we stuck to that religiously for the whole project. And that gave us a good chance to kind of both reflect on where we\u2019d come to in the project and also do a little bit of micro planning for the week ahead up to the next checkpoint. And the third thing we did was we separated our risks issues, assumptions work, with those kind of analysis sessions that teams have, we separated that out into a separate session, which we called risk mitigation. So that that was particularly helpful, because it meant that we could just focus on risk mitigation. And it didn't take very long I think typically it took about 10 minutes a week to do that. And these sessions were quite valuable because they allowed us to make that a bit of a team sport. Just thinking back to what Ramona said, making these these activities more of a team game is very important. And we certainly did that with our treatment of risks and issues and assumptions and whatnot and we kept a good handle on those for the for the life of the project. It was good."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "Actually think that those weekly meetings have helped a lot ensuring that everyone has alignment and that everyone knows what the current state of the project and also what are the next steps, because my team hasn't been involved in the day to day tasks that the core project team has been involved. But then having that one weekly catch-up has resulted in ensuring that alignment."
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "I would certainly echo that, Ramona. I think, as a result of the open way that that we wanted to run the project. So we were pretty honest with Atlassian at the start about what we wanted to do and how we wanted to do it. And on to their credit, they were pretty honest with us about their expectations, and also their experience of working with customers. So it was a very healthy environment in which to talk about our successes, but also talk about some of the challenges that we faced as well."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "I think that we should highlight that the things have been only successful all the time, there were also things when things were failing when the team has run into specific bugs or features that were lacking from this cloud migration process. But just ensuring that we touch base on them, and that we discuss open as a team and try to find the best solution for the project moving forward, that actually added that extra point."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "And I think that openness was really the key thing about the team dynamic from my perspective, you know, the sort of inclusive nature that everybody was included in the sort of meetings that we had, and got an opportunity to speak their mind and to work collaboratively to get to a point where we could we could see a way forward. And, you know, we'd not overlooked anything. We were all confident then that we could see a way forward. And I think that was a really key part of the team dynamic and made it an absolute pleasure to deliver this project."
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "I just want to remind ourselves that we were working in lockdown and remotely, yet that those relationships weren't harmed in any way in as much as you felt isolated. The team or brought everything to each other or to a central point where we all had the opportunity to discuss or even just switch screens so we could work together on a piece of work and get that finished and parked. It was it was a really, really well-oiled mechanism that was pushing this in, I can't describe how impressed I was with the expertise, with the young engineers that we had pushing this into place. So yeah, the working culture for me really, really gelled in this project, and I'm currently using all those techniques that we developed in the Jira migration on my new project as well."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So let's now talk about the migration plan and the process you developed. How did it go from a standing start to being fully migrated in a matter of months across several different services with thousands of users?"
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "So yeah, thinking back to the early steps that we took, I think, very key thing was the early engagement with Atlassian for the migration project, that really put the project in a really good position to move forward. And we were able to document the migration at high level into the design, and then working collaboratively with Atlassian to refine that and move forward through the key delivery stages."
+        },
+        {
+            "text": "And one thing I think we recognised is that we were dealing with a service that had got circa four and a half thousand users and our migration approach needed to be absolutely bulletproofand tested. So, you know, Atlassian really helped us to achieve that. And it was very critical that we were able to get that testing done as quickly as possible. We were working to certain timelines, and we knew that the migration would have to be over a weekend. So, you know, there were certain weekends that were kind of unavailable to us, if you know what I mean. But fortunately, it landed really well, in terms of the timing."
+        },
+        {
+            "text": "In terms of the sort of preparation work that we did for the migration, there was a lot of research to do with it. You know, the products are very technical products. And we were working in cloud for the first time. So the whole team really was on a learning curve for the journey to cloud. And again Atlassian really helped us to step up and understand the things that we needed to understand for the migration."
+        },
+        {
+            "text": "And in terms of training, as well, we also identified that the users themselves needed some training. So there was a big push around what sort of knowledge was available that we could point users at so that the users themselves could get up to speed, but also our administrators as well that needed to support the service going forward. So training was also a key part of the migration."
+        },
+        {
+            "text": "And in terms of the content itself, it was a very multi step process for Jira and Confluence and also the calendars that we had as well, that the users actually successfully migrated themselves, using a process that we documented and tested and gave to them as a sort of post migration step. And throughout the migration one of the key things was for us was the dress rehearsal, it really was. That was the pinnacle test for us in proving that this thing worked end to end, and doing all the checks and balances on the data, to make sure that we hadn't lost anything, that all the users have been migrated, all of the Jira projects had migrated, and all the Confluence spaces had been migrated. So quite a complex migration, as you would expect, but one that we managed to achieve and with the support of Atlassian, and, and their sort of guidance, and pretty impressive documentation at times to help us achieve that was really superb."
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "We couldn't really have done this without the user community themselves, they had to do quite a bit of housekeeping. And they had their own kind of mini project involved with this, especially the admins and project owners, they were responsible for the user happiness, I guess, of the users of Jira and Confluence. So they were a little bit under pressure to get this right, as well."
+        },
+        {
+            "text": "And they were very helpful in terms of the way that they consumed the material that we provided. We provided an FAQ, which Paul kicked off in the early stages of the project and grew to tens of questions in there with very detailed answers, which the user community responded to. They didn't keep coming to us asking the same questions, they actually took note that we had produced an FAQ, and they went and read it and used that to get things done. So in terms of, you know, economy of effort, we did a pretty good job on the project, we didn't waste a lot of time. But that said, I would say probably 40% of the total project time we built in as contingency, partly because the platform that we were migrating from had not been loved. So we weren't sure about what the consequences of that might be during a migration. And we also had quite a large volume of users as well. We didn't want to lose any of their data. So it was interesting to start working through some of those dependencies and taking the time to understand them."
+        },
+        {
+            "text": "And the user community were really responsive to that. We had we had a series I think of ten webinars that Linda organised, and Linda ran those with the user community. And we had lots of questions coming in. And we had the whole team ready on those webinars to answer questions on the on the Teams chat and that worked really well. We had all kinds of questions coming in whilst Linda was presenting and we were able to answer those in real time. So that kind of user engagement thing, that's something that we really wanted to push the boundary on and see how good can we make this, how well can we do this. And it was recognised by the user community that we had gone the extra mile to make sure that they were fully informed about what we did and also that they had the opportunity to engage with the whole team, so it I guess it comes back to that sort of flatter hierarchical, getting rid of some of those hierarchies so we didn't push people into our front door or anything like that. We just said, you can just talk to the team on these on these webinars, and they did. So it was it was good from our perspective."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "What have both teams learned in terms of best practice? Is there anything you would do differently?"
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "II can offer something here. We talked about before a little bit about contingency. And we put quite a bit of contingency into the plan. What I didn't say was that we used pretty much all of it. I suppose the point I'm making is this the importance of building in contingency into a project like this, you know, where there are multiple layers of unknowns. It's really important to not be not be too worried about adding in more contingency, even though the start of the project, it might look like it's rather a lot of time, we did use the majority of that contingency."
+        },
+        {
+            "text": "And things like the dry run that we did, you know the run up to the actual migration, that consisted of a very slow paced walkthrough of all of the migration activities that we would need to do. So we went through it at a snail's pace to really understand what each step really looked like. And then we did a full speed, almost a full speed version of that. And then we did a full dress rehearsal, where we were essentially behaving as if that was the live migration. And the reason we did that was to test al all of our mechanisms within the project and Atlassian\u2019s mechanisms and our other partners\u2019 mechanisms and even the user community itself. We wanted to get a realistic feel for how those things would respond as a system for the migration event, that's why we did the dry run, the full dress rehearsal."
+        },
+        {
+            "text": "And Atlassian were really supportive in helping us to make that happen, because full dress rehearsals for that kind of thing are not typical. So we had to use up a lot of our contingency to do that dress rehearsal, but we reached a decision pretty early on in the project that we felt that that was necessary. And I'm so glad that we did it because everyone learned such a lot from the exercise, it gave the team a high level of confidence when we were heading into the final two weeks of the project. And that was an ambition that we stated at the start of the project, we said we want to be coasting into the migration, we did not want to be panicky or nervous or anything like that. As a team, we want to be just strolling into that migration event, very confident. And that's exactly what happened."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "I think just adding to that, Sean, in terms of the sort of contingency work that we built into the plan, that during that early discovery, we'd obviously done quite a bit of work, looking at the sort of key technical risks, engaging with Atlassian and understanding some of the sort of key dependencies that we've got as a project. So it gave us the confidence that we needed to have this contingency in the plan moving forward, and to continually review that as we went forward using the weekly meetings that we had."
+        },
+        {
+            "text": "So yeah, another great example I think, as a best practice, around that sort of getting a good view of risk early on during discovery and continually reviewing that throughout the delivery process."
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "I think, from a personal perspective, I would have liked to have introduced a collaborative tool that they've developed in the DWP Digital recently which was called prepare for change, where we could have better control of what we're saying to the end users in the DWP, so that they could confirm that they've done the checks etc, that we were asking them to make. It wouldn't have made a massive amount of difference on the day that we went live other than we had upwards of 200 issues that came in that we had to manage to onboard the users on onto the cloud."
+        },
+        {
+            "text": "But for me, more use of other DWP services would have been helpful, but I came a bit too late to the project and we didn't have time to set it up. But that would be something I would like to try next time for the next migration process that we're going to take on."
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "I think both my team and myself, we've learned a lot from working with this team. And I will go back to playing as a team value that Atlassian has, how important it is not only internally to do that play as a team, but also with our customers and partners. And also going back to another Atlassian value that is one of my favourites, open company, no bullshit. So I think that's what we've tried to do a lot with this group, and has managed to reach the success."
+        },
+        {
+            "text": "And I've learned also that anything is possible. Even though this team at the beginning, I think that for such a big project, we usually recommend also working with one of our solution partners that are experts in performing the migration. And when I initially discussed with Paul and Sean, they said that they decided to take this project internally and to assemble their own team. I was a bit worried because it was such an important project and we say that for some of our customers, they perform this migration just once and that's all for the lifetime. But with all the research that the team has done, and with the team that they have put together, I think that contributes a lot to the success."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So how successful has the SaaS migration project been?"
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "The biggest response was it was going be an improvement in their experience for Jira. It was well received by the people that I know in the department, because it was such an integral part of the day. Everybody sits around the Jira fire every day and just prods at it. And everything is geared to working on your tickets, and we talk about tickets on in our general conversation for the best part of our working day. So it was a relief for people to understand that Jira is not going away and we're just going to take it to a better place and for a better experience."
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "I think, I'm just reflecting back now on the week after the live migration. So we had the usual very busy Monday, where we're kind of just doing lots and lots of checks on the system and lots of phoning around teams to make sure that everything is as we hoped it would be. But I think the thing that really struck me was on our internal Tuesday call, our internal team call, where it was a bit like tumbleweed because we hadn't really got very much to talk about because the migration had just gone really very much to plan. Not better than expected, because we were expecting it to go well, but it just went so smoothly that there wasn't really anything to pick up in that week. We got to that Tuesday call and the call lasted about 10 minutes, because we didn't really have an awful lot to say other than well done everybody, we've actually done this, you know, we've pulled this off. So to me that that was a great sign that the team had had kind of come through on this. And it was really down to that team dynamic. And thinking back to other projects and things I've been involved in over the last 30 odd years, the biggest successes that I've seen have been really down to having strong team dynamics."
+        },
+        {
+            "text": "And I've never really taken the time to understand what those team dynamics were really about until this engagement with the department over the last few years and I've been working very hard to try and get underneath that and understand that, so this this project was a great way of testing a lot of those kind of theories and insight and a lot of it turns out to be true. You know if you have that trust, you build that trust, both within the team and you build that trust with your partners and your suppliers, especially on the supplier side, that is such a worthwhile thing to do and it pays huge dividends."
+        },
+        {
+            "text": "And we forget that the department is emerging from this very long period of having a very complex commercial supply chain ecosystem where everything was driven by contracts, and the level of trust in that supply chain was quite thin. So we're still kind of learning how to do this, how to build that trust again with supply chain on a one to one basis, on more of a partnering basis. So it was a great case study for us for how to build that trust as well. Just going back to Ramona\u2019s comment about, having this more honest relationship, this no BS kind of relationship. I think that was a really important reason why this project worked. Because Atlassian are that kind of company, that they have that kind of ethos, I think that was something I hadn't appreciated until we hit some interesting talking points partway through the project, we were having heated discussions about things. And it was that trust, that no BS thing that really pulled through for us that really allowed us to sort of keep our belief system alive as a group, and believe that we can overcome those things. For me, that was really interesting to see how that how that worked."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "Just following on from what you said there Sean about that first week after we'd migrated and how quiet it was, you know, the tumbleweed. It was to see that all these users could just get on and about their business without any impact. And that was the goal that we wanted to achieve it's why we set out in doing this the way we set out to do it, so that we could achieve that. And, you know, so that was a really great thing. And following on from that, you know, several months after the migration now. You know, it's also great to see the takeup that the users have started using that some of the new features available on the cloud SaaS solution, to drive out much more value for the department. So that equally is also a real good plus for me that we've achieved our objective as well in enabling our users with these features that they can use to deliver better for DWP."
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "I think it's also worth giving a shout out to Natalie and Elliot are our engineers who, who came into this project as fairly junior engineers. But what left the project as established proper full fledged engineers, because of the learning curve that they've been through. They really showed us the way in terms of stepping up and not being afraid to acquire new knowledge, new skills They had to acquire a great deal of that on the fly, just on the fly. And I understand Atlassian\u2019s nervousness about us not using a partner organisation, but one of the one of the reasons that we wanted to do it on our own was that we have to build and keep building that capability within the department, that technical capability. We need to start building our confidence in ourselves in terms of the technology and not see partners as a first resort, but see them as a place where we can go where we need to. But certainly, the engineers that we had were just brilliant on this project, they really, really stepped up."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "And just before we end, what advice would you give to others if they were thinking of taking on a project like this? What sorts of things should people keep in mind?"
+        },
+        {
+            "heading": 3,
+            "text": "Linda Anderson\u00a0 "
+        },
+        {
+            "text": "Ensuring that the community understood that we were migrating their product, it was their tool that they really like working with Jira and Confluence and there was they were very nervous about us moving across the losing their data, etc."
+        },
+        {
+            "text": "So early on, we identified those features that could they couldn't bring with them and worked with them very closely to try and replicate what it was they wanted to bring across. And try and find ways and put workarounds on there. And some those users that we engaged with early on ended up being our gurus that we were going to for them to support us to get this guidance put on, so it was it was mining that that valuable resource we have which is our own people who have that expertise in their fields that helped me in particular, get the guidance to a quality that was able to be used across the piece."
+        },
+        {
+            "text": "So that is something I would recommend that any new projects taken on a similar adventure, do engage with their community early on, and not inflict the product on them and allow them to help us to \u00a0get the migration in comfortably for them."
+        },
+        {
+            "heading": 3,
+            "text": "Sean Luke\u00a0 "
+        },
+        {
+            "text": "I suppose that the best advice I can give is to focus on that team dynamic and build that strong team dynamic and try not to build a team of individuals. I know it's a bit cliche, but there comes a point when when you're doing this, where the team become self-aware. It\u2019s really hard to describe this without having been actually through it. But I would say, really focus on that on that team dynamic, be as open as possible. The other groups that you involve in the project, try to adopt them into your team if you can. We did that with the new service support team, we involved them in quite early on in the project and opened everything up to them. We also did that with the test and release team, we were super helpful throughout the project, and they really helped us to build a lot of confidence in what we were doing. And that was because we were very open with them from the start, we didn't see it as a procedure or a process thing."
+        },
+        {
+            "text": "And especially in the supply chain. We also part we partnered with Clear Vision on this project, we've not mentioned so far, but they were particularly helpful. We engaged them more or less at the end of the project to give us a bit of an independent view of how we were set up for migration. And that gave us a big confidence boost when they came back and said the preparations looked pretty solid. And they gave us a few little nuggets of things to help us to put the final pieces in place. But the relationship with Atlassian was really pivotal for us. So I would strongly advise working more openly with your partner organisation, certainly supply chain,"
+        },
+        {
+            "heading": 3,
+            "text": "Ramona Scripcaru\u00a0 "
+        },
+        {
+            "text": "I would say that anything is possible if you have the right support in the backend. So yeah, just have trust that anything can be achievable with the hard work there."
+        },
+        {
+            "heading": 3,
+            "text": "Paul Fearn\u00a0 "
+        },
+        {
+            "text": "I just second everything that Sean and Ramona\u2019 said, and that openness that we had really drove that dynamic in the team, absolutely made it a pleasure to work with everybody involved. And I've got the utmost respect for everybody on the team, I really have."
+        },
+        {
+            "text": "And the only sort of thing I probably should have covered off earlier on was that one of the things that we did also do during the discovery work was to ask the question has it been done before with UK government. And I was really pleased to that we weren't the first in UK government, so maybe the first at this scale in terms of the size of our migration, but we were able to talk to that other government department to understand their lessons learned and what they went through. So there's a lot of similarities between what we did and what they did and in some cases we can see that we took a slightly different approach. And I think that really paid off when you when you look at the two different projects."
+        },
+        {
+            "heading": 3,
+            "text": "Stuart Money\u00a0 "
+        },
+        {
+            "text": "So that ends our podcast for today. Hit the subscribe button if you want to make sure you don't miss our next episode. And I'd like to thank Sean, Ramona, Paul and Linda for taking part today. I found their migration story really interesting, and I hope you did too."
+        },
+        {
+            "text": "So thanks for tuning in and I'll see you next time on the DWP Digital podcast."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2021/09/22/containerisation-in-the-public-sector-a-new-platform-to-improve-our-services/",
+    "title": "Containerisation in the public sector \u2013 a new platform to improve our services",
+    "authors": [
+        "Rachel Jones, Head of IT Operations Practice"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2021-09-22T13:54:09+01:00",
+    "content": [
+        {
+            "text": "Here at HM Land Registry we\u2019re constantly looking at ways to improve our efficiency across a wide range of areas and how we can harness technology to help."
+        },
+        {
+            "text": "To us, efficiency isn\u2019t just about improving service speeds and customer interactions. It also includes the underlying infrastructure that makes improvements possible."
+        },
+        {
+            "text": "As we said in our Business Strategy, we aim to continue to enhance and expand our existing electronic and digital services. One of the key foundations of this is transforming and improving how we use this underlying infrastructure to enable better services and technology for our customers and our people."
+        },
+        {
+            "text": "Following extensive research, we concluded that moving our services onto a containerisation platform was the way forward."
+        },
+        {
+            "heading": 2,
+            "text": "Sector leading"
+        },
+        {
+            "text": "We are one the first public sector agencies to adopt containerisation technology and migrate all our digital services to use them. With this being the direction the industry is heading for hosting, we believe that many will follow."
+        },
+        {
+            "heading": 2,
+            "text": "But what does this actually mean?"
+        },
+        {
+            "text": "By moving to a new technology platform we\u2019ve been able to reduce the complexity of the technology that sits underneath our digital services. This makes the existing services easier to monitor, maintain and develop \u2013 improving stability for our customers and colleagues \u2013 and provides a flexible foundation for new services in the future."
+        },
+        {
+            "text": "We\u2019ve done this by using containerisation technology and container management platforms. The simplest way to describe this new technology is that the platform works like a flat Lego board that you build your applications, or containers, on \u2013 each of which can be moved around separately while retaining the same foundation. A container packages up code and all its dependencies, so the application runs quickly and reliably from one environment to another. By using this approach, development and implementation is simpler, so making new applications or services available is less time consuming and easy to distribute."
+        },
+        {
+            "heading": 2,
+            "text": "How did we develop this? "
+        },
+        {
+            "text": "We approached this project using the Government Digital Service design phases. This enabled us to understand truly the needs of our customers and ensure we built a platform which met their needs and future ways of working ambitions, enabling full DevOps and collaboration in an iterative, agile manner across our Digital, Data and Technology Directorate."
+        },
+        {
+            "text": "The investigation into technologies resulted in us appointing Red Hat OpenShift, the industry\u2019s leading enterprise Kubernetes platform, giving us the technology we wanted with the enterprise backing that would help us host and manage our critical services."
+        },
+        {
+            "text": "In June 2020 Red Hat performed a health check of our implementation and provided recommendations for next steps. The feedback from Red Hat recognised and validated the work that had been done to develop this platform."
+        },
+        {
+            "text": "Alf Franklin, Head of Public Sector UK, Red Hat"
+        },
+        {
+            "text": "We have seen significant benefit from this platform development, from a reduction to our virtualised service estate \u2212 leading to cost savings and easier ongoing management, ensuring everything is deployed as code, speeding up deployments \u2212 to flexibility in spinning up new environments for our service teams and a common way of working so all developers can share improvements."
+        },
+        {
+            "text": "Ultimately, we\u2019ve made these changes to help ensure that our use of technology continues to support the property market and to make interacting with us quicker, simpler and easier for our customers. If you have any questions, please comment below."
+        },
+        {
+            "text": "Alternatively, read how we\u2019re approaching the future requirements of land registration."
+        }
+    ]
+}

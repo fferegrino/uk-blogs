@@ -1,0 +1,108 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/02/09/how-we-improved-translations-on-gov-uk/",
+    "title": "How we improved translations on GOV.UK",
+    "authors": [
+        "Tim Motz, Product Manager, GDS"
+    ],
+    "categories": [
+        "Content",
+        "Product changes"
+    ],
+    "pub_date": "2022-02-09T09:31:31+00:00",
+    "content": [
+        {
+            "text": "The Government Digital Service (GDS) strategy\u2019s first mission is to maintain \u201cGOV.UK as the single and trusted online destination for government information and services\u201d. To do this, we need to make sure GOV.UK is accessible to all our users, including providing information in multiple languages to reflect that our users speak a variety of languages."
+        },
+        {
+            "text": "GOV.UK pages appear in more than 60 languages alongside English and Welsh. For example, British embassies\u2019 pages, which are used to summarise their local work, are often translated into local languages."
+        },
+        {
+            "text": "Vital information on subjects like coronavirus (COVID-19) may be translated into languages spoken in the UK in order to be more accessible, for example we have the NHS COVID Pass letter in Nepali. Press releases are also sometimes translated into languages of interest, like this German-language page about the UK signing a Joint Declaration with Germany."
+        },
+        {
+            "text": "GOV.UK\u2019s roster of languages has grown organically in our first decade. It\u2019s been possible to add new languages fairly quickly when needed, without spending time developing too many formal processes or policies. However, over time this approach has led to some technical problems."
+        },
+        {
+            "heading": 2,
+            "text": "Issues with online page furniture"
+        },
+        {
+            "text": "These problems are most acute in the translations of what we call page furniture: the headings, menus and other pieces of text that aren\u2019t included in the main content of a GOV.UK page. While the main content of pages can be edited easily by publishers in GDS or across government, page furniture is stored in the codebase, so it\u2019s harder to change."
+        },
+        {
+            "text": "Out of over 50 applications we use on GOV.UK, only 4 use translations. For these applications, we store the translations of page furniture in what are known as locale files. These are text files that store words which we want to use time and time again in translation. There is typically one locale file, per language, per application, and since GOV.UK has over 60 languages, and 4 applications using translations, we have several hundred locale files to manage. In the past, we haven\u2019t done that very tidily."
+        },
+        {
+            "text": "Here\u2019s an example of a locale file. This is part of the old Spanish locale file for our Whitehall Publisher application."
+        },
+        {
+            "text": "When a user visits a Spanish-language page produced by the Whitehall application, we use this set of translated words to find the correct Spanish translation. Each green piece of text is called a key, and corresponds to a piece of text that is used in multiple places on the site. These keys are consistent across different languages\u2019 locale files."
+        },
+        {
+            "text": "For example, \u2018announcement\u2019 might appear next to an article on the site. On an English page, it will be labelled with \u2018announcement\u2019, but on a Spanish page we use the locale file to find the translation: \u2018anuncio\u2019. Every other language\u2019s locale file will similarly have its own translation of \u2018announcement\u2019."
+        },
+        {
+            "text": "But as you can see, the translation for \u2018blog_post\u2019 is missing. As a result, if we tried to show the Spanish translation of \u2018blog post\u2019 on a page hosted by Whitehall, we would instead fall back on the English as a back-up. That would mean users seeing the English words \u2018blog post\u2019 on a Spanish page instead of \u2018entrada de blog\u2019, which is obviously a poor user experience."
+        },
+        {
+            "text": "However, other languages were in a worse state. This image shows how the equivalent locale file for Vietnamese used to look."
+        },
+        {
+            "text": "The Vietnamese locale file doesn\u2019t contain any translations at all, which meant that lots of Vietnamese page furniture would have appeared in English on the site."
+        },
+        {
+            "text": "Furthermore, locale files should be formatted consistently, so the Vietnamese file should have exactly the same format as the Spanish. But as you can see, the list of words is very different."
+        },
+        {
+            "text": "This inconsistency was causing us several problems. It made the site harder to maintain, and made it harder to compare the state of translations in different languages. It also made it very complex to source translations."
+        },
+        {
+            "heading": 2,
+            "text": "Fixing our locale files"
+        },
+        {
+            "text": "We therefore undertook a piece of work to standardise the format of all of our locale files. There were several stages."
+        },
+        {
+            "text": "First we needed to make sure that all of the necessary locale files actually existed in our codebase. Then we checked that each locale file contained the same lists of keys, in the same order. We also standardised how we stored plural forms of words."
+        },
+        {
+            "text": "Once all of the locale files were in the same format, we could extract all the words that hadn\u2019t been translated before, and get them translated by an external agency. Finally, we added the newly translated words to our locale files."
+        },
+        {
+            "text": "As a result, for the first time all of our locale files are consistently formatted and fully translated. Moreover, many words that were incorrectly appearing in English on GOV.UK are now translated, which is a noticeable improvement for users."
+        },
+        {
+            "text": "For example, this Arabic article about the ambassador to Lebanon previously displayed the \u2018World news story\u2019 header in English instead of Arabic, and is now all in Arabic."
+        },
+        {
+            "text": "And this Kazakh-language biography of the deputy head of mission to Kazakhstan used to show its list of contents in English, but is now all in Kazakh."
+        },
+        {
+            "heading": 2,
+            "text": "Further improvements for users"
+        },
+        {
+            "text": "As well as working on locale files, we also addressed some separate issues that were comparatively low-effort for us, yet high-impact for users."
+        },
+        {
+            "text": "For example, the featured links that appear at the top of many pages couldn\u2019t previously be translated; when they could, the links would always lead to the English language content for the link, which was a jarring user experience."
+        },
+        {
+            "text": "It\u2019s now possible for content designers to translate the links and to associate them with a translated page - another improvement for our users. This can be seen on the Welsh-language Companies House page which now has these links in Welsh, whereas for a long time they were in English."
+        },
+        {
+            "text": "We've also recently made it possible to add translations of social media accounts to organisation pages in other languages. This had been a long-standing problem for pages belonging to organisations like the Foreign, Commonwealth & Development Office."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "These changes have made using GOV.UK in other languages a better experience for users. They've also helped us identify further improvements to translations for the future."
+        },
+        {
+            "text": "In this coming quarter we\u2019ll be working on which languages and content types we need to prioritise. Subscribe to the blog to keep up to date on our work."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://knowledgeasset.blog.gov.uk/2022/06/16/public-sector-innovation-scientists-develop-a-new-technique-to-detect-earthquakes-and-ocean-currents-using-subsea-cables/",
+    "title": "Public sector innovation: Scientists develop a new technique to detect earthquakes and ocean currents using subsea cables",
+    "authors": [
+        "The Government Office for Technology Transfer",
+        "National Physical Laboratory (NPL)"
+    ],
+    "categories": [
+        "Department for Business Energy and Industrial Strategy"
+    ],
+    "pub_date": "2022-06-16T12:08:30+01:00",
+    "content": [
+        {
+            "text": "The National Physical Laboratory (NPL) made use of their knowledge assets \u2013 specifically, its knowhow of advanced measurement techniques - to transform \u2018subsea optical-fibre cables\u2019 into \u2018sensor arrays\u2019 for the detection of underwater earthquakes and ocean currents. "
+        },
+        {
+            "text": "For the first time, this could allow scientists to acquire continuous, real-time environmental data from the bottom of seas and oceans. This has the potential to expand the global earthquake monitoring infrastructure from land (current seismometer-based networks) to the seafloor (cable-based approach). In future, it could potentially be used for early-tsunami detection and help save lives globally by giving governments extra time to warn coastal communities."
+        },
+        {
+            "text": "Transforming subsea optical-fibre cables into arrays of sensors:"
+        },
+        {
+            "text": "In 2018, research conducted by NPL and its partners at the time demonstrated that terrestrial and submarine cables could be repurposed as sensors to detect earthquakes by using ultra-stable measurement techniques.\u00a0However, one cable could act only as a single sensor."
+        },
+        {
+            "text": "New NPL-led research has been published in Science and shows how seafloor cables can be converted into an array of sensors rather than just a single sensor.\u00a0NPL and its partners (Google, University of Edinburgh, British Geological Society, Istituto Nazionale di Ricerca Metrologica) tested this technique on a 5,860km-long subsea optical-fibre cable between the UK and Canada. To transmit data traffic over these great distances, the cable incorporates optical repeaters (an electronic device that receives and amplifies signals over long distances) every 46 km."
+        },
+        {
+            "text": "During the tests, the team successfully measured the environmental perturbations (i.e. a deviation of something from its normal state due to an outside influence) over 12 individual cable spans between repeaters, detecting distant earthquakes and local ocean currents. By transforming the cable into an array of sensors, the team was also able to identify the source location of earthquakes. NPL plans to increase the number of sensors in future tests, potentially up to 129."
+        },
+        {
+            "text": " "
+        },
+        {
+            "text": "Subsea optical-fibre cable. Credit: NPL"
+        },
+        {
+            "text": "Wider applications:"
+        },
+        {
+            "text": "Despite current sensing capabilities, seas and oceans today remain mostly unmonitored. Only a handful of permanent ocean-floor sensors exist, as installation and maintenance is expensive and technologically challenging. This leaves a huge gap in geophysical data and limits our understanding of the Earth\u2019s structure and dynamic behaviour."
+        },
+        {
+            "text": "It is estimated there are more than 430 optical-fibre cables around the world, spanning distances of 1.3 million km (800,000 miles). If this technique were to be applied more broadly across the globe\u2019s cable systems, huge areas of the ocean floor could be monitored that aren\u2019t today. This would provide more data for scientists and potentially detect tsunamis earlier than with other existing methods, helping to save more lives globally."
+        },
+        {
+            "text": "The technique opens the door for other possibilities, such as monitoring deep-water currents for changes caused by global warming. More broadly, it provides for the first time an affordable and scalable solution for monitoring the seafloor globally, as no changes to the underwater infrastructure are required."
+        },
+        {
+            "text": "For more information:"
+        }
+    ]
+}

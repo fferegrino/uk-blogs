@@ -1,0 +1,83 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/07/20/how-rewriting-text-messages-can-help-services-to-save-money/",
+    "title": "How rewriting text messages can help services to save money",
+    "authors": [
+        "Karl Chillmaid - Senior Content Designer for GOV.UK Notify, Government Digital Service"
+    ],
+    "categories": [
+        "Digital Service Platforms",
+        "GOV.UK Notify",
+        "Transformation"
+    ],
+    "pub_date": "2022-07-20T10:14:14+01:00",
+    "content": [
+        {
+            "text": "For public sector services, text messages are a cost-effective way to speak to people. They\u2019re cheaper than letters and, if they\u2019re well written, they can be more engaging than emails."
+        },
+        {
+            "text": "It\u2019s important that services get the best value for money from the messages they send. To help them do this, we\u2019ve been reading (and rewriting) their text messages."
+        },
+        {
+            "heading": 2,
+            "text": "Less is more"
+        },
+        {
+            "text": "The cost of sending a text message depends on how long it is. Anything over 160 characters counts as more than one message. This gives us a simple - if simplistic - way to measure if a text message provides good value for money."
+        },
+        {
+            "text": "For example, if you cut 1 character from a 460-character message, you reduce the cost of sending it by a quarter. Small changes like this could help a service to make substantial economic savings. They might even be able to use Notify for free under our current pricing model."
+        },
+        {
+            "text": "To test this idea, we decided to offer some free content design support."
+        },
+        {
+            "text": "We contacted a small number of services and asked them to pick a long text message template. Then we worked our way through a series of questions:"
+        },
+        {
+            "text": "One of the services we worked with was Leicester Children\u2019s Centres. They handle everything from early-years activities to supporting families dealing with domestic violence."
+        },
+        {
+            "text": "This is the template they chose:"
+        },
+        {
+            "text": "Leicester Children\u2019s Centres: Hello. Due to the situation regarding COVID-19, the Children, Young People and Family Centres are not able to offer their Bumps to Babies antenatal courses at the moment. However, we have uploaded our course videos online so that you are still able to access the information that we would have gone through in our classes. If you have any queries after watching, please contact your midwife at your next appointment or on [phone number]"
+        },
+        {
+            "text": "The link to the videos is: [link]"
+        },
+        {
+            "text": "And here\u2019s the new version we wrote together:"
+        },
+        {
+            "text": "Leicester Children\u2019s Centres: Bumps to Babies antenatal classes are not running at the moment, so we\u2019ve made them available as a series of videos. You can watch them at: [link]"
+        },
+        {
+            "text": "If you have any questions, speak to your midwife or call [phone number]."
+        },
+        {
+            "text": "The original was 4 text messages long. We got it down to 2. Cutting it by half will save the service up to 4,000 text messages a year."
+        },
+        {
+            "text": "We later found out that Leicester City Council has 6 similar services. They\u2019re all going to start using the new template, which could save the council up to 24,000 text messages a year."
+        },
+        {
+            "text": "Not a bad result for a couple of hours of work."
+        },
+        {
+            "text": "We\u2019ve heard from services that prioritising content design can sometimes be hard. But a well-written message can save time and money as well as making things easier for recipients."
+        },
+        {
+            "text": "Rewriting a few templates could mean that a service never has to pay to use Notify. Those that do pay can take the money they save and spend it on other important work."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing next"
+        },
+        {
+            "text": "GOV.UK Notify is a small team. We don\u2019t have enough content designers to offer one-to-one support for 6,000 plus services. But pair writing with our users has been a great way to learn about the challenges they face, and how we can help."
+        },
+        {
+            "text": "Next we\u2019re going to explore:"
+        }
+    ]
+}

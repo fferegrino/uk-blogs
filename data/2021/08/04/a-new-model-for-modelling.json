@@ -1,0 +1,76 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2021/08/04/a-new-model-for-modelling/",
+    "title": "A new model for modelling",
+    "authors": [
+        "Michael Hodge - Office for Statistics Regulation"
+    ],
+    "categories": [
+        "Analysis"
+    ],
+    "pub_date": "2021-08-04T13:22:54+01:00",
+    "content": [
+        {
+            "text": "Last year, the global pandemic thrust the Office for Statistics Regulation into the limelight following a series of high profile uses of statistics for decision-making. One of the biggest pieces of work we did was our review of the approach to developing statistical models to award 2020 exam results. Algorithms were blamed, with one headline stating \u201cA-levels: 'Dreams ruined by an algorithm'\u201d (BBC Northern Ireland website)."
+        },
+        {
+            "text": "We were concerned about the threat of undermining public confidence in statistical models more broadly. Our report looked at the 4 UK qualification regulators\u2019 use of algorithms through both social and technical viewpoints to investigate what went wrong in this scenario. We also looked at how statistical models can be used effectively going forwards."
+        },
+        {
+            "text": "This work took us into new frontiers by commenting on the use of statistical models that influence public life, not just those that produce official statistics. We found there were significant challenges facing the qualification regulators in creating their statistical models."
+        },
+        {
+            "text": "One of the main findings was that the development of models which generate statistics or are used to inform decisions must adhere to the Code of Practice for Statistics to gain public acceptability and confidence. The 3 pillars of the code are Trustworthiness, Quality and Value."
+        },
+        {
+            "heading": 2,
+            "text": "A model by any other name"
+        },
+        {
+            "text": "Statistical models, however, are just one range of techniques used by government analysts, data scientists and statisticians. Increasingly, newer techniques such as machine learning are being tested and deployed in the production of statistics and used to inform decisions."
+        },
+        {
+            "text": "Examples of machine learning models include those used in the Office for National Statistics faster indicator work (Using traffic camera images to derive an indicator of busyness: experimental research) and the Ministry of Justice\u2019s prison population estimates work (How the Ministry of Justice used AI to compare prison reports.)"
+        },
+        {
+            "text": "Furthermore, with the creation of the Office for Artificial Intelligence (AI) and the government\u2019s National AI Strategy, we are likely to see an increased use of more advanced AI techniques going forward."
+        },
+        {
+            "text": "As a result, we identified this as a crucial time to provide guidance for the use of models, regardless of whether they are statistical models, machine learning models or AI models."
+        },
+        {
+            "text": "There have been a number of publications for ethical guidance for models (Ethics, Transparency and Accountability Framework for Automated Decision-Making and the Data Ethics framework) as well as the creation of the UK Statistics Authority\u2019s Centre for Applied Data Ethics."
+        },
+        {
+            "text": "There are also a number of technical guides on how to develop models such as The Aqua Book. However, we saw there was no current guidance that suitably brought together social, ethical and technical aspects for all elements of model creation:"
+        },
+        {
+            "text": "We believe our role as a regulator and our experience of the exam review from last year put us in a prime position to provide this socio-technical guidance for models."
+        },
+        {
+            "heading": 2,
+            "text": "Guidance that is fit for purpose"
+        },
+        {
+            "text": "Making sure our guidance is relevant to those creating the models, as well as those using the models to produce outputs, has been at the forefront of our consideration. Our detailed review phase has allowed us to consider how this guidance relates to the Code of Practice and make sure it is fit for purpose."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "Trustworthy, high quality and high value models are vital in generating statistics and informing decisions that serve the public good."
+        },
+        {
+            "text": "We asked for feedback on the guidance from a range of analysts, data scientists, statisticians, and senior leaders from across government. These individuals were diverse in their experiences, roles, technical skills, and socio-economic backgrounds. It was extremely important that this group could help shape this guidance so that models work for all groups in society."
+        },
+        {
+            "text": "In the Office for Statistics Regulation, we believe this guidance will help producers improve public acceptability and confidence in their models. We aim to publish this work in autumn 2021. If you wish to be involved, or have any questions please contact us at the Office for Statistics Regulation by emailing regulation@statistics.gov.uk."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the\u00a0About this blog\u00a0page."
+        }
+    ]
+}

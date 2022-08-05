@@ -1,0 +1,95 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2022/02/04/changing-the-covid-19-case-definition/",
+    "title": "Changing the COVID-19 Case Definition",
+    "authors": [
+        "Roberto Vivancos",
+        "Isaac Florence"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)"
+    ],
+    "pub_date": "2022-02-04T11:12:38+01:00",
+    "content": [
+        {
+            "text": "At the beginning of the pandemic, little was known about the novel coronavirus we now know as SARS-CoV-2 \u2013 or as its commonly called COVID-19."
+        },
+        {
+            "text": "Two of the things we did not know were how long an infection lasts or whether you could be infected more than once. We have been monitoring test results since June 2021 to gain answers to these questions and have published analysis in the weekly Influenza and COVD Surveillance reports."
+        },
+        {
+            "text": "Although reinfections were initially very rare, we have seen the number rising slowly over the last two years, as immunity from prior infection wanes and new variants emerge.\u00a0 During the Omicron variant wave, the number and proportion of people being reinfected with SARS-CoV-2 has increased. Additionally, as so many people have now experienced infection since 2020, there is a larger pool of people in which reinfection can occur."
+        },
+        {
+            "text": "To adapt to this changing picture, UKHSA has changed the case definition for COVID-19."
+        },
+        {
+            "heading": 2,
+            "text": "How are episodes of COVID-19 defined?"
+        },
+        {
+            "text": "Until now, COVID-19 cases have been reported at the individual level: every positive test taken and reported by one person has been considered part of a single case record, initiated by their first positive test."
+        },
+        {
+            "text": "Most infectious diseases unfortunately have the potential to infect people more than once. The frequency at which this happens varies between diseases, as does the definition of an episode, but the principle remains the same."
+        },
+        {
+            "text": "Based on evidence from the SIREN study (on the SIREN portal, and in The Lancet), an episode definition has now been created."
+        },
+        {
+            "text": "In short, positive tests belonging to the same person are grouped together and considered one episode if they are within 90 days. Positive tests results that are 90 days apart (regardless of negative tests in between) will be considered as a separate episode of infection, and therefore the person is counted as a case more than once. These subsequent episodes are called \u2018possible reinfections\u2019."
+        },
+        {
+            "text": "For example, if a person tests positive one day (day zero) and again 100 days later (day 101), they would be deemed as having two case episodes of infection. However, if they tested positive on day zero, day 30, and day 101, all these tests would be grouped into a single case episode of infection."
+        },
+        {
+            "text": "This episode definition is based solely on time and does not consider negative test results, nor whole-genome sequencing results. Current evidence and evaluations suggest that this has minimal impact on the case episode figures. As always, UKHSA and our partners will continue to monitor and update our methodologies as appropriate."
+        },
+        {
+            "heading": 2,
+            "text": "What this means for the COVID-19 response"
+        },
+        {
+            "text": "The case definition that has existed since the beginning of the pandemic \u00a0(individual level) has been the surveillance definition on which the UK Coronavirus Dashboard analysis, and reports have been based. However, contact tracing has undertaken a very safe practice of following all positive cases, regardless of whether they were possible reinfections or cases of prolonged infection."
+        },
+        {
+            "text": "The change in the case definition to one based on episodes means that case rates will change and better reflect current rates of infection in the community. From 31 January 2022, the time of this change, the total increase in the number of cases in England is around 4.0%, representing 588,114 cases over the entire period of the pandemic. However, most of the added episodes have been since the emergence of Omicron in the UK; currently around 10% of new episodes each day are reinfection episodes."
+        },
+        {
+            "text": "Due to the statistically small numbers involved until now, it is very unlikely that had these cases been previously included in the surveillance database and reports, they would have had any substantial impact on situational assessments and national or regional level decision making."
+        },
+        {
+            "text": "Furthermore, when considering levels of transmission, case rates are rarely used in isolation and are supported by a range of other relevant metrics - such as positivity rates, ONS prevalence estimates and R consensus statements by region."
+        },
+        {
+            "text": "Changes have now been made to many metrics on the UK Coronavirus Dashboard, details of which can be found here - Metrics update."
+        },
+        {
+            "heading": 2,
+            "text": "How the change is being made"
+        },
+        {
+            "text": "COVID-19 test results from laboratories across the country, including NHS and UKHSA labs, UK Government lighthouse laboratories, and private testing providers, are reported to UKHSA\u2019s Second-Generation Surveillance System (SGSS). SGSS collects and organises positive test results for all notifiable diseases from over 225 laboratories across the UK."
+        },
+        {
+            "text": "When a positive test result is reported by a laboratory to SGSS, it goes through linkage processes to validate who the sample was taken from using the NHS patient records and then goes into the deduplication logic to form part of the case dataset."
+        },
+        {
+            "text": "Up until now, this deduplication logic means that if an individual has not had a previous positive COVID-19 test, they enter the case dataset (known in epidemiological lingo as a \u201clinelist\u201d). However, if that individual has already had a positive Covid-19 test result reported they will already exist in the linelist and so will be deduplicated. This ensures that the individual only exists in the linelist once. This process happens to all new positive test results every day."
+        },
+        {
+            "text": "In the new process, this deduplication logic considers the episode definition and assigns positive tests results to episode records (rather than individual records) as appropriate."
+        },
+        {
+            "text": "To make this change, the team that run SGSS need to undo all the deduplication that has happened to positive COVID-19 test results, and then redo it using the new episode definition. This involves 19,833,233 positive test results being deduplicated into 15,177,316 episodes (as of 31st January), all in one day, so we have a seamless transition of data going into surveillance, analysis, and of course the UK Coronavirus Dashboard."
+        },
+        {
+            "text": "Public Health Agencies in Wales, Northern Ireland and Scotland are similarly updating their case definitions to this episodes-based (90-days apart) definition.\u00a0 They will make the changes to the data they provide to the UK Coronavirus Dashboard in due course."
+        },
+        {
+            "text": "Looking forward, UKHSA will continue to monitor test results and reinfections to ensure that we work to our responsibility to protecting every member of every community from the impact of infectious diseases."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

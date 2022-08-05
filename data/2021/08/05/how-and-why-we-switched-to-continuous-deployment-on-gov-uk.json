@@ -1,0 +1,110 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2021/08/05/how-and-why-we-switched-to-continuous-deployment-on-gov-uk/",
+    "title": "How and why we switched to Continuous Deployment on GOV.UK",
+    "authors": [
+        "Ben Thorner, Developer, Government Digital Service",
+        "Jonathan Nichols, Senior Product Manager at the Government Digital Service (GDS)"
+    ],
+    "categories": [
+        "How we work",
+        "Product changes"
+    ],
+    "pub_date": "2021-08-05T09:13:25+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is an ecosystem of 50 applications (apps) that jointly provide a single experience for users, from the publishing tools to the public-facing parts of the site."
+        },
+        {
+            "text": "Every week we make lots of code changes to many of the apps, which we then deploy to the live site. Before May 2020, each deployment was a manual, time-consuming process, so we would often end up doing them in batches. That could make it difficult to isolate a faulty change if one of them caused a problem, and undo the change if necessary."
+        },
+        {
+            "text": "Ideally we should deploy frequently with small changes, but on average there was a delay of 3 days between making a change and deploying it."
+        },
+        {
+            "text": "A delay of 3 days made it more likely that a developer would be responsible for deploying changes made by other developers. Every change we make should be thoroughly documented, tested and reviewed, but it's still an extra burden on the person doing the deployment to understand the context."
+        },
+        {
+            "text": "Having people in the process also meant we relied on each developer having the same knowledge of what to check before deploying."
+        },
+        {
+            "text": "Developers on GOV.UK are encouraged to spend 10% of their time on broader technical improvements, which wouldn't naturally get prioritised in any individual team. We call this \u201c10% time\u201d. In 2020, a few GOV.UK developers decided to use their 10% time to tackle the growing problem of deployments."
+        },
+        {
+            "text": "This blog post is about what we did to make our deployment process fit for purpose."
+        },
+        {
+            "heading": 2,
+            "text": "Continuous Deployment"
+        },
+        {
+            "text": "As well as exploring ways to cut down the number of changes, it was clear we had to look at automating our deployments to make them more efficient. This is called \u201cContinuous Deployment\u201d, and for GOV.UK it looks something like this:"
+        },
+        {
+            "text": "Most importantly, if the tests fail at any stage, the deployment stops and a developer will need to intervene. This is not hard to implement, except for one thing: writing the tests. How do we know when we have \u201cenough\u201d tests for an app?"
+        },
+        {
+            "text": "The problem went even deeper than this: it wasn\u2019t just a question of having enough tests, but also how to write them. In order to automate our deployments, it felt like we had to decide the future of all automated testing for GOV.UK."
+        },
+        {
+            "text": "We realised that switching to Continuous Deployment is easy, but saying when it\u2019s safe is hard. It was easy to avoid this question in our manual process, as each developer would make the judgement call on their own. Although we took some steps towards an answer in 2017, we never managed to standardise these judgement calls into something we could automate. To make progress, we needed to be bold and try something new."
+        },
+        {
+            "heading": 2,
+            "text": "Breaking the ice"
+        },
+        {
+            "text": "In April 2020 we began work on a trial of Continuous Deployment, talking to other GOV.UK developers to understand their concerns and making changes to address them where possible."
+        },
+        {
+            "text": "We set conditions for the trial to reduce the risk of a faulty change being deployed, but accepted that this might happen in practice:"
+        },
+        {
+            "text": "The trial ran for one month, with no incidents. After the trial, we had a retrospective with the developers who had worked on the apps during that time."
+        },
+        {
+            "text": "We agreed to expand the trial to 5 more apps, for another month. But we knew we couldn\u2019t continue this way: we were only choosing the apps we felt comfortable with, and the lack of incidents so far didn't prove it was safe to continue. We had to define when Continuous Deployment would be safe for each of the apps we maintain."
+        },
+        {
+            "heading": 2,
+            "text": "Enough is enough"
+        },
+        {
+            "text": "In September 2020, we began work on a new Request For Comments (RFC) for Continuous Deployment. The focus of the RFC was a new standard of testing, which each app would have to meet before we could let changes to it deploy automatically."
+        },
+        {
+            "text": "To write the new standard, we had to break down the problem of faulty changes, thinking about the different types of fault or \u201cbug\u201d that could occur, which tests could be used to detect them, and when we had enough of those tests. We've blogged separately about the details of the new standard of testing."
+        },
+        {
+            "text": "In order for Continuous Deployment to be a success, we had to make sure the new standard was practical for most GOV.UK apps. We did this by creating an audit of all the apps, listing all of the issues that would need to be fixed before we could enable Continuous Deployment for each of them."
+        },
+        {
+            "text": "The RFC for Continuous Deployment went on to become the most debated technical decision in GOV.UK history, with 156 comments from 14 developers. But while a few apps already met the standard, it would take years of spare 10% time to enable Continuous Deployment for all of them. Fortunately, we found a way to speed it up."
+        },
+        {
+            "heading": 2,
+            "text": "Speeding it up"
+        },
+        {
+            "text": "In February 2021 we decided to bring work on Continuous Deployment into the Platform Health team. Our aim was to enable one app every 2 weeks, and have 50% of our apps enabled by the end of June."
+        },
+        {
+            "text": "We assessed the work required for each app, combined with the frequency of deployments, to come up with a priority scoring. We started off with some less complex apps, to build up team knowledge and confidence."
+        },
+        {
+            "text": "The work proceeded well and we hit our target of 50% of apps over a month early. The next set of apps will involve more complex work, and take longer, but there\u2019s still real value in doing the work. Each app that is continuously deployed makes code changes easier and the whole of GOV.UK more robust."
+        },
+        {
+            "heading": 2,
+            "text": "Impact and next steps"
+        },
+        {
+            "text": "We\u2019ve had no incidents caused by Continuous Deployment. The average time for code to make it all the way from our test environments to the live site has been reduced from 3 days to 0.5 days, with far less manual intervention by developers."
+        },
+        {
+            "text": "\"Continuous Deployment has ensured that our apps are fully patched and up to date. It used to take far too long to manually deploy changes, which meant that they would be delayed for days or even weeks.\u201d\nChris Ashton, Developer on GOV.UK"
+        },
+        {
+            "text": "We\u2019re continuing to work our way through the rest of the apps, aiming to get 70% of them continuously deployed by the end of September. Switching to Continuous Deployment is making it easier, faster and smoother for developers to deploy changes to GOV.UK. The time and effort saved allows us to deliver value to users more efficiently."
+        }
+    ]
+}

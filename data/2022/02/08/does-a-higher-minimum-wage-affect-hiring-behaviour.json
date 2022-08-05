@@ -1,0 +1,60 @@
+{
+    "url": "https://minimumwage.blog.gov.uk/2022/02/08/does-a-higher-minimum-wage-affect-hiring-behaviour/",
+    "title": "Does a higher minimum wage affect hiring behaviour?",
+    "authors": [
+        "Emma Hill"
+    ],
+    "categories": [
+        "Evidence and Consultation",
+        "National Living Wage",
+        "Research"
+    ],
+    "pub_date": "2022-02-08T11:42:42+00:00",
+    "content": [
+        {
+            "text": "Every year, we commission researchers to look into the impact that the minimum wage has had on firms and workers, and their findings form a key part of our evidence base. There has been little evidence of any negative impact on employment or hours so far; but other employer responses, such as changes in prices, profits, productivity and investment, can be challenging to measure. We are therefore always interested in research that uses new methods and data sources in search of the impact of the minimum wage."
+        },
+        {
+            "text": "Today we have published a report that does exactly this. Papps and Delaney (2022) use job vacancies to estimate the impact of the minimum wage on firms\u2019 hiring behaviour. From the outset of the NLW, firms have told us that where headcount would be reduced it would be more likely to come from reduced hiring rather than redundancies. This was supported by previous analysis by Frontier Economics, who found that employment growth is slower in the firms most affected by minimum wage increases [1]."
+        },
+        {
+            "text": "Job vacancies are an underused data source, but have great potential as they are timelier than surveys, and can give more detail about the nature of the job (as found in the text of the advert). Vacancy data has been particularly useful throughout the pandemic in monitoring real-time changes in the labour market."
+        },
+        {
+            "text": "The authors use job adverts scraped from two websites: findajob.gov.uk, which advertises jobs in the public and private sector, and findapprentice.gov.uk, which advertises apprenticeships only. They use a technique pioneered by Cengiz et al (2019) [2], which involves comparing the loss of jobs immediately below the new minimum wage with the gain in jobs immediately above it. As the wage floor is increased, the number of jobs advertised below it decreases, while there is an increase in those paid at or above the new rate. The difference in the number of jobs shows the impact of the minimum wage on hiring behaviour."
+        },
+        {
+            "text": "This research demonstrates some of the difficulties in policy evaluation during the pandemic. The approach that was used was unable to disentangle the effects of the NLW from nationwide shifts in hiring of workers at or just above the NLW. The initial results found that the NLW uprating caused the volume of vacancies to increase, along with statistically significant increases in apprentice vacancies following the increase in the Apprentice Rate. This is both surprising and extremely unlikely. It is more likely that the increases in these rates coincided with a substantial upswing in recruitment and employment activity, driven by the gradual opening of the economy taking place at the time."
+        },
+        {
+            "text": "They also examined whether the increase in the NLW changed the number of jobs advertised with specific key words, including \u201cflexible\u201d, \u201ctraining\u201d and \u201cbonus\u201d. The only consistent evidence they found was an increase in the number of jobs advertised with the term \u201cexperience\u201d, suggesting that employers were increasingly looking for more experienced staff. Again, this could be related to the roadmap out of lockdown rather than being a direct impact of the NLW; on our visits we heard that several employers were seeking experienced staff so that they could hit the ground running as they reopened."
+        },
+        {
+            "text": "Looking specifically at the social care sector, they found that the most recent increase in the NLW was associated with an increase in the wages offered for jobs that are far higher up the wage distribution. This indicates that firms have attempted to preserve wage structures within their organisation, increasing the pay offered to more senior staff to maintain differentials with the lowest-paid workers. This is consistent with evidence that we have heard from businesses and workers on our visits."
+        },
+        {
+            "text": "Finally, the authors estimate the \u2018Beveridge curve\u2019, which shows the relationship between unemployment and the vacancy rate. They found that during the summer of 2021 there was a temporary increase in unemployment relative to job vacancies, which could be driven by the anticipated end to the Coronavirus Job Retention Scheme. Unemployment was also especially high relative to vacancies in London, the North East, Wales and Northern Ireland and in service and elementary occupations."
+        },
+        {
+            "text": "Overall, the research has found some initial evidence that the minimum wage has had an impact on firms\u2019 hiring behaviour. The latest increase in the NLW may have led to improvements in the quality of advertised roles, as well as increases in the pay offered for higher-paying roles. However, the finding on the number of vacancies increasing as a result of the higher rate is counterintuitive and likely to be driven by the timing of the economic recovery."
+        },
+        {
+            "text": "This is an innovative project using a new data source, and we hope to build on this evidence. We will shortly be inviting researchers to submit project proposals in order to inform our recommendations and we would welcome ideas using novel data sources and methods."
+        },
+        {
+            "text": "Research is one part of our evidence base, but we also want to hear directly from workers and businesses about their experiences. If you have any evidence on the impact of the minimum wage, please get in touch: lpc@lowpay.gov.uk. Our consultation will open later this year."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "References"
+        },
+        {
+            "text": "[1] Frontier economics, \u2018Impact of National Living Wage on Businesses\u2019, 2020"
+        },
+        {
+            "text": "[2] Cengiz, Doruk, Arindrajit Dube, Attila Linder, and Ben Zipperer, \u2018The effect of minimum wages on low-wage jobs\u2019, 2019."
+        }
+    ]
+}

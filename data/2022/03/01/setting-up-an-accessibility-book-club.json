@@ -1,0 +1,52 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2022/03/01/setting-up-an-accessibility-book-club/",
+    "title": "Setting up an Accessibility Book Club",
+    "authors": [
+        "Beverley Newing - Accessibility Lead - MoJ"
+    ],
+    "categories": [
+        "Accessibility",
+        "Community"
+    ],
+    "pub_date": "2022-03-01T10:03:00+00:00",
+    "content": [
+        {
+            "text": "After becoming Accessibility Lead in the Ministry of Justice Digital and Technology (MoJ D&T) in April 2021, I wanted to make sure I set aside time to read and hear about the experiences of disabled people. I figured that one good way of doing this would be to read books and watch films. But knowing that life gets hectic, I wanted to create accountability, so I set up an \u2018Accessibility Book Club\u2019."
+        },
+        {
+            "text": "Starting a book club has many benefits. It provides a focused time to watch, read, learn and connect with others. With working remotely, making the time to share experiences is even more important, and I find discussing topics with others helps deepen my own thinking and understanding."
+        },
+        {
+            "text": "There are a few criteria for the group\u2019s suggestions for media and literature. I\u2019ve stuck with the name \u2018Accessibility Book Club\u2019 but, so far, we\u2019ve only read one book! We have instead mostly watched films, documentaries and TV series as we\u2019ve found they fit in better to our routines. But broadly, every item that we discuss has to be either about a disabled person, created by a disabled person, or be on the topic of disability."
+        },
+        {
+            "text": "So far, we\u2019ve run 6 book club sessions, and now felt like a good time to share how we did it, and the materials we created along the way, in case you are interested in creating your own Accessibility Book Club with your friends or at your organisation!"
+        },
+        {
+            "heading": 2,
+            "text": "How to run an Accessibility Book Club"
+        },
+        {
+            "text": "First of all, choose an online location. Here in MoJ D&T, we settled on Google Meet as it\u2019s the tool we predominantly use in Digital. However, I\u2019ve always kept Microsoft Teams as a back-up option, because that has more functionality, including the ability to create breakout rooms."
+        },
+        {
+            "text": "Secondly, create a poll or voting system, with some options of media to discuss. Slack is the main Comms tool, and we have a poll plugin enabled, so we use that. But you could also do a series of Slack messages, and have people react to their preferred options using an emoji. Once the item for discussion is decided, I then run a poll to settle on a date, but as a rough rule of thumb, we run them at the end of the month, for 30 minutes, normally on a Friday afternoon."
+        },
+        {
+            "text": "Thirdly, create the calendar placeholder, and a series of 4-5 questions on the media, to serve as discussion prompts. I try to create a mix of questions, ranging from \u2018who was your favourite character?\u2019 to deeper, much more open questions, such as \u2018what do you think of the ethical issues raised within the documentary?\u2019. This allows for people to warm up into the discussion, before going into the deeper topics."
+        },
+        {
+            "heading": 2,
+            "text": "Resources for running an Accessibility Book Club"
+        },
+        {
+            "text": "I have now open-sourced a collection of resources to help run an accessibility book club. This includes the discussion guides I created for the 6 book club sessions we\u2019ve run. Feel free to take these and use them as a starting point!"
+        },
+        {
+            "text": "On the same site, I\u2019ve also published some of the resources that fed into the thinking of how to facilitate these discussions. For example, breaking people up into smaller groups if we have more than 6-7 attendees, and the idea of \u2018oops, ouch\u2019 to address accidental verbal mishaps. Mistakes happen, and disability is a topic that some people can feel anxious talking about. That means we sometimes slip up, verbally. But that is exactly why it\u2019s important that we listen to disabled content creators, and why it\u2019s important to create a space where people can raise issues with language or tone in real-time, in a way that we\u2019re all on board with."
+        },
+        {
+            "text": "This resource will continue to be updated as we continue on with our book club sessions. If you would like to contribute your own discussion guides though, please do! Here is some information on how to submit a discussion guide, along with some guidelines on format. You can either create a pull request on GitHub, or fill out the \u2018Submit a discussion guide to the Accessibility Book Club resource\u2019 form (which was created speedily with the MOJ Forms tool!)"
+        }
+    ]
+}

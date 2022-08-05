@@ -1,0 +1,74 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2022/01/20/reporting-the-vital-statistics-how-data-management-has-been-central-to-the-handling-of-the-pandemic/",
+    "title": "Reporting the vital statistics - how data management has been central to the handling of the pandemic",
+    "authors": [
+        "Clare Griffiths"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)",
+        "Data blog"
+    ],
+    "pub_date": "2022-01-20T17:42:36+01:00",
+    "content": [
+        {
+            "text": "Over the last two years the COVID-19 Dashboard has played a central role in managing the pandemic. By reporting near real-time data on key indicators of transmission and the impacts of COVID-19, the Dashboard aids strategic decision making and informs the pandemic response."
+        },
+        {
+            "text": "Our daily 4pm updates remain of high interest to the public, public health experts, academics, officials, and the media attracting 100,000 users to the site each day on average."
+        },
+        {
+            "heading": 3,
+            "text": "The evolution of the dashboard"
+        },
+        {
+            "text": "As the Dashboard team leader I oversee the work of the experts behind the Dashboard \u2013 the analysts, data engineers, content designers, interaction designers, user researchers and a programme manager who work together to produce the Dashboard product."
+        },
+        {
+            "text": "Together the team have worked on the constant evolution of the Dashboard. This has included the improvement of the Dashboard system to provide the capability of sustaining more than a million hits per minute. The current Dashboard record is 529,230 hits per minute or 8,830 hits per second reached on 22 December 2021."
+        },
+        {
+            "text": "On Twitter Professor James Hetherington, Director of the Centre for Advanced Research Computing at University College London called this a \u201cphenomenal achievement\u201d and praised the UKHSA for \u201cachieving something phenomenal and unprecedented in our field\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "Transparency"
+        },
+        {
+            "text": "Transparency remains a key focus of our work. We have added a new metrics documentation page that lists all current and historic metrics searchable by name, category, type, or availability by area type. This took many months of work and created over 1,600 associations between 215 metrics, 202 pieces of documentation and 244 log items."
+        },
+        {
+            "text": "We have also enhanced the accessibility of data to the public, including those with increased accessibility needs, by presenting a variety of formats such as:"
+        },
+        {
+            "text": "The addition and development of these visual features have continued to improve the\u00a0user experience."
+        },
+        {
+            "text": "Over the last six months we\u2019ve added\u00a0new\u00a0metrics and increased the granularity of existing\u00a0data by incorporating regional and local level data for England and Scotland on the Dashboard including virus test, booster and 3rd dose vaccinations data by local authority."
+        },
+        {
+            "text": "The wide range of specialist skills within our team has provided the expertise and insights to develop the Dashboard we have today. As a team, we\u2019re very proud of the contribution to the wider effort and pandemic response that our work has played and how our work has continued to develop in response to the needs of policy makers and the public."
+        },
+        {
+            "heading": 2,
+            "text": "The data in our daily lives"
+        },
+        {
+            "text": "We can see the Dashboard data playing a part of people\u2019s daily lives, whether that\u2019s by accessing the data on mobile phones or tuning into the six o\u2019clock news for the latest update. The Dashboard data is part of the conversation and equips people with important statistics about their lives. Around the world we see people sharing and talking about our COVID-19 Dashboard."
+        },
+        {
+            "text": "We know from our user surveys that transparent daily data has become an essential public good for many and helps inform and reinforce the day-to-day actions we all need to take to keep ourselves and our communities safe."
+        },
+        {
+            "text": "The COVID-19 Dashboard has become an exemplar of open and transparent data across government. It was shortlisted in July 2021 for a Royal Statistical Society Excellence Award and was also cited by the Office for Statistics Regulation as an example of clear and Insightful data. Our voluntary adoption of the code of practice for official statistics\u00a0 \u00a0is another example of our commitment to produce high-quality data."
+        },
+        {
+            "text": "It\u2019s great to see the significant role that data has played in our personal lives and on public health policy throughout the pandemic - all made possible by dedicated statisticians and data scientists."
+        },
+        {
+            "text": "Looking beyond the current pandemic, we should endeavour to expand on these developments and apply them to different areas of public health \u2014 including other diseases and public health threats."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

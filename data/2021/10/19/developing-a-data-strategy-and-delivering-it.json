@@ -1,0 +1,68 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2021/10/19/developing-a-data-strategy-and-delivering-it/",
+    "title": "Developing a data strategy and delivering it",
+    "authors": [
+        "Katharine Purser, Head of Data Strategy and Enablement, DWP Digital"
+    ],
+    "categories": [
+        "Analytics strategy",
+        "Other",
+        "People and Skills"
+    ],
+    "pub_date": "2021-10-19T16:21:14+01:00",
+    "content": [
+        {
+            "text": "At the Department for Work and Pensions (DWP) we are constantly striving to improve the service we offer to customers, and the efficiency with which we do that \u2014 focusing on giving appropriate services and support to customers while protecting tax payers\u2019 money."
+        },
+        {
+            "text": "We know that one of the best things we can do to accelerate our efforts in this area is to improve our ability to re-use data. Good data can help us understand the environment we operate in and the way we operate within it, the needs of the citizens who come to us, and the impact our services have."
+        },
+        {
+            "text": "Like many other government departments, we handle a lot of data. We are currently responsible for over 200TB of the stuff, and that amount is growing in both volume and diversity at a rate of around 10% a year. While we use it day to day to do our work, there are challenges in using it to work smarter."
+        },
+        {
+            "text": "Data is collected in different systems at different times for different purposes, which means that it can be inconsistent or duplicated, and it can\u2019t easily be re-used across multiple systems. The information which records where data came from and why, how valid it is, or how old it is, is also different in different systems, which means it is can be difficult to know which is the right piece of data to re-use for the right purpose in other processes or systems. So, when it comes to improving our ability to re-use that data we have our work cut out."
+        },
+        {
+            "text": "To help tackle these issues, I developed a Data Strategy for the department, which was adopted last year. This sets out nine data principles, which we aim to adopt in order to address the challenges we have around using data better, and ensure that in future we are managing data in ways that make it easier to re-use securely, legally and ethically."
+        },
+        {
+            "text": "To summarise the Strategy, the nine principles are:"
+        },
+        {
+            "text": "These principles are easy to agree with, but much harder to live by in practice. So to support this endeavour, the department has also taken the step of establishing a new Chief Data Office (CDO), led by our Chief Data Officer, Paul Lodge. The aim of the CDO is to work across the department enabling, supporting and encouraging efforts to move towards using data more strategically to serve citizens. I was delighted to be asked to lead the establishment of the CDO as Head of Data Strategy and Enablement, and I\u2019ve been working hard to build a great team focused on moving us forward."
+        },
+        {
+            "heading": 2,
+            "text": "Three things to remember\u00a0"
+        },
+        {
+            "text": "However, the CDO can\u2019t turn around the department\u2019s use of data on its own. If we\u2019re to be successful in delivering the Data Strategy, I believe there are three key things that we, like every forward thinking organisation, must remember in order to guide our approach.\u00a0 \u00a0"
+        },
+        {
+            "text": "First of all, data needs must follow business needs. The work we do in the CDO to support the department to make\u00a0better use of data must be based on what the business needs us to do. Whether that be led by areas of greatest risk or where there is a greatest need to improve data quality and inter-operability, we will prioritise activity based on areas of greatest need."
+        },
+        {
+            "text": "Secondly, we need to recognise that data is all of our business (pun intended). It\u2019s tempting to feel that with the establishment of the CDO all the data challenges of our department will be fixed, and everyone else can go on as normal.\u00a0"
+        },
+        {
+            "text": "We can and will provide data strategy, policy, advice, guidance and monitoring of compliance (alongside the Data Protection Office). However, colleagues who work with data and those who build systems to process that data all have their part to play in applying these to make sure we optimise our use of it in a legal, secure and consistent way."
+        },
+        {
+            "text": "Finally, we have to remember that data describes real people, places and things. Data enthusiasts can wax lyrical about how amazing data is and what value it can bring to the organisation. We can get into lots of technical detail when discussing standards, rules, policies and models.\u00a0However, when we talk about valuing data as an asset, what we really mean is recognising the value of the information we have about citizens, our colleagues, our buildings and our financial and technological resources. We need to value data the same way we value those things."
+        },
+        {
+            "heading": 2,
+            "text": "First priorities for the CDO"
+        },
+        {
+            "text": "A first priority for the team is to ensure that we\u2019re consistently using data in a secure, legal and ethical way. The data that we manage is in an increasingly complex variety of formats, so it\u2019s important that we handle it accordingly. We already have pockets of excellence in data custodianship and data management across the organisation, but the CDO will look to make sure that all teams across the department who use data take the best of what we know and apply it in a consistent way.\u00a0"
+        },
+        {
+            "text": "It\u2019s important that everyone who touches data understands their responsibilities.\u00a0Of course this doesn\u2019t just apply to citizen data, this also applies to the vast amount of data we hold about our own organisation, which used to better effect can really help us run services more efficiently and effectively."
+        },
+        {
+            "text": "The CDO is starting small \u2014 our focus in the first year is on driving up quality, compliance and consistency in data sharing, and we will build out on other data management policies from there. There\u2019s much more we want to do in the longer term.\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://gds.blog.gov.uk/2021/12/01/one-login-for-government-december-2021-update/",
+    "title": "One Login for Government: December 2021 update",
+    "authors": [
+        "Natalie Jones - Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "Identity Assurance",
+        "Service design",
+        "User research"
+    ],
+    "pub_date": "2021-12-01T11:08:25+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What\u2019s happening now"
+        },
+        {
+            "text": "Right now, people have to register and share the same information, like their name, over and over again to be able to use different government services. That\u2019s why we\u2019ve made it our mission to build a simple, joined-up and personalised experience of government for everyone. Delivering a single sign-on and identity checking system will help make our One Login for Government vision a reality.\u00a0"
+        },
+        {
+            "text": "Building on our blog post in October I wanted to provide further detail on the digital identity team\u2019s progress so far and look ahead to our priorities over the next 3 years.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "User research"
+        },
+        {
+            "text": "Over the last 7 months we have spoken to more than 720 end users and learned many things."
+        },
+        {
+            "text": "Significantly, and perhaps surprisingly, user research has found 61% of participants\u00a0 responded positively when asked about sharing their information with government and are broadly comfortable with departments sharing that data because they think we already do.\u00a0"
+        },
+        {
+            "text": "Interestingly, many people assume they already have an online \u2018government\u2019 account that holds data on them and that services are joined-up.\u00a0"
+        },
+        {
+            "text": "What shines through in the research is a need for users to have visibility and control of the information that the government holds on them and how it is shared."
+        },
+        {
+            "text": "Our research has also shown that many people see the value of a reusable proof of identity to save them time when engaging with government services in the future. So, this will be a key aspect of our service and we\u2019re working through the details of how it should work.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Barriers"
+        },
+        {
+            "text": "There are currently many barriers that prevent users from being able to prove their identity online, including complicated or incomplete credit histories, poor internet access, low digital confidence and a wariness of sharing personal information online."
+        },
+        {
+            "text": "Inclusion and accessibility are the thematic core of all our work and we\u2019re tackling the hard stuff now to make sure this works for everyone in the future.\u00a0"
+        },
+        {
+            "text": "In particular, we\u2019re building on the work done by DWP who design their services to work for users who experience multiple, overlapping barriers to completing things online.\u00a0"
+        },
+        {
+            "text": "Speaking to government service teams is key to the success of our product, as it needs to meet their needs and expectations too. So far we have completed more than 150 research and engagement sessions with teams across government and will continue to speak to, learn from and partner with teams in the months ahead.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve done"
+        },
+        {
+            "text": "Our most significant recent milestone so far has been getting GOV.UK accounts live with the authentication component. This is a real achievement, but there\u2019s a lot more to deliver.\u00a0"
+        },
+        {
+            "text": "Users\u2019 expectations of service delivery are shifting. Around 70% of overall traffic to GOV.UK is now via mobile and citizens are increasingly looking for faster, simpler ways to get stuff done.\u00a0"
+        },
+        {
+            "text": "To deliver that, we want to provide a superhighway for users who can and want to use their mobile to apply for government services, so we are building an identity checking app.\u00a0"
+        },
+        {
+            "text": "This will give smartphone users who have a photo ID, like passports and driving licences, the choice to prove their identity to a high level in around 10 minutes. It will do this by making use of Near Field Communication (NFC) readers and cameras built-in to modern smartphones.\u00a0"
+        },
+        {
+            "text": "We will be working with a partner to deliver the app and to accelerate access to services for people for whom this \u2018superhighway route\u2019 is the right choice."
+        },
+        {
+            "text": "Use of the app will be optional; it will be just one of the ways people will be able to prove their identity based on their preferences and documents available.\u00a0"
+        },
+        {
+            "text": "That\u2019s just part of our work to ensure no-one is left behind. We are also looking at the alternative journeys we need to provide to support inclusion and we are working through how online and offline channels need to come together to make sure everyone can use our system.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "Our next step is to create the first user journey combining the authentication and identity components by April 2022, and we are delighted that the Disclosure and Barring Service (DBS) is partnering with us to make this happen."
+        },
+        {
+            "text": "User feedback is a key part of our delivery plan. I\u2019m determined to get stuff out there that we can really learn from. This means that by April next year users will be able to request a basic DBS check through their GOV.UK account by entering their UK passport information and answering some questions that only they should know the answer to in order to prove their identity.\u00a0"
+        },
+        {
+            "text": "Dealing with personal data like passport information means we need to make certain our infrastructure meets the highest standards of security and resilience. We are working in partnership with the National Cyber Security Centre, investing in our own security architecture capability and drawing on the expertise of the Cabinet Office\u2019s Cyber Security team."
+        },
+        {
+            "text": "Getting the first services and users using GOV.UK Sign In is essential, but to really have met our vision of One Login for Government we need to quickly go from one or two to 10s and then 100s. So we are working with other departments, directorates, agencies and individual services to build a clear, joined up and shared roadmap. It will enable services to understand when their required functionality will be available and give clear milestones and timelines for migration."
+        },
+        {
+            "heading": 2,
+            "text": "Expanding the scope of the system"
+        },
+        {
+            "text": "Over time, through their GOV.UK account, our system will enable users to sign in to all government services and share information once to prove their identity. It will replace more than 190 different ways people can currently set up accounts to access services on GOV.UK and give citizens one fast, simple and secure route. We\u2019ll be providing users with greater control over what personal data they choose to share and how that data will be used. It will also reduce unnecessary duplication of effort and save taxpayer\u2019s money by ending the need for each department to find its own solution to authentication and identity assurance."
+        },
+        {
+            "text": "The potential scope of the system doesn\u2019t stop there. We will be continuing to learn from Local Authorities, gaining an understanding of their needs to make sure our systems can work together in the future."
+        },
+        {
+            "text": "Because of the user research we\u2019ve carried out and the insight we\u2019ve gained, we\u2019re working with our partners across government to update legislation to allow departments and services to share data whilst keeping users data safe and reducing the risk of fraud. This means that, in time, government services should be able to meet the expectations users already have of them.\u00a0"
+        },
+        {
+            "text": "We frequently report to and are held accountable by a cross-government group of ministers, and we\u2019ll continue to develop our system in a spirit of openness, explaining things like our research findings as we did in October."
+        },
+        {
+            "text": "Over time we will add more features to give users more ways to prove their identity, as we tackle areas like delegated access, broader inclusion, and the option to save identity checks to reuse with other services. Right now we\u2019re focussed on a near term set of things we need to have as core foundational blocks that will enable the next financial year to be a big digital delivery year for us. I can\u2019t wait to cross the line at a canter (perhaps even a gallop) and get our products into the hands of real users. Exciting times!"
+        },
+        {
+            "heading": 2,
+            "text": "Related posts\u00a0"
+        },
+        {
+            "text": "How will the single sign-on and GOV.UK account work together?"
+        }
+    ]
+}

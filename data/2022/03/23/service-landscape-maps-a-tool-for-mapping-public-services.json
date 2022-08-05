@@ -1,0 +1,76 @@
+{
+    "url": "https://services.blog.gov.uk/2022/03/23/service-landscape-maps-a-tool-for-mapping-public-services/",
+    "title": "Service landscape maps \u2013 a tool for mapping public services",
+    "authors": [
+        "Will Harmer \u2013 Design lead, Immigration, Refugees and Citizenship Canada",
+        "Ignacia Orellana \u2013 Lead designer, GDS"
+    ],
+    "categories": [
+        "Service transformation",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2022-03-23T09:28:19+00:00",
+    "content": [
+        {
+            "text": "For the last few years, we have worked hard on designing and delivering joined-up, end-to-end services, which continues to be\u00a0a focus of GDS\u2019s strategy. We researched and established new service definitions. We expanded the scope of the Service Standard accordingly. And we developed new tools to create a holistic understanding of end-to-end service offerings.\u00a0"
+        },
+        {
+            "text": "This blog post describes how a new type of map, a service landscape map, helps you build a collective understanding of government offerings in a larger service area and how to create one."
+        },
+        {
+            "heading": 2,
+            "text": "Joining up services"
+        },
+        {
+            "text": "The Service Standard describes how services need to solve a whole problem for users and provide a joined up experience across all channels. To achieve that, multiple organisations, programmes and professions have to come together and collaborate. The work on GOV.UK and its handy step by step navigation for end to end services illustrates that complexity and hides it from the user at the same time. The service of employing someone involves 5 different departments. The activity of starting a business cuts across more than 10 different departments. To bring the different organisations together, you need to understand what\u2019s happening today in a given service area."
+        },
+        {
+            "text": "In 2017, the service communities team tried to help solve this by adapting existing tools, such as user journey maps and service blueprints. For service communities, the reality was that they needed tools and processes that enabled people from different disciplines and different organisations to establish consensus around a shared service or common problem."
+        },
+        {
+            "text": "Tools commonly used within service design, such as user journey maps, often rely on people having access to certain things like:"
+        },
+        {
+            "text": "With service communities, this was not the case. Existing tools needed to be adapted \u2013 in this case adapting user journey maps. Through running and supporting service communities, the service communities team built on existing map types and created a new customised service landscape map type to meet the needs of the community."
+        },
+        {
+            "text": "While journey maps focus on the user's experience, service landscape maps depict the entire government offering in a particular service area. Instead of detailed user research data, it requires knowledge of existing government activities as the main input. Their purpose is to build consensus between different government and public sector organisations and better understand the existing comprehensive service offering."
+        },
+        {
+            "text": "Service landscape maps were integral to the success of service communities\u2019 work. Recently, the service landscape made by the start of a business community was used as the starting point to improve a whole user journey on GOV.UK. We believe that this tool is vital for any cross-departmental join-up work."
+        },
+        {
+            "heading": 2,
+            "text": "Service landscapes maps: what they are"
+        },
+        {
+            "text": "A service landscape map is a tool we use to identify and map all the existing advice, guidance, transactional services and support that the public sector delivers in a defined service area. This could be starting a business, importing goods, exporting goods, or getting health benefits.\u00a0"
+        },
+        {
+            "text": "We use \u2018public sector\u2019 rather than government, as government services are often delivered by a range of organisations both government and non-government. This could be by local authorities, Citizens Advice or charities. For example, when starting a business in the UK, users may interact with a number of organisations in addition to the government, including but not limited to, local business associations and growth hubs."
+        },
+        {
+            "text": "The level of detail of the service landscape is determined by the people who create it, depending on what their needs are at the time. Often they are much higher level detail than the information commonly found in user journey maps and service blueprints. A user\u2019s steps to get to their outcome are still represented but in far less granularity than in the other types. So instead, the focus is on the various existing offerings organisations have created in response to it."
+        },
+        {
+            "text": "As well as capturing the basics like guidance, services and support offerings, you can also use service landscape maps to document channel delivery, for example telephony services, online transactional services or guidance, and the high-level user steps in which the services are offered."
+        },
+        {
+            "heading": 2,
+            "text": "How to create a service landscape map"
+        },
+        {
+            "heading": 2,
+            "text": "Example: start a business"
+        },
+        {
+            "text": "The start a business service community used the service landscape map to understand what the public sector offered users when starting a business in the UK. Before this, the business space had not been mapped at this scale. This involved capturing 15 different organisations\u2019 offerings over the course of 3 workshops. The first workshop was used to capture the high-level journey, the second workshop was used to specify the names of transactions and guidance, and the final workshop refined the service landscape map and ordered it in the correct timeline."
+        },
+        {
+            "text": "Once the map was created, the service community used the service landscape map to spot knowledge gaps and recurring issues and eventually identified opportunities for improvement and areas to prioritise."
+        },
+        {
+            "text": "As GDS continues to make improvements to user journeys on GOV.UK by partnering with departments and agencies across government, service landscapes could provide a useful view of what government offers today for users, and where we can improve. "
+        }
+    ]
+}

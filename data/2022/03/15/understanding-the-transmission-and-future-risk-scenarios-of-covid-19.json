@@ -1,0 +1,97 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2022/03/15/understanding-the-transmission-and-future-risk-scenarios-of-covid-19/",
+    "title": "Understanding the transmission and future risk scenarios of COVID-19",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "UKHSA science"
+    ],
+    "pub_date": "2022-03-15T16:28:07+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Surveillance of COVID-19"
+        },
+        {
+            "text": "Disease surveillance is one of UKHSA\u2019s most essential functions. We ensure that we gather the right information at the right time \u2013 and present this information clearly and accurately to inform public health decisions in response to emerging or ongoing threats of disease. This information, which can also be called epidemiological insights, also enables members of the public to make informed choices to help protect their own health and the health of others."
+        },
+        {
+            "text": "Surveillance involves gathering a wide variety of data about a disease. These data come from a range of sources, and provide a clear picture of where the disease may be spreading to inform measures to control it. Before the COVID-19 pandemic Public Health England \u00a0reported weekly flu surveillance data, gathered by multiple surveillance systems and indicating trends in influenza activity in the community, in primary and secondary care and among other settings, before and during the flu season."
+        },
+        {
+            "text": "Informing when specific flu antivirals should be prescribed to high risk individuals in primary and secondary care and allowing the NHS to prepare for surges in hospital admissions. With the arrival of a new threat to public health in the form of a novel coronavirus, the UKHSA\u2019s weekly flu report expanded to include COVID-19 data."
+        },
+        {
+            "text": "24 March 2022 will mark the 100th edition of the National flu and COVID-19 surveillance report. Throughout the pandemic we have broadened the disease indicators including in our weekly reporting to provide important data on cases of coronavirus both confirmed in laboratories and also through \u201csyndromic surveillance\u201d."
+        },
+        {
+            "text": "Syndromic surveillance uses anonymised real-time health data to capture trends in infection through observing the number of GP consultation contacts, emergency department attendances and NHS 111 calls, by demographic breakdown including by age and region for key groups of symptoms that are associated with specific disease syndromes."
+        },
+        {
+            "text": "All of our surveillance methodologies are chosen so that data can be measured regularly and consistently. No single source of data tells the whole story of an outbreak, nor can any system provide a definitive figure for exactly how many people could have a disease such as COVID-19."
+        },
+        {
+            "text": "But the data we analyse and present allows us to understand the areas of the country which are most affected by an outbreak; whether particular groups of people are affected; whether symptoms are getting more severe and when the outbreak might have peaked. This provides valuable insights to inform public health action to help prevent and control the disease."
+        },
+        {
+            "text": "Our surveillance data also feeds into other reports including the daily COVID-19 Dashboard and provides the inputs for scientific modelling which presents a range of scenarios on how outbreaks might progress."
+        },
+        {
+            "text": "As we begin a new phase of living with COVID-19 we will continue to monitor cases in the community and in hospital settings and we will use genomic sequencing to help track the evolution of the virus."
+        },
+        {
+            "heading": 2,
+            "text": "Reporting Daily COVID-19 Data"
+        },
+        {
+            "text": "The\u00a0COVID-19 Dashboard is a phenomenal achievement in the world of data science and provides an unprecedented level of granularity and transparency of COVID-19 public health indicators."
+        },
+        {
+            "text": "The Dashboard has been created and delivered through the collaboration of broad team of experts including data analysts, data engineers, content designers, interaction designers, user researchers and programme managers."
+        },
+        {
+            "text": "The\u00a0COVID-19 Dashboard\u00a0was developed as a new, open online tool to deliver daily COVID-19 statistics directly to the public, local and national government and public health agencies. Providing fast and easy access to official COVID-19 data, the Dashboard gives the latest picture of the pandemic, and has played a central role in the UK\u2019s response."
+        },
+        {
+            "text": "During the past two years public health data has been at the fore of people\u2019s daily lives. Reporting near real-time data on key indicators such as COVID-19 case rates, hospitalisations, deaths and vaccine uptake has made it possible for people to see the impact of the pandemic in their own local area as well as at local authority, region, nation and UK level. The Dashboard also provides demographic metrics including case rates and vaccination uptake by age group at a local level and cases by age and sex."
+        },
+        {
+            "text": "Whether accessing data on mobile phones or tuning into the six o\u2019clock news, thousands of people have looked to the Dashboard data for daily COVID-19 updates."
+        },
+        {
+            "text": "During the pandemic, the Dashboard has evolved in response to regular user surveys which reveal the data and features people want. Graphics such as \u2018heatmaps\u2019 displaying case rates and vaccination uptake by age groups alongside other easy-to-read visuals and interactive maps have been developed in response to these needs."
+        },
+        {
+            "text": "The constant evolution of the Dashboard has also included the improvement of the Dashboard\u2019s systems to enable it to sustain more than a million hits per minute. The current record is 529,230 hits per minute or 8,830 hits per second, reached on 22 December 2021. The open data APIs have been praised by the Office for Statistics Regulation as an exemplar for the provision of open data across government."
+        },
+        {
+            "text": "The Dashboard presents a big step forward in reporting open and transparent official public health data. We hope that this approach can be built upon to help people live better-informed and healthier lives beyond COVID-19."
+        },
+        {
+            "heading": 2,
+            "text": "Modelling COVID-19"
+        },
+        {
+            "text": "Alongside other bodies, the UKHSA provides short-term (within the next 2 weeks) forecasting based on current trends and longer-term modelling over weeks to months to provide a range of potential future scenarios based on the extrapolation of current data trends."
+        },
+        {
+            "text": "This analysis \u00a0helps inform Government\u2019s strategic decision making and allows policymakers understand a range of different possible outcomes from best to worst-case scenarios and enables ministers to consider how to plan for any future eventualities."
+        },
+        {
+            "text": "A wide range of quality data provides the input to modelling, informing judgements about emerging trends, geographical variations and different groups of people that could be affected in different ways."
+        },
+        {
+            "text": "Modelling does not aim to predict the future and should never be interpreted as such. \u00a0Instead, it presents a range of possible outcomes which are dependent on the model\u2019s inputs \u2013 and it doesn\u2019t account for future changes in, for example, people\u2019s behaviour. This is why modelling is only a part of advice used by government."
+        },
+        {
+            "text": "For example, the emergence of the Omicron variant was regarded by international bodies, including\u00a0the World Health Organisation (WHO), as a serious threat to public health. Whilst the clinical risks were unknown, modelling was undertaken, using data on case numbers and evidence of the very high transmissibility of Omicron, to understand the potential spread of the new variant. This suggested that a rapid spread of Omicron could potentially have severe implications for public health as well as essential infrastructure and public services."
+        },
+        {
+            "text": "Due to the public adopting cautious behaviours and following advice, the efficacy and high take-up of COVID-19 vaccines and boosters, and the reduced severity of the Omicron variant, the worst-case scenarios that were modelled were fortunately avoided.\u00a0 This example demonstrates just how modelling can help us to put in place effective public health actions and advice to avert worst case scenarios and steer us towards best case scenario outcomes."
+        },
+        {
+            "text": "If you'd like to read more you can subscribe to our blog here."
+        }
+    ]
+}

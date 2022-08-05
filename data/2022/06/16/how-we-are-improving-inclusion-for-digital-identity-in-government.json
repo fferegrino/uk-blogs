@@ -1,0 +1,100 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/06/16/how-we-are-improving-inclusion-for-digital-identity-in-government/",
+    "title": "How we are improving inclusion for digital identity in government",
+    "authors": [
+        "Ben Andrews - Senior Product Manager, Government Digital Service"
+    ],
+    "categories": [
+        "Identity Assurance",
+        "Service design"
+    ],
+    "pub_date": "2022-06-16T11:10:03+01:00",
+    "content": [
+        {
+            "text": "Building government services that are inclusive is a crucial part of our work. After all, not everyone can easily prove their identity and therefore not everyone can easily access the government services they are entitled to online."
+        },
+        {
+            "text": "This blog post talks about why this matters, to us and our users, what we are doing to address it as part of the One Login for Government programme and how it impacts not only what we build but also how we are developing our new identity platform."
+        },
+        {
+            "heading": 2,
+            "text": "Why this is important"
+        },
+        {
+            "text": "The very biggest government services have to cater for everyone in society and therefore can\u2019t adopt an identity solution that isn\u2019t inclusive. A digital identity solution that locks people out has huge implications for service teams. This is because exclusion disproportionately impacts vulnerable users."
+        },
+        {
+            "text": "What\u2019s more, these government services operate at scale, where small percentages amount to very large numbers. For example, if we build something that can be used by 99% of the UK it would still exclude about 700,000 people. By way of context, that\u2019s roughly the population of Sheffield."
+        },
+        {
+            "text": "Added to that, alternative routes, like using call centres or face-to-face contact with agents, are far more expensive than digital services to run."
+        },
+        {
+            "heading": 2,
+            "text": "What we are doing"
+        },
+        {
+            "text": "As part of this work, we\u2019ve spoken to people who have been prevented from accessing a critical government service because they can't prove who they are. They include survivors of domestic violence who fled their home so no longer had physical access to any identity documents. There have been many more who simply can\u2019t justify the cost of a passport only to use it as a form of ID. And then there are homeless or transient members of our society who aren\u2019t registered at a fixed address."
+        },
+        {
+            "text": "We have been looking at the inclusion barriers and working with groups of excluded users."
+        },
+        {
+            "text": "We completed a discovery, pulling together existing knowledge about the problem of identity inclusion barriers, with folks in service teams from across government sharing hard-earned lessons and suggestions for approaches to explore."
+        },
+        {
+            "text": "Our initial focus was on understanding the needs and experience of users that were of low digital literacy, low income and with people that did not own a passport or driving licence."
+        },
+        {
+            "text": "We researched alternative ID sources to a passport or driving licence, such as a birth certificate, and used service prototypes to test whether people have access to these documents, if they would be comfortable using these documents to prove their identity, and whether this would be easy or hard to do."
+        },
+        {
+            "text": "The primary aim of the research was to understand attitudes to using information relating to alternative ID sources to prove identity, whether people can access the information required from these alternative ID sources, and to understand users\u2019 mental models of identity verification in the context of accessing government services."
+        },
+        {
+            "text": "We thought about ID documents that people do have, and made some high-level estimates about how many people have access to them. There are a great many sources to choose from so we scoped this to a prioritised top 5: banking data, vouching, GRO (General Registry Office) data, patient records data, and pension and benefits data."
+        },
+        {
+            "text": "From this work we created a list of high potential opportunities that might improve inclusivity and ran short time-boxed experiments looking at each one, learning as much as we could before moving to the next."
+        },
+        {
+            "text": "In concluding that discovery work, we made 3 service and feature recommendations and are now pursuing all of them."
+        },
+        {
+            "heading": 3,
+            "text": "1. Digital vouching"
+        },
+        {
+            "text": "For users who cannot prove they are the person they claim to be, we are investigating whether a digital vouching process would help. This involves a person asking someone else to confirm their claimed identity and is similar to a referee signing the back of a passport photo to verify the true likeness of someone. Early research suggests that most users should be able to use this new approach."
+        },
+        {
+            "heading": 3,
+            "text": "2. Security questions"
+        },
+        {
+            "text": "Secondly, we will be supporting the use of security questions, also known as \u2018knowledge-based verification\u2019, which enables users who might not have identity documents to prove who they are. We will do this by asking questions, based on their records, that only they should know the answer to, and to provide the challenge at different levels of confidence depending on the service they wish to access."
+        },
+        {
+            "text": "This will allow us to serve up knowledge-based verification questions that will verify people to the level of assurance needed for them to access the service they need at that time. For example, checking non-sensitive information about yourself might require a low-confidence identity check because there is a low risk of fraud, but receiving a financial benefit may require extra steps."
+        },
+        {
+            "text": "This approach means that a person\u2019s level of assurance can grow over time and they\u2019ll be taken through top-up steps to increase their assurance level only when it\u2019s needed for the service they\u2019re trying to access. It will also increase the likelihood of users with little or no records associated with them on government or credit rating agency databases being able to complete a digital ID verification."
+        },
+        {
+            "heading": 3,
+            "text": "3. Joining up government data"
+        },
+        {
+            "text": "Finally, we\u2019re exploring how to widen the number and type of high-quality security questions generated to support different types of users. We are also investigating how we can use wider government data sources to create new questions so that people can successfully prove their identity online and access services. We're proposing new secondary legislation that will support making this data-sharing possible."
+        },
+        {
+            "text": "It will do this by opening up a range of government-held data sources and permitting the reuse of previously-verified identities across different government services that require similar levels of assurance, with user consent."
+        },
+        {
+            "text": "Collectively these initiatives will support the accessibility and inclusivity of the service, and will provide a way for users to interact seamlessly with services."
+        },
+        {
+            "text": "But we know an online solution will not be suitable for everyone so we\u2019re looking at offline routes and working on effective user support channels as well. We will continue to share our learnings."
+        }
+    ]
+}
