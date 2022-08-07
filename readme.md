@@ -1,6 +1,8 @@
 UK Blogs Web Scraper
 ====================
 
+View the latest version of the repo here: [Latest version](https://github.com/fferegrino/uk-blogs)
+
 ## Set up your environment
 
 ### Git
