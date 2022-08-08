@@ -1,0 +1,94 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/08/08/rolling-out-a-new-design-for-browsing-gov-uk-by-topic/",
+    "title": "Rolling out a new design for browsing GOV.UK by topic",
+    "authors": [
+        "Sam Dub, Product Lead on GOV.UK, GDS"
+    ],
+    "categories": [
+        "Finding things",
+        "Product changes"
+    ],
+    "pub_date": "2022-08-08T14:29:01+01:00",
+    "content": [
+        {
+            "text": "Our next stage of improving navigation on GOV.UK is focused on topic-based browsing. This is a set of pages on GOV.UK designed to help users find the right service or bit of guidance for their needs. By improving this navigation, our aim is to make it easier for the millions of people who use GOV.UK every day to find the essential information and services they need."
+        },
+        {
+            "text": "For example, topic-browse allows users to see the range of Childcare and parenting support available to them. The user can then narrow this down based on their immediate needs, for instance, to specific guidance around Pregnancy and birth. On that page the user can find short manageable lists relating to specific tasks, such as \u2018Working and time off when you're having a baby\u2019."
+        },
+        {
+            "text": "While some users will use search to find information like this, we know that many users on GOV.UK prefer to browse through the site, particularly if they are unfamiliar with a topic, don\u2019t know what to search for, or want to see everything available to them."
+        },
+        {
+            "text": "To make improvements to the topic pages we first ran in-depth research with small groups of users, followed by a large-scale test on GOV.UK to measure impact. Following our analysis of the test results, we rolled out the new design to all GOV.UK users last week."
+        },
+        {
+            "text": "Let\u2019s dive into what we\u2019ve changed, why we\u2019ve changed it and what we\u2019re going to do next."
+        },
+        {
+            "heading": 2,
+            "text": "Our previous design"
+        },
+        {
+            "text": "Our previous design, introduced in 2014, was based on 3 columns as shown in the screenshot below."
+        },
+        {
+            "text": "However, there were a few problems with this design that we wanted to fix:"
+        },
+        {
+            "heading": 2,
+            "text": "Our new design"
+        },
+        {
+            "text": "The 2 main starting points for browsing GOV.UK by topic - the sitewide menu and the homepage - are unchanged."
+        },
+        {
+            "text": "However, when a user picks a topic, they'll now see a simple grid page. This displays the subtopics of the topic they have chosen."
+        },
+        {
+            "text": "Having selected a subtopic, the user moves to the next page. This is a list page - it displays a curated list of links to services and information listed A-Z or grouped into categories."
+        },
+        {
+            "text": "We tested this new design using an A/B test. During this test period, 50% of GOV.UK users got this new design, 50% had an unchanged experience. This allowed us to assess the impact the new design had on user behaviour."
+        },
+        {
+            "heading": 2,
+            "text": "The results"
+        },
+        {
+            "text": "We found that the new design increased our key performance indicator for these pages: clickthrough rate to content. Overall this increased from 61.6% to 65.1%. We tracked a range of other metrics which might indicate a knock-on effect of the new design and saw no indication of problems."
+        },
+        {
+            "text": "The new page design also improves accessibility, simplifying the experience for users of screen readers and people who magnify the page. The new design also significantly increases the size of touch targets, the area of the page you need to tap to follow a link. We\u2019ve seen this improve the overall mobile experience, especially on smaller phone screens, and can be particularly helpful for people with a tremor or motor impairment."
+        },
+        {
+            "text": "There was one user behaviour we noticed that gave us some pause. Specifically on mobile, users are opening the expanding sections at a lower rate than on desktop, and at a lower rate than we expected. So we\u2019re going to factor an investigation of this into our rollout."
+        },
+        {
+            "heading": 2,
+            "text": "Rolling out the new design"
+        },
+        {
+            "text": "We rolled out the new design to all users last week."
+        },
+        {
+            "text": "We\u2019re also going to test a variation of the design that uses dividers instead of the expanding sections. On subtopic pages like Business tax, 50% will see the page with expanding sections, and 50% will see these pages with dividers, as shown in the screenshot below."
+        },
+        {
+            "text": "This additional test will help us better understand whether there is an issue with the use of expanding sections, and allow us to measure if this alternative design is an improvement."
+        },
+        {
+            "heading": 2,
+            "text": "Our wider navigation work"
+        },
+        {
+            "text": "Our work on topics pages is part of our wider work on improving navigation. We\u2019ve also:"
+        },
+        {
+            "text": "The other elements we\u2019re looking at are page-level navigation (breadcrumbs and related content links) and the GOV.UK footer."
+        },
+        {
+            "text": "If you have questions about this work, please get in touch with the team. We\u2019d love to hear feedback from people using the new design."
+        }
+    ]
+}

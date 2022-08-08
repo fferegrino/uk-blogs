@@ -1,0 +1,65 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/08/08/mentoring-a-successful-rap-project/",
+    "title": "Mentoring a Successful RAP Project",
+    "authors": [
+        "Jacob Cole \u2013 Data scientist, Office for National Statistics"
+    ],
+    "categories": [
+        "agile",
+        "Reproducible Analytical Pipelines"
+    ],
+    "pub_date": "2022-08-08T15:02:16+01:00",
+    "content": [
+        {
+            "text": "Reproducible Analytical Pipelines (RAPs) are automated statistical and analytical processes. They ensure that analysis is reproducible, efficient, and high quality.\u00a0\u00a0"
+        },
+        {
+            "text": "The Analysis Standards and Pipelines team have worked with teams across government to help them implement RAP. From our experiences we have developed an approach that works to build capability in the team, deliver a working and valuable product, and create enthusiasm for a new way of doing analysis.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we do\u00a0"
+        },
+        {
+            "text": "We approach building RAP capability in teams by:\u00a0"
+        },
+        {
+            "text": "Managers are happier when they see quick wins. We work with analysts to identify small parts of the existing pipeline which have time-consuming manual steps or are the riskiest and prioritise these for development. We keep managers enthused by sharing successes.\u00a0\u00a0"
+        },
+        {
+            "text": "\"Just-in-time learning\", where new techniques or principles are taught to analysts just before they use them, helps analysts to learn best practices. This allows them to embed their new knowledge by using it, rather than taking an \u201cIntro to R\u201d course months before they ever get to use it.\u00a0"
+        },
+        {
+            "text": "Paired programming, where two or more analysts code together with one \u201cdriving\u201d and the other reviewing, spreads knowledge, aids peer review, and speeds up code development.\u00a0"
+        },
+        {
+            "text": "Agile is an approach to managing software development that helps teams deliver products to their customers faster. A big part of Agile working is understanding user needs. Gathering and understanding user needs allows analysts to create code which is fit for purpose. Frequent conversations with users, and showing them working versions of the product, help us understand if needs have changed so we can adjust our code appropriately. Opening these lines of communication between analysts and users is vital to allow for RAP to work effectively.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we need\u00a0"
+        },
+        {
+            "text": "For this approach to work we need the right team, the right tools and support from managers. Each member of the team should have a base level of coding ability but does not need to be an expert. In previous projects we have started with training a small team first. Once this team is ready, we bring in more contributors.\u00a0\u00a0"
+        },
+        {
+            "text": "A range of skills in the team is useful to help a RAP project flow smoothly. Team members who know the outputs and end users are useful to keep the product fit for purpose. The team must be enthusiastic as it is challenging to learn this new way of working.\u00a0"
+        },
+        {
+            "text": "Analysts need time commitment to learn RAP practices and to produce the code the right way. Managers must be made aware of how much time this takes, and they must commit to giving their teams this time. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to take part\u00a0"
+        },
+        {
+            "text": "Contact us for support deploying RAP in your team."
+        },
+        {
+            "text": "We recently released our cross-governmental RAP strategy. You can also read the Quality Assurance of Code for Analysis and Research for a detailed look at RAP principles. My colleague Rowan has recently written a blog about building open source tools for analysts to help them implement RAP.\u00a0"
+        },
+        {
+            "text": "If you would like to get involved, check out the RAP collaboration slack channel and consider joining the RAP champions network.\u00a0"
+        }
+    ]
+}
