@@ -1,0 +1,91 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/08/11/how-and-why-we-removed-jquery-from-gov-uk/",
+    "title": "How and why we removed jQuery from GOV.UK",
+    "authors": [
+        "Andy Sellick - Senior frontend developer, GOV.UK"
+    ],
+    "categories": [
+        "Best practice",
+        "Product changes"
+    ],
+    "pub_date": "2022-08-11T10:24:12+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is the online home for the UK government, so we have to make sure that it works for everyone regardless of their device or connection speed. This means we\u2019re always looking for ways to improve performance and user experience, as well as the code beneath."
+        },
+        {
+            "text": "For a long time our frontend code on www.gov.uk - the publishing domain for GOV.UK - has been dependent on an outdated version of jQuery, a library designed to make writing JavaScript easier. Here\u2019s how and why we decided to remove jQuery, and what the results have been."
+        },
+        {
+            "heading": 2,
+            "text": "How we used jQuery on GOV.UK"
+        },
+        {
+            "text": "GOV.UK consists mainly of static pages of content, so we use JavaScript mostly for analytics, cookies, and small user interface interactions like expanding and collapsing elements."
+        },
+        {
+            "text": "GOV.UK\u2019s architecture is quite complex and our JavaScript is spread across multiple applications that each serve different types of pages. Like many large websites, this JavaScript is a mix of new and old, well documented and not so well documented."
+        },
+        {
+            "text": "jQuery was used widely across our applications both in public facing scripts and test files. We relied on a number of jQuery features, notably Ajax handling (to reload parts of the page dynamically), but we were generally using it to make our code simpler."
+        },
+        {
+            "text": "The main disadvantage of using jQuery is that it has to be included in the page assets, which can slow down how quickly a site loads. GOV.UK's pages vary in size, but the homepage is around 246 kB - 32 kB (13%) of which was jQuery. That\u2019s not a huge amount, but it\u2019s worth considering the performance impact, especially for users on low-specification devices."
+        },
+        {
+            "heading": 2,
+            "text": "The scale of the problem"
+        },
+        {
+            "text": "GOV.UK was reliant on an old version of jQuery. We knew that we needed to upgrade, but we also knew that jQuery was causing performance issues on some parts of GOV.UK."
+        },
+        {
+            "text": "We decided that rather than upgrade, it would be best to remove jQuery. This was a huge task. We had at least 200 scripts, some of them only a few lines long, others hundreds, plus many more tests that also used jQuery."
+        },
+        {
+            "text": "While it was a large task, it mainly consisted of relatively small chunks - any piece of JavaScript on GOV.UK could have jQuery removed from it as an isolated piece of work. That meant that developers could contribute to the task even if they only had a few hours available."
+        },
+        {
+            "heading": 2,
+            "text": "How we did it"
+        },
+        {
+            "text": "Firstly, we stopped adding any new jQuery to GOV.UK to stop the task getting larger."
+        },
+        {
+            "text": "Secondly, we spread the effort across the developers on GOV.UK - both frontend and backend. Backend developers on GOV.UK don\u2019t normally write a lot of JavaScript but they recognised the importance of the work and with a bit of training and support they were soon making great progress."
+        },
+        {
+            "text": "The work still needed input from frontend developers for some larger and more complex JavaScript assets but after writing some documentation on how to remove jQuery and a bit of developer pairing we soon found that entire applications were becoming free of jQuery. This extra effort made a huge impact - it probably reduced the length of the project by several years."
+        },
+        {
+            "text": "We also made some hard decisions. Two of our applications contained a large amount of jQuery but don\u2019t provide many public facing pages to GOV.UK. Rather than block progress, we gave these applications their own copy of the library, so that the majority of GOV.UK could still be made jQuery free."
+        },
+        {
+            "text": "This was punctuated by our COVID-19 work and other priorities, but by the start of 2022 we were in a position to start considering options for finally removing jQuery from GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "The final push"
+        },
+        {
+            "text": "We created a development version of the site without any jQuery that we could use to test each application. This allowed us to check for errors caused by any jQuery code that we might have missed, as well as provide the first real opportunity to measure the performance impact of our change. This testing was thorough and time-consuming and happily revealed few problems."
+        },
+        {
+            "text": "In late March 2022 we were finally ready to deploy our change to the live site. This required careful timing to first deploy those applications that received their own jQuery. Although including jQuery twice didn\u2019t cause any errors, it did unnecessarily inflate the asset size for users and we were keen to not have that in place for long. Once those applications were deployed we were able to deploy the change to remove jQuery - a successful if nerve-wracking process."
+        },
+        {
+            "heading": 2,
+            "text": "The result"
+        },
+        {
+            "text": "Removing jQuery means that 32Kb of JavaScript has been removed from the majority of pages on GOV.UK. GOV.UK is already quite fast to load and for many users this will make no noticeable difference. However, the change for users on a low bandwidth connection or lower specification device will be much more noticeable, resulting in significantly improved page download speed and performance. We\u2019ll provide more detail about exactly what that means in the next blog post."
+        },
+        {
+            "text": "From a developer perspective removing jQuery has been a long but worthwhile process. Rewriting our code has taught us a lot about it and we\u2019ve expanded and improved our tests. In many places we\u2019ve been able to restructure and improve our code, and in some cases remove scripts that were no longer needed."
+        },
+        {
+            "text": "What initially started as a side-project to remove tech debt and legacy code has also brought added benefits in performance, security and developer familiarity with our JavaScript code. An added bonus is that we\u2019ve also removed an external dependency from GOV.UK, which reduces our maintenance effort and possible future security risks."
+        }
+    ]
+}
