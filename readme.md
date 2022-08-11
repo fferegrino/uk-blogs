@@ -1,97 +1,111 @@
-UK Blogs Web Scraper
-====================
+Scraping the government
+=======================
 
-View the latest version of the repo here: [Latest version](https://github.com/fferegrino/uk-blogs)
+Web scraping is a good way to build a dataset of something you are interested in analysing, but not only that, creating your own dataset allows you to customise it in such a way that better serves your purposes.
+
+Python allows you to scrape websites *for free* and on your own with a few commonly used packages supported by the community, and we can leverage GitHub's *free* automation and storage capabilities to execute web the scraping and persist the results in a public git repository.
+
+In this post I will tell you how to do it.
 
 ## Set up your environment
 
-### Git
+Let's begin by setting up the groundwork for this project, we will need:
 
-Since this post talks about GitHub, navigate to a new folder and initialise a Git repository in it. This is a crucial 
-part of our work since both our code and dataset will live in a git repo, in the cloud thanks to GitHub.
+### Aa git repository (hosted on GitHub)
 
-### Python
+Since we are going to use GitHub Actions it is necessary to create a repository there. Then clone it in your local machine where all the magic will happen.
 
-You obviously want to use a virtual environment, create one using your favourite tool, I usually go for Poetry or 
-Pipenv, but for this tutorial I will use vanilla Python:
+ > 🤔 There are alternatives if you don't want to use GitHub, GitLab offers CI pipelines that are a replacement for GH Actions
+
+### A Python virtual environment
+
+This is not a requirement, but I highly encourage you to create an environment for each one of your Python projects. I usually go for Poetry or Pipenv, but vanilla Python will be enough for us this time:
 
 ```shell
 python -m venv .venv
 ```
 
-Since you are doing web scraping, you will need to add some basic dependencies. My suggestion would be to have
-something to make http requests, and something to parse those requests:
+Since you are doing web scraping, you will need to add some basic dependencies: 
+ - `requests` to perform HTTP queries and retrieve their responses, and
+ - `beautifulsoup4` to parse and interact with HTML documents
+
+Just add the following lines to a file named `requirements.txt`:
 
 ```
 beautifulsoup4
 requests
 ```
 
-Finally add a `.gitignore` file, this one is entirely up to you but make sure you don't commit any user-specific info 
-or any virtual environment files.
+ > ⚠️ Add a `.gitignore` file, if you have your virtual environment in the same folder as the rest of your code, make sure you ignore its contents.
 
 ## Identify your (first) target
 
-You want a web page that is static, does not require JavaScript to execute any logic. Single Page Apps, those with 
-infinite scroll are difficult to scrape using the methods I will discuss here.
+This one is the crucial step, and one I strongly recommend you check first. What web page are you going to scrape?
 
-The first thing to keep in mind is that you want a website that offers an index since this is the entrypoint to scrape
-the website, and is the page that will tell you if there is anything new to scrape.
+You want a web page that is static, meaning that it does not require JavaScript to display the content you want to get from it. While it is possible to work with single page apps, those with infinite scroll or any other interactivity-rich pages, I will leave that discussion for a future post.
 
-In my case, I put my crosshairs on the [UK Government Blogs index](https://www.blog.gov.uk) a page that aggregates all
-content posted across all blogs related to the UK government, from now on I will refer to this page as _"the index"_. 
+When coosing a website to scrape, it is also important to keep in mind that you also want a one that offers an index-like page, since this will be the indicator that will tell you if there is anything new to scrape.
 
-### URL
+In my case, I put my crosshairs on the [UK Government Blogs index](https://www.blog.gov.uk) a page that aggregates all content posted across all blogs related to the UK government, from now on I will refer to this page as _"the index"_. 
 
-Look at the address bar, the best URLs to crawl are those that follow a pattern and are "deterministic" in nature.
+### URLs
 
-For example, all of these:
+URLs play an important role in web scraping, looking at the URLs that can be used to access the different index pages, it is possible to identify a pattern:
 
  - https://www.blog.gov.uk/all-posts/page/1
  - https://www.blog.gov.uk/all-posts/page/2
  - https://www.blog.gov.uk/all-posts/page/1000
 
-Work and direct to a valid website. The URL remains largely the same, only an integer changes from one to the other.
+The only change is that the last part of the address is an integer that indicates which page of the index is being requested. More over, all addreses work and direct to a valid website. We will use this information to our advantage.
 
 ### Inspect is your friend
 
-In most modern browsers you can right click anywhere on the page and select the option _Inspect_. This will allow you 
-to interact with the source code of the web page. When web scraping content it is a crucial step to identify where the
-interesting content is.
+Once you identified some patterns in the website addresses, it is time to find patterns in the website contents. In most modern browsers you can _right_ click anywhere on the page and select the option _Inspect_. This will allow you to interact with the source code of the web page. 
 
 ### Identify how the index looks on a page with content
 
-Inspecting the first page of the index, you can start to unravel the structure of the page. It has many entries, where 
-each entry is contained within a `li` html tag, these `li` elements are wrapped in a `ul` element that has 
-`class="blogs-list"` as an attribute. This is great news, we will be able to scrape these very easily.
+![Article](https://ik.imagekit.io/thatcsharpguy/posts/web-scraping/article.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1660194036264)
 
-If you check further, inside every `li` there is an `a` with the url pointing to the full post, we need that url to scrape
-its contents. And that is our goal for this first target.
+Inspecting the first page of the index, you can start to unravel the structure of the page. It has many entries, all of them wrapped in an unordered list (`ul`) with the class `blogs-list`. Then, each entry is contained within a `li` html tag. 
+
+If you check further, inside every `li` there is a nested `a` (did you know that _a_ means anchor?) with the an address pointing to the full post, we need that URL to direct us to the full blog post.
+
+The structure is pretty easy to navigate, this is great news, we will be able to scrape these quickly.
 
 ### Identify how the index looks when there is no content
 
-Another key part is to identify how a page with no content looks like, since a page with no content will be useful to 
-identify when we have reached the end of the index. 
+It is also crucial to identify how a page with no content looks like, since a page with no content will be useful to identify when we have reached the end of the index and there is nothing else for us to scrape. 
 
-Change the url to a page that is unlikely to exist, for example the 1 millionth page:www.blog.gov.uk/all-posts/page/1000000 
-from there, inspect the page as we did previously and you will notice that while the `<ul class="blogs-list">` is still 
-there, now it contains a single `li` element with `"noresults"` as `class` attribute. More great news! it will be easy 
-to know when to stop crawling.
+To view a page without content, change the url to a page that is unlikely to exist, for example the 1 millionth page: www.blog.gov.uk/all-posts/page/1000000 from there, inspect the page as we did previously and you will notice that while the `<ul class="blogs-list">` is still there, now it contains a single `li` element with `"noresults"` as `class` attribute. 
+
+```html
+<ul class="blogs-list">
+    <li class="noresults">
+      <h3 class="govuk-heading-m">No posts found</h3>
+      <p class="govuk-body">Please try:</p>
+      <ul class="govuk-list govuk-list--bullet">
+        <li>searching again using different words</li>
+      </ul>
+    </li>
+</ul>
+```
+
+More great news! it will be easy to know when to stop crawling, all we have to do is look for that particular `li` element.
+
+ > ⚠️ Keep in mind that some other websites may give you a 404 error code when trying to access a non-existent index page, a 404 error is pretty good news too, since you can check for that status code and stop scraping
 
 ## A slight detour (do not repeat yourself!)
 
-Before moving on, we need to make sure we do not keep scraping the same URLs over and over again, so we need a way to 
-keep track of which one we have already processed. 
+Before moving on, we need to make sure we do not keep scraping the same URLs over and over again, so we need a way to keep track of which ones we have already processed. 
 
-In a larger system we could use a proper database, but for our small-scale project, we will have a single text file (I 
-named ours `scraped_urls.txt`), where each line is a processed url, for example:
+In a larger system we could use a proper database, but for our small-scale project, we will have a single text file (I named ours `scraped_urls.txt`), where each line is a processed url, for example:
 
 ```
-https://food.blog.gov.uk/2022/08/04/chairs-stakeholder-update-how-the-fsa-is-supporting-free-trade-agreements/
+https://food.blog.gov.uk/2022/08/04/chairs-stakeholder-update-how-the-fsa-is-supporting/
 https://space.blog.gov.uk/2022/08/04/how-i-made-it-to-mission-control/
 https://ruralpayments.blog.gov.uk/2022/08/04/rpa-is-supporting-farm-24/
-https://forestrycommission.blog.gov.uk/2022/08/04/reducing-the-impact-of-deer-on-the-natural-environment-consultation-opens/
-https://companieshouse.blog.gov.uk/2022/08/04/our-new-powers-a-milestone-year-at-companies-house/
+https://forestrycommission.blog.gov.uk/2022/08/04/reducing-the-impact-of-deer/
+https://companieshouse.blog.gov.uk/2022/08/04/our-new-powers-a-milestone/
 ```
 
 We need a couple of methods to interact with this file, one to get the urls that already exist in the file:
@@ -100,24 +114,27 @@ We need a couple of methods to interact with this file, one to get the urls that
 import os
 
 def get_scraped_urls():
-    urls = []
+    scraped_urls = []
     if os.path.exists("scraped_urls.txt"):
         with open("scraped_urls.txt") as url_file:
             for line in url_file:
-                urls.append(line.strip())
-    return urls
+                scraped_urls.append(line.strip())
+    return scraped_urls
 ```
 
 And another one to append urls to the file:
 
 ```python
 def append_scrapped_urls(urls):
-    with open("scraped_urls.txt", "a") url_file:
-        url_file
+    with open("scraped_urls.txt", "a") as url_file:
+        for url in urls:
+            url_file.write(url)
+            url_file.write("\n")
 ```
 
-
 ## Scrape your first target
+
+Once we have identified our target and have a method to keep track of which URLs are processed, we can start the actual scraping.
 
 The goal of scraping our first target is to build an index of pages that we need to scrape in detail. Think of it as a 
 list of pending jobs.
@@ -127,33 +144,31 @@ Let's create a function that takes in a page number and returns the urls of the 
 ```python
 def get_urls(page):
     final_url = f"https://www.blog.gov.uk/all-posts/page/{page}"
-    page_response = requests.get(final_url)    
+    page_response = requests.get(final_url)
 
     soup = BeautifulSoup(page_response.text)
     blog_list = soup.find("ul", {"class": "blogs-list"})
-    entries = blog_list.find_all('li')
+    entries = blog_list.find_all("li")
 
-    if entries[0].get('class') != ['noresults']:
-        anchors = [entry.select_one("h3 > a") for entry in entries ]
-        hrefs = [a['href'] for a in anchors]
+    if entries[0].get("class") != ["noresults"]:
+        anchors = [entry.select_one("h3 > a") for entry in entries]
+        hrefs = [a["href"] for a in anchors]
         return hrefs
     else:
         return None
 ```
 
-Keep in mind that this function will return the urls as they appear on the webpage, which most lilely will be from the 
-newest to the oldest, so you may want to reverse the result to process the oldest urls first.
+Keep in mind that this function will return the urls as they appear on the webpage, which most lilely will be from the  newest to the oldest, so you may want to reverse the result to process the oldest urls first.
 
 Then we can use this function to crawl across pages from page 1 in a for loop until one of two conditions are met: 
  
  - There are no more articles available, or
  - we get a url that we have already crawled
 
-
 ```python
 existing_urls = set(get_scraped_urls())
 
-new_urls = []
+urls_to_scrape = []
 # From one to one million
 for current_page in range(1, 1_000_000):
     urls = get_urls(current_page)
@@ -166,35 +181,50 @@ for current_page in range(1, 1_000_000):
         # Or we find an url that we already processed
         if url in existing_urls:
             break
-        new_urls.append(url)
+        urls_to_scrape.append(url)
 ```
 
-By this point, we should have a list (above named `new_urls`) that contains a list of urls that we have not scraped yet.
-This list is sorted from newest to oldest.
+By this point, we should have a list (above named `new_urls`) that contains a list of urls that we have not scraped yet. This list is sorted from newest to oldest.
 
 ## Identify your second target
 
-The urls above point to the full article, which is the actual content we are after with our tiny scraping project. The 
-next step is to investigate the contents of each article, remember to use the _Inspect tool_ to find the structure of 
-the page.
+The URLs we have gathered so far point to the full articles, which contain the actual information we are after in our tiny scraping project. 
 
-An initial look shows us that the article contains basic details such as title, author, published date, categories, 
-followed by the actual content. 
+Our next step is to analyse the contents of each article, remember to use the _Inspect tool_ to find the structure of the articles page.
 
-_Inspecting_ the file reveals that every interesting bit we care about exists within an `article` tag, and from there we
-can navigate to the `header` tag to get the "metadata" for the post, while the content exists in a `div` classed as 
-`entry-content`, sometimes in `p` tags others in `h*` tags. 
+An initial look shows us that the article contains basic details such as title, author, published date, categories, followed by the actual content. 
 
-Websites that are properly structured are a bliss to work with, this is one of them, still make sure you review a few 
-different urls to account for every possible variation:
+![](https://ik.imagekit.io/thatcsharpguy/posts/web-scraping/article.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660195990995)
+
+_Inspecting_ the file reveals that every interesting bit we care about exists within an `article` tag, and from there we can navigate to the `header` tag to get the "metadata" for the post, while the content exists in a `div` classed as `entry-content`, sometimes in `p` tags others in `h*` tags. 
+
+```html
+<article>
+   <header>
+      <h1 class="govuk-heading-xl">How we developed the ‘Ready to Pass?’ campaign</h1>
+      <div class="govuk-body-s">
+         <a href="https://despatch.blog.gov.uk/author/abigail-britten/" title="Posts by Abigail Britten" class="author url fn" rel="author">Abigail Britten</a>, 
+         <time class="updated" datetime="2022-08-10T16:07:46+01:00" pubdate="">10 August 2022</time>
+         <a href="https://despatch.blog.gov.uk/category/driving-instructors/" rel="category tag">Driving instructors</a>, <a href="https://despatch.blog.gov.uk/category/ready-to-pass/" rel="category tag">Ready to Pass?</a>
+      </div>
+   </header>
+   <div class="entry-content">
+      <p>We launched our ‘Ready to Pass?’ campaign a few weeks ago now. ...</p>
+      <p>In this blog post, I want to tell you more about: ...</p>
+   </div>
+</article>
+```
+
+Websites that are properly structured are a bliss to work with, this is one of them, still make sure you review a few  different urls to account for every possible variation:
 
 For example, there are articles with [multiple authors](https://nationalscreening.blog.gov.uk/2022/08/01/guidance-on-evaluating-ai-for-use-in-breast-screening/), there are some with [multiple tags](https://civilservice.blog.gov.uk/2022/07/28/top-tips-on-delivering-digital-projects-with-global-partners/). I came across some that had lists and tables in the [article body](https://homeofficemedia.blog.gov.uk/2022/07/28/windrush-compensation-scheme-factsheet-july-2022/). For now, Let's just follow a simplistic approach of dealing with articles, only text will be preserved.
 
-### Division of concerns
+### Division of concerns (when scraping)
 
-We could create a mega-function that takes care of the article on its own, but I always find it better to create small 
-functions that can tackle specific sections of the page's content at the time. For example, we can have a couple of 
-functions: one for the header and another for the content:
+We could create a mega-function that takes care of the article on its own, but I always find it better to create small functions that can tackle specific sections of the page's content at the time. 
+
+
+We can have a couple of functions: one for the header and another for the content:
 
 ```python
 def process_header(header):
