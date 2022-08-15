@@ -1,0 +1,87 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/",
+    "title": "The impact of removing jQuery on our web performance",
+    "authors": [
+        "Matt Hobbs, Head of Frontend Development at the Government Digital Service (GDS)",
+        "Andy Sellick - Senior frontend developer, GOV.UK"
+    ],
+    "categories": [
+        "Product changes"
+    ],
+    "pub_date": "2022-08-15T09:34:03+01:00",
+    "content": [
+        {
+            "text": "In the first blog post we covered \"How and why we removed jQuery from GOV.UK\", let\u2019s now turn our attention to what performance difference it has made for users. Please read that blog post\u00a0before this one."
+        },
+        {
+            "heading": 2,
+            "text": "Image data versus compressed data"
+        },
+        {
+            "text": "As mentioned previously, the jQuery library was only 32 Kb of compressed and minified (when white space removed from code and repeated words substituted) JavaScript. Now I know what you may be thinking, that doesn\u2019t sound like a lot of data, especially compared to images which can be multiple megabytes in size. But when it\u2019s on every page, from a web performance perspective, it equates to a lot of data. It\u2019s also worth mentioning that there\u2019s a big difference between image data and compressed JavaScript data. Browsers and devices handle the 2 data types very differently."
+        },
+        {
+            "text": "JavaScript is known as a \u201crender-blocking\u201d resource. This means when a browser encounters JavaScript it goes through a multistep process which involves it being downloaded, then uncompressed, before it\u2019s finally parsed and executed. This all happens within a device's available Central Processing Unit (CPU) and memory. These tasks can be very slow and energy intensive depending on the device and connection."
+        },
+        {
+            "text": "Unfortunately, during this time, the actual drawing of pixels to the device's screen has to be paused until the execution of the JavaScript is completed. Upon completion the browser can then continue to paint pixels for the rest of the page."
+        },
+        {
+            "text": "Images and image data aren't \u201crender-blocking\u201d, meaning parts of the webpage can be painted to the page while additional image data is being downloaded in parallel. Therefore, a 32 Kb image has much less of a performance impact than 32 Kb of compressed JavaScript. This is especially true for users on low specification devices that are generally slower, older and less expensive."
+        },
+        {
+            "text": "We will focus on these users for the rest of the blog post."
+        },
+        {
+            "heading": 2,
+            "text": "Helping users with low specification devices"
+        },
+        {
+            "text": "Lower specification devices are often considered to be older laptops and tablets, or \u2018budget\u2019 mobile devices (often Android devices on a limited data plan)."
+        },
+        {
+            "text": "Since these users have the slowest devices, they\u2019ll need the most help to make sure their visit to GOV.UK is as fast, efficient and as cheap as possible. Last October, Ofcom estimated 2 million households were \"experiencing affordability issues with either their fixed broadband and/or smartphone\", so our work here has the potential to reduce their internet costs."
+        },
+        {
+            "text": "At this point, it\u2019s worth mentioning that the anonymous Real User Monitoring (RUM) data we collect from user devices shows that GOV.UK is already a very quick website. For the majority of users, the site loads in less than 1 second. But the distribution graph (seen above) also shows that there are some users that see a page load time of up to 2.35 seconds. Examining these users\u2019 RUM performance data more closely, we see:"
+        },
+        {
+            "text": "From the statistics above, we can assume it\u2019s highly likely that many of these Android users are on low specification devices where CPU speed and memory capacity is limited."
+        },
+        {
+            "text": "With that assumption in mind, what performance impact will removing 32 kB of compressed JavaScript have?"
+        },
+        {
+            "heading": 2,
+            "text": "Testing the impact"
+        },
+        {
+            "text": "This is where our \u201clab-based\u201d performance testing is very useful. We run tests every day on GOV.UK pages using specific simulated devices and connection speeds. Because we can repeat these tests every day, it allows us to monitor what the changes we are making to the site are doing for real users visiting GOV.UK."
+        },
+        {
+            "text": "For example, for a simulated user visiting the Universal Credit start page on a low specification device and 2G mobile connection, we can clearly see from the graph where the jQuery change was made."
+        },
+        {
+            "text": "The reason why the Universal Credit page was chosen is because it\u2019s the most visited page on GOV.UK according to our analytics data, so it is important that it loads quickly for all users, no matter what device or connection they are using. As the graph above shows, the time it took for the page to completely draw the pixels to the screen (visually complete) dropped from 11.3 seconds to 9.4 seconds (a 17% improvement)."
+        },
+        {
+            "text": "As well as visually complete Improvements, page load time improvements were also clearly seen. The graph below shows the time until the page has fully loaded dropped from 20.42 seconds to 18.75 seconds (an 8% improvement) and total page load time dropped from 19.44 seconds to 17.75 seconds (a 9% improvement)."
+        },
+        {
+            "text": "Finally, we also see a significant improvement in the page's interactive performance metrics, meaning a user can interact with the page a lot sooner. Interactivity metrics are important to users as they show when the user can first interact with the page. Being able to interact with a page gives users confidence that the page is still working."
+        },
+        {
+            "text": "The graph below shows time to interactivity dropped from 11.34 seconds to 9.43 seconds (an improvement of 17%), and the devices First CPU idle dropped from 11.32 seconds to 9.42 seconds (an improvement of 17%)."
+        },
+        {
+            "heading": 2,
+            "text": "Improving GOV.UK for everyone"
+        },
+        {
+            "text": "Improving web performance is often made up of lots of smaller incremental changes over time. So it\u2019s been great to see support for this change from the wider web performance community."
+        },
+        {
+            "text": "As you can see from our performance monitoring results above, we have improved page performance for many users who struggle on low specification devices and slow connections, even though GOV.UK is already a very quick website for the majority of users. It may sound like 32 kb of JavaScript is nothing on today's modern web with quick devices and fast broadband connections. But for a certain cohort of users, it makes a big difference to how they experience GOV.UK."
+        }
+    ]
+}
