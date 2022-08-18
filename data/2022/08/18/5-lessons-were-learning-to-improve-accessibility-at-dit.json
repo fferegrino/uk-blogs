@@ -1,0 +1,125 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2022/08/18/5-lessons-were-learning-to-improve-accessibility-at-dit/",
+    "title": "5 lessons we're learning to improve accessibility at DIT",
+    "authors": [
+        "Natalia Rowles, Product Engagement Manager",
+        "Anais Reding, Chief Engagement and Design Officer",
+        "Monica Beaton, Service Assessment and Assurance Manager",
+        "Gianni Bolemole, Interaction Designer",
+        "Chris Tucker, Interaction Designer"
+    ],
+    "categories": [
+        "Content",
+        "Digital Services",
+        "Diversity and Inclusion"
+    ],
+    "pub_date": "2022-08-18T11:20:36+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Anais Reding, Chief Engagement and Design Officer"
+        },
+        {
+            "text": "Accessibility is about making sure our services can be used by everyone who needs them. At least 1 in 5 people in the UK have a long-term illness, impairment or disability, and many more have a temporary disability. We are passionate about our users having a positive experience of our public services, and it\u2019s also the law."
+        },
+        {
+            "text": "In the Digital, Data and Technology directorate (DDaT) at the Department for International Trade (DIT), we set up an accessibility working group. This is to help us do the right thing in our day-to-day jobs and keep colleagues\u2019 attention focused on accessibility. Our group includes staff from a range of professions, from content and design to product marketing and service assurance. We are committed to helping the department meet accessibility standards. We want to share how producing accessible content and services helps our colleagues and users."
+        },
+        {
+            "text": "The mission of our working group is to \u201chelp colleagues understand the importance of accessibility and provide them with the knowledge, resources and support to make all our content, products and services accessible\u201d. I have been really impressed by the team who have rallied together to help us do the best job that we can. Many are colleagues starting their careers who have taken passionately to this area, making me feel very optimistic about the future of our services."
+        },
+        {
+            "heading": 2,
+            "text": "1. The 4 principles of accessibility"
+        },
+        {
+            "heading": 3,
+            "text": "Natalia Rowles, Product Engagement Manager"
+        },
+        {
+            "text": "Communicating and engaging effectively with stakeholders is essential in my role as I promote DDaT\u2019s services and products across DIT and beyond. Even though I do not design or build services, following the 4 design principles from the Web Content Accessibility Guidelines (WCAG) 2.1 is important in my role."
+        },
+        {
+            "text": "The 4 principles are:"
+        },
+        {
+            "text": "All information must be perceivable and accessible by more than one sense. For example, if a user cannot see something they should be able to hear it by using a screen reader. It is important that all images in our communications have alternative (alt) text or are marked as decorative, and that documents or webpages are structured correctly."
+        },
+        {
+            "text": "Did you know that the average reading age of content on GOV.UK is 9? Making information understandable by communicating it in a logical and comprehensible way is essential. Using plain English and keeping sentences to a maximum of 25 words are techniques that can help with this. This also benefits users whose first language is not English, which is the case for some of my DIT colleagues. Hemingway App is an example of a useful tool for spotting potentially complex content for a user."
+        },
+        {
+            "text": "Learn more about WCAG 2.1 and how to apply the guidelines in the Service Manual on GOV.UK and in the rest of this blog!"
+        },
+        {
+            "heading": 2,
+            "text": "2. Challenges in accessibility"
+        },
+        {
+            "heading": 3,
+            "text": "Harry Synowski, Content Designer"
+        },
+        {
+            "text": "In the Content Design team, we work with colleagues across the department to produce accessible services and publications."
+        },
+        {
+            "text": "The content we publish is often produced in tandem with other teams in the department who need to publish guidance or legislation related to their area of work. This means that we regularly work with colleagues who may be less confident with accessibility regulations and producing accessible content. With document types such as PDFs, this can cause real problems. Due to how flexible they can be as a publication format, it\u2019s very easy to design a PDF in a way that can never be made accessible. This means teams can spend time producing a document that we have to reject because it has been impossible to resolve accessibility issues."
+        },
+        {
+            "text": "To combat this, the Content Design team and our accessibility working group have been working to drive cultural change in the department. We are advising the stakeholders we work with that accessibility must be considered from the very beginning and be a fundamental part of the design process. We\u2019ve also worked to introduce accessibility conditions to any reports produced externally, meaning reports cannot be commissioned without accessibility regulations being met as a necessary requirement."
+        },
+        {
+            "heading": 2,
+            "text": "3. Accessible design"
+        },
+        {
+            "heading": 3,
+            "text": "Gianni Bolemole and Chris Tucker, Interaction Designers"
+        },
+        {
+            "text": "Designing our services to be as accessible as possible helps us to serve the diverse range of needs our users have. We prioritise and incorporate accessibility at the beginning of the design process. This prevents us from having to retrospectively amend services and products further down the line, which can be both time consuming and costly."
+        },
+        {
+            "text": "Within DIT, we work hard to make sure our services and products meet level AA of WCAG 2.1. This means designing with the understanding that some of our users may have (amongst others):"
+        },
+        {
+            "text": "Many of our services and products use validated components and patterns from the Government Digital Service (GDS) Design System. These have been vigorously tested to ensure they meet the requirements of users with particular needs. In instances where the GDS Design System isn\u2019t being used, we\u2019ve created other systems. For example, the Atlas and Magna design systems (our collections of reusable components) currently employed as the building blocks of great.gov.uk ensure that we are addressing user needs on all fronts."
+        },
+        {
+            "text": "Our standardised buttons used across our various platforms are coloured to ensure sufficient contrast between text and background, aligning with WCAG 2.1 guidelines. This is particularly useful for users with low vision. The buttons have also been tested to make sure they are adequately sized for users with physical or motor disabilities."
+        },
+        {
+            "text": "We are continuously iterating and updating our design systems through design sprints and user testing. This evidence-based approach to design helps us to ensure that no aspect to our design is left to chance and allows us to begin the cycle of releasing new products as efficiently as possible."
+        },
+        {
+            "heading": 2,
+            "text": "4. Accessibility and the agile delivery phases"
+        },
+        {
+            "heading": 3,
+            "text": "Monica Beaton, Service Assessment and Assurance Manager"
+        },
+        {
+            "text": "In DIT, our service assessment model has been in place for a year. We, like other central government departments, are mandated by the Central Digital and Data Office (CDDO) to ensure that services can be used by all."
+        },
+        {
+            "text": "We use the GOV.UK Service Manual\u2019s Accessibility and assisted digital page to help us to think about accessibility from the start of a new service. We assess Service Standard 5, \u201cMake sure everyone can use the service\u201d, during our discovery assessment at the beginning of the service\u2019s lifecycle. This ensures that research has been completed with users that have different skills and levels of experience with using digital services."
+        },
+        {
+            "text": "At alpha, we assess accessibility again to ensure the prototypes have been tested using screen readers and other assistive technology. We also check that continuous research and development is being undertaken. Service teams are asked to use the Government Design System which provides accessible components and patterns to ensure the prototype is accessible to all."
+        },
+        {
+            "text": "At private beta, we ensure that the service has been audited externally against the WCAG 2.1 AA standard. The service team must have started fixing the issues raised at the audit and have an accessibility statement."
+        },
+        {
+            "text": "During public beta, the service should continue to review feedback from new users. If accessibility issues are raised, we ensure the team fix those quickly and effectively. We also recommend that an annual accessibility audit is factored into the live service\u2019s budget so that the service\u2019s accessibility is continuously iterated and improved once live."
+        },
+        {
+            "heading": 2,
+            "text": "5. Everyone\u2019s responsibility"
+        },
+        {
+            "text": "Accessibility is everyone\u2019s responsibility. Supporting our DDaT colleagues to become champions of accessibility will help drive positive behaviour change across the department, Whitehall and deliver better public services. We are committed to creating space for colleagues to share resources, ask and answer questions and promote a culture of continuous learning about accessibility."
+        }
+    ]
+}
