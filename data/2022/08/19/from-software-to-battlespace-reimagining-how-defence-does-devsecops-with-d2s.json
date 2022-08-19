@@ -1,0 +1,102 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/08/19/from-software-to-battlespace-reimagining-how-defence-does-devsecops-with-d2s/",
+    "title": "From Software to Battlespace: Reimagining how Defence does DevSecOps with D2S",
+    "authors": [
+        "Hayley P"
+    ],
+    "categories": [
+        "Digital Foundry"
+    ],
+    "pub_date": "2022-08-19T09:29:03+01:00",
+    "content": [
+        {
+            "text": "In this blog, Hayley Patterson, the Service Owner for D2S, introduces the new Defence DevSecOps Service (D2S) and what it will mean for Defence. D2S has been launched as part of the Defence Digital Foundry\u2019s aim to accelerate the delivery of common platforms and services to enable data, digital and AI exploration."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Over the past year, the D2S team and wider community have been on a mission to mobilise the service for Defence users, bringing the D2S vision to life."
+        },
+        {
+            "text": "D2S is a new service that will accelerate the development and deployment of software in Defence. At its core, it will provide developers with a common DevSecOps platform to build and deploy modern software applications across security classifications."
+        },
+        {
+            "text": "The service is not just about a faster way of building the same software that Defence has always delivered. Instead, D2S has the potential to reimagine how Defence will build new kinds of powerful software for our Armed Forces, co-designed with our end users in mind."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is DevSecOps?"
+        },
+        {
+            "text": "DevSecOps is short for development, security, and operations for those that may not be familiar. It\u2019s a modern approach to software development which combines cultural philosophies, practices, and tools to deliver secure applications and services rapidly."
+        },
+        {
+            "text": "In the modern digital age, as the Chief of Defence Staff stated, \u201csoftware will be as important as hardware in determining what our Armed Forces will be capable of in the future\u201d. It is therefore critical that our DevSecOps capabilities are constantly evolving to allow those on the ground to demand responsive software and gain a competitive advantage on the modern battlefield."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What will D2S mean for Defence?"
+        },
+        {
+            "text": "Historically, software in Defence has taken a long time to build and deploy and can become bloated as we try to anticipate and meet uncertain needs for the future. This software becomes hard for users to understand, challenging to maintain and too rigid to adapt."
+        },
+        {
+            "text": "DevSecOps teams in Defence use different platforms and approaches, which creates inefficiencies, high running costs and hinders knowledge sharing and reuse across Defence.\u00a0We know that developers are trying to build software in better ways but are finding the existing tools, processes and infrastructure get in their way. D2S will mark a step change for these teams in Defence."
+        },
+        {
+            "text": "As the Service Owner for D2S, I am excited about the benefits that it will provide users within Defence, including:"
+        },
+        {
+            "heading": 2,
+            "text": "How has user-centred design shaped D2S?"
+        },
+        {
+            "text": "The D2S initiative was never about delivering just a platform. It\u2019s been about the service, the community and how we can provide a smooth adoption journey for our users. To achieve this, we knew that we had to truly listen to our users so that, together, we can build D2S into what they need, not what we think they need."
+        },
+        {
+            "text": "That\u2019s why user-centred design underpins all our work, as it does with all the Foundry\u2019s services. We have collaborated with our users through interviews, process co-creation, and testing to create the D2S Journey Architecture, which forms the thinking and basis of how we deliver the D2S service."
+        },
+        {
+            "text": "I want to say a huge thank you to all those who contributed and supported this. Thanks to you, I feel that we do understand our users and what they are trying to achieve. Honestly, this has been one of the most rewarding times of my career. I hope you recognise our response to your pain points, and you can see that we have designed an end-to-end journey that makes sense based on your need for self-service, automation and support."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next for D2S ?"
+        },
+        {
+            "text": "Today, seven DevSecOps teams are onboarded to the platform as part of our private beta testing phase. These teams can access the development and testing environment to start building their applications, which range from submarine tooling to cyber risk analysis. With their valuable feedback and insight, we have improved and evolved our service."
+        },
+        {
+            "text": "We\u2019ve also launched the D2S Community Centre to share information about our service and established new Community Forums to support the growth of an engaged community of early adopters. We\u2019ve also assessed the learning needs of DevSecOps teams across Defence and upskilled teams through hands-on platform training with our industry partners, Red Hat."
+        },
+        {
+            "text": "Our next focus is moving into public beta and expanding our user base. We\u2019ll also be adding our production environment next month, so our end users will be able to access and use D2S applications in the battlespace soon."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to engage with D2S"
+        },
+        {
+            "text": "We will continue organising events to engage prospective users and interested colleagues throughout 2022/23. If you would like to find out more or understand if D2S suits your requirements, please contact the team."
+        },
+        {
+            "text": "D2S is on a journey to reimagine how Defence does DevSecOps; with your support, we\u2019ll continue to iterate and develop for the continuing Defence need. Hope to see you all soon!"
+        }
+    ]
+}
