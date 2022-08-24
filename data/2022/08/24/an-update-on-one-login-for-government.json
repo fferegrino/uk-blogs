@@ -1,0 +1,65 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/08/24/an-update-on-one-login-for-government/",
+    "title": "An update on One Login for Government",
+    "authors": [
+        "Natalie Jones - Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "Identity Assurance",
+        "Service design",
+        "Transformation"
+    ],
+    "pub_date": "2022-08-24T10:48:37+01:00",
+    "content": [
+        {
+            "text": "Our mission to build one fast, simple and secure way for people to access government services is both relatively straightforward, and hugely complex. Validating somebody\u2019s identity so they can access services is mostly a \u2018solved problem\u2019 across government. Patterns and processes have grown up over time, and people are able to prove their identity, even though their experiences might be suboptimal, and they might face different hurdles and repetitive steps for different services. But here\u2019s the thing: no one department or service is doing it all well."
+        },
+        {
+            "text": "It\u2019s been nearly a year since I became the Single Responsible Owner of the One Login for Government programme, and it\u2019s true when they say that time flies when you\u2019re having fun. I can\u2019t believe it\u2019s been a year already! I remember arriving last September and giving my first ever external-facing presentation and now we\u2019ve got products in beta, a packed dance card for services who want to work with us, and we are well on our way to building up the product suite that our government partners have asked for."
+        },
+        {
+            "text": "So what are my reflections and what have I learned? First of all, the Government Digital Service, or GDS, is a great place to be. It\u2019s full of bright, enthusiastic people who care passionately about what we\u2019re doing and making our single sign-on and identity-checking solution as easy to use and inclusive for users as we possibly can. There\u2019s a great sense of purpose and real buzz in the air."
+        },
+        {
+            "heading": 2,
+            "text": "Delivering at pace"
+        },
+        {
+            "text": "So, really, my first job was to work out what already exists and negotiate myself to a position of being able to \u2018steal with pride\u2019 the excellent work that\u2019s gone on in other departments in this area."
+        },
+        {
+            "text": "As one of my key stakeholders said to me, \u201cIf you can bring the best of the best under one product set, you\u2019re all set, you\u2019ll be the market leader in government\u201d. So that\u2019s what we\u2019re working towards\u2026 at pace!"
+        },
+        {
+            "text": "We\u2019ve got an initial version of our browser-based route - with a passport check and knowledge-based verification - in limited beta with our partners, the Disclosure and Barring Service. We\u2019ve got an identity-checking app for people with driving licences in beta with HMRC for Government Gateway users, and credible plans for passports and Biometric Residence Permits to be added soon. We\u2019re actively working on digital vouching, a face-to-face route, and new knowledge-based verification question sets that leverage government data \u2013 all of which will make identity checks more inclusive."
+        },
+        {
+            "text": "We\u2019re most definitely underway in terms of delivery. We\u2019re building the things that departments have told us they need and we\u2019re standing on the shoulders of all the great work and research that\u2019s already been done across government, so we\u2019re not starting from scratch."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding what success looks like"
+        },
+        {
+            "text": "That\u2019s the relatively straightforward bit. Working with departments to migrate their services in a way that makes sense for them and their users is the complex bit \u2013 particularly if you don\u2019t want everyone you migrate to have to prove their identity again."
+        },
+        {
+            "text": "The legacy and diversity of identification methods across government means that there\u2019s quite a lot of analysis work to be done to map existing processes to the Good Practice Guide (GPG) framework and understand the relative levels of assurance they need. There\u2019s a trade-off between the veracity of the process and the percentage of people who will get through it, so departments have set their assurance levels in light of this."
+        },
+        {
+            "text": "We\u2019ve spent a lot of time working to understand what\u2019s really important to users and departments, and then building our roadmap and plan to focus on these key metrics. This has been really interesting because departments all have slightly different success criteria, and within their own organisations have optimised around different things based on their user groups."
+        },
+        {
+            "text": "One thing that does seem to be consistently important is the percentage of eligible users who make it through an identity verification route successfully. More on this in a subsequent blog post, no doubt, but working to understand different service needs and the implications of variations of numbers of users via different channels has been really helpful in determining our near-term goals."
+        },
+        {
+            "text": "So, we\u2019ve made big steps forward in terms of building the things that departments have asked for, and this will remain our core focus for the next six months at least. However, in parallel, we\u2019re starting to work through the complexities of user migration, how our account functionality needs to work, and how we can start to reuse identities verified in one place to access services in another."
+        },
+        {
+            "text": "We\u2019re also thinking about how we can start to influence user behaviour when they\u2019re on GOV.UK, so that being \u2018logged in\u2019 becomes a default behaviour, because it \u2018unlocks\u2019 other things and improves user experience."
+        },
+        {
+            "text": "It\u2019s been a great first year and I\u2019m looking forward to the next one!"
+        }
+    ]
+}

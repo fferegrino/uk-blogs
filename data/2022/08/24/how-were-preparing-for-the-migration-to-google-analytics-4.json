@@ -1,0 +1,92 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/08/24/how-were-preparing-for-the-migration-to-google-analytics-4/",
+    "title": "How we\u2019re preparing for the migration to Google Analytics 4",
+    "authors": [
+        "Daisy Wain, Lead Performance Analyst, Government Digital Service"
+    ],
+    "categories": [
+        "Data",
+        "Product changes",
+        "Working with us"
+    ],
+    "pub_date": "2022-08-24T10:50:35+01:00",
+    "content": [
+        {
+            "text": "Google Analytics (GA) is a web analytics service that tracks and reports website traffic from users. It\u2019s used across the world, and there are significant changes coming to GA next year."
+        },
+        {
+            "text": "This will impact everyone that works with GA. In this post, we\u2019re going to explain how we\u2019re approaching that change, provide details of how to learn more and how we can help people across government working with GA."
+        },
+        {
+            "heading": 2,
+            "text": "GA and GDS"
+        },
+        {
+            "text": "GA is the Government Digital Service\u2019s (GDS) primary source of performance data, which we have been building on over many years. We only collect data from users who give us their permission. The data is invaluable for understanding what is working, where the pain points are and how we can improve our platforms."
+        },
+        {
+            "text": "GOV.UK currently uses a version of GA called Universal Analytics (UA). However, Google is rolling out their new iteration called Google Analytics 4 (GA4)."
+        },
+        {
+            "heading": 2,
+            "text": "What moving to GA4 means"
+        },
+        {
+            "text": "We have to move to GA4 as data will stop being sent to UA in 2023 and the product will be shut down soon after. Google announced this back in March 2022, with their plans for \u2018sunsetting UA\u2019, which will happen on 1 October 2023 for paying customers (and on 1 July for non-paying)."
+        },
+        {
+            "text": "The migration will have a big impact on how we measure performance data because:"
+        },
+        {
+            "text": "Let\u2019s dive into these 3 implications a bit further."
+        },
+        {
+            "text": "Firstly, the lack of \u201clift and shift\u201d. GDS is looking into how to build an effective, efficient and intuitive tracking schema - which defines the structure of the data that you collect. More on this below\u2026"
+        },
+        {
+            "text": "Secondly, rebuilding datasets. Organisations will need to review dashboards and datasets, deciding if they should be rebuilt, by whom and who has long-term responsibility for the reports."
+        },
+        {
+            "text": "Thirdly, new software means learning new ways of working and training in best practices. As the software is still being developed, this will likely mean that the volume and scale of our reporting is likely to be different to what we\u2019ve been tracking so far, so we\u2019ll need to understand and control for these."
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019re preparing for the GA4 migration"
+        },
+        {
+            "text": "Due to the size of this piece of work, we began planning in September 2021 with support from Merkle (our Google products reseller) - initially working on the measurement design of our tracking schema. This is what we want to track and the best way in which to do that."
+        },
+        {
+            "text": "We began trying out the schema in our internal testing environment in Q1 this year. This was a low-risk way of seeing how it would work, without testing on actual users."
+        },
+        {
+            "text": "Doing it this way first is key for identifying any parts of the project we may have missed, the best way of working through the analytics, as well as aiding the writing of the Data Protection Impact Assessment (DPIA) on GA4."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ll be doing next"
+        },
+        {
+            "text": "Our next focus is around testing in Integration - the testing environment for GOV.UK. This is not only for quality assurance but also to check GA4\u2019s value and usefulness for all disciplines within and outside of GDS."
+        },
+        {
+            "text": "We want to have this initial testing completed and our privacy notice updated this autumn, when we plan to put it live into our production environment on our \"www.gov.uk\" domain."
+        },
+        {
+            "text": "This deadline allows us one year of dual running of UA and GA4. During those 12 months we will have completed the following:"
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019re here to help"
+        },
+        {
+            "text": "One of the aims of this project is to be able to share our tracking schema and our DPIA, in time, with other government departments."
+        },
+        {
+            "text": "This is an efficiency saving for government, and it\u2019s also a major step in standardising analytics data tracking across the digital government landscape."
+        },
+        {
+            "text": "We will be blogging regularly about our work, and the best way to stay in touch if you work in government is via the Performance Analyst Basecamp where we will be posting regularly (information on how to join is on the Performance analysis community page)."
+        }
+    ]
+}
