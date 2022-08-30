@@ -1,0 +1,157 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2022/08/30/collaborative-design-how-content-and-interaction-designers-can-work-together-to-solve-problems/",
+    "title": "Collaborative design: how content and interaction designers can work together to solve problems",
+    "authors": [
+        "Caroline Vickers",
+        "Joe Horton"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra interaction",
+        "User centred design"
+    ],
+    "pub_date": "2022-08-30T10:19:09+01:00",
+    "content": [
+        {
+            "text": "Senior Content Designer Caroline Vickers and Senior Interaction Designer Joe Horton recently worked together on a GOV.UK service. They share how they found collaborative ways of working and the tools that worked best. With contributions and editing from Anna Scott."
+        },
+        {
+            "text": "Hi. We are Caroline Vickers and Joe Horton, a senior content designer and senior interaction designer at Defra."
+        },
+        {
+            "heading": 2,
+            "text": "What do we do?"
+        },
+        {
+            "text": "If you\u2019re new to content design or interaction design, here\u2019s a quick summary."
+        },
+        {
+            "text": "A content designer puts together information for people that helps them to achieve their goals as quickly and simply as possible. That information is usually words, but not always. Content designers will always support writing in a way that is clear and simple. They don\u2019t use jargon, confusing words, or unnecessarily long sentences."
+        },
+        {
+            "text": "An interaction designer works out the best way for people to interact with a service. They not only design the individual elements on a screen but also the order and flow of a service. The design of the service is thoroughly tested by user researchers. An interaction designer will improve the parts of the service that people have struggled with or found confusing."
+        },
+        {
+            "text": "They often work together on multidisciplinary teams that work on a service. Other roles might include a user researcher, a solutions architect, a business analyst, a delivery manager and a product manager. Together they build digital tools that are designed to help the end user to complete tasks such as applying for a passport or checking local flood risk."
+        },
+        {
+            "heading": 2,
+            "text": "How we met"
+        },
+        {
+            "text": "We\u2019ve been working together on a service called extended producer responsibility (EPR) for packaging. The service is for organisations that sell, produce, distribute, import or supply packaging. It will help those organisations to comply with new regulations around waste packaging."
+        },
+        {
+            "text": "When we joined the team, we had some initial discussions about how we like to work. We quickly realised we both like to work in a similar way."
+        },
+        {
+            "text": "We both like to:"
+        },
+        {
+            "text": "After five months of working together like this we\u2019ve learnt a lot about the best tools to use for collaborative design, which we cover in this post."
+        },
+        {
+            "text": "Our main takeaway is this: when content and interaction designers work collaboratively, they can meet the needs of the user more effectively than if they work in isolation."
+        },
+        {
+            "heading": 2,
+            "text": "Why collaborative design is so important"
+        },
+        {
+            "text": "On a digital service, content and interaction should be inextricably linked. However, lots of us still spend much of our time designing in isolation. Traditionally, an interaction designer puts together the journey a user may take (also known as a user flow) and the basic framework of a page, and then a content designer provides them with the words, often in a word document."
+        },
+        {
+            "text": "But it doesn\u2019t have to be this way."
+        },
+        {
+            "text": "We found that getting together (in a virtual sense, as we live in different parts of the country) and designing in context was the best way to be creative and solve problems. We used the collaborative interface design tool Figma as our preferred tool, as it meant we could both work on a design at the same time."
+        },
+        {
+            "text": "For Caroline, being able to design content in context is vital:"
+        },
+        {
+            "text": "\u201cI\u2019m a fairly tech-savvy content designer (lots of us are!). I can use the GOV.UK prototype kit, know a fair amount of HTML, and am a bit of a magpie when it comes to new tools. And thanks to Joe, I\u2019m also now a big fan of Figma."
+        },
+        {
+            "text": "\"As there are usually so few words on a service (compared to long form content like guidance pages), choosing and arranging those words within the context of the wider page and user flow is really important."
+        },
+        {
+            "text": "\"After all, we are content designers, not content writers. So being able to work on the content alongside Joe was great. We could discuss everything as we did it - where things should be placed on a page, whether we needed to ask the user another question, or use a component from the GOV.UK design system to serve the needs of the user better."
+        },
+        {
+            "text": "\"In the past I\u2019ve designed content in a word document and handed it to the interaction designer to \u2018drop in\u2019 to the prototype. I now realise that doesn\u2019t allow for much creativity, and can ultimately lead to a design that feels quite flat.\u201d"
+        },
+        {
+            "text": "For Joe, working collaboratively is key:"
+        },
+        {
+            "text": "\u201cIn every service I\u2019ve worked on as an interaction designer, I\u2019ve been able to convert my content designer teammate to using Figma as our primary tool for collaboration and design. I\u2019ve been fortunate enough to work with some fantastic content designers, Caroline being the most recent."
+        },
+        {
+            "text": "\"From my experience working on services across government departments, I often get the impression that content designers are thought of as the ones who write, while interaction designers are thought of as the ones who design."
+        },
+        {
+            "text": "\"In my eyes, content designers are as much designers as interaction designers are. But the key difference between the two is that the content designer specialises in words, and we specialise in interactions. When you frame the professions in this way, you\u2019d think it would be mad for them to work separately. But I\u2019ve seen this happen quite often."
+        },
+        {
+            "text": "\"For me, working together with a content designer gives me a greater insight into how they design content. And because we both explain our decisions to each other as we collaborate, we end up with a deep understanding of every element on the screen - whether it be content or interaction specific.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "How collaborative design can solve problems"
+        },
+        {
+            "text": "Design is actually something very simple - it\u2019s a way of solving problems. During the five months we spent working together we designed and prototyped a tool that will tell users if and how they will be affected by new regulations."
+        },
+        {
+            "text": "During one of our design sessions we spent a couple of hours trying to incorporate something new into the tool."
+        },
+        {
+            "text": "Caroline remembers the moment well:"
+        },
+        {
+            "text": "\u201cI remember this particular session as being really interesting because it was the first time I\u2019d properly understood the beauty of design."
+        },
+        {
+            "text": "\"We spent ages trying to incorporate something new into the design and just couldn\u2019t work out how to do it without really confusing users. Eventually Joe came up with the idea of using a component from the design system backlog called an interruption card. An interruption card pauses the user\u2019s journey, so you can give them some important information that will help them to complete the task. We decided to give this a try and by the end of the session we had a new iteration of the prototype ready to go."
+        },
+        {
+            "text": "\"We\u2019d made so much progress in just a couple of hours. Neither of us could have got there on our own. Without Joe\u2019s understanding of the design system and my content designer perspective coming together, we would have struggled to find a solution."
+        },
+        {
+            "text": "\"I remember Joe saying that was the reason he loved design - because it\u2019s a way of solving problems. I\u2019d never thought of it in that way before. It\u2019s quite satisfying to think of yourself as someone who spends their time at work solving problems.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "Finding the right tools"
+        },
+        {
+            "text": "For interaction and content designers, it\u2019s worth thinking about the tools that will best aid collaborative design as well as the tools you have access to. This could depend on the department you work in, or the device you\u2019re working on."
+        },
+        {
+            "text": "At the start of our project we got together to decide which tools we were going to use to collaborate. We\u2019d recommend other designers do the same. Flexibility is key. If your content designer can\u2019t access your favourite tool due to device restrictions, consider using something else you can both work in."
+        },
+        {
+            "text": "We also found that working remotely was not a barrier to collaborative design. In fact, being able to jump on a video call at short notice really helped us work together."
+        },
+        {
+            "text": "There are lots of tools out there that aid collaborative design, such as Mural, Miro, Sketch, and Figma."
+        },
+        {
+            "text": "We found Figma to be the best option for us during the prototype phase, as it meant we could collaborate in real time. It\u2019s also accessible via a browser, so great for someone working on a more restrictive device."
+        },
+        {
+            "text": "Joe likes to use Figma for prototyping for a few reasons:"
+        },
+        {
+            "text": "\u201cDesigning on the spot together can be quite challenging. With every idea, sketch or design you think of, you need to not only communicate it effectively to your fellow designer but also justify the reasoning behind it."
+        },
+        {
+            "text": "\"Working in Figma makes this sort of collaboration easy. Making use of the GOV.UK Figma library, I can turn ideas into high-fidelity designs in a matter of seconds. Seeing our designs in the context to which our users will see them allows us to critique them more meticulously. We can also both easily understand what the other is intending with their design ideas.\u201d"
+        },
+        {
+            "text": "Whichever tool you use, being able to work together in real-time and easily explain your decisions to each other will help you to design better collaboratively. And better design means better outcomes for our users, which is the main purpose of our work!"
+        }
+    ]
+}
