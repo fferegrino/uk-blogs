@@ -1,0 +1,74 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2022/09/05/construction-playbook-why-the-relaunch-will-improve-re-use-of-ground-investigation-data/",
+    "title": "Construction Playbook: Why the relaunch will improve re-use of ground investigation data",
+    "authors": [
+        "Ricky Terrington, Senior Geospatial Data and Technologies Lead, British Geological Survey",
+        "Holly West, Senior Policy Officer, Geospatial Commission"
+    ],
+    "categories": [
+        "Data",
+        "Data Standards"
+    ],
+    "pub_date": "2022-09-05T11:49:27+01:00",
+    "content": [
+        {
+            "text": "Ricky Terrington, Senior Geospatial Data and Technologies Lead at British Geological Survey (BGS), explains how an important step forward to help data-driven decision making has been made with the relaunch of the Construction Playbook."
+        },
+        {
+            "text": "As stated in the UK\u2019s Geospatial strategy, there is huge potential for better use of site-specific location data to improve the way that national infrastructure is planned, built and managed. The re-launch of the Construction Playbook means it is now a requirement for public sector projects that any ground investigation data collected must be shared as soon as reasonably practical with the British Geological Survey (BGS)."
+        },
+        {
+            "text": "Did you know that currently when a borehole is drilled the information gained is often only used once?"
+        },
+        {
+            "text": "Around 500,000 boreholes are sunk in the UK every year, mainly for construction and infrastructure projects. Data is collected from these boreholes by geotechnical specialists who interpret the findings to inform decisions at feasibility, option selection, design and construction stages of a build project.\u00a0"
+        },
+        {
+            "text": "The BGS has a collection of over a million UK borehole records held in the National Geoscience Data Centre, and thousands of new ground investigation records are added each year. This data provides vital geological, geotechnical and geoenvironmental information that is essential for construction, infrastructure and academic research."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Better use of location data and the value it can bring"
+        },
+        {
+            "text": "The BGS estimates that 80% of borehole data is not reported to them, resulting in an estimated loss of data and knowledge to the UK economy valued in the region of \u00a3150-200 million per year. Imagine how much better it would be if newly acquired borehole data was submitted to the BGS and then made available for all to use.\u00a0"
+        },
+        {
+            "text": "It would also be beneficial for those who are paying for the construction. Having a more complete picture of previous ground investigation data is crucial for the construction industry as a whole and many other connected sectors. This would enable better design and decision-making around ground risk and cost at an early stage, reducing incidents of \u2018unforeseen ground conditions\u2019 delaying a project."
+        },
+        {
+            "text": "Unlocking ground investigation data is key to ensuring that data can be used for the greater good. For example, Farringdon Station is one of the flagship stations on the newly opened Elizabeth Line forming part of the London underground network. This area of construction was supported by a robust ground-truthed 3D geological model created by the BGS and taken forward by the project partners (Dr Sauer Group and BAM Ferrovial Kier Joint Venture).\u00a0"
+        },
+        {
+            "text": "The BGS, alongside the project partners, were able to utilise a wealth of historical borehole data both held by the different project partners and augment this with newly acquired ground investigation data, to better predict the ground conditions. This led to a 70% reduction of in-tunnel probing from original plans and delivered a cycle of risk reduction thereby saving significant amounts of time and costs. Find out more about this project."
+        },
+        {
+            "heading": 2,
+            "text": "What has been done to improve the situation?"
+        },
+        {
+            "text": "There are a number of initiatives to help address this problem such as the \u2018Dig to Share\u2019 project which works with the industry to change the culture around data sharing. BGS has also put in place data sharing agreements with organisations, like Network Rail, Environment Agency and the Welsh Government, committing them, and their contractors, to provide their ground investigation records to the BGS."
+        },
+        {
+            "text": "Last year the Geospatial Commission collaborated with the Infrastructure and Projects Authority (IPA), BGS and representatives from key consultants and contractor organisations to explore what more could be done to tackle barriers to data sharing.\u00a0"
+        },
+        {
+            "text": "Since then BGS has been working with the IPA to develop standardised clauses about ground investigation data that can be used by all public sector organisations. These clauses are now in the latest version of the Construction Playbook, which sets out key policies and guidance for how public works projects and programmes are assessed, procured and delivered. The Playbook should be adopted by central government and arm\u2019s length bodies on a \u2018Comply or Explain\u2019 basis.\u00a0"
+        },
+        {
+            "text": "From now on if a government department or agency commissions a contractor to carry out work it should add into the contract a clause that requires the provision of subsurface data to the BGS. This will mean the data collected will become part of the UK repository of subsurface data allowing for greater access and re-use."
+        },
+        {
+            "text": "This is a fantastic FAIR step forward towards the better re-use of data and will affect all construction/infrastructure work carried out by the public sector. For the first time, careful management and curation of ground investigation data will be considered at procurement, costed for and written into contracts as a deliverable."
+        },
+        {
+            "text": "This will have a huge positive impact on the number of records being deposited with BGS, for others to make use of in the future. Increased geospatial data will be available on a project, enabling better decisions, and reducing costs and chances of delay in construction projects undertaken by the government and others, across the UK."
+        },
+        {
+            "text": "Sign up for this blog to get an email notification every time we publish a new blog post. For more information about this and other news see our website, or follow us on Twitter and LinkedIn."
+        }
+    ]
+}
