@@ -1,0 +1,68 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2022/09/06/data-workspace-meets-number-10/",
+    "title": "Data Workspace meets Number 10",
+    "authors": [
+        "Michal Charemza, Tech Lead"
+    ],
+    "categories": [
+        "Data",
+        "Digital Services",
+        "People and Skills"
+    ],
+    "pub_date": "2022-09-06T11:51:47+01:00",
+    "content": [
+        {
+            "text": "At the Department for International Trade (DIT), we extensively use Structured Query Language (SQL), especially in the Digital, Data and Technology (DDaT) team. As discussed in our previous blog post on SQL, and in accordance with our data strategy, we created Data Workspace. Data Workspace is a platform where DIT staff can use SQL to access and analyse data. This data is collected from a wide variety of both internal and external sources to help us make data-driven decisions.\u00a0"
+        },
+        {
+            "text": "We were asked to share a subset of our data with the Prime Minister\u2019s Office at Number 10 to help them make data-driven decisions. Our use of SQL, our infrastructure and Number 10\u2019s infrastructure meant we were able to quickly and easily set up a system to regularly do this.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Iterating quickly on what data to send\u00a0"
+        },
+        {
+            "text": "It was straightforward for our domain experts at DIT to explore our data because we offer interfaces to use SQL in Data Workspace. We were able to construct and refine a query to extract only what Number 10 needed. Using SQL also offered a separation between the data and the query. Once the query was constructed, it could be easily re-run every time there was a data update.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Sending up-to-date data\u00a0"
+        },
+        {
+            "text": "Our data ingestion infrastructure is based on Apache Airflow. This is an industry standard platform for running and monitoring potentially complex automated workflows, running in Amazon Web Services (AWS). We already use it to run SQL-based transformations for data inside Data Workspace. It was easy to use these pieces to regularly run the SQL query constructed by our domain experts against our data and send the results to Number 10.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Receiving the data\u00a0"
+        },
+        {
+            "text": "Number 10 have previously created rAPId: an easy-to-use application programming interface (API) for receiving and storing data. It was straightforward for our Apache Airflow instance to regularly run the SQL against our data and send the results to Number 10\u2019s rAPId instance.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Analysis rather than sourcing\u00a0"
+        },
+        {
+            "text": "The data we sent was used to provide the Prime Minister and their team with up-to-date information on foreign investment into net zero at a regional level. This allowed them to make informed decisions that shaped net zero investment policy and aligned with the government's Levelling Up ambition.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Cross-government collaboration"
+        },
+        {
+            "text": "That\u2019s it! Investment in our infrastructure meant that the process was straightforward. We and Number 10 had all the pieces, and all it took was wiring them together. Being a collaborative partner is one of DDaT\u2019s core values, and this is just one of many examples of how we support other government departments.\u00a0"
+        },
+        {
+            "text": "In DDaT, we are faced with a wide range of technical and user interface challenges. It\u2019s not just shuffling data from one place to another. We need to make sure that this data is accessible, and accessible to a wide range of our users.\u00a0\u00a0"
+        },
+        {
+            "text": "As in this project, we support expert Data Scientists constructing machine learning models on large amounts of data using a combination of SQL, Python and R. We also support less technical users that need to analyse smaller amounts of data via web-based point and click interfaces, or in Excel.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019re constantly running user research to make sure we\u2019re doing the right thing in this reasonably complex space. All of this is done while keeping an eye on security, balancing ease of use against data-related risks. \u00a0"
+        },
+        {
+            "text": "If working in a team facilitating data-driven policy decisions at the highest UK office sounds exciting, maybe DIT DDaT is the place for you.\u00a0"
+        }
+    ]
+}
