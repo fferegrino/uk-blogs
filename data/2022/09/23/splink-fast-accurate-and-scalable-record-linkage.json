@@ -1,0 +1,81 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/09/23/splink-fast-accurate-and-scalable-record-linkage/",
+    "title": "Splink: Fast, accurate and scalable record linkage",
+    "authors": [
+        "Robin Linacre - Data scientist, Ministry of Justice"
+    ],
+    "categories": [
+        "Data Engineering",
+        "Data science",
+        "Python"
+    ],
+    "pub_date": "2022-09-23T10:06:14+01:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "A common data quality problem is to have multiple different records that refer to the same entity but no unique identifier that ties these entities together.\u00a0 For example, customer data may have been entered multiple times by accident, or have been entered in multiple IT systems separately.\u00a0\u00a0"
+        },
+        {
+            "text": "Record linkage (sometimes known as entity resolution, or data matching) is a technique to link these records, enabling data to be deduplicated and joined between systems.\u00a0\u00a0"
+        },
+        {
+            "text": "At the Ministry of Justice, we have developed an open source library called Splink to improve our record linkage methodology.\u00a0 This has enabled us to share new linked datasets with accredited researchers, as part of the ADR UK-funded Data First programme."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "What is Splink?"
+        },
+        {
+            "text": "Splink is a free library for fast and accurate record linkage, which is now in its third version. It has the following key features:"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "How do I get started?"
+        },
+        {
+            "text": "Splink is a free Python package that can be installed in the usual way - using \u2018pip install splink\u2019."
+        },
+        {
+            "text": "We recommend users start by looking at our online tutorial, which is part of our main documentation website.\u00a0 The tutorial runs through a full record linkage example, from exploratory analysis right through to prediction and graph analytics, and it can even be run interactively in your web browser."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "How it works"
+        },
+        {
+            "text": "Splink is an implementation of the Fellegi-Sunter model. The software generates pairwise record comparisons using an approach called blocking, and computes a match score for each pair which quantifies the similarity between the two records."
+        },
+        {
+            "text": "The match score is determined by parameters known as partial match weights. These quantify the importance of different aspects of the comparison."
+        },
+        {
+            "text": "For example, a match on date of birth lends more evidence in favour of two records being a match than a match on gender. A mismatch on postcode may provide weak evidence against a match because people move house, whereas a mismatch on date of birth may be stronger evidence against the record being a match."
+        },
+        {
+            "text": "This simple idea has a lot of power to build highly nuanced models. Partial match weights can be computed for an arbitrary number of user-defined scenarios, not just a match or non match. For example, a partial match weight can be estimated for a scenario where postcodes do not match, but are within 10 miles of each other."
+        },
+        {
+            "text": "These partial match weights are combined into an overall match score, which represents the weight of evidence that the two records are a match."
+        },
+        {
+            "text": "A more detailed video description of how this all works can be found here."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Get in touch"
+        },
+        {
+            "text": "If you work for the government and would like help getting started with your data, please don\u2019t hesitate to get in touch at robin.linacre@digital.justice.gov.uk.\u00a0 You can also ask us a question or raise an issue against the main (public) github repository.\u00a0"
+        }
+    ]
+}
