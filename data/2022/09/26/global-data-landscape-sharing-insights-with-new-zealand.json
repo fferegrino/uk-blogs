@@ -1,0 +1,33 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2022/09/26/global-data-landscape-sharing-insights-with-new-zealand/",
+    "title": "Global Data Landscape - Sharing insights with New Zealand",
+    "authors": [
+        "Fiona James"
+    ],
+    "categories": [
+        "Data architecture",
+        "Data governance",
+        "Roles"
+    ],
+    "pub_date": "2022-09-26T18:18:33+01:00",
+    "content": [
+        {
+            "text": "As data architects across government, you are interested in both enterprise and technical principles and particularly continuous improvement, so as Chief Data Officer for the Office For National Statistics (ONS), I wanted to share some, hopefully relevant and useful, insights from an in-person collaboration session with our friends from New Zealand focused on data."
+        },
+        {
+            "text": "With colleagues, I was lucky to recently meet with Mark Sowden (Government Statistician, Statistics New Zealand), Rachael Milicich (Deputy Government Statistician, Insights and Statistics), and Dr Craig Jones (Deputy Government Statistician, Data System Leadership) at the ONS. We shared our experiences of the opportunities and challenges that the UK and New Zealand are facing around data trust and ethics, system stewardship and joining together administrative data."
+        },
+        {
+            "text": "On data trust and ethics, both New Zealand and the UK are dealing with a similar set of issues, and actively working to address issues around social licence and ethical use of data. I was really interested to hear about the open approach New Zealand have taken around algorithmic transparency, for example they published the Algorithm Charter in 2020. They were impressed with the UK Office for Statistical Regulation in championing how statistics are produced, used and valued, and the need for independent official statistics in uncertain times. New Zealand does not have the same level of assurance, with Statistics New Zealand producing most of the official statistics, but other agencies produce many of what they refer to as \u2018Tier 1\u2019 statistics.\u00a0 In the UK, there is a regulatory approach to enforcing the quality standards required to maintain independent statistics and UK Ministers are required to sign a code of practice about the appropriate use of statistics.\u00a0 On social licence, they were also impressed by their engagement with the Centre for Data Ethics and Innovation, who are using deliberative polling methodologies \u2013 giving people scenarios where their information is used in different ways and assessing their level of comfort with that use."
+        },
+        {
+            "text": "On system stewardship and capability building, Stats NZ has a very mature stewardship approach, having been assigned a legislative role as system lead for data across the New Zealand public service under the Public Service Act 2020. They were impressed with the UK government approach to professional and functional leadership, with a Head of Profession being assigned to the digital, data and technology profession, and then functional heads. There was some interest in the Irish stewardship model whereby statisticians are seconded into agencies, but New Zealand do run a federated model in any case. I know from a data quality perspective that we certainly find having analysts in departments is helpful to both clarify user and business needs , and to improve data quality upfront in the data pipeline."
+        },
+        {
+            "text": "On joining up administrative data, New Zealand has a strong foundation using joined up administrative data already and is looking to focus its efforts on social statistics to the extent that is possible.\u00a0 We are both moving in the same direction as we think about timelier, joined up statistics, particularly for administrative data in the UK, and we both saw a benefit in continuing to exchange ideas, opportunities and challenges given we are broadly on similar time frames. While key decisions are still to be taken, New Zealand is looking at whether their Census in 2028 will be another \u2018combined\u2019 Census or whether any field enumeration is required at all.\u00a0\u00a0 New Zealand has many advantages given the maturity of its integrated data programme already, but ONS will likely move faster in the light that we are leveraging cloud based technology through the Integrated Data Service.\u00a0 We also have a broader ambition for a matching service which joins-up indexed data for the public good, which means getting our cross-government architectures aligned and interoperable.\u00a0 But, anyway, the race is on with New Zealand in not running another Census!"
+        },
+        {
+            "text": "I hope you\u2019ll see what a valuable learning experience this was, and a great opportunity to keep the dialogue open and build stronger relationships in order to enhance data capability across the World and across government, and not just data capability at the ONS."
+        }
+    ]
+}
