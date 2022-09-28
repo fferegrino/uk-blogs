@@ -1,0 +1,90 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2022/09/28/websites-need-to-be-accessible-to-be-inclusive/",
+    "title": "Websites need to be accessible to be inclusive",
+    "authors": [
+        "Chris Heathcote, Product Manager, Accessibility Monitoring",
+        "Andrew Hick - Senior Accessibility Specialist - Government Digital Service",
+        "Keeley Talbot - Accessibility Officer - Government Digital Service"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Monitoring",
+        "Accessibility Regulations",
+        "Assistive technology",
+        "Testing"
+    ],
+    "pub_date": "2022-09-28T09:18:10+01:00",
+    "content": [
+        {
+            "text": "To celebrate National Inclusion Week, we thought we would share how GDS enables inclusion through digital accessibility."
+        },
+        {
+            "text": "Digital accessibility is an important part of inclusion: many users change their settings to make websites and apps easier to use, such as increasing the font size, zooming in, or navigating with a keyboard instead of a mouse. Some people use assistive technologies, such as screen readers, voice recognition or Braille displays to access the Internet. Digital accessibility means that everyone can perceive, understand and use websites and mobile apps."
+        },
+        {
+            "text": "Public sector websites and mobile apps have to be accessible under the Public Sector Bodies Accessibility Regulations. This means that everyone, including both the general public and public sector employees and workers, can expect a good level of accessibility."
+        },
+        {
+            "text": "The Central Digital and Data Office (CDDO) and the Government Digital Service (GDS) are responsible for the accessibility regulations. The accessibility monitoring team, based in GDS, audits public sector websites, and works with public sector organisations to fix accessibility issues.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A day in the life of accessibility monitoring"
+        },
+        {
+            "text": "Most of the team are accessibility specialists and officers, who carry out accessibility testing, write reports, and contact the public sector organisations to help them fix issues."
+        },
+        {
+            "heading": 3,
+            "text": "Simplified tests check for common issues"
+        },
+        {
+            "text": "Keeley is an accessibility officer in the monitoring team:\u00a0"
+        },
+        {
+            "text": "\u201cIn order to send an organisation their report, we need to complete a simplified test. This includes testing a few different web pages, including a form and a document, both manually and using an automated tool."
+        },
+        {
+            "text": "\u201cWe have a range of issues that we manually look for in our simplified tests. These include keyboard, resize and reflow issues. This means checking the website still functions using just the keyboard as well as in different screen settings, for example, at 200% zoom."
+        },
+        {
+            "text": "\u201cWe also run Axe on each webpage to help identify more issues which the users may not initially identify. For example, if a link is not accessible using a screen reader, this will be identified.\u00a0 Using Axe helps us provide an explanation of how to fix the existing issues."
+        },
+        {
+            "text": "\u201cOnce the report has been sent, we work closely with each organisation to support them in fixing any issues and making changes to their accessibility statement.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Detailed tests cover all criteria"
+        },
+        {
+            "text": "Andrew is an accessibility specialist in the monitoring team:"
+        },
+        {
+            "text": "\u201cFor a small number of websites and mobile apps, we run detailed accessibility tests to see if they meet the full range of accessibility criteria. This might mean reporting a missed bin collection using a screen reader, booking a journey without using a mouse or watching an organisation's promotional video to check it has captions or audio descriptions."
+        },
+        {
+            "text": "\u201cYou can usually get an idea of how accessible a site is, and how much people with disabilities have been considered when building it, with a few tab presses and a quick automated check."
+        },
+        {
+            "text": "\u201cAlthough our job is reporting on accessibility issues, we'd rather not find any. Luckily, most organisations respond positively to our audits and make a real effort to remove the barriers we\u2019ve found.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "What a test looks like"
+        },
+        {
+            "text": "Here\u2019s what a typical test setup looks like. For our detailed tests we use a Windows laptop. Here, the monitor shows a web page window open at 400% zoom, and screen reader windows open to one side. On the laptop, there\u2019s a spreadsheet to track test progress, with headphones attached to listen to the screen reader. There\u2019s also a mobile phone showing the same web page."
+        },
+        {
+            "heading": 2,
+            "text": "Two years on from the regulations"
+        },
+        {
+            "text": "It\u2019s now been two years since the accessibility regulations applied to most public sector websites. We are starting to retest some websites previously monitored to check that they remain accessible.\u00a0"
+        },
+        {
+            "text": "It\u2019s important that the public sector keeps its websites accessible as the sites are added to and changed, and that accessibility statements are reviewed regularly and are kept up-to-date.\u00a0"
+        }
+    ]
+}
