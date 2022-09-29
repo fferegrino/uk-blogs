@@ -1,0 +1,126 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2022/09/29/our-effective-delivery-principle-in-action-updating-a-scientific-e-licensing-service/",
+    "title": "Our \u2018effective delivery\u2019 principle in action: Updating a scientific e-licensing service",
+    "authors": [
+        "Ben Stevens, Product Lead, Enablers"
+    ],
+    "categories": [
+        "DDaT Strategy",
+        "Delivery"
+    ],
+    "pub_date": "2022-09-29T11:03:28+01:00",
+    "content": [
+        {
+            "text": "\u2018Effective delivery\u2019 is a principle in our Digital, Data and Technology (DDaT) Strategy 2024. To be effective at delivery, teams need to be led by user research and use commonly agreed standards."
+        },
+        {
+            "text": "To deliver effectively teams follow a process of iteration, involving close collaboration with stakeholders, and regularly share progress with the rest of the organisation. Teams whose leaders trust them to deliver are empowered to work with autonomy and are more effective as a result."
+        },
+        {
+            "text": "We want to share an example of effective delivery in practice - replacing one of our scientific e-licensing services."
+        },
+        {
+            "heading": 2,
+            "text": "Taking a service design approach to our e-licensing service"
+        },
+        {
+            "text": "Scientists often need to do sensitive research to help them find vaccines and developing treatments for cancer, for example."
+        },
+        {
+            "text": "To do research, scientists need a licence for themselves and their project, and they need to carry out the work at a licensed establishment. Licence applications are rigorously assessed to ensure research programmes are compliant with the law and that the benefits outweigh the harm caused to the research subjects."
+        },
+        {
+            "text": "When applying for a licence, scientists need to draft, save, amend, view and, in some circumstances, get their applications endorsed."
+        },
+        {
+            "text": "In 2017, our product team was tasked with replacing one of our services."
+        },
+        {
+            "text": "Faced with a poorly performing service, a frustrated user base and a hard deadline, our team chose to take a service design approach. We spent time understanding the needs of users rather than building a direct replacement based on programme requirements."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from user research to improve service design"
+        },
+        {
+            "text": "To understand the needs of users, our team did comprehensive user research during discovery. We used the discovery findings to start solving the service\u2019s biggest problems, such as:"
+        },
+        {
+            "text": "We then designed, tested and iterated different elements of the service to fix these problems, using patterns and components from GOV.UK\u2019s Design System, the Home Office Design System and the Technology Code of Practice. This included a redesigned application form, a single user account to access multiple establishments, and the ability to share licences with colleagues."
+        },
+        {
+            "text": "In total we held over 500 research sessions, engaging with 61% of establishments across the UK."
+        },
+        {
+            "heading": 2,
+            "text": "Communicating realistic timelines to stakeholders"
+        },
+        {
+            "text": "Our team regularly communicated to stakeholders ahead of the service launch to manage expectations."
+        },
+        {
+            "text": "To ensure deadlines were met, our team estimated the amount of work we needed to do and came up with a detailed project plan. This helped us manage the scope of the project to meet the most important needs of our users ahead of our delivery deadline."
+        },
+        {
+            "text": "We were open with our stakeholders - discussing our roadmap, sharing progress at regular show and tells and engaging users in design workshops."
+        },
+        {
+            "text": "Leading up to our delivery deadline we were realistic about what we could achieve. We kept our stakeholders informed of the risks of including too much too soon in the project as this could impact on the integrity and sustainability of the whole service."
+        },
+        {
+            "text": "Instead, we stayed focused on building a basic, working service that we could continuously develop."
+        },
+        {
+            "text": "Having the trust of senior leaders was critical. We were clear about the impact any demands might have on our delivery and openly discussed technical constraints."
+        },
+        {
+            "heading": 2,
+            "text": "Scaling the team for different stages of the project"
+        },
+        {
+            "text": "Our multi-disciplinary team continuously adapted its size depending on the stage of the project."
+        },
+        {
+            "text": "During discovery, our team was deliberately small with a product lead and a user researcher. Designers, developers, two researchers, a technical lead and a delivery manager then joined the team as we began to undertake intensive research and design sprints."
+        },
+        {
+            "heading": 2,
+            "text": "Iterating based on feedback and research"
+        },
+        {
+            "text": "All the organisations were moved on to the new service in August 2019."
+        },
+        {
+            "text": "After the initial service release, our team focused on fixing bugs. In the first few months, we released changes on average 30 times per month."
+        },
+        {
+            "text": "Our team then started adding more functionality, prioritising based on what would deliver the most value. We continue to iterate and improve based on feedback and data."
+        },
+        {
+            "text": "Our backlog is formed from:"
+        },
+        {
+            "text": "The service is measured against several key performance indicators, which shows the progress we\u2019ve made since it was updated. In a recent survey, 79% of users said they were satisfied with the service, a rise from 47% of users in 2018."
+        },
+        {
+            "heading": 2,
+            "text": "Continuous testing is essential for our user experience"
+        },
+        {
+            "text": "We can rapidly release frequent updates to the service due to our use of automated testing and fast deployment pipelines."
+        },
+        {
+            "text": "For each release, we run around 400 small integration tests, where different components of the service are tested as a group to make sure they work together as expected. This is followed by testing end-to-end user journeys."
+        },
+        {
+            "text": "Automated system alerts tell us if issues occur in the live service. This includes regression tests that run overnight to alert us to any breakages."
+        },
+        {
+            "heading": 2,
+            "text": "Redesigning, not just replacing, a service"
+        },
+        {
+            "text": "By redesigning the service, rather than replacing it, we\u2019ve delivered an improved service on time and to budget. Now it is in public beta and meets all 14 points of the Service Standard."
+        }
+    ]
+}
