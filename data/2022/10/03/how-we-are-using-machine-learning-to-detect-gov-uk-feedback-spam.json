@@ -1,0 +1,136 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2022/10/03/how-we-are-using-machine-learning-to-detect-gov-uk-feedback-spam/",
+    "title": "How we are using machine learning to detect GOV.UK feedback spam",
+    "authors": [
+        "Felix Reilly, Data Scientist, Government Digital Service"
+    ],
+    "categories": [
+        "Data insights",
+        "Data science",
+        "Machine learning"
+    ],
+    "pub_date": "2022-10-03T14:32:27+01:00",
+    "content": [
+        {
+            "text": "User feedback is one of the most direct ways that the Government Digital Service (GDS) learns about user experience. It helps us identify problems, learn what is working, and hear from a range of users on the issues that matter to them."
+        },
+        {
+            "text": "We meet users where they are by providing feedback options on every GOV.UK page. Unfortunately, this also creates a lot of avenues for spam responses. These responses can dilute our insights, cause security concerns, and prevent real problems from being identified."
+        },
+        {
+            "text": "A multi-disciplinary team responded to this problem by developing a machine learning spam classifier. The process is part of an upgrade to the whole user feedback pipeline at GOV.UK, aiming to put critical insights in the hands of decision-makers more quickly. This post will explore the decision to use machine\u00a0 learning, how we built our solution, and the plan for next steps."
+        },
+        {
+            "heading": 3,
+            "text": "The problem with GOV.UK feedback spam"
+        },
+        {
+            "text": "At GOV.UK, we received around 540,000 feedback responses from the public and other departments in 2021. Users can choose from several options on the website to comment on a range of topics, but are not actively prompted.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "In early 2022, we saw spam responses surge due to a technical change on the front end, peaking at 12% of total feedback. These responses ranged from fraudulent advertisements and links to pornographic content, to multiple lines of code and incomprehensible combinations of characters.\u00a0"
+        },
+        {
+            "text": "To extract insights, colleagues suddenly needed to manually filter out tens of thousands of unusable responses over the year. The extra \u201cnoise\u201d in the data made it nearly impossible to automate this extraction, as insights were diluted by spam. There was also a security risk to consider, as individuals could attempt to negatively exploit feedback mechanisms to disrupt the usual workings of GOV.UK."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Why we used machine learning"
+        },
+        {
+            "text": "We quickly recognised that colleagues needed to derive their insights quickly, without needing to manually filter out spam. Based on the fact that we receive around 35,000 feedback responses per month, we calculated that it could take up to 4000 hours per year to manually categorise spam. This risked costing the civil service hundreds of thousands of pounds in accumulated hourly salaries for something that was theoretically simple to automate."
+        },
+        {
+            "text": "We saw the challenge as a great application for a machine learning (ML) model. ML models are computer programs that can automatically improve their own performance (judged by a chosen metric) as they are given access to more data. They are popular and powerful solutions for classification problems, and often deployed for use on email spam."
+        },
+        {
+            "text": "In supervised spam detection, the task is to predict the label of \u201cspam\u201d or \u201cnot spam\u201d \u2014known as \u201cham\u201d\u2014 for each feedback response, as well as a probability that the prediction corresponds to the true label. The method is to provide the model with a \u201ctraining set\u201d, or lots of examples where humans have assigned the labels that we would like it to replicate. We then assess performance by passing through new data that the model has not been trained on \u2014known as the 'test set'\u2014 and comparing the model\u2019s predictions with the true labels.\u00a0"
+        },
+        {
+            "text": "Problems suited to ML can often be solved almost as effectively in less time and with less data by heuristic methods, so it is best practice to test these first. Before deploying ML to our problem, we experimented with \u201crules-based\u201d spam detection on the \u00a0new data pipeline\u00a0 built by the Data Insights team.\u00a0"
+        },
+        {
+            "text": "We quickly saw that we would benefit from ML\u2019s ability to\u00a0 predict the probability of class membership as well as class labels, as rules-based methods appeared to struggle with spam that had subtle combinations of indicators. With ML, we could use the probability score to demand a high level of confidence in our model\u2019s predictions, reducing the mislabelling of legitimate feedback. We could also ask for a breakdown of \u201cfeature importance\u201d, showing us which characteristics were most likely to be present in responses labelled as spam."
+        },
+        {
+            "text": "ML therefore provided some clear benefits for our problem. We followed best practice by deploying rules-based approaches first, and located the areas where ML would have the advantage. Once we had made the decision, we focused on the tools and techniques that would help deliver a working solution as soon as possible.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The tools and techniques we used to deliver at pace"
+        },
+        {
+            "text": "To align with agile principles of rapidly delivering a working solution, we prioritised quick development throughout the build. We used the Machine Learning Canvas to quickly define the scope of our problem, identify blockers to deployment, and assess the readiness of our datasets.\u00a0"
+        },
+        {
+            "text": "We identified the need to accelerate the selection of an appropriate ML classifier. To do this, we used PyCaret to automate the comparison of classifier models that we could fine-tune, using a simple function call. This helped us decide on a Random Forest Classifier, a form of ensemble learning that uses multiple decision trees to make an aggregated prediction."
+        },
+        {
+            "text": "The canvas also helped quantify the complexity of our datasets, and the need to standardise the versions used across teams. We implemented Data Version Control (DVC) to version-control our datasets and models, and to ensure the consistency and reproducibility of our results."
+        },
+        {
+            "text": "Once we had built a performant model, we used a confusion matrix to visualise the occurrence of false positives, where real feedback was identified as spam. We then ranked individual feature importance to assess the features used in the model\u2019s classification judgements, to understand which derived features had the most impact on the outcome of the model's predictions.\u00a0"
+        },
+        {
+            "text": "Tools such as PyCaret and DVC meant that we were able to focus on deploying a working solution at pace. We used an agile approach by testing rules-based methods before ML, before using the Machine Learning Canvas to streamline planning and set priorities for quick development and iteration.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The next steps"
+        },
+        {
+            "text": "The first iteration of our spam classifier is capable of delivering huge time savings to GOV.UK. We can run it on over a month\u2019s worth of feedback data \u2013around 40,000 responses\u2013 in less than five minutes, a fraction of the time it takes human reviewers."
+        },
+        {
+            "text": "Now, a careful iteration process is important for combating spammers that adjust terminology to outwit filters and cause \u201cmodel drift\u201d. We will deploy the model to larger, more complex feedback datasets and engineer improved features. We hope to improve our model\u2019s accuracy by finding a classification threshold that strikes the optimum balance between \u201cprecision\u201d and \u201crecall\u201d.\u00a0"
+        },
+        {
+            "text": "Open development remains integral to our approach, helping us refine collaboration across teams, test novel techniques, and speed up the processing of tens of thousands of feedback responses every month. If you are interested in seeing how this project progresses, subscribe to the GOV.UK blogs where we will post updates on the integration process, and the real world results for GOV.UK colleagues."
+        }
+    ]
+}
