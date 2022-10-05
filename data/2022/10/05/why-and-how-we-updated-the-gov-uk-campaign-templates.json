@@ -1,0 +1,79 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/10/05/why-and-how-we-updated-the-gov-uk-campaign-templates/",
+    "title": "Why and how we updated the GOV.UK campaign templates",
+    "authors": [
+        "Inderjeet Singh, Senior Product Manager at GOV.UK, Government Digital Service",
+        "Eela Muhaimin, Policy Advisor, Priority Projects Unit, Cabinet Office"
+    ],
+    "categories": [
+        "How we work",
+        "Product changes"
+    ],
+    "pub_date": "2022-10-05T15:03:50+01:00",
+    "content": [
+        {
+            "text": "While GOV.UK looks like a single website to its millions of users, it\u2019s actually made up of a number of different domains. These different domains serve different needs. For instance, www.gov.uk is the publishing platform for government, while blog.gov.uk is for government blogs - like this one, Inside GOV.UK."
+        },
+        {
+            "text": "One of the domains is campaign.gov.uk. This is where the government's public awareness campaigns are hosted, such as Help to Grow. For users who might have seen a TV advert or poster at a bus stop, these pages act as an online destination for smooth onward user journeys to relevant information and services on GOV.UK."
+        },
+        {
+            "text": "Campaign sites are built on a self-service tool and take advantage of a campaigns template. The first template was launched in 2016 and allowed users to create a simple single page site to communicate with the public."
+        },
+        {
+            "text": "We\u2019ve recently done some work to improve the campaigns offering, and are now launching a new template."
+        },
+        {
+            "heading": 2,
+            "text": "Why we designed a new template"
+        },
+        {
+            "text": "Our previous template offered users an easy-to-use platform for creating a simple site, relatively quickly. It had been around for a few years, so it was a familiar piece of technology."
+        },
+        {
+            "text": "However, since then, there have been changes in user behaviour, such as an increase in people accessing GOV.UK via mobile devices, and improvements in digital accessibility. We wanted to make sure we were able to reflect these changing user needs in our new template."
+        },
+        {
+            "text": "In addition, recently government communicators who use the template and campaigns platform have said they found it limiting. There was a wish for a more immersive, eye-catching campaign template, where brand identity and messaging could be incorporated. The limitations of the previous template sometimes led to people considering the need for an exemption to GOV.UK to create a more bespoke site."
+        },
+        {
+            "text": "The new template has been designed with enhanced flexibility and customisation in mind, and looks and feels more modern. It provides new design elements that were not previously available. For example, you can now set up custom colour palettes and create multiple pages if necessary. These new features will help the people visiting the campaign page as it makes it easier to navigate to the information they need."
+        },
+        {
+            "text": "This additional functionality means the template can now be more widely used across government, saving taxpayer money and strengthening consistency across all government campaigns."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s new?"
+        },
+        {
+            "text": "The new template now offers users a range of improvements including:"
+        },
+        {
+            "text": "The updated campaign guidance can be found on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "How we created the new template"
+        },
+        {
+            "text": "To create the new template, we first had to understand the problem we were trying to tackle. Through a series of shadowing sessions and interviews, we spoke with a number of government departments to find out what they were trying to achieve, why they were trying to achieve it, and why this was not possible on the current platform."
+        },
+        {
+            "text": "From this, we drew up a list of prioritised user needs, considering how much value each could add and how complex they might be to meet. We worked with an external agency to shape and scope these needs."
+        },
+        {
+            "text": "Once we had developed a prototype, it was tested by a number of users across GDS and the Government Communication Service. It has also been used in several high profile campaigns including the UK stands with Ukraine and the Help for Households already."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "This is version 1 of the new template. We have a backlog of features that we\u2019ll continue to deliver iteratively. We\u2019ve also planned a series of user testing sessions so we can keep learning about our users to prioritise developing the things they need most."
+        },
+        {
+            "text": "If you have any questions or feedback about this update, you can reach us by email."
+        }
+    ]
+}

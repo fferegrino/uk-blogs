@@ -1,0 +1,62 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2022/10/05/a-year-of-building-with-moj-forms/",
+    "title": "A Year of Building with MoJ Forms",
+    "authors": [
+        "Mark Jefferson"
+    ],
+    "categories": [
+        "digital strategy",
+        "employee experience",
+        "faster",
+        "MoJ Digital Strategy 2025",
+        "MoJ Forms",
+        "MoJ strategy",
+        "Our services",
+        "our users"
+    ],
+    "pub_date": "2022-10-05T14:35:13+01:00",
+    "content": [
+        {
+            "text": "MoJ Forms is quickly becoming the go-to approach for busy teams needing a fast, affordable and secure way to collect information from users."
+        },
+        {
+            "heading": 2,
+            "text": "A New Approach"
+        },
+        {
+            "text": "The MoJ Forms platform enables teams to create and publish their own digital forms. It\u2019s simple to use and the platform takes care of all the difficult parts like design standards, security and hosting. The result is a fully accessible, secure way of collecting information from users that looks and works like any government service."
+        },
+        {
+            "text": "Since we launched into Private Beta last year, we have been steadily expanding our features and capabilities. Teams can now use MoJ Forms to:\u00a0"
+        },
+        {
+            "text": "At the same time, we have improved the usability and accessibility of the editor - the browser-based application used to create, publish and manage forms. And we have continued to invest in the stability and security of the platform."
+        },
+        {
+            "text": "We are so confident in the strength of MoJ Forms that we are preparing to migrate the forms we currently maintain on our legacy form-building platform, Form Builder. This will enable teams to manage their own forms more easily and free us up to focus all of our energy on MoJ Forms.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Strength in Numbers"
+        },
+        {
+            "text": "The introduction of branching - our name for using logic to show different questions - was a major milestone. We knew branching was something that even the simplest of forms would benefit from and our engagement really took off from that point. We now have around 70 users from every corner of MoJ who have either launched a form or are designing one.\u00a0"
+        },
+        {
+            "text": "Teams are using MoJ Forms to meet a lot of different needs, including:\u00a0"
+        },
+        {
+            "text": "As word-of-mouth spreads, more and more teams are approaching us looking for help to solve their problems in a pragmatic and cost-effective way. These new users are helping to shape our roadmap and prioritise development. For example, some teams need to take payments from users so we are working on generating unique reference numbers to help them reconcile payments on GOV.UK Pay taken via payment links. Other teams with complex forms have users who may not be able to complete the form in one session so we are working on designs for a \u2018save and return\u2019 feature.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "More Growth Ahead"
+        },
+        {
+            "text": "This autumn will be a busy time. We will continue to expand our core functionality with basic API integration and confirmation emails as well as testing our designs for save and return with users. We should see a number of our legacy forms complete their migration onto MoJ Forms.\u00a0"
+        },
+        {
+            "text": "We will also start to build out our approach to quality assurance, standards and evaluation. We have spent a lot of time thinking about how we can help teams create good forms and have a lot of ideas. (More on this in a future blog post.)\u00a0Most importantly, we expect to see more forms go live, welcome more new teams onboard and learn more about the many different ways teams need to collect information from their users.\u00a0"
+        }
+    ]
+}
