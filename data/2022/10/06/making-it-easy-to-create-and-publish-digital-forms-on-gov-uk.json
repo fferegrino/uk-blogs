@@ -1,0 +1,106 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/10/06/making-it-easy-to-create-and-publish-digital-forms-on-gov-uk/",
+    "title": "Making it easy to create and publish digital forms on GOV.UK",
+    "authors": [
+        "The GOV.UK Forms Team"
+    ],
+    "categories": [
+        "Digital Service Platforms",
+        "Transformation",
+        "Ways of working"
+    ],
+    "pub_date": "2022-10-06T11:20:27+01:00",
+    "content": [
+        {
+            "text": "We\u2019re on a mission to build a tool that will allow anyone in government to easily create online forms."
+        },
+        {
+            "text": "There are nearly 8,500 document-based forms published on GOV.UK, many of which are not fully accessible. These forms can be either very difficult or impossible to fill out for users with certain disabilities. They\u2019re also harder and take longer to process for government teams."
+        },
+        {
+            "text": "Our aim is to help teams to create and publish online forms that are quicker and easier to process and use. And we\u2019ve just passed a major milestone by publishing the first form using the GOV.UK Forms platform!"
+        },
+        {
+            "text": "Now in private beta, GOV.UK Forms is supporting a number of partners to easily create accessible, digital forms in minutes. Our users are people working in government who build and use forms, typically to collect information which enables somebody to access a government service. This is a really common need across the civil service. So it\u2019s crucial that our users do not need to have any technical background to create online forms."
+        },
+        {
+            "heading": 2,
+            "text": "Co-designing the GOV.UK Forms platform"
+        },
+        {
+            "text": "Building on our findings from the alpha and to get things started, the Government Digital Service (GDS) identified a number of private beta partners across government to help us co-design the GOV.UK Forms platform. Our first partner is the Redundancy Payments Service (RPS) team in the Insolvency Service."
+        },
+        {
+            "text": "Together, we chose a form that only required simple questions and features. This meant we could quickly build the basic functionality needed to create the form. We selected a form that is used to amend details about accrued holiday pay for a redundancy claim. This is one of six forms that can be used to amend a claim if you need to update the information you\u2019ve already provided."
+        },
+        {
+            "text": "After a lot of work designing, researching, learning and building over several months, we were finally ready to run a session to build the first form. Our partners in the Insolvency Service were then able to successfully create the digital form, from start to finish, in less than 30 minutes."
+        },
+        {
+            "text": "This new digital form will help those who have made a redundancy claim to easily update the details about their holiday pay accrued. It will also help the Insolvency Service\u2019s team to process the form faster and speed up payment to the claimant."
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "This is a straightforward form that doesn't use any trickier kinds of question types or features - things like marking questions as optional or allowing users to upload files or add multiple responses to a question. These are all features our private beta partners require, so they\u2019re the next ones we\u2019re planning to design, build and test. And the Insolvency Service will be working on digital versions of the remaining RPS forms soon too."
+        },
+        {
+            "heading": 2,
+            "text": "Why has GDS created an online form builder?"
+        },
+        {
+            "text": "Currently, PDFs and other document types are easier to create than online, HTML forms, especially for teams without any digital specialists. However, this comes with significant drawbacks in the accessibility stakes."
+        },
+        {
+            "text": "Many of these forms are difficult or impossible to fill out for some users, for example those with certain visual, cognitive, mobility or neurological disabilities. And whilst there are well-designed PDF forms which are on the whole better, even these still do not meet government accessibility requirements, which are to comply with the Web Content Accessibility Guidelines 2.1 AA standard."
+        },
+        {
+            "text": "So we want to help colleagues by providing them with a way that allows teams to create accessible, easy-to-use and quick-to-process digital forms. We think that by providing tried and tested components and patterns - for example a confirmation page that advises an applicant what happens next after filling in a form, radio buttons to select an option, or email validation - we can help form creators to achieve this goal."
+        },
+        {
+            "text": "On average, a new form is added every working day and more than 400 new forms have been added in just the last year. We therefore need to act now to stop this number growing further."
+        },
+        {
+            "heading": 2,
+            "text": "Getting down to the detail"
+        },
+        {
+            "text": "We\u2019re really grateful for the interest in GOV.UK Forms. One of the most common questions we get is, \u201cWhen can I use it?\u201d. As we are in the early to mid stages of private beta, there is a lot of building, testing and iterating to come."
+        },
+        {
+            "text": "We\u2019re aiming for at least 60% of our partners to have published a form by the end of private beta. Then, building off this learning, we aim to launch the platform for central government use in 2023."
+        },
+        {
+            "heading": 3,
+            "text": "About the platform"
+        },
+        {
+            "text": "The platform will be web-based, with no coding required. The platform code though will be open-sourced, and you can already see the accessible forms code we use in the components section of the GOV.UK Design System."
+        },
+        {
+            "text": "We currently use GOV.UK Notify to send an email to the team which processes form data containing the information in the completed form. We think by sending data in a structured way that is not contained within a document-based form, like a PDF, we can help teams to save significant processing time and costs."
+        },
+        {
+            "text": "Looking ahead, lots of teams have asked us about how else they might use form submission data and so, in the future, we might want to look at sending aggregated data and integration with other applications."
+        },
+        {
+            "heading": 3,
+            "text": "Working across government"
+        },
+        {
+            "text": "In private beta, we are collaborating with other government departments, such as the Maritime and Coastguard Agency, Department for Environment, Food and Rural Affairs (DEFRA), the Driver and Vehicle Standards Agency (DVSA) and HM Revenue and Customs (HMRC), to further develop the platform and to publish at least one of their forms."
+        },
+        {
+            "text": "We also talk regularly with the Ministry of Justice (MoJ), Foreign Commonwealth and Development Office (FCDO), and the cross-government form building community, who have their own form-building products. This is helpful as it encourages us all to share learnings as well as to focus on the different problems we are tackling. For example, our team is targeting a wider user base, including people in government with zero tech background, so we are focusing on providing GOV.UK Forms as an easy-to-use self-serve platform."
+        },
+        {
+            "heading": 2,
+            "text": "Sharing learnings"
+        },
+        {
+            "text": "\nWe do regular talks at civil service-focused events as well as with the international form-building and design communities. We\u2019re always happy to discuss our work and learn about users, so please contact our team for more information."
+        }
+    ]
+}
