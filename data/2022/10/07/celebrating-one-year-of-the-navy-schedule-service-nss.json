@@ -1,0 +1,71 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/10/07/celebrating-one-year-of-the-navy-schedule-service-nss/",
+    "title": "Celebrating one year of the Navy Schedule Service (NSS)",
+    "authors": [
+        "L. Rossi"
+    ],
+    "categories": [
+        "Navy Digital"
+    ],
+    "pub_date": "2022-10-07T08:24:36+01:00",
+    "content": [
+        {
+            "text": "My adopted programme (Navy Schedule Service) is a year old, and this is what I\u2019ve learnt."
+        },
+        {
+            "text": "Please join me in wishing the Navy Schedule Service a happy first birthday. Navy Schedule Service (NSS) went live 16th September 2021.\u00a0\u00a0 NSS, a web-based service at SECRET, is used to manage operational planning and tasking of all Navy Force Elements. NSS (known as project SIRIUS) started life as part of the Navy\u2019s Digital Transformation accelerator programme, to transform how digital services are developed and used in the Navy."
+        },
+        {
+            "text": "This first year has been our proving ground and I\u2019m proud to have joined the already successful team as Product Owner for NSS in April 2022. I missed the early months of excitement (I\u2019ve been told \u201cWe laughed, we cried, we had sleepless nights\u201d describes it well).\u00a0 One year on, NSS serves more than 800 users; the majority viewing the real-time schedule, which is planned, created, and edited by a core user group of Navy Plans schedulers."
+        },
+        {
+            "text": "NSS has already contributed to the realisation of wider stakeholder benefits in the areas of supporting collaborative working and better-informed decision-making, purely by enabling users across Defence to access a real-time view the Schedule of the Royal Navy and Royal Fleet Auxiliary Force Elements."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Software in the Navy:\u00a0 old dog, new tricks"
+        },
+        {
+            "text": "NSS team, part of the Navy Digital - Data and Navy Applications (DNA) software house, have successfully adopted modern agile approaches and processes for software development. The plan was ambitious, especially when deploying a service at SECRET. Learning lessons, adapting, and evolving demonstrates the benefits of these ways of working.\""
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Good design includes real users"
+        },
+        {
+            "text": "NSS is anchored on the principle of User Centred Design (UCD).\u00a0 We speak to our users, building up concepts and ideas with them to solve problems, spending time to try alternatives on the drawing board or with clickable prototypes to get early feedback.\u00a0 We regularly visit the Maritime Operations Centre (MOC) at Northwood, engaging with schedulers, to ensure NSS is designed with, by and for the people who use it.\u00a0 Covid didn\u2019t stop development, we learned how to do remote interactive concept testing safely and securely over MODNet-S, which has become an embedded tool for us and enabled us to include UKMCC schedulers in Bahrain as a result."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Releasing at SECRET and at pace"
+        },
+        {
+            "text": "While technical folk get excited about software tooling and automated build discussions, implementing automation when developing in OS and releasing at SECRET is no easy feat. It is worth noting that although we have automated the process almost entirely, releases still require humans to be onsite when moving code from OS to SECRET; separate means secure, and that integrity is paramount.\u00a0 As a result, frequency of releases must be balanced between the need for speed to get features into the hands of users and managing the costs to release."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where do we go from here?"
+        },
+        {
+            "text": "We have a lot to do.\u00a0 For NSS itself, we have a roadmap and backlog which includes more advanced functions that touch on gnarly topics such as integrating common reference data, fuel forecasting, alternative scheduling, and NSS access while at sea.\u00a0 As a front-runner transformation project, we are working closely with Navy Digital\u2019s data governance and enterprise architecture teams to make our contribution to delivering on the Navy Digital and Data Plan 2022-25."
+        },
+        {
+            "text": "Bring on year 2! We got this!"
+        },
+        {
+            "text": "\n"
+        }
+    ]
+}
