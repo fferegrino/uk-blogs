@@ -1,0 +1,89 @@
+{
+    "url": "https://cdei.blog.gov.uk/2022/10/10/developing-the-algorithmic-transparency-standard-in-the-open/",
+    "title": "Developing the Algorithmic Transparency Standard in the open",
+    "authors": [
+        "Elena Hess-Rheingans, Central Digital and Data Office",
+        "Lara Bird, Centre for Data Ethics and Innovation"
+    ],
+    "categories": [
+        "Algorithms",
+        "Transparency",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2022-10-10T13:20:05+01:00",
+    "content": [
+        {
+            "text": "Today the Central Digital and Data Office (CDDO) and the Centre for Data Ethics and Innovation (CDEI) are sharing an updated version of the Algorithmic Transparency Standard on GitHub. Sharing the updated Standard on GitHub will allow interested stakeholders to submit further feedback and see how the Standard is developing."
+        },
+        {
+            "text": "The Algorithmic Transparency Standard was first published in November 2021 and is one of the first initiatives of its kind globally. It provides a framework to enable public sector bodies to share information on their use of algorithmic tools with the public and interested stakeholders. In doing so, the Standard will help to realise the potential of these technologies by increasing organisations\u2019 confidence to make use of effective algorithmic tools.\u00a0"
+        },
+        {
+            "text": "We are also using GitHub to share the guidance we have developed to support public sector bodies to use the Standard and complete algorithmic transparency reports for the tools they are using. The updates to the Standard and guidance have been made based on extensive consultation with public sector teams, suppliers and the general public, including feedback we received from teams who have piloted use of the Standard since its launch last year."
+        },
+        {
+            "text": "We will continue to update the Standard and guidance on the basis of feedback we receive over the coming months."
+        },
+        {
+            "heading": 4,
+            "text": "Using feedback to improve the Algorithmic Transparency Standard"
+        },
+        {
+            "text": "Since its launch, we have piloted the Algorithmic Transparency Standard with teams across the public sector, particularly focusing on what works and doesn\u2019t work, if any aspects of the Standard were unclear, and what further support teams might need when completing an algorithmic transparency report.\u00a0"
+        },
+        {
+            "text": "In June 2022, we published the first algorithmic transparency reports that came out of the pilots, alongside a blog post explaining the process. In parallel with the pilots, we ran an open call for feedback and held two roundtable discussions facilitated by techUK and the Crown Commercial Service, which were attended by around 100 representatives from private sector suppliers."
+        },
+        {
+            "text": "We carefully considered the feedback we received through the pilots and the consultation with stakeholders, considering the impact and feasibility of incorporating each piece of feedback individually and undertaking an extensive phase of qualitative feedback analysis.\u00a0"
+        },
+        {
+            "text": "On the basis of the feedback we received, the changes we have made to the Standard include:\u00a0"
+        },
+        {
+            "text": "A full summary of the changes made can be found here.\u00a0"
+        },
+        {
+            "text": "We will be collecting feedback from the public, interested stakeholders and public sector bodies using the Standard on an ongoing basis, as well as reviewing the Standard every 6 months. Any future updates will be captured in\u00a0 the change log to explain what has changed and why.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Creating guidance to support public sector bodies"
+        },
+        {
+            "text": "Feedback from the pilots suggested that teams would find it helpful to have further support when completing the transparency reports. For this reason, we have developed guidance to answer common questions that teams may have.\u00a0"
+        },
+        {
+            "text": "We have also provided links to a range of further resources for teams looking to access additional support as they develop and deploy algorithmic tools, such as the ICO\u2019s AI and data protection risk toolkit and the CDEI\u2019s review into bias in algorithmic decision-making.\u00a0"
+        },
+        {
+            "text": "In addition to this guidance, teams can also consult the pilot reports that have been published on GOV.UK."
+        },
+        {
+            "heading": 4,
+            "text": "Next steps\u00a0"
+        },
+        {
+            "text": "Over the next few months, we will proactively seek feedback on the updated Algorithmic Transparency Standard and accompanying guidance that we are sharing on GitHub today. If you would like to contribute feedback on the Standard, you can email us at algorithmic.transparency@cdei.gov.uk or by posting your thoughts on GitHub.\u00a0"
+        },
+        {
+            "text": "As we move into this next phase, we expect to see more teams adopting the Standard independently within their own organisations. In this phase, we remain available to support teams completing algorithmic transparency reports and will continue to gather feedback. Please do feel free to get in touch with us at algorithmic.transparency@cdei.gov.uk and we will be happy to discuss this with you and answer any questions you have.\u00a0"
+        },
+        {
+            "text": "Beyond the Standard itself, we are starting to investigate options around how we support publication and access to completed transparency reports. Over the coming weeks, we will be carrying out a discovery phase to assess user needs and consider options for how to approach this."
+        },
+        {
+            "heading": 4,
+            "text": "Acknowledgements"
+        },
+        {
+            "text": "We would like to thank everyone who has offered their feedback on the Algorithmic Transparency Standard, including members of the public who responded to the open call for feedback, roundtable participants, and public officials who engaged in discussions with us.\u00a0"
+        },
+        {
+            "text": "In particular, we would like to thank the teams from across the public sector who participated in the pilot process and provided us with extensive feedback, including Bristol City Council, the Food Standards Agency, GDS Data Products team (formerly GOV.UK Data Labs), Hampshire and Thames Valley Police, The National Archives, the joint NHS Digital/Department of Health and Social Care team, Police Scotland Chief Data Office, the Technology Team at the Information Commissioner\u2019s Office, and West Midlands Police Data Analytics Lab."
+        },
+        {
+            "text": "Furthermore, CDEI Advisory Board member Marion Oswald and colleagues accompanied the pilots with police forces and ran an academic study which helped shape our thinking on this work. "
+        }
+    ]
+}

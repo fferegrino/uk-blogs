@@ -1,0 +1,72 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2022/10/10/modernising-cloud-services-in-dwp/",
+    "title": "Modernising cloud services in DWP\u00a0",
+    "authors": [
+        "Bryan Nelson - DevOps Engineering Lead, DWP Digital"
+    ],
+    "categories": [
+        "Architecture",
+        "Cloud",
+        "Cloud services",
+        "Hybrid Cloud",
+        "hybrid hosting"
+    ],
+    "pub_date": "2022-10-10T13:41:29+01:00",
+    "content": [
+        {
+            "text": "I'm Bryan Nelson. I work in DWP Digital in hybrid cloud services.\u00a0\u00a0"
+        },
+        {
+            "text": "Hybrid cloud is about using public cloud services while also having private cloud capability. Our teams provide reliable, secure, cost-effective services, enabling 24/7 delivery of high-performing, sustainable, accessible digital services for customers.\u00a0\u00a0"
+        },
+        {
+            "text": "So in DWP Digital, what's important is the way that we operate hybrid cloud services. When you have on-premise services and public cloud services, the way that you arrange, maintain and manage those services is different.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019re very much on that journey, but we still have bimodal operations. We\u2019re doing traditional IT management, and then we're doing cloud native type IT administration of our services. So we\u2019re working on how we can start introducing private cloud capability to align to a single operating model.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A shift in culture\u00a0"
+        },
+        {
+            "text": "My focus is on aligning the way that we work in the cloud with the way that we work on-premise. That\u2019s what hybrid cloud really means to us: a culture shift of moving people to that single operating model. We have a mixed landscape, and increasingly we have more cloud native services. But we still have a fairly strong legacy footprint that has to be respected with regard to how we maintain those services. \u00a0"
+        },
+        {
+            "text": "We have to continue investing in those services and in those people, but there is also a drive to move to a more modern way of doing things.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Migrating to cloud is complex\u00a0"
+        },
+        {
+            "text": "I often hear about companies who remove their existing supplier and plan to put everything into the cloud. But a lift and shift approach to cloud just doesn't work; for DWP at least.\u00a0"
+        },
+        {
+            "text": "If you are truly hybrid you have both a private and public cloud capability, and that portability between the two is relatively straightforward. But if you've got older systems, they're not going to be in that position. And that requires technology transformation around those services \u2013 in many cases, having to rebuild them; what we would call remediate for Public Cloud.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Taking on the challenge\u00a0"
+        },
+        {
+            "text": "Transforming applications to the cloud is a hugely complex challenge. Services are often unknown, having been hosted by another company or organisation for many years, so moving them into our ownership with a focus on building operational capability and understanding is essential in terms of being able to determine an appropriate future treatment. \u00a0"
+        },
+        {
+            "text": "The cloud has a massive impact on our ability to deliver key services for our customers both external and internal. The challenge for DWP Digital is to move away from traditional \u00a0on-premise operations to a hyper scale cloud / DevOps way of working. \u00a0"
+        },
+        {
+            "text": "Adopting a hybrid cloud approach here means we can create resilience in each of the clouds, and we have strategies in place to support this work and future-proof any further cloud migration.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Finding new ways of working together\u00a0"
+        },
+        {
+            "text": "When I think about what hybrid cloud strategy means, it\u2019s really about cultivating a cultural change in the ways we all work, aligning this with technology. Having a single way of working across each of the disciplines gives you agility to provide resilience for your service and therefore meet that very important customer need. Here at DWP Digital we are always conscious of this.\u00a0"
+        },
+        {
+            "text": "It comes down to people, processes and technology. To me, that\u2019s the golden triangle. You cannot lean on the technology element because you\u2019ll do that to the detriment of the people and the process. Making sure you are equally balancing all three allows for a more complete overview.\u00a0"
+        }
+    ]
+}
