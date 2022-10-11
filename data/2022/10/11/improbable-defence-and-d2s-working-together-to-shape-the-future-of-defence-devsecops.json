@@ -1,0 +1,67 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/10/11/improbable-defence-and-d2s-working-together-to-shape-the-future-of-defence-devsecops/",
+    "title": "Improbable Defence and D2S: Working together to shape the future of Defence DevSecOps",
+    "authors": [
+        "Hayley P",
+        "J. Kennedy"
+    ],
+    "categories": [
+        "Digital Foundry"
+    ],
+    "pub_date": "2022-10-11T15:23:15+01:00",
+    "content": [
+        {
+            "text": "We stand on the brink of a technological revolution that will drastically change the way we live, work and connect with each other."
+        },
+        {
+            "text": "As the Fourth Industrial Revolution accelerates, technological innovation is flourishing, driven by a fusion of disparate disciplines and high volumes of data. If data is the fuel of this revolution, software is the engine. And while innovation in military hardware continues at pace, it's software that's changing the character of conflict altogether. It's software that will deliver the decisive competitive edge and long-term strategic advantage. In light of this, our governments, security services and armed forces are striving to transform how they plan, train and operate. Why? Because unlike hardware it\u2019s rapidly and almost infinitely adaptable, able to keep pace with the changing threat and make innovation immediately available to the warfighter.\u00a0"
+        },
+        {
+            "text": "The Defence DevSecOps Service (D2S) typifies this transformation. Recently launched under the Defence Digital Foundry, D2S is a new service that will accelerate the development and deployment of software in Defence while retaining the appropriate levels of quality and security. It enables the creation of modern applications that are fast to build and iterate in a more collaborative way.\u00a0"
+        },
+        {
+            "text": "At a time when threats to Western peace, security and prosperity are more complex and fast-moving than ever, the D2S vision statement holds particular weight:\u00a0"
+        },
+        {
+            "text": "\u201cDefence can prevail in competition and conflict, enabled by software created for the needs of users and fine-tuned for the challenges of the moment.\u201d"
+        },
+        {
+            "text": "We\u2019re seeing these challenges play out every day and in hotspots all over the world. To meet them, we must preserve our technological edge if we\u2019re to stay ahead of our autocratic rivals who are looking to out-compete us on every front."
+        },
+        {
+            "heading": 2,
+            "text": "D2S: reimagining Defence"
+        },
+        {
+            "text": "D2S a modern cloud-native platform, based on IBM RedHat OpenShift, that provides industry best practice capabilities with the inclusion of a CI/CD pipeline to make the end-to-end software lifecycle easier and more accessible for Defence users."
+        },
+        {
+            "text": "Development lifecycle users and operational users will benefit from the ability to develop, deploy and operate software with consistent design, tools, technologies, and services across varying security classifications."
+        },
+        {
+            "text": "Through D2S, MOD is building a modern development environment modelled after industry-standard cloud technologies, but built around Defence security needs. This environment will aim to establish best practices, tooling and working examples of more modern and effective development practices to support faster, more agile and more collaborative delivery. While still in its early stages, D2S nonetheless stands as testament to MOD\u2019s determination to turn a technological edge into an enduring strategic advantage.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making the latest innovations useful and usable to MOD"
+        },
+        {
+            "text": "D2S is currently in private beta, with a number of MOD development teams already onboarded onto the service to help gather feedback and improve the offering to ensure it meets user needs before rolling out more widely across Defence.\u00a0"
+        },
+        {
+            "text": "In a collaboration that further strengthens ties between government and industry, Improbable Defence count themselves amongst one of the early users of D2S to exchange learnings and insight with MOD and its partners.\u00a0"
+        },
+        {
+            "text": "Extensive user research informed the development of the service and its capabilities, in line with agile delivery best practice."
+        },
+        {
+            "text": "Through the partnership, Improbable Defence has been able to deploy and demonstrate a complex synthetic environment application powered by Skyral, a Synthetic Environment (SE) development platform, running on D2S."
+        },
+        {
+            "text": "The potential this holds for larger platforms, applications and Commercial Off-The-Shelf (COTS) solutions is profound. It paves the way for each to be delivered on a centralised deployment platform at the scale and speed needed to securely get the latest technological innovations into the hands of those that need them most."
+        },
+        {
+            "text": "If you are interested in finding out more information about the service, register your interest or contact a member of the team, please email us at UKStratComDD-Foundry-DSO-Engage@mod.gov.uk."
+        }
+    ]
+}
