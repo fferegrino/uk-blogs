@@ -1,0 +1,83 @@
+{
+    "url": "https://dvladigital.blog.gov.uk/2022/10/12/how-dvlas-strategic-enquiries-platform-supports-cross-government-collaboration-through-data-sharing/",
+    "title": "How DVLA\u2019s strategic enquiries platform supports cross-government collaboration through data sharing",
+    "authors": [
+        "Dudley Ashford"
+    ],
+    "categories": [
+        "DVLA Digital Services"
+    ],
+    "pub_date": "2022-10-12T12:45:15+01:00",
+    "content": [
+        {
+            "text": "DVLA holds data on every driver in Great Britain and every vehicle in the United Kingdom. As a data driven organisation, we\u2019re committed to supporting cross-government collaboration by providing other government agencies and departments access to our data safely and securely."
+        },
+        {
+            "text": "As part of our Evolve transformation programme, our strategic enquiries team have built suites of new enquiry services using new technology platforms. This has enabled us to decommission our legacy technology and easily share our data with those who need it, such as the Home Office, His Majesty\u2019s Courts and Tribunals Service (HMCTS), and the Driver and Vehicle Standards Agency (DVSA)."
+        },
+        {
+            "text": "Sharing data can help improve services, bringing benefits to the public and wider government. Our new enquiry services have been used more than 30 million times, saving money for the police and public as well as improving road safety and reducing fraudulent driving tests."
+        },
+        {
+            "text": "So, let\u2019s take a look at the services we\u2019ve been working on\u2026"
+        },
+        {
+            "heading": 2,
+            "text": "Working with the Home Office\u00a0"
+        },
+        {
+            "text": "In collaboration with the Home Office, we\u2019ve started rolling out our \u2018Photo at the Roadside\u2019 service to the majority of police forces in the country. The service, which was piloted in 2019, allows police officers to access the photograph held on DVLA\u2019s driver database through their police issued mobile devices, enabling them to confirm the correct identity of a driver almost instantly."
+        },
+        {
+            "text": "There have been over one million transactions and more than 200,000 policing hours saved already. The service is now being used by 35 out of 45 police forces across the UK and has, I\u2019m pleased to say, received a \u2018Highly Commended\u2019 award at this year\u2019s Digital Technology Leaders Awards."
+        },
+        {
+            "text": "We\u2019ve also been supporting the Home Office with their new Law Enforcement Data Service (LEDS) to provide the police with accurate and timely data. The service will replace the existing critical national infrastructure system, the Police National Computer, which was first launched in 1974 and is now reaching end of life."
+        },
+        {
+            "text": "LEDS will meet the needs of modern policing by providing the police access to driver and vehicle data in real-time, allowing them to confirm details such as a driver\u2019s identification. Our driver data is currently live, and we\u2019ve just started work on providing vehicle data through private beta testing. We\u2019ve had great feedback from the police about the service, which is in pilot with Cheshire and North Yorkshire forces, and this will ultimately save the police time and money."
+        },
+        {
+            "heading": 2,
+            "text": "Providing HMCTS access to driver data"
+        },
+        {
+            "text": "Following on from our work to digitise paper-based prosecutions, we again teamed up with HMCTS to help progress their single justice transformation programme."
+        },
+        {
+            "text": "We delivered significant technical changes for HMCTS, allowing the courts to easily access our data instantly, such as details on a driver\u2019s endorsements or disqualifications. This was made possible by building new datasets and a suite of Application Programming Interfaces (APIs), replacing the older Driver Validation Service."
+        },
+        {
+            "text": "A main benefit of the new service is that courts can take our data into account during a court hearing by allowing Justice Clerks to check driving records in real-time. Recent figures show that more than 49,000 enquiries have been made to date, enabling courts to make accurate and informed decisions when issuing driving sanctions."
+        },
+        {
+            "heading": 2,
+            "text": "Supporting DVSA with theory tests and enforcement"
+        },
+        {
+            "text": "This leads us on to our DVSA services. In July 2021, we released a series of APIs to support their theory test booking service, helping DVSA ensure candidates have the correct and valid entitlement to take the relevant theory test. This confirms that the person attending the test is qualified to do so. The service has already handled more than 17 million enquiries."
+        },
+        {
+            "text": "Our second service, which has recently gone live, supports DVSA\u2019s enforcement activities by allowing roadside examiners to instantly access our driver data, reducing the time required to carry out driving licence checks. The data can now be automatically transferred onto DVSA\u2019s system, ensuring it is accurately recorded. Additionally, the service allows driving examiners to check the driving licence entitlements of candidates attending driving tests, helping to reduce test impersonations and driving test fraud."
+        },
+        {
+            "text": "These are great examples of cross-government working to support road safety and how we\u2019re using our new strategic technology platforms to quickly build new enquiry services."
+        },
+        {
+            "heading": 2,
+            "text": "Looking forward"
+        },
+        {
+            "text": "It\u2019s a really exciting time for our strategic enquiries team as our platform continues to grow. We\u2019re currently working closely with Keeper at Date of Event (KADOE) customers to discuss the replacement of the existing service. The new service will allow approved customers to request and receive registered keeper information for agreed permitted purposes through new technologies on our strategic enquiries platform."
+        },
+        {
+            "text": "We\u2019re also working with the Department for Work and Pensions, His Majesty\u2019s Revenue and Customs, and His Majesty\u2019s Passport Office to see how our platform can meet their needs in the coming years."
+        },
+        {
+            "text": "Many organisations rely on DVLA data, so it\u2019s right that we support the government\u2019s digital and data strategy by making it easier to lawfully share this data safely and securely. It\u2019s also important that we continue to ensure our services are based on newer, modern platforms that work better for our stakeholders and customers."
+        },
+        {
+            "text": "Keep an eye out on our blogs and social media for all the latest updates on our digital and customer transformation programme, Evolve."
+        }
+    ]
+}
