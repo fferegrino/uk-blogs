@@ -1,0 +1,79 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/10/17/the-single-data-environment-joined-up-digital-analytics/",
+    "title": "The Single Data Environment: joined-up digital analytics",
+    "authors": [
+        "Daisy Wain - Lead Performance Analyst for GOV.UK, Government Digital Service",
+        "Tina Mermiri - Head of Data Services, Government Digital Service"
+    ],
+    "categories": [
+        "Data",
+        "User research",
+        "Ways of working"
+    ],
+    "pub_date": "2022-10-17T10:36:43+01:00",
+    "content": [
+        {
+            "text": "The Government Digital Service (GDS) exists to help government make great public services for everyone. In addition to developing, maintaining and optimising our own flagship products, like GOV.UK, we work closely with other government departments (OGD) to support their service offerings, ensuring they are user-centric and fit-for-purpose."
+        },
+        {
+            "text": "Central to this mission is data-driven and evidence-based decision making, which in itself needs strong data foundations and high quality data sources and insights which we can share with confidence."
+        },
+        {
+            "text": "With that in mind, we are working on an ambitious project to join up and share digital analytics tracking across departments, to enable a single user view across services, departments, and platforms, and by extension help departments understand pain points and optimise user journeys."
+        },
+        {
+            "text": "Let\u2019s take a step back to look at the problem space from the beginning."
+        },
+        {
+            "heading": 2,
+            "text": "The problem space"
+        },
+        {
+            "text": "GDS currently has access to Google Analytics data for users who have opted into analytics tracking on GDS-managed domains, such as gov.uk and design-system.service.gov.uk. Once a user clicks on a link to a service on service.gov.uk or elsewhere, GDS loses sight of the journey, since service domains are managed wholly by the government departments that own them."
+        },
+        {
+            "text": "To give a sense of scale, in August 2022, users clicked on links to around 250,000 external domains/pages from GOV.UK, most of which are other government service domains with their own analytics tracking. The same is also true for other government departments - they can see their own analytics data, but not how these journeys connect to others, including GOV.UK."
+        },
+        {
+            "text": "Without visibility of the journey end-to-end, we are limited in:"
+        },
+        {
+            "text": "For example, we know that last year GOV.UK had more than 800,000 searches for Universal Credit and close to 100 million sessions that accessed the page \u201cSign in to Universal Credit\u201d.\u00a0 Unfortunately we have no visibility of what proportion completed the end-to-end Universal Credit journey successfully, at which point they may have dropped off, or how users of Universal Credit might interact with other information or services on GOV.UK."
+        },
+        {
+            "text": "Joining up the government\u2019s digital analytics estate would not only have a direct impact on optimising our users\u2019 experience of government and their ability to successfully complete tasks, but also provide government benefits through reducing failure demand and lowering average costs of administering services, whilst also supporting GDS\u2019 and the Central Digital and Data Office\u2019s (CDDO) broader strategies."
+        },
+        {
+            "heading": 2,
+            "text": "The background"
+        },
+        {
+            "text": "But this isn't a new idea. There was an earlier attempt to track user journeys across government domains through the Cross-Domain Data (CDD) project. This required government departments to add in code snippets that would allow for journeys to be linked across the domains through page views."
+        },
+        {
+            "text": "A lot was learnt through this early iteration, and these learnings have been pivotal for what\u2019s next. This included streamlining the data-sharing process, greater clarity in who could access the data through data-sharing agreements, and a scalable technical approach."
+        },
+        {
+            "heading": 2,
+            "text": "The Single Data Environment"
+        },
+        {
+            "text": "This next iteration is based on creating a Single Data Environment (SDE), where there is a single analytics consent model used across all government domains, which allows consent status to remain valid across pages and domains. This in itself, will make the user experience significantly smoother, as we already know from user research that having to consent multiple times, through what users believe or expect to be a single website, is frustrating."
+        },
+        {
+            "text": "Furthermore, this will be coupled with a single Google Analytics (GA) property to allow all web analytics data to flow into the same property, and eventually, with a consistent tracking schema through the forthcoming migration to GA4. Unlike the CDD project, the Single Data Environment will allow both the GDS and departments to view this data, enabling the review of the wider end-to-end whole user journey through anonymised data aggregates, as well as in-depth performance reviews of departmental services and GOV.UK journeys."
+        },
+        {
+            "text": "Our intention is to keep the overheads on departments for this new approach as low as possible, which will consist of: (1) adding a javascript code snippet into their frontend, (2) implementing an analytics consent component, and (3) signing up to a revised and consistent data sharing agreement; all of which will be provided by GDS."
+        },
+        {
+            "text": "It has been important for us to maximise the learnings from CDD, to ensure the success of this major data project. So far, we have:"
+        },
+        {
+            "text": "We\u2019re keen to release early value and streamline our onboarding process with our current version of GA Universal Analytics, but also want to avoid onboarding too many services that we will then have to migrate again in the new version."
+        },
+        {
+            "text": "The intention is to begin our wide-scale roll-out from January 2023, which will coincide with the launch of our GA4 tracking schema and Data Protection Impact Assessment (DPIA). We also want to integrate Single Data Environment tracking within the Design System, so new services include this out of the box, and the onboarding list does not keep growing indefinitely."
+        }
+    ]
+}
