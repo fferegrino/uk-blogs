@@ -1,0 +1,79 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/10/18/defence-digital-blog-taking-podularity-underwater/",
+    "title": "Defence Digital Blog: Taking podularity underwater",
+    "authors": [
+        "Cdr R. Dixon"
+    ],
+    "categories": [
+        "Application Service and Development & Operations Team",
+        "Navy Digital"
+    ],
+    "pub_date": "2022-10-18T09:48:43+01:00",
+    "content": [
+        {
+            "text": "FASTER aims to build on the innovative spirit that traditionally characterises UK military operations, which is needed more than ever today to counter new forms of competitive threat. FASTER not only showcases an advanced Platform-as-a-Service concept that enables the loose coupling of small software components (microservices), but also pioneers an equally modern approach to contracting by developing a supplier community that is collaborative, diverse, inclusive, and enabling of all Defence Lines of Development."
+        },
+        {
+            "text": "As the Innovation Hub lead for the Submarine Delivery Agency, I am also the Product Owner for FASTER, and in this follow-up article I\u2019ll go into more detail about what the FASTER supplier community does."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Taking NavyPODS underwater"
+        },
+        {
+            "text": "The Royal Navy\u00a0used the DSEI 2021 conference to showcase\u00a0deployable and interchangeable mission modules that can rapidly field specific capabilities across a range of ship platforms. The NavyPODS (Navy Persistent Operational Deployment System) concept is being taken forward by the service\u2019s Office of the Chief Technology Officer (OCTO). It consists\u00a0of\u00a0), and is explained as consisting of \u201cinterchangeable modules that can be fitted to the surface fleet. Similar in design to a shipping container, the PODS create the idea of a \u2018plug and play\u2019 warship. This is delivered, delivered using innovative technology such as heavy-lift drones or autonomous boats. As a result, ships can receive the equipment they need to be re-tasked quicker without going into a port to collect it.\u201d"
+        },
+        {
+            "text": "NavyPODS will house assets such as autonomous boats for surveillance and reconnaissance, quadcopter drones to deliver supplies, and stores for humanitarian aid or disaster relief. They will also be used as medical rooms and command centres. For large platforms such as warships, NavyPODS provide adaptability and versatility. However, a shipping container won\u2019t fit down the hatch of a submarine. So, how can the benefits of NavyPODS be delivered to submarine platforms and other military platforms that cannot easily adapt to this surface fleet model?"
+        },
+        {
+            "text": "The FASTER supplier community will form a consortium to deliver\u00a0podular capabilities. A podular capability is a set of components (across all Defence Lines of Development, not just information technology) that provide a means of sensing, deciding, or affecting. To conduct successful operations, submarines must be able to Float, Move, and Fight at the most basic level. FASTER will deliver future submarine warfighting capability via an evolving set of new functions built into a more flexible, adaptable Combat System. Operators will gain the ability to assemble and update the capabilities they need, supported in their choices by advanced algorithms, models, and data \u2013 potentially including artificial intelligence agents to support operator and command team decision making."
+        },
+        {
+            "text": "The submarine operator of the future will assess the current situation and environment then configure the podular capabilities that will enable them to deal with it effectively guided and constrained by system controls. This will ensure that their overall choice includes sufficient capabilities to Float, Move, and Fight."
+        },
+        {
+            "text": "This is a new vision for podularity that builds on NavyPODS to reach more platforms and more operational scenarios. FASTER can be viewed as a mechanism for defining podular capabilities and managing their Technology Readiness Level."
+        },
+        {
+            "heading": 2,
+            "text": "Bridging the \u201cvalley of death\u201d"
+        },
+        {
+            "text": "The DNO created the FASTER programme to help the Submarine Combat System enterprise. Both inside and outside of MOD, work together to bridge the \u201cvalley of death\u201d between science and technology and operational capability. In the past, it has taken far too long for new ideas emerging from the laboratory to reach front-line operations. FASTER is giving back to MOD the freedom of action needed over Combat System architecture, the underlying technology stack, and the supplier relationships required to deliver it all."
+        },
+        {
+            "text": "The above operating model shows that each aspect of the programme design is an Agile cycle. The outputs of these interlinked cycles are podular capabilities, and each turn of the cycles increases their TRLs. In particular, the technology components within podular capabilities come not just with code that performs functions, but with code that verifies the non-functional behaviour of these functions safety, performance, and security. The approach separates out these aspects of system integrity and insists that components first define how they comply with each aspect and then prove it."
+        },
+        {
+            "text": "As the components within a capability get better at doing this, the maturity (TRL) of the new capability increases. Eventually, the podular capability is ready to pass through an expedited assurance and accreditation process. The compliance mechanisms built into each component reduce time, effort, and cost. This ensures that technology developed via FASTER has a streamlined route into operational deployment via an aspect of the programme termed MASTER (Modular Architecture for Submarine Technology Enactment Route). This approach is significantly different to current assurance and accreditation processes, which are applied at platform level. FASTER will work with approval and assurance authorities to adapt existing ways of working to achieve outcomes that are not only robust but also streamlined."
+        },
+        {
+            "heading": 2,
+            "text": "More information about FASTER"
+        },
+        {
+            "text": "FASTER Community and Collaboration Charter"
+        },
+        {
+            "heading": 2,
+            "text": "A FASTER way forward for Defence innovation"
+        },
+        {
+            "text": "In his\u00a0March 2022 Defence Digital Blog March 2022 Defence Digital Blog, Director of Submarine Capability in the Defence Nuclear Organisation (DNO), describes how the Future Architecture Submarine Technology Enabling RIOT (Rapid insertion of Technology) programme is demonstrating a different way forward for Defence innovation.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Engage with FASTER"
+        },
+        {
+            "text": "FASTER will start a series of engagement events in 2022. Technology innovators from MOD, academia, and industry are encouraged to join our mailing list and stay informed of opportunities to engage with the FASTER programme. To do so, please email the FASTER team at\u00a0navydigital-faster@mod.gov.uk."
+        }
+    ]
+}

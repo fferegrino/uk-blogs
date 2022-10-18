@@ -1,0 +1,79 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2022/08/26/defra-data-heroes-meet-the-geospatial-service-management-team/",
+    "title": "Defra Data Heroes: meet the Geospatial Service Management Team",
+    "authors": [
+        "Matthew McArthur"
+    ],
+    "categories": [
+        "Defra digital"
+    ],
+    "pub_date": "2022-08-26T08:00:08+01:00",
+    "content": [
+        {
+            "text": "In the latest from our Defra Data Heroes series, Matthew McArthur tells us about the value and importance of one of his team's key platforms - the Earth Observation Data Service."
+        },
+        {
+            "text": "Earth Observation (EO) is the gathering of information about the planet\u2019s physical, chemical, and biological systems via remote sensing techniques, such as satellites, or those in situ, for example marine buoys. Defra is the lead UK government department for EO activities and policy, at the international level."
+        },
+        {
+            "text": "EO can provide crucial input for the evidence base required to support Defra\u2019s priorities. Such environmental information can also provide evidence for policy making and implementation and enable monitoring and reporting of policy outcomes."
+        },
+        {
+            "heading": 2,
+            "text": "What we do: managing the Earth Observation Data Service"
+        },
+        {
+            "text": "We are responsible for managing the Earth Observation Data Service (EODS), a service which enables staff across Defra to search, view, access, and share \u2018analysis ready\u2019 Sentinel 1 & 2 satellite imagery, and to add satellite data to their analysis or applications using web services and Application Programming Interfaces (APIs). Users can also download individual scenes or stitch together multiple scenes, whichever fits their use case best. EODS allows new approaches to monitoring that would have been prohibitively expensive to tackle in the past."
+        },
+        {
+            "text": "Our team of four, based in Leeds, Lincoln, and Worcester, facilitates the delivery of this \u2018analysis ready\u2019 data. We do this by liaising with our supplier, CGI, to manage the support of an EODS portal, and by implementing continuous improvement through user feedback. The data is supplied through a Data Information Access Service (DIAS)."
+        },
+        {
+            "text": "EODS is available to users across the Defra group. The Sentinel data, which includes an 18-month archive, and which is published as open data via the\u00a0CEDA archive\u00a0for anyone to reuse, is generally available within 24 hours of it being captured. Older data can be found in the CEDA archive."
+        },
+        {
+            "text": "The work we do is important to the support of projects utilising geospatial analysis, such as change detection (deforestation and habitat destruction), tracking flood recovery and crop mapping. As Defra develops its digital tooling, EODS aims to feed into virtual platforms, and promote the uptake of our Open Geospatial Consortium (OGC) links, an international standard which EODS adheres to for individuals to stream data into web map services / products outside of Defra's control, and APIs to enable more flexible analysis of EO data across Defra\u2019s many organisations."
+        },
+        {
+            "heading": 2,
+            "text": "Why earth observation data is so important to what we do and how it is used"
+        },
+        {
+            "text": "Data is our whole remit. The wider Data and Information Access team, which we are part of, acquire, catalogue and supply datasets to as many of our users as possible. Our hope is that by us supplying imagery that has already had atmospheric corrections applied, for example the removal of clouds, we improve the efficiency of projects that utilise this data."
+        },
+        {
+            "text": "EO data can be used in a variety of scenarios. Sentinel 1 is typically used in monitoring agriculture, forestry, subsidence, and in response to or the measuring of natural disasters such as flooding or landslides. Sentinel 2 can be used to determine the health of vegetation, crop mapping and observation of coastal areas. Sentinel 2 data can also be stitched on the portal or via APIs for visualisation purposes."
+        },
+        {
+            "text": "The data that is procured, processed, and stored on EODS helps with Defra\u2019s commitment towards making our data open and accessible. Data that exceeds our 18-month rolling window for our catalogue is backed up to an open archive for future investigations."
+        },
+        {
+            "text": "By making this imagery available, we help inform policy and enable Defra to better detect and respond to environmental challenges, such as protecting vulnerable land from exploitation and monitoring water levels and quality."
+        },
+        {
+            "text": "Through the provision of analysis ready data, we contribute towards data standards, as well as improving the efficiency of analysis. Removing laborious corrective activity to allow users to pick up data instantly is a goal we strive for. We also want to improve the accessibility of EO data across Defra, consolidating sources and helping move towards one version of the truth."
+        },
+        {
+            "text": "We also take usage statistics from the site to determine how the service is utilised, what is our most popular imagery, regions of interest, favourite features of the site and how to better serve our customers"
+        },
+        {
+            "text": "The current trend analysis indicates the service is most popular for downloading datasets to personal devices. We hope to encourage further use of our example API scripts as well as streaming data by collaborating with other projects such as Defra\u2019s Central Data Analytics Platform."
+        },
+        {
+            "heading": 2,
+            "text": "Recognising the power of data, making a difference for Defra"
+        },
+        {
+            "text": "As a team we\u2019re focused on delivering cost effective services that provide data to users across the Defra network. We aim to ensure that future services meet the ever-changing requirements of the digital landscape, and our services are managed in a way that reduces incidents, increases access, and encourages collaboration."
+        },
+        {
+            "text": "Our message on the power of data would be to reflect on how data is kept and delivered. Data is most powerful when we\u2019re able to get closer to \u201cone version of the truth\u201d. Defra is a large organisation, with many teams striving to deliver key information about our natural world. This sometimes leads to overlapping priorities, and in some instances, duplication of effort."
+        },
+        {
+            "text": "Keeping informed on what data is available, and where to access it, can be vital to joined up working across the organisation. As the landscape of Defra\u2019s digital capabilities transforms, we plan to engage even more with users to determine their priorities and consolidate our delivery methods, including a measured approach to the application of GIS software licences."
+        },
+        {
+            "text": "Where there are gaps in our provision, we encourage our users to engage with us so that we can explore how to close them."
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2022/10/18/handling-large-datasets/",
+    "title": "Handling large datasets",
+    "authors": [
+        "William Stobbs - Junior Trainee Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Data science"
+    ],
+    "pub_date": "2022-10-18T17:56:04+01:00",
+    "content": [
+        {
+            "text": "At the Government Actuary\u2019s Department (GAD) we deal with a huge volume of data every day. As part of the quadrennial valuations of public service pension schemes we receive data relating to over 13 million members across 20 different schemes."
+        },
+        {
+            "text": "The data GAD receives comes from a number of administrators and arrives in a variety of formats and structures. We receive both flow data, containing information about the movements of members since the last valuation, and stock data, a snapshot of the scheme membership at the current valuation date."
+        },
+        {
+            "heading": 2,
+            "text": "My first experience"
+        },
+        {
+            "text": "At university I had some exposure to large datasets however nothing like what I have seen over the last year at GAD. Working in the analytical solutions team at GAD we deal with large volumes of data daily."
+        },
+        {
+            "text": "The first exposure I had to the vast datasets GAD uses was the 2020 valuation datasets for the Local Government Pension Scheme. This is one of the largest schemes GAD deals with, with data relating to over 6 million members split across England & Wales, Scotland and Northern Ireland."
+        },
+        {
+            "text": "Working with such large quantities of data has been a real learning experience, one that I have found incredibly interesting and rewarding. Since this initial experience I have seen countless large data sets and have gained a genuine appreciation for the value of data, careful data manipulation and interpretation."
+        },
+        {
+            "heading": 2,
+            "text": "What do we do with the data?"
+        },
+        {
+            "text": "The datasets GAD handles contain a large amount of personal information. Before any analysis is started, pseudonymisation and redaction, as well as strict access protocols ensure that the data handling processing complies with GDPR."
+        },
+        {
+            "text": "Initially, explanatory data analysis, largely done on the R programming tool due to its capacity to deal with large datasets and produce quality visual summaries, is conducted."
+        },
+        {
+            "text": "This analysis aims to identify any issues with the data early. For example, a graph showing the number of active members by age with a gap at age 40 clearly indicates a missing data problem that we can then rectify with the data provider."
+        },
+        {
+            "text": "One benefit of the pensions data we use is that we are able to track members\u2019 journey through employment and into retirement. Hence, between valuation snapshots we can analyse changes down to a member-by-member level if we wish. I have found this analysis particularly powerful at identifying data issues."
+        },
+        {
+            "text": "Once we\u2019re reasonably content with the data we have received, the processing stage of our work is where we start manipulating the datasets, shaping them carefully into the output we require. We use a range of statistical programming languages pensions software at this stage."
+        },
+        {
+            "text": "This process involves further interrogation of the data and a thorough set of checks to identify where specific information is missing, believed to be inaccurate or unreliable. We then apply a series of adjustments and an uprating process to the data to best rectify the issues identified."
+        },
+        {
+            "text": "While making these adjustments we are cautious about the uncertainty in any estimates made and their potential financial impact, ensuring these are then clearly communicated to the client."
+        },
+        {
+            "text": "Once we've completed all the data adjustments, we use specialist pension software to value the pension scheme and output a liability (the sum of obligations the scheme has to members). As an added layer of verification, we conduct a reconciliation of liabilities with previous results and expectations."
+        },
+        {
+            "text": "Due to the huge volume of public sector pension scheme data GAD has access to we are able to look at trends over time. We make comparisons between schemes which, when combined with actuarial judgement and scheme knowledge, enables us to further check the quality of the data."
+        },
+        {
+            "text": "A number of independent checks are also completed throughout the processing. These are crucial to verify the reasonableness of the data and add credibility to our work."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges of handling large datasets"
+        },
+        {
+            "text": "I have found there are several challenges when handling large datasets at GAD.\u00a0The interconnection between different variables adds significant complexity to our work."
+        },
+        {
+            "text": "Variables such as salary and pension are clearly related and hence when considering any deficiencies in the quality of some variables the impact on others must be considered as well."
+        },
+        {
+            "text": "Another challenge relates to the differences in data formats between the administrators that supply GAD with data. This makes every data project we work on unique. Due to the size of the datasets, there are so many variables that we have to verify and analyse before they can be used which can take considerable time."
+        },
+        {
+            "text": "Datasets are not only physically large with hundreds of columns but also incredibly complex with zero and missing values sporadically distributed as well as many specific issues. There is a careful balance between making best estimates for blank or missing data against the added uncertainty of doing so."
+        },
+        {
+            "text": "At GAD, the uncertainty in data is something we analyse and report on to our clients. This communication is important as any uncertainty at the data stage can lead to material differences in later work and signifies where future data quality improvements can be made."
+        },
+        {
+            "text": "Furthermore, in the data we receive there are fields of a range of importance \u2013 some are critical, without which we cannot value a member (not at all accurately anyway!) while there are others where a missing entry can be substituted by a reasonable estimation based on other data that is available."
+        },
+        {
+            "text": "This can add significant complexity to the work, especially when striving for consistency across the various schemes GAD works on."
+        },
+        {
+            "text": "There will always be challenges with data processing and analysis. However, working in a large, diverse team of analysts, trainee actuaries, qualified actuaries and pensions professionals at GAD means that we are able to overcome the challenges and produce high quality analysis."
+        },
+        {
+            "text": "The data work is complex and takes significant time however the variety of backgrounds, skills and interests within the team is a significant advantage."
+        },
+        {
+            "heading": 2,
+            "text": "Opportunities from large datasets"
+        },
+        {
+            "text": "There are a number of advantages of large datasets. Firstly, as discussed above, at GAD we are able to compare data sets:"
+        },
+        {
+            "text": "These comparisons are hugely beneficial and can be used as a powerful check of data quality and reasonableness. They also allow for robust analysis and generally help minimise the uncertainty we face in our work."
+        },
+        {
+            "text": "The combination of stock and flow data also enables us to generate insights into a range of other issues relevant to the valuation work we do. For example, we are able to look closely at mortality rates and patterns. This analysis is then used when setting assumptions in the valuation."
+        },
+        {
+            "text": "Furthermore, although the data we receive has the ultimate purpose of being used to perform a pension scheme valuation, they also contain valuable information that can be used for other analysis. Sub-projects and deep dives are able to delve into the data to analyse specific aspects or member patterns."
+        },
+        {
+            "text": "For example, using valuation data we have also been able to offer alternative perspectives on workforce characteristics of UK teachers and investigate retention rates of police officers by geographical location. Investigations such as these can be used by government to influence policy decisions."
+        },
+        {
+            "heading": 2,
+            "text": "Future outlook"
+        },
+        {
+            "text": "At GAD, handling large datasets will always be a part of our role. As in many sectors we can see the volume of data increasing as some administrators move to supplying annual datasets for analysis."
+        },
+        {
+            "text": "This creates increased need for efficiency in the data work we do which is something we are actively pursuing. However, alongside this I believe our commitment to the details in the data will also be a key objective, with GADs reputation for quality analysis being needed now more than ever."
+        },
+        {
+            "heading": 2,
+            "text": "In summary"
+        },
+        {
+            "text": "Overall, the handling of large datasets involves a sizeable, multi-disciplinary team at GAD working in numerous programming languages that suit the various stages of the data journey."
+        },
+        {
+            "text": "Throughout this journey, the data is handled with extreme care and considered thought. I have loved being involved in the data work for a number of public sector pension schemes since I joined GAD. I look forward to working on more large datasets in the future, each having specific idiosyncrasies that need unpacking with careful consideration of the scheme regulations."
+        }
+    ]
+}
