@@ -1,0 +1,94 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2022/10/25/how-our-new-data-strategy-will-support-the-uk-economy/",
+    "title": "How our new data strategy will support the UK economy",
+    "authors": [
+        "Andrew Trigg, Chief Geospatial & Data Officer, HM Land Registry"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2022-10-25T10:00:28+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "How our property data supports the UK economy"
+        },
+        {
+            "text": "Our data is a national asset and a crucial part of achieving our vision to enable a world-leading property market. By making our data easy to find, access, use and combine with other data, it will provide maximum value for the UK. We\u2019ll do this through greater use of application programming interfaces, Unique Property Reference Numbers and machine readability."
+        },
+        {
+            "heading": 2,
+            "text": "Our new data strategy priorities"
+        },
+        {
+            "text": "Our new strategy builds upon the strong foundations established under our previous one. \u00a0However, rather than continuing to focus on the sharing of additional datasets from the register, we will focus on increasing the usefulness of the data that we already make available."
+        },
+        {
+            "text": "Over the next 3 years, we want to expand the opportunities for using our data in new ways. Alongside this, we aim to increase the quality of our data so it\u2019s more valuable to a larger number of users. We hold a critical national asset and are responsible for allowing the nation to access and use it as effectively as possible."
+        },
+        {
+            "text": "To increase the wider value of our data, we will focus on making it FAIR (findable, accessible, interoperable and reusable). This aligns with the FAIR principles introduced by the Geospatial Commission to make better location data available to more people."
+        },
+        {
+            "heading": 2,
+            "text": "What does FAIR mean? "
+        },
+        {
+            "text": "Findable: The first step in using any data, is to find it. Data should be easy to find for both people and computers."
+        },
+        {
+            "text": "Accessible: Data must be accessible in order to be useful. This means that terms for using the data should be clear and simple with minimal registration and authentication requirements."
+        },
+        {
+            "text": "Interoperable: Making datasets easier to link with each other is critical to ensuring their wider impact and value."
+        },
+        {
+            "text": "Reusable: Data should be more usable across a wider range of purposes so its value can be unlocked."
+        },
+        {
+            "heading": 2,
+            "text": "Responding to customer needs"
+        },
+        {
+            "text": "We carried out extensive research in 2021 with our data customers, including central Government departments, data companies, property consultants and utility companies."
+        },
+        {
+            "text": "We asked what improvements they would like to see and what enhancements would generate more activity within their business. This is what they told us:"
+        },
+        {
+            "text": "Accessibility:\u00a0The top priority our data customers identified was being able to access the right amount of data when needed and as close to real time as possible. Application programming interfaces (APIs) obviously come into play here, so we are currently refining a strategy for this and designing the necessary infrastructure to make it happen."
+        },
+        {
+            "text": "Interoperability: The second priority for customers is additional attributes within the datasets to make them more \u2018linkable\u2019 to other information. Combining HM Land Registry data with other land information results in powerful data which is vital to a sustainable economy."
+        },
+        {
+            "text": "The addition of Unique Property Reference Numbers (UPRNs) was considered as a high value addition and a way to link a wide range of datasets together to provide insights that wouldn\u2019t otherwise be possible. A couple of our datasets, such as the National Polygon Service and the Registered Lease Dataset, already include UPRNs, but our aim is to add them more widely to other datasets, despite the challenge that UPRNs do not correlate easily with our property titles!"
+        },
+        {
+            "text": "Findability: Another requirement that customers identified was metadata (information about the data) improvements. Metadata and data should be easy to find for both humans and computers, so our third priority will be on making our data and metadata more machine readable."
+        },
+        {
+            "text": "We will continue to engage with our customers to establish the best ways to make our data FAIR."
+        },
+        {
+            "heading": 2,
+            "text": "Future data uses"
+        },
+        {
+            "text": "We will continue to sponsor the Geovation Accelerator Programme alongside Ordnance Survey, supporting start-up businesses who want to use our data to create new products and services."
+        },
+        {
+            "text": "So far 137 start-ups have been supported by Geovation with more than 1,500 jobs created. For example, SearchLand combines HM Land Registry data with information from other providers such as the National Grid, Companies House and the Environment Agency to save their clients hundreds of hours per month searching multiple sources. This is particularly useful for property professionals wanting to identify off-market sites that can be developed for new homes or wanting to investigate the development opportunities of existing buildings."
+        },
+        {
+            "heading": 2,
+            "text": "Collaborating to build a world-leading data economy"
+        },
+        {
+            "text": "We are part of a much wider data landscape. Our data is a national asset and, combined with other datasets, it has the potential to generate insights that can help government and others to tackle complex social, environmental and economic challenges."
+        },
+        {
+            "text": "We are working closely with the Geospatial Commission and others to achieve the government\u2019s ambition to build a world-leading data economy across all sectors. Our data strategy aligns with the government\u2019s intention to unlock the value of the data that it holds, making it open, transparent and easy to use. \u00a0We will continue to collaborate with others to ensure that the data we hold can be used to add value to society and support a data-driven economy."
+        }
+    ]
+}
