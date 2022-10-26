@@ -1,0 +1,99 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2022/10/26/local-land-charges-delivering-the-geospatial-way/",
+    "title": "Local Land Charges \u2013 delivering the geospatial way",
+    "authors": [
+        "Mark Kelso, Local Land Charges Programme Director, HM Land Registry"
+    ],
+    "categories": [
+        "Data",
+        "Technology"
+    ],
+    "pub_date": "2022-10-26T09:30:27+01:00",
+    "content": [
+        {
+            "text": "The Local Land Charges Programme is unlocking the power of location data. Transforming 25 million items of public sector held data on land use restrictions into a machine-readable, standardised and easily accessible format will deliver huge benefits, particularly for digital planning and innovation in the UK property sector.\u00a0"
+        },
+        {
+            "text": "Mark Kelso, Local Land Charges Programme Director from HM Land Registry, tells us more about progress of the programme to date, and what others can learn from their approach."
+        },
+        {
+            "text": "Delivering large-scale projects on time and within budget is challenging, but when success requires working across multiple organisations it\u2019s even more complex. This is the backdrop to the local land charges (LLC) digital transformation, involving more than 300 local authorities in England and Wales.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Benefits of a digital LLC"
+        },
+        {
+            "text": "A LLC search is normally required during the property-buying process. Most charges are restrictions or prohibitions on the use of the property, such as planning permissions, listed building status or tree preservation orders.\u00a0"
+        },
+        {
+            "text": "Standardising LLC records which are currently held on paper, microfiche, electronically, digitally or in the minds of LLC Officers is a monumental task, but that\u2019s the challenge we accepted. As a result of the LLC Register anyone requiring a LLC search from a migrated local authority can now get it instantly online. By quickening and simplifying this element of the conveyancing process, buying decisions can be made earlier, reducing the risk of property transactions falling through, due to late revelations. These failed transactions cost buyers time and up to \u00a32,700 per incident."
+        },
+        {
+            "text": "By 2025, the LLC programme aims to transfer all LLC data to HM Land Registry\u2019s national register. Through our official search service, everyone in England and Wales will have access to high-quality, guaranteed information for \u00a315. Alternatively, they can opt for a free-of-charge personal search, or use a personal search company.\u00a0"
+        },
+        {
+            "text": "Clare Flanagan, Principal Solicitor at Bromsgrove and Redditch County Council said:"
+        },
+        {
+            "text": "\u201cSince we joined the national register in October 2021, we have had very few customer queries and those we have received have been straightforward and easy to resolve. The new service has freed up a large amount of resource and time, allowing us to focus on other areas of work\u201d.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Innovative bespoke tools"
+        },
+        {
+            "text": "During the early days of the programme, we travelled to council sites to manually create the spatial extents (area of land/property affected by the LLC). This could take 3-10 minutes per charge, subject to complexity, and incurred time and travel costs. With an average of 50,000 charges per local authority, this was not sustainable."
+        },
+        {
+            "text": "To transform records often presented in paper, microfiche, or electronic formats we have developed two purpose-built tools. Our innovative Data Analysis Dashboard (DAD) tool analyses and audits the data. By highlighting where fixes are required, we can address high levels of data duplication and errors. This is critical to maintain the integrity of the register and increase migration pace.\u00a0"
+        },
+        {
+            "text": "The Migration Helper tool provides a single space where local authorities and HM Land Registry can work through data issues identified by DAD. The Helper suggests spatial extents for each local land charge. This allows for digital spatial extents to be captured for every charge in under one minute, saving months of work per migration.\u00a0\u00a0"
+        },
+        {
+            "text": "We also now use machine learning and Optical Character Recognition to extract and convert written information held on scanned images of LLC records into textual data. The digital data is then loaded into the Migration Helper, pre-populating the data-capture screens. These enhancements have increased our per-day productivity five-fold, as well as improving data quality."
+        },
+        {
+            "heading": 2,
+            "text": "Increasing the pace"
+        },
+        {
+            "text": "As we\u2019ve digitised, transformed, and transferred data to the register, we have gained a tremendous amount of knowledge. As a result, 50 local authorities are already benefiting from a modern, digital LLC service. We have also dramatically increased the pace of migrations due to our commitment to continuous improvement and an effective lessons learnt process.\u00a0"
+        },
+        {
+            "text": "We have digitised and transferred more than 2.5 million charges, allowing nearly 366,000 automated searches to be conducted. Buyers of official searches have saved more than \u00a3860,000 and have the added benefit of a state-backed guarantee. As our service is totally digital, it\u2019s available 24/7 and delivers results instantly.\u00a0"
+        },
+        {
+            "text": "By 2023, a third of local authority areas will have instant access to LLC information, rising to two-thirds the following year. When the project is complete, property buyers, developers, innovators, and policymakers will all have access to LLC across England and Wales."
+        },
+        {
+            "heading": 2,
+            "text": "Our future"
+        },
+        {
+            "text": "The Local Land Charges Programme is one of the most ambitious geospatial data transformation ever attempted by a UK government. But the migration of LLC records is only part of our story. As more local authorities pass from data migration into live service, we will continue to support them and the other Originating Authorities to fulfil their obligations.\u00a0"
+        },
+        {
+            "text": "Digital technology presents significant opportunities to extract greater value from our data. So, from next month we will share our LLC data with members of the Geovation Accelerator Programme. We want to un-tap any hidden value in this rich pool of high-quality interoperable data.\u00a0"
+        },
+        {
+            "text": "Working in partnership with Ordnance Survey, we will be encouraging entrepreneurs to examine the dataset to identify other social and economic benefits.\u00a0 An open ecosystem of digital services that support property transactions is developing, supported by our data and service connections. We must continue to work with customers, stakeholders, and the market to achieve our goal and find new ways to improve home buying and selling. Our determined approach is already having an impact on the market and other government departments who seek to implement the lessons we\u2019ve learnt.\u00a0"
+        },
+        {
+            "text": "Andrew Lloyd, Managing Director, Search Acumen said:"
+        },
+        {
+            "text": "\u201cIt\u2019s very easy at the start of any digital transition to feel as though there\u2019s a mountain to climb, but our analysis shows that thousands of property buyers and their legal advisers are already enjoying the benefit of having instant access to digitised records of vital information that can make or break the progress of a transaction.\u201d\u00a0"
+        },
+        {
+            "text": "Our digitisation programme is well underway and the benefits for customers and the market are clear to see. What is yet to be investigated are the secondary benefits that arise from the spatial data and the impact this could have socially and economically. We will share more about this in the coming months, as the work within the Geovation Accelerator Programme is developed."
+        },
+        {
+            "text": "HM Land Registry are one of six partner bodies that the Geospatial Commission has a formal relationship with. They play a central role in the delivery of the UK\u2019s Geospatial Strategy, through the geospatial data they hold and their extensive expertise."
+        },
+        {
+            "text": "You can also sign up to get an email notification every time we publish a new blog post. For more information about this and other news see our website, or follow us on Twitter and LinkedIn."
+        }
+    ]
+}
