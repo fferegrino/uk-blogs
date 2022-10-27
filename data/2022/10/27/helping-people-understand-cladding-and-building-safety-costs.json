@@ -1,0 +1,128 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/10/27/helping-people-understand-cladding-and-building-safety-costs/",
+    "title": "Helping people understand cladding and building safety costs",
+    "authors": [
+        "Polly Green - Senior Content Designer, GOV.UK",
+        "Claire Ryan-East, Content Designer, GOV.UK",
+        "Sehrish Afzal, Senior Policy Advisor, DLUHC"
+    ],
+    "categories": [
+        "Content",
+        "What we're working on",
+        "Working with us"
+    ],
+    "pub_date": "2022-10-27T10:41:45+01:00",
+    "content": [
+        {
+            "text": "In June this year, the leaseholder protection provisions of the Building Safety Act 2022 came into force. They mean that the amount that many leaseholders would have to pay towards fixing historical building safety defects, including cladding and non-cladding remediation, is now capped."
+        },
+        {
+            "text": "Cladding-related issues have affected a significant number of leaseholders. Providing a route for remediation remains a government priority. Given the urgent user need, together with the Department for Levelling Up, Housing and Communities (DLUHC), we worked at pace to launch a smart answer on 21 July 2022, the same day that the regulations made under the Building Safety Act came into force."
+        },
+        {
+            "text": "This blog post explains how we approached the issue and what we did to give leaseholders a clear answer about what they might have to pay."
+        },
+        {
+            "heading": 2,
+            "text": "Deciding on a smart answer"
+        },
+        {
+            "text": "We had to decide early on whether we\u2019d create this as flat content (a normal webpage) or as a smart answer (a series of questions that lead you to a specific outcome based on your answers)."
+        },
+        {
+            "text": "We knew that one thing that users would need when working out how much to pay is an estimated value of their property. This would be hard to work out using flat content because it involved a series of calculations. And, if the value was calculated incorrectly, the consequences were significant."
+        },
+        {
+            "text": "For example, they might believe they had nothing to pay, when in fact the maximum they might have to pay was \u00a310,000, or a lot more in London or with a high-value property."
+        },
+        {
+            "text": "To prevent confusion and frustration among leaseholders, it was essential that the tool produced accurate results based on the provisions in the Building Safety Act."
+        },
+        {
+            "text": "It became clear that a smart answer offered the best chance of creating an accurate tool for leaseholders."
+        },
+        {
+            "heading": 2,
+            "text": "How we did it quickly"
+        },
+        {
+            "text": "Content designers from GDS met early on with policy colleagues from DLUHC to make sure we understood the policy details."
+        },
+        {
+            "text": "We met frequently and worked closely together, exploring any changes (like additional questions, for example) and agreeing ways forward. We set up clear lines of communication through regular meetings from the outset. This meant we were able to be transparent and honest about what could and couldn\u2019t be achieved within the short timeframe."
+        },
+        {
+            "text": "We co-designed the product in a workshop. This was based on a flow chart DLUHC had created, which showed the scenarios when leaseholders would and would not be required to pay, alongside the amounts for which they could be liable."
+        },
+        {
+            "text": "Using this flowchart, we set out the question-and-answer logic for the policy. This meant both we and DLUHC colleagues could be clear on their expectations: for GDS, this was what could be built and what was possible with a developer-built smart answer; for DLUHC, it covered what was necessary to include and what we could add post-launch."
+        },
+        {
+            "text": "As a result we all had the same understanding of what we were creating, what the end product would look like, and how it would operate."
+        },
+        {
+            "text": "GDS took an agile approach and frequently shared the smart answer during development with DLUHC, meaning iterations happened quickly and accurately. We collaborated regularly and prioritised the must-haves over the nice-to-haves. This was greatly appreciated by DLUHC colleagues, as it meant issues could be resolved as soon as they arose."
+        },
+        {
+            "text": "DLUHC also proactively engaged with leaseholder groups to user-test the tool before launch."
+        },
+        {
+            "heading": 2,
+            "text": "The results"
+        },
+        {
+            "text": "We\u2019ve been monitoring the performance of 4 main metrics to check that the smart answer is working effectively."
+        },
+        {
+            "heading": 4,
+            "text": "Reaching an outcome"
+        },
+        {
+            "text": "Did users successfully reach an outcome? We found that 84% of users reached one of the outcomes."
+        },
+        {
+            "heading": 4,
+            "text": "Drop-out rates"
+        },
+        {
+            "text": "Did users leave certain questions in the smart answer in large numbers and not reach an outcome? No, we found the largest numbers where people exit the smart answer is the start page and the outcome pages."
+        },
+        {
+            "heading": 4,
+            "text": "Search terms"
+        },
+        {
+            "text": "Are people entering anything in the internal GOV.UK search box from any of the smart answer\u2019s pages? We\u2019ve found only 23 instances so far (including from the start and outcome pages). This suggests users understand the questions and mostly find what they\u2019re expecting."
+        },
+        {
+            "heading": 4,
+            "text": "User journey loops"
+        },
+        {
+            "text": "Are lots of people going through the smart answer then starting again? Or looping around giving different answers to the same question? We found that a very low number of users, around 6%, are looping. We\u2019re keeping a close eye on any feedback from users."
+        },
+        {
+            "heading": 4,
+            "text": "Wider coverage"
+        },
+        {
+            "text": "Martin Lewis shared the smart answer on his Money Saving Expert website and newsletter. The newsletter is sent to 7.5 million subscribers, so it has reached a good number of people who may need this information."
+        },
+        {
+            "text": "DLUHC also shared the smart answer with leaseholder groups who could share it within their networks."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons learned"
+        },
+        {
+            "text": "Talking early and often in our video chats was one of the most important parts of this project. It helped build a relationship between GDS and DLUHC as we were all focused on creating a useful smart answer."
+        },
+        {
+            "text": "It also meant we trusted each other to be honest and call out any sticking points early on so that we could fix them or find another solution. No one was precious about their wording or layout as we all had in mind the people who\u2019d need this information once it was live."
+        },
+        {
+            "text": "We could only create the smart answer so quickly by working together and including people across government with different skills who could dedicate all their time to this project. Here are what we consider to be our main success factors:"
+        }
+    ]
+}

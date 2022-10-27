@@ -1,0 +1,71 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2022/09/28/introducing-the-planning-data-platform/",
+    "title": "Introducing the planning data platform",
+    "authors": [
+        "Digital Planning"
+    ],
+    "categories": [
+        "Digital Land",
+        "Digital Land Services",
+        "Digital Planning"
+    ],
+    "pub_date": "2022-09-28T10:00:13+01:00",
+    "content": [
+        {
+            "text": "Data is at the heart of the DLUHC Digital Planning team\u2019s mission to modernise England's planning system. The team\u2019s planning data platform has moved into the beta phase, and is now available on planning.data.gov.uk."
+        },
+        {
+            "text": "The platform collects planning and housing data from local planning authorities (LPAs) and transforms it into a consistent state across England."
+        },
+        {
+            "heading": 2,
+            "text": "A platform is a service to help other people build services"
+        },
+        {
+            "text": "We expect the main users of the platform to be people who need data to build digital planning services. We believe that such services will lead to:"
+        },
+        {
+            "heading": 2,
+            "text": "Making data easier to find, understand, use and trust"
+        },
+        {
+            "text": "The planning system is devolved to a large number of different bodies, including local planning authorities (LPAs) responsible for defining local development policies, and making planning decisions locally. The platform collects data from these different sources, compiling them into national datasets, and making them available to view on a map, search and download."
+        },
+        {
+            "text": "People building services using this data need to be able to trust the data will be sustained, and have certainty of where the data originated. The platform keeps a history of data it has collected, and maintains links of data to its original sources, which may be data on another website, or a legal document or contract.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Designing data"
+        },
+        {
+            "text": "The intention of the platform is to help local planning authorities see value from making more of their data available. Therefore a large part of our work is collaborating with local authorities and policy makers to design and establish new data standards.\u00a0"
+        },
+        {
+            "text": "Designing data standards which meet the needs of people building services, match planning authority processes, and meet policy objectives are more likely to be sustained, leading to better outcomes for all."
+        },
+        {
+            "heading": 2,
+            "text": "Open data, software, and APIs"
+        },
+        {
+            "text": "The platform is open to everybody. Anyone can download the data in bulk. The software is all open source, hosted on GitHub.\u00a0"
+        },
+        {
+            "text": "There is also an API intended to support Open Digital Planning software operated by government, but can be used by anyone to develop small-scale prototypes and demonstrations. We will rate-limit unknown users of the API if they overload the system."
+        },
+        {
+            "heading": 2,
+            "text": "Moving to beta is just the start"
+        },
+        {
+            "text": "We have started working on data from local planning authorities working with Open Digital Planning, and have been concentrating on the data needed for certificates of lawful development, one of the simplest of planning decisions.\u00a0"
+        },
+        {
+            "text": "With this in mind, we currently only have a small number of the potentially hundreds of datasets needed for complex planning decisions, from a small number of local planning authorities. We will add more data as we work on more complicated planning decisions and with more LPAs.There are many ways we can improve the service. You can help us by providing feedback that will enable us to work with providers to improve the quality of the data, and help us prioritise further datasets and features on the site."
+        },
+        {
+            "text": "You can read more about the platform on the about page, and see what\u2019s next on our public roadmap."
+        }
+    ]
+}
