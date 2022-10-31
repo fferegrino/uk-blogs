@@ -1,0 +1,114 @@
+{
+    "url": "https://insidehmcts.blog.gov.uk/2022/10/31/developing-digital-prototyping-skills-how-interaction-designers-trained-content-designers/",
+    "title": "Developing digital prototyping skills: how interaction designers trained content designers",
+    "authors": [
+        "Nad\u00e8ge Preston - Lead content designer, HMCTS",
+        "Ros Boyes - Lead interaction designer, HMCTS"
+    ],
+    "categories": [
+        "Digital services",
+        "Working at HMCTS"
+    ],
+    "pub_date": "2022-10-31T16:51:49+00:00",
+    "content": [
+        {
+            "text": "Our user-centred design (UCD) team consists of:"
+        },
+        {
+            "text": "Our aim is to put the user at the centre of design and development by using data, evidence and insight to understand how to meet their needs."
+        },
+        {
+            "text": "Prototyping is an essential part of our workflow. It allows us to show and test a concept or process before allocating any resources to build it. We\u2019ll test and iterate a prototype until we\u2019re confident it meets our users\u2019 needs."
+        },
+        {
+            "heading": 2,
+            "text": "How we prototype"
+        },
+        {
+            "text": "We use a mix of prototyping methods when testing our journeys with users. Designs start as ideas and low-fidelity sketches. We then move these ideas to design software like Figma. Now many of us are working remotely, we move to digital prototypes more quickly as they help us to work collaboratively."
+        },
+        {
+            "text": "Depending on the work we\u2019re doing, we might use:"
+        },
+        {
+            "heading": 2,
+            "text": "Why content designers wanted to develop their skills"
+        },
+        {
+            "text": "Content designers at HMCTS have different experiences and skills in prototyping, depending on the work they do. For example, content designers work across different teams including:"
+        },
+        {
+            "text": "Although interaction designers do not rely on content designers being able to use the GOV.UK Prototype Kit, we recognised that upskilling would benefit both disciplines by:"
+        },
+        {
+            "text": "It would also help content designers to better support each other across different teams, working on coded prototypes where needed."
+        },
+        {
+            "heading": 2,
+            "text": "Training content designers"
+        },
+        {
+            "text": "Before the session, we talked about what the content designers needed to know about prototyping. Many had past experience of coding so we ran a refresher on the basics of HTML, as well as introducing the kit and how to work collaboratively. We agreed that content designers would usually need to edit an existing prototype created by interaction designers on their team."
+        },
+        {
+            "text": "We introduced how the kit works \u2013 from running a prototype locally on the command line and making changes to the prototype using a text editor, to finally sharing your code via Github and hosting it on the web."
+        },
+        {
+            "text": "When planning the training, we based the structure on a course Ros attended in 2019, run by Joe Lanman at the Government Digital Service (GDS). We followed Joe\u2019s lead in introducing HTML, covering the basics of tags, attributes, nesting and indentation. One of the most important lessons of all being to close your tags!"
+        },
+        {
+            "text": "We then moved on to a rite of passage for any government designer \u2013 the Apply for a juggling licence tutorial. The tutorial is a great introduction to the kit, where you learn basic prototyping skills like creating pages and linking them together, before moving on to more advanced techniques like branching and passing data."
+        },
+        {
+            "text": "After completing the tutorial, we talked about the more specific details of prototyping at HMCTS, how we use Github and how the content designers could get access to existing repos."
+        },
+        {
+            "text": "We then ended with a discussion about coding collaboratively which covered:"
+        },
+        {
+            "text": "At the end of the session, the interaction designers shared some additional resources for content designers to further upskill their coding skills. We also provided a cheat sheet with basic commands and coding snippets, so content designers could get started right away."
+        },
+        {
+            "heading": 2,
+            "text": "What content designers learnt"
+        },
+        {
+            "text": "Here are some of the top takeaways from the training session."
+        },
+        {
+            "heading": 3,
+            "text": "1. Coding is not as scary as you first think"
+        },
+        {
+            "text": "We all had some experience of coding, usually dating back to when we had to use code to publish content in old content management systems. So, it was more a case of refreshing our memories than learning new code."
+        },
+        {
+            "heading": 3,
+            "text": "2. Stealing code is not a crime"
+        },
+        {
+            "text": "Reusing code is not a crime. It\u2019s actually a really helpful way to teach yourself how to code. We\u2019ll rarely need to create a prototype from scratch, as components are likely to have been made before."
+        },
+        {
+            "heading": 3,
+            "text": "3. Hiding code is really helpful"
+        },
+        {
+            "text": "We make several iterations to prototypes, for example after user research. Learning how to hide code will be incredibly useful for us, as it means we do not have to delete it and can refer back to it where needed."
+        },
+        {
+            "heading": 3,
+            "text": "4. You can work on and release changes with colleagues in a secure way"
+        },
+        {
+            "text": "Learning about the workflow and how to clone prototypes gave us reassurance. We can easily keep track of changes and merge changes to the main branch once we\u2019re ready."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We\u2019ve already started putting our skills into practice, which is great. To make sure we build on what we\u2019ve already learnt, we\u2019ll be having another training session soon. We\u2019re also making prototyping training part of our onboarding process as we expand our interaction and content design teams."
+        }
+    ]
+}
