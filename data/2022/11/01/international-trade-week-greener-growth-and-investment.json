@@ -1,0 +1,75 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2022/11/01/international-trade-week-greener-growth-and-investment/",
+    "title": "International Trade Week: Greener Growth and Investment",
+    "authors": [
+        "Ali Ahmed, Content Lead",
+        "Sarah Livermore, Senior Data Scientist",
+        "Teemerte Teccola, Data Engineer"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2022-11-01T14:00:29+00:00",
+    "content": [
+        {
+            "text": "In the Digital, Data and Technology (DDaT) directorate, we are committed to being a strategic enabler for the Department for International Trade (DIT) and UK businesses. We promote trade internationally, grow UK prosperity and have competitive global advantage through digital, data, user-centered design and technology. In this special edition blog for International Trade Week, we will be focusing on Data Workspace and Investment Atlas on great.gov.uk. We will explore how DDaT\u2019s services and products enable DIT and businesses to promote green trade and investment in the UK and abroad."
+        },
+        {
+            "heading": 2,
+            "text": "Searching for green trade data on Data Workspace"
+        },
+        {
+            "heading": 3,
+            "text": "Sarah Livermore, Senior Data Scientist; Teemerte Teccola, Data Engineer"
+        },
+        {
+            "text": "In DDaT, building tools is important for our work to help DIT colleagues get the maximum possible value from their data."
+        },
+        {
+            "text": "The Data Team recently worked with a DIT team who produce reports for hundreds of DIT stakeholders on a wide range of topics, including green trade and investment. These were distributed as PDF documents via email and archived on SharePoint.\u00a0There were almost 100 of these reports, each around 8 pages long. That is almost 1,000 pages of information! In order to search through the reports, each document had to be opened individually and it was difficult for the user to find the information that mattered to them.\u00a0\u00a0This meant the core value of the data was essentially hidden."
+        },
+        {
+            "text": "The DIT team approached DDaT to ask for tools which would allow their users to search and filter information across flexible timeframes, empowering them to quickly access results that were personalised to their requirements."
+        },
+        {
+            "heading": 3,
+            "text": "Pooling our skills and knowledge "
+        },
+        {
+            "text": "In DDaT, we are skilled at working in cross-disciplinary teams and drawing in experts from different professions as needed. Firstly, our data engineers built a pipeline to automatically extract reports from SharePoint into a structured table. This table automatically refreshes every day so that new reports are fed into the table as soon as they are produced. Next, they are handed over to our data analysts who built a dashboard which will allow anyone in the department to search all the information by date or a search term. Finally, our data scientists applied a topic model to the information, which allows users to easily draw out all the data on a particular theme, such as green trade.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Continuously improving"
+        },
+        {
+            "text": "We have had some fantastic feedback after initial testing with users who shared that these tools have transformed the way they access information. For instance, colleagues working on DIT\u2019s Green Trade Strategy can use the topic modelling outputs to find all data related to investment in the UK\u2019s electric vehicle capability without having to include a long list of search terms."
+        },
+        {
+            "heading": 2,
+            "text": "Enabling investment with great.gov.uk "
+        },
+        {
+            "heading": 3,
+            "text": "Ali Ahmed, Content Lead, Export and Investment"
+        },
+        {
+            "text": "Investment Atlas (IA) replaced the previous \u2018Invest in GREAT\u2019 website for foreign investors, with simplified navigation for better user journeys and refreshed sector and opportunities content.\u00a0It was launched in time for the UK to host a Global Investment Summit (GIS) in October 2021. The goal was to encourage foreign investment in the UK by showcasing the best of British innovation. The UK also hosted COP26 in 2021, so the initial focus of IA was \u2018sustainability\u2019 to keep the messaging coherent."
+        },
+        {
+            "text": "IA went live with content aligned to the UK Government\u2019s 10-point plan and levelling up agenda. This included 50 sustainable investment opportunities, sector propositions and information about the UK\u2019s nations and regions.\u00a0A DDaT multi-disciplinary team worked closely with Investment stakeholders to design and add content to the site."
+        },
+        {
+            "text": "IA consists of 4 sections:"
+        },
+        {
+            "text": "We started by designing the site architecture to ensure Investment Atlas worked well with other great.gov.uk international facing services."
+        },
+        {
+            "text": "Interaction Designers ensured the site was easy to navigate, call-to-actions were prominent and the look and feel of the site was in line with the new GREAT branding. Content Designers worked with regional partners and investment advisers to produce content that was accessible to foreign users. We ensured content was consistent, easy to read and understand. We made sure to include enough relevant information needed by the investor for them to take next steps, but not too much content to overwhelm them.\u00a0Content Designers continue to edit and quality assure copy as new projects and sector content is continuously added or updated to IA."
+        },
+        {
+            "text": "Investment Atlas continues to represent a balanced portfolio of opportunities for international investors from all parts of the UK. In DDaT, we are proud of the services and products we have built to promote green trade and investment and so much more."
+        }
+    ]
+}
