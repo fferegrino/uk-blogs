@@ -1,0 +1,112 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/11/03/how-gov-uk-is-upgrading-to-google-analytics-4/",
+    "title": "How GOV.UK is upgrading to Google Analytics 4",
+    "authors": [
+        "Andy Sellick, Senior frontend developer, GOV.UK",
+        "Ian James, Lead frontend developer, GOV.UK"
+    ],
+    "categories": [
+        "Data",
+        "How we work",
+        "Product changes"
+    ],
+    "pub_date": "2022-11-03T10:33:06+00:00",
+    "content": [
+        {
+            "text": "Everything we do on GOV.UK is centred around providing the best possible experience for our users. We want the site to be fast and straightforward for everyone. To achieve this we need to understand how people use the site - this is where analytics are useful."
+        },
+        {
+            "text": "Data gathered by analytics helps us answer questions like:"
+        },
+        {
+            "text": "Understanding how people use GOV.UK helps us to learn what is working well and what isn't. We can then use this information to make the site better for everyone."
+        },
+        {
+            "text": "The only direct analytics tool we use is Google Analytics (GA). Google intends to replace the current version of GA (Universal Analytics or UA) with a new version in the near future. This means we need to upgrade to the new version or we\u2019ll lose a valuable way of understanding GOV.UK users."
+        },
+        {
+            "text": "We\u2019ve already talked about our preparations for upgrading to Google Analytics 4 (GA4). Now that we have successfully implemented GA4 onto GOV.UK, we wanted to explain:"
+        },
+        {
+            "heading": 3,
+            "text": "What we\u2019re doing and why"
+        },
+        {
+            "text": "We wanted to implement GA4 using Google Tag Manager (GTM). Whilst we did consider alternatives, GTM came out as our best option. It allows for easier sharing of data collection methodologies, provides a preview and testing mode, and is already widely used across government."
+        },
+        {
+            "text": "As Daisy explained in her earlier blog post, we\u2019ve decided to run both the old and new versions of GA together on GOV.UK for 12 months. We want to test everything is working, compare the data and understand any discrepancies, and to give users and departments time to migrate. If we just flipped from UA to GA4 we'd run the real risk of not discovering any issues until it was too late."
+        },
+        {
+            "text": "This is a huge change for GOV.UK, and we didn\u2019t know the full effect of running both analytics products together. We knew this would place a small additional burden on the site - both in terms of the amount of JavaScript needed and the performance impact of this extra code - but we wanted to understand the specific impact and be prepared in case it was deemed unacceptable."
+        },
+        {
+            "heading": 3,
+            "text": "\nWhat we\u2019ve learned"
+        },
+        {
+            "text": "Early on we created a test site to measure the size of the JavaScript that has to be included in order to use GTM."
+        },
+        {
+            "text": "We found that changes made in the GTM interface can increase or decrease the size of the JavaScript. Disabling enhanced measurement - a feature we\u2019re not using - slightly decreased the size. By contrast, we were able to increase the size significantly by adding custom HTML tags. This was achieved by adding deliberately bloated code that would never be added in reality, but suggests what could happen over time without care."
+        },
+        {
+            "text": "The best size that we could achieve was around 99 KB, which was nearly 5 times the size of the JavaScript needed for UA. This was concerning, but didn\u2019t provide information about the real impact for users, since JavaScript can be loaded separately while the rest of the page is loading."
+        },
+        {
+            "text": "GOV.UK is already fast to load, so users with modern devices on good connections probably won\u2019t notice any difference. We\u2019re more concerned about the impact on users with older devices on slower connections."
+        },
+        {
+            "heading": 3,
+            "text": "\nPlans for going live"
+        },
+        {
+            "text": "GOV.UK uses Real User Monitoring (RUM) to help us understand how the site performs for users. It only works on the live site, so we couldn\u2019t properly test the performance impact until we put the new code live."
+        },
+        {
+            "text": "We discussed the potential performance impact of dual-running with a range of people across GOV.UK, including developers, analysts and senior management. We had to communicate clearly what this meant, and have plans in place if the performance wasn\u2019t acceptable."
+        },
+        {
+            "text": "We decided to build a minimum viable product using GTM, consisting of a few key parts of our analytics, and put it live on GOV.UK for 2 weeks. We would measure the performance of the site but be ready to go with an alternative to GTM if it wasn\u2019t acceptable. Our alternative was the Google tag, which has a slightly smaller JavaScript size and works in a similar way to GTM, but lacks many of its features."
+        },
+        {
+            "heading": 3,
+            "text": "\nThe performance impact"
+        },
+        {
+            "text": "We monitored the performance of 5 of the most visited pages on GOV.UK for 2 weeks using RUM. We focused particularly on older devices that would be more likely to notice a performance change."
+        },
+        {
+            "text": "Some metrics increased as expected, such as the overall JavaScript size and the total time for the page to load. The good news was that, although these metrics increased, it had little to no impact on how fast the pages appeared to load (perceived performance) for users or how soon they were able to interact with them."
+        },
+        {
+            "text": "Interaction time and perceived performance are important as they let the user know that the page is now in a usable state. Even a 50 millisecond difference in the performance of a page can make a page feel slow to a user, especially on low specification devices, which will likely feel the impact a lot more than faster devices."
+        },
+        {
+            "text": "Using RUM data we were able to show that the impact of GTM was negligible. This confirmed our initial thinking and meant we can now proceed to use GTM to implement GA4 without an impact on our users."
+        },
+        {
+            "heading": 3,
+            "text": "\nManaging GTM"
+        },
+        {
+            "text": "We\u2019re also doing all we can to ensure that nothing unnecessarily inflates the GTM JavaScript size. Although GTM can give analysts a lot of control over tracking, we\u2019re going to use it in a very minimal way."
+        },
+        {
+            "text": "Once the initial setup is complete, any further changes made in the GTM interface must be approved by a developer before being published to the live site. This will include checks to ensure that nothing increases the size of the GTM JavaScript unnecessarily."
+        },
+        {
+            "text": "We\u2019ve also implemented a blocklist in our code to prevent any custom HTML or scripts from being added to GOV.UK. The blocklist only stops these things from executing - they are still downloaded as part of the GTM JavaScript. This means the size could still get out of hand if not monitored properly."
+        },
+        {
+            "heading": 3,
+            "text": "\nWhat\u2019s next"
+        },
+        {
+            "text": "Since the launch at the end of September 2022, we\u2019ve been continuing to add the remaining analytics to our GA4 setup, as well as testing and adjusting the existing work. This is a large task and we have limited time to complete it before UA is shut down in 2024."
+        },
+        {
+            "text": "We\u2019ll continue to monitor the performance of GOV.UK as the work continues. We\u2019ll also continue to ensure that all of the data collected fully respects people's consent, is anonymous, and is free of personally identifiable information."
+        }
+    ]
+}

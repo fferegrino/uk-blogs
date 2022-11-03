@@ -1,0 +1,82 @@
+{
+    "url": "https://services.blog.gov.uk/2022/11/03/prioritise-the-riskiest-assumptions-in-big-problem-spaces/",
+    "title": "Prioritise the riskiest assumptions in big problem spaces",
+    "authors": [
+        "Harry Vos \u2013\u00a0Senior product manager, GDS"
+    ],
+    "categories": [
+        "Service design",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2022-11-03T10:05:52+00:00",
+    "content": [
+        {
+            "text": "We often fail to test the things we\u2019re uncertain about and instead spend a disproportionate amount of time on the things that are givens. This leads to long explorations, without conclusive evidence to make good, timely investments. We can avoid this by prioritising our assumptions by their risk, then testing them. If you are working in a big problem space, doing this will focus your service team on learning the things with the most value."
+        },
+        {
+            "text": "In this blog post, I\u2019m sharing how you can use this method with your teams. Plus, you\u2019ll get to make your prioritisation more like being a judge on a reality TV show, Strictly Come Dancing-style. This is way more fun than any effort-and-impact priority matrix."
+        },
+        {
+            "heading": 2,
+            "text": "Why it\u2019s important"
+        },
+        {
+            "text": "Exploration can drag on when we don\u2019t spend enough time learning about the uncertain, especially in a big problem space. We might make progress on solving some problems, yet we\u2019re still no closer to a usable service we can operate, or having an impact."
+        },
+        {
+            "text": "When starting the discovery phase for a service, we often don\u2019t know where to begin our research. It\u2019s great when people have different hunches. We see this particularly in teams with many disciplines. Yet it can be hard to know what to focus on when trying to solve a whole problem for users."
+        },
+        {
+            "text": "When a discovery phase throws up lots of problems, we don\u2019t know where to start our alpha phase. We know we need to design a few user journeys from start to finish. We could say start at the beginning or start anywhere, as it all needs designing."
+        },
+        {
+            "text": "Many alpha phases take much longer than the suggested 6 to 8 weeks. We still don\u2019t feel confident about what our service should look like in the beta phase. We\u2019re left in perpetual exploration, like me digging for records in a shop basement, but less fun. This can happen when we mistakenly spend all of our time according to what is most valuable for the user. Value for users is incredibly important, but there\u2019s a nuance to it."
+        },
+        {
+            "text": "We should prioritise spending time on things we most need to learn about. The things we most need to learn about might be different from what has the most value for users. We don\u2019t always make this distinction, and in the end, value for users suffers."
+        },
+        {
+            "heading": 2,
+            "text": "How to prioritise assumptions by risk"
+        },
+        {
+            "text": "It\u2019s ok to have hunches. Everyone has them. Hunches are only dangerous when we don\u2019t test them."
+        },
+        {
+            "text": "We form hunches about how to solve problems from a range of assumptions. Sometimes, our assumptions are informed by spotting patterns in our experiences. Other times, we overreach and that\u2019s when, to quote the old saying, \u201cTo assume is to make an ASS out of U and ME\u201d."
+        },
+        {
+            "text": "Prioritising assumptions by risk helps us focus on where they might be overreaching and prevents never-ending exploration. The first step is called assumption surfacing, then later when testing them, riskiest assumption testing (RAT)."
+        },
+        {
+            "text": "How to do it:"
+        },
+        {
+            "text": "I\u2019ve given a simple example below, with a throwback to a 2004 design icon \u2013 the Motorola Razr mobile phone. The overwhelming sense of nostalgia should help the method feel less intimidating. Imagine our team are trying to figure out how to make the next smash hit smartphone\u2026"
+        },
+        {
+            "text": "If you\u2019re reading the example, thinking, \u201cno way is that a 4!\u201d, perfect. You know something that I don\u2019t. You can imagine our team discussing how popular the Motorola Razr was. We\u2019d debate how similar our folding smartphone is."
+        },
+        {
+            "text": "Our team now has a list of assumptions, prioritised by risk. Now we can agree as a team what we need to quickly learn, experiment and test to help mitigate those risks. This will help form a good backlog for a discovery or alpha. This method can also help in other situations when you're working in big problem spaces with lots of uncertainty, and don\u2019t know where to start."
+        },
+        {
+            "heading": 2,
+            "text": "What to remember"
+        },
+        {
+            "heading": 2,
+            "text": "Further reading"
+        },
+        {
+            "heading": 2,
+            "text": "Learning about weighting scores"
+        },
+        {
+            "text": "When we discussed the method, Georgina Watts was curious about weighting the impact and confidence scores. For example, we could weight impact higher than confidence. This might be useful with a group of people that tend to be overly-confident, or don\u2019t talk about failure."
+        },
+        {
+            "text": "I\u2019ve only used a 50/50 weighting. I'd be curious to hear from others that have experimented with other weightings. Please leave a comment if you want to share your remix. "
+        }
+    ]
+}
