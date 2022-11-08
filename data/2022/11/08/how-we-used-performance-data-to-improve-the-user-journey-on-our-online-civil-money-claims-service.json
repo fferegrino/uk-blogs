@@ -1,0 +1,99 @@
+{
+    "url": "https://insidehmcts.blog.gov.uk/2022/11/08/how-we-used-performance-data-to-improve-the-user-journey-on-our-online-civil-money-claims-service/",
+    "title": "How we used performance data to improve the user journey on our Online Civil Money Claims service",
+    "authors": [
+        "Angelina Bogdan - performance analyst, HMCTS User Experience"
+    ],
+    "categories": [
+        "Digital services",
+        "Working at HMCTS"
+    ],
+    "pub_date": "2022-11-08T12:45:53+00:00",
+    "content": [
+        {
+            "text": "Failure demand always comes at a cost to the business. Whether that\u2019s tangible money-spending or abstract flaws in customer experience. It\u2019s the demand caused by failure to do something right. It\u2019s the demand we do not want, but we dedicate resources to it on a consistent basis. How do you break this cycle?"
+        },
+        {
+            "text": "Recently, we wanted to fix a failure demand issue with our Online Civil Money Claims (OCMC) service. The service is the online portal for starting simple court claims. It's an alternative to the traditional method of issuing a civil claim."
+        },
+        {
+            "text": "The team had been trying to understand why users often reported confusion about the claim process. The team felt that there was enough guidance on GOV.UK, but based on feedback, many users seemed unaware about what happened after they hit \u2018submit claim\u2019. Users were contacting our call centres, only to be given the same information that was already in the GOV.UK guidance."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding our users' perspective"
+        },
+        {
+            "text": "To start, we put ourselves in the place of a user trying to claim the money they\u2019re owed. My first hunch was to go online and use a search engine. I searched for a few terms related to making a money claim to explore the options presented to a user."
+        },
+        {
+            "text": "We found 2 similar pages on GOV.UK."
+        },
+        {
+            "text": "The 'Make a court claim for money' was the mainstream guidance. It was for all users looking to submit a claim, both digitally and on paper, and outlined step-by-step actions for the claimant."
+        },
+        {
+            "text": "The 'Make a money claim online' page turned out to be a separate starting point for the OCMC service. It briefly outlined the pre-application process and referred users back to the mainstream guidance for information on paying the application fee."
+        },
+        {
+            "heading": 2,
+            "text": "Gathering evidence for analysis"
+        },
+        {
+            "text": "The initial request for cross-checking the efficiency of the online guidance started from the service team that had been reviewing call data."
+        },
+        {
+            "text": "Looking at 6 months of the latest available call data, we found that:"
+        },
+        {
+            "text": "Our next step was to review the user behaviour on the guidance pages."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding our users\u2019 behaviour"
+        },
+        {
+            "text": "Where available, we use Google Analytics data to understand users\u2019 behaviour on a website. The platform gives detailed representation on what users do on the webpage, if they\u2019ve opted into cookies. Here\u2019s what we found when reviewing the 2 OCMC pages:"
+        },
+        {
+            "heading": 3,
+            "text": "Make a money claim online"
+        },
+        {
+            "text": "\u202fThis page showed high levels of engagement with the start page, including: \u202f\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Make a court claim for money"
+        },
+        {
+            "text": "At first glance, this page was well-visited, with a reported several hundred thousand of tracked users looking at it within the time period. But when we looked further into its 6 separate sections, we found that visits were primarily driven by pre-claim guidance. Other sections, including guidance on post-claim, hearing and enforcement, were visited by no more than 20% of users."
+        },
+        {
+            "text": "The connection between the 2 money claims pages was limited. We inferred that only about half of OCMC start page users were referring back to the claim guidance (again, mostly viewing pre-claim guidance). This was already widely coinciding with the call data findings."
+        },
+        {
+            "heading": 2,
+            "text": "Supporting evidence - webforms and feedback"
+        },
+        {
+            "text": "While data is the basis of any research, it\u2019s worth connecting it to the real voice of the user. This is to provide a real story behind the findings."
+        },
+        {
+            "text": "At the time of analysis, OCMC had a \u2018webform\u2019 for user outreach,\u202fsimilar to an email submission. We looked at incoming enquiries, and these confirmed our assumptions. The majority of claimants were asking about the next steps after they submitted a money claim. The comments focussed on \u201cwhat to do if a defendant does not reply\u201d and \u201cno money has been paid, what are the next steps?\u201d."
+        },
+        {
+            "text": "We also asked CTSC staff for their feedback, as they seemed best placed to advise on this. Again, topics on no-response and no-payment were on top of the list. In fact, 9 out of 10 of the surveyed case administrators felt that users did not read through the online guidance before contacting the service centre. This strengthened our assumption that the OCMC service users could be missing out on important guidance due to the design of the service start point on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Analysis outcome"
+        },
+        {
+            "text": "Based on what we found, we built a case for reviewing the OCMC service start point on GOV.UK. We made a request with the Government Digital Service (GDS) to update the 'Make a court claim' page. We removed the separate \u2018start page\u2019 and added the OCMC service \u2018start now\u2019 button to the mainstream guidance. These changes streamlined the GOV.UK mainstream guidance access for OCMC users across all stages of the journey, meaning users should no longer accidentally miss important guidance."
+        },
+        {
+            "text": "We'll continue to evaluate and improve our digital services based on user feedback. Find updates on this and other insight and performance projects in future blog posts."
+        }
+    ]
+}
