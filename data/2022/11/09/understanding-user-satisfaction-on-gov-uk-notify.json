@@ -1,0 +1,74 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/11/09/understanding-user-satisfaction-on-gov-uk-notify/",
+    "title": "Understanding user satisfaction on GOV.UK Notify",
+    "authors": [
+        "Ia Croxton - Senior User Researcher for GOV.UK Notify, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Notify",
+        "User research"
+    ],
+    "pub_date": "2022-11-09T10:24:13+00:00",
+    "content": [
+        {
+            "text": "GOV.UK Notify has grown dramatically over the past 6 years. Over 6,500 service teams currently use Notify and around 60,000 individuals have a Notify account."
+        },
+        {
+            "text": "We want to meet the needs of this large and diverse group of people. Our users provide a range of services, from passport applications to children\u2019s services, fishing licences to business continuity. To help us do this, we changed the way we run our annual user satisfaction survey."
+        },
+        {
+            "text": "The survey is one of the main ways we collect quantifiable data. It gives us a good snapshot of what our users want and how they feel about Notify."
+        },
+        {
+            "text": "When we designed the survey in 2020, we would only send one per team, to the person who first set up the service. While this approach has benefits and made sense at the time, it also meant we weren\u2019t always getting the full picture."
+        },
+        {
+            "text": "We know that people who set up a service on Notify are more likely to be decision-makers. They may not be the people who use Notify on a day-to-day basis. It therefore feels risky for us to assume that these individuals can tell us about the experiences and needs of their whole team."
+        },
+        {
+            "text": "So in 2022, the third year of the satisfaction survey, we changed our methodology. We sent the survey to everyone who has signed in to Notify at least once in the past year, even if this meant collecting more than one response per service."
+        },
+        {
+            "text": "We also included some questions about team make-up and what other GDS services those teams were using. We\u2019ll be sharing the insights we get from these questions with colleagues in GDS who are looking at how we can better support government users, especially those with no DDaT specialisms on their teams."
+        },
+        {
+            "heading": 2,
+            "text": "The benefits of our new methodology"
+        },
+        {
+            "text": "Changing our methodology allowed us to achieve a much larger sample size. We got nearly 2,000 responses to the latest survey - more than 5 times as many as we got last year. This means we can be more confident that the results are an accurate reflection of our user base."
+        },
+        {
+            "text": "It also means we had enough responses to be able to break the results down by categories such as type of organisation, job role and access needs. This makes it possible for us to identify whose needs we could be doing a better job of meeting."
+        },
+        {
+            "heading": 2,
+            "text": "Findings"
+        },
+        {
+            "text": "84% of respondents told us they\u2019re satisfied with Notify. That\u2019s good, but actually a bit lower than last year\u2019s result. It\u2019s possible this reduction is down to the change in our methodology. If we get a lower score with a larger (and more diverse) group of users, it shows that we\u2019re not meeting everyone\u2019s needs."
+        },
+        {
+            "text": "The top reasons given for satisfaction were ease of use, simplicity of the user interface and performance."
+        },
+        {
+            "text": "High on the list of things users are dissatisfied with are our message templates. Some respondents find them inflexible and difficult to implement. Others said that Notify\u2019s model of creating reusable templates rather than one-off messages does not fit their use case. We also identified a need for more data and better reporting once messages have been sent."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing next"
+        },
+        {
+            "text": "The responses to our annual satisfaction survey will inform what to work on over the coming year."
+        },
+        {
+            "text": "We\u2019ve combined our findings with other data sources, such as:"
+        },
+        {
+            "text": "We\u2019re creating a quantified list of pain points and unmet needs that our users have told us we need to address. These will become part of our roadmap."
+        },
+        {
+            "text": "In the next few months, we\u2019ll focus our research and design effort on:"
+        }
+    ]
+}

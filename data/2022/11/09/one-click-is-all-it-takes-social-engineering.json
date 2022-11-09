@@ -1,0 +1,75 @@
+{
+    "url": "https://stratcommand.blog.gov.uk/2022/11/09/one-click-is-all-it-takes-social-engineering/",
+    "title": "One Click Is All It Takes: Social Engineering",
+    "authors": [
+        "calumjenkins"
+    ],
+    "categories": [
+        "Cyber",
+        "Personnel",
+        "Technology"
+    ],
+    "pub_date": "2022-11-09T11:06:13+00:00",
+    "content": [
+        {
+            "text": "Cyber threats come in all shapes and sizes. Some are complex, requiring the installation of additional software, or the hiding of malicious code masquerading as a something legitimate, like an aptly named Trojan Horse. Others can be the product of a supply chain breach and the delivery of hostile modified hardware. And some simply rely on the goodwill of its victim, like social engineering techniques requiring just the click of a button for all havoc to break loose on one\u2019s device. The latest \u2018Cyber Insider\u2019 article will focus on the idea of \u2018one click\u2019 threats by discussing what they are, how they work and how we can best protect ourselves from the dangers they present."
+        },
+        {
+            "heading": 2,
+            "text": "What is Social Engineering?"
+        },
+        {
+            "text": "As human beings we\u2019re naturally inquisitive and willing to help: As a result, we\u2019re very easy to predict and, in many scenarios, this can be a good thing. Who hasn\u2019t asked a friend, family member or colleague for help in times of need? However, in the world of cyber, this predictability leaves us vulnerable to threats, in particular, social engineering."
+        },
+        {
+            "text": "Social engineering is a manipulation technique that banks on these most common of human characteristics. It is the backbone for a number of the cyber threats we regularly face including phishing, social networking, and telephone scams. And whether it be an email, text or tweet, this technique often prompts the user to carry out a specific action, such as the click of a link or the downloading of an attachment, unleashing malicious software in the process. You can learn more by watching the recently released Cyber Confident Social Engineering video."
+        },
+        {
+            "heading": 2,
+            "text": "Threats"
+        },
+        {
+            "text": "Emails are a part of everyday life. Time is precious, and in the fast-moving world of Defence, where emails come and go in regular fashion, we\u2019re spending less time checking and more time doing. As a result, we\u2019re becoming increasingly vulnerable to the threat of phishing."
+        },
+        {
+            "text": "Much like the name suggests, phishing involves hunting. Unlike the popular past time however, this type of hunting relies less on fish and more on the collection of our personal data and information. Most common in the form of emails, social engineers will construct carefully worded correspondence masquerading as trustworthy sources, luring us into clicking a URL link, PDF file or a similar attachment. And as the title of this article suggests, one click is all it takes. Once clicked, these expertly designed traps are able to free malicious malware onto our devices."
+        },
+        {
+            "text": "Not limited to emails, phishing also occurs via social media posts and short message service messages however, the plan is always the same, as these social engineers trick us into making the fatal mistake of clicking something dangerous."
+        },
+        {
+            "text": "You can learn more about phishing by watching the Cyber Confident Phishing video."
+        },
+        {
+            "text": "Much like emailing, social networking has become a daily ritual for many. Whether we\u2019re chatting with friends, watching videos, or updating our followers on what we had for lunch, it has become an important part of everyday life. A fact social engineers know only too well."
+        },
+        {
+            "text": "Social networking provides numerous \u2018ins\u2019 for social engineers. Some users have been targeted with messages pretending to be from friends or relatives with tales of woe asking for financial donations via an external website. Others have had their public information used against them, such as their likes and interests, allowing for the creation of targeted malware embedded messages."
+        },
+        {
+            "text": "Clicking on these infected messages, tweets, or links, can have a devasting impact on our devices and leaves our personal information at risk."
+        },
+        {
+            "text": "We\u2019ve all received spam phone calls from sales teams, insurance companies or the infamous \u2018This is HMRC\u2026\u2019 You might be sitting there thinking these are all obvious traps, and generally speaking, you\u2019d be right. However, this doesn\u2019t mean that some of us haven\u2019t fallen for this social engineering technique."
+        },
+        {
+            "text": "In contrast to the previous two threats, the social engineering method of telephoning involves victims being contacted directly over the phone. The aim of these interactions is to persuade us to carry out tasks, whether it be visiting a website, downloading a document, or carrying out updates, in order for dangerous malware to be deposited onto our devices."
+        },
+        {
+            "text": "Following these instructions and clicking on these potential harmful links can send shock waves running through our digital systems."
+        },
+        {
+            "heading": 2,
+            "text": "Staying Safe"
+        },
+        {
+            "text": "So how do we stay safe and avoid becoming a victim of social engineering? The obvious answer here would be not to click on questionable links, download unrecognized attachments, or respond to strange messages. However, these social engineering techniques are designed to be convincing, and manipulative, and their creators are banking on your inquisition and goodwill to lure you into a \u2018one click\u2019 cyber trap. So even if we were to do all those, how are we to decipher truth from lie? With that in mind think over these quick tips before you click on anything:"
+        },
+        {
+            "text": "Are you doing everything you can to remain protected online? To help you answer yes to this question, read the Cyber Confident Protect Checklist 2022, and learn more about the steps you can take to ensure cyber security. We would also recommend watching the videos on Social Media and Online Gaming, produced by the Cyber Confident team in October."
+        },
+        {
+            "text": "Remember, one click is all it takes. If you\u2019re suspicious, don\u2019t click."
+        }
+    ]
+}
