@@ -1,0 +1,84 @@
+{
+    "url": "https://services.blog.gov.uk/2022/11/15/enabling-delivery-teams-to-understand-and-apply-the-government-service-standard/",
+    "title": "Enabling delivery teams to understand and apply the Government Service Standard",
+    "authors": [
+        "Kerry Lyons \u2013 Senior content designer, DFE"
+    ],
+    "categories": [
+        "Service assessments",
+        "Service Standard"
+    ],
+    "pub_date": "2022-11-15T09:19:15+00:00",
+    "content": [
+        {
+            "text": "In the Department for Education (DfE), we know that standards are important when building digital services and products. They provide assurance, consistency and help us to deliver great services."
+        },
+        {
+            "text": "We also know that the Service Standard is broad and open to interpretation, which is a good thing because teams can then apply it to the context they are working in, but this also means that sometimes, the Service Standard is not consistently understood or applied. In relation to this, teams are also looking for specific DfE-related examples of how to apply standards and how they are assured."
+        },
+        {
+            "text": "I\u2019m Kerry, a Senior Content Designer in the Standards and Assurance team in DfE. Our goal is to look at how standards are understood, applied and assured across professions."
+        },
+        {
+            "text": "We are working with service assessors and teams across the department to ensure that the government Service Standard and collective community standards can be found, understood and applied.\u00a0 In applying standards consistently we will build more consistent, user-centred services and improve the assessment experience for service teams and assessors."
+        },
+        {
+            "heading": 2,
+            "text": "Assessment data to spot an opportunity to help teams"
+        },
+        {
+            "text": "In DfE, we run internal service assessments to help teams to create and run public services. If a DfE service does not fit the criteria for a Central Digital and Data Office (CDDO) assessment, it can be assessed by an internal panel of assessors to ensure the service meets the Service Standard. We used data from internal assessment reports to identify where understanding and application of the Service Standard could be improved. We looked at 136 internal assessments between March 2018 and mid-February 2022, analysing where standards were:"
+        },
+        {
+            "text": "Assessment report summaries showed us where teams needed support with meeting standards. And, user research helped us to understand the assessment process and how, and when, teams apply the Service Standard."
+        },
+        {
+            "text": "Data showed us which Service Standard points were repeatedly difficult for teams to meet, including:"
+        },
+        {
+            "text": "Plus, we had suggestions and tips in assessment reports from DfE assessors on how to meet the standards. But, wider teams weren\u2019t benefitting from these learnings."
+        },
+        {
+            "heading": 2,
+            "text": "Applying the Service Standard in DfE manual"
+        },
+        {
+            "text": "This was the start of our work to design Apply the Service Standard in DfE, to help teams understand and apply the 14 point Service Standard in DfE."
+        },
+        {
+            "text": "Duplicating content in the Service Standard was out, but pair writing, content crits and workshops with DfE subject matter experts, including Heads of Profession, helped us to design the right content in the right way. We worked with the assessments team to understand what assessors look for at each phase. We also reached out across government to understand what brilliant things other departments are doing to help teams apply standards. We learned that other teams have similar issues and are looking to solve similar problems."
+        },
+        {
+            "text": "At present we\u2019ve finished our third round of testing and are iterating the manual as we go. For example, we\u2019d included practical things for teams to think about which have been written based on data and DfE assessment report feedback. We\u2019re iterating this as users told us it was hard to process a list of things to think about, as well as things to consider for each phase and how these two things relate to one another."
+        },
+        {
+            "text": "We have then taken the \u2018think about\u2019 content and are adding it into the \u2018things to consider lists\u2019 across each standard - \u00a0this content was thought to be the most valuable for users in telling them what they need to do at each individual\u00a0 phase to meet the Service Standard as a whole ."
+        },
+        {
+            "heading": 2,
+            "text": "Building the Design in DfE manual"
+        },
+        {
+            "text": "To underpin the Apply the Service Standard manual we\u2019re building out community spaces to house professional standards. These are our guiding principles and ways of working in DfE. We\u2019ve started by codifying the design standards as our minimum viable product (MVP). Using open code, templates and platforms that already exist for our tech and architecture communities is helping us to work in the open and use an already familiar process in DfE. DfE Technical Guidance and DfE Architecture document tech and architecture standards, principles and guidance for teams working in DfE."
+        },
+        {
+            "text": "We are building this manual in protected community time on Thursdays. We\u2019ve started with design, with the intention to support user research, delivery managers and other professions. By involving communities in the build, we are documenting ways of working and using content created by the professions in DfE, for the professions."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps for standards and assurance"
+        },
+        {
+            "text": "Feedback from research for Apply the Service Standard in DfE has been largely positive. Teams have told us that they\u2019d use the manual to apply the Service Standard across each phase of a project, as well as to prepare for assessments."
+        },
+        {
+            "text": "It is still early days for Design in DfE. We are looking at the information architecture and are planning to run a design crit so the wider community can have input."
+        },
+        {
+            "text": "This is the start of our work to support standards and assurance. We\u2019ll continue to work with our communities of practice to build on ways of working, processes and knowledge. This will enable us to continue to help teams understand how to apply the Service Standard and help us to build better services for our users."
+        },
+        {
+            "text": "We\u2019d love to speak with you if you\u2019re working on something similar, or, if you\u2019d like to hear more about our work, email kerry.lyons@education.gov.uk."
+        }
+    ]
+}
