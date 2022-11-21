@@ -1,0 +1,79 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2022/11/21/what-do-robots-know-about-good-content/",
+    "title": "What do robots know about good content?",
+    "authors": [
+        "Clare Hill - Content Designer, GDS"
+    ],
+    "categories": [
+        "Content Design"
+    ],
+    "pub_date": "2022-11-21T09:00:59+00:00",
+    "content": [
+        {
+            "text": "People have been using tools to measure the clarity of content for decades, before digital technology existed. But it was often done with a focus on \u2018readability\u2019. Readability still informs today\u2019s tools, which are often powered by algorithms. Can machines tell us if content is good or not, and what can measuring readability tell us about content quality?\n\nLet\u2019s start by looking at definitions of readability and content quality. The terms mean different things to different people, so I\u2019ll talk about my experience of these concepts in my content design work."
+        },
+        {
+            "text": "Readability is sometimes defined as how easily a reader can understand text. But you can read something without understanding it. Understanding has its own measure: comprehensibility. Readability should be defined as how easy it is to read text or the extent to which a sentence reads naturally.\u00a0"
+        },
+        {
+            "text": "What about content quality? For me, that\u2019s a measure of how well the content meets its purpose. For services, that means a user is easily able to do the thing they came to do. Does readability have a role to play in this? To answer that it helps to look at where readability measurements came from and how they work."
+        },
+        {
+            "heading": 2,
+            "text": "A short history of readability"
+        },
+        {
+            "text": "Measuring how easy it is for adults to read text started in the United States (US) in the 1940s, when there was a push to make books more accessible. Rudolf Flesch, a literacy academic, was one of the first to develop a mathematical formula. It considered average sentence lengths and syllables per word in a passage of text, and produced a score between 1 and 100. The greater the number of long words and long sentences there were, the worse the readability score.\u00a0"
+        },
+        {
+            "text": "A range of other readability formulas followed with similar approaches. They had slightly different weightings for characters or syllables per word, and sentence lengths. The Gunning Fog Index (1950s), SMOG Index (1969) and the Coleman Liau Index (1975) are well-known examples. Some of these match scores to US grade levels or school reading ages.\n"
+        },
+        {
+            "text": "In today\u2019s world of artificial intelligence (AI), readability checkers that use this technology also seem to be everywhere. They are often paid-for services that hide their workings. Some services use AI to combine several of the formulas previously mentioned, as well as new metrics they\u2019ve developed. For example some score \u2018sentiment\u2019, count \u2018lazy words\u2019 or do gender analysis on text.\u00a0"
+        },
+        {
+            "text": "AI can be effective at making suggestions to improve the clarity of text. You might already be used to this in your day-to-day work if you\u2019ve got Google\u2019s Smart Compose or Microsoft\u2019s text predictions switched on, which help you as you write emails or documents."
+        },
+        {
+            "heading": 2,
+            "text": "Testing AI with a government service start page"
+        },
+        {
+            "text": "I used a popular automated readability checker to test two paragraphs of text from the start page of a service that I was working on. I wanted to explore whether AI could be used to evidence simple and understandable content for the purposes of a (non-UK) service assessment."
+        },
+        {
+            "text": "The text scored 96 out of 100 for its \u2018quality of writing\u2019 and had a Flesch Reading Ease score of 75. This is described as \u201c7th Grade (US). Fairly easy to read\u201d. Great. The checker said it had suggestions for fixing the one instance of passive voice, one bit of intricate text and two unclear sentences. But I\u2019d need to pay to see these.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Counting on content design"
+        },
+        {
+            "text": "Whether we\u2019re talking about time-honoured formulas or grammar suggestions from bots, we\u2019re talking about readability, not content quality. \n\nThe fact that newer tools flag instances of passive voice and complex sentences makes them sound vaguely useful. But do you really need these tools if you\u2019re a content designer? You may have structured text in a certain way for good reason, with users in mind, or you and the tool do not agree on what a complex sentence is. \n\nSome of the formulas cause qualitative and quantitative concepts to collide. For example, content checkers flag \u2018polysyllabic\u2019 (words with lots of syllables) as \u2018difficult\u2019. Words such as \u2018information\u2019, \u2018original\u2019 and \u2018identity\u2019 have four syllables, but they are not difficult words. \n\nContent for services often involves minimal text and microcopy. But some formulas need at least 30 sentences to give meaningful scores. Microcopy probably wasn\u2019t a thing in the 1960s. There are many other reasons why formulas from the 20th century miss the nuances of what is \u2018easily understandable content\u2019 that is shaped by technology in the 21st century.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Right tool for the right job"
+        },
+        {
+            "text": "Using tools that employ reading age to define readability, when you\u2019re (mostly) designing services for adults is also problematic. This has been argued well by Caroline Jarrett, a forms and usability specialist.\u00a0 \n\nBut most importantly, readability scores don\u2019t tell you how to improve the quality of content. Approving a tool\u2019s grammar suggestions doesn\u2019t fix the content, it improves the readability score and that\u2019s a different thing. Good content design uses many techniques and has many parameters that are not measured by readability scores. Aspects include front-loading, word order, bulleted lists, frequent heading breaks and clear hierarchies.\n\nOne role for readability tools in user-centred design is when you need to improve lots of pages or a whole website at once. Tools can process hundreds of pages, and identify and prioritise the ones with the most issues. These can then be improved manually, according to content design principles. Pages with terrible readability scores clearly need seeing to by a content designer!\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Is it understandable?\u00a0"
+        },
+        {
+            "text": "Ultimately, what we really want to know about content is whether it is understandable, not whether it is readable. And the best way to find that out is to ask users.\u00a0"
+        },
+        {
+            "text": "User research allows us to test content in context, in the journey the user is going through, which is crucial. A grammatically perfect and clear question in a service is not useful if a user doesn\u2019t understand why they\u2019re being asked the question and what will happen next. In the service mentioned above, a user researcher in my team checked the comprehension of the start page with user research participants. I used the resulting feedback to improve parts of the content that some users found confusing."
+        },
+        {
+            "heading": 2,
+            "text": "Final thoughts"
+        },
+        {
+            "text": "Readability formulas have stood the test of time in that they are embedded in word processing software and modern writing and grammar checkers. Scores can be useful for basic high-volume evaluations of content, or doing an initial assessment of source content. But in the end they\u2019re a quantitative measure, and it\u2019s\u00a0difficult to translate such metrics into actionable assessments of content quality.\u00a0"
+        }
+    ]
+}

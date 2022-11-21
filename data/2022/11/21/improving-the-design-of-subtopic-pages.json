@@ -1,0 +1,72 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/11/21/improving-the-design-of-subtopic-pages/",
+    "title": "Improving the design of subtopic pages",
+    "authors": [
+        "Thomas Hind, Senior Product Manager, Navigation and Presentation"
+    ],
+    "categories": [
+        "Finding things",
+        "Product changes"
+    ],
+    "pub_date": "2022-11-21T14:03:43+00:00",
+    "content": [
+        {
+            "text": "One of the main ways people navigate around GOV.UK is by topic-based browsing. Topics are a set of pages covering a wide range of services and guidance, which users can then drill down into and find what they need. Topics include things like benefits or visas and immigration. By navigating through the topic, users can narrow down to what they specifically need, for example managing their tax credits or checking if they need a visa."
+        },
+        {
+            "text": "We\u2019ve been improving topic-based browsing on GOV.UK for the past year. This included running an A/B test on design changes and rolling out a new design for subtopic pages.\u00a0"
+        },
+        {
+            "text": "We also tested another variation of the new design that uses dividers and open lists instead of the expanding sections on subtopic pages."
+        },
+        {
+            "text": "That test is now complete and the results have been positive for the latest variation. We\u2019ve introduced this new design for all users as we saw much higher interaction rates. This blog post explains what we changed, how we tested it and how it looks now.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Previous design"
+        },
+        {
+            "text": "Our previous design used expanding sections, as shown below.\u00a0"
+        },
+        {
+            "text": "While it had better click through rates than the original design with 3 columns (65.1% to 61.6%), we still thought we could do better, particularly for mobile users. Mobile users were opening the expanding sections at a lower rate than those on desktop, and at a lower rate than we would expect so we wanted to investigate that further.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The new design"
+        },
+        {
+            "text": "We wanted to see if there were issues with the use of expanding sections and whether exposing the full sections to users would enable them to find what they\u2019re looking for more easily. We decided to test a new design, which uses a flat list with subheadings and dividers to organise the content. You can see that design below."
+        },
+        {
+            "text": "We ran another A/B test on these designs, which we called a B/C test to distinguish from the previous A/B test. Half of the people who visited saw the accordion design (B), while the other half saw the newer list design (C). The test ran from 4 August until 6 October."
+        },
+        {
+            "heading": 2,
+            "text": "The results"
+        },
+        {
+            "text": "The data showed quite clearly that the list design performed better, for both desktop and mobile users. Overall, clickthrough rates were 75.9% for C, compared to 66% for B."
+        },
+        {
+            "text": "On desktop, clicks were 80% (C) to 71.3% (B), while on mobile clicks were 72.7% (C) to 61.8% (B). This means that clicks on mobile for C were even higher than for desktop on B, a significant improvement."
+        },
+        {
+            "text": "Of course, clickthrough rates are not the only metric that matters but we felt the differences here were significant enough to warrant a change in design. As a result we\u2019ve removed the accordion design and all users will now see the new list design."
+        },
+        {
+            "heading": 2,
+            "text": "What we're doing next"
+        },
+        {
+            "text": "We will continue to monitor the performance of these pages and our future work will be focusing on improving topics that are performing badly in the list design and curating the remaining A to Z topics."
+        },
+        {
+            "text": "We\u2019re also going to be looking into how we can better support journeys into specialist content over the coming months. We\u2019ll continue to keep you updated on our work on this.\u00a0"
+        },
+        {
+            "text": "You may soon spot some changes to the menu bar too. We\u2019re doing some work to introduce a new, more compact design which may involve some further A/B testing. Keep an eye on this blog for updates about that."
+        }
+    ]
+}
