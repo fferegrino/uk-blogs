@@ -1,0 +1,105 @@
+{
+    "url": "https://services.blog.gov.uk/2022/11/29/the-value-of-testing-riskiest-assumptions/",
+    "title": "The value of testing riskiest assumptions",
+    "authors": [
+        "Harry Vos \u2013\u00a0Senior product manager, GDS"
+    ],
+    "categories": [
+        "Service design",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2022-11-29T10:05:16+00:00",
+    "content": [
+        {
+            "text": "In a previous blog post, I described how to prioritise the riskiest assumptions in big problem spaces. This blog post shows why we should prioritise assumptions by their risk and gives some examples of when it\u2019s been valuable."
+        },
+        {
+            "heading": 2,
+            "text": "Why other prioritisation methods struggle to bring focus to\u00a0exploration"
+        },
+        {
+            "text": "Prioritising our assumptions by risk can demand a lot from a team. We\u2019re not prioritising a backlog we already have. We\u2019re asking our team to write assumption statements from scratch. Why should we spend this extra time on prioritisation?"
+        },
+        {
+            "text": "I\u2019ve used other prioritisation methods like MoSCoW, impact vs. effort, or RICE. These are good for prioritising when we're quite confident about the solution and want to make improvements. This might be a prioritisation of components, features, user stories or products."
+        },
+        {
+            "text": "When uncertainty was higher, I\u2019ve suggested we prioritise hypotheses by impact and effort. That was quite useful to frame things as experiments to prioritise. Yet our hypotheses were always too centred on features."
+        },
+        {
+            "text": "Risk of failure doesn\u2019t just come from focusing on low value, high effort features. It also comes from limited trust between people, slow feedback loops, or slow delivery; to mention a few causes. None of these featured in our prioritisation methods. We weren\u2019t focusing enough on the things that were most likely to cause us to fail. When this happens, explorations lose focus on value. They drag on and become failed investments."
+        },
+        {
+            "heading": 2,
+            "text": "How riskiest assumptions provide focus for teams working in big problem\u00a0spaces"
+        },
+        {
+            "text": "Using riskiest assumptions gives us a way of comparing risks, like for like, across all areas of our work. In an uncertain problem space, riskiest assumptions are most likely to lose us our bets. When we spend more time testing our riskiest assumptions, we reduce uncertainty. We also reduce the cost of failure, as we learn the big things that don\u2019t work early on. That's much better than finding out later in development, or after launch."
+        },
+        {
+            "text": "I\u2019ve tried prioritising assumptions by risk myself. I found it much more valuable when we open up the evidence behind them to build on and critique. Make things open, it makes things better."
+        },
+        {
+            "text": "When you score assumptions as a team it:"
+        },
+        {
+            "text": "It\u2019s also the most fun I\u2019ve had prioritising."
+        },
+        {
+            "heading": 2,
+            "text": "When not to use riskiest assumptions testing"
+        },
+        {
+            "text": "This has less value when we\u2019re working in a much smaller problem space. Here, we should have greater certainty about what the solutions might be. This could include refining parts of an existing service in the public beta or live phase. By this stage, the value of our service should be clear. The team should already have a common understanding of the problems and opportunities. Other prioritisation methods are more useful here, and less time-consuming."
+        },
+        {
+            "heading": 2,
+            "text": "When it\u2019s been valuable"
+        },
+        {
+            "heading": 3,
+            "text": "When someone has a big idea"
+        },
+        {
+            "text": "One team I worked with were trying to confirm the need for a particular solution for businesses that could be reused across government. It was a bit like a hammer looking for nails. We should avoid coming up with solutions before we understand users and their needs."
+        },
+        {
+            "text": "To create a safe space for discussion, I asked a senior stakeholder for a one-to-one to talk about how we might get the most value out of the discovery. To prepare, I prioritised some of their riskiest assumptions. I wanted to give them credit for the good work they had done so far. To do this, I wrote down \u201cWhat we know so far\u2026\u201d next to each assumption."
+        },
+        {
+            "text": "When we met, the sponsor helped fill in some gaps in my knowledge about why they had those assumptions. I went in open-minded about their feedback. In turn, this helped them to receive my feedback well. After a positive meeting, they agreed to broaden the scope of the discovery. They were happy to approach it with less focus on a specific solution."
+        },
+        {
+            "text": "The expanded discovery found that there wasn\u2019t a clear user need for the proposed solution. As a result of talking about their riskiest assumptions, they paused to reconsider the value of continuing. The discovery also uncovered some real problems businesses face, which they shared with their colleagues."
+        },
+        {
+            "heading": 3,
+            "text": "When the risks aren\u2019t obvious"
+        },
+        {
+            "text": "The Department for Education was looking at helping adults get more secure jobs if they were at risk of losing their jobs to automation. They were testing different approaches to retraining people."
+        },
+        {
+            "text": "Nasreen Nazir and Georgina Watts facilitated theory of change sessions with their product managers every quarter to understand which potential services and products to prioritise building next. They started by placing user needs and known problems on the left, and outcomes they would like to get to on the right, before suggesting potential solutions in the middle that could help the users get from their current needs to achieving those outcomes. But potential solutions often have assumptions, which the riskiest assumptions approach can draw out."
+        },
+        {
+            "text": "For example, where they were previously discussing solutions like, \u201cwe could build users a portal to find local jobs,\u201d\u00a0 they can now tease out more detailed questions like, \u201cis it realistic to expect Local Enterprise Partnerships to upload job vacancies into a portal?\u201d Drawing out the riskiest assumptions helped to sense check which services and products to prioritise and which to leave for later."
+        },
+        {
+            "heading": 3,
+            "text": "When an alpha phase feels too big"
+        },
+        {
+            "text": "We were trying to make it easier to buy products and services for the public sector. To do so, at the end of our discovery, I facilitated the prioritisation of our riskiest assumptions."
+        },
+        {
+            "text": "We sat together to reach a consensus score for each assumption, looking at impact and confidence. It was fun watching when people thought a particular assumption should be a 9 on confidence, when others thought it should be a 3. People said things like, \u201cRemember that user research session? The users never read all that text.\u201d It was also great to see new members of the team challenging our assumptions from a fresh perspective. Going forwards, we were all referring to the same knowledge."
+        },
+        {
+            "text": "We wanted to check these scores with our stakeholders, to improve the accuracy of our prioritisation. We plotted the assumptions on a 2x2 grid, using impact and confidence. It showed stakeholders where we were most likely to start our alpha phase."
+        },
+        {
+            "text": "We used the prioritised riskiest assumptions to inform our alpha phase backlog. We knew what we most needed to learn about. Testing these assumptions helped us rule out certain approaches to improving our services. This stopped us investing lots of time into something, rather than finding out much later that it's not valuable."
+        }
+    ]
+}

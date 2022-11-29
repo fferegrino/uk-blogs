@@ -1,0 +1,73 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2022/11/29/changes-to-the-covid-19-dashboard-and-covid-19-vaccination-surveillance-report/",
+    "title": "Changes to the COVID-19 dashboard and COVID-19 vaccination surveillance report",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)"
+    ],
+    "pub_date": "2022-11-29T18:34:35+01:00",
+    "content": [
+        {
+            "text": "The COVID-19 pandemic led to enormous public interest in statistics, with sudden and urgent need to track the virus almost in real time. Whilst this was a big challenge for our statisticians, it led to real innovation in the way we manage and present data and statistics.\u00a0\u00a0"
+        },
+        {
+            "text": "UKHSA\u2019s COVID-19 dashboard has been a huge success in presenting daily updates on the latest situation in relation to infections and vaccinations, and it continues to be a crucial resource.\u00a0"
+        },
+        {
+            "text": "Why do we need to make changes?"
+        },
+        {
+            "text": "Our job as statisticians is to provide the most useful and relevant information for the current situation. Now that we\u2019ve moved to living with COVID, we need to review our reporting of COVID-19 statistics to ensure that we\u2019re looking at the right metrics for our lives today. This has meant making changes to how we present data in the COVID-19 dashboard and COVID-19 surveillance statistics, and these changes are summarised below.\u00a0\u00a0"
+        },
+        {
+            "text": "Different measures of vaccine uptake\u00a0"
+        },
+        {
+            "text": "UKHSA is currently reporting two different measures of vaccine uptake. They measure different things and shouldn\u2019t be used interchangeably:"
+        },
+        {
+            "text": "Administrative uptake\u00a0is an operational measure that reports the total number of 1st, 2nd and 3rd doses delivered during the entire COVID-19 vaccination programme, as a proportion of the eligible population. The ONS mid-2020 population estimate is used as a measure of the eligible population.\u00a0\u00a0"
+        },
+        {
+            "text": "This metric was useful at the start of the mass vaccine roll-out as a way of measuring success in delivering vaccines. It can also be calculated for all four nations of the United Kingdom and so enables some comparisons. However, it has become less useful over time: it doesn\u2019t change much week-to-week and it focuses on the original vaccine programme which is now largely in the past.\u00a0"
+        },
+        {
+            "text": "Coverage\u00a0is a much more useful way of looking at vaccine uptake now that COVID-19 and the associated vaccine programme have become embedded in our way of life. This metric reports the number of people who have been vaccinated as a proportion of the total current registered population. Crucially, for coverage, both the number vaccinated and the size of the population eligible for vaccination come from NIMS (National Immunisation Management System), a live system that includes everyone registered with the NHS."
+        },
+        {
+            "text": "Coverage is the statistic we use in England for reporting on vaccine uptake across all vaccine programmes. It isn\u2019t possible to calculate this measure across all four nations that make up the United Kingdom because not all nations have a live register such as NIMS.\u00a0"
+        },
+        {
+            "text": "The WHO guidance on COVID-19 vaccination monitoring advocates using both uptake and coverage measures but acknowledges that administrative uptake becomes less useful over time. Switching our focus to coverage enables accurate monitoring in line with the WHO guidance.\u00a0"
+        },
+        {
+            "text": "You can read more about the different measures here or in the metrics section of the COVID-19 dashboard.\u00a0"
+        },
+        {
+            "text": "What changes have we made?"
+        },
+        {
+            "text": "We are making some changes to the look of the COVID-19 dashboard and the national flu and COVID-19 surveillance statistics to focus on the vaccine coverage measures. Given that immunity wanes over time, we have also taken this opportunity to focus on the autumn booster campaign, as these are most relevant to understanding the current situation around COVID-19 vaccination.\u00a0"
+        },
+        {
+            "text": "When you open the COVID-19 dashboard from today, the first thing you will see is coverage statistics for the autumn booster campaign. Similarly, from Thursday 1 December the relevant section of the weekly COVID-19 surveillance report will be focused on the autumn booster.\u00a0\u00a0"
+        },
+        {
+            "text": "These are the most relevant and useful statistics as we move from pandemic to living with COVID. As future campaigns take place we anticipate making similar changes so that we are always reporting the most useful and relevant statistics.\u00a0"
+        },
+        {
+            "text": "The administrative uptake statistics are still available via the dashboard API and in the tables that supplement the COVID-19 surveillance statistics.\u00a0\u00a0"
+        },
+        {
+            "text": "What next?\u00a0"
+        },
+        {
+            "text": "We are working on further developments to the COVID-19 dashboard and the COVID-19 surveillance statistics to ensure they remain relevant, useful and consistent with best practice. We will keep you posted as we progress.\u00a0"
+        },
+        {
+            "text": "We welcome your feedback on these changes, our COVID-19 statistics or our statistical products more generally. Please get in touch at coronavirus-tracker@ukhsa.gov.uk or UKHSA_HOPSTATS@ukhsa.gov.uk\u00a0"
+        }
+    ]
+}
