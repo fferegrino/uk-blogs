@@ -1,0 +1,95 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2022/12/06/in-conversation-with-ben-holloway-head-of-data-and-navy-applications/",
+    "title": "In Conversation with Ben Holloway, Head of Data and Navy Applications",
+    "authors": [
+        "Ben Holloway"
+    ],
+    "categories": [
+        "Navy Digital"
+    ],
+    "pub_date": "2022-12-06T14:58:00+00:00",
+    "content": [
+        {
+            "text": "Ben Holloway, the head of Data and Navy Applications was asked to join the judging panel for the first pan-Defence Hackathon at RAF Henlow. Eighty people from the RAF, Army, Navy, Reserves and Civil Service worked together in cross-functional teams throughout the week to find solutions to MOD-wide problem sets."
+        },
+        {
+            "text": "Enabled by Astra and delivered by Appivate, Digital Academy and Navy Digital, the Defence Hackathon builds on the success of the RAF Hackathon held in 2021. Extending the Hackathon across the MOD enables the identification of talented individuals in any profession who have a technical skillset that will benefit Defence Cyber and Digital."
+        },
+        {
+            "text": "The Defence Hackathon is an opportunity to promote professional career paths within Defence and generates a sustainable network for both professional and non-professional developers to collaborate across the MOD, while valuing their skills and providing a future for our people in a technically-evolving world."
+        },
+        {
+            "text": "Ben provides his thoughts on the event below."
+        },
+        {
+            "heading": 2,
+            "text": "What did you expect of this year\u2019s Hackathon?"
+        },
+        {
+            "text": "I was privileged be one of the judges for the final, alongside senior Digital reps from other TLBs and the Chief of the Air Staff.\u00a0This was the first one I\u2019ve attended, as such, I didn\u2019t really have too many expectations around it. Teams were given criteria such as technical feasibility, business value and then executed their idea over a strict 2-day window.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What impressed you most?"
+        },
+        {
+            "text": "The fact that these were a complete mix of backgrounds, from the very senior to the very junior, who had come together to build something in only 2 days.\u00a0 There must have been 150 people there, either as competitors or as part of the support team.\u00a0"
+        },
+        {
+            "text": "Talking to the teams themselves, they were almost inappropriately enthusiastic and very diverse. It was great to see a genuine mix of backgrounds, ranks, gender, ethnicity, experiences and specialisations, both military and civilian. Not that you could see much of this at first glance \u2013 the only uniform was a hoodie with no clue as to rank. There was also no hierarchy, everyone had an equal voice, their value was judged solely on what they said or did.\u00a0\u00a0"
+        },
+        {
+            "text": "The winning team developed something special. They\u2019d chosen to attack the sustainability and environmental challenge and developed an app which used open-source thermal satellite imagery, overlaid on maps and integrated with data from smart meters, to show which buildings on a military establishment were energy inefficient.\u00a0"
+        },
+        {
+            "text": "This allowed users to then conduct analytics on the data (which they\u2019d also built tools for) and get a sense for how much money or carbon footprint they might save by doing something like installing energy saving light bulbs."
+        },
+        {
+            "text": "I left the Hackathon enthusiastic about what I\u2019d seen. There were 6 Navy people represented in the teams from a mix of places, some had worked in digital before, whereas some didn\u2019t know such jobs existed and had entered because of a personal passion. 2 of them were between jobs, on holdover, and as such one of them has subsequently joined us here in DNA.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What will you do differently at the next one?"
+        },
+        {
+            "text": "I\u2019ll attend some of the earlier days.\u00a0 The start of the week included upskilling sessions from industry partners like Apple, Digi2al and VMWare.\u00a0 They would have been pretty good, I think."
+        },
+        {
+            "heading": 2,
+            "text": "How much upskilling was required of the participants, or did they need to have the skills before they went?"
+        },
+        {
+            "text": "My understanding was that everyone had dabbled beforehand, but not all of them were deeply technical.\u00a0 There were people who attended as Delivery Managers, User Researchers and Business Analysts alongside the technical team members who did the physical development activity. They had fantastic ideas born of their individual experiences over the course of their careers and they had the skills and aptitude to do something about them. In addition, they all had a passion and aptitude for digital as the common leveller."
+        },
+        {
+            "heading": 2,
+            "text": "What attracted the new member of staff to join DNA whilst they were there?"
+        },
+        {
+            "text": "The guy we\u2019ve acquired is a holdover officer who really wanted to employ the skills he had to offer meaningful output to the RN.\u00a0 Whilst he\u2019s waiting for a permanent place on his professional training course, why would he not want to work in the RN\u2019s Software House?!\u00a0 We will take his skills and put them to good use whilst also structuring a programme of experience so that he leaves with more than he had when he joined.\u00a0"
+        },
+        {
+            "text": "DNA could become a good place for more holdover personnel to join us. They could come and learn agile, including how to work in Jira and act as a Scrum Master. Learn some credible digital skills, maybe even how to build something which might make their lives easier in future jobs. There are loads of development opportunities out there, we simply need to help people find them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What links were evident to DNA/Navy Digital's existing portfolio?"
+        },
+        {
+            "text": "We\u2019ve been thinking for a while that there\u2019s potential to offer more mobile products than simply MyNAVY / MyRAF.\u00a0 These are absolute flagship products, but there\u2019s so much more which could be done.\u00a0 The only problem has been that with only about 5% of the Navy having MOD phones or iPads, people needed to want to download them onto their personal phones.\u00a0 Any such products needed to be absolutely focussed on making the users\u2019 life better or easier.\u00a0\u00a0"
+        },
+        {
+            "text": "For example, one Hackathon team had developed an IOS app which published a QR code to the Apple Wallet which in turn could be used to grant access to an establishment and had developed the whole approval workflow to go alongside it \u2013 potentially great for temporary visitors to a naval base, such as for a homecoming. Another team had developed an app which allowed you to report potential security incidents from your phone, use the camera to take a photo and the location services to drop a pin. These alerts then went to a central dashboard where a user triaged them, could task others to respond and could issue push notifications to users in the vicinity to keep them updated. Whilst this was a great use case, it could also have been used for literally anything \u2013 building defect reporting, parcel notifications from the mail room, etc."
+        },
+        {
+            "text": "The Hackathon has really opened my eyes to what could be offered and has resulted in some follow-on conversations about where this might go."
+        },
+        {
+            "heading": 2,
+            "text": "What cross pollination would be possible between industry, education, and defence?"
+        },
+        {
+            "text": "Good question \u2013 I think it\u2019s fair to say that nothing is off the table, but that we\u2019re not much more advanced than that.\u00a0 Cross pollination is always challenging within the MOD\u2019s security requirements, but we\u2019ve now got Hack4Defence which turns academia onto the Defence problems as well as the internal Defence Hackathon.\u00a0 Is there something which could join the two\u2026?\u00a0 Maybe\u2026!\u00a0 Either way, DNA will continue to try and work with both Industry and the Education sector to develop people, skills and products which better the Navy, both today and set conditions for success in the future.\u00a0"
+        }
+    ]
+}
