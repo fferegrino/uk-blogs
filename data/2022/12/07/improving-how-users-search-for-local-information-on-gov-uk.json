@@ -1,0 +1,95 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2022/12/07/improving-how-users-search-for-local-information-on-gov-uk/",
+    "title": "Improving how users search for local information on GOV.UK",
+    "authors": [
+        "Jonathan Nichols, Lead Product Manager"
+    ],
+    "categories": [
+        "How we work",
+        "Product changes",
+        "Working with us"
+    ],
+    "pub_date": "2022-12-07T12:30:07+00:00",
+    "content": [
+        {
+            "text": "There are many places on GOV.UK where users enter their postcode to find services local to them. These include services provided by their local authority, such as paying council tax or disposing of hazardous waste, or finding the nearest number plate supplier."
+        },
+        {
+            "text": "These postcode lookups are used hundreds of thousands of times each month, and it\u2019s obviously important that users get matched to the correct results."
+        },
+        {
+            "heading": 2,
+            "text": "The problem"
+        },
+        {
+            "text": "Behind the scenes, these lookups used a combination of datasets from different sources to match a postcode to a geographical area or local authority. This was a very hands-on process, requiring regular updates by our developers as new data became available. This happened when new postcodes were created or local authorities merged, or their boundaries changed. The new data needed to be manually imported, which took a long time and generally required additional tweaking of the data to make it work properly. Between updates, users would potentially be getting incorrect information."
+        },
+        {
+            "text": "It was also slow and difficult to scale up the lookups when there was more demand - we found during some peak times that things struggled and users couldn\u2019t get results."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "After a thorough review process, we concluded that we should move to using an API-based solution, which means the data is fetched regularly and automatically."
+        },
+        {
+            "text": "When exploring this type of solution, we considered a few factors:"
+        },
+        {
+            "heading": 3,
+            "text": "Reliability and scalability"
+        },
+        {
+            "text": "How many requests can the solution handle? At the peak of coronavirus tier checking, our postcode checker was receiving up to 6,000 requests per second."
+        },
+        {
+            "heading": 3,
+            "text": "Accuracy"
+        },
+        {
+            "text": "How frequently will the data be updated, so that users receive accurate results? Our developers manually updated the data every 3 months so we were looking for something more frequent but with less manual work needed."
+        },
+        {
+            "heading": 3,
+            "text": "Cost"
+        },
+        {
+            "text": "We needed to make sure we were spending taxpayers\u2019 money efficiently and delivering great value."
+        },
+        {
+            "heading": 3,
+            "text": "Technical fit"
+        },
+        {
+            "text": "We carried out some investigations to ensure that there were no technical limitations preventing us from integrating the API into our systems."
+        },
+        {
+            "heading": 2,
+            "text": "The solution"
+        },
+        {
+            "text": "Ultimately, we settled on using the Ordnance Survey\u2019s (OS) Places API. This ended up being the best solution for a couple reasons. Firstly, GOV.UK can access the API for free under the Public Sector Geospatial Agreement. Secondly, their data is updated daily (compared to every 3 months when we updated the data manually) and their API has a 99.9% uptime."
+        },
+        {
+            "text": "To make the Places API work best for us, we built our own application, called Locations API, which fetches data from the OS and stores it ready for our various tools to use. This means we have full control over how it works with those tools, and can easily and quickly scale it up if necessary."
+        },
+        {
+            "text": "We had to make some changes to our tools that use the data, as they work with slightly different data structures."
+        },
+        {
+            "text": "We took care to design our application so that it doesn\u2019t overload the Ordnance Survey\u2019s system, using what\u2019s known as a caching approach. In practice this means our application stores all of the postcode data and continually checks them against the OS Places API. We do this at a rate well within the API\u2019s threshold of 600 requests per minute, cushioning the impact of any spikes in demand."
+        },
+        {
+            "heading": 2,
+            "text": "What this means"
+        },
+        {
+            "text": "As a result of these changes, users entering their postcode to find information local to them will get more accurate results. We also plan to make use of the new data source to improve how we deal with situations where a user\u2019s postcode spans several local authorities."
+        },
+        {
+            "text": "Also, far less developer time and effort is now needed to maintain things. The system runs automatically and requires minimal maintenance."
+        }
+    ]
+}

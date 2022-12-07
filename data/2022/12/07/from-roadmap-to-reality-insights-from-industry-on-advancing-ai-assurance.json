@@ -1,0 +1,50 @@
+{
+    "url": "https://cdei.blog.gov.uk/2022/12/07/from-roadmap-to-reality-insights-from-industry-on-advancing-ai-assurance/",
+    "title": "From Roadmap to Reality: Insights from Industry on Advancing AI Assurance",
+    "authors": [
+        "Nuala Polo"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Assurance"
+    ],
+    "pub_date": "2022-12-07T08:53:13+00:00",
+    "content": [
+        {
+            "text": "As set out in the Government\u2019s National AI Strategy, the UK aims to establish the most trusted and pro-innovation system for AI governance in the world. A key component of getting this light-touch and pro-innovation governance right, is delivering on the Strategy's aim to build a world-leading AI assurance ecosystem, as set out in the CDEI\u2019s Roadmap to an effective AI assurance ecosystem. AI assurance will help to drive the adoption of AI by building justified trust in AI systems by reliably evaluating and then communicating whether or not these systems are trustworthy.\u00a0"
+        },
+        {
+            "text": "Since publication of the Roadmap, we\u2019ve focused on engaging with industry stakeholders from startups, SMEs, and multinationals\u00a0 to understand current attitudes towards, and engagement with, AI assurance, determining where CDEI is best placed to support industry and drive the adoption of AI assurance across the economy.\u00a0"
+        },
+        {
+            "text": "Today we are publishing our \u201cIndustry Temperature Check: Barriers and Enablers to AI Assurance\u201d. This report highlights key barriers to, and enablers of, AI assurance within the HR and recruitment, finance, and connected and automated vehicle (CAV) sectors.\u00a0"
+        },
+        {
+            "text": "The findings from this report draw on engagements including:\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Developing our sector-specific focus\u00a0"
+        },
+        {
+            "text": "We chose to\u00a0 adopt a sector-based approach to align with the UK\u2019s decentralised, context-based approach to AI regulation, as outlined in \u201cEstablishing a pro-innovation approach to AI regulation\u201d. AI raises unique risks depending on its context of use, and different sectors have varying levels of readiness and skill for its implementation and governance. As such, the risks and appropriate regulatory responses must be considered in the relevant context. Our research tracked industry engagement with AI assurance across three discrete sectors:\u00a0"
+        },
+        {
+            "text": "These sectors were selected based on the variety of the most prevalent risks that are introduced by increased AI adoption. The use of AI in HR and recruitment primarily introduces risks of discriminatory bias, requiring system fairness; the use of AI in finance raises risks of cyberattack and financial fraud requiring technical security and robustness; and the use of AI in CAV poses risks to human life, requiring safety and routes to redress. By focusing on a range of sectors with unique risks, the report aims to identify a wide breadth of barriers and enablers that are likely to be faced by other sectors in the wider economy.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Next steps\u00a0\n"
+        },
+        {
+            "text": "This report will inform the work of CDEI as we continue to encourage industry adoption of AI assurance techniques and standards. We will now begin to look towards practical support to ensure that we are continuing to drive forward the vision of the Roadmap. To this end, the CDEI will be collaborating with techUK to develop a portfolio of case studies of AI assurance good practice to address the notable desire for signposted guidance identified in the Industry Temperature Check.\u00a0"
+        },
+        {
+            "text": "These case studies will demonstrate how organisations are using different AI assurance techniques, like impact assessments and performance testing, in practice. This is a valuable opportunity for companies at the cutting edge of AI assurance to showcase their practical approaches to measuring, evaluating and communicating the trustworthiness of AI systems. Submissions are still open, and we invite and encourage industry to submit their case studies of AI assurance techniques for inclusion."
+        },
+        {
+            "text": "If you have any questions or would like to find out more about this report, please contact us at ai.assurance@cdei.gov.uk."
+        }
+    ]
+}
