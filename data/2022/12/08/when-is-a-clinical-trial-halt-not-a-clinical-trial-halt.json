@@ -1,0 +1,65 @@
+{
+    "url": "https://medregs.blog.gov.uk/2022/12/08/when-is-a-clinical-trial-halt-not-a-clinical-trial-halt/",
+    "title": "When is a clinical trial halt not a clinical trial halt?",
+    "authors": [
+        "Martin O'Kane",
+        "Maria UrdanetaAbate"
+    ],
+    "categories": [
+        "Clinical Trials"
+    ],
+    "pub_date": "2022-12-08T09:32:35+00:00",
+    "content": [
+        {
+            "text": "As the regulator, the safety of those volunteering to participate in clinical trials is our first priority, and our oversight of trial conduct is informed by trial sponsors efficiently notifying us of safety issues during the conduct of their trial. This blog aims to clarify regulatory expectations for notification of temporary halts via a substantial amendment and requests to restart a trial after a temporary halt has been notified."
+        },
+        {
+            "text": "What constitutes a temporary halt? "
+        },
+        {
+            "text": "A\u00a0temporary halt\u00a0of a trial is a stoppage of the trial as a whole, or a stoppage at one or more trial sites to protect participant safety or avoid potential harm to participants.\u00a0 This could occur where protocol stopping rules have been triggered, or via a stoppage which is not envisaged in the approved protocol. \u00a0By definition, a temporary halt is one where there is an intention to resume the trial."
+        },
+        {
+            "text": "When a trial is temporarily halted, the MHRA and the reviewing ethics committee should be informed\u00a0within 15 days. The notification should be made as a substantial amendment, clearly explaining what has been stopped and the reasons for the suspension. The report should also explain the scope of the halt (e.g., stopping recruitment, interrupting treatment)."
+        },
+        {
+            "text": "Any participating sites should also be informed and provided with relevant information relating to participant management. In addition, NHS R&D offices and funders should be informed in accordance with local policies/procedures."
+        },
+        {
+            "text": "To restart a trial that has been temporarily halted, the sponsor should make a subsequent request as a substantial amendment providing evidence that it is safe to restart the trial. \u00a0If a sponsor decides not to recommence a temporarily halted trial, the MHRA and ethics committee must be notified in writing within 15 days of the decision, using the end-of-trial declaration form and including a brief explanation of the reasons for ending the trial prematurely."
+        },
+        {
+            "text": "Study halt per protocol and stopping rules"
+        },
+        {
+            "text": "For some clinical trials the protocol should define study stopping rules (e.g., first-in-human/early phase studies, some dose escalation designs, studies including vulnerable population or healthy volunteers) as a precautionary measure to safeguard the study participants. In these cases, the protocol should clearly outline decision points and criteria for the situation where stopping rules are met."
+        },
+        {
+            "text": "The study stopping rules are mainly based on safety aspects, and in some studies may include PK exposure cap stopping rules (e.g., based on Cmax and AUC). It is expected that the stopping rules in healthy volunteer\u2019s studies should include, but not be limited to: a \u2018serious\u2019 adverse reaction (i.e. considered as, at least, possibly related to the IMP administration) in one subject; or \u2018severe\u2019 adverse reactions (i.e. considered as, at least, possibly related to the IMP administration) in two subjects, independent of within or not within the same system-organ-class."
+        },
+        {
+            "text": "For dose-escalation studies, decision-making criteria for adapting the planned dose escalation steps based on emerging clinical data should be detailed in the protocol. When stopping rules are used to decide dose escalation, if the stopping rules are triggered, dose escalation will be halted as per protocol and in this case is not necessary to notify the MHRA of the escalation halt. However, deviations from the pre-specified dose escalation and decision-making criteria would warrant the submission of substantial amendment. Substantial amendments will also be needed where the dose escalation stopping rules have been triggered or the dose escalation has reached a pre-defined maximum exposure and an integrated analysis of available data leads to the Sponsor\u2019s conclusion that further careful escalation is warranted. In this case, the dose escalation restart will require the MHRA approval via a substantial amendment."
+        },
+        {
+            "text": "Circumstances when a notification via a substantial amendment is not needed. "
+        },
+        {
+            "text": "A notification of a temporary halt is not expected where recruitment or trial conduct may be temporarily paused for logistical reasons, for example, trial team unavailability or a transient supply issue. \u00a0Similarly, if a trial is \u2018paused\u2019 on grounds other than safety, is not normally considered a \u2018temporary halt\u2019 and a notification to the regulator is not needed."
+        },
+        {
+            "text": "A scenario can also occur where a trial is \u2018paused\u2019 to determine if a temporary halt is warranted or necessary.\u00a0 In this case, the notification to the regulatory authority is not needed unless this proves to be the case. Where the investigation concludes that an \u201cofficial\u201d temporary halt is not warranted then the trial may continue without a notification or permission to restart. Such investigations must be conducted without delay, otherwise a substantial amendment notifying of the halt should be submitted."
+        },
+        {
+            "text": "In protocols that include both options of pausing and halting the study, it is important that the \u2018pause\u2019 criteria and the definitive stopping rules (halting criteria) are clearly differentiated and defined."
+        },
+        {
+            "text": "Avoiding issues on protocol review "
+        },
+        {
+            "text": "Often questions are raised on protocol assessment because sponsors conflate their intentions for an \u201cofficial\u201d temporary halt with their plans to determine if a temporary halt is necessary following a \u201cpause\u201d.\u00a0 We recognise that different sponsors and different regions may use the terms \u201chalt\u201d and \u201cpause\u201d interchangeably; however, in reality this should not matter as long as the protocol is clear about the sponsors intentions and the regulator can be assured of the ongoing oversight of participant safety. Particular care should be taken in the case of first-in-human trials and/or healthy volunteer trials where less is known about the investigational medicinal product and the risk versus benefit is very different than in later phase trials - these will as always be assessed on a case-by-case basis but the considerations described above are still relevant."
+        },
+        {
+            "text": "Overall, sponsors are advised to clearly define decision-making criteria in the protocol and, when applicable, define appropriate and unambiguous stopping rules."
+        }
+    ]
+}
