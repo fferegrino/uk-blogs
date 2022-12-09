@@ -1,0 +1,50 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2022/12/09/some-changes-to-the-public-sector-digital-accessibility-regulations/",
+    "title": "Some changes to the public sector digital accessibility regulations",
+    "authors": [
+        "Chris Heathcote, Product Manager, Accessibility Monitoring"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Regulations",
+        "Community",
+        "Content"
+    ],
+    "pub_date": "2022-12-09T11:36:16+00:00",
+    "content": [
+        {
+            "text": "At the end of October the public sector body accessibility regulations were amended to make sure they can continue to operate now that the UK has left the European Union. The UK no longer receives changes to regulations made in the EU, such as changing the version of the technical standard."
+        },
+        {
+            "text": "This amendment makes no change to the current expectations of accessibility for public sector websites and mobile apps in the UK. The applicability, exemptions and enforcement process all remain the same."
+        },
+        {
+            "text": "The model accessibility statement and monitoring process are now set by the UK Government rather than the European Commission. We have published the model accessibility statement, which currently remains the same as the previous EC version, and information about how we test."
+        },
+        {
+            "text": "The technical standard for the regulations in the UK is now the Web Content Accessibility Guidelines (WCAG) version 2.1, to level AA. These are published by the World Wide Web Consortium (W3C). Previously the standard was EN 301 549, which took the WCAG standard and made minor amendments to it, mainly about mobile app accessibility. WCAG is far more well known and used in the industry, and our guidance about meeting the regulations has always referenced WCAG 2.1. We believe if there are any changes needed in WCAG for mobile apps, they should be made through the W3C\u2019s open standards process for all rather than creating another standard."
+        },
+        {
+            "heading": 2,
+            "text": "WCAG 2.2"
+        },
+        {
+            "text": "W3C are working on an updated version of WCAG at the moment - WCAG 2.2. This will include some new criteria that websites and mobile apps will need to meet. A draft of WCAG 2.2 is available now, but the final approved standard is not expected to be published until early 2023."
+        },
+        {
+            "text": "This is likely to include improvements to:"
+        },
+        {
+            "text": "The legislation change means that this will automatically become the standard that is expected for public sector websites and mobile apps. However, we realise that organisations will need some time to check their sites and apps, see if they meet the new standard, and make any fixes needed."
+        },
+        {
+            "text": "Once the new standard is published, we will start updating the guidance on GOV.UK that previously mentioned WCAG 2.1 and we will work on ways to assess the new criteria. We will start monitoring for the new WCAG 2.2 criteria in early 2024, assuming publication of the standard is not delayed."
+        },
+        {
+            "text": "If you rely on third party code or frameworks, for example the GOV.UK Design System, or have outsourced parts of your websites or apps, you should start a conversation with your providers about what their plans are to support WCAG 2.2."
+        },
+        {
+            "text": "We understand that this will be extra work for website, app and service teams around the public sector, but some of the new criteria, such as accessible authentication, will make sites and apps a lot easier for everyone to use.\u00a0\u00a0"
+        }
+    ]
+}
