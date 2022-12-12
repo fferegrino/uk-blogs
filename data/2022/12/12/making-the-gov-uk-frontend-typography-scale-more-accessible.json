@@ -1,0 +1,78 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2022/12/12/making-the-gov-uk-frontend-typography-scale-more-accessible/",
+    "title": "Making the GOV.UK Frontend typography scale more accessible",
+    "authors": [
+        "Owen Jones - Senior Frontend Developer, GDS"
+    ],
+    "categories": [
+        "Design System",
+        "Frontend"
+    ],
+    "pub_date": "2022-12-12T09:00:08+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK Design System team is constantly iterating the Design System to make sure it remains as usable as possible for service teams and people using government services."
+        },
+        {
+            "text": "The typography scale gives service teams a standardised set of font sizes, which they can use to style headings, paragraphs and other pieces of text. The typography scale helps teams make sure text looks consistent within their own service and across all services on GOV.UK."
+        },
+        {
+            "text": "The font scale was introduced in 2012 and reflected the web design standards of the time. It was improved in 2018 when the team did some work to improve the original typography scale.\u00a0"
+        },
+        {
+            "text": "In 2023 we will be reviewing and improving our typography standards to make sure they\u2019re up-to-date and as accessible as possible for users and service teams."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re changing the scale"
+        },
+        {
+            "text": "To provide the most benefits to users and service teams, we want to make sure the typography:"
+        },
+        {
+            "text": "Through investigation with our community since the last review of the font scale, service teams have told us:"
+        },
+        {
+            "text": "While large font sizes becoming smaller on smaller screens can be ok (in fact it might make them easier to read on smaller screens), making small font sizes smaller on small screens is not good for visually impaired users. There isn\u2019t a minimum font size mentioned in the Web Content Accessibility Guidelines (WCAG), but it does note in 1.4.4: resize text and 1.4.12: text spacing that text should be configured to be resizable by users."
+        },
+        {
+            "text": "It is possible to resize web pages built using GOV.UK Frontend, and therefore possible to bypass the smaller font sizes, but this causes more work for service teams who have to make sure our styles work for their service and users. By making these changes to our typography scale, service teams will not have to spend time on adjustments to make sure it\u2019s accessible for their users. The changes will also make it easier for service teams to use best practices such as avoiding fonts that are too small using GOV.UK Frontend.\u00a0"
+        },
+        {
+            "text": "Other evidence to support the case against smaller font sizes includes the British Dyslexia Association\u2019s recommendations on font size which are to not go below 12pt, the rough equivalent to 16px or 1rem."
+        },
+        {
+            "heading": 2,
+            "text": "What changes we\u2019re making"
+        },
+        {
+            "text": "First, we\u2019re making 4 specific changes to the values in the scale:"
+        },
+        {
+            "text": "We\u2019re also updating the size of our typography classes. Our typography class suffixes, sometimes known as \u2018t-shirt\u2019 sizes, are the letters that appear at the end of our classes to signify the text size the class will apply to an HTML element. For example, users can use \u2018govuk-body\u2019 to get the standard body text styling, the classes \u2018govuk-body-l\u2019 for larger text and \u2018govuk-body-s\u2019 for smaller text. The issue we\u2019ve identified is with size consistency. Different typography CSS classes will produce different text sizes when using the same suffix. For example, \u2018govuk-heading-l\u2019 is a different size to \u2018govuk-body-l\u2019.\u00a0"
+        },
+        {
+            "text": "To solve this problem, we will be aligning our typography class suffixes to produce the same sizes regardless of class prefixes. Ensuring that our class suffixes are aligned will mean that all our typography classes will reliably have the same size on the typography scale associated with the same semantic suffix. For example, headings, legends and labels will all display typography scale value 36 when they use the \u201cl\u201d suffix. This will make our typography classes more consistent and therefore easier to use."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We will be testing our proposed implementation against our own components and making any necessary adjustments. After this we will be reviewing our guidance to make sure it\u2019s in line with our changes."
+        },
+        {
+            "text": "As this is a significant update to one of our fundamental styles, we\u2019ll split the changes up into smaller major releases. One GOV.UK Frontend release will include the changes to font scale and alignment of semantic suffixes in GOV.UK. Another release will include the removal of 14. We expect these releases to be ready across 2023."
+        },
+        {
+            "heading": 2,
+            "text": "What should I do to prepare for these changes?"
+        },
+        {
+            "text": "If you are working on a service that uses GOV.UK Frontend, we advise doing the following:"
+        },
+        {
+            "text": "If you\u2019d like to investigate this work further and assess the potential impact on your service, please get in touch with the design system team."
+        }
+    ]
+}
