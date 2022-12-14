@@ -1,0 +1,123 @@
+{
+    "url": "https://services.blog.gov.uk/2022/12/14/how-content-design-helped-to-frame-a-new-service-around-nhs-data-standards/",
+    "title": "How content design helped to frame a new service around NHS data standards",
+    "authors": [
+        "Nadia Huq \u2013 Lead content designer, NHS Digital"
+    ],
+    "categories": [
+        "Naming things",
+        "Service design"
+    ],
+    "pub_date": "2022-12-14T09:46:24+00:00",
+    "content": [
+        {
+            "text": "In 2021 I joined a discovery led by data expert Irina Bolychevsky of NHS England. The focus was how we could help information professionals, developers and others find the standards needed to support interoperability in the NHS."
+        },
+        {
+            "text": "Interoperability allows IT systems to communicate. An example is nurses being able to update GP records directly using their own systems instead of sending emails."
+        },
+        {
+            "text": "To achieve this, everyone needs to use standards to collect and format information in the same way and have the confidence to share it across organisational boundaries. The term \u2018interoperability standards\u2019 refers to the standards needed to achieve this."
+        },
+        {
+            "text": "Interoperability is an important part of the government\u2019s goal to reshape health and social care using data. The pandemic showed how important it is that systems can communicate quickly and reliably with one another. In a modern healthcare system staff should be able to access information straight away, no matter its source."
+        },
+        {
+            "text": "One barrier in the health and social care sector however, is that interoperability standards are published by multiple organisations, making them hard to find. Our ambition was to solve that."
+        },
+        {
+            "heading": 2,
+            "text": "The confusion around language"
+        },
+        {
+            "text": "Starting this work, the first problem we found was there didn\u2019t appear to be widely used language conventions for talking about interoperability and standards."
+        },
+        {
+            "text": "Stakeholders had different understandings of what \u2018interoperability standards\u2019 were or what the terms \u2018interoperability\u2019 or \u2018standards\u2019 meant, with the term \u2018standard\u2019 used to describe lots of different things. Much of the information that existed was academic, confusing and sometimes inconsistent."
+        },
+        {
+            "text": "This meant that people were talking to - but not always understanding or agreeing with - one another, an issue confirmed in user research:"
+        },
+        {
+            "text": "\u201cThe thing is\u2026there are different definitions of interoperability. That [contract that has interoperability as a requirement] is going to fail, because the people who issued it don\u2019t really understand what interoperability means\u201d Chair, interoperability discussion forum"
+        },
+        {
+            "text": "\u201cDifferent people mean different things by \u2018standard\u2019\u201d Data Architect, NHS Digital"
+        },
+        {
+            "text": "\u201cA key question at the moment is whether we have the technical knowledge to be able to assess against interoperability standards\u201d Head of Technology Standards and Assurance, NHSX"
+        },
+        {
+            "text": "There was also the problem that the word \u2018interoperability\u2019 is not well understood by non-experts. What did all this mean for people on the frontline? As one user put it:"
+        },
+        {
+            "text": "\u201cYou do have to get used to the language...there is quite a steep learning curve!\u201d IT supplier"
+        },
+        {
+            "text": "This was an important finding. Research by the Behavioural Insights Team suggests that if people don\u2019t understand something, or if terms mean different things to different people, this could be a major barrier to communication and ultimately achieving change."
+        },
+        {
+            "text": "If we wanted people to adopt standards, and central staff to hold them to account for using them, we had to start by helping everyone speak the same language."
+        },
+        {
+            "heading": 2,
+            "text": "Rethinking interoperability as our focus"
+        },
+        {
+            "text": "A related question was whether framing this service around the standards needed for interoperability was the right approach."
+        },
+        {
+            "text": "Yes, standards are essential for joining up care but there are other benefits, such as it\u2019s cheaper to use the same technical specifications than build bespoke integrations between different solutions. Arguably, those benefits might be equally important to healthcare leaders."
+        },
+        {
+            "text": "We also heard that not all care settings have the resources to do all the work needed to join up their IT systems right now, but there\u2019s still value in standardising how data is structured so they can share it later."
+        },
+        {
+            "text": "The more we learnt, the more it felt like framing the service around interoperability risked turning people away, either because they didn\u2019t understand the language, weren\u2019t aware of all the benefits realised by adopting standards or they didn\u2019t feel in a position to achieve interoperability right now."
+        },
+        {
+            "text": "Our hope was that reframing the service away from the policy goal (interoperability) and towards the action users could take (using standards) would increase standards usage, helping get everyone closer to interoperability in the long run."
+        },
+        {
+            "heading": 2,
+            "text": "Exploring a new name for the service"
+        },
+        {
+            "text": "With the problem identified, the team set about finding a way to reframe the service in a way that would help all our users find, understand and use these standards."
+        },
+        {
+            "text": "Our user researcher explored the search terms people were using to find these standards. I researched language used by similar services in the UK and internationally to see where we could align and help tap into any existing mental models users might have."
+        },
+        {
+            "text": "We also held a naming workshop with stakeholders to get their views and understand any sensitivities around specific terms."
+        },
+        {
+            "text": "As a result, over several iterations and following extensive user testing, we changed the short and long service names from:"
+        },
+        {
+            "text": "To:"
+        },
+        {
+            "text": "The new name is still being tested but so far the changes seem to be helping users better understand the scope of the service. As one person remarked, \u201cit does what it says on the tin\u201d."
+        },
+        {
+            "text": "It\u2019s also had an unexpected benefit of helping us avoid scope creep, which has been a real challenge in a space with so many unmet user needs. By giving the service a clear name, it\u2019s become harder to see how it could be changed to encompass a lot of other content or features and still be clear enough for users."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "The NHS Data Standards Directory is now live and we welcome feedback. We know we have a long way to go to make it as valuable as users need it to be."
+        },
+        {
+            "text": "However, this service is only one small part of a bigger ambition. During the original discovery 9 barriers to interoperability were identified (links to supplier website), 7 of which extend beyond the remit of this service."
+        },
+        {
+            "text": "Now, new teams are exploring problems such as how you speed up the standards development cycle or improve the quality of data standards - all through that vital user-centred, agile, lens."
+        },
+        {
+            "text": "It will take many more years to achieve interoperability but by continuing to listen to people on the frontline and designing services around them, we have a much better chance of getting there."
+        }
+    ]
+}
