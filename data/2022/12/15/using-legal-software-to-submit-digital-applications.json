@@ -1,0 +1,67 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2022/12/15/using-legal-software-to-submit-digital-applications/",
+    "title": "Using legal software to submit digital applications\u00a0",
+    "authors": [
+        "Andy Roddy, Senior Product Manager"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2022-12-15T13:34:26+00:00",
+    "content": [
+        {
+            "text": "As of 30 November this year, applications into HM Land Registry are \u2018digital by default\u2019. This means you can submit your applications through our portal using the Digital Registration Service, or by using legal software connected to our systems. We know many customers are starting to use this kind of legal software (we\u2019ve seen an increase of around 20% this year) so now is a good time to look at why.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the legal software connects to us\u00a0"
+        },
+        {
+            "text": "We\u2019ve built a series of application programming interfaces (APIs) that allow some legal software to link in directly to our systems \u2013 with strict controls to protect the integrity of the register \u2013 to either draw information from or submit information to the Land Register. APIs are essentially digital interfaces which legal software developers can \u2018plug into\u2019. This means you can submit applications or use other HM Land Registry services using a legal software provider, within your own case management system or through a direct integration with our system if your IT team can build that connection. We already see hundreds of thousands of digital applications come to us from customers using legal software connected to our APIs \u2013 over a third of our applications are submitted via this route.\u00a0"
+        },
+        {
+            "text": "Over the past few years, more and more customers have started working with us this way, and we\u2019re investing in improvements. We are working with our customers more than ever, through the Business Gateway community (Business Gateway is just the name we use for those APIs when working with software developers), to deliver exciting, new services that our users want.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why use legal software connected to our services?\u00a0"
+        },
+        {
+            "text": "With this in mind, as long as applications come to us digitally, we do not have a preference for how our customers submit applications. Customers can choose to use the portal for interacting or transacting with us or, if they want a more tailored and integrated experience, they can use legal software connected to our APIs.\u200b\u200b\u00a0"
+        },
+        {
+            "text": "The portal offers our professional customers a free, web-based service for getting information from HM Land Registry and making changes to the register. We are digitising many of the existing electronic processes to make it easier to use, increase levels of automation, and reduce errors and overall processing times.\u200b\u200b\u00a0"
+        },
+        {
+            "text": "The portal will not replicate all of the features of legal software but it will provide customers with everything required to get information from, and make changes to, the register.\u200b\u00a0"
+        },
+        {
+            "text": "There is no single model of legal software. Each is developed by a different team for a different customer base, so it really depends on the type of work you do as to the benefits you will see. However, we want to ensure as wide a range of benefits as possible are available to all our customers. Some of the benefits of using integration via legal software connected to our APIs could be:\u00a0"
+        },
+        {
+            "text": "You can also link into other systems and services within the case workflow such as for submissions with stamp duty land tax, Companies House and ordering searches.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our focus and direction"
+        },
+        {
+            "text": "Moving our applications to be \u2018digital by default\u2019 is just the start for how we want to provide digital services that meet our customers\u2019 needs and support high quality applications to change the register. As it becomes possible to do more through APIs, services can be transformed to meet customers\u2019 differing needs seamlessly.\u00a0"
+        },
+        {
+            "text": "We set up our Business Gateway Community in 2021 to work with software developers and our customers to understand their priorities, co-design new services and continually share our roadmap of new services and features for the channel. \u00a0"
+        },
+        {
+            "text": "In the coming weeks we\u2019ll be launching our newest service \u2013 official search with data, which provides some of the data held within the PDF result of an OS1 (as well as a PDF certificate). Customers have told us having this data will significantly save them time processing each case as their systems will be able to tell what the OS1 result contains and take appropriate action, without opening a PDF.\u00a0"
+        },
+        {
+            "text": "We\u2019ve also launched an 'enhancements list' for members of the Business Gateway Community, where customers can vote, comment and add new items they\u2019d like us to prioritise for development. We use this to inform our strategy and which new services we should build next. You can find out how to join the community on our GOV.UK pages.\u00a0"
+        },
+        {
+            "text": "We know we need to keep providing the latest up to date technology and continually improve our services, keeping in mind the three key outcomes we\u2019re working towards:\u00a0"
+        },
+        {
+            "text": "There is much more information about how you can start using our services by connecting to our APIs, resources for developers, and our future roadmap\u00a0for the channel, to be found within our GOV.UK pages. We have a list of suppliers online too, and guidance on how you can join the Business Gateway Community to help shape the future development of the service. You can also listen to our digital applications podcast."
+        }
+    ]
+}
