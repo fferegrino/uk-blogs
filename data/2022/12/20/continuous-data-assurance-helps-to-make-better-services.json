@@ -1,0 +1,49 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2022/12/20/continuous-data-assurance-helps-to-make-better-services/",
+    "title": "Continuous Data Assurance Helps to Make Better Services",
+    "authors": [
+        "Dean Wanless"
+    ],
+    "categories": [
+        "Energy Performance Certificates"
+    ],
+    "pub_date": "2022-12-20T11:28:19+00:00",
+    "content": [
+        {
+            "text": "In September 2020, the Energy Performance of Buildings Register Find an energy certificate service went live on GOV.UK. This was DLUHC\u2019s first public-facing digital service and replaced a mature but out-dated service that had been run by an external supplier for over a decade."
+        },
+        {
+            "heading": 2,
+            "text": "The legacy register"
+        },
+        {
+            "text": "When Energy Performance Certificates (EPCs) were originally introduced they were part of a Home Information Pack (HIP) where printed material was handed over to a buyer as part of the home buying process. HIPs didn\u2019t last for very long. They were introduced in late 2007 and were abolished in 2010. The EPC requirement for selling or leasing homes remained."
+        },
+        {
+            "text": "During this early period for EPCs, the certificate when it was sent to the register was effectively two parts; an XML representation of the collected data and a PDF certificate to be printed. This approach changed in 2012, when the PDF element was dropped from the data sent to the register, though a PDF was still rendered through the front end based on the contents of the XML data."
+        },
+        {
+            "heading": 2,
+            "text": "Redevelopment as a service on GOV.UK"
+        },
+        {
+            "text": "As with any good government digital service, the register was redeveloped with a firm focus on user needs and accessibility. Because of this, we moved away from providing EPCs as PDFs. PDFs aren\u2019t great for accessibility and rarely comply with open standards. We decided that instead of rendering PDFs we would serve certificates as HTML documents based on the XML files. This allows us to develop highly accessible documents with a design that can be easily iterated and improved based on continuing user research."
+        },
+        {
+            "text": "Transferring data from a legacy system to a new one is always a concern in digital development, but transferring XML files was a more robust process than others that were explored. We considered extracting and transforming data from an Oracle database that stored the EPC data points extracted from the original XML, but our quality assurance (QA) processes showed that this wasn't reliable enough to guarantee lossless transfer of register data to the new system.\u202f The legacy system stored all the EPC XML documents ever submitted to the register in dedicated WORM storage (write once, read many times). This provided the most reliable source of truth to import historical EPCs into the new system. We transferred over 20 million XML files (including any embedded PDF documents) from the old register to the new one, to ensure we continue to hold all the data exactly as it was originally submitted."
+        },
+        {
+            "heading": 2,
+            "text": "Discovering and fixing issues via good QA"
+        },
+        {
+            "text": "Since going live with the new service we have discovered an issue with some old EPCs that were made to be included in HIP packs. We found that the data in the XML didn\u2019t always match the data that was shown in the accompanying PDF document; for some certificates the property address recorded in the XML was incorrect. In some cases the property address was replaced by that of the energy assessor submitting the certificate, but in others with a different address entirely. Each of these mismatched addresses was replicated across many assessments. The new register service is based on the addresses recorded in the XML data, which meant that searching for certain postcodes returned a list of over 4,000 EPCs. This made it very difficult for the owners or tenants of properties with these postcodes to find their EPCs when they needed them to sell or lease their property."
+        },
+        {
+            "text": "Further investigation showed us these incorrect XML documents were produced by software used by energy assessors in 2008 that was provided by energy assessment schemes that are long since defunct. EPCs have an eligibility of 10 years, so all of the affected certificates had expired over three years ago. Given that there was an impact on users being able to find their current valid EPCs, we took the decision to cancel approximately 37,000 expired EPCs (out of over 27 million energy assessments that the register holds) that we identified as being mis-addressed. Our regulations do not allow us to delete data for a minimum 20 year period, but flagging them as cancelled means that they are excluded from display on the public-facing register websites, while we continue to hold the original XML file."
+        },
+        {
+            "text": "Continuous assurance of a large data asset is an important part of running a live service. We\u2019d successfully imported all XML files from the old register but QA hadn\u2019t revealed this specific issue with historical data quality. This isn\u2019t surprising given that it was an issue that impacted less than 0.14% of assessments . It was only through ongoing work on our data and by using our service desk channels to monitor specific issues that people were finding with the data that we were able to find and resolve this issue."
+        }
+    ]
+}

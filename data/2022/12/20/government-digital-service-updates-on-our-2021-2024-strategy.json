@@ -1,0 +1,87 @@
+{
+    "url": "https://gds.blog.gov.uk/2022/12/20/government-digital-service-updates-on-our-2021-2024-strategy/",
+    "title": "Government Digital Service: updates on our 2021-2024 strategy",
+    "authors": [
+        "Tom Read - Chief Executive Officer, Government Digital Service"
+    ],
+    "categories": [
+        "Digital strategy"
+    ],
+    "pub_date": "2022-12-20T10:21:40+00:00",
+    "content": [
+        {
+            "text": "In summer 2021, we published a blogpost outlining the Government Digital Service\u2019s (GDS) strategy for the next three years and outlined five \u201cmissions\u201d around which we would coordinate our delivery efforts. I also noted that the strategy was a moment in time, and we expected it to change and adapt based on what we discovered."
+        },
+        {
+            "text": "GDS has always had a commitment to working in the open, so a little more than 18 months on, I thought it was time to reflect on what has gone well, where we have adjusted our approach, and where we are now focusing our work.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What has gone well in product"
+        },
+        {
+            "text": "Overall, we have had a successful 18 months, and some of our achievements have gone far beyond what I thought possible.\u00a0"
+        },
+        {
+            "text": "On product, we started with an ambition to take the learnings from GOV.UK Verify and build a new digital identity and single sign-on service for all of government - something we are now calling GOV.UK One Login. Looking back, we had a mountain to climb in terms of designing and building the product set, building confidence with our customers across government, and securing funding to get it all done. The team has developed from a small group to large, high-performing team who are demonstrating user-centred, agile delivery at an extraordinary pace and scale. This success is down to a combination of a deeply talented delivery expert in our Digital Identity director, Natalie Jones, a focused and united team, and strong support from HMRC, DWP, Home Office and others across government. There is a long way to go, but we are in beta, and making real progress. We\u2019ll be blogging more about this in the next few months."
+        },
+        {
+            "text": "Our exceptional GOV.UK team has developed content and new design patterns to help users navigate some of the many major events of recent times. From the response to HM Queen Elizabeth II\u2019s death, the UK\u2019s help for Ukraine, Cost of Living, and many others, the team have diligently worked with No.10 and colleagues right across government to make the content simple and accessible to all. Behind the scenes, they have been making GOV.UK simpler to use and navigate, improving the civil service facing publishing tools, and migrating to new web hosting infrastructure."
+        },
+        {
+            "text": "This year we have also made important progress on our \u201ccommon tools\u201d, which we now refer to as our \u201cdigital service platforms\u201d. The individual platform products - like GOV.UK Notify, GOV.UK Pay and the GOV.UK Design System - have gone from strength to strength, and are mature products with ambitious development roadmaps in their own rights.\u00a0"
+        },
+        {
+            "text": "What is even more exciting is our fledgling plans to integrate these products into our newest offering, GOV.UK Forms. There are nearly 8,500 document-based forms published on GOV.UK, and most are inaccessible, put an unnecessary burden on the end user, and are expensive for government to manually process. To fix a problem of this scale, we need to go wholesale - we cannot rely on digital departments to get to every single one. Instead, we want to develop a digital \u201cbuild a service\u201d product that can be used by civil servants in operational and policy roles right across government. We\u2019ll be talking more about this in the coming months."
+        },
+        {
+            "heading": 2,
+            "text": "What has gone well in building the GDS team"
+        },
+        {
+            "text": "Away from delivery, we have also had a busy year of realigning the organisation to be a more focused, more inclusive, and happier place to work. There have been some considerable challenges, which I\u2019ll get to in the next section, but overall we are in a better shape now than 18 months ago.\u00a0"
+        },
+        {
+            "text": "We have started to reintroduce internal communities of practice at GDS to create better alignment across teams, and to provide a space for professionals to share insights and develop their skills. In some areas we have gone further and centralised a small number of professions like technical architecture and cyber security. We have also set out our locations strategy, with a commitment that in addition to our existing strong foundation in London, we expand our teams in Manchester and Bristol."
+        },
+        {
+            "text": "Finally, we have expanded our leadership team, bringing in talent from the private sector, from other parts of government, and by promoting talent from within GDS. We have done this with a careful eye on increasing the diversity and equity of our teams, and we are moving firmly in the right direction."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges and changes"
+        },
+        {
+            "text": "The past 18 months have not been without their challenges. I won\u2019t go into detail here, but everything from budgets to headcount has been under considerable pressure. This has meant we have had to make prioritisation decisions to make sure our people and resources are focused on the highest value areas. In the summer, we announced that we would be sunsetting our hosting platform, GOV.UK PaaS. More recently we have made the difficult decision to close both our GDS Advisory service, referred to in my previous blogpost as \u201cGDS Expert Services\u201d and our in-country GDS Advisory International work."
+        },
+        {
+            "text": "We have also made less progress than we had hoped on our plan to develop \u201cJoined-up services that solve whole problems and span multiple departments\u201d. While the ambition remains central to our mission, we discovered more dependencies than we had anticipated. The biggest dependency we discovered was having the GOV.UK One Login service rolled out across more services to enable a persistent, logged in user journey.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Looking forward"
+        },
+        {
+            "text": "Recently, we\u2019ve been doing some big thinking about our longer term ambitions for digital government in the UK, and about GDS\u2019 role in making them a reality. We have come a long way in the past decade, and the user experience of most government services has vastly improved. However, where once the UK was world-leading, and positioned first in the UN\u2019s e-government index, we have now slipped to 11th. We need to look to those countries who have now gone past us - Denmark, Estonia, Korea and others - and adapt our approach towards a more joined-up and proactive experience of government. We will be blogging more about this in the coming months."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "About GDS"
+        },
+        {
+            "text": "The Government Digital Service is a team of around 750 product managers, software engineers, designers, researchers, technical architects and other specialists who sit right at the heart of UK government in the Cabinet Office. We are based in London, Manchester, Bristol and in our home offices. While we are relatively small, our software products and services are used by more than 13 million people each week, and are relied upon by more than 1,900 public sector organisations across central and local government, NHS and schools."
+        },
+        {
+            "text": "GDS is here to make digital government simpler, clearer and faster for everyone. Good digital services are better for users, and cheaper for the taxpayer.\u00a0"
+        },
+        {
+            "text": "The core of our mission is to reduce failure demand in services and keep the user journey online. We are trying to do that in three main ways:"
+        },
+        {
+            "text": "And have boiled that down into the following objectives:"
+        }
+    ]
+}
