@@ -1,0 +1,155 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2022/12/21/service-assessments/",
+    "title": "A fresh approach to service assessments",
+    "authors": [
+        "Reema Fardous"
+    ],
+    "categories": [
+        "service assessments",
+        "Service design",
+        "service ownership",
+        "software and services"
+    ],
+    "pub_date": "2022-12-21T14:10:22+00:00",
+    "content": [
+        {
+            "text": "We\u2019ve been designing and building a new service to make it easier for schools and education providers to get financial support so that teachers can mentor trainee teachers."
+        },
+        {
+            "text": "We knew we were coming to the end of our alpha phase of software delivery, when we heard our delivery manager say, \u201cWe need to book an alpha assessment.\u201d"
+        },
+        {
+            "text": "It\u2019s fair to say people are not that keen on service assessments because they take up so much time and need a lot of preparation. But I didn\u2019t need to panic. As a product manager, I know our team has been doing all the right things \u2013 investigating assumptions, testing, building prototypes and having conversations with policy and finance colleagues."
+        },
+        {
+            "text": "Our assessment was not going to be a scary, box-ticking exercise lasting 4 hours. Instead we changed the format and structure to make it more agile and adaptable to both our needs and our assessors\u2019."
+        },
+        {
+            "text": "Here\u2019s how we did it."
+        },
+        {
+            "heading": 2,
+            "text": "Preparing for our assessment"
+        },
+        {
+            "text": "We had an initial conversation with a lead service assessor who asked, \u201cPlease don\u2019t make it death by slide deck\u201d."
+        },
+        {
+            "text": "Four hours of presenting and questioning is daunting for the service team and it\u2019s a long time for assessors to listen and absorb complex information."
+        },
+        {
+            "text": "On the advice of one of the department\u2019s lead service assessors, we agreed to have 4, separate 1-hour sessions instead of a half day."
+        },
+        {
+            "text": "We assumed booking multiple sessions in assessors\u2019 diaries would be a challenge, but it was much easier to find 1-hour slots than half days."
+        },
+        {
+            "heading": 3,
+            "text": "Session 1 of the service assessment"
+        },
+        {
+            "text": "This was our opportunity to share the narrative about our service clearly and succinctly. We explained the policy aim and the rationale for designing a digital service."
+        },
+        {
+            "text": "Fortunately, in our service team, we had policy colleagues working beside us as fully-fledged members of our multidisciplinary team. They acted as an integral link between our service team and their policy teams elsewhere in the Department for Education. They shared our progress, findings, and insight with those policy teams who were then able to iterate policy in step with our user research."
+        },
+        {
+            "text": "This meant we had a solid narrative about the service\u2019s direction and intent. The panel\u2019s feedback on this first assessment session was really positive."
+        },
+        {
+            "heading": 3,
+            "text": "Session 2"
+        },
+        {
+            "text": "We knew that the assessors would want to delve into the details, and rightly so. But instead of using this session to focus on the work each person in our team had done, we decided to show how we collectively solved the challenges around:"
+        },
+        {
+            "text": "We focused on how much the schools needed funding to cover the cost of a teacher training to becoming a mentor. Using our research findings, we explained how this need informed the service design and how technology would be used to meet that need."
+        },
+        {
+            "text": "This storytelling approach saved time. And it went down well with our lead assessor who said it was clear that our team understood the problem space, and had been great at influencing policy."
+        },
+        {
+            "text": "However the assessors felt they\u2019d had less time to see the actual product to understand it, and so the session had felt a bit rushed."
+        },
+        {
+            "heading": 3,
+            "text": "Refining our approach before sessions 3 and 4"
+        },
+        {
+            "text": "We deliberately did not finalise the content for the last 2 sessions \u2013 we wanted to shape them based on how the first 2 went."
+        },
+        {
+            "text": "We had a list of questions from the assessors after session 1 and 2 that they wanted us to answer."
+        },
+        {
+            "heading": 3,
+            "text": "Session 3"
+        },
+        {
+            "text": "The team focused on the riskiest assumptions, technology choices and demonstrated the prototype, explaining how UR had influenced decisions."
+        },
+        {
+            "text": "Time was available for the team to revisit questions that the assessors had sent through after session 2."
+        },
+        {
+            "heading": 3,
+            "text": "Session 4"
+        },
+        {
+            "text": "There will be a 2-year gap between alpha and beta phases because:"
+        },
+        {
+            "text": "We used this final session to demonstrate how the 2-year gap would be managed and what the policy team would need to do in that time."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "heading": 3,
+            "text": "Four 1-hour sessions are better than half a day"
+        },
+        {
+            "text": "Both assessors and the service team have time between sessions to inspect and adapt."
+        },
+        {
+            "heading": 3,
+            "text": "Space the 4 assessment sessions out over two weeks"
+        },
+        {
+            "text": "This was the right amount of time for us to look at what went well and what we needed to prepare for the next session."
+        },
+        {
+            "heading": 3,
+            "text": "Using minimalist slides for greater impact"
+        },
+        {
+            "text": "This was tough. We had so much to share, but we tried to keep slides to a minimum, to make them more readable and therefore easier to digest."
+        },
+        {
+            "heading": 3,
+            "text": "Preparation -\u2013 not too little not too much"
+        },
+        {
+            "text": "We focused on preparing the first 2 slide decks in detail and kept the last 2 light touch until we knew which areas the assessors wanted more information on."
+        },
+        {
+            "heading": 3,
+            "text": "Involve the whole team"
+        },
+        {
+            "text": "The assessors feedback that it was good to see all team members taking part in the narrative, including their policy colleagues."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We\u2019re proud to say we passed our alpha assessment and we will move into beta."
+        },
+        {
+            "text": "Our work on the alpha shows why digital, data and technology multidisciplinary teams are so effective in user centred service design. And we hope our approach to assessments is a useful example of how to make assessments more accessible."
+        }
+    ]
+}
