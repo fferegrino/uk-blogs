@@ -1,0 +1,90 @@
+{
+    "url": "https://traderemedies.blog.gov.uk/2023/01/05/your-business-data-and-how-we-protect-business-confidentiality/",
+    "title": "Your business data and how we protect business confidentiality",
+    "authors": [
+        "Weichao Wang, Head of Data & Monitoring",
+        "Katherine Newton-McGee, Head of Investigations"
+    ],
+    "categories": [
+        "Analysis",
+        "Investigations"
+    ],
+    "pub_date": "2023-01-05T11:38:00+00:00",
+    "content": [
+        {
+            "text": "Data drives decision-making for international trade and business decisions. It is the lubricant that oils the wheels of trade and fuels the core of the Trade Remedies Authority (TRA). At the same time, we\u2019ve previously written about transparency being imperative to us both running a fair investigation and ensuring we are basing our conclusions on the best available data."
+        },
+        {
+            "text": "But how does this square with another business imperative: confidentiality?"
+        },
+        {
+            "text": "Confidential information is provided to us from key stakeholders during the investigation, from open sources and through other government departments to contribute towards our recommendations and determinations."
+        },
+        {
+            "text": "We collect confidential and non-confidential business information from our Trade Remedies System (TRS) and obtain it through data shared by other Government departments."
+        },
+        {
+            "text": "In this blog we will set out the importance of this data to the TRA as well as our duty to protect your business information."
+        },
+        {
+            "heading": 2,
+            "text": "How the TRA uses data submitted on the TRS"
+        },
+        {
+            "text": "The TRA requests parties involved in a case provide detailed information to it through its digital platform, the TRS, as part of every investigation. This information is critical to the investigation and the resultant decisions and as such we ask for extremely detailed financial information to ensure we can be confident in our conclusions."
+        },
+        {
+            "text": "Some of this information is naturally quite sensitive for the parties involved and is only used by us to help the case team arrive at decisions. The TRA takes its responsibility to protect this confidential information very seriously and has rigorous storage and handling procedures in place."
+        },
+        {
+            "text": "We are required under Regulation 44 of the Dumping and Subsidy Regulations to establish and maintain a public file through the TRS in every investigation/review. This public file contains any non-confidential information which is material to the case. It is our responsibility to ensure that no confidential information, including personal data, goes on the public file."
+        },
+        {
+            "heading": 2,
+            "text": "Record level data from other Government sources"
+        },
+        {
+            "text": "Record level data (or microdata) contains information on the characteristics of a population, such as businesses, individuals, or households, collected by surveys or a census. We use record level data across our investigation. Examples include identifying and calculating trade flows for goods imported to using confidential business information to inform our dumping calculations."
+        },
+        {
+            "text": "We are also able to use HMRC\u2019s UK Trade Info to gather some trade statistics but this tool does not allow us to see data that would disclose the trading activities of individual businesses or at 10-digit import goods level. In these instances, the TRA and HMRC use Section 13 of the Trade Act to allow legal transfer of data between our organisations."
+        },
+        {
+            "heading": 2,
+            "text": "How do we ensure we do not disclose sensitive business information?"
+        },
+        {
+            "text": "An information breach would not only erode the trust you place in us to handle your data but also reduce the trust of others who would need to provide this data to the Government in the future."
+        },
+        {
+            "text": "We have a duty to be transparent in our investigations and thus, we would require parties submit non-confidential versions of the confidential information provided to us in the course of an investigation to the TRS. Ideally, we would like the public file to present as complete a picture as possible of all the information material to the case."
+        },
+        {
+            "text": "Thus, when our investigators receive a non-confidential set of information, they forensically review the material provided to ensure that no confidential information has accidentally been included in the submission. Should they find anything, they issue a \u2018deficiency\u2019 notice to the business in question, specifying where the confidential information has been included so that the business can rectify the mistake."
+        },
+        {
+            "text": "We do not modify the files presented to us - that is all done by companies and stakeholders themselves. The information is then resubmitted through the TRS and once our investigators are happy no confidential information remains, this non-confidential version is then uploaded to the public file. We will notify companies swiftly and provide any necessary support if we find any remaining confidential material in non-confidential documents."
+        },
+        {
+            "text": "For sensitive information provided by HMRC, we are required to handle this data in line with legislation such as the Trade Act. Government data providers may implement various controls to ensure microdata does not identify or disclose businesses or individuals. However, our statisticians would still check the data before we publish it. We approach this problem from two angles."
+        },
+        {
+            "text": "Training: TRA Statisticians and analysts have completed and passed the Accredited Researcher training programme offered by the ONS. Our analysts use the Five Safes Principles to guide them when thinking about how best to work with disclosive data."
+        },
+        {
+            "text": "Disclosure control: We apply various analytical and statistical methods to the data to ensure that no individual businesses or individuals can be identified through the data."
+        },
+        {
+            "text": "There are several ways that we can apply disclosure control to minimise the risk of disclosive data being published or identified through combining other data with our own. These may include, but are not limited to:"
+        },
+        {
+            "text": "You can find examples of other good practice on applying disclosure control to data from the Office for National Statistics here. Our aim is to make disclosure control as undisruptive as possible, which means that readers of our published recommendations may not see directly that this work has occurred."
+        },
+        {
+            "text": "Your business data ultimately forms just a part of the evidence that we use in our investigations. We are still reliant on data provided to us by our stakeholders to ensure our analysis is robust and builds fairer outcomes for investigations."
+        },
+        {
+            "text": "View a quick overview of what the TRA\u2019s investigation process looks like and how businesses can input."
+        }
+    ]
+}

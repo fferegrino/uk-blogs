@@ -1,0 +1,65 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2023/01/05/helping-exporters-through-joined-up-data/",
+    "title": "Helping exporters through joined up data",
+    "authors": [
+        "Owain Jones, Data Architect"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2023-01-05T15:11:24+00:00",
+    "content": [
+        {
+            "text": "The Department for International Trade (DIT) was established in 2016 to plan the UK\u2019s international trade policy following EU Exit. Part of DIT's work involves providing advice and assistance to make global trading easier. At the end of the transition period, the Export Support Service (ESS) was established to provide guidance to companies seeking to export to Europe in the new trading environment. Plans are underway to develop this service into other markets. It will act as front door for traders to access the wider DIT offering for exporters. The ESS has since been identified as one of the top 75 priority services in the Central Digital and Data Office (CDDO)\u2019s 2025 roadmap for digital and data.\u00a0"
+        },
+        {
+            "text": "The ESS is an advice and signposting service designed to respond to enquiries from businesses exporting to Europe. It starts by taking their details and the identifying issues they are facing. It then connects businesses to an advisor who provides them with tailored advice and guidance. The service helps exporters with a range of issues such as exporting to new markets, understanding paperwork needed to sell goods abroad, or rules for selling services to a specific country.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Helping exporters across multiple channels\u00a0"
+        },
+        {
+            "text": "Users can contact the ESS through an online form, e-mail or referral from an International Trade Adviser (ITA), or by requesting a callback. This multi-channel approach means we can help exporters in whatever way works best for them. ESS is used for range of enquiries: from urgent trade issues that need immediate resolution to an requests for guidance on how to start exporting.\u00a0"
+        },
+        {
+            "text": "However, having multiple channels means that enquiry data also comes through multiple sources. To ensure accurate analysis, monitoring and evaluation of the service, part of our job in the Digital, Data and Technology (DDaT) team is to bring all the data together into one \u2018master dataset\u2019. Creating the 'master dataset' has allowed us to provide a single source of truth for ESS enquiries that all teams can use.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Bringing data and teams together\u00a0"
+        },
+        {
+            "text": "Incoming ESS data is managed across multiple teams who receive, review and respond to enquiries, and specialist analysis teams monitor the data. One of our first challenges when developing the master dataset was to ensure that all teams agreed when it comes to what data will be collected, processed and assessed. This data includes the query itself, as well as data on the enquirer and their company, company size and what sector they operate in. Much of this data is used for analysis and reporting purposes. We also needed changes in data collection to be mutually agreed, so that removing questions in the enquiry form didn\u2019t affect our ability to assess the service.\u00a0"
+        },
+        {
+            "text": "We set up an ESS data working group to carry out this governance by discussing the data needs and any necessary changes to the ESS data model. We also considered how these would affect existing processes. Having all the ESS stakeholders in the same room when setting up and changing data structures created a much smoother process. It also avoided issues with dashboards and reporting being out of date.\u00a0"
+        },
+        {
+            "text": "Once we had agreed what data would be collected, we worked with the different enquiry channels to build pipelines into our internal data warehouse called Data Workspace. After this, it was necessary to clean, format and process the datasets, and then combine them into a single table. This included removing duplicate enquiries that had started through one channel and then 'referred on to another enquiry channel.\u00a0"
+        },
+        {
+            "text": "One of the big advantages of creating the master dataset is that it provides a comprehensive dataset with fully processed data which automatically updates daily. We avoided the need for users of the data to repeat the same cleaning and quality control over and over. It also provides a consistent and complete set of data agreed across all stakeholders.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making the data shareable\u00a0"
+        },
+        {
+            "text": "To maximise the benefit to exporters, we share data with the devolved administrations: the Welsh, Scottish and Northern Irish governments. Sharing the data allows these groups to understand what is happening in their country and provide more tailored support where they can to businesses. \u00a0"
+        },
+        {
+            "text": "To further support this, when creating the master dataset we used the postcodes within the ESS data to match enquiries with postcode reference data. This now allows us to identify enquiries by nation, English region and local authority. We then extract data cuts that can be shared with the devolved administrations, and they can access these securely via our Data Workspace platform.\u00a0"
+        },
+        {
+            "text": "In future, matching to English regions will allow us to share data with the regional DIT teams responsible for each region.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Summary\u00a0"
+        },
+        {
+            "text": "In order to provide a single source of truth for ESS enquiries, we created a master dataset. To ensure it met needs, we brought all stakeholders into the decision-making process. The advantage of this was the development of an extensive dataset, containing cleaned and processed data for easier analysis, reporting and evaluation. It also provides a dataset from which data can be easily extracted and shared. The benefits of this are that we have clear and accessible information on the nature of enquiries. This allows us to better understand what companies and individuals are enquiring about, what they need, and the characteristics of companies enquiring. Consequently, we are more able to improve and refine our service to better serve the needs of our customers.\u00a0"
+        }
+    ]
+}
