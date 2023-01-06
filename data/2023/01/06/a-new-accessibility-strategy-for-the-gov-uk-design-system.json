@@ -1,0 +1,113 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2023/01/06/a-new-accessibility-strategy-for-the-gov-uk-design-system/",
+    "title": "A new accessibility strategy for the GOV.UK Design System",
+    "authors": [
+        "David Cox - Senior Accessibility Specialist, GDS",
+        "Claire Ashworth - Technical Writer, GDS"
+    ],
+    "categories": [
+        "Accessibility"
+    ],
+    "pub_date": "2023-01-06T11:12:01+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK Design System team has a lot of work coming up that relates to web accessibility. To help coordinate this work, we created an accessibility strategy."
+        },
+        {
+            "text": "To build the accessibility strategy, we first had to gather up all of our existing accessibility-related principles and decisions. Until now, a lot of this had not been documented, but rather existed as general team knowledge. We then used the information we collected to make tough team decisions and prioritise our accessibility work as a list of \u2018activities\u2019."
+        },
+        {
+            "text": "It\u2019s important for the GOV.UK Design System to have a clear picture on accessibility, because our design system is used by hundreds of services across the UK Government. Improving the accessibility of our design system can help improve accessibility across all of these services."
+        },
+        {
+            "text": "Here are 5 parts of the accessibility strategy we want to highlight for service teams that use the GOV.UK Design System."
+        },
+        {
+            "heading": 2,
+            "text": "Our plans for WCAG version 2.2"
+        },
+        {
+            "text": "The Web Content Accessibility Guidelines (WCAG) are a set of documents that explain how to make web content more accessible to people with disabilities. In the UK Public Sector, all public sector bodies are required to meet the WCAG 2.1 AA accessibility standard."
+        },
+        {
+            "text": "The Web Accessibility Initiative currently plans to publish WCAG 2.2 in early 2023. WCAG 2.2 is an upcoming update to the existing WCAG 2.1 recommendations, and will include a selection of new criteria and some updates to existing criteria. You can read about what\u2019s new in WCAG 2.2, from the Web Accessibility Initiative."
+        },
+        {
+            "text": "To help teams across the government update their services to meet this new version, we have big plans."
+        },
+        {
+            "text": "After WCAG 2.2 is formally published, we aim to align with the new recommendation by:"
+        },
+        {
+            "text": "We want to make these updates to WCAG 2.2 well-before other service teams are expected to update their services. Once WCAG 2.2 is published, some recent changes to the public sector digital accessibility regulations mean that government-wide monitoring for the new WCAG 2.2 criteria will likely start in early 2024. A design system that aligns with WCAG 2.2 as quickly as possible will make it easier for teams to update their services to meet WCAG 2.2."
+        },
+        {
+            "heading": 2,
+            "text": "A new way to prioritise accessibility concerns"
+        },
+        {
+            "text": "We define an \u2018accessibility concern\u2019 as any question about the accessibility of a portion of a product. This is an umbrella term we chose for the accessibility strategy, to cover a number of different things, including accessibility issues, bugs, queries, fixes, and more."
+        },
+        {
+            "text": "As technology and web standards change over time, the team can encounter multiple accessibility concerns across multiple products. When this happens we need a way to decide which work to do first. But how exactly do we do that?"
+        },
+        {
+            "text": "Prior to this accessibility strategy, prioritising multiple accessibility concerns was generally handled on a case-by-case basis. In an effort to improve transparency and planning, we\u2019ve developed a method for prioritising any accessibility concerns that come our way."
+        },
+        {
+            "text": "Our top priority will usually be accessibility concerns in the GOV.UK Frontend library. That\u2019s because GOV.UK Frontend is used across hundreds of services. Accessibility bugs and issues here will have a direct impact on end-users and the public."
+        },
+        {
+            "text": "Additionally, the team will usually prioritise accessibility concerns that come with research or evidence to back up their real-world impact. Evidence helps us determine urgency and justify the effort to service teams when big changes are made to fix a concern. Evidence can come in the form of \u2018desk research\u2019 as opposed to detailed user testing, however different issues will require different levels of evidence."
+        },
+        {
+            "heading": 2,
+            "text": "Strengthening our accessibility testing"
+        },
+        {
+            "text": "The GOV.UK Design System team does a lot of accessibility testing using various methods, but we\u2019re now looking to standardise the overall approach. To do so, we\u2019ve listed the ways in which we approach 3 different types of testing: automated, manual and usability."
+        },
+        {
+            "text": "Our automated testing happens during our code deployment process. There is room for improvement in our automated testing processes, especially in relation to how and what we test. We plan to research new approaches and expand our automated testing in the coming months."
+        },
+        {
+            "text": "The team also performs manual testing with assistive technologies, but we lack a standard process and documentation. We plan to standardise and improve our manual testing methodology, to increase efficiency and help reduce the risk that something gets missed."
+        },
+        {
+            "text": "Over the past 4 years, the team has planned and run 3 rounds of accessibility user research. That research involved usability testing with disabled people and people who use assistive technologies. We plan to run more accessibility user research like this in the future."
+        },
+        {
+            "heading": 2,
+            "text": "Better accessibility documentation"
+        },
+        {
+            "text": "As a design system, we have more types of accessibility documentation than most products. Alongside accessibility statements for our services, we also have accessibility guidance for service teams that use our products, including:"
+        },
+        {
+            "text": "We want to create a better way of recording our accessibility-related information. This new strategy includes commitments to more coordinated and consistent recordkeeping."
+        },
+        {
+            "text": "Our strategic commitments include recording:"
+        },
+        {
+            "text": "Based on our commitments, our planned activities include improving:"
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s about the principles"
+        },
+        {
+            "text": "Prior to this accessibility strategy, the GOV.UK Design System did follow principles for increasing accessibility, but they were not formalised or documented publicly. The strategy resolves this by stating our principles clearly, shedding light on how exactly we work to improve accessibility."
+        },
+        {
+            "text": "For now, we have adopted 3 sets of principles, gathered from various disciplines. We will assess them on a regular basis to make sure they still reflect what we need to do to make the Design System as accessible as possible."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019re excited to continue improving accessibility within the GOV.UK Design System, with a new strategy to keep it all coordinated. We have a list of 16 accessibility activities which we\u2019re hoping to make good progress on over the next 12 months, so we better get going!"
+        }
+    ]
+}
