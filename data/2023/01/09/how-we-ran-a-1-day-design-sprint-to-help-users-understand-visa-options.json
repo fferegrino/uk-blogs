@@ -1,0 +1,160 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2023/01/09/how-we-ran-a-1-day-design-sprint-to-help-users-understand-visa-options/",
+    "title": "How we ran a 1 day design sprint to help users understand visa options",
+    "authors": [
+        "Amina Omar - Service Designer, GDS",
+        "Hazal Arpalikli - Senior Interaction Designer, GDS",
+        "Rebecca Cottrell - Senior Interaction Designer, GDS"
+    ],
+    "categories": [
+        "Design"
+    ],
+    "pub_date": "2023-01-09T09:00:32+00:00",
+    "content": [
+        {
+            "text": "GOV.UK\u2019s Moving to the UK for Work team ran a design sprint to help sketch out and develop new ideas on how to improve the work visa user journey. The multidisciplinary team needed to work closely with the Home Office and UK Visa and Immigration Office (UKVI) to gain a shared understanding of the problems users are experiencing to help people who want to move to the UK for work.\u00a0"
+        },
+        {
+            "text": "In this blog post, we share our process, what we\u2019ve learnt and our recommendations for future teams thinking of running a design sprint.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is a design sprint and why did we run one?\u00a0"
+        },
+        {
+            "text": "Design Sprints are a way to generate design ideas within the team, producing a variety of directions and involving subject matter experts in the design process. We wanted to make sure that everybody on the team was involved, particularly people from a non-design background.\u00a0"
+        },
+        {
+            "text": "Design sprints are also a good way to move from the discovery phase to an alpha phase, when the team takes their learnings and distils them into tangible ideas. There are limitations to keep in mind, however in this post we\u2019ll talk about how we used this method and what we learned during the process."
+        },
+        {
+            "heading": 2,
+            "text": "Why we modified our design sprint\u00a0"
+        },
+        {
+            "text": "Early on, we decided we didn\u2019t need the standard 4 to 5 days as a team and we could condense our sessions into a single day of workshops. We did this for a number of reasons.\u00a0 "
+        },
+        {
+            "text": "Firstly, in discovery, the team already defined a clear problem statement and hypothesis to test and this meant we could condense the first few days in a typical design sprint.\u00a0"
+        },
+        {
+            "text": "Secondly, we wanted the focus of the sessions to be on developing varied ideas and sketching solutions to prototype. We quickly realised that we could fit this in a day without losing value, which would make it easier for everyone to commit to.\u00a0"
+        },
+        {
+            "text": "We found that this modified approach worked well for us and we managed to get through the key steps of the design sprint without feeling overwhelmed. The most important outcome for us was being able to generate useful ideas for our hypothesis in collaboration with UKVI.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we did during the sessions"
+        },
+        {
+            "text": "Our design sprint started from 10am to 3pm (with lunch and breaks included). We had 3 facilitators split across different sessions to avoid facilitator fatigue and make sure they could also participate in some of the activities. Here is an overview of the activities we ran:"
+        },
+        {
+            "text": "In the next few sections we\u2019ll tell you more about why we ran these sessions and what they involved.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Building a shared understanding of the problem"
+        },
+        {
+            "text": "We started the morning by presenting back the existing history, insights and data we had on our users and this journey. This step helped everyone start the day with a shared understanding of the problem and have enough context to participate in the days' activities."
+        },
+        {
+            "heading": 3,
+            "text": "2. 'Find the right visa\u2019 using user personas\u00a0"
+        },
+        {
+            "text": "We wanted the team to experience what it is like for people to find the right visa. So we created 6 personas with a specific user problem. We gave everyone a persona and asked them to go through the process of applying for a visa bearing in mind their needs. We then divided the team into groups of 2 and asked them to compare their experiences and what they\u2019ve noticed about the process. "
+        },
+        {
+            "text": "Here's an example of a persona we used:\u00a0"
+        },
+        {
+            "text": "The aim of this task was to build a user centred approach, and fully experience what they might be searching for when exploring or choosing a visa on GOV.UK\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3. Exploring what we know about visa attributes"
+        },
+        {
+            "text": "We also had an activity to explore and discuss the visa attributes that are important for users to know when they\u2019re choosing a visa, for example, how much a visa costs or how long their application might take. We listed a set of attributes on a Trello board and asked the team to vote on the attributes we should discuss further. This activity helped us see what areas we needed more research on and also helped us understand the complexities of visas."
+        },
+        {
+            "heading": 3,
+            "text": "4. Sketching design ideas\u00a0"
+        },
+        {
+            "text": "All design sprints have a sketching or mock up phase and ours was no different! Design Sprints traditionally involve Crazy 8 sketching: each team member folds a sheet of paper into 8 squares, before sketching a design solution on each square, with 1 minute per square. The time limit helps people to focus on putting something down on paper, and not to worry too much if it\u2019s a good or bad idea.\n"
+        },
+        {
+            "text": "Our sprint was a little different because we already had some product constraints that we needed to keep in mind: for example, we already knew what part of an existing product we wanted to focus on, which was a results page for our \u2018Check if you need a visa\u2019 tool. We thought it would be more practical to simplify this part by changing it to Crazy 4s, so everyone had 4 minutes to sketch (or write) 4 ideas. We then asked the team to share their strongest idea back to the team."
+        },
+        {
+            "heading": 2,
+            "text": "Outcome of the design sprint"
+        },
+        {
+            "text": "The sprint was a great success: we ended up with several ideas we could explore further, giving our team a clear direction to move towards. Running the sprint helped us to move from the discovery phase to alpha, involving the whole team in the process and also having a good understanding of both the design problem and the limitations.\u00a0"
+        },
+        {
+            "text": "We had some nice feedback from an attendee: \"It was a genuinely great interactive session\"."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "Finally, we would like to end with outlining a few things we have learned in the course of running a design sprint with another department and experts from different disciplines.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Nothing beats a good sketching session"
+        },
+        {
+            "text": "Sketching helps team members feel more empowered by giving them time and space to share their own ideas, and it\u2019s also important to take the pressure off by letting them know ideas don\u2019t need to be perfect (or even 'good').\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Be flexible and accommodating"
+        },
+        {
+            "text": "We decided to tweak the rules by allowing people to write down their ideas if they didn\u2019t feel comfortable sketching them out. We also suggested people make a storyboard if they wanted to really develop one or 2 ideas in-depth."
+        },
+        {
+            "heading": 3,
+            "text": "3. Explain and explain again"
+        },
+        {
+            "text": "Language and the descriptions used needed to be clear, avoiding jargon and technical terms. We made an effort to explain each step (and why) in each workshop phase.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "4. Design sprints helps you to gain an alignment within the team"
+        },
+        {
+            "text": "It helped team members and stakeholders understand the limitations we were working with. It helped us involve our stakeholders in the design process and give them a sense of ownership.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "5. Accessibility can be at the forefront of innovation"
+        },
+        {
+            "text": "Using the attributes and persona activities helped us step into the shoes of our users earlier on and consider what challenges and problems they face during the process.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "6. You can customise sprints depending on the context you are working in\u00a0"
+        },
+        {
+            "text": "Instead of using a full 5 day sprint we decided to curate activities to fit into a single day. We felt able to do this because the problem area was already well-scoped, and we already knew what part of the existing product we wanted to modify.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "7. Design sprints act as catalysts"
+        },
+        {
+            "text": "Design sprints won\u2019t articulate all the issues your users are facing \u2013 however they do spark new and interesting directions and unlock initial ideas you can take forward to help shape the thinking in the team."
+        }
+    ]
+}
