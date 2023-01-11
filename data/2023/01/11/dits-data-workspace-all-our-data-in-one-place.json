@@ -1,0 +1,54 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2023/01/11/dits-data-workspace-all-our-data-in-one-place/",
+    "title": "DIT's Data Workspace - all our data, in one place",
+    "authors": [
+        "Agnes Coaker - Senior Data Analyst, Department for International Trade"
+    ],
+    "categories": [
+        "Data Engineering",
+        "Data science",
+        "Implementation"
+    ],
+    "pub_date": "2023-01-11T11:51:49+00:00",
+    "content": [
+        {
+            "text": "The Department for International Trade (DIT) is committed to\nsupporting its people to make data-driven decisions. To help do this, we\ncreated Data Workspace, which allows colleagues across the\ndepartment to collaborate, share, and safely store their data."
+        },
+        {
+            "text": "The service has two main components: a suite of tools which staff can\nuse to analyse data and create dashboards, and a data catalogue\nwhich DIT, and other government departments, can use to access existing data or dashboards. Data Workspace was created in 2019 and\nnow hosts over 40 billion rows of data from over 200 different sources\nas well as more than a dozen analysis tools. Options for tools include\nJupyterLab and RStudio, as well as lesser known tools like Amazon Web Services (AWS) QuickSight and Theia / Superset. We even have some we\u2019ve built ourselves!"
+        },
+        {
+            "text": "This variety of tools and the fact that they are available to anyone who\ncompletes mandatory civil service training, mean that people in many\ndifferent roles use them. Having a single place to search for and find\nthe data you need makes using it more accessible. My team provides\nassistance to everyone from data scientists keen to use the latest\nNatural Language Processing packages through to operational\ncolleagues who want to make dashboards to track their individual\nprogress."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Two users talk about how they use Data Workspace below:"
+        },
+        {
+            "text": "\u201cHaving recently been brought into the Civil Service as an International\nTrade Adviser (ITA), where I was previously a Delivery Partner, one of\nthe greatest surprises to me is how accessible the data relating to my\nresponsibilities is: both the detail and breadth of the data, but also the\nrange of analytical tools I have access to. Another surprise is the\nfreedom for experimentation \u2013 one can follow a whim as to what might\nbe a useful analysis without having to justify it to anyone in advance.\nHaving the proper tools goes beyond the boundaries of what an over-\nstretched spreadsheet can produce and these can be easily shared\nwith colleagues to use themselves. Choosing an appropriate level of\ngranularity can make the same data useful as either an overview or for\ndetailed examination of the data.\n\nOn the topic of support, the Data Workspace team offer a great amount\nof technical support and patience whilst learning to use these tools,\nwhich is very encouraging. Data analysis allows us to accurately\nunderstand a situation and look in the right place for solutions and\nallowing the average user to do this themselves is an extremely\npowerful tool.\u201d"
+        },
+        {
+            "text": "- Stephen Banks (International Trade Adviser)"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u201cI'm Tayyib and I'm on the Digital, Data &; Technology Fast Stream.\nPreviously, I was a Data Scientist at the National Situation Centre\n(SitCen) in Cabinet Office. My role in SitCen largely involved analysing\ndata from a range of sources across HMG to produce meaningful\ninsight for senior officials during crises. I\u2019ve moved across to DIT as a\nData Engineer, building new pipelines and developing the Data\nWorkspace environment in line with GDS service standards."
+        },
+        {
+            "text": "My previous experience with data infrastructure largely involved using\nAmazon Web Services (AWS) and other related analytical tools for\ningestion, data processing and analysis. AWS is a great platform,\nhowever can be relatively inaccessible and at times overwhelming for\nless data-experienced and tech-savvy users."
+        },
+        {
+            "text": "Data Workspace uses an AWS back-end but spins the infrastructure\ninto a significantly more accessible platform, removing a lot of the\nhassle. It means that less data-experienced and tech-savvy users can\neasily pull data using SQL, produce analysis in Python or R and\nvisualise insight creating dashboards in AWS QuickSight or maps in\nQGIS. A huge advantage to using Data Workspace is that it can also be\nshared across HMG and hosts the bulk of data that DIT uses on\neverything related to trade, economic productivity and investment.\u201d"
+        },
+        {
+            "text": "- Tayyib Saddique (Data Engineer)"
+        },
+        {
+            "text": "If you want to work with our team designing and supporting Data\nWorkspace, you can sign up for job alerts here."
+        }
+    ]
+}
