@@ -1,0 +1,49 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2023/01/12/working-towards-a-peat-data-standard/",
+    "title": "Working towards a Peat Data Standard",
+    "authors": [
+        "Mike Prince"
+    ],
+    "categories": [
+        "Mapping",
+        "Natural England",
+        "Peat"
+    ],
+    "pub_date": "2023-01-12T09:37:14+00:00",
+    "content": [
+        {
+            "text": "By Mike Prince, Natural England"
+        },
+        {
+            "text": "The England Peat Map project is mapping the extent, depth and condition of England\u2019s peat, using new and existing field survey data, satellite Earth observation, and a variety of modelling methods."
+        },
+        {
+            "text": "Mapping England\u2019s peat can help us achieve net zero by 2050. Healthy peatland has a cooling effect on the climate as peat captures carbon from the atmosphere and stores it underground. Knowing where the peat is, and what condition it is in, will help us identify areas for future restoration, or in need of additional protection."
+        },
+        {
+            "text": "Creation of the maps will also support the England Peat Action Plan. The government has set out their long-term plans for managing, protecting, and restoring England\u2019s peatlands so that they can deliver benefits for nature and the climate. The maps will provide an important evidence baseline for years to come.As part of this project, Natural England is developing a Data Exchange Standard to facilitate easier data sharing and collaboration in the future."
+        },
+        {
+            "text": "Peat data is collected by many organisations around the world, for a variety of reasons, including monitoring and restoration efforts, but also for development or archaeological work. Currently, there is no widely adopted data standard. Peat surveys are conducted with various methodologies, and data is recorded in different formats. This makes it difficult to integrate different datasets for use in large scale analyses."
+        },
+        {
+            "text": "The current draft version of the Data Exchange Standard covers peat depth surveys. Future versions are intended to incorporate further peat survey types, for example, surface features such as grips, gullies and haggs and bare peat."
+        },
+        {
+            "text": "In developing this standard, we have referred to many existing peat datasets from different data providers, and drawn on relevant existing standards such as Darwin Core for biodiversity data and the National Biodiversity Network Atlas for metadata. During our research, we found many existing peat depth survey datasets which did not record some key information, such as whether the full depth of peat was recorded. While such data can still be used (e.g. to determine a minimum peat thickness) some of the value of the surveyor being able to capture such data in the field is lost."
+        },
+        {
+            "text": "We hope that adoption of a common standard across the peatland community will help peat data adhere to the FAIR data principles, being Findable, Accessible, Interoperable and Reusable. More importantly, this can lead to high quality evidence to assess the extent, depth and condition of our peatland ecosystems, and help target restoration and nature recovery."
+        },
+        {
+            "heading": 2,
+            "text": "How can you help?"
+        },
+        {
+            "text": "We welcome comments on the draft Data Exchange Standard. If you would like to get involved in the review process, please email peatmap@naturalengland.org.uk for access to view and comment on the current draft."
+        },
+        {
+            "text": "The England Peat Map project is part of the Natural Capital and Ecosystem Assessment Programme (NCEA). The NCEA is a science innovation and transformation programme funded by Defra which spans across land and water environments. It has been set up to collect data on the extent, condition and change over time of England\u2019s ecosystems and natural capital, and the benefits to society."
+        }
+    ]
+}
