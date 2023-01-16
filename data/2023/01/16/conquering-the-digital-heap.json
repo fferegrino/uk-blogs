@@ -1,0 +1,102 @@
+{
+    "url": "https://codigital.blog.gov.uk/2023/01/16/conquering-the-digital-heap/",
+    "title": "Conquering the Digital Heap",
+    "authors": [
+        "David Canning"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2023-01-16T12:02:16+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "The \u2018Digital Heap\u2019"
+        },
+        {
+            "text": "This phrase was first coined by Sir Alex Allan in his 2015 Review of Government Digital Records in which he noted that the transition from paper-based working to email and electronic documents undermined the rigour of information management across much of government.\u00a0"
+        },
+        {
+            "text": "The Government acknowledged, in its 2017 response, Better Information for Better Government, that there had been a collective and systemic information management failure.\u00a0 Assumptions about how busy human beings would interact with technology had been misplaced, and attempts to create digital analogues of paper driven processes had ultimately failed. This failure was not unique to the UK or to the government, but a consequence of how disruptive technology has often outpaced established administrative or legal requirements."
+        },
+        {
+            "text": "The \u2018digital heap\u2019 describes collections of unorganised, unstructured digital documents and information stored outside of systems of control, which leads to an increasing liability, compliance risks and mounting costs.\u00a0 Allan discovered that all government departments have a digital heap, that this was growing in an uncontrolled way and was ultimately leading to a failure to comply with transparency obligations and laws about the publication of historic records. Many departments have since taken steps to bring their \u2018heap\u2019 under control.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The Digital Paradigm"
+        },
+        {
+            "text": "Unlike paper, digital information poses a unique and difficult set of challenges for records managers:"
+        },
+        {
+            "text": "This forces us to face some challenging questions about the nature of digital records:\u00a0 First, where are they and what are they?"
+        },
+        {
+            "text": "Second, how do we locate the ones we care about in a corpus so large and complex that it cannot be easily understood by humans without the injection of huge resources over such a long period that makes human review laughably impractical?"
+        },
+        {
+            "heading": 2,
+            "text": "Culture"
+        },
+        {
+            "text": "A major part of tackling the digital heap is to change the culture that allowed it to be created in the first place.\u00a0 Heaps are created through a lack of standards and rules, poor enforcement and leadership focus.\u00a0 Since 2015, Cabinet Office has introduced new policies for the digital age, rigorously enforced its Information Management Standards Framework, carrying out an audit of how well each team is complying every quarter.\u00a0 The results of these audits are reported to senior leaders who support active interventions by the Digital KIM Team.\u00a0 The National Archives carried out an assessment of Cabinet Office in 2018 and awarded a \u2018Green\u2019 rating, another first. Cabinet Office have successfully maintained high standards since, even through the disruption of the Covid pandemic."
+        },
+        {
+            "heading": 2,
+            "text": "Innovation and Automation"
+        },
+        {
+            "text": "In one of our \u2018heaps\u2019 there were over 11 million files all of which needed to be reviewed before they could either be retained as a historic record or destroyed.\u00a0 We estimated that it would take one person 59 years to read them all, and if we attempted to employ 59 people to complete the task in one year, the paybill would exceed \u00a32million.\u00a0\u00a0"
+        },
+        {
+            "text": "Even if we kept them all, we would need to repeat the review task before transferring the records to The National Archives in order to avoid accidentally publishing sensitive material, so the cost would be inescapable and significant.\u00a0 What we needed was a solution that allowed us to understand what the records in our heap contained, their value, and to facilitate rapid decision making about their disposal using only our existing people resources."
+        },
+        {
+            "text": "We achieved this through development of:"
+        },
+        {
+            "text": "The disposal methodology aims to rapidly de-bulk a corpus of digital information through identifying and removing redundant, outdated and trivial (\u2018ROT\u2019) information through a series of \u2018filtration\u2019 stages:"
+        },
+        {
+            "heading": 2,
+            "text": "The Lexicon"
+        },
+        {
+            "text": "We developed a theory based on analysis of historic files, that documents of historical value contain particular patterns of language: key words and phrases that tend to appear more frequently than in ROT information.\u00a0\u00a0"
+        },
+        {
+            "text": "These words or phrases, along with their frequency are predictable and therefore software could be programmed to locate them in a large corpus of documents.\u00a0 After an initial pilot, then a set of tests and comparative analyses, we were able to demonstrate that this theory is valid, and produce an automated system for analysing large volumes of digital records for disposal.\u00a0 At the heart of the system is our Lexicon.\u00a0 This is the list of words and phrases that determine value.\u00a0 We are very aware that language in the workplace evolves constantly, and so we will need to keep our Lexicon up to date through regular review."
+        },
+        {
+            "heading": 2,
+            "text": "Preservation and digital continuity"
+        },
+        {
+            "text": "Having removed the ROT, a further important step in taking control of digital information is to ensure it is preserved appropriately and that the organisation knows what it is keeping, and why."
+        },
+        {
+            "text": "So, after we have carried out disposal activity, records that we want to keep are preserved in specialist preservation software that provides rich metadata, search capability and assures fixity, right down to the ones and zeros. The importance of records integrity is vitally important for us because we are responsible for preservation of the records of former Prime Ministers and the Cabinet."
+        },
+        {
+            "text": "Our preservation system populates a digital catalogue, a database that helps us to navigate through the digital archive and locate records as required."
+        },
+        {
+            "heading": 2,
+            "text": "Where next?"
+        },
+        {
+            "text": "Conquering the digital heap problem creates huge opportunities for the Government.\u00a0 Having control over a known body of information provides the means to introduce better knowledge management, further reducing cost and inefficiency. Our Lexicon forms the basic programming language required to develop true artificial intelligence solutions in future.\u00a0 These initiatives will form core parts of our development work in the next few years."
+        },
+        {
+            "heading": 2,
+            "text": "About the author"
+        },
+        {
+            "text": "David Canning is the Head of Digital Knowledge & Information Management in the Cabinet Office, a post he has held since 2015.\u00a0 He is also a tutor in records management at the University of Dundee."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
