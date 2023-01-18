@@ -1,0 +1,119 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2023/01/18/location-location-location-data-improving-the-uks-property-system/",
+    "title": "Location, location, location data: improving the UK's property system",
+    "authors": [
+        "Holly West, Senior Policy Adviser, Geospatial Commission"
+    ],
+    "categories": [
+        "Technology"
+    ],
+    "pub_date": "2023-01-18T11:46:35+00:00",
+    "content": [
+        {
+            "text": "The property sector is constantly evolving in response to new opportunities and challenges. Changing working habits, new technologies and climate change are increasing the demand for new types of location data about property to support planning, construction, purchasing and retrofitting.\u00a0"
+        },
+        {
+            "text": "Location data and technologies can support transparency, efficiency and productivity throughout the property ecosystem. In our annual plan for 2022/23, the Geospatial Commission committed to identifying future opportunities for innovative use of location data related to properties. This supports commitments to improving the home buying and selling process made in last year\u2019s Levelling Up White Paper. It also aligns with HM Land Registry's strategy \u2018Enabling a world-leading property market\u2019, which sets out how land registration in England and Wales will be transformed by harnessing the power of digital tools, automation and high-quality data. This will enable a more efficient property market, and speed up the homebuying process."
+        },
+        {
+            "heading": 2,
+            "text": "Location data\u2019s critical role in the property sector\u00a0"
+        },
+        {
+            "text": "Location data supports the property ecosystem in a number of ways.\u00a0"
+        },
+        {
+            "text": "Location data about land use and planning informs decisions about, what and where to build. When a property is constructed, developers, engineers and surveyors need to know what the underlying geology is and whether the land is suitable for construction. At the point of property sale, location data, such as land ownership, mine works proximity and radon risk, are an essential part of the searches required."
+        },
+        {
+            "text": "Later on, in a building\u2019s life retrofitting may become necessary, for example, to make the building more energy efficient. Data on the roof orientation will indicate whether the property would benefit from solar panels and data about the age of properties within a street, can help determine the suitability of retrofit measures such as insulation. This geospatial information is particularly useful for central government, local authorities, housing associations, developers or other organisations who may have a need to consider this information about more than one property at a time.\u00a0"
+        },
+        {
+            "text": "These are just a few examples, but there will be many more ways that geospatial information can help drive data-driven decisions across the property ecosystem.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Actions to date"
+        },
+        {
+            "text": "Housing and local planning is one of the nine opportunity areas identified in the UK\u2019s Geospatial Strategy where there is huge potential to be realised from improved use of location data. Over the last few years, the Geospatial Commission has delivered a number of activities in this area."
+        },
+        {
+            "text": "In 2020, we released Unique Property and Street Reference Numbers under the Open Government Licence, making it easier to link data relating to properties. We also brought together more than 65 housing, land and planning geospatial datasets in one place to make data easier to find."
+        },
+        {
+            "text": "The Geospatial Commission\u2019s Public Sector Geospatial Agreement (PSGA) with the Ordnance Survey (OS) provides more than 5,000 public sector organisations unlimited access to OS data in order to underpin the efficient and effective delivery of public services and policy-making. The contract also enables private sector organisations to access up to \u00a31,000 per month of OS premium data for free. Over the next few years, as part of the 10-year PSGA contract, OS will release new datasets, including additional property attributes such as property age, building height, presence of basement and roof shape.\u00a0"
+        },
+        {
+            "text": "We also intend that the PSGA will benefit from access to Valuation Office Agency (VOA) data as a supplementary data source to augment existing data. In September 2021, the government committed to expanding access to property attribute data held by the VOA and we are currently seeking legislation to create a new data-sharing gateway to allow property attribute data held by the VOA to be made available to the public and private sectors."
+        },
+        {
+            "text": "This year, building on the landscape data review by Newgate Research in 2021, we have been exploring opportunities across the property ecosystem where location data related to residential and commercial properties could unlock greater value.\u00a0"
+        },
+        {
+            "text": "In September and early October, we ran a series of roundtables hosted by our Commissioner Alex Notay and attended by experts from a range of private and public sector organisations. The roundtable discussions drew on the diverse expertise present to discuss opportunities, use cases and challenges relating to location data and land registration, construction, embedded carbon and retrofitting.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Emerging findings"
+        },
+        {
+            "text": "Analysing the information to date, we have identified some initial common themes, questions and cross-cutting challenges:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Numerous data standards can be a challenge"
+        },
+        {
+            "text": "Data standards are crucial, but in many areas, they can be difficult to work with due to the large number of standards and their complexity. For example, there are a huge number of environmental, social and governance (ESG) standards for the property sector."
+        },
+        {
+            "text": "This is a growing issue as data is increasingly re-used for multiple purposes, often outside the specific sector, which it was originally created for. Our engagement has highlighted action from the community to streamline requirements where possible such as the RED Foundation."
+        },
+        {
+            "heading": 3,
+            "text": "Benefits can be unlocked by FAIRer location property data"
+        },
+        {
+            "text": "Increasing access, reducing duplication and increasing quality would improve efficiency and open up opportunities across the property sector. As mentioned above, the Geospatial Commission is working with the VOA to develop a new legislative gateway to increase access to the property attribute data they hold."
+        },
+        {
+            "text": "Expanding access to the data will support economic growth, delivery of better infrastructure and essential government functions. For example, aiding emergency responders by identifying below-ground properties, enabling them to prioritise flood response efforts."
+        },
+        {
+            "text": "However, data sharing and access need to be carefully balanced with concerns about fraud, privacy and intellectual property.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The government\u2019s role"
+        },
+        {
+            "text": "The government has a role in maintaining and providing access to key property datasets. Some of the foundational location property datasets underpinning the ecosystem are managed or regulated by the public sector, such as land registration (managed by HM Land Registry) or addressing information (owned by Royal Mail and regulated by OFCOM). Many stakeholders want the government to maintain or increase access to these datasets, particularly in areas where authoritative data is essential.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Taking a wider view can drive benefits"
+        },
+        {
+            "text": "Data is often created in silos, limiting the ability to consider wider use cases. Where data issues are tackled individually, there can be knock-on effects on the whole system or missed opportunities for wider benefits.\u00a0"
+        },
+        {
+            "text": "Considering the whole system can enable greater transparency, efficiency and productivity. For example, it can be helpful to consider how buyers and sellers interact with data about a property through the whole home buying and selling process or to consider the impacts of water use and biodiversity of a new development alongside its energy efficiency."
+        },
+        {
+            "text": "However, it can be very challenging to take a fully holistic approach, which considers multiple datasets and land use cases, as the secondary impacts of land use change can be almost limitless. We are exploring how location data and spatial modelling can support complex land use decision-making in the National Land Data Programme."
+        },
+        {
+            "text": "Over the coming months, we will continue to engage across the ecosystem focusing on the emerging findings and any actions that can unlock benefits before publishing our findings in late spring."
+        },
+        {
+            "text": "If you have challenges, ideas and opportunities around location data related to property please get in touch at geospatialcommission@cabinetoffice.gov.uk."
+        },
+        {
+            "text": "If you want to hear more about how location data is helping to improve the property market, listen to the People in Property podcast, Location Data's Going Digital by MoveIQ's Phil Spencer, where we join the conversation."
+        },
+        {
+            "text": "You can also\u00a0sign up\u00a0to get an email notification every time we publish a new blog post. For more information about this and other news see our\u00a0website, or follow us on\u00a0Twitter\u00a0and\u00a0LinkedIn."
+        }
+    ]
+}
