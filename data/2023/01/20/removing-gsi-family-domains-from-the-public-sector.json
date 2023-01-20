@@ -1,0 +1,55 @@
+{
+    "url": "https://technology.blog.gov.uk/2023/01/20/removing-gsi-family-domains-from-the-public-sector/",
+    "title": "Removing gsi-family domains from the public sector",
+    "authors": [
+        "Nick Woodcraft, Domains Product Owner, CDDO"
+    ],
+    "categories": [
+        "News"
+    ],
+    "pub_date": "2023-01-20T14:07:55+00:00",
+    "content": [
+        {
+            "text": "A core pillar of the Transforming for a Digital Future strategy is delivering efficient, secure and sustainable technology, and, at CDDO\u2019s Securing Government Services team we're working hard to clean up and remove legacy services.\u00a0"
+        },
+        {
+            "text": "Some public sector organisations have previously used .gsi.gov.uk, x.gsi.gov.uk, .gsx.gov.uk, .gse.gov.uk and .gcsx.gov.uk to email each other in a secure way. However, the current email standards and guidance mean they can now get better security sending the same email over the internet rather than using the Public Services Network (PSN)."
+        },
+        {
+            "text": "The PSN, where these gsi-family domains were used, is in the process of being wound down, and we officially stopped using these domains in 2019. The PSN email relay they depended on meanwhile was shut down in 2021."
+        },
+        {
+            "heading": 2,
+            "text": "The end of gsi-family domains"
+        },
+        {
+            "text": "People are reluctant to remove old domain names, often because they are concerned there might be a forgotten service that depends on the domain. This means these old domains can get neglected and become vulnerable to spoofing and malicious attacks."
+        },
+        {
+            "text": "Many gsi-family domains still exist in both internet and PSN-facing zones. Most are dormant, some are misconfigured, and all are targeted heavily for email spoofing. As a result we plan to remove them entirely by the 31st March 2023."
+        },
+        {
+            "text": "As a starting point we\u2019ve added more protection to reduce the impact, in the form of DMARC records to protect the apex domains and prevent the spoofing of domains that don\u2019t exist. DMARC records tell the receiving email service what the legitimate senders are for that domain. If an email comes from somewhere else it gets marked as spam."
+        },
+        {
+            "heading": 2,
+            "text": "Timeline for changes"
+        },
+        {
+            "text": "Most of the domains appear to be dead already, pointing to services that do not exist or reject queries. It is possible there are still some dependencies we don\u2019t know about. Email may be being routed through to modern systems to provide continuity for old addresses."
+        },
+        {
+            "heading": 2,
+            "text": "What to do if you think you have gsi-family domains"
+        },
+        {
+            "text": "If you still have one of these domains and it still works for email, start rejecting inbound email. You can also choose to include a bounce-back message giving senders the correct address. It will be removed at the end of March, so it would be good to give anyone still using it some notice."
+        },
+        {
+            "text": "You should also check public facing websites or documentation for mentions of gsi-family domains and remove them."
+        },
+        {
+            "text": "If you still have one of these domains and you think you will need it beyond the end of March 2023, get in touch with us now at support@domains.gov.uk so we can work out a solution."
+        }
+    ]
+}
