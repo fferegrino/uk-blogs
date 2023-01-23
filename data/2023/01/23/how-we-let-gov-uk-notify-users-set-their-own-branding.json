@@ -1,0 +1,91 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/01/23/how-we-let-gov-uk-notify-users-set-their-own-branding/",
+    "title": "How we let GOV.UK Notify users set their own branding",
+    "authors": [
+        "Pea Tyczynska - Developer at GOV.UK Notify, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Notify"
+    ],
+    "pub_date": "2023-01-23T10:20:18+00:00",
+    "content": [
+        {
+            "text": "At GOV.UK Notify we currently have 7,000 live services. That\u2019s 1,700 more than we had a year ago. The more users we have, the more important it is that they can do things without our intervention."
+        },
+        {
+            "heading": 2,
+            "text": "How we prioritised branding"
+        },
+        {
+            "text": "Over the course of a year, we received 567 requests to change email branding. That\u2019s roughly equivalent to 2 support tickets per working day."
+        },
+        {
+            "text": "Adding branding on GOV.UK Notify used to be a fairly manual process. Services had to fill in a form that would open a support ticket, and we would work with them to update their branding. If we already had the right logo, we could apply it straight away. If not, we would ask for the logo, text and optional background colour.\u00a0"
+        },
+        {
+            "text": "This approach worked when Notify was small, but it didn\u2019t scale well. It also had some other drawbacks: users had to wait to use their new branding, and they had no way to preview email branding before it was set. Once we changed it for them, a user would have to send themselves a test email to see the new branding in action."
+        },
+        {
+            "text": "We decided to make this process more self-service, to reduce the time and effort spent on support and to give our users a better experience."
+        },
+        {
+            "heading": 3,
+            "text": "Before"
+        },
+        {
+            "heading": 3,
+            "text": "After"
+        },
+        {
+            "heading": 2,
+            "text": "Doing the hard work to make it simple - one step at a time"
+        },
+        {
+            "text": "This feature is a prime example of doing the hard work to make things easier for the users.\u00a0"
+        },
+        {
+            "text": "Although making the whole feature self-service was a very large and complex piece of work, we wanted to deliver improvements as soon as possible.\u00a0"
+        },
+        {
+            "text": "We tested some prototypes with users to refine our ideas, and drew up an action plan. We split the work into several stages, taking into consideration factors such as impact on the support team, complexity of the work, and also potential issues related to quality control for logos uploaded by users."
+        },
+        {
+            "text": "First, we built 2 new flows. One to let NHS services pick NHS branding by themselves, and another to let central government services pick GOV.UK branding.\n"
+        },
+        {
+            "text": "Then, we created \u2018branding pools\u2019 - a set of approved branding options for each organisation. This allowed services to choose any branding from their organisation\u2019s pool, as long as we have it on our system. This feature had the most moving parts, and it took us a while to build it all."
+        },
+        {
+            "text": "If we didn\u2019t have a particular logo on our system, a service would still need to open a support ticket to ask us to add it. These are the most complex tickets to solve, because getting a logo in the right quality and aspect ratio can sometimes be quite a task. Also, the user only gets to see their new branding when we\u2019ve already applied it. If they don\u2019t like it, there\u2019s more support work to do, and a longer wait for the service before they can use their new branding.\u00a0"
+        },
+        {
+            "text": "To improve this, we built a way to let users upload their own logos and preview their new branding. This was the trickiest problem to solve. We had to maintain a balance between empowering our users and maintaining some quality control. After all, poorly-branded notifications can damage recipients\u2019 trust in government communications."
+        },
+        {
+            "text": "We settled on letting users upload and use their new branding straight away, while also keeping an eye on newly-added branding options to ensure they meet quality standards. To make this easy, our app sends a daily digest of new branding options to be reviewed by our team. We\u2019re also happy to help if users need extra support when updating their branding.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Cross-discipline collaboration"
+        },
+        {
+            "text": "Letting our users set their email branding by themselves required collaboration across all disciplines in our team. From designing the prototypes, testing them, and analysing the results together, to the many conversations to figure out how to solve some thornier problems along the way."
+        },
+        {
+            "text": "A lot of work went into interaction and content design, so that we could support our users in adding high quality branding. This includes guidance on writing helpful alt-text for logos. Our users can also preview their new branding embedded in a mock email or letter before they start using it."
+        },
+        {
+            "text": "We held a retro for the epic to ensure that we capture any learnings about how we work together, and bring them into our future projects.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "Letting our users set their own branding took a lot of time and effort, but it was definitely the right thing to do. Especially as the number of services using Notify continues to grow."
+        },
+        {
+            "text": "Branding requests used to account for 8% of all support tickets. Processing an average of 2 branding requests a day took up a lot of our time. Now we can use that time to answer other support tickets, or work on developing more new features."
+        }
+    ]
+}
