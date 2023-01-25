@@ -1,0 +1,110 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/01/25/how-we-ran-a-discovery-for-gov-uk-publishing-permissions/",
+    "title": "How we ran a discovery for GOV.UK publishing permissions",
+    "authors": [
+        "Hannah Jump, Senior Content Designer, Government Digital Service",
+        "Helen Wiles, Senior User Researcher, GOV.UK"
+    ],
+    "categories": [
+        "How we work",
+        "User insights",
+        "Vision and plans"
+    ],
+    "pub_date": "2023-01-25T11:47:13+00:00",
+    "content": [
+        {
+            "text": "Content on GOV.UK is updated every single day by government publishers. This group of several thousand civil servants uses content management tools developed in-house to keep GOV.UK accurate and up to date."
+        },
+        {
+            "text": "These tools have been around since GOV.UK started - over 10 years ago! Recently, the GOV.UK Publishing Team has been looking at how to improve them and make things quicker and easier for publishers to do. This includes things like improving the interface in Whitehall, the most popular tool, which we blogged about last year."
+        },
+        {
+            "text": "To continue making lasting changes for publishers we also decided to look at the systems and models we have in place. We\u2019ve seen issues come up relating to who can publish what and the tasks people can or can\u2019t do. By exploring and critiquing the ways the current permissions model works, we will be able to better meet GOV.UK\u2019s ambitious future plans."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We started by doing a discovery into who can publish what on GOV.UK and how permissions work for users in order to find out:"
+        },
+        {
+            "text": "Throughout this discovery we made sure we were exploring the problem for all users, and proposing solutions that would work for everyone, without disadvantaging any particular user group."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "We wanted to combine approaches in our discovery to ensure that we\u2019d looked at tasks and permissions comprehensively. Some of the things we did were:"
+        },
+        {
+            "text": "The user research was carried out with a range of departments, including the Foreign, Commonwealth and Development Office (FCDO) and HMRC among others, with whom we were able to test our assumptions. Both the workshops and the research offered us new insights around publishing tasks and permissions."
+        },
+        {
+            "heading": 3,
+            "text": "The workshops"
+        },
+        {
+            "text": "We held a series of internal workshops to make use of in-house expertise, explore assumptions and consider how permissions affected us in GDS."
+        },
+        {
+            "text": "We did workshops on:"
+        },
+        {
+            "text": "Some of our workshops brought us together as a group to assess our knowledge ahead of further research and investigation. For example, we ran an assumptions workshop where we got participants to add assumptions about each stage of the journey to a journey map. Then, we prioritised assumptions to test in research, based on how much we knew about them already, and the impact it would have on the project if we incorrectly assumed they were true."
+        },
+        {
+            "text": "Above is an example where we thought through a scenario and the consequences of it - we are not necessarily going to implement this, it was a tool for thinking! Alongside this research, we used a consequence scanning workshop to think about what the unintended consequences might be of each idea, how they might disproportionately affect different user groups, and how they might have systemic effects on publishers."
+        },
+        {
+            "text": "Other workshops helped us develop and explore new ideas. For example, we ran a \u2018What would happen if\u2019 workshop where we gave participants radical scenarios for how publishing could be different and encouraged participants to think about how this would work in practice, and what groups it would benefit."
+        },
+        {
+            "text": "We also used workshops to gain valuable insights to help supplement our user research. For example, we spoke to content teams at GDS about how they provide support to departments who are publishing content."
+        },
+        {
+            "heading": 3,
+            "text": "The user and desk research"
+        },
+        {
+            "text": "We did research with 14 people from 7 departments. We spoke to a variety of publishers in a range of different publishing roles, from statisticians to content product leads."
+        },
+        {
+            "text": "We also did some desk research to analyse support tickets for recurring themes about tasks and permissions, and looked at how permissions models worked in the wider publishing and content management system industry."
+        },
+        {
+            "heading": 2,
+            "text": "The challenges we faced and what we learned"
+        },
+        {
+            "text": "Doing a discovery that spans multiple teams can be hard. Some of our challenges included needing to work at pace on a project where we had lots of different sources of information, and ensuring the work was relevant and actionable for multiple teams. Most importantly, we needed to share our findings and make sure the recommendations did not get lost in other priorities at the end."
+        },
+        {
+            "text": "We learned that we needed to adapt how we worked so that we could analyse all our information, for example, by doing collaborative work in person so that we could identify and group themes across various sources of information. It was really helpful to interact with our desk research and sort through the information visually with post-its and notes. Involving people from many teams in our workshops ensured we had their input, and also meant that they stayed up to date with what we were working on."
+        },
+        {
+            "text": "To help ensure our findings were actionable we:"
+        },
+        {
+            "text": "Doing a discovery this way really helped us understand our users and what they needed. Some of the issues identified we will work on now, others will be addressed over time."
+        },
+        {
+            "heading": 2,
+            "text": "Insights from the discovery"
+        },
+        {
+            "text": "Some of our key insights were:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "Based on these insights, we came up with some recommendations for the GOV.UK Publishing team. We prioritised these recommendations, and put some in the backlog to start exploring further. We may ask cross-government publishers to participate in more research. You can sign up to take part in future user research sessions by completing the Google form or by emailing publishing-service-research@digital.cabinet-office.gov.uk."
+        },
+        {
+            "text": "We are also going to implement some quick fixes and small changes to permissions. More insights on that coming soon."
+        }
+    ]
+}
