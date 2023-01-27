@@ -1,0 +1,84 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2023/01/27/changes-to-the-way-we-report-on-covid-19-deaths/",
+    "title": "Changes to the way we report on COVID-19 deaths",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "Coronavirus (COVID-19)"
+    ],
+    "pub_date": "2023-01-27T17:42:19+01:00",
+    "content": [
+        {
+            "text": "We are changing the way we present COVID-19 death statistics on the GOV.UK COVID-19 Dashboard. \u201cDeaths with COVID-19 on the death registration\u201d will replace \u201cdeaths within 28 days of a positive test\u201d as the primary reported COVID-19 death statistic.\u00a0"
+        },
+        {
+            "text": "This blog explains why we are making changes to how we present data on COVID-19 deaths.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How do we count COVID-19 deaths?"
+        },
+        {
+            "text": "We have counted deaths following COVID-19 infection since the start of the pandemic. Monitoring how many people die following infection with a recently emerged virus tells us how severe it is. It can also help us understand where the disease is spreading and who is worst affected by it.\u00a0\u00a0"
+        },
+        {
+            "text": "We explained previously how COVID-19 deaths are recorded in the United Kingdom. There are two main reports:\u00a0"
+        },
+        {
+            "text": "We started counting deaths with COVID-19 for rapid pandemic monitoring when there was a need to publish figures on a daily basis to inform decisions about our pandemic response. This information can be collected much more quickly than death registrations, so it can be used as an early warning signal of changes in trends to support public health actions. By using this measure, we were able to cut the reporting lag associated with death registrations from 11 days to 2-3 days. The deaths with COVID-19 metric has been used as the leading death indicator on the Gov.uk dashboard until 26 January 2023.\u00a0"
+        },
+        {
+            "text": "Death registrations are collated by the Office of National Statistics (ONS) and represent people who die from COVID-19, as decided by the clinician registering the death. This measure provides a less rapid but more accurate measure of the burden of the disease over time and has been published on the gov.uk dashboard since 2020."
+        },
+        {
+            "heading": 2,
+            "text": "What has changed?"
+        },
+        {
+            "text": "We have been monitoring how closely these two measurements align to make sure that the number of people who die with COVID-19 is a close approximation of the number of people who die from COVID-19. Throughout 2020 and 2021, between 80% and 90% of deaths reported within 28 days of a positive COVID-19 test also had COVID-19 mentioned on the death registration.\u00a0"
+        },
+        {
+            "text": "Starting in early 2022 however, there has been a marked divergence in the two measures, and this percentage dropped below 50% concordance in the summer of 2022 and has stayed below 50% this winter. \u00a0This change corresponded with the emergence of the Omicron variant and increasing levels of immunity from vaccination and previous infection, resulting in protection from severe illness. \u00a0"
+        },
+        {
+            "text": "More detailed comparison of two COVID-19 mortality measures can be found here.\u00a0"
+        },
+        {
+            "text": "With high levels of immunity in the population and COVID-19 continuing to circulate in the community, it is not uncommon for people who die of other causes to have a COVID-19 infection recorded at or around the time of death. These deaths may have been reported in the 28-day measure, but not counted in the death registrations because their death was not judged to be related to their COVID-19 infection. \u00a0\u00a0"
+        },
+        {
+            "text": "The divergence between the two measures has been observed over a sufficient time period for us to be confident that it is not a temporary effect, for example due to changes in testing practices. As a result, we recommend that deaths within 28 days of a positive test should no longer be interpreted as the leading indicator of deaths due to COVID-19 and that death registrations should be used instead.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Percentage of deaths within 28 days of a positive COVID-19 test where COVID-19 was subsequently mentioned on the death registration: March 2020 to September 2022\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How we are adjusting our statistics"
+        },
+        {
+            "text": "When you open the COVID-19 dashboard, you will now see that \u201cdeath registrations\u201d has replaced \u201cdeaths within 28 days of a positive COVID-19 test\u201d\u00a0 as the headline measure of COVID-19 deaths.\u00a0\u00a0"
+        },
+        {
+            "text": "The number of deaths within 28 days of COVID-19 will continue to be published as a subsidiary measure on the GOV.UK Dashboard to support users during this change by allowing comparison of both measures. We will also continue to publish this measure in the National COVID-19 and Flu surveillance report. All data will remain available for public use for transparency.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What next?"
+        },
+        {
+            "text": "At UKHSA, we keep our statistics under continual review to ensure that they remain relevant and that we are publishing the best measure available.\u00a0\u00a0"
+        },
+        {
+            "text": "As we reach a new phase of the pandemic, there is less need for a real-time deaths measure and instead we can focus on death registrations as the most important indicator for deaths associated with COVID-19. "
+        },
+        {
+            "text": "We are continuing to develop the COVID-19 dashboard and the COVID-19 surveillance statistics to ensure they remain relevant, useful and consistent with best practice. We will keep you posted as we progress.\u00a0"
+        },
+        {
+            "text": "We welcome your feedback on these changes, our COVID-19 statistics or our statistical products more generally. Please get in touch at coronavirus-tracker@ukhsa.gov.uk or UKHSA_HOPSTATS@ukhsa.gov.uk\u00a0"
+        }
+    ]
+}
