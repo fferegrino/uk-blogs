@@ -1,0 +1,67 @@
+{
+    "url": "https://codigital.blog.gov.uk/2023/02/10/experiencing-aws-reinvent-2022/",
+    "title": "Experiencing AWS re:Invent 2022!",
+    "authors": [
+        "Dean Lewis"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2023-02-10T18:42:30+00:00",
+    "content": [
+        {
+            "text": "I had the privilege of representing Cabinet Office Digital at AWS re:Invent."
+        },
+        {
+            "text": "On arriving at the Conference, I was shocked at the sheer size and scale. This year was AWS\u2019s largest ever re:Invent Conference with over 50,000 participants in person and many more online."
+        },
+        {
+            "text": "Covering multiple hotel locations and a wide range of topics this gave engineers a chance to learn from one another,\u00a0 In a variety of different ways.\u00a0 Through tech talks and ad-hoc sessions this event offered a good opportunity to gain insights and best practice from industry leaders."
+        },
+        {
+            "text": "The conference opened with a Keynote Speech with Peter DeSantis who shared the new products across storage / networking and compute."
+        },
+        {
+            "text": "Knowledge and Learning provided by AWS spanned many different disciplines so every night I took time to select a list of sessions that I feel could return benefits to the work we do at the Cabinet Office.\u00a0\u00a0"
+        },
+        {
+            "text": "Presentations and seminars were high quality with 2600 different workshops / seminars there was something for everyone from Broadcasting to Telecoms, From Software to DevOps."
+        },
+        {
+            "text": "Government is currently undergoing several transformation projects so it\u2019s at events like these where we can learn from industry leaders that we can ensure we are providing the best value for the general public."
+        },
+        {
+            "text": "Below are some products, sessions and keynotes that I found particularly interesting."
+        },
+        {
+            "text": "Lambda Snap start"
+        },
+        {
+            "text": "Several departments across government use Java and so the release of Lambda SnapStart will be a potential game changer here.\u00a0 Enabling faster cold starts could not only save money by enabling machines to be turned off but also increase performance when systems need to scale.\u00a0 This ability should result in cost savings over the long term."
+        },
+        {
+            "text": "Cloud Security"
+        },
+        {
+            "text": "At Cabinet Office Digital keeping our platforms secure is a priority.\u00a0 And at AWS re:Invent security featured big.\u00a0 One major product was Amazon launching Amazon Security Lake which is a new service that enables organisations to aggregate logs and events from multiple sources and enable quick analysis and respond to threats more effectively."
+        },
+        {
+            "text": "Pizza Slice Teams"
+        },
+        {
+            "text": "One particular session I attended was on Pizza Slice Teams at Amazon. \u00a0 This is the idea that teams should be only small enough that they could be fed by just two pizzas.\u00a0 This leads to increased innovation as each team may produce multiple similar outputs but reduces the amount of \u2018meetings\u2019 and overhead allowing each team to focus on its output individually.\u00a0 This enables faster-to-market products but through time ultimately converge.\u00a0 This enables teams to work faster in a more agile fashion."
+        },
+        {
+            "text": "Scalable Reliable Datagram (SRD)"
+        },
+        {
+            "text": "One of the most exciting announcements at AWS was the Elastic Network Adapter / ENA Express that uses the Scalable Reliable Datagram this can be used within virtual networks.\u00a0 This protocol is able to push 25Gbps over a traditional TCP flow which reduces latency. \u00a0 The consumers on the SRD side are able to reassemble packets (packet reordering) and so doing this in parallel across the network increases overall performance.\u00a0 What this means is that by utilising ENA some applications can gain a performance boost especially those that shift large amounts of data between two systems.\u00a0 This could result in faster load times of pages and applications."
+        },
+        {
+            "text": "Excited to use the learnings..."
+        },
+        {
+            "text": "Every session at AWS re:Invent challenged me in a new and exciting way and I want to say thanks to all the people I have met over the 5 days who gave me new and powerful insights and I hope to apply these within CO Digital through our Transformation agenda."
+        }
+    ]
+}
