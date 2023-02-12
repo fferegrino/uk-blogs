@@ -1,0 +1,81 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2023/01/18/how-were-providing-better-data-to-power-decision-making-the-technology-behind-making-critical-data-assets-available-on-ids/",
+    "title": "How we're providing better data to power decision making - the technology behind making critical data assets available on IDS",
+    "authors": [
+        "Tom Scott"
+    ],
+    "categories": [
+        "Data",
+        "IDS",
+        "Technology"
+    ],
+    "pub_date": "2023-01-18T11:13:32+00:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "We\u2019re helping to deliver mission three of the 2022 to 2025 roadmap for digital and data by leading the build of the cross government Integrated Data Service (IDS).\u00a0 The service will make it easier for analysts across government - and eventually academics and others - to access a catalogue of quality indexed data sources which will inform policy decisions and improve public services."
+        },
+        {
+            "heading": 2,
+            "text": "Better data and analysis"
+        },
+        {
+            "text": "Continual focus on meeting user needs with better data and analysis is critical to IDS - the data and tools we share with other government organisations will help them to investigate problems facing citizens, identify root causes, and deliver solutions through new legislation, services, and support.\u00a0 Just as critical is our protection of personal information \u2013 we go to great lengths to de-identify the data, making sure safe insights are generated."
+        },
+        {
+            "text": "One of the biggest data challenges for government are the boundaries that exist between departments which slow down the sharing of government data - complex legal frameworks and isolated working arrangements delay, or in some cases prohibit, important and innovative research."
+        },
+        {
+            "text": "The IDS provides a platform that allows us to share timely and relevant data securely across government, academia and the wider research community to support effective analyses and decision-making, while maintaining high standards of data security and governance."
+        },
+        {
+            "heading": 2,
+            "text": "The technology "
+        },
+        {
+            "text": "IDS uses a modern multi-cloud platform to build our services. We learnt a lot from delivering the Census 2021 about cloud scaling, security, and implementation. We\u2019ve also been through a tech refresh.\u00a0 Moving to the Google Cloud Platform earlier this year allowed us to use a set of products and tools that gave us both flexibility and assurance."
+        },
+        {
+            "text": "The data is stored in Google's BigQuery which gives us fine grained control of information for each piece of analysis.\u00a0 With this we can keep to the five safes model which are: safe people, safe projects, safe settings, safe outputs and safe data."
+        },
+        {
+            "text": "We have built analysis tools like Jupyter notebooks with supporting services from GitHub and Artifactory, and our infrastructure is built with role based access controls at the centre of the design, using Terraform and Kubernetes."
+        },
+        {
+            "heading": 2,
+            "text": "Innovative solutions"
+        },
+        {
+            "text": "IDS data is accessed through a web browser.\u00a0 There are brilliant web-based tools to run data science and statistical methods in web browsers.\u00a0 To ensure that data is protected as much as possible but still allows analysts to use the IDS platform, we worked with Cloudflare to further develop their browser isolation tools.\u00a0 For example, stopping copy and paste activities between the browser and the operating system but still allowing copy and paste within the tab and workspace."
+        },
+        {
+            "heading": 2,
+            "text": "Collaborating across government"
+        },
+        {
+            "text": "We\u2019re not working alone on IDS.\u00a0 We're making sure colleagues across government are aware of our work and collaborate with them to help make sure the platform is meeting their needs."
+        },
+        {
+            "text": "We\u2019re partnering with Central Digital and Data Office on the Government Data Exchange (GDX) so that IDS will be able to take advantage of the standards and data that are being developed and we\u2019re encouraging others to contribute and share their data with IDS. Ultimately, we want to allow users to bring their data and analysis to the platform and combine and share it with others."
+        },
+        {
+            "heading": 2,
+            "text": "Meeting needs through different sharing models"
+        },
+        {
+            "text": "We know that not everyone will give us data in the same way, so we developed 3 models that a provider can use."
+        },
+        {
+            "heading": 2,
+            "text": "Launch"
+        },
+        {
+            "text": "We have learnt a lot so far are planning a public beta launch in March.\u00a0 Building at pace challenges us to keep the focus on usability, to provide enough support to new users, and to incorporate feedback to enhance the platform."
+        },
+        {
+            "text": "It is indeed exciting times.\u00a0 We\u2019re using the technology to deliver an innovative platform that will provide the ability to answer questions that we don\u2019t yet know we need to answer."
+        }
+    ]
+}
