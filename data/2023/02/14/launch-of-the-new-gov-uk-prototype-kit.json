@@ -1,0 +1,77 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/02/14/launch-of-the-new-gov-uk-prototype-kit/",
+    "title": "Launch of the new GOV.UK Prototype Kit",
+    "authors": [
+        "Ruth Hammond - Product Manager, GDS",
+        "Amelia Phillips"
+    ],
+    "categories": [
+        "Digital Service Platforms"
+    ],
+    "pub_date": "2023-02-14T10:34:26+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK Prototype Kit is a tool for building working prototypes of new government services in just a matter of hours. Our new version (version 13) makes creating and updating prototypes easier for all users, particularly those getting started with the Kit.\u00a0"
+        },
+        {
+            "text": "The prototypes the Kit creates are real websites, using normal HTML, CSS and JavaScript that run in standard browsers. This means you can use the prototypes you build to do realistic testing with users, on their own devices, and using any assistive technology such as screen readers. In short, it makes it easier for departments to build better digital services."
+        },
+        {
+            "heading": 2,
+            "text": "Test with prototypes and save time"
+        },
+        {
+            "text": "Testing with prototypes before building full production services saves time and money. It lowers the risk of spending money building the wrong thing and therefore also reduces failure demand (the demand created by failing to do something correctly). Building prototypes using the Kit also takes much less time than building production ready services only to have to change them.\u00a0"
+        },
+        {
+            "text": "We believe that user centred design is the key to government building better, more usable and more accessible services; prototyping is at the heart of this approach. Get in touch for a demonstration."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s new"
+        },
+        {
+            "text": "We\u2019ve made a new version of the GOV.UK Prototype Kit to create a better experience for users. We\u2019ve simplified the installation and update process and created a new \u2018manage your prototype\u2019 section that makes it easier to both create new prototypes and make changes to existing ones.\u00a0"
+        },
+        {
+            "text": "In the spirit of practising what you preach, we tested the changes with our users. They said the new features make prototyping easier and more efficient, as they help users get started more quickly and easily, without necessarily needing to find the relevant documentation. They also said that these changes make it more intuitive and easy to use, particularly for people new to the Kit or new to coding."
+        },
+        {
+            "text": "Find out more on our What's new page.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing next"
+        },
+        {
+            "text": "Having less coding experience shouldn\u2019t stop you from using the GOV.UK Prototype Kit. We know getting started can still be challenging for new users, so we\u2019re prioritising building new features that continue to make it easier for new users to get started and improving our tutorials and guidance.\u00a0"
+        },
+        {
+            "text": "We\u2019re also making it easier for departments to customise the Kit with their own style guides through plugins. This means they won\u2019t need to build and maintain their own versions."
+        },
+        {
+            "heading": 2,
+            "text": "How we tested version 13"
+        },
+        {
+            "text": "We\u2019ve tested this new version with two stages of research:"
+        },
+        {
+            "heading": 3,
+            "text": "Stage 1"
+        },
+        {
+            "text": "Pre-beta usability testing with 5 users. One hour sessions that specifically helped us to test changes to the new homepage element of v13."
+        },
+        {
+            "heading": 3,
+            "text": "Stage 2"
+        },
+        {
+            "text": "A 4-week private beta. We invited around 20 existing users of the kit to use the new kit over 4 weeks. We asked participants to use the kit as they would usually to create and work on prototypes. We set up a dedicated Slack channel to collect feedback and offer support, and we\u00a0 collected feedback more formally through a survey and interviews.\u00a0"
+        },
+        {
+            "text": "Participants were a range of existing GOV.UK Prototype Kit users with differing experience and confidence with the Kit, and varying overall digital capability. Because of this we feel confident that the decisions we made based on the research have been influenced by a mix of perspectives, based on all of our user types."
+        }
+    ]
+}

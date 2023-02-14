@@ -1,0 +1,97 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2023/02/14/using-data-science-for-next-gen-statistics/",
+    "title": "Using Data Science for Next-Gen Statistics",
+    "authors": [
+        "Brid Roissetter \u2013 Data Scientist, The Office for National Statistics",
+        "Dominic Bean \u2013 Data Scientist, The Office for National Statistics"
+    ],
+    "categories": [
+        "Data Engineering",
+        "Data science",
+        "Other tools",
+        "Python",
+        "Reproducible Analytical Pipelines"
+    ],
+    "pub_date": "2023-02-14T15:59:23+00:00",
+    "content": [
+        {
+            "text": "As the 21st century progresses, using data effectively has become a priority for many organisations, including the Office for National Statistics (ONS). The ONS's unique focus, however, goes beyond just utilising data effectively. The organisations ultimate goal is to create a comprehensive picture of life in the UK by providing timely and robust statistics. This information empowers governments, businesses, and individuals to make informed decisions and plan for the future."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Reproducible Data Science and Analysis Team at the ONS"
+        },
+        {
+            "text": "The Reproducible Data Science and Analysis (RDSA) team, sits within the Economic Statistics Change Directorate, and uses cutting-edge data science and engineering skills to produce the next generation of economic statistics. Current priorities include overhauling legacy systems and developing new systems for key statistics related to the economic impact of Brexit, the COVID-19 Pandemic, and inflation."
+        },
+        {
+            "text": "Over the last five years, the RDSA team has grown from 4 to 50 people \u2013 indicating the value they bring to ONS.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Speeding Up Decision Making: ONS's Faster Indicator for Road Traffic Sensors in England"
+        },
+        {
+            "text": "Recently, the RSDA team successfully modernised a Reproducible Analytical Pipeline (RAP) for Highways England Road Traffic Flow data. This improvement has led to a significant reduction in the time it takes for the data to become available and be published in the ONS's Faster Indicators Bulletin, now taking approximately two weeks less. This means that data users and policymakers now have access to timely and accurate information on traffic flows, allowing them to make more informed decisions."
+        },
+        {
+            "text": "This RAP produces statistics for Road Traffic in England in a timely manner and is considered by the ONS as a Faster Indicator. Road Traffic statistics provide valuable insights into the UK economy's supply and demand of goods by understanding how domestic and foreign goods are transported across the country. This data was particularly valuable for economists and other experts to analyse the impact of the Coronavirus Pandemic on the UK economy."
+        },
+        {
+            "text": "In addition, the data has the potential to provide insights into the UK's supply capacity and the relationship between types of vehicles and regional economic activity. This information can be beneficial for the UK Government's Levelling Up Agenda, helping to support local communities and economies."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Deploying the Road Traffic Sensor RAP on the Google Cloud Platform"
+        },
+        {
+            "text": "The Road Traffic Sensor RAP has been given a new lease of life thanks to its deployment on the Google Cloud Platform (GCP). By utilizing the Cloud Run service offered by GCP, we were able to take advantage of its ability to run software packages with ease. The Python package for the Road Traffic Sensor RAP runs smoothly on the GCP Cloud Run service, allowing our team to focus on writing and improving the code, rather than managing server infrastructure. Additionally, the cost-effective nature of Cloud Run means that we only pay when the package is in use, providing a cost-saving solution for our organisation."
+        },
+        {
+            "text": "If you're looking to run your application on the cloud, using Cloud Run is a great option. But in order to use Cloud Run, your application needs to be in a special format called a container. One popular way to create this containerised version of your application is through a tool called Docker. When using Docker, developers can create a file called a Dockerfile, which helps organize their code and files in a way that makes the application self-contained and ready to run on the cloud."
+        },
+        {
+            "text": "Let's imagine that building a containerised application is like building a house. Just like how raw materials like brick, tiles, and timber are needed to build a house, our Python package containing scripts and files is needed to build our containerised application."
+        },
+        {
+            "text": "First, we create a blueprint for our house, which is similar to creating a Dockerfile for our application. This Dockerfile tells Docker, the architect, how we want our application to be structured and arranged."
+        },
+        {
+            "text": "Once the blueprint is ready, the architect (Docker) takes it and creates the technical documents, similar to blueprints and structural drawings for a house. Then, the builders and engineers (GCP Cloud Build) use these technical documents to construct the house, which in this case is our containerised Python application."
+        },
+        {
+            "text": "Finally, just like how a property manager takes care of the repairs, maintenance, security, and upkeep of a house, Cloud Run takes care of the same responsibilities for our containerised application."
+        },
+        {
+            "text": "Deploying code to the Cloud using tools like GCP and Docker is certainly a convenient and efficient process. However, it's important to remember that this is just one aspect of the overall software development process. To build and maintain a robust and high-quality codebase, it's essential to adhere to best practices and utilise the right tools. For this reason, we highly recommend checking out the \"Quality assurance of code for analysis and research\" online book, written by the Quality and Improvement team at the Office for National Statistics. This book delves into important topics such as version control, modular code, unit testing, and peer review, all of which were crucial to the development of our Road Traffic Sensor RAP package."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Looking Towards The Future"
+        },
+        {
+            "text": "The ever-increasing volume of data and the need to extract valuable insights from it presents a significant challenge. However, the potential for technology to improve various aspects of our society and economy is vast."
+        },
+        {
+            "text": "Public sector organisations must adapt and evolve with the times in order to continue making a meaningful impact on citizens' lives for years to come. The RDSA team will rise to meet these challenges and help the UK Government achieve Mission Three: \"Better data to power decision-making\" and Mission Six: \"A system that unlocks digital transformation\" \u2014 of its Digital Data Strategy."
+        },
+        {
+            "text": "By committing to ongoing learning and staying up-to-date with the latest trends and tools, the RDSA team is one of many at the ONS working to create more timely and robust statistics that empower governments, businesses, and individuals to make informed decisions and plan for the future."
+        },
+        {
+            "text": "If you're interested in learning more about the innovative work being done by the RDSA team, don't hesitate to reach out to our team lead, Rich Campbell at richard.campbell@ons.gov.uk."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2023/02/14/join-d2s-today-public-beta-launch/",
+    "title": "Join D2S Today: Public Beta Launch",
+    "authors": [
+        "Hayley P"
+    ],
+    "categories": [
+        "Digital Foundry"
+    ],
+    "pub_date": "2023-02-14T10:01:28+00:00",
+    "content": [
+        {
+            "text": "The Defence DevSecOps Service (D2S) is here to provide our users with a streamlined and accelerated software delivery experience. The service spans across people, practices and platforms and is designed to deliver a shorter time to market and promote greater business agility and resilience."
+        },
+        {
+            "text": "Our flagship offering is a DevSecOps Platform which allows users to build, test and launch secure software as highly available cloud-native-services. It now\u00a0gives me immense pleasure to share with you that we have now launched the public beta for the service at OFFICIAL!"
+        },
+        {
+            "text": "In this blog, I will be sharing the key information you\u2019ll need to start your D2S journey today."
+        },
+        {
+            "heading": 2,
+            "text": "What public beta means\u00a0"
+        },
+        {
+            "text": "The Defence DevSecOps Service (D2S) team have been working hard with our platform users in private beta, and that time has been incredibly insightful.\u00a0"
+        },
+        {
+            "text": "We have taken this learning forward and are now ready to welcome more teams across Defence to join the service.\u00a0In line with one of our key principles of making the service easy to adopt and consume, we have also developed the D2S Self-Service portal so users can easily get started with D2S."
+        },
+        {
+            "text": "You can find out more about D2S on the D2S Service page or watch our launch video:"
+        },
+        {
+            "text": "If you're not on MODNET, you can watch the launch video on Powtoon."
+        },
+        {
+            "heading": 2,
+            "text": "Get started using the D2S Self-Service Portal"
+        },
+        {
+            "text": "The D2S Self-Service Portal is a one-stop-shop for prospective users in Defence to learn about D2S, set up an account and access the platform. Teams can now sign up for a D2S account and start developing on the platform in 48 hours."
+        },
+        {
+            "text": "To get started, follow the steps on the portal or watch our brief \u201chow-to\u201d video guide:"
+        },
+        {
+            "text": "Please note, you must have an MOD email address and a Crown Servant approval to request a D2S account on the Self-Service Portal. Team leads should create a project for the application team first and then add team members to the project after they have logged into OpenShift."
+        },
+        {
+            "text": "If you are a Defence industry partner and would like to discuss a potential use case, you can contact the D2S team.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What our users are saying"
+        },
+        {
+            "text": "As I have shared previously, user-centred design underpins all our work. At every stage of the process, we have worked with the developer community in Defence to gather valuable feedback through interviews, co-creation workshops, surveys, and community forums. Our users have shaped and enabled us to continuously improve D2S."
+        },
+        {
+            "text": "There are 9 teams currently using D2S to build 11 applications for Defence, with a range of use cases from a Cyber Risk Terrain Analysers to GOV.UK Service Pages."
+        },
+        {
+            "text": "In a recent survey, our users said:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next for D2S"
+        },
+        {
+            "text": "We\u2019ll continue to iterate the service in public beta and listen to the voice of our users. 2023 promises to be another exciting year for D2S as we kick off discovery for DevSecOps in the deployed space, additional DevOps tooling and look to expand our offering even further."
+        },
+        {
+            "text": "Thank you for the continued engagement and support so far \u2013 we look forward to growing our community and welcoming more teams in the coming weeks and months!"
+        }
+    ]
+}

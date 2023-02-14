@@ -1,0 +1,77 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/02/14/our-technical-cloud-community-is-blooming/",
+    "title": "Our Technical Cloud Community is blooming",
+    "authors": [
+        "Phil Chatterton, Chief Enterprise Architect, CDDO",
+        "Sam Lawler, Deputy Director Strategy, Analysis and Reform, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Cross-government strategy",
+        "DDaT",
+        "DDaT community",
+        "Digital transformation"
+    ],
+    "pub_date": "2023-02-14T10:47:54+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "The journey to digital transformation\nby Sam"
+        },
+        {
+            "text": "I recently had a fantastic opportunity to join a panel at the Gov ICT Conference in London, where I spoke alongside colleagues from across government and the private sector about some of the challenges facing us today when it comes to digital transformation. It highlighted a lot of things, including how change in this space is not just about technology. If we want to change the way that we work and how we make the best use of digital solutions, then we need to look both at the technology we provide and the culture we build around it."
+        },
+        {
+            "text": "We are making huge strides in the use of new solutions and emerging technology with particularly great things happening on Cloud, as Phil mentions below! What I think comes next is a deeper understanding of digital at all levels, so that we can use these gains to their best advantage. The DDaT profession has recently grown by 12% with almost 2,200 new colleagues. This is starting to lay the foundations for accelerating delivery in the future."
+        },
+        {
+            "text": "In recognition of this, when we published the government's new digital and data strategy, \u2018Transforming for a Digital Future\u2019 in June 2022, we set out plans within it to build a \u2018system that unlocks digital transformation\u2019. This means tackling systemic barriers like the way we issue funding and how we work with other professions such as policy and commercial. We have begun building even stronger ties with colleagues in these areas, partnering with HMT on updates to budgeting guidance and working with the policy profession on exemplars of multi-disciplinary digital and policy teams. I can\u2019t wait to see what comes next!"
+        },
+        {
+            "heading": 3,
+            "text": "Our cross-government tech Cloud Community\nby Phil\u00a0"
+        },
+        {
+            "text": "In December 2022, CDDO launched our cross-government tech Cloud community, you can read more in my previous blog post. We\u2019re delighted to share we\u2019ve now had over 120 active members and we now extend to over 34 government organisations."
+        },
+        {
+            "text": "The conversation is starting to heat-up, and we are now discussing topics ranging from the vocative, to the detail: sharing tooling of code repositories."
+        },
+        {
+            "text": "The aims of our community can be found here, but essentially we are currently focused on three key elements, as below."
+        },
+        {
+            "text": "1. Sharing code"
+        },
+        {
+            "text": "To quickly accelerate our use of the Cloud, and build models of best practice, we need to learn the lessons from others and find ways of sharing . This means sharing code, design and patterns. To do this we are pursuing a plan to build \u2018open\u2019 repositories, which our community (and others) can draw upon when developing solutions, saving time and pain when developing Cloud solutions in government."
+        },
+        {
+            "text": "There are examples outside government we can look to for inspiration, for example all of Google\u2019s code is open for read access, right across their organisation. This means people can copy, improve upon or comment upon code which exists today, speeding their own development and in turn providing\u00a0 feedback on existing code, helping to improve the entire\u00a0 enterprise."
+        },
+        {
+            "text": "By sharing code we can reduce time, increase productivity, truly foster an environment of collaboration and continual improvement and not least will save tax-payers money too."
+        },
+        {
+            "text": "To help with this CDDO are examining the cataloguing of code repositories, policies, documentation and directories of \u201cpeople to talk to\u201d."
+        },
+        {
+            "text": "2. Learning directly from others"
+        },
+        {
+            "text": "As part of the 2023 calendar, we are publishing a number of events for the community. We\u2019ll be hosting webinars where attendees can listen in and interact with external vendors and organisations who have established Cloud and can provide insight into how we might do things differently in our use of Cloud."
+        },
+        {
+            "text": "3. Cloud Principles"
+        },
+        {
+            "text": "Helping us make the right decisions about the Cloud means understanding the boundaries and key questions we must answer to making a decision. Which Cloud? Private or Public? Managed service? Infrastructure as code?\u00a0"
+        },
+        {
+            "text": "These are all things which we must decide upon when commissioning the infrastructure on which digital government works. Within the Cloud tech community we are providing feedback to the Chief Technology Officer Council, giving practical advice and challenges to a set of principles which will then provide the boundaries around how government builds Cloud going forward."
+        },
+        {
+            "text": "If you would like to know more, come and join us! Find out\u00a0 more here."
+        }
+    ]
+}
