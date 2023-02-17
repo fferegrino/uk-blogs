@@ -1,0 +1,96 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2023/02/17/introducing-mod-uk-frontend-and-the-design-library/",
+    "title": "Introducing MOD.UK Frontend and the Design Library",
+    "authors": [
+        "A.Graham"
+    ],
+    "categories": [
+        "Digital Foundry"
+    ],
+    "pub_date": "2023-02-17T10:01:52+00:00",
+    "content": [
+        {
+            "text": "We\u2019re proud to launch 2 products that will help the Ministry of Defence (MOD) create consistent digital products and services."
+        },
+        {
+            "text": "As the product manager on the Frontend team, I can\u2019t wait to see designers and developers use MOD.UK Frontend and the Design Library to:"
+        },
+        {
+            "heading": 2,
+            "text": "MOD.UK Frontend"
+        },
+        {
+            "text": "MOD.UK Frontend is a collection of 30 components and their associated code.\u00a0"
+        },
+        {
+            "text": "Components are reusable parts of the user interface \u2013 a bit like building blocks."
+        },
+        {
+            "text": "Frontend developers will be able to use our thoroughly tested components to build products and services.\u00a0"
+        },
+        {
+            "text": "Our components are closely based on GOV.UK Design System components \u2013 we\u2019ve updated them with MOD branding, so they\u2019re suitable for users in Defence. We\u2019ve changed the component:"
+        },
+        {
+            "text": "Reusable components will save MOD digital project teams time. Why waste money creating new radio buttons for your product when we\u2019ve got an accessible and tested component for you to use?"
+        },
+        {
+            "heading": 2,
+            "text": "Design Library"
+        },
+        {
+            "text": "We\u2019ve built the Design Library in Figma, a widely used online design app.\u00a0"
+        },
+        {
+            "text": "The Design Library has the same components as MOD.UK Frontend. By adding the components to Figma, we\u2019ve made it easy for designers to prototype and test designs.\u00a0"
+        },
+        {
+            "text": "We\u2019ve also included additional experimental components \u2013 teams will need to test these with users. If you use them in your project, please share your research."
+        },
+        {
+            "text": "We\u2019re planning a Figma account for Defence users that will help teams update their designs when we update our components."
+        },
+        {
+            "heading": 2,
+            "text": "Why align to the GOV.UK Design System?"
+        },
+        {
+            "text": "One of our biggest challenges has been deciding what approach to follow. We\u2019ve conducted extensive research with teams across MOD to find out how they work and what they and their users need.\u00a0"
+        },
+        {
+            "text": "We chose to align to the GOV.UK Design System, which uses HTML and Nunjucks code snippets, because:"
+        },
+        {
+            "heading": 2,
+            "text": "Building a foundation for reuse"
+        },
+        {
+            "text": "I\u2019m confident the MOD.UK Frontend and Design Library provide a firm foundation for designers and developers to build on."
+        },
+        {
+            "text": "However, our research shows that MOD users also need designs and components not in the GOV.UK Design System \u2013 and by extension, our first release.\u00a0"
+        },
+        {
+            "text": "We\u2019ve started with a simple approach and created the basic building blocks. Now we can add new reusable components over the coming months that meet specific needs of MOD users. As we add components, we will ensure we meet the standards that MOD products and services will be assessed against."
+        },
+        {
+            "heading": 2,
+            "text": "We need your feedback and engagement"
+        },
+        {
+            "text": "We\u2019re inviting designers, developers and other user-centred design professionals to use MOD.UK Frontend and the Design Library.\u00a0"
+        },
+        {
+            "text": "We\u2019ll be working closely with Foundry teams to support early adoption, but we welcome the opportunity to engage with anyone who wants to use our products.\u00a0"
+        },
+        {
+            "text": "Please contact the Frontend team to share your feedback."
+        },
+        {
+            "text": "We\u2019re keen to prioritise the next most important things to do beyond the products we\u2019ve delivered to realise the benefits of reuse in design and development."
+        },
+        {
+            "text": "MOD.UK Frontend and the Design Library are an important step towards a more consistent and accessible experience for Defence service users. We look forward to working with users and stakeholders to build on this foundation."
+        }
+    ]
+}
