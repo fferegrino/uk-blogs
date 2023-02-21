@@ -1,0 +1,92 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/02/21/shaping-the-data-marketplace-through-user-research/",
+    "title": "Shaping the Data Marketplace through User Research",
+    "authors": [
+        "Erin Bramwell, Senior User Researcher, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Cross-government strategy",
+        "Data",
+        "Digital transformation"
+    ],
+    "pub_date": "2023-02-21T11:45:56+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "The Data Marketplace\u00a0"
+        },
+        {
+            "text": "In 2022, CDDO published the government\u2019s 2022-2025 roadmap for digital and data and with it an ambition to ensure better data to power decision making.\u00a0"
+        },
+        {
+            "text": "When we talk about decision making this could include anything from identifying data assets critical to government services to focus investment, to supporting officials in finding data held in other parts of government that could improve a service they deliver."
+        },
+        {
+            "text": "The development of a Data Marketplace plays an important role in this strategy. Our vision is that the Data Marketplace will become a central place to find and understand how to access data across government in a legal, ethical and effective way. This might include support, guidance and tools to help government share data responsibly."
+        },
+        {
+            "text": "As part of this, CDDO needs to understand what current challenges departments face when exchanging and accessing data. Conducting user research is a crucial part of this so that we better understand how to address these challenges, and what central solutions would need to look like to best meet user needs.\u00a0"
+        },
+        {
+            "text": "The users we\u2019ve identified so far are civil servants who use data in both operational and analytical roles, for example, product managers and data analysts.\u00a0"
+        },
+        {
+            "text": "We think it\u2019s important to design services for internal civil service processes with the same care and attention that we give to citizen-facing services."
+        },
+        {
+            "text": "In CDDO, we\u2019re working on three main areas of opportunity:"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Discover data"
+        },
+        {
+            "text": "Lots of research had previously been done in this space, so we started off by synthesising and consolidating existing user research evidence. We had also learnt lessons from previous experience with government registers and other platforms to discover data. This meant we could write some high-level user needs and pain points to validate with further research.\u00a0"
+        },
+        {
+            "text": "However, we still had some crucial research questions about our users, what job roles they have, what their responsibilities are, and how they typically need to access data, and why.\u00a0"
+        },
+        {
+            "text": "So, as a team we wrote a collaborative research plan that factored in research questions, assumptions, and success metrics."
+        },
+        {
+            "text": "As part of our planned research, we conducted a cross-government survey on finding data in government, and we had over 90 responses from 19 different government organisations!\u00a0"
+        },
+        {
+            "text": "The data we received from this survey gave us valuable evidence and insights into our users and their pain points, such as:"
+        },
+        {
+            "text": "This research means we\u2019re now in a place to start to address our users\u2019 needs and pain points directly. We are now progressing more research to test different iterations of data discoverability tools and to answer further key research questions. If you would like to take part, please sign up."
+        },
+        {
+            "heading": 3,
+            "text": "2. Design a data share"
+        },
+        {
+            "text": "Previous insights, for example from the NAO\u2019s report on Challenges in using data across government, and experiences have shown us that the process to arrange a data share, once the right data is identified could be inconsistent and long.\u00a0"
+        },
+        {
+            "text": "CDDO and GDS ran a discovery phase for this strand of the project that finished in September 2022. The discovery identified problem areas, including:"
+        },
+        {
+            "text": "Based on multiple rounds of user research and mapping workshops, the team designed a proposed process for arranging data shares across government."
+        },
+        {
+            "text": "In CDDO, we have started testing that proposed process with a range of different users in government organisations. We want to understand what the barriers are to adopting this process across government. We also want to understand what this process would need to look like for users to interact with it, and for it to meet their needs. If you\u2019d like to take part in this, please sign up."
+        },
+        {
+            "heading": 3,
+            "text": "3. Deliver data"
+        },
+        {
+            "text": "We have previously heard that data can be accessed in a range of formats, and that data access mechanisms can be inefficient. One of the formats that is present in many organisations\u2019 strategies is application programming interfaces (APIs) so this is where we have decided to focus first to find opportunities to improve delivery.\u00a0"
+        },
+        {
+            "text": "APIs need to meet the GOV.UK standard. This is why we have developed and are testing a tool to help users such as developers to assess whether their API meets the standard and remedy any issues. For this work we are looking to work with users to understand what other tools will be useful to them to be able to produce and maintain interfaces to data in a consistent and reliable way.\n\nWe have now started conducting usability testing and focus groups to help us understand what this tool needs to look like and do to meet user needs."
+        }
+    ]
+}
