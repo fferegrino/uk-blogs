@@ -1,0 +1,137 @@
+{
+    "url": "https://services.blog.gov.uk/2023/02/22/why-you-need-to-make-your-maps-accessible/",
+    "title": "Why you need to make your maps accessible",
+    "authors": [
+        "Hannah Jump \u2013\u00a0Senior service designer, GDS"
+    ],
+    "categories": [
+        "Service design",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2023-02-22T09:22:03+00:00",
+    "content": [
+        {
+            "text": "As designers we know that the products or services we design need to be accessible for people using them. And we know that making things accessible makes them better for everyone. But we don\u2019t always consider how the internal tools and outputs we create need to be accessible too. Not only does this ensure everyone in your team can participate, but it also means that your artefacts are more likely to help you achieve what you want to achieve.\u00a0"
+        },
+        {
+            "text": "Mapping is an important tool for service designers, but we can often create complicated, inaccessible maps. In this blog post I will outline why it is important that your maps are accessible and how this will help you. Then, I will give some tips about how to make your maps more accessible. This can be hard, but maps do not always need to look pretty or cool to do the hard work to make it simple."
+        },
+        {
+            "text": "There\u2019s lots of different types of maps you can create, for example journey maps, service blueprints and service maps. In this post I will talk about some general principles that you can apply to all of them."
+        },
+        {
+            "heading": 2,
+            "text": "Why your journey map, service map, or blueprint needs to be accessible\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Your map needs to be able to be used by everyone"
+        },
+        {
+            "text": "When we create journey maps we\u2019re creating them to influence someone or decide something. For example, we use them to make decisions, show what works and what doesn\u2019t work in a service, or show the scope of the service.\u00a0"
+        },
+        {
+            "text": "If a map is not accessible then you are limiting the pool of people who can make decisions or engage in it, you are excluding people and limiting the perspectives you can get on your work.\u00a0\u00a0"
+        },
+        {
+            "text": "It\u2019s important to remember that people experience barriers for various reasons. These reasons can be very personal and people should not have to disclose a disability, impairment, or accessibility need. So, if you assume that nobody has an accessibility need, it\u2019s very likely you are excluding people. You also don\u2019t know what needs those people who may join your team in future may\u00a0 have.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "It helps you achieve what you want to achieve from it"
+        },
+        {
+            "text": "If you make your journey map accessible then it is most likely to be simpler to engage with. If you want someone to make a decision based on what a map is showing, or highlight parts of the journey that are not working, you\u2019re more likely to be able to do this if the map is clear and simple. This means you have to do less explaining and that people can focus on the questions and points you want them to focus on, not navigating or understanding the map itself.\u00a0"
+        },
+        {
+            "text": "It will also help time-poor senior stakeholders use it, the kind of people who only have time to skim read everything and are context switching.\u00a0"
+        },
+        {
+            "text": "There\u2019s also a lot of value to be had from people who are not a digital specialist or someone not in your immediate team seeing the map and engaging with it. Whilst tools like Mural don\u2019t require digital expertise to use, they can still be confusing and overwhelming.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "So that it lives on regardless of technology, and even if you are not there to explain it"
+        },
+        {
+            "text": "When we\u2019re working remotely it\u2019s easier to be less purposeful about what you create.\u00a0There isn\u2019t a fixed amount of wall space, so you can keep on producing stuff.\u00a0This can offer lots of opportunities but, it also means we can leave a litter of stuff behind.\u00a0"
+        },
+        {
+            "text": "The most simple tools for creating journey maps are the tools we are most likely to keep for a while, for example Google Sheets. They will evolve with technology and won't get overtaken by other tools. You never know when your department might need to reprioritse\u00a0 funding for an application like Mural, or it will get acquired into another tool which you can\u2019t afford.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "It\u2019s better for the planet"
+        },
+        {
+            "text": "The internet produces electricity. When we\u2019re doing stuff online it has a carbon footprint. It\u2019s stored in data centres which are powered by huge amounts of energy. The devices we use to access it need charging. In general the more complicated the thing, the more carbon it produces. The more space it takes up and the more power it needs to run. Make it simple and things might be a little bit better for the planet. As Gerry McGovern says, \u201c[data production has a] wholly unsustainable growth rate and it will have cataclysmic impacts on the environment if it is not radically reduced\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "How to create an accessible online journey map\u00a0"
+        },
+        {
+            "text": "Here I am assuming you have some understanding of how to create maps in general. If you don\u2019t, read this blog post which tells you the steps to make a service map.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "The common ways maps are not accessible"
+        },
+        {
+            "text": "The common ways I see maps not being accessible are:\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Do you even need a map?"
+        },
+        {
+            "text": "Before you jump in to creating a map, think about why you need it in the first place. As designers we often jump into creating things. Creating artefacts can help us feel like we\u2019re producing helpful things. Vicky Houghton Price has written a whole blog post about this.\u00a0"
+        },
+        {
+            "text": "But before you jump in think about:"
+        },
+        {
+            "heading": 4,
+            "text": "Use accessible software"
+        },
+        {
+            "text": "Start by using software that is accessible. I sometimes use Google Sheets or Excel, but that is still pretty clunky. You can use Mural if you have an accessible template, although it still might not be fully accessible. You can use a wall too, but you\u2019re likely to need to digitise it, and you\u2019ll need to make sure everything is big enough for people to read.\u00a0 Check the accessibility statement of the software you are using, and whether it meets WCAG requirements."
+        },
+        {
+            "heading": 4,
+            "text": "Break down the map"
+        },
+        {
+            "text": "Think about what you really want to show and what questions you are answering through the map. Focus on showing just that thing.\u00a0"
+        },
+        {
+            "text": "If there are rows or swimlanes which don't help you to show that thing then take them out! You might want to make a totally different map which shows them instead.\u00a0"
+        },
+        {
+            "text": "As our design principles state, it\u2019s all about worth doing the hard work to make it simple. This will reduce clutter and make your map simpler to understand and use."
+        },
+        {
+            "heading": 4,
+            "text": "Use an accessible colour palette and keep things simple"
+        },
+        {
+            "text": "Use colours which have a high contrast to the text. Keep them muted. Make sure colour isn\u2019t the only way to identify a theme or set of ideas.\u00a0"
+        },
+        {
+            "text": "Try and keep things in straight lines, and reduce the need for lots of arrows or other information. This can get confusing.\u00a0"
+        },
+        {
+            "text": "Try to keep it so that the map fits on one screen, and people only need to scroll from left to right, not up and down as well.\u00a0"
+        },
+        {
+            "text": "Caption: This is an example of a more muted colour palette which has 'good' contrast. These colours are less overwhelming if you have many of them next to each other, like in a map. You can also use different shades of grey or one colour"
+        },
+        {
+            "heading": 2,
+            "text": "Try it out, and keep us updated!\u00a0"
+        },
+        {
+            "text": "Some things might work for you, other things you might do differently or find a better way for. We\u2019re keen to start a conversation about this and hear how you make your artefacts accessible in the comments.\u00a0"
+        }
+    ]
+}
