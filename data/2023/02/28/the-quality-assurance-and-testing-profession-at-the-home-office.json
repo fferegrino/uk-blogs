@@ -1,0 +1,90 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2023/02/28/the-quality-assurance-and-testing-profession-at-the-home-office/",
+    "title": "The Quality, Assurance and Testing Profession at the Home Office",
+    "authors": [
+        "Clive Procter, QAT Professions",
+        "Manak Dev, Lead Quality Assurance and Test Delivery Owner"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "QAT"
+    ],
+    "pub_date": "2023-02-28T14:29:51+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Why Quality, Assurance and Testing matters? \u00a0"
+        },
+        {
+            "text": "Our Home Office Digital, Data and Technology (DDaT) Quality, Assurance and Testing (QAT) team ensures that Home Office products and services are developed to meet user needs and any relevant regulations. By applying processes and tools we prevent bugs and other issues from occurring in those products and services.\u00a0"
+        },
+        {
+            "text": "We test products all the time as part of quality assurance to make sure they:\u00a0"
+        },
+        {
+            "text": "In order to meet the principles of the DDaT Strategy, such as becoming more efficient, automating processes, working iteratively and delivering better quality services, we\u2019ve also developed a set of 16 policy principles that must be interpreted for each product, service or platform environment.\u00a0\u00a0"
+        },
+        {
+            "text": "The principles represent the minimum set of considerations for any QAT activity and help the team achieve a consistent approach to quality assurance and testing. They include: \u00a0"
+        },
+        {
+            "text": "The Quality, Standards and Assurance (QSA) and Risk function is also part of QAT. Their mission is to improve quality and reduce risk for our users by increasing the focus on defined quality standards, with controls, measures and effective assurance practices.\u00a0\u00a0"
+        },
+        {
+            "text": "QAT partners DevOps to maximise the automation and integration of quality engineering and testing throughout the product lifecycle.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How does the DDaT Profession Framework support QAT?\u00a0"
+        },
+        {
+            "text": "QAT is recognised as a Profession under the DDaT Profession Capability Framework. Working within this framework, the QAT Profession ensures there are clear career paths for every role and access to relevant continuous professional development.\u00a0"
+        },
+        {
+            "text": "Due to the range of work that QAT supports there are opportunities for QAT colleagues to develop broad domain experience and technical breadth across a range of technologies, platforms and delivery practices. This often includes working with other professional communities, subject matter experts and industry partners to encourage innovation and new ways of working. This exposure makes it simpler for our community of 630 QAT colleagues to transfer skills into other areas of interest to them, both in QAT and other DDaT Professions.\u00a0"
+        },
+        {
+            "text": "The QAT service itself is also independently accredited to the highest level of maturity against the industry-recognised standard, Test Maturity Model integrated (TMMi) Level 5, and underpins our principles and approach.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u2018A day in the life of a Lead Quality Assurance and Test Delivery Owner\u2019: Meet Manak Dev\u00a0"
+        },
+        {
+            "text": "My team work on deliveries within Future Borders and Immigration System (FBIS), part of United Kingdom (UK) Visas and Immigration. The various systems I test include Access UK, the online application service for individuals wishing to apply for and pay for a visa to visit the UK, plus various public-facing systems that help users access and provide their immigration status. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What does my day look like?\u00a0"
+        },
+        {
+            "text": "My day starts early, checking that each FBIS Service Delivery component has been deployed and is fully stable in the test environment. I then run three automated test runs to check the status of each environment.\u00a0\u00a0"
+        },
+        {
+            "text": "My daily responsibilities include:\u00a0"
+        },
+        {
+            "text": "Every day is a completely new challenge, and the fast-paced delivery helps me rapidly enhance my skillset. My team members are always on hand to support and answer any queries I have which makes working in QAT fun and stimulating!\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A sense of pride in the work I do\u00a0"
+        },
+        {
+            "text": "There are times when we must respond quickly to emergency situations, such as setting up the Afghan Citizens Resettlement and Homes for Ukraine schemes, where functionality must be built and tested in quick succession over a short period of time.\u00a0\u00a0"
+        },
+        {
+            "text": "When we\u202fdeploy into production there is a sense of pride in what we\u2019ve achieved and delivered so quickly. It also makes you feel proud to work for the Home Office and an organisation where teams pull together at short notice to deliver quality products for the wider society.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The benefits of the QAT Profession Framework\u00a0\u00a0"
+        },
+        {
+            "text": "One of the many benefits of joining the QAT Profession at Home Office DDaT is the opportunity for growth. We\u2019re encouraged to take on new roles and responsibilities to help widen our range of skills. For example, I deputise for the Principal QAT Delivery Owner who trusts me to make informed and risk-based decisions against critical FBIS deliveries.\u00a0"
+        },
+        {
+            "text": "The QAT Profession\u2019s commitment to learning and development has also given me the freedom to make key decisions for my team and others around me. This has enabled me to spread my wings and build a cohesive team.\u00a0\u00a0"
+        }
+    ]
+}
