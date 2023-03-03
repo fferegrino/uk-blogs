@@ -1,0 +1,56 @@
+{
+    "url": "https://medregs.blog.gov.uk/2023/03/03/large-language-models-and-software-as-a-medical-device/",
+    "title": "Large Language Models and software as a medical device",
+    "authors": [
+        "Johan Ordish"
+    ],
+    "categories": [
+        "Improving Our Services",
+        "Innovation"
+    ],
+    "pub_date": "2023-03-03T16:28:19+00:00",
+    "content": [
+        {
+            "text": "Large Language Models (LLMs), including ChatGPT and Bard, offer great potential to mimic human conversation."
+        },
+        {
+            "text": "LLMs only directed toward general purposes and whose developers make no claim that the software can be used for a medical purpose are unlikely to qualify as medical devices."
+        },
+        {
+            "text": "However, LLMs that are developed for, or adapted, modified or directed toward specifically medical purposes are likely to qualify as medical devices."
+        },
+        {
+            "text": "Additionally, where a developer makes claims that their LLM can be used for a medical purpose, this again is likely to mean the product qualifies as a medical device."
+        },
+        {
+            "text": "In Great Britain, these products will be regulated under the Medical Device Regulation 2002 (as amended) when they are placed on the market."
+        },
+        {
+            "text": "Developers of these products can find guidance on how to establish whether software products qualify as medical devices and their proper classification in our associated Medical devices: software applications (apps) guidance."
+        },
+        {
+            "text": "Legal manufacturers of medical devices also have several obligations to fulfil \u2013 a summary of these can be found in our Regulating medical devices in the UK guidance."
+        },
+        {
+            "text": "It is important to highlight that the requirement to have appropriate clinical evidence and to establish the device performs as intended under normal conditions of use is core to medical device regulation."
+        },
+        {
+            "text": "Additionally, it is likely that many opensource LLMs will count as software of unknown provenance (SOUP), where they are then adapted or used as a component in a wider medical device by a third party."
+        },
+        {
+            "text": "Developing these medical devices according to a quality management system and demonstrating compliance with commonly used standards such as BS EN 62304 may prove troublesome as the LLM may not have such documentation or this documentation may not be in the hands of the developer of the overarching medical device."
+        },
+        {
+            "text": "While it may be difficult for LLM-based medical devices to comply with medical device requirements, they are not exempt from them, as those conditions are necessary to ensure that the device is safe and effective."
+        },
+        {
+            "text": "The recent advances in LLMs have rightfully raised questions about their potential use to support health and social care. As a regulator, we are excited to watch these models develop further and see their potential application in the sector."
+        },
+        {
+            "text": "The MHRA remains open-minded about how best to assure LLMs but any medical device must have evidence that it is safe under normal conditions of use and performs as intended, as well as comply with other applicable requirements of medical device regulation."
+        },
+        {
+            "text": "We are committed to working collaboratively with all our stakeholders to find solutions where possible, and to keep communicating our regulatory updates to developers."
+        }
+    ]
+}
