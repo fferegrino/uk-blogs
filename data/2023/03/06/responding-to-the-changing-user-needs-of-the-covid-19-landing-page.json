@@ -1,0 +1,113 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/03/06/responding-to-the-changing-user-needs-of-the-covid-19-landing-page/",
+    "title": "Responding to the changing user needs of the COVID-19 landing page",
+    "authors": [
+        "Nathalie Carter, Content Designer, GOV.UK",
+        "Lina Nilsson, Senior Service Designer, GOV.UK"
+    ],
+    "categories": [
+        "Content",
+        "Finding things",
+        "User insights"
+    ],
+    "pub_date": "2023-03-06T14:34:55+00:00",
+    "content": [
+        {
+            "text": "The coronavirus (COVID-19) landing page is the starting point on GOV.UK to find information and services to help prevent the spread of COVID-19 and to get support living with the virus. It was set up in 2020 to bring all the COVID-19 related guidance together,"
+        },
+        {
+            "text": "It has been one of our most popular pages on GOV.UK receiving over 150 million views since its launch in March 2020. Throughout the height of the pandemic it was regularly updated to respond to user needs. Alongside rolling announcements and signposts to help users find guidance and support, we also built things like a timeline showing when and where rule changes would come into effect and an interactive data dashboard with infection and hospitalisation numbers."
+        },
+        {
+            "heading": 2,
+            "text": "Changing user needs"
+        },
+        {
+            "text": "Although the way we\u2019re living with the virus has changed, the landing page is still an important page as people continue to search for information on COVID-19."
+        },
+        {
+            "text": "There are well over 100,000 Google searches every month for things like COVID-19 rules, guidelines and restrictions, and more general searches such as \u2018covid\u2019."
+        },
+        {
+            "text": "In July 2022, we saw an increase in traffic to COVID-19 content on GOV.UK, most likely as a result of a slight increase in COVID-19 infections in the UK. Following this spike in traffic, we investigated how users were using the landing page. We saw evidence to suggest the page could be improved."
+        },
+        {
+            "text": "Users were:"
+        },
+        {
+            "heading": 2,
+            "text": "Investigating further"
+        },
+        {
+            "text": "We carried out some more in-depth analysis of user behaviour on COVID-19 content before defining the problem and scoping possible solutions. We looked at search trends, tracked user journeys and reviewed user needs. We only collect data from users on GOV.UK with permission via cookies."
+        },
+        {
+            "heading": 3,
+            "text": "What we found out"
+        },
+        {
+            "text": "The majority of users are looking for information on testing. They\u2019re searching for it from Google and searching for it while they\u2019re on the landing page. We also know users are trying to report COVID-19 results from private test providers even though this isn\u2019t required."
+        },
+        {
+            "text": "Users are also looking for COVID-19 rules (even though all restrictions have been lifted) as well as information on travel restrictions and vaccinations."
+        },
+        {
+            "text": "The NHS website is, in many cases, the best source of answers to these questions. But as the coronavirus landing page on GOV.UK is still the top Google result for searches relating to all these things we need to help people find those answers more easily."
+        },
+        {
+            "text": "There was also a drop in people answering yes to the question \u201cis this page useful\u201d between March and April last year. This is when the page changed from one with facts and rules to a static signposting page. This drop in satisfaction suggests that, where coronavirus is concerned, users want to be guided a little more directly. After all, this is what they became used to during the pandemic."
+        },
+        {
+            "heading": 2,
+            "text": "Using data insights to improve the page"
+        },
+        {
+            "text": "In response to everything we learned, we made some changes. The coronavirus landing page is built using a bespoke publisher and we no longer have a dedicated coronavirus team at GDS, so in order to roll out changes quickly we needed to stick to content changes only."
+        },
+        {
+            "heading": 3,
+            "text": "Making the page header work harder"
+        },
+        {
+            "text": "The landing page header - which is a pretty big space - was until now being used for government messaging on staying safe."
+        },
+        {
+            "text": "Coronavirus landing page header before the changes:"
+        },
+        {
+            "text": "Now it puts the information most people are looking for in plain sight. For example, the rules (or rather the absence of any rules), what to do if you get COVID-19 and information on testing, vaccinations and travel."
+        },
+        {
+            "text": "Coronavirus landing page header after the changes:"
+        },
+        {
+            "text": "Giving users the facts as soon as they land on the page should help improve understanding of things like the rules and availability of testing."
+        },
+        {
+            "heading": 3,
+            "text": "Improving headings"
+        },
+        {
+            "text": "As well as working on the header, we reviewed the rest of the landing page. We changed headings that were no longer relevant. For example, we replaced the heading \u201cstaying safe\u201d with simply \u201cwhat to do if you have COVID-19\u201d."
+        },
+        {
+            "text": "We also removed links to content that was no longer relevant and added more links to specific, helpful NHS content. Finally, we put the headings in order of priority, based on what we knew most users were looking for."
+        },
+        {
+            "heading": 3,
+            "text": "Updating in line with NHS"
+        },
+        {
+            "text": "It\u2019s still early days, but we can already see that searches from within the page are down and page interactions are down. This might mean more users are finding what they\u2019re looking for from the landing page and not needing to take any further steps."
+        },
+        {
+            "text": "Usefulness ratings are up from an average of 56% in the period before the changes to 62% in the period after the changes. Clicks to external websites have increased. We added lots of new links to NHS content so this suggests people are following them."
+        },
+        {
+            "text": "We ran the proposal past the NHS who helped us refine the final version. The NHS are currently reviewing the coronavirus hub on their website so this was an excellent opportunity to share our insights."
+        },
+        {
+            "text": "We went live with the new coronavirus landing page on 22 November 2022 and we\u2019ll continue to monitor how it\u2019s being used to ensure it remains a helpful source of information on coronavirus for the public."
+        }
+    ]
+}
