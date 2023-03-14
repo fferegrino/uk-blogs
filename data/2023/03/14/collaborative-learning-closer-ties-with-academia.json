@@ -1,0 +1,69 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2023/03/14/collaborative-learning-closer-ties-with-academia/",
+    "title": "Collaborative learning: closer ties with academia",
+    "authors": [
+        "Harry Wrightson - Data Scientist, GDS"
+    ],
+    "categories": [
+        "Data Science Accelerator",
+        "Network science",
+        "Other",
+        "People and Skills",
+        "Text Analytics",
+        "Uncategorized"
+    ],
+    "pub_date": "2023-03-14T11:39:50+00:00",
+    "content": [
+        {
+            "text": "GDS x Imperial University Collaboration 2022"
+        },
+        {
+            "text": "Collaboration and innovation are some of the key tenets of the Digital, Data and Technology (DDaT) profession. The Cabinet Office offers many avenues for productive collaboration, enabling internal and external partners to develop both professionally and personally. This includes up to 5 days of special paid leave per year for volunteering activity, cross-government programmes such as the catapult and accelerator schemes, and external collaborations such as the Teach Her mentorship; aimed at mentoring diverse women seeking career opportunities in DDaT.\u00a0"
+        },
+        {
+            "text": "In 2022 the Data Science community at Government Digital Service (GDS) collaborated with Imperial College London to champion these principles and develop new relationships."
+        },
+        {
+            "text": "Data Products, a team tasked with the development and deployment of novel data tools within GDS, played host to a project allowing 4 postgraduate students the opportunity to work on a real-world problem. This collaboration aimed to help the students develop their data science skills, and gain valuable experience working in a professional environment."
+        },
+        {
+            "text": "This sort of experience is rare outside of industry, where often datasets are clean and adhere to tidy principles, as is often the case on code-challenge websites. The students enjoyed this difference in working and commented:"
+        },
+        {
+            "text": "Our 2021/22 cohort was split into 2 pairs to encourage the\u00a0development of new ideas and to encourage challenge. We wanted to replicate the situation in industry, where people from different backgrounds, and with different skill sets can lead to synergies and knowledge growth."
+        },
+        {
+            "text": "The students participated in a project investigating the interrelationships between pages on GOV.UK in an attempt to define what we refer to as life events.\u00a0"
+        },
+        {
+            "text": "In the Data Products team, we work with the understanding that people typically visit GOV.UK to find information and services related to a \"life event\". A life event describes an occasion in which we need to interact with the government in some way - whether life changing, like having a baby, or routine like registering for a fishing licence.\u00a0"
+        },
+        {
+            "text": "However, with over 500,000 pages on GOV.UK, and no single distinguishing feature by which a page can be easily categorised, there\u2019s an interest in automatically identifying which life event a page belongs to. Successfully determining this holds the potential to facilitate access to government digital services and improve the overall experience of our users."
+        },
+        {
+            "text": "With only 4 months to complete onboarding, get up to speed with existing research, and produce and assess a piece of analysis, we had to work hard to ensure that the students were set up for success. With this in mind we curated a training suite and timetable, clearly laying out needs and expectations.\u00a0"
+        },
+        {
+            "text": "This timetable focussed on the students' early time with us, providing them with training resources to help them find their feet such as introductions to the Civil Service, working in an AGILE environment, and coding best practices (e.g. version control using Github). We quickly progressed onto subject matter training, providing resources on Natural Language Processing and Network Analysis. Over the course of their work, the students made use of named entity recognition and geometric deep learning using biased second order random walks."
+        },
+        {
+            "text": "We received high praise from the students for the layout of our onboarding and timetabling, who commented:"
+        },
+        {
+            "text": "At this point we focussed on providing the students with the independence to make their own decisions and set the direction of their projects. They developed and presented a set of project proposals to internal experts and stakeholders receiving feedback and direction. Whilst working on their projects we held regular stand ups to assess progress and blockers, embracing the AGILE expectations of failing fast and iterating on an initial product. At this point I must praise the students for their ability to diligently work on this project whilst balancing their prior commitments; dissertations, exams, and parallel work experiences. The resilience and dedication they demonstrated throughout this period was exemplary and makes me proud to have been a part of our collaboration.\u00a0"
+        },
+        {
+            "text": "By the end of the 4 month timetable both sets of students had managed to successfully complete a minimum viable product, analysing user journeys on GOV.UK in an attempt to define pages belonging to life events. We culminated our collaboration with a playback session, within which the students ran our internal experts and stakeholders through their analysis and results."
+        },
+        {
+            "text": "One of the most important outcomes of this collaboration is ensuring that future cohorts see the value in participating in partnerships with industry. As such, I\u2019d like to close with the following comments from our cohort:"
+        },
+        {
+            "text": "\u201cWe would highly recommend being part of a collaboration with GDS to learn more about how data science is applied with real world data and in a project which is truly impactful. Moreover, it is a great opportunity to meet new people, and to get insight into how the Civil Service operates. Not only will you be able to hone your coding and research skills, but it will allow you to experience real world data-science!\u201d"
+        },
+        {
+            "text": "To explore career opportunities with the Government Digital Service, please visit our careers site. For the latest news about all things analytical in the UK Civil Service, including placement opportunities and ongoing mentorship schemes please visit the Government Analysis Function. Public sector employees can engage with us via the #NLP and #graphs-and-networks channels on the cross-government data science Slack.\u00a0"
+        }
+    ]
+}
