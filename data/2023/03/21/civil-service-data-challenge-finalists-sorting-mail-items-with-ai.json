@@ -1,0 +1,91 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/03/21/civil-service-data-challenge-finalists-sorting-mail-items-with-ai/",
+    "title": "Civil Service Data Challenge finalists: Sorting Mail Items With AI",
+    "authors": [
+        "Central Digital and Data Office"
+    ],
+    "categories": [
+        "Data",
+        "DDaT",
+        "DDaT events"
+    ],
+    "pub_date": "2023-03-21T09:25:24+00:00",
+    "content": [
+        {
+            "text": "This week is\u00a0the Civil Service Data Challenge final\u00a0- here we meet the finalists."
+        },
+        {
+            "text": "Team name\nSorting Mail Items With AI"
+        },
+        {
+            "text": "Meet the team\nEric Everitt (founder), End of Year Team, PT Operations, HMRC\nVera Pudilova, (Team Leader), Environment Agency\nGeorge Wood, Data Scientist, Government Security Group, Cabinet Office\nMohit Motwani, Senior Data Engineer, DIPAD, AD, Department for Transport\nLaura Winstanley, VAT Caseworker, Central Region, Wealthy & Mid-Sized Business Compliance\nJames Sheppard, Lead Technical Architect, Government Digital Service\nSam Wilmington, HMRC (MBCS) Product Manager, HMRC Early User Insight and Design\nDan Hawley, CCG Transformation, HMRC\nFederica Talato, Shared Services"
+        },
+        {
+            "text": "Senior Responsible Officer: Kaye MacDonald (Operational Excellence Deputy Director)"
+        },
+        {
+            "text": "CDIO Data Science:\nAdrian Tuff (Team Leader, Assistant Director)\nChris Penn (Data Scientist & Tax Professional)\nJoe Fallon (Data Scientist, Data Exploitation)\nGavin Thompson (Data Scientist, Technical Lead)\nMatthew Malcher"
+        },
+        {
+            "text": "We also have our DMS technical contacts:\nRichard Jackson, Delivery Manager (CDIO Customer Compliance Group)\nSteve Bickle (Technical Architect)\nAndrew Flint (Technical Architect, CDIO Customer Compliance Group)"
+        },
+        {
+            "text": "We made connections through HMRC Transformation:\nNadia Shah, Cross Government & Data Innovation Lead, Portfolio Strategy & Foresight\nSean Connolly MBE (Portfolio Strategy and Foresight)\nNicola Bibby (P&UCD Ops - Chief Technology & Design Office, CDIO) ran a useful Performance Analytics workshop."
+        },
+        {
+            "text": "We are grateful for help and advice from Stefan Turcu and Glen Walters of NTT Data, also Operational Excellence, ENP Media, and 10 Downing Street."
+        },
+        {
+            "heading": 4,
+            "text": "The idea"
+        },
+        {
+            "text": "The Digital Mail Service (DMS) is not working as well as it should. We receive about 9 million letters each year and their journey to the correct team is not always direct: letters may sit in the wrong queue for some time before being forwarded on."
+        },
+        {
+            "text": "\u00a0We have a vast archive of over 60 million letters on file.\u00a0 We know the text and the end team where the query was resolved.\u00a0 This represents the collective knowledge of all HMRC employees.\u00a0 My idea is to tap into that unused resource with Machine Learning.\u00a0 We can train an algorithm on our historical data, to get new correspondence directly to the right team, first time."
+        },
+        {
+            "text": "There are more than 20,000 civil servants using DMS.\u00a0 It is quite a puzzle deciding which of the 901 teams an item of post belongs to.\u00a0 With our algorithm using the \u2018wisdom of the crowd\u2019 to make decisions, civil servants would waste less time redirecting post and more time on casework.\u00a0 Letters would not be held up in incorrect queues, so we could provide a better, faster service to the public."
+        },
+        {
+            "text": "We hope to prove that Machine Learning works well for HMRC, and then that the model can be extended to process incoming mail for other departments.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Main motivations for entering Data Challenge 2023\u00a0"
+        },
+        {
+            "text": "I (Eric) noticed that my team received a lot of misdirected post which could sometimes lead to a wait for customers, through no fault of their own.\u00a0 I wanted to do something about that. My wife is a research scientist working with Machine Learning and I realised that this technology could be applied to our post problem."
+        },
+        {
+            "heading": 4,
+            "text": "\u00a0Submitting the entry"
+        },
+        {
+            "text": "Some team members were assigned to the task, many volunteered their services.\u00a0 Others we connected to along the way as we looked deeper into the problem."
+        },
+        {
+            "text": "\u00a0We did not know each other before the Data Challenge.\u00a0 The great thing about it is that it brings together people from different departments to work together for a common goal.\u00a0"
+        },
+        {
+            "text": "We work well together because of diversity! Our different experiences and specialities have made a strong team with broad knowledge and lots of connections to other departments.\u00a0 \u2018When the diversity in a group is large, the error of the crowd is small.\u2019"
+        },
+        {
+            "heading": 4,
+            "text": "The Data Challenge experience so far"
+        },
+        {
+            "text": "It\u2019s a great opportunity to make a difference.\u00a0 Instead of a General ordering the troops, it\u2019s the foot-soldiers who are making things happen.\u00a0 I\u2019ve met lots of interesting people from different government departments and had the Dragons\u2019 Den experience of pitching my idea to a panel of experts."
+        },
+        {
+            "text": "The media team at the semi finals tried to put us at ease as they were fitting us with microphones.\u00a0 They gave us a quick run-through of what to expect, so we could concentrate on getting our message across.\u00a0 I am glad we were well-rehearsed.\u00a0 We were certain of our ten-minute presentation, but we could only guess what the judges might ask in the Q&A section."
+        },
+        {
+            "text": "It was a great feeling to get the news that we made it to the finals, but not totally unexpected.\u00a0 The semi-final presentation went well and we were confident that it\u2019s a great idea to start with (though I do say so myself)."
+        },
+        {
+            "text": "My colleagues and manager are very proud of me (Eric).\u00a0 As the importance of the project has become evident, I have received congratulations from further and further up the chain of command.\u00a0 We are receiving offers of help from far and wide."
+        }
+    ]
+}
