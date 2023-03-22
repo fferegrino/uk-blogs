@@ -1,0 +1,140 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2023/03/22/guess-who-matching-members-for-pensions-dashboards/",
+    "title": "Guess who? Matching members for pensions dashboards",
+    "authors": [
+        "Taylor Brightwell-Smith - Pensions Consultant"
+    ],
+    "categories": [
+        "Actuary",
+        "Pensions"
+    ],
+    "pub_date": "2023-03-22T10:18:18+00:00",
+    "content": [
+        {
+            "text": "Earlier this month the Department for Work and Pensions (DWP) announced a 'reset' of the Pensions Dashboards Programme."
+        },
+        {
+            "text": "An update on the delivery plan for pensions dashboards is expected before the Parliamentary summer recess. But, in the written ministerial statement,\u00a0 Minister for Pensions Laura Trott stated: \u201cIt is essential that scheme preparation for pensions dashboards continues, and we will press ahead to deliver this technology.\u201d"
+        },
+        {
+            "text": "Connection, and the technology required by schemes to connect, remains just one part of preparing for pensions dashboards."
+        },
+        {
+            "text": "So, rather than an opportunity to down tools, it is important pension schemes use this time to focus efforts on preparation. This blog focuses on one of the other vital elements to dashboards success, matching."
+        },
+        {
+            "heading": 2,
+            "text": "Matching members"
+        },
+        {
+            "text": "There are many questions to consider. What data will members need to provide to pensions dashboards when undertaking a search?"
+        },
+        {
+            "text": "How will that data be verified (if it even is)? Can schemes balance compliance, GDPR risks and data quality concerns, when setting matching criteria?"
+        },
+        {
+            "text": "But before all that, what even is \u2018matching\u2019 in the first place?"
+        },
+        {
+            "text": "Matching members for the purposes of Pensions Dashboards is going to be a\u00a0 bit like a game of Guess Who."
+        },
+        {
+            "text": "I\u2019m sure many of us have fond rainy-day memories of the childhood board game classic."
+        },
+        {
+            "text": "As a reminder, the object is to ask questions which help us eliminate characters and identify the card held by the other player. We've set-up our own game below."
+        },
+        {
+            "text": "So, we start with something simple like, are they wearing glasses?\n\u201cNo, they\u2019re not wearing glasses\u201d, so we get rid of those who are."
+        },
+        {
+            "text": "We\u2019ve established they don\u2019t have glasses, so we turn from eyewear to headwear. We ask, are they wearing a hat?"
+        },
+        {
+            "text": "\u201cNo, they\u2019re not\u201d, so we lose those with hats."
+        },
+        {
+            "text": "Down to our last five potential matches. We ask, do they have facial hair?"
+        },
+        {
+            "text": "\u201cYes\u201d, so we lose those who do not."
+        },
+        {
+            "text": "Finally, the last two, and it\u2019s time to separate the moustachioed from the moustache-less. We ask, do they have a moustache?"
+        },
+        {
+            "text": "\u201cNo, they do not\u201d, so we say bye to Mark, and we\u2019re left with our match, Sage."
+        },
+        {
+            "text": "Now, let\u2019s take this all back to the beginning and put it into the context of Pensions Dashboards."
+        },
+        {
+            "text": "The character tiles and the information they represent; assume this is your administration system and the member data held within it."
+        },
+        {
+            "text": "The questions asked, that\u2019s your matching criteria. The rules adopted by schemes which allow them to say, we have a match, we don\u2019t have a match, or we might have a match."
+        },
+        {
+            "text": "The answers to those questions? That\u2019s the \u2018find data\u2019. The data submitted to Pensions Dashboards by individuals when they first log on."
+        },
+        {
+            "text": "When the tiles are complete, the questions thoughtful and the answers reliable, matching might be simple. But this won\u2019t be the position for most, if any, schemes."
+        },
+        {
+            "text": "Data quality issues, ranging from certainty to completeness, are commonplace. Meaning, within our analogy, it\u2019s hard to tell if our characters do or don\u2019t have glasses, a hat or a follicly blessed upper lip."
+        },
+        {
+            "heading": 2,
+            "text": "Data challenges"
+        },
+        {
+            "text": "Most, if not all, pension schemes deal with a degree of data uncertainty or inaccuracy. This is no great industry secret and it's not to suggest they're not doing anything about it."
+        },
+        {
+            "text": "Regular data quality reporting and cleanse is part of the business-as-usual for most. Yet, such activities tend to focus on the data items that carry the greatest amount of risk."
+        },
+        {
+            "text": "Those are items with a material impact on an individual\u2019s final pension value. For example, salary, service and other aspects of employment history."
+        },
+        {
+            "text": "The more \u2018basic\u2019 items relating to personal identifiers are often left for later. In part due to the difficulty in measuring the quality of such items. But also, with the expectation they will be naturally cleansed through the life cycle of an individual\u2019s membership. Either by the member themselves or as part of final checks when putting benefits into payment."
+        },
+        {
+            "text": "Public Service Pension Schemes have an added challenge that many other defined benefit schemes do not. They remain open to new members. This means that the data position will never be static. It will continue to ebb and flow."
+        },
+        {
+            "text": "This poses a challenge to schemes when considering their future interactions with Pensions Dashboards. They will need to take stock of their data when considering the logic of their matching criteria. No one-size fits all."
+        },
+        {
+            "text": "That's the reasoning behind matching criteria not being prescribed in legislation. Schemes need to understand their own data challenges and cleanse as far as possible."
+        },
+        {
+            "text": "This will lay the foundation for robust matching criteria to return results to dashboards quickly and accurately."
+        },
+        {
+            "heading": 2,
+            "text": "Resource and headspace"
+        },
+        {
+            "text": "The prospect of getting the data in good order can be overwhelming. But time is at a premium and delaying work in this area further will only lead to more headaches down the line."
+        },
+        {
+            "text": "The next few years are going to feel like a marathon at times. Resource and headspace will be stretched."
+        },
+        {
+            "text": "This is where GAD can help. Using our central position within government, and extensive knowledge of the data challenges facing public service schemes, to promote the best ideas in the Pensions Dashboards space."
+        },
+        {
+            "text": "To allow schemes to share thoughts, challenges, and progress in a central forum. To help you identify what can, and what needs to be, done."
+        },
+        {
+            "text": "If we do this, it will feel more like running a race in relay. By sharing the burden, the energy and time taken to cross the finish line should be that much less."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
