@@ -1,0 +1,96 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2023/03/24/what-its-like-to-be-a-devsecops-engineer-in-the-ons-cloud-team/",
+    "title": "What it's like to be a DevSecOps engineer in the ONS Cloud team",
+    "authors": [
+        "Martin O'Brian"
+    ],
+    "categories": [
+        "Cloud",
+        "DevSecOps",
+        "ONS digital people",
+        "People and skills",
+        "Technology"
+    ],
+    "pub_date": "2023-03-24T13:55:19+00:00",
+    "content": [
+        {
+            "text": "Moving our technology from traditional tech and onto the cloud is not just a case of transferring the same applications and processes into a new space. To benefit from this new technology requires new ways of thinking and new ways of working, including how we access and process data."
+        },
+        {
+            "text": "The Cloud team are a collection of architects, tech leads, and developers who are responsible for developing the infrastructure, policy and assurances required to deliver, providing resource and assistance to all cloud initiatives, and working on initiatives that include cloud components or dependencies."
+        },
+        {
+            "text": "In this blog, Arthur Wilcox catches up with Harrison Thompson to find out about his new role at the ONS and what it's like to be a DevSecOps engineer in our Cloud Division."
+        },
+        {
+            "heading": 2,
+            "text": "Firstly, tell us a bit about yourself and long you\u2019ve been working here?"
+        },
+        {
+            "text": "Harrison:\u00a0I\u2019ve been working at ONS for 2 and half months now. My background is mostly public sector organisations in the education sector specifically, but I was in the private automotive sector for my previous role. Very glad to be back in the public sector doing something meaningful."
+        },
+        {
+            "heading": 2,
+            "text": "What was your first impression of the ONS when you joined?"
+        },
+        {
+            "text": "Harrison:\u00a0My first impression was that it was quite large an organisation with more going on than I could even comprehend. Fortunately, I think I\u2019ve slowly grasped the basics for my area over in CATD (Cloud Architecture and Technical Design)!"
+        },
+        {
+            "heading": 2,
+            "text": "Can you tell me about your role and responsibilities? Are they what you expected?"
+        },
+        {
+            "text": "Harrison:\u00a0As mentioned, I am part of CATD. I am working as a Tech Lead, mainly looking after our cloud services that reside in GCP. My specific focus at the moment is very much around the IDS (Integrated Data Service) platform, its security and automation. I expected to be working on cloud infrastructure, but the pace of delivery and sheer amount of work produced is a lot greater than I expected."
+        },
+        {
+            "heading": 2,
+            "text": "Can you tell me about the development tools and tech stack you are currently using?"
+        },
+        {
+            "text": "Harrison:\u00a0I mainly work with Terraform, with the repositories hosted on GitHub. My IDE of choice is VSCode. This of course comes with various modules and integrates with CI/CD pipelines in GCP. Our pipelines contain various tools and processes to check the quality and security of our code, which helps ensure consistency across our contributions."
+        },
+        {
+            "heading": 2,
+            "text": "In your first 3 months, is there a recent project or accomplishment that you are particularly proud of?"
+        },
+        {
+            "text": "Harrison:\u00a0The thing I\u2019m most proud of so far is the improvements to automation that have been made to the IDS platform. I\u2019ve worked closely with new colleagues to implement changes and improvements alongside them which has helped me embed myself into the team. This is important to me, as I do not work from the same office as any of my colleagues in CATD."
+        },
+        {
+            "heading": 2,
+            "text": "What have been your biggest challenges in these first few months, and how have you dealt with them?"
+        },
+        {
+            "text": "Harrison:\u00a0The biggest challenge so far is the number of new things I still need to learn and get my head around. ONS is a very big place with complex workstreams all over the place, it will take a long time to gain a deeper contextual understanding of where and how things fit together. Special mention goes to working on GCP when my past experience is all Azure based, though fortunately for me, lots of concepts are similar."
+        },
+        {
+            "heading": 2,
+            "text": "How do you find the team experience and culture? Is it supportive, competitive, laid-back, or something else?"
+        },
+        {
+            "text": "Harrison:\u00a0The team has been the best part of working at ONS so far, my colleagues in CATD are all extremely supportive and are ready to assist with anything I have needed help with. The high levels of talent and experience in the team are immediately clear. Colleagues outside of CATD that I\u2019ve encountered have also been a pleasure to work with so far."
+        },
+        {
+            "heading": 2,
+            "text": "How do you find the communication and direction between your colleagues, managers and senior leadership?"
+        },
+        {
+            "text": "Harrison:\u00a0Communication is good between colleagues and managers, with daily stand-ups a great place to flag any ideas or issues. There is also senior leadership presence in these which gives me confidence that information is flowing smoothly in and out of the team. Wider organisational communication is also good, I receive various updates through email and Teams calls, as well as information on the intranet."
+        },
+        {
+            "heading": 2,
+            "text": "What do you think sets the ONS apart from other places of work?"
+        },
+        {
+            "text": "Harrison:\u00a0The ONS distinguishes itself from other government departments I\u2019ve worked in by having one of the best flexible working policies I\u2019ve ever seen, as well as one of the best promotion/progression programs that I have ever seen. There is nothing like it in the other departments I have worked for, nor in the private sector that I have seen."
+        },
+        {
+            "heading": 2,
+            "text": "And finally, what advice would you give to someone who is considering joining the Cloud Division, specifically?"
+        },
+        {
+            "text": "Harrison:\u00a0Do it, it\u2019s a great place to work!"
+        }
+    ]
+}
