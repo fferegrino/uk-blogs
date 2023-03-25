@@ -31,3 +31,8 @@ jobs:
         git add data/ scraped_urls.txt
         git diff --staged --quiet || git commit -m 'New blog posts'
         git push
+    - name: Upload data to Kaggle
+      env:
+        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        KAGGLE_USERNAME: ioexception
+      run: python upload_kaggle.py
