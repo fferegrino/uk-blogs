@@ -1,0 +1,85 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2023/03/31/introducing-the-new-chief-data-architect-at-the-office-for-national-statistics/",
+    "title": "Introducing the new Chief Data Architect at the Office for National Statistics",
+    "authors": [
+        "Charles Baird"
+    ],
+    "categories": [
+        "About the Government Data Architecture Community",
+        "Data architecture",
+        "Government Digital Service",
+        "Office for National Statistics"
+    ],
+    "pub_date": "2023-03-31T16:56:49+01:00",
+    "content": [
+        {
+            "text": "The ONS\u2019s new Chief Data Architect, Charles Baird, talks about his hopes for the future of data architecture, in and outside the ONS."
+        },
+        {
+            "heading": 4,
+            "text": "A wealth of experience "
+        },
+        {
+            "text": "I started working for the ONS in January, but my first experience in the Civil Service was when I began working at the Cabinet Office in 2020. Before that, I spent 25 years in the private sector, with the last 13 years running my own company. Our focus was on big data installations, particularly in data warehousing for West End theatres. My own expertise comes from database administration rather than data science or analysis, so I\u2019m definitely more hands-on from the school of data management and design."
+        },
+        {
+            "text": "Like many others, unfortunately, the coronavirus (COVID-19) pandemic had a significant impact on my business, as our clients were unable to operate. I had already established connections with the Government Digital Service (GDS) while discussing Application Programming Interface (API) Standards. So I was aware of its plans to expand and create the Data Standards Authority (DSA) and I joined the team to support the initiative."
+        },
+        {
+            "text": "Over time, the DSA\u2019s responsibilities evolved into part of the Data Strategy and Standards Directorate within the Central Digital and Data Office (CDDO). This led to the creation of an official data architecture team, which I ran."
+        },
+        {
+            "text": "Since GDS and the ONS established the DSA together, I\u2019d always worked closely with the ONS. I was involved in various projects, such as the Reference Data Management Framework and the design authority for the Integrated Data Service (IDS). When I saw the vacancy at the ONS, I couldn't resist the opportunity to apply my knowledge and experience to a larger scale."
+        },
+        {
+            "heading": 4,
+            "text": "Leveraging the sheer size of ONS and its data to drive innovation and impact"
+        },
+        {
+            "text": "My ambition is to make the data architecture team at ONS a centre of excellence, recognised across the public sector. And not only in data architecture, but also in geospatial analysis and data integration and linkage."
+        },
+        {
+            "text": "There are already many great things happening at the ONS, but not everyone is aware of it. We have ambitious plans for data integration and linkage that no other government team can match. That\u2019s down to the sheer size of the ONS and the volume of data we deal with."
+        },
+        {
+            "text": "I also want to partner with CDDO to put their data policies into practice, at scale. We want to push forward data standards, develop the metadata model, and contribute to the data marketplace. The ONS is where we can turn theory into reality and show people what this will look like and what benefits they\u2019ll drive."
+        },
+        {
+            "text": "I\u2019m very lucky that I\u2019ve come into a role where there is already a huge number of exciting projects being worked on by a really dedicated team. Even if I was to focus my role on just shouting about these more, I think it would be a job well done."
+        },
+        {
+            "text": "I want to add value by helping to ensure the team is plugged into the cross-government communities around data. We will lead by example, share knowledge, and look for ways to join up and promote all the innovative and exciting stuff happening in other data rich departments."
+        },
+        {
+            "text": "We\u2019re already seeing movement again in the government data architecture community (GDAC) and this is something else I really want to tap into. We now meet monthly and are always looking for more members. If anyone is interested in joining, contact data.architecture@ons.gov.uk."
+        },
+        {
+            "heading": 4,
+            "text": "Fostering collaboration and partnerships across government for better data interoperability and use"
+        },
+        {
+            "text": "Looking to the future, I want to see us start conversations and deliver an enterprise data model for government. We will do design work upfront, in collaboration with other government departments to make sure that data is interoperable from the start."
+        },
+        {
+            "text": "The aim is to get people to conform to data standards and metadata models so that services can interoperate without requiring lots of data transformation."
+        },
+        {
+            "text": "In a few years time, I hope that we will have established data portability and driven the agenda for data standards forward. This will lead to better data interoperability, making it easier to share data across government and beyond."
+        },
+        {
+            "text": "I\u2019d like to see us driving forward the use of data standards and the better use of metadata to make discovery and use of data easier. ONS is in a unique position not only as a mass producer of data, but also as a consumer of data."
+        },
+        {
+            "text": "I\u2019d also like to see ONS contributing to the data conversation by making it wider and richer. We can share our best practices and compare and combine them with ones form other departments. That way, we can get something that will work for all of government."
+        },
+        {
+            "text": "I would also love to see us stop using the term \u2018admin data\u2019 and use \u2018operational data\u2019 instead as it\u2019s much more accurate. But I think that\u2019s an uphill battle I\u2019ll never win."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "For more information about the regular GDA community meet ups, contact data.architecture@ons.gov.uk."
+        }
+    ]
+}
