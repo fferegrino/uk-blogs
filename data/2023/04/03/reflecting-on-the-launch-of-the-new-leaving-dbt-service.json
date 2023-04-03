@@ -1,0 +1,130 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2023/04/03/reflecting-on-the-launch-of-the-new-leaving-dbt-service/",
+    "title": "Reflecting on the launch of the new Leaving DBT Service",
+    "authors": [
+        "Jonathan Anderson, Employee Experience Portfolio Lead",
+        "Alfie Dennen, Digital Senior Product Manager",
+        "Imogen Barker, Engagement and Strategic Adoption Manager"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2023-04-03T09:56:01+01:00",
+    "content": [
+        {
+            "text": "Managing the ebb and flow of joiners, movers and leavers in any organisation requires a careful eye on the organisation\u2019s ethos and a deep understanding of why processes fail or are prone to error."
+        },
+        {
+            "text": "At the Department for Business and Trade (DBT) we have created a custom service for staff leaving or transferring from the department. The offboarding process can present risks, including overpayments which need recovering, and removing leavers from tools and services that has a high likelihood of error."
+        },
+        {
+            "text": "During our discovery, we found that line managers had to use multiple separate and asynchronous processes. They were finding it difficult to ensure that they completed all the required tasks."
+        },
+        {
+            "text": "The DBT team were able to provide the Leaving DBT Service by bringing together the existing internal processes and creating Application Programming Interfaces (APIs) to integrate with our third-party partners (Oracle and ServiceNow). It now takes users less than 10 minutes to complete the offboarding process whilst creating a verifiable audit trail for the department to ensure it reduces risk."
+        },
+        {
+            "heading": 2,
+            "text": "Service goals: increased efficiency, transparency and productivity"
+        },
+        {
+            "text": "When we created the vision for this new internal service, we rallied around the insight that:"
+        },
+        {
+            "text": "\u2018No-one comes to work to do the admin\u2019. "
+        },
+        {
+            "text": "Leaving an organisation means that many different people take manual actions. Line managers reported anxiety and confusion when trying to complete multiple tasks whilst doing their day-to-day work. At DBT we believe that by automating as much as we can we create more robust processes, freeing up staff time to focus on other tasks."
+        },
+        {
+            "text": "Now that the new Leaving DBT Service has reduced the offboarding time to under 10 minutes line managers have more time. DBT benefits by having a live audit trail of leaving events available for reporting and analysis at any time. This gives planners real-time insight that translates into better workforce planning and budget management."
+        },
+        {
+            "heading": 2,
+            "text": "Problems: risk and overpayments"
+        },
+        {
+            "text": "The original leaving process created a lot of risks including:"
+        },
+        {
+            "text": "There are also framework considerations, such cluster arrangements where multiple government departments form groups to purchase 3rd party licenses for payroll management solutions. This can save public money in the long term."
+        },
+        {
+            "text": "The complexity of these programmes can increase the time taken to adopt new systems across the organisation, although they aim to achieve efficiency. One size cannot fit all, so we use agnostic code to bridge the differences. This means that we can work effectively in any computer language to be prepared for any new services the department may need."
+        },
+        {
+            "heading": 2,
+            "text": "Solution: a custom service with future integrations in mind"
+        },
+        {
+            "text": "DBT created an internal service built with future third-party integrations in mind including:"
+        },
+        {
+            "text": "Internal staff who manage offboarding are provided with their own user interfaces specific to the tools, services and products which they manage. This allows for verifiable audit data to be created, whilst minimising the time and attention needed to ensure offboarding is done in a timely and cost-efficient manner. The service follows the Cabinet Office\u2019s own discovery around leaving processes across government. It does this by distributing responsibility for leaving processes across multiple actors, rather than many of the line manager\u2019s tasks and responsibilities."
+        },
+        {
+            "heading": 2,
+            "text": "From discovery to maintenance"
+        },
+        {
+            "text": "An initial discovery took place in 2021, uncovering the core reasons for the risk vectors. Next, an alpha phase took place to ensure that the team understood the biggest problems to solve and experimented with potential solutions. The team adopted a more technical approach than others would normally take in alpha. This ensured that it was even possible to create a single unified service (requiring API integrations with those services). This was important given the departments' dependency on both Oracle (payroll) and ServiceNow (IT equipment and Active Directory management)."
+        },
+        {
+            "text": "In private beta, the team focused on user research to ensure that the solution would solve the problems users had with existing processes. By doing this, they gained insight into what issues there might be when all staff would need to move to and adopt this new service. The Digital, Data and Technology (DDaT) Leaving team worked closely with the DDaT Engagement and Strategic Adoption team who specialise in product adoption to deliver a communication campaign informing staff about the new service."
+        },
+        {
+            "text": "The Human Resources (HR) offboarding team were also important stakeholders. They now have their own user interface to offboard leavers in particular contexts (such as death in service, dismissal and retroactive offboarding). This is a new responsibility for the HR team, so the product delivery team provided workshops and training."
+        },
+        {
+            "text": "Throughout service development, both the DDaT Leaving team and the DDaT Engagement and Strategic Adoption team engaged deeply with the cross-governmental joiners, movers and leavers working group, learning from others, sharing knowledge and presenting findings."
+        },
+        {
+            "heading": 2,
+            "text": "Actionable data and time efficiencies"
+        },
+        {
+            "text": "Being a new service, comprehensive data on how effective the service is in its core aims will take time to generate (the department has an average of only 15 leavers per month)."
+        },
+        {
+            "text": "However, time efficiency gains and reductions in overpayments are already being observed. Staff using the service report how fast and efficient it is. The underlying notification system ensures that HR are notified when a leaver has not been processed 4 days before payroll cutoff. This ensures that manual interventions can take place in good time."
+        },
+        {
+            "text": "It is important that DBT works to create these efficiencies because they free up staff to focus on their role and personal development. This leads to improved productivity and better support for the department\u2019s goals."
+        },
+        {
+            "heading": 2,
+            "text": "Iterating and sharing learning across government"
+        },
+        {
+            "text": "The Leaving DBT Service has moved into public beta and is a \u2018live service\u2019. It has maintenance and improvement effort built into the team shape, allowing for iterative work to take place over time, based on user feedback. The DDaT Employee Experience Portfolio (responsible for building the service) will continue to engage across government. They will share their learnings and encourage a hybrid approach to solving joiner, mover and leaver problems."
+        },
+        {
+            "heading": 2,
+            "text": "Fitter, happier, more productive"
+        },
+        {
+            "text": "In government, we all face similar challenges when it comes to joiners, movers and leavers. Our staff should benefit in their day-to-day work from the department\u2019s efforts to automate and create efficiencies in administrative tasks."
+        },
+        {
+            "text": "Government departments have a duty to ensure that thorough and verifiable data about actions is created and recorded. This allows for efficient spending of public funds and more efficient workforce planning."
+        },
+        {
+            "text": "Understanding the particularities of your organisation's needs in these areas can pay dividends. We all need to future-proof against \u2018vendor lock-in\u2019, and the inevitable need to adapt to new tools, services and changes to internal processes."
+        },
+        {
+            "text": "For more about DBT\u2019s involvement in creating the Leaving DBT Service, the communications approach or any questions, please use the comment section below to post your query and contact information."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
