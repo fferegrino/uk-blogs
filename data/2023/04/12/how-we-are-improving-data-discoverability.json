@@ -1,0 +1,138 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/04/12/how-we-are-improving-data-discoverability/",
+    "title": "How we are improving data discoverability",
+    "authors": [
+        "Suzanne Fry, Head of Reference and Master Data Management, CDDO",
+        "Emanuel Silva, Reference and Master Data Lead, CDDO"
+    ],
+    "categories": [
+        "Data",
+        "Digital strategy",
+        "Digital transformation"
+    ],
+    "pub_date": "2023-04-12T15:15:56+01:00",
+    "content": [
+        {
+            "text": "To support development of the Data Marketplace, we are working across government to implement a common approach to recording metadata."
+        },
+        {
+            "heading": 4,
+            "text": "What is the Data Marketplace?"
+        },
+        {
+            "text": "Central Digital and Data Office (CDDO) in conjunction with Government Digital Service (GDS) are developing the Data Marketplace. Its goal is to provide a central place for government officials to find and understand how to access data held in other parts of government in a legal, ethical and effective way."
+        },
+        {
+            "text": "This is part of the DDaT Function\u2019s mission of \u2018Better Data to Power Decision Making\u2019 as part of the Roadmap for Digital and Data 2022-2025.\u00a0"
+        },
+        {
+            "text": "Access to the right information on data sources is essential for empowering users across government to use data more effectively and transform the delivery of core services.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "The mission to find the right data"
+        },
+        {
+            "text": "For data to transform decision making, civil servants need to be able to find the data they need and assess whether it is fit for their purposes. Only then can they use that data to help make better decisions, and deliver better services for the public."
+        },
+        {
+            "text": "This is what we refer to as \u2018data discoverability\u2019.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "The difficulties with data discoverability"
+        },
+        {
+            "text": "Our user research has highlighted the difficulties encountered across government when trying to discover data.\u00a0"
+        },
+        {
+            "text": "Users told us:"
+        },
+        {
+            "text": "Metadata is a set of data that describes and gives information about other data.\u00a0"
+        },
+        {
+            "text": "It needs to be adequate to allow users to assess if a dataset will meet their needs. This means including information about its provenance, what it contains, definitions and structure. It also needs to be represented in a way so that both humans and machines can process it.\u00a0"
+        },
+        {
+            "text": "There are published metadata standards to support data discovery, but a lack of standard methods of adoption means these standards are implemented inconsistently resulting in metadata that severely limits data discoverability.\u00a0 In order to work towards fulfilling the Data Marketplace vision, this needs to be addressed.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "What we are doing"
+        },
+        {
+            "text": "Preparing the ground for the Government Data Catalogue"
+        },
+        {
+            "text": "Within the Data Marketplace, users will be able to \u2018discover\u2019 data via a Government Data Catalogue. This will link to departmental catalogues to harvest the required metadata to populate the central catalogue."
+        },
+        {
+            "text": "Departments that produce essential shared data assets across government, need to be recording core information in an aligned way for this to work.\u00a0"
+        },
+        {
+            "text": "CDDO were therefore tasked with developing, working collaboratively with departments, a common implementation approach to recording metadata; one that would be implemented within internal departmental data catalogues and then used, in turn, to populate the Data Marketplace Government Data Catalogue.\u00a0"
+        },
+        {
+            "text": "Developing a consistent metadata implementation approach"
+        },
+        {
+            "text": "The cross-government approach we have developed is centred around 5 pillars reflecting the activities a metadata producer must work through:\u00a0"
+        },
+        {
+            "text": "Our initial focus has been on Specification, which revolves around describing data."
+        },
+        {
+            "text": "We have developed a Metadata Requirements Specification, which builds on existing guidance on metadata standards. It includes:"
+        },
+        {
+            "text": "For example, all data sets should have \u2018description\u2019 which is fundamental to aiding discovery, and \u2018date created\u2019 and \u2018date modified\u2019 to enable a user to understand how recent the data are."
+        },
+        {
+            "text": "For example, data must be described with clear definitions and the use of terminology must rely on unambiguous language in its descriptions. This can be achieved by referencing terms and concepts from an agreed vocabulary or business glossary or those that come from applying a known standard, like the Data Catalogue Vocabulary (DCAT).\u00a0"
+        },
+        {
+            "text": "The DCAT is already used extensively across government, and our guidance recommends\u00a0 it is adopted for providing the core metadata attributes listed in the Metadata Requirements Specification. This is following extensive engagement, and in line with current use in government data portals in the UK and abroad."
+        },
+        {
+            "text": "Establishing a Metadata Implementation Working Group"
+        },
+        {
+            "text": "Engagement and feedback has been central to our work in developing a common approach to producing metadata which is aligned to existing standards.\u00a0"
+        },
+        {
+            "text": "Our recommendations have now been endorsed across government, which is a vital step forward."
+        },
+        {
+            "text": "We are now moving forward with implementation, crucially at a time when many organisations in government and across public sector have implemented or started deploying their own data catalogues.\u00a0"
+        },
+        {
+            "text": "To ensure interoperability under the endorsed common approach, we have set up a Metadata Implementation Working Group (MIWG), with representatives from across government departments, representatives from the devolved administrations as well as external observers, like the Open Data Institute (ODI).\u00a0"
+        },
+        {
+            "text": "The group\u2019s first task is to implement the Metadata Requirements Specification, aligned with the DCAT Standard, within their own data catalogues. This will form the basis of the Government Data Catalogue in the Data Marketplace.\u00a0"
+        },
+        {
+            "text": "Publishing guidance to support implementation"
+        },
+        {
+            "text": "Parallel to this, MIWG members are providing valuable feedback and sharing implementation lessons; which will be used to populate a collection of guidance in the form of a Playbook geared towards Digital, Data and Technology (DDaT) professionals across government. It will include the Metadata Requirements Specification.\u00a0"
+        },
+        {
+            "text": "This will be a guide to developing metadata that meets the cross-government specification.\u00a0"
+        },
+        {
+            "text": "Longer term, MIWG will enrich the overarching cross-government Metadata Implementation Approach, providing further granularity beyond the core attributes listed in the Specification. This will likely include guidance on the provision of metadata attributes designed to assist users with evaluating a data set."
+        },
+        {
+            "text": "We expect published guidance to be also for the benefit of suppliers working with government who must already comply with the The Digital, Data and Technology Playbook. Implementing the aligned approach to metadata is fundamental to enabling data discoverability, and ultimately maximising the use of data across government."
+        },
+        {
+            "heading": 4,
+            "text": "How to get involved"
+        },
+        {
+            "text": "We have made significant progress in gaining consensus across departments and the MIWG are driving forward with implementation. Feedback from members\u2019 as they implement the specification will be incorporated to ensure the practicality of the guidance; MIWG will therefore continue to play a vital role. If you are responsible for metadata in your organisation you have a vested interest in shaping the approach and specification further."
+        }
+    ]
+}
