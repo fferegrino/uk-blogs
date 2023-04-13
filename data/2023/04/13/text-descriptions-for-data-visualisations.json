@@ -1,0 +1,97 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2023/04/13/text-descriptions-for-data-visualisations/",
+    "title": "Text descriptions for data visualisations",
+    "authors": [
+        "Sean Snee, Communicating Analysis Support, Analysis Function"
+    ],
+    "categories": [
+        "Accessibility"
+    ],
+    "pub_date": "2023-04-13T09:43:26+01:00",
+    "content": [
+        {
+            "text": "Last week I returned from a bucket list holiday to New York. It was mostly filled with sampling all the great pizza and bagels it has to offer, while trying to fit in a bit of sightseeing too.\u00a0"
+        },
+        {
+            "text": "One day I took a trip to the Metropolitan Museum of Art which contains over 2 million works of art! Apparently, it would take over 10 hours to view everything. However, I was not keen for a \u2018Night at the Museum\u2019 situation, and I really just wanted a cool tote bag."
+        },
+        {
+            "text": "Walking around the gallery I thought a lot of the pieces were really \u2018eye catching\u2019. However, not being an art historian, I did not really understand their stories or what I should take away. It was not until reading the museum labels and information boards that suddenly I could understand the artists\u2019 ideas and motives. Some of the art was even thousands of years old! Without this additional information, I might have left the gallery scratching my head and not taking as much away."
+        },
+        {
+            "text": "This is how I can sometimes feel trying to decipher data visualisations.\u00a0"
+        },
+        {
+            "text": "Data visualisations can be charts, tables, infographics and interactive tools like data dashboards. They can be found almost everywhere: online, in documents, in presentations, on social media.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "They can be very pretty, \u2018snazzy\u2019 and \u2018eye-catching\u2019, but without the necessary tools to explain them, I am again left walking away confused about what the message is. The primary focus of a data visualisation should be to get the message across clearly. Including a text description can act as a \u2018museum label\u2019 to provide this information and make understanding charts easier and clearer for everyone."
+        },
+        {
+            "heading": 2,
+            "text": "The alternative should be text"
+        },
+        {
+            "text": "The Web Content Accessibility Guidelines (WCAG) 2.1 - 1.1.1 Non-text Content (Level A) states that a text alternative should be implemented whenever there is non-text content. For example: an image, chart, infographic, diagram or gif. Since 2018, WCAG is a requirement by law for public sector bodies to meet if publishing content on the web."
+        },
+        {
+            "text": "When your content includes a chart, the most suitable text alternative is often a text description (although it can sometimes be a table of data). Text descriptions should convey the main message and be equally as informative as viewing the chart."
+        },
+        {
+            "text": "Think about how you would describe the chart over the phone, could it be recreated with that description?"
+        },
+        {
+            "text": "We advise the text description should be in the body text and not have strict character limits. Data visualisations can be complex to describe.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why should we include it?\u00a0"
+        },
+        {
+            "text": "Figure 1: colour blindness example"
+        },
+        {
+            "heading": 4,
+            "text": "Description of figure 1: bar charts representing different types of colour blindness.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Apart from meeting WCAG, providing a text description can be helpful to people in a number of ways. Firstly, it can provide the equivalent experience for users of screen reader software who cannot see visualisation. Secondly, it helps users who may have difficulty understanding information communicated through charts.\u00a0"
+        },
+        {
+            "text": "There are also other issues it addresses, such as colour blind users who may be unable to match legend labels or users with low vision who may not use screen reader software, but have difficulty viewing visual content. Finally, some users may just want reassurance that the message they think they have understood is correct.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "The text can also be very helpful if the visualisation fails to load due to a slow internet connection, as you will not lose any important information that the chart conveys. The user might be using a device such as a phone that cannot display the chart correctly. It also can provide more context to an image.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Putting the text description in the body"
+        },
+        {
+            "text": "Due to the user needs outlined, we recommend that the text description of data visualisations should be placed in the body text of a publication, not in the \u2018alt attribute\u2019 code behind an image.\u00a0"
+        },
+        {
+            "text": "When the text description is in the body, the \u2018alt-attribute\u2019 should be left empty and the image marked as decorative. Otherwise it may lead to repetition and auditory clutter for users of screen reader software.\u00a0 Find out more information about how to write alternative text in our Making analytical publications accessible guidance."
+        },
+        {
+            "text": "We would also always recommend testing your content with your users. Asking for feedback is so important to make sure your content is clear to everyone, however they choose to access it."
+        },
+        {
+            "heading": 2,
+            "text": "Want to find out more?"
+        },
+        {
+            "text": "We\u2019ve recently launched a data visualisation e-learning course on the Analysis Function website. It looks at best practice approaches for basic visualisations and how we can make them more accessible for all.\u00a0"
+        },
+        {
+            "text": "The learning is broken into 11 modules that you can take at your own speed. It looks at different chart types and demonstration tables. There are lots of demo videos, exercises and quizzes included to further your learning.\u00a0"
+        },
+        {
+            "text": "Module 11 provides more information and examples of what makes good alternative text when publishing a chart. There are even some exercises to help you write it, including recreating a chart from a screen reader transcript, so you can see why it is so important."
+        },
+        {
+            "text": "Best of all it's free and available to everyone."
+        }
+    ]
+}
