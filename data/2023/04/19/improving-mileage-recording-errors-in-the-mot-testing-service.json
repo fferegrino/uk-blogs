@@ -1,0 +1,106 @@
+{
+    "url": "https://mattersoftesting.blog.gov.uk/improving-mileage-recording-errors-in-the-mot-testing-service/",
+    "title": "Improving mileage recording errors in the MOT Testing Service",
+    "authors": [
+        "Dayve Walshe"
+    ],
+    "categories": [
+        "MOT Modernisation",
+        "MOT testing service",
+        "News and updates"
+    ],
+    "pub_date": "2023-04-19T13:31:42+01:00",
+    "content": [
+        {
+            "text": "Every year, we receive over 14,000 requests to correct MOT mileage readings through our contact centre and directly via the GOV.uk facility. "
+        },
+        {
+            "text": "Incorrect readings can go unnoticed by vehicle owners at the time of test. But at the point of trying to sell the vehicle, errors are highlighted by online car sales websites, dealerships or potential buyers."
+        },
+        {
+            "text": "Recording the odometer reading is a part of the MOT test. The tester enters the mileage into the MOT Testing Service (MTS). After the test is complete, the reading is shown on the MOT certificate and on the vehicle\u2019s online MOT History."
+        },
+        {
+            "heading": 4,
+            "text": "Researching mileage errors"
+        },
+        {
+            "text": "After conducting some user research visits at MOT testing stations, we were able to understand how and why errors in mileage recordings occur. Speaking with MOT testers, we were able to broadly categorise reasons why mistakes are made."
+        },
+        {
+            "text": "Entering incorrect readings"
+        },
+        {
+            "text": "The correct mileage is identified and usually written down on an inspection sheet or other paperwork. The mileage can then be entered incorrectly into MTS. This is often due to keying errors, where testers can accidentally catch another number on the keyboard when typing in the reading."
+        },
+        {
+            "text": "When speaking with some MOT testers, they all told us that they have made a mistake entering the mileage at least once. \u201cI caught two buttons and hadn\u2019t realised. It\u2019s easy to catch keys on a keyboard.\u201d"
+        },
+        {
+            "heading": 4,
+            "text": "Reading and entering incorrect numbers"
+        },
+        {
+            "text": "An incorrect number is often identified on the dashboard and entered as read into the system. Through our research, testers told us that it\u2019s not always a simple task to read the odometer. Inconsistency across different manufacturers in how they display the mileage means that it\u2019s not always easy to identify the mileage reading. Mistakes such as reading the trip meter instead of total mileage can also happen."
+        },
+        {
+            "text": "Dyslexia and dyscalculia"
+        },
+        {
+            "text": "Recording data accurately is made more difficult for people with dyslexia and/or dyscalculia. These conditions have an impact on the task of reading, typing numbers, and other information into MTS."
+        },
+        {
+            "text": "These two conditions can be combined, with 60% of individuals with dyslexia also having difficulties with numbers."
+        },
+        {
+            "text": "We don\u2019t currently have exact figures on the number of MOT testers who have these conditions. However, calculating against the national averages, 3000-6000 MOT testers are likely to have dyslexia, dyscalculia or a combination of both. The numbers are most likely\u00a0 higher than this, as people with dyslexia often go into careers that are more practical and involve less reading and writing."
+        },
+        {
+            "heading": 4,
+            "text": "Helping testers recognise errors "
+        },
+        {
+            "text": "Last July we added a new feature to MTS to highlight differences entered in the odometer reading in comparison to the previous MOT test. If the reading is the same as the previous one, or considerably different, a warning message now tells the tester if the reading is lower than, or significantly higher than the last test."
+        },
+        {
+            "text": "The feedback from the research was that the message is helpful in identifying potential mistakes when entering mileage readings. When the message is shown, testers must confirm that the reading they\u2019ve entered is correct or edit and correct the reading."
+        },
+        {
+            "text": "\u201cYou have to double-check it. It\u2019s there to help you.\u201d"
+        },
+        {
+            "text": " "
+        },
+        {
+            "text": "Since the new feature launched, the warning message has been triggered 1.5 million times, which equates to around 4% of all MOT Tests; this has resulted in 42% of these being re-entered, avoiding future corrections."
+        },
+        {
+            "text": "Future improvements"
+        },
+        {
+            "text": "We have identified some content improvements to the odometer warning message, such as displaying last years\u2019 mileage reading. This will make it easier to compare the readings and help testers quickly realise if they have made an error. This is part of our on-going design and research looking at other improvements to make the screen even more helpful in identifying mistakes."
+        },
+        {
+            "text": "Recognising that we have thousands of MOT testers who have difficulties in entering data into MTS, we are working on improvements to automate MOT data entry. Connected equipment was the first step in automating test results into the system, reducing the amount of information that has to be manually typed into MTS."
+        },
+        {
+            "text": "We are also planning on carrying out a second trial for cameras in garages. The aim of bringing camera technology into garages is to help reduce record keeping errors so that testers won\u2019t need to enter the registration plate manually. By starting to automate data into MTS, including downloading data from the vehicle direct to MTS, we will have less reliance on manual typing of numbers. This will make it easier for those with dyslexia and dyscalculia. For more information, Chris Price discusses the use of cameras in garages in his most recent blog post in Matters of Testing."
+        },
+        {
+            "heading": 4,
+            "text": "What to do if you think the mileage is recorded incorrectly"
+        },
+        {
+            "text": "With the best of intentions, unfortunately mistakes can occur. Where errors are noticed within 28 days of the MOT being conducted, these can be corrected and a replacement certificate produced by the MOT centre."
+        },
+        {
+            "text": "Where errors are noticed over 28 days, these must be reported to DVSA. You will also need to email proof of the mileage, such as a scan or a photo of:"
+        },
+        {
+            "text": "They need to show what the mileage should be, and show the same date as the MOT test."
+        },
+        {
+            "text": "This is important as if you do not send the right evidence, DVSA will not fix the mistakes."
+        }
+    ]
+}
