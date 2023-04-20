@@ -1,0 +1,75 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2022/08/19/check-check-check-new-rod-licence-app-continues-to-bring-benefits/",
+    "title": "Check, check, check; new rod licence app continues to bring benefits",
+    "authors": [
+        "Joe Simpson"
+    ],
+    "categories": [
+        "Defra digital",
+        "Software tools",
+        "User research"
+    ],
+    "pub_date": "2022-08-19T08:00:46+01:00",
+    "content": [
+        {
+            "text": "Service Manager Joe Simpson explains how Environment Agency Fisheries Enforcement Officers (FEOs) have been making leaps and bounds in licence checking, thanks to a new app designed and built by Defra\u2019s \u2018I Want to Fish\u2019 digital team."
+        },
+        {
+            "text": "Last year enforcement officers checked around 40,000 licences resulting in hundreds of unlicensed anglers being prosecuted. In fact, last year the Environment Agency concluded 726 successful prosecutions generating over \u00a3100,000 in fines from anglers fishing illegally."
+        },
+        {
+            "text": "Made possible by rod licence fees, the Environment Agency worked with us to build the \u2018Check Fishing Licences\u2019 app. The app was developed to reduce thousands of lengthy calls to the Incident Communication Service (ICS)."
+        },
+        {
+            "text": "The service has the ability to check the angler database on an Enforcement Officer\u2019s behalf. As a group, the officers make hundreds of calls to ICS each month. This is usually to check licence details when an angler cannot locate their licence on the bankside, or if the officer is not satisfied with the licence evidence presented."
+        },
+        {
+            "heading": 2,
+            "text": "Feedback from users is vital"
+        },
+        {
+            "text": "When our team spoke to some of the Enforcement Officers, we discovered that often these calls could take up to 40 minutes each time, potentially making an enforcement situation hostile, while the angler waits, and sometimes results in the angler simply wandering off. This quote from one of our officers sums the issue up neatly."
+        },
+        {
+            "text": "\"The current system for checking to see if an angler has a current licence is painfully slow and can be way out, depending upon the operator. Recent examples show one operator unable to find an angler. Try again minutes later with a different operator and finds the angler straight away.\""
+        },
+        {
+            "text": "In addition, social distancing rules implemented at the time meant they could no longer physically take a licence from an angler to check details, making it difficult to carry out meaningful enforcement.\u00a0Another solution was required."
+        },
+        {
+            "text": "It was clear that giving officers direct access to the angler database would deliver the greatest value.\u00a0The team worked with our architects to identify an appropriate technology choice."
+        },
+        {
+            "heading": 2,
+            "text": "Choosing the right technology solution"
+        },
+        {
+            "text": "Power Apps, from MS Power Platform, was the natural choice given that the existing technology was founded in MS. A successful pilot was run, with excellent feedback from officers. Paul Caygill is one of the FEOs who has been involved in trialling the app:"
+        },
+        {
+            "text": "\u201cThe app speeds the checking process up significantly and it gives better situational awareness of surroundings - contact with anglers was less, so reduced risks. One angler who had been shielding was comforted that I didn\u2019t need to be close to check his licence. It makes our work easier and provides a better service to the customer. It\u2019s a great addition to the toolkit. Anything which makes my job better or easier is a good thing.\u201d"
+        },
+        {
+            "text": "The secure, remote access to the angler database allows for quick, unobtrusive checks, giving officers and anglers greater confidence in the licence and enforcement process."
+        },
+        {
+            "text": "The app was rolled out to all FEOs in the summer of 2021. Since then, the app has been used frequently by many officers. Our tracking shows that 30% of checks were performed using the app. Checks which ordinarily would need to be phoned into ICS by officers on the bankside have dropped from 14% to 2%."
+        },
+        {
+            "heading": 2,
+            "text": "There\u2019s still plenty to be done"
+        },
+        {
+            "text": "However, there is more work to be done. The first iteration of the app has performed fantastically and has shown itself to be a reliable technology which can be worked into daily procedures of enforcement officers but there are more obstacles to overcome."
+        },
+        {
+            "text": "The team is currently exploring alternative technologies for the second iteration. The sheer quantity of data was outlined as a challenge from day one. Online access is easy, but officers are in \u2018offline\u2019 areas 50% of the time."
+        },
+        {
+            "text": "Securely downloading angler details to a device, to ensure officers have access to the database for any check they require it for, is the biggest obstacle for the team currently."
+        },
+        {
+            "text": "For now, we continue to monitor and evaluate the performance of the app, but in the coming year hope to release a version which will deliver further benefits for officers and anglers on the bankside."
+        }
+    ]
+}
