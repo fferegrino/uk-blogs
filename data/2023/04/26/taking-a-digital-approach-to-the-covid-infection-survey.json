@@ -1,0 +1,102 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2023/04/26/taking-a-digital-approach-to-the-covid-infection-survey/",
+    "title": "Taking a digital approach to the COVID infection survey",
+    "authors": [
+        "Martin O'Brian"
+    ],
+    "categories": [
+        "COVID-19",
+        "Digital surveys",
+        "Ways of working"
+    ],
+    "pub_date": "2023-04-26T14:38:44+01:00",
+    "content": [
+        {
+            "text": "The COVID-19 survey collected and analysed more than 11 million swab tests and 3 million blood tests from households, and in line with the changing path of the pandemic, the UK Health Security Agency (UKHSA) are currently reviewing their approach to COVID-19 surveillance to ensure it is proportionate and considered alongside other respiratory illnesses."
+        },
+        {
+            "text": "With the survey data collection pausing whilst these discussions take place, we wanted to take the time to reflect on our digital approach and share some of the insights."
+        },
+        {
+            "heading": 2,
+            "text": "Government needs to be able to respond quickly"
+        },
+        {
+            "text": "Understanding more about the rate of COVID-19 infection in the general population, and the longer-term prevalence of antibodies, was a vital part of the Government response to the virus and to minimise the burden on NHS resources and personnel, tests were undertaken by nurses from the data science company IQVIA UK in participants\u2019 own homes. By mobilising a dedicated nationwide team of IQVIA nurses to undertake the COVID-19 tests in the community, frontline NHS staff continued to focus on providing care for those who need it."
+        },
+        {
+            "text": "To provide a more flexible approach for participants and to help reduce costs to the taxpayer and the carbon footprint, we introduced a digital questionnaire in July 2022 and partnered with IQVIA again to deliver it as the ONS owned platforms on which we run our surveys, wouldn\u2019t have been ready in time."
+        },
+        {
+            "text": "To expedite the delivery of the digital questionnaire, we took the decision use a proprietary platform and the successful beta service assessment acknowledged that \u201cthe service had to be quickly turned around with limited resources and the team has done a good job with producing a service that solves most of the challenges.\u201d"
+        },
+        {
+            "text": "As with most beta service assessments there are recommendations, and our quick response and turnaround largely reflected the comments.\u00a0 Being able to deliver the digital service quickly and successfully whilst acknowledging the things that can improved given more time, is a careful balance but one we managed to achieve."
+        },
+        {
+            "heading": 2,
+            "text": "People will only choose to use government services digitally if they are more straightforward and convenient"
+        },
+        {
+            "text": "At the outset of the survey, field workers would visit homes to gather the samples and then send them on for analysis and there were nearly 5 million unique home visits conducted across the nations.\u00a0\u00a0The digital questionnaire allowed participants to package their swab and blood kit samples and to take them to their nearest post box.\u00a0 To ensure the data continued to be representative, other options were available for those who were unable to take part online or by post."
+        },
+        {
+            "text": "The data was recognised as \u201ccritical surveillance\u201d in line with the UK government\u2019s Living with COVID plan and so moving to the more flexible approach and reducing the burden on participants further helped to provide vital weekly data on virus positivity levels across the UK, details on new variants, the characteristics of those who had the virus and their antibody levels and details of long COVID prevalence."
+        },
+        {
+            "text": "Defining what good looks like and identifying appropriate metrics is an important part of the government service standard as it indicates how well the service is solving the problem it\u2019s meant to solve.\u00a0 Some of the metrics captured that we think showed the successful move of the survey to digital include:"
+        },
+        {
+            "text": "To provide some context for the above metrics, the 2020 statistical release of internet use in the UK showed that 92% of adults were recent internet users and Census 2021 showed that nearly 90% of households in England and Wales responded on-line.\u00a0 Additionally, Census 2021 showed that 97% of households took part)"
+        },
+        {
+            "heading": 2,
+            "text": "Effective contract management is essential to drive value for money and deliver successful outcomes"
+        },
+        {
+            "text": "Ensuring all stakeholders were working from the same information and towards the same outcome was most important. Communication is at the heart of any successful project and programme, and this was especially the case for the digital elements of the survey where technical, legal, commercial, and statistical language all combined, and so getting this right enabled us to make good decisions."
+        },
+        {
+            "text": "Collaboration, openness, transparency and flexibility was also important, and we found the following to be particularly helpful in delivering and incentivising the desired behaviours and outcomes:"
+        },
+        {
+            "heading": 2,
+            "text": "Open, interoperable, and visible data is a must"
+        },
+        {
+            "text": "The ability to exchange and share information and data between the ONS, IQVIA, UKHSA and the University of Oxford whilst protecting users\u2019 privacy, was essential to the success of the survey as it empowered others to make timely and informed analysis and decisions for the public good."
+        },
+        {
+            "text": "Data was shared securely using consistent methods and data standards, enabling us to collect, ingest and analyse large amounts of data and publish statistical releases weekly. \u00a0(IQVIA were securely transferring around 725,000 rows of participant response data daily to the ONS.)"
+        },
+        {
+            "text": "In December 2020 ONS launched a new interactive tool to allow people to access a range of COVID-19 data, graphs and data visualisations in one place and it frequently became the most visited ONS webpage.\u00a0 It gave people an easy way to navigate all of the data and more - important visualisations and narrative on the level of the virus in the community, the number of deaths involving the virus, and its impact on individuals and society. Allowing users to drill down to get more information on a chosen theme or topic - for example looking at the percentage of people testing positive for COVID-19 by region, the number of deaths involving the coronavirus by age group, or preventative measures in different areas of England."
+        },
+        {
+            "text": "New ways of presenting data were also developed to communicate complex models, including interactive charts that showed progression over time to be displayed (some of these charts were used in televised briefings on national television)."
+        },
+        {
+            "heading": 2,
+            "text": "Users expect to be able to use online services 24 hours a day, 365 days a year"
+        },
+        {
+            "text": "Many users have limited choice over how and when they access government services. For example, they may be a carer who only has time to complete a survey in the early hours of the morning. If a survey is unavailable or slow, it can mean those users won\u2019t be able to submit their survey and the statistics we produce won\u2019t be truly representative.\u00a0 It was essential that the digital questionnaire maximised the uptime and speed of response, could be deployed regularly when changes were introduced, and had appropriate monitoring in place.\u00a0 Making the survey available for 24 hours a day, 7 days a week helped to get the 90% response."
+        },
+        {
+            "text": "Some of the notable metrics we captured from August 2022 were:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Recognising that we need to respond to any future surveillance or survey data collection that may be required at short notice, we\u2019ve been further developing our ONS platforms to be able to quickly meet the needs and expectations of our users.\u00a0 The platform we use for business surveys has been enhanced to collect health and population data and we\u2019ve been"
+        },
+        {
+            "text": "The CRIS Survey aims to understand and manage COVID-19 and other respiratory infections in the long term and is mainly online.\u00a0 Swabs and blood samples aren\u2019t being collected and telephone appointments are available for help to complete it if required."
+        },
+        {
+            "text": "We sent invitations to a subset of the COVID infection survey respondents in early April and we\u2019re getting ready to send the survey to more respondents in the coming weeks and months.\u00a0 The data from the study are important in helping us understand the impact of COVID-19, long COVID and other respiratory infections on the lives of individuals, the community and on health services and how they are changing."
+        }
+    ]
+}
