@@ -1,0 +1,46 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2023/05/05/cambridge-beats-weatherfield-to-coronation-street-top-spot/",
+    "title": "Cambridge beats Weatherfield to Coronation Street top spot",
+    "authors": [
+        "Jack Salvin, Corporate Communications Team"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2023-05-05T16:12:12+01:00",
+    "content": [
+        {
+            "text": "This weekend will see people across the United Kingdom celebrating the Coronation of His Majesty The King and Her Majesty The Queen Consort."
+        },
+        {
+            "text": "Thousands of events will be hosted for the occasion including street parties, Coronation Big Lunches, Big Help Out plans and other Coronation activities. If you would like to see what\u2019s on in your local area or share how you will be celebrating then check out the digital map on the Coronation website."
+        },
+        {
+            "text": "In the spirit of the celebration, I thought I would take a look at the Coronation through the lens of HM Land Registry data and see what I could find out about the roads around the country named Coronation."
+        },
+        {
+            "text": "We have more than 1,000 streets registered with Coronation in the name. These were the top 5 most common among them:"
+        },
+        {
+            "text": "From this I thought I would drill down further into the data for one of these sets of streets and despite not being one for soaps myself, one name stood out more than others. Coronation Street."
+        },
+        {
+            "text": "So after finding all of the Coronation Streets we had registered I took the relevant postcode sector for them, 'CB2 1' for example, and using HM Land Registry\u2019s 0pen data I ran a report on the average prices and volumes of each postcode for the year-to-date to get the average for sales for each street."
+        },
+        {
+            "text": "As the report uses current year-to-date information these rankings will vary over time."
+        },
+        {
+            "text": "The top 10 Coronation Streets for average house price year-to-date were:"
+        },
+        {
+            "text": "Unfortunately, we don\u2019t have any price paid data for the cobbled Coronation Street of fictional town Weatherfield so I can\u2019t tell you what Ken Barlow\u2019s house would be worth nowadays. There is however a Coronation Street in Salford (the borough Weatherfield is based in) which has a year-to-date average house price of \u00a3205,000."
+        },
+        {
+            "text": "If you want to create some price paid reports for any of the non-fictional streets out there you can do so free of charge. There is more information available on the other types of data you can access from HM Land Registry within our GOV.UK pages."
+        },
+        {
+            "text": "I would like to wish to wish everyone a happy Coronation weekend and hope those who are watching the Coronation or taking part in any of the celebrations enjoy the occasion."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "url": "https://minimumwage.blog.gov.uk/2023/05/05/how-we-calculate-a-path-for-the-national-living-wages-target-of-two-thirds-of-median-wages-in-2024/",
+    "title": "How we calculate a path for the National Living Wage\u2019s target of two-thirds of median wages in 2024",
+    "authors": [
+        "eduinlatimer"
+    ],
+    "categories": [
+        "National Living Wage",
+        "UK minimum wage rates"
+    ],
+    "pub_date": "2023-05-05T15:08:41+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What is the National Living Wage? "
+        },
+        {
+            "text": "Our main job at the Low Pay Commission is to recommend future National Minimum Wage (NMW) rates. Under the NMW, there are different rates for different age groups and a separate rate for apprentices."
+        },
+        {
+            "heading": 4,
+            "text": "Minimum wage rates to apply from 1 April 2023 to 31 March 2024"
+        },
+        {
+            "text": "The National Living Wage (NLW) is the highest of the National Minimum Wage rates. It currently applies to all workers aged 23 and over (excluding first year apprentices) and from April 2024 is due to apply to all workers aged 21 and over."
+        },
+        {
+            "text": "Since 2016, the Government has asked us to make NLW recommendations in line with a target. In 2015, the Government asked us to raise the NLW to 60 per cent of median hourly earnings by 2020. When the NLW hit that target, the Government set a new one for the NLW to reach two-thirds of median hourly earnings by 2024."
+        },
+        {
+            "heading": 3,
+            "text": "How do we estimate the rate needed to hit the Government\u2019s target?"
+        },
+        {
+            "text": "Making recommendations in line with these Government targets is more complex than it might first sound. First, we need to establish what the target is exactly. Since the NLW was introduced, we have aimed for a target in October of each year (e.g., two thirds of median earnings by October 2024). \u00a0October is halfway through the minimum wage year and so is the best proxy for a whole year average. Were we to aim for April instead, when the rates come in, we\u2019d likely be below target for most of the year as the NLW stayed constant but average earnings continued to rise."
+        },
+        {
+            "text": "The key challenge is forecasting what median hourly wages will be in October 2024. We use three steps to get our on-course rate estimate. These are shown in Figure 1."
+        },
+        {
+            "heading": 3,
+            "text": "Step 1: Estimate baseline median hourly pay\u00a0\u200b"
+        },
+        {
+            "text": "We take the most recent estimate of median hourly\u00a0earnings excluding overtime from the Annual Survey of Hours and Earnings\u00a0(ASHE), an employer survey of 1 per cent of employees in PAYE as our baseline. The latest (April 2022) estimate of median hourly pay for workers aged 21 and over was \u00a314.90 (the navy dot on the chart below). By the time we recommend the rate in October 2023, we will have new ASHE data so our baseline will be median hourly pay in April 2023."
+        },
+        {
+            "heading": 3,
+            "text": "Step 2: Estimate pay growth from baseline median hourly pay\u200b."
+        },
+        {
+            "text": "Next, we estimate pay growth from the baseline to October 2024 (the target date). A challenge with this stage is that there are no sources of hourly pay data that allow us to do this. So instead, we use two sources of weekly pay data as proxies. We project growth in line with Average Weekly Earnings\u00a0data (12-month-on-12-month growth), where this is available (currently\u00a0up to January 2023). This is the light blue line in Figure 1."
+        },
+        {
+            "text": "We then use forecast growth in average weekly earnings\u00a0to project further out to the target date. We use the median of\u00a0forecasts by HMT\u2019s independent panel of forecasters, adding the OBR\u00a0and Bank of England forecasts to the panel.\u00a0\u200bThis is the purple line in Figure 1."
+        },
+        {
+            "text": "This step gives us an estimate of median hourly pay in October 2024 (orange dot on chart opposite). To reflect uncertainties in the forecasts we also estimate a range where pay growth rates in the projection period are 1 percentage point a year lower or higher than our central estimate."
+        },
+        {
+            "heading": 4,
+            "text": "Figure 1: Illustration of our approach to calculating 2024 NLW on-course rate "
+        },
+        {
+            "heading": 3,
+            "text": "Step 3: Project on-course rate by calculating two-thirds of our estimate of median hourly pay "
+        },
+        {
+            "text": "Finally, we project the rate of the NLW forward. Given we are in the final year of our target, we do this by simply taking two-thirds of our estimate of median hourly pay in October 2024. Our central estimate of the 2024 on-course rate using this approach is \u00a311.16 (the yellow dot on the chart). Figure 2 (below) shows the range (\u00a310.90-\u00a311.43) around our central estimate, which reflects uncertainty over wage growth."
+        },
+        {
+            "heading": 4,
+            "text": "Figure 2: Previous National Living Wage Rates and projections for the 2024 rate (\u00a3) "
+        },
+        {
+            "text": "This year our job of projecting median hourly pay forward is particularly difficult. Pay growth has increased rapidly in the last two years and is now forecast to fall (see Figure 3). We have increased the range around our path estimates to account for increased uncertainty around wage forecasts."
+        },
+        {
+            "heading": 4,
+            "text": "Figure 3: Annual pay growth, outturn, and forecasts, 2011-2025"
+        },
+        {
+            "text": "The recent large changes in pay growth also make apparent two issues with our on-course rate calculation, which we discuss below. We have developed experimental adjustments for these issues (see Figure 2), which, if applied would reduce our on-course rate estimate by 12 pence."
+        },
+        {
+            "text": "Issue 1: We use the timeliest available pay forecasts available: the median of a panel of pay growth forecasts compiled by HMT. However, these forecasts are only available for the growth in calendar year average pay, not the October to October growth we need. We apply these monthly by assuming growth is even across the year (accounting for compounding). However, when pay growth is forecast to change rapidly, our approach effectively lags the impact of these rapid changes on our on-course rate estimates. Given that pay growth is forecast to fall, this issue currently is pushing our on-course rate estimate upwards. If we were to apply our experimental adjustment for this issue, it would reduce our on-course rate estimate by 12 pence."
+        },
+        {
+            "text": "Issue 2: Part of our path calculation uses a 12-month smoothed average of Average Weekly Earnings (AWE) total pay to account for the latest available data on pay. We smooth to take out volatility in the AWE. However, smoothing requires relying on a longer period of historic data. This can mean our smoothed average responds more slowly to recent changes in pay growth. Currently this issue has no effect on our headline path estimate. We will continue to monitor it between now and October when we make our recommendations."
+        },
+        {
+            "text": "These issues make a difficult job (forecasting future wages) even harder. While we\u2019ve \u00a0developed adjustments for these issues, they are experimental and add month-to-month volatility to our on-course rate estimates. \u00a0Stability and predictability are important to not only help employers plan for future upratings but also to help Commissioners reach agreement on the appropriate rate to recommend."
+        },
+        {
+            "text": "There is no easy solution to the current issues with forecasting pay, it is a matter of a judgement. \u00a0The Low Pay Commission will take a decision in October this year when we recommend next year\u2019s rates. Until then, we will continue to monitor pay data and forecasts closely."
+        },
+        {
+            "text": "Finally, the Government has asked us to consider wider economic factors in our recommendations. We can advise the Government to \u201cadjust the target\u201d if the \u201ceconomic conditions warrant it.\u201d\u00a0 We will base our recommendations on evidence of the economic impacts of the UK\u2019s minimum wages and the broader economic context. You can share your views with us in our consultation here, which is open till 9\u00a0June 2023."
+        },
+        {
+            "text": "For source notes see our uprating report here."
+        }
+    ]
+}
