@@ -1,0 +1,42 @@
+{
+    "url": "https://technology.blog.gov.uk/2023/05/10/weve-removed-98-gsi-family-domains-from-the-public-sector/",
+    "title": "We\u2019ve removed 98% of gsi-family domains from the public sector",
+    "authors": [
+        "Nick Woodcraft, Domains Product Owner, CDDO"
+    ],
+    "categories": [
+        "News"
+    ],
+    "pub_date": "2023-05-10T15:42:24+01:00",
+    "content": [
+        {
+            "text": "We posted previously about our work removing gsi-family domains from the public sector and why we are doing it."
+        },
+        {
+            "text": "This work is now complete and over 3,500 domains have been removed including:"
+        },
+        {
+            "text": "We will continue to monitor the remaining domains for issues, but this work has removed the bulk of the risk of email spoofing and domain hijacking from misconfiguration for these domains. We expect that further work may be required in the future to completely remove gsi.gov.uk and to look at the domains that remain within the PSN (Public Services Network)."
+        },
+        {
+            "heading": 2,
+            "text": "Changes made"
+        },
+        {
+            "text": "Since our previous blog, we\u2019ve made the following changes:"
+        },
+        {
+            "text": "Please note that no PSN-facing zones were changed during this work."
+        },
+        {
+            "heading": 2,
+            "text": "What to do if you still have gsi-family domains"
+        },
+        {
+            "text": "There are 83 .gsi.gov.uk domains remaining. If you still have one of these domains you should take steps now to remove it. If it still works for email, we recommend you change settings to start rejecting inbound email. You can also choose to include a bounce-back message giving senders the correct address."
+        },
+        {
+            "text": "You should also check public facing websites or documentation for mentions of gsi-family domains and remove them."
+        }
+    ]
+}
