@@ -1,0 +1,126 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/05/18/improving-the-accessibility-capability-of-government/",
+    "title": "Improving the accessibility capability of government",
+    "authors": [
+        "Richard Morton, Head of Accessibility, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Digital learning and development",
+        "Digital strategy"
+    ],
+    "pub_date": "2023-05-18T08:32:46+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Improving the accessibility capability of government"
+        },
+        {
+            "text": "It was just over 7 years ago in March 2016 when I walked into Aviation House in Holborn, where the Government Digital Service (GDS) was based at the time. In the atrium, the World Wide Web Consortium (W3C) Technical Architects Group were having a photoshoot before a meeting. I did a double-take when I saw Sir Tim Berners-Lee (inventor of the World Wide Web) standing there. If I didn\u2019t already know, that confirmed to me that GDS was going to be a cool place to work, and it didn't disappoint."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The team\u2019s growth and work"
+        },
+        {
+            "text": "Initially I helped ensure that GDS\u2019s public-facing products and services were accessible, in particular GOV.UK and the Government as a Platform products, Notify, Pay and Verify. This also included GOV.UK Elements, which later developed into the highly successful GOV.UK Design System which was launched in 2017 leading to components with built-in accessibility through GOV.UK Frontend."
+        },
+        {
+            "text": "GDS often talks about doing the hard work to make things simple, and this was certainly the case with form component testing. When GDS updated the radio buttons and checkboxes on GOV.UK in 2016 it took a lot of work to make these accessible, particularly with voice recognition software. For example some changes worked with an earlier version of Dragon Naturally Speaking, but not the latest one and narrowing down the reasons for that was difficult.\u00a0"
+        },
+        {
+            "text": "GDS ran an assistive technology survey in 2016 to establish which technologies were most commonly used for government services. This led to a list of requirements and an accessibility and assisted digital section in the service manual."
+        },
+        {
+            "text": "When looking at automated test tools in 2017, the GDS accessibility team knew that they were only capable of testing a small percentage of potential accessibility issues, but wanted to be able to prove that, so tests were run with a variety of tools against what we jokingly called the world\u2019s least accessible webpage - which we created specially for this work."
+        },
+        {
+            "text": "Much technical work was done on creating more accessible data tables in 2017, particularly as the government publishes so much data, often in complex nested tables."
+        },
+        {
+            "heading": 2,
+            "text": "The accessibility test and empathy lab"
+        },
+        {
+            "text": "To run testing, and to help raise awareness of accessibility and assistive technology, we bought and setup laptops with the most commonly-used assistive technologies on them: JAWS screen reader, Zoomtext screen magnifier, and Dragon Naturally Speaking voice recognition."
+        },
+        {
+            "text": "Initially the \u201clab\u201d was just kept in a cupboard when not in use, but when GDS moved offices to the White Chapel Building in Aldgate in East London in May 2017, we had the luxury of a large open area to use, so we locked the laptops to a desk and expanded the equipment to include mobile phones and tablets, and things like visual impairment simulation glasses. The accessibility tools lab then became the accessibility empathy lab, and we opened it up to teams across government to test their own products and services or to learn more about the accessibility barriers people face.\u00a0"
+        },
+        {
+            "text": "The accessibility empathy lab was later expanded to include some Chromebooks. These each had several profiles on them to simulate access needs, based on accessibility personas that we had previously created and shared, for the purpose of helping design and build accessible information and services."
+        },
+        {
+            "heading": 2,
+            "text": "The accessibility community"
+        },
+        {
+            "text": "GDS ran meetups and facilitated discussions in various online groups and channels. We tried to alternate locations for the meetups between London and outside of London to try and reach more people, and had some great talks from people both inside and outside government.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Service Assessments"
+        },
+        {
+            "text": "Government services that are subject to the Government Service Standard have to ensure they make their services accessible.\u00a0"
+        },
+        {
+            "text": "As part of the Government Service Standard, services are required to:"
+        },
+        {
+            "text": "The team created a simple and easy-to-run set of tests to get a sense-check of whether service teams had taken a good approach to accessibility. After running these for a while, we trained the service assessment team in how to run the tests themselves."
+        },
+        {
+            "heading": 2,
+            "text": "Public Sector Bodies Accessibility Regulations"
+        },
+        {
+            "text": "When the European Web Accessibility Directive came into force in 2016, GDS was chosen to transpose the legislation into UK law and to become the monitoring body for what became the Public Sector Bodies Accessibility Regulations in 2018. This set a particular standard for digital accessibility that went beyond the existing requirements of the Equality Act (the Disability Discrimination Act in Northern Ireland), which only goes to the level of detail of requiring reasonable adjustments to be made for disabled people."
+        },
+        {
+            "text": "I got involved in the accessibility regulations awareness campaign which ran from September 2019 for 2 years. I lost count of the number of talks, webinars and question and answer sessions I did\u00a0 for many different groups across the public sector."
+        },
+        {
+            "text": "As people started to become aware of the new regulations, interest in the accessibility empathy lab increased and we hosted more than 150 visits (around 600 people) from teams across the public sector from 2017 to 2020, including local authorities, the NHS, Transport for London and the emergency services."
+        },
+        {
+            "text": "We gave an introduction to the lab, demonstrated the assistive technologies and the persona profiles, and assisted teams if they wanted to try testing things. We also ran sessions with teams using the personas to test against. This was highly successful, allowing for many tests to be done in a short time and being able to quickly identify a number of issues that hadn\u2019t been considered."
+        },
+        {
+            "heading": 2,
+            "text": "Training and clinics"
+        },
+        {
+            "text": "Accessibility introduction training had been incorporated in parts of several training programmes, and later we built this into an afternoon of training including an assistive technology demonstration and some interactive exercises, run on many occasions in a number of locations across government, with great help from the user centred design communities team."
+        },
+        {
+            "text": "More recently, after COVID19 started in 2020 we ran introduction training and accessibility empathy lab introductions online."
+        },
+        {
+            "text": "We started running accessibility clinics with the idea that any teams at GDS could come to us with questions about accessibility exploring ideas for ensuring that accessibility was included in projects. We ran around 140 clinic sessions from 2016 to 2022 and widened the reach of these from GDS out to the whole of the public sector."
+        },
+        {
+            "heading": 2,
+            "text": "Personal Highlights"
+        },
+        {
+            "text": "Some personal highlights for me have been:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "2023 and beyond"
+        },
+        {
+            "text": "The work continues in transforming government services as part of the Central Digital and Data Office, where I moved to in 2021. A focus on making at least 50 of the top 75 services achieve a great standard by 2025 includes supporting them to meet and go beyond compliance with the accessibility regulations and requirements. Currently we are looking at the standards and guidance and other products and services that support the end-to-end user journey of building, transforming and delivering services.\u00a0"
+        },
+        {
+            "text": "I am really proud of the work the accessibility teams (past and present) have done. They have achieved great things and I feel privileged to have played a part in that. I think it is fair to say the level of accessibility across government and the wider public sector has improved significantly since the creation of GDS and GOV.UK, and will continue to do so."
+        },
+        {
+            "text": "There is no slowing down or complacency though. We still have a long way to go to build digital accessibility into the culture of the public sector and beyond, and there are many things that still need to be fixed, like procurement of accessible services and products, making internal services accessible for everyone, and dealing with the ever-growing, inaccessible PDF mountain. It\u2019s a challenge I look forward to.\u00a0\u00a0\u00a0\u00a0"
+        }
+    ]
+}
