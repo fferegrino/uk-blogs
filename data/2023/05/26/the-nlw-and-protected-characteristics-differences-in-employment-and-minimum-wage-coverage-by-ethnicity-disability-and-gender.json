@@ -1,0 +1,77 @@
+{
+    "url": "https://minimumwage.blog.gov.uk/2023/05/26/the-nlw-and-protected-characteristics-differences-in-employment-and-minimum-wage-coverage-by-ethnicity-disability-and-gender/",
+    "title": "The NLW and protected characteristics: differences in employment and minimum wage coverage by ethnicity, disability, and gender",
+    "authors": [
+        "josephwilkinson"
+    ],
+    "categories": [
+        "Research"
+    ],
+    "pub_date": "2023-05-26T10:04:38+01:00",
+    "content": [
+        {
+            "text": "As set out in our previous blog, we recently published two research projects which we commissioned for our 2021 Report, and which use innovative approaches and data sources to shed further light on the impact of higher minimum wages on groups of workers with protected characteristics. This blog focuses on one of these research reports, Abigail McKnight at the London School of Economics. Another blog focuses on the findings from research that used company data from a UK-based services company to investigate the effects of a higher minimum wage \u2013 the voluntary Living Wage."
+        },
+        {
+            "text": "As part of our ongoing monitoring of the impacts of the National Minimum Wage (NMW) on different groups of workers, the Low Pay Commission has regularly reported on trends in minimum wage coverage rates (the share of workers paid at or below the minimum wage) and employment rates by ethnicity, disability, and gender."
+        },
+        {
+            "text": "However, the main data sources used in that reporting \u2013 the Annual Survey of Hours and Earnings (ASHE) and the Labour Force Survey \u2013 have limited the extent of the analysis that we conduct. ASHE has few personal characteristics (just age and gender) while the Quarterly Labour Force Survey is limited in sample size."
+        },
+        {
+            "text": "We know from our reporting that women, ethnic minorities, and those with disabilities have lower average rates of employment but when employed are more likely to be paid the minimum wage. That suggests that, although these groups may be most likely to gain from minimum wage increases, they may also be at greater risk of job loss as a result of those increases. McKnight (2022) analyses data from the decade prior to the pandemic (2009-2019) to explore changes in minimum wage coverage and employment rates. She also investigates the impact of the introduction of the National Living Wage (NLW) on employment retention and pay progression."
+        },
+        {
+            "text": "The study uses data from two worker surveys \u2013 the Annual Population Survey and Understanding Society \u2013 which both have booster samples to increase the number of responses from ethnic minorities. The author makes adjustments to the data to account for issues with worker-reported estimates of hourly pay."
+        },
+        {
+            "heading": 2,
+            "text": "Minimum wage work is more common amongst certain ethnic groups and those with disabilities"
+        },
+        {
+            "text": "The research confirmed previous findings that minimum wage coverage is higher among women (than men), those with disabilities (than those without) and among Black, Asian and Minority Ethnic (BAME) employees (than non-BAME employees)."
+        },
+        {
+            "text": "Minimum wage coverage was considerably higher among women by disability and ethnicity. Indeed, minimum wage coverage was higher among non-disabled female employees than among disabled male employees. However, the coverage gap (the disparity in coverage with their non-BAME counterparts) was greater for BAME men than women as non-BAME men had very low minimum wage coverage."
+        },
+        {
+            "text": "Across different types of functional impairment and ethnicity, minimum wage coverage varied. Among those with disabilities, minimum wage coverage was lowest for those with hearing difficulties and highest among those who did not recognise when they were in physical danger, or who had communication or speech difficulties. Among ethnicities, Bangladeshi and Pakistani employees had the highest coverage with Indian employees having similar coverage to non-BAME employees."
+        },
+        {
+            "text": "In the period prior to the introduction of the NLW, as minimum wages had gradually increased, coverage rates had also generally increased. Increases were greater for those with disabilities than those without. There were also increases across ethnic groups. This lack of increased coverage after 2016, despite the large increases in the NLW, is in line with our findings reported in various reports since 2017."
+        },
+        {
+            "heading": 2,
+            "text": "Employment rates increased for most groups of workers between 2009 and 2019"
+        },
+        {
+            "text": "Employment rates had also generally been increasing in the decade before the pandemic. Employment rates among men and women with disabilities followed this pattern, with increases continuing after the introduction of the NLW. There was some evidence that the disability employment gap had fallen. BAME employment rates are lower than non-BAME ones with the employment gap larger for women than men. BAME employment rates also increased over the last decade, particularly for women (and especially for Bangladeshi and Pakistani women) leading to a narrowing of the employment gap."
+        },
+        {
+            "heading": 2,
+            "text": "The study finds no evidence to suggest the introduction of the NLW reduced employment retention for workers with disabilities or workers in ethnic groups with the lowest pay "
+        },
+        {
+            "text": "The study used econometric techniques to estimate the impact of the NLW on employment retention looking at variations by disability, ethnicity and gender. , the study found statistically significant positive effects on employment retention for workers with disabilities but these became insignificant when controlling for age and gender. The authors also found no significant negative effects in alternative specifications."
+        },
+        {
+            "text": "There were no negative effects associated with BAME workers in aggregate. This was also the case for Bangladeshi and Pakistani workers, who might have been expected to be the most affected by the large increases in the NLW as they have the highest coverage. However, there was a significant negative employment effect found for Indian employees, particularly men."
+        },
+        {
+            "text": "The research found that wage progression overall appeared to have been affected by the introduction of the NLW in 2016. That is, from one year to the next, there were significant falls in upward mobility (leaving a minimum wage job for a high-paid job) and an increase in the likelihood of remaining in a minimum wage job. This effect was stronger for men but did not appear to hold for BAME employees or those with disabilities."
+        },
+        {
+            "text": "In the main specification, the research found no statistically significant change in annual transitions out of minimum wage jobs (including following the introduction of the NLW) for BAME employees or those with disabilities. However, in an alternative specification there was some evidence of an increase in the likelihood of remaining in a minimum wage job for both groups."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusions and future related research"
+        },
+        {
+            "text": "The research concludes that increases in the minimum wage in the decade before the pandemic had largely been beneficial to those with disabilities and for ethnic minorities. Increases in the minimum wage have led to higher rates of pay but don\u2019t appear to have harmed job prospects. It reiterates the importance at looking beyond broad categories of disability and ethnicity. However, it also highlights the data limitations of attempting to do so."
+        },
+        {
+            "text": "One potential way of addressing that concern is to link the ASHE data to the 2011 Census, which has been done by the Wages and Employment Dynamics (WED) research project. This potentially enables us to identify personal characteristics of workers in the ASHE sample. We are currently exploring these data, working with the WED team, and hope to provide additional information on the impact of the minimum wage on different groups of workers in time for our 2023 Report."
+        }
+    ]
+}

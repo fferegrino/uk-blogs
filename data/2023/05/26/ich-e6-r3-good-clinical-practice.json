@@ -1,0 +1,348 @@
+{
+    "url": "https://mhrainspectorate.blog.gov.uk/2023/05/26/ich-e6-r3-good-clinical-practice/",
+    "title": "ICH E6 (R3) Good Clinical Practice",
+    "authors": [
+        "Andrew Fisher"
+    ],
+    "categories": [
+        "Good clinical practice",
+        "Inside the Inspectorate",
+        "Wider MHRA"
+    ],
+    "pub_date": "2023-05-26T11:03:11+01:00",
+    "content": [
+        {
+            "text": "As a Lead Senior GCP Inspector at the UK Medicines and Healthcare products Regulatory Agency (MHRA), I thought it would be useful to write about the changes to the International Council for Harmonisation (ICH) E6 Good Clinical Practice (GCP) Guideline now that the updated version R3 has reached Step 2b and is available for public consultation. I apologise that this is quite a long blog, but it\u2019s a major event in the GCP world!"
+        },
+        {
+            "text": "The ICH Expert Working Group for ICH E6(R3) (EWG) has been updating the ICH E6(R2) GCP guideline (current version). The MHRA represents the Pharmaceutical Inspection Co-operation Scheme (PIC/s) in the EWG and MHRA GCP Inspectors have been attending the EWG meetings. This was initially Gail Francis, Expert GCP Inspector, supported by myself, and after Gail left the MHRA in February 2022, I became the primary representative supported by Jason Wakelin-Smith, Expert GCP Inspector. The EWG has sought input from stakeholders during its work and has met many times since its inception. It has been valuable to have participated in extensive discussions with colleagues from around the world, writing the text and listening to the views of expert stakeholders as we went along. I believe that the ICH EWG worked well together, had good leadership and the extensive and much needed administrative support provided to the group by an FDA colleague was fantastic."
+        },
+        {
+            "text": "The update is to address the application of GCP to new trial designs, technological innovations and to strengthen a proportionate risk-based approach of its application for clinical trials of medicines to support regulatory and healthcare decision making. This was set out in the ICH Reflection paper on Renovation of Good Clinical Practice and the ICH E6(R3) Concept Paper and a Business Plan was developed. ICH E6(R3) has been restructured and is composed of an overarching principles section, Annex 1 (interventional clinical trials), Annex 2 (additional considerations for non-traditional interventional clinical trials), Glossary and Appendices. The overarching principles, Annex 1, Glossary and Appendices will replace the current E6(R2). The development of Annex 2 will commence once the principles, Annex 1, Glossary and Appendices complete ICH step 1 with the Annex 2 concept paper being recently published. The draft principles of GCP have been released for transparency and common understanding in April 2021 followed by a global web conference to present progress."
+        },
+        {
+            "text": "ICH E6(R3) GCP Principles, Annex 1, Glossary and 3 Appendices concerning the Investigator\u2019s Brochure, The Clinical Trial Protocol and Essential Records have now reached Step 2b and are available for public consultation."
+        },
+        {
+            "text": "MHRA became a full regulatory member of ICH in May 2022, and whilst feedback on the ICH E6(R3) can be provided via the ICH website, MHRA is consulting directly with UK stakeholders to compile and co-ordinate their comments to the EWG. I encourage you to provide your comments, in the consultation, whilst we expect comments to be provided via an uploaded Excel\u00ae spreadsheet, we have also asked a few questions to obtain UK stakeholder views on whether the revision has realised the objectives set out in the various documents above."
+        },
+        {
+            "text": "I have reviewed ICH E6(R2) and ICH E6(R3) and examined what changes have been by EWG which was a quite a time-consuming task! The following information is a personal summary of the changes that I have identified and I am not representing the EWG. A presentation is available from the EWG that provides their high-level summary of key changes made to the ICH GCP guideline. This blog is not intended to include every detailed change made or cover all text retained but should give you a flavour of the amendments made by the EWG. I anticipate that there could be publications that set out to discuss the changes in full detail during the consultation period, but this blog should start your understanding of what\u2019s changed. I hope this may be helpful for those who are reviewing the ICH E6(R3) document as part of the MHRA consultation and for those who will be invited to and attending the meeting of the MHRA GCP Stakeholder Engagement Meeting (StEM), a longstanding group, which will take place on 18th July 2023 at the MHRA office in Canary Wharf, London."
+        },
+        {
+            "text": "I will take each section of the guideline in turn as follows. Once you\u2019ve read this, I\u2019ll leave you to review the revised ICH GCP guideline yourself and you can let the MHRA and EWG know want you think by participating in our consultation."
+        },
+        {
+            "text": "I Introduction "
+        },
+        {
+            "text": "The introduction has had some amendments made. The first is the use of \u201cconduct\u201d to cover an expanded range of activities for the GCP guidance to cover. There are administration changes relating to ICH membership and some text outlining the new structure of the guideline. A key change is reference to the ICH E8 (R1) general considerations for clinical studies to emphasise designing quality into a clinical trial, identifying factors that are critical to trial quality, engaging stakeholders and using a proportionate risk-based approach. A key objective to the revision was to further embed the proportionate risk-based approach into the guideline."
+        },
+        {
+            "text": "The applicability of the guideline remains focussed on those clinical trials intended to support applications to regulatory authorities, but the applicability to other trials not intended for submission to regulatory authorities has been clarified to reduce it to those trials of investigational medicinal products and according to local requirements. I believe the aim of this is to discourage the application of the guideline to other trials that do not involve medicinal products. For the UK, the MHRA would expect clinical trials of investigational medicinal products (IMP) with a MHRA Clinical Trial Authorisation that are intended for marketing authorisation submissions to comply with the entire guideline and ALL trials involving an IMP, irrespective of marketing authorisation status of the IMP, to comply with the principles in section II as a minimum legal requirement."
+        },
+        {
+            "text": "Text from the addendum to the introduction has been removed."
+        },
+        {
+            "text": "II Principles of ICH GCP (previously ICH E6(R2) section 2)"
+        },
+        {
+            "text": "The introduction to the principles emphasises the importance of clinical trials for new and existing medicines for answering questions in healthcare and drug development and that trials that have inadequate design or poorly conducted may provide unreliable evidence, waste resources and are unethical."
+        },
+        {
+            "text": "It sets out that the aim of the principles of GCP are designed to provide a flexible framework for trial conduct, and alongside ICH E8, it espouses that a thoughtful evaluation of an individual clinical trial\u2019s characteristics is required to ensure its quality. The introduction states that the principles are intended to be adaptable to innovative trial designs, technological developments, and a variety of data sources and these may assist in diversifying trial populations by wider participation. The input of patient and health care providers into trial design to facilitate trial feasibility and meaningful outcomes is encouraged, and that trials should avoid unnecessary complexity."
+        },
+        {
+            "text": "Focus is on protection of the rights, safety and well-being of trial participants and the reliability of the trial results by paying attention to risk mitigation and processes relating to those factors that impact on this and to do so is implementing a proportionate, quality by design and risk-based approach. This is a key message of the guidance, which builds on the addendum, and the aim is to consider the guidance for a particular trial and implement it proportionately."
+        },
+        {
+            "text": "So on to the numbered principles themselves. These are important to those sponsoring and conducting trials in the UK because they will be included in the updated UK legislation, so if there is one part of the guidance that I suggest that you review, this would be it."
+        },
+        {
+            "text": "The UK Medicines for Human Use (Clinical Trials) Regulations 2004 (as amended) are being updated following United Kingdom\u2019s departure from the European Union (EU) and the changes to the legislation have recently been subject to public consultation. The Government response to the consultation confirms that the numbered principles of GCP, as set out in ICH E6(R3) section II will replace the current GCP principles in the UK legislation that are based on outdated EU legislation (2001/20/EC \u201cClinical Trial Directive\u201d [principles 10 to 14 in UK SI 2004/1031 Schedule 1 part 2] and 2005/28/EC \u201cGCP Directive\u201d [principles 1 to 9 in UK SI 2004/1031 schedule 1 part 2]). It is important to note that in the original UK SI 2004/1031 Schedule 1 part 2, the first 13 principles were based on ICH E6(R1) Note for Guideline on GCP adopted as CPMP/ICH/135/95 by the European Medicines Agency in July 2002 and the last 3 principles were based upon Clinical Trial Directive 2001/20/EC Article 3."
+        },
+        {
+            "text": "I think it is important that you see the relationships between the GCP principles in the original and current UK Legislation, the current ICH E6(R2) principles and the updated and expanded principles in ICH E6(R3) and the following table is presented to help you with this."
+        },
+        {
+            "text": "The principles are updated in ICH GCP(R3) to encourage a thoughtful approach to the planning and conduct of a trial and address its unique aspects in relation to evaluating its design characteristics, the nature of the investigational product, the indication, the potential trial population, its setting, and the data being collected in determining how the principles are required to be applied flexibly. The principles also emphasise the importance of innovative trial designs and technologies and that this could lead to more diverse populations. There is encouragement of input from potential participants, for example to assist with feasible data collection with no undue burden on participants. The principles propose evaluating risks to identified quality factors that could impact on patient safety, rights and well-being and the reliability of the trial results and implement mitigation strategies to support the conduct of the trial efficiently, proportionately and avoiding unnecessary complexities."
+        },
+        {
+            "text": "The GCP principles in ICH E6(R3) have been significantly expanded but incorporate most of the current principles with little or no change. Four of the current principles (2.1, 2.2, 2.3 and 2.7) are encompassed in new principle 1. This principle also includes a new expectation for periodic review of safety information, to aim to include trial participants that are likely to use the medicinal product in future clinical practice to allow generalisation and that the delivery of medical care and medical decisions concerning participants can be undertaken by other qualified health professionals than physicians and dentists. I anticipate the latter point will be a welcome change so that trials can reflect normal clinical practice. ICH E6(R2) principle 2.9 relating to informed consent had been usefully expanded to include the legally acceptable representative, that the process reflects the situation of the trial (for example emergency research) and ensuring patients can make an informed decision by the provision of the information in a way that is concise, understandable, and using new technology when appropriate. This would facilitate innovative trial design including those trials that wish to use remote consent."
+        },
+        {
+            "text": "Periodic or new information review during the trial conduct is advocated in the ICH E6(R3) principles in relation to patient safety (1.2), by the IEC (3.2), to determine whether the trial needs modification (4.3) and for risk assessment of quality factors (7.3). The current principle 2.8 has been expanded to include the types of expertise that is required for designing and conducting a trial. It is noted that the guidance later encourages a proportionate approach to training, with that required related to whether the activities are within the individual\u2019s normal clinical practice or a new trial-specific activity."
+        },
+        {
+            "text": "It should be emphasised that current principle 2.13 has not been directly included in ICH E6(R3) and I suspect that this will be welcomed as this was often subject to over interpretation and lack of proportionally. As a result, a whole new set of principles are set out in section 6, 7 and 9. These concern the identification of critical to qualify factors and conducting a trial of sufficient quality to enable good decision making. There is emphasis on those areas that are beyond standard medical care. There is focus that processes, data capture and management are directly related to the trial objectives, operationally feasible, avoid unnecessary complexity and are proportionate to protection of participants\u2019 safety, rights and well-being and the reliability of the trial results. I suggest that this really builds into the principles a proportionate approach and allows the streamlining of trials to fit in with existing clinical practice."
+        },
+        {
+            "text": "The current principle 2.10 has been revised in ICH E6(R3) 9.5 and 9.6 to include efficient and well controlled processes for management of records for ensure data integrity and traceability and that records should be retained and available to regulatory authorities. There is a new principle in ICH E6(R3) to encourage transparency by public registration of trials and publishing of trial results (9.7) which I think should be welcomed. A further new principle in section 10 of ICH E6(R3) deals with ensuring sponsors and investigators retain responsibility for activities when delegated, that such delegation should be clearly documented, and the activity overseen by the sponsor or investigator. Finally, the current principle 2.12 relating to manufacture of investigational product to GMP has been expanded to include, ensuring its quality during the trial, used in accordance with the protocol and considers randomisation and blinding and labelling in ICH E6(R3) section 11."
+        },
+        {
+            "text": "It should be noted that several principles (7, 8, 12 and 14) in the current UK Statutory Instrument are not included in ICH E6(R2) or ICH E6(R3). Of these, principles 8 and 14 will be retained in the updated UK legislation."
+        },
+        {
+            "text": "Overall, I suggest that the new principles are a significant improvement, being more comprehensive, but at the same time encouraging a proportional approach to how they are implemented and facilitating innovative and efficient trials. It will be interesting to hear your views on them."
+        },
+        {
+            "text": "III Annex 1"
+        },
+        {
+            "text": "1 IRB/IEC (previously ICH E6(R2) section 3)"
+        },
+        {
+            "text": "There have been a small number of changes to the IRB/IEC section, although some are quite significant."
+        },
+        {
+            "text": "There has been a restructure to the information to be reviewed to form a bulleted list and to expand this to cover situations using innovative methods, such as electronic informed consent, by adding a description of the consent process to be included and addressing the media of how such information is to be provided. There has also been an expansion of the investigational product information from just the Investigator\u2019s Brochure. Text concerning non-therapeutic trials has been removed."
+        },
+        {
+            "text": "The guidance has new text to address trials where prior consent is not possible, for example for emergency research and to include the IRB/IEC review of assent materials for trial participants who are minors. There has been a change to state that reasonable travel and lodging expenses being reimbursed to trial participants is not considered coercive. The text has been amended such that there should be a member of the reviewing IRB/IEC who is not involved in \u201cmedical sciences\u201d, rather than the existing broader \u201cscientific area\u201d, which I hope you would agree makes sense as the exclusion of all scientists appears unnecessarily restrictive."
+        },
+        {
+            "text": "There have been some adjustments to requirements to state to be in line with \u201capplicable regulatory requirements\u201d for example, in relation to SUSAR reporting and removal of the 3-year record retention requirement. The language has been simplified relating to deviating from the protocol without approval and text introduced that addresses sponsors communicating with the IRB/IEC, which is possible in some ICH regions, for example in the UK the sponsor makes a single application jointly to the MHRA and the Research Ethics Committee (REC)."
+        },
+        {
+            "text": "2 Investigator (previously ICH E6(R2) section 4)"
+        },
+        {
+            "text": "There have been extensive changes to the investigator section, with significant deletions, additions and restructuring, so I\u2019ve got quite a bit to cover in this section."
+        },
+        {
+            "text": "There has been removal of text relating to provision of CVs to sponsors. New text has been included relating to the role of the sponsor for service providers of investigator activities and ensuring agreements are in place, and that the investigator retains the decision to allow for their use and the overall responsibility for the work conducted on their behalf. There is some new text that introduces proportionate approaches in relation to training of staff for delegated trial activities that go beyond their usual training and experience and that recording the delegation of individuals whose trial activities are performed in accordance with routine clinical care may not be necessary. I think this could encourage investigators and sponsors that trial specific training and delegation log completion can be risked-based and reduce the burden of documentation."
+        },
+        {
+            "text": "The restriction of qualified physicians and dentists to be solely responsible for trial related medical care and decisions has been eased to allow other qualified healthcare professionals in line with the normal clinical activities and local regulatory requirements to be involved and I anticipate that this will be welcomed. There has been a strengthening of text relating to informing the participant\u2019s GP of their trial participation, when the participant consents to this, it is no longer just a recommendation to occur."
+        },
+        {
+            "text": "SAE reporting text has been simplified, for example, removing the text on code numbers and to essentially report SAEs to the sponsor immediately or to follow any differences to this requirement that are specified in the protocol. This therefore supports the protocol having a proportionate approach to SAE reporting. The text on reporting SUSARs to the regulatory authority and IRB/IEC has been removed, I suggest this was removed as this is a sponsor responsibility."
+        },
+        {
+            "text": "Communication with the IRB/IEC has had some new text added relating to the provision of updated participation information to the IRB/IEC. It also confirms that the sponsor may also make submissions to the IRB/IEC. Frequency of progress report submission has been amended to refer to local regulatory requirements."
+        },
+        {
+            "text": "Text has been simplified and clarified relating to deviations from the protocol by focussing on prevention of immediate hazards to participants. New text has been added that I think is acknowledging that some deviations are not documented by the investigator but instead provided by the sponsor to the investigator for review. Text has also been added that restricts the requirement to now explain only \u201cimportant\u201d deviations (as per ICH E3) rather than all of them, which I think would reduce expectations placed on investigators for excessive documentation. There is a new expectation for appropriate measures to be implemented to prevent recurrence of deviations, when applicable."
+        },
+        {
+            "text": "For the investigator section relating to informed consent of trial participants, there have been numerous changes made. The first is inclusion of additional text to emphasise the importance of the information being sufficiently clear to facilitate the participants\u2019 understanding and that various approaches, including new technology could be used, including remote aspects and electronic signatures. There is new text that addresses considerations of providing new information to participants and whether re-consent would always be necessary, as this could be dependent upon the stage of the trial. I suspect that this should help investigators because it would mean that re-consenting would not be automatically undertaken, as is often seen at present, which I suggest would reduce burden on investigators. New additions address that time for consideration of participation may be reduced where justified (e.g., emergency situations). Additional text means that investigators are asked to ensure that participants are informed how their data will be handled, including if they withdraw from the trial prematurely and that the participants should have access to the trial results and the treatment they have received if they wish to do so. I think this latter point is a welcome addition that trial participants can find out the results of the research they have been involved in. Text relating to non-therapeutic trials has been removed."
+        },
+        {
+            "text": "New text has been added to address the assent of minors and ensuring consent information provided is compatible with their understanding, and for adults with impaired decision making. For minors, requirements have been added that re-consent may be needed as the participant gets older. Finally, a statement that in exceptional circumstances, for example public health emergencies, other methods of consent may be appropriate in accordance with local regulatory and IRB/IEC requirements has been added."
+        },
+        {
+            "text": "Text concerning trial participant withdrawal has been expanded. I believe the aim is to reduce dropouts from clinical trials as this can severely impact on the trial quality and reliability of the results. New text added covers discussing reasons for withdrawal with the participant and determining if there would be some way that would address a participant concern. The guidance now considers different types of withdrawal, and that there should be follow up measures to avoid data loss. Finally, there is new text on informing participants of the trials results and details of the treatment that they received when they participated in the trial."
+        },
+        {
+            "text": "There have been updates made to ensure that decentralised trials can be accommodated, so there are some minor amendments relating to accountability and some new text added that the sponsor may facilitate this. There is also text added that alternative approaches to accountability may be used for authorised medicinal products, which, for example, could allow the use of existing processes for documentation if this is considered sufficient for the trial and reliability of the results, which facilitates the embedding trials in current clinical practice."
+        },
+        {
+            "text": "There has been an update to include a requirement that unblinding processes for use in an emergency by the investigator are in place at the start of the trial and not subject to any delays or hindrance, which I consider relates to ensuring the investigator does not have to wait for authorisation, for example, from the sponsor."
+        },
+        {
+            "text": "There are substantial changes relating the records/data/computerised systems, with new text that:"
+        },
+        {
+            "text": "It should be noted text relating to audit trail, data corrections and sponsor making changes to investigator data and requirement for guidance to investigators for data changes and investigator authorisation has been removed because it is now covered elsewhere in the guidance."
+        },
+        {
+            "text": "There are broader expectations set out for computerised systems and this references the new Data Governance section. I think it is important to note that the updates distinguish between computerised systems that are deployed by the investigator/institution and used in normal clinical practice (this could be for example, the electronic health record) and those deployed and used specifically for clinical trials (this could be for example an electronic investigator site file) as these would have different expectations in relation to validation responsibilities."
+        },
+        {
+            "text": "For essential records there has been some movement of texts within the guidance, e.g., investigator control of records has been moved here from section 8.1 addendum. There is new text requiring the sponsor to be notified if the investigator is no longer at the institution or the institution has a new individual responsible for the investigator records. Retention times of the essential records has been considerably simplified to remove the text relating to marketing authorisations and discontinuations of the development of the investigational product and instead, it states the applicable regulatory requirements or as per the instruction from the sponsor that they are no longer needed."
+        },
+        {
+            "text": "Finally, text has been expanded to include consideration for the co-ordinating investigator to sign the clinical trial report."
+        },
+        {
+            "text": "3 Sponsor (previously ICH E6(R2) section 5)"
+        },
+        {
+            "text": "The sponsor section has had substantial changes and reorganisation, so this section is not going to be a quick read."
+        },
+        {
+            "text": "In the Trial Design section, reference to other sections and ICH guidance has been removed and most of the content is relocated existing text (e.g., text relating to information about the investigational product(s) in relation to safety and efficacy data is available when planning trials with additional text relating to real-world data), but there is new text on considering input from stakeholders including patients has been added."
+        },
+        {
+            "text": "In the sections Resources, Allocation of Activities, the significant change is recognition that activities (i.e., duties and functions of the sponsor) can be delegated, but not responsibility and this has led to amendment of the title. There has been new text inserted that the sponsor ensures sufficient resources to conduct the trial."
+        },
+        {
+            "text": "A new section on Qualification and Training, contains a statement for the sponsor to utilise appropriately qualified individuals, as slighter shorter text than exists currently in the Trial Management, Data Handling and Record Keeping section and the requirement for someone with medical expertise has been retained, but the outside consultants part has been deleted. The text on financing is unchanged."
+        },
+        {
+            "text": "A new section on Agreements brings together aspects of relationships between parties involved in clinical trial and delegating of activities. The section on Contract Research Organisations (CRO) has been removed, instead, the requirements are now contained in this section. It is important to note that the language now uses the term \u201cService Provider\u201d, of which CRO is an example. I think this is appropriate as this reflects the increased use of small organisations providing specific services/trial activities to sponsors, for example, those relating to electronic systems. The sponsor\u2019s responsibility for delegated activities has been expanded to include protection of the rights, well-being and safety of trial participants and there is a requirement on service providers to report to the sponsor any incident that could impact this and the reliability of the trial results."
+        },
+        {
+            "text": "There is new text relating to the requirement for sponsors to assess service providers including obtaining relevant information for this and for their ongoing oversight. The sponsor is also required to provide the protocol and other documents to the service provider that are required for them to undertake the delegated activities. There is new text that the sponsor should provide to the investigator, the information concerning service providers that the sponsor has identified, where the service provider is undertaking investigator activities. This I suggest is to ensure that the investigator is appropriately informed and content about the service provider to which their activities are being delegated."
+        },
+        {
+            "text": "New text states that service providers are required to comply with the applicable aspects of GCP to the activities they are undertaking but acknowledging that these could be met by the service provider\u2019s existing quality system processes. I suggest that this could be for example for computer systems validation, even if procedures had not developed specifically for GCP compliance, but there could still be GCP gaps, for example, if the service provider makes changes to clinical data or retains essential records. This text replaces the current text that stated that reference to sponsor includes CROs and their trial related duties."
+        },
+        {
+            "text": "There is text now that states agreements should be documented, rather than in writing as in the current guideline, a new requirement that added that this should be before initiating the activities and that agreements should be updated to reflect any significant change in delegated activities. Current text moved here is that responsibilities of co-ordinating investigators and other investigators needs to be documented prior to starting the trial. It should be noted that the signing of the protocol or alternative document to confirm agreement has been removed."
+        },
+        {
+            "text": "Finally in this section, there is new text that sets out the requirements for documenting responsibilities if more than one sponsor is involved in the trial. This should be welcomed as it routinely occurs in practice in the UK."
+        },
+        {
+            "text": "No significant changes have been made to existing text in Investigator Selection, but it does include text relocated from the deleted multicentre trials section."
+        },
+        {
+            "text": "Two current sections have been combined in a new section Communication with IRB/IEC and Regulatory Authority(ies). The term \u201cin accordance with regulatory requirements\u201d has been used and \u201cbefore initiating the trial\u201d has been removed. Text has been amended to reflect that the sponsor may submit the trial for IRB/IEC approval as the current text is based around the investigator doing this. Overall, the text has been made more succinct whilst keeping essentially the same requirements for the sponsor obtaining approvals and there has been removal of reference to some specific documents (e.g., protocol, informed consent documents and other information provided to the participants etc.)"
+        },
+        {
+            "text": "There is a new section on Sponsor Oversight and most of the content is new. Whilst this retains text relating to independent data monitoring committees moved from the old Trial Management, Data Handling and Record Keeping section, with additional text concerning expertise and conflict of interests, there is new text concerning committees that are involved with the adjudication of endpoints. \u00a0New text requires sponsors to ensure the trial design, conduct and processes ensure reliable trial results and protection of participants safety. That the trial processes follow the trial protocol, ethical standards, and applicable regulatory requirements. That the sponsor should ensure criteria are in place for defining deviations as \u201cimportant\u201d and all decisions are appropriately assessed for impact on participants rights, safety and well-being and the reliability of the trial results."
+        },
+        {
+            "text": "There is a requirement that the oversight measures are fit for purpose and related to risks associated with trial with the focus on selection and oversight of investigators and service providers and appropriated quality assurance and quality control processes for their activities. It also requires the sponsor to ensure appropriate escalation and follow up of issues identified in a timely manner. I think this is a useful additional text that reminds sponsors that whilst activities can be delegated, responsibility cannot, therefore they need to oversee the conduct of the trial."
+        },
+        {
+            "text": "In the Quality Management section, the current addendum text has been essentially retained, but has had some restructuring, so that it appears as an introductory line to the whole sponsor section encouraging risk-proportionate approaches, is part of the Trial Design section and finally in the introductory text to the Quality Management section. There has been an alignment with the updated ICH E8. The aim remains for sponsors to focus quality management on those processes and data that impact on the trial participants\u2019 rights, safety and well-being and the reliability of the trial results and is therefore proportionate and risk based."
+        },
+        {
+            "text": "Risk identification has been updated to reflect the use of critical to quality factors and removed the system and trial level segregation, however, risk evaluation remains the same. Risk control has been revised, the main change being the removal of the phrase \u201cquality tolerance limits\u201d, instead just referring to acceptable ranges. Risk communication has had the sentence relating to document quality management activities removed, Risk Review remains the same and \u201cquality tolerance limits\u201d has been removed from Risk Reporting."
+        },
+        {
+            "text": "It is now relatively common to see sponsors conducting and documenting risk assessment of a trial, so it is welcome that the guideline expands and continues to encourage risk-based approaches. The assessment is a key feature of adopting a proportionate approach to management of the trial, the processes applied, and how compliance with GCP will be achieved. Often seen, however, is a lack of comprehensive documented risk review, for example, failing to reassess when there is change, for example, a protocol amendment, and make any necessary changes the trial\u2019s quality management processes."
+        },
+        {
+            "text": "For Quality Assurance and Quality Control section, there has been what I consider to be an appropriate reorganisation of this section to bring in other relevant sections under this heading, i.e., Audit and Monitoring. Current text that relates to agreements has been moved to a new section Agreements and the section discussing stages of data handling to the Data and Records section."
+        },
+        {
+            "text": "Most of the text is unchanged in the Audit section, but some new significant text to state that the audits should be proportionate to the risks associated with the trial and that the audit should also assess that processes in place to manage and conduct the trial are effective as well as compliant. The auditor no longer needs to be independent of the systems, just the clinical trial and the text requirement for the auditor\u2019s qualifications to be documented has been removed."
+        },
+        {
+            "text": "The Monitoring section has undergone extensive revision and reorganisation. The changes build on those added by the Addendum and EWG has taken the opportunity to fully integrate the Addendum as part of a restructure of the entire section and to modernise it further. The current sections on Purpose and the Extent and Nature of Monitoring have been replaced with an introduction, a new section added on Investigator Site Monitoring, including that this could be remote, a new section added on Centralised Monitoring, and the Monitoring Plan section brought forward from its current position. The current section on monitor selection and qualifications has been deleted."
+        },
+        {
+            "text": "The revised text removes the text that central monitoring could be used in exceptional circumstances and instead describes it as an important component of monitoring activities that are part of a risk-based approach. The Purpose of monitoring has been replaced with aims in the introduction and the accuracy of data is replaced with reliability of trial results with the text on compliance now covered in the introduction to the section. There is no longer a statement in the guideline that, \u201cin general there is a need for site monitoring\u201d, which is a significant change. The introduction emphasises that monitoring activities cannot be performed by those involved in the clinical conduct of the trial. The description of site monitoring includes amendment of activities and frequency dependent on knowledge gains, allows remote activities including, significantly, remote access to the source records and other electronic systems. I suggest that these have been introduced because of the experience with monitoring trials during the pandemic. Introductory text emphasises the need for sponsor staff to adhere to data protection and confidentiality requirements, including those of the institutions that are conducting the trial. The description of centralised monitoring acknowledges the role of sponsor staff other than the monitor and its role in supporting site monitoring activities and includes aspects of the current addendum text, however, some of these have been relocated to the new section on Monitoring Clinical Trial Data."
+        },
+        {
+            "text": "The monitoring plan has been updated to add that monitoring should be tailored to the identified risks to the reliability of the results, that it should ensure oversight whilst considering site capabilities and potential burden and that is should also address key data and processes performed outside of the investigator site. This latter part is also identified in earlier in the quality control section with new text referring to centralised or on-site quality control of such sites."
+        },
+        {
+            "text": "The current section on Monitor\u2019s Responsibilities has been removed and instead it is now Monitoring Activities, as these are not restricted to role of the monitor, for example, staff involved in central monitoring activities would be involved. I think this is sensible change to reflect modern monitoring practices. New sections of activities are added, these are Communication with Parties Conducting the Trial, Investigator Site Selection, Initiation, Management & Close Out, Monitoring of Investigational Product Management and Monitoring of Clinical Trial Data. Current sections on Monitoring Procedures and Monitoring Reports have been retained but have been modified. Monitoring Procedures has been updated to be more general, no longer referring just to monitors and specifically mentioning the monitoring plan and replacing SOPs with applicable monitoring procedures. Inclusion of following the monitoring plan is a useful addition because I have seen trials where a suitable risk-based monitoring plan is developed, but then not fully implemented. The section on Monitoring Report has changed significantly to become more generalised to cover both on-site and centralised monitoring. It has been simplified, for example referring to sponsor procedures rather than the detail on content and documentation of review but does generally include the current requirements."
+        },
+        {
+            "text": "Review of the Monitoring Activities section reveals that many of the current requirements have been retained. Additions made include a requirement to focus remediation efforts on important deviations and actions taken in relation to deviations, errors and omissions should be proportionate to their importance. New requirements for the monitoring to clarify the protocol source records and location of these, verifying that blinding is maintained and review and reporting of participant retention rates have been added. Some additional text has been added concerning the monitoring of investigational products. These are confirming products are used within shelf life, used in accordance with randomisation, that instructions on the investigational products are also communicated to the investigator and their staff and other relevant individuals and parties. New text states that some of these considerations may not be applicable to products that are available on the market. This, I suggest, is related to the fact that clinical trials may use authorised products in existing systems for routine clinical practice, therefore expectations and subsequent monitoring requirements would need to be adapted."
+        },
+        {
+            "text": "For the Monitoring of Clinical Trial Data section there is new text relating to selection of data for verification based on samples supported by data analytics, which relates to the current text related to statistical controlled sampling which has been deleted and that sample size of this may need to be adjusted based on an observed insufficient data quality. There is also new text that the verification of data should be of those identified as critical in the monitoring plan. I would suggest that this is a clear encouragement of proportional data checking. There is current text that has not been included, such as, checks for unauthorised delegation of activities, verifying dose modifications are documented, that concomitant medications and intercurrent illnesses are documented in the Case Report Form (CRF), that missed visits, missed tests, withdrawals and dropouts are reported in the CRF; however, I would suggest that these would be covered under the more general aspects of monitoring clinical trial data."
+        },
+        {
+            "text": "There have been some minor modifications in the Non Compliance section; that actions should be appropriate and proportionate by the sponsor to secure compliance, that issues that could significantly impact participant\u2019s rights, safety and well-being or the reliability of trial results require reporting to the Regulatory Authority(ies) and IRB/IEC as appropriate and additional text that non-compliance that persists despite efforts at remediation would cause the sponsor to terminate the investigator/institution\u2019s participation in the trial."
+        },
+        {
+            "text": "Current sections on Safety Information and Adverse Drug Reaction Reporting have seen significant additions that are required to be noted and are contained in this new section of Safety Assessment and Reporting."
+        },
+        {
+            "text": "New text has been added to state that the Investigator\u2019s Brochure or basic product information forms the basis of the safety assessment, i.e., for assessing expectedness, and that this would contain the Reference Safety Information and refers to ICH E2F. New text emphasises that the sponsor should periodically review the emerging safety information and update the Investigator\u2019s Brochure and any other documents as necessary. The focus of expedited reporting of SUSAR cases is now for the awareness of the Regulatory Authority(ies), and that reporting of such cases to IRB/IEC and investigators may be subject to different expectations; for example, based on urgency and the use of aggregate information rather than individual case reports. Additional text states that alternative arrangements for safety reporting could be implemented and agreed prospectively by Regulatory Authorities when described in the trial protocol and refers to ICH E19. I suggest that this clearly encourages a risk-based approach to safety reporting when this is considered appropriate by the sponsor and the Regulatory Authority(ies)."
+        },
+        {
+            "text": "New text addresses the need for reporting of urgent safety issues without delay in accordance with regulatory requirements and there are new expectations concerning the actions to take to manage immediate hazards to trial participants, in terms of remedial actions and necessary protocol amendments."
+        },
+        {
+            "text": "There appears to be no significant changes in the Insurance/Indemnification/Compensation to Participants and Investigators."
+        },
+        {
+            "text": "For the section Information on Investigational Product(s), additional text has been added that basic product information can be identified for authorised medicinal products and the text has been changed that the sponsor should ensure that an Investigator\u2019s Brochure is developed and updated. This slight change would cover situations where the sponsor may not be the manufacturer of the investigational drug and therefore not producing the Investigator\u2019s Brochure themselves."
+        },
+        {
+            "text": "Current text under Manufacturing, Packaging, Labelling and Coding of investigational products has had no significant changes apart from that about blinding the investigational product. There have been some further additions that strengthens the control of blinding and prevention of additional unnecessary unblinding of other participants if the blind is broken for emergency or regulatory reporting purposes."
+        },
+        {
+            "text": "For Supplying and Handling Investigational Products, current text has been retained with the addition of supply directly to trial participants and that instructions should be available for trial participants (which would potentially occur in decentralised trials). There has been removal of the text relating to obtaining required documentation in relation to approvals. Further changes made include new text in timely delivery for supply to trial participants and to ensure no interruptions and continuation of treatment, new text relating to alternative disposition of investigational products and for authorised medicinal products, new text has been added that samples of these do not need to be retained. These changes have clearly been made in relation to trials involving authorised medicinal products, for which I suggest would mean that unmodified authorised medicinal products could be released for normal clinical practice after the trial as part of alternative disposition and acknowledging there is no need for retention of samples of such an investigational product."
+        },
+        {
+            "text": "The section on Data Handling and has had a change of focus to reliability of results, rather than the data and additional text that the sponsor should focus their activities on critical data and relevant metadata. The current requirements on data handling and computerised systems have been significantly expanded and incorporated into this section and/or the new Data Governance section. This is a major update with no loss of current requirements. For example, retained requirements include the principle of risk-based validation, that SOPs are in place, audit trail, security, list of individuals authorised to make data changes, back up, safeguarding blinding, data integrity, traceability of data transformation and the use of unambiguous identification code. This section also contains current text concerning investigator access to data and the sponsor not having exclusive control of data."
+        },
+        {
+            "text": "It is worth paying particular attention to the significant additions made in this area. These would have been necessary to update the guidance to cover the use of new technologies and to addressing identified gaps the current guidance. These are:"
+        },
+        {
+            "text": "Like the Investigator section, retention times of the essential records has been considerably simplified to remove the text relating to marketing authorisations and discontinuations of the development of the investigational product and instead, it states simply the applicable regulatory requirements. I suggest that it will be important that there is clarity in ICH regions what the local regulatory requirements for retention times are. There has been an update to include informing service providers where appropriate that trial records are no longer needed, acknowledging that these may hold essential records on behalf of the sponsor."
+        },
+        {
+            "text": "There are no significant changes in the Record Access section."
+        },
+        {
+            "text": "Text on premature termination or suspension of a trial appears unchanged in the Reports section. There are new requirements added for clinical trial/study reports, with text added that they should be prepared following an interim analysis, that investigators should be provided with a summary of results and consideration should be given to providing details of the treatment taken by trial participants and that it may be provided to participants along with details of overall outcome of the trial, in a way that is in suitable for a lay person and non-promotional."
+        },
+        {
+            "text": "4 Data Governance (new section)"
+        },
+        {
+            "text": "This is an entirely new section that is relevant to the sponsor and the investigator and therefore avoids duplication of expectations in the sponsor and investigator responsibilities section. With extensive use of computerised systems in clinical trials, that the current addendum partly addressed, this new section provides a higher level guidance that reflects the more detailed guidance that has been published in this area by Regulatory Authorities such as EMA, FDA and the MHRA\u2019s Data Integrity Guidance."
+        },
+        {
+            "text": "The start of the section again focuses on the quality of the information in the trial being sufficient to provide reliable results and that all processes and systems for the critical data in data life cycle should implemented proportionately to risks to this and to the safety of participants."
+        },
+        {
+            "text": "There is a much-expanded section on the maintenance of the blinding of treatment allocation and assessment of inadvertent unblinding, which could affect the reliability of the trial results, that it should be part of risk assessment and ensuring processes in place to protect the blinding. This, I suggest, is an important addition because breaches of the blinding, both minor and extensive, have been observed to occur frequently in clinical trials."
+        },
+        {
+            "text": "The section is based on the data life cycle and includes new and expanded text on data capture, data verification, metadata, data corrections, data transfers and finalisation of datasets prior to analysis. Some significant text that I noted and draw to your attention:"
+        },
+        {
+            "text": "The section on computerised systems explains the importance of the system in terms of whether it is specifically for the purposes of a clinical trial and who has the responsibility for it as this sets the expectations for the system. Some of the expectations are expanded current text, e.g., requirement for documented procedures and back up. Some significant text that I noted and draw to your attention:"
+        },
+        {
+            "text": "For validation of computerised systems, again expanding current text, some significant text I noted and draw to your attention:"
+        },
+        {
+            "text": "Glossary (previously ICH E6(R2) section 1)"
+        },
+        {
+            "text": "There have been changes to text under most terms of the glossary, many of which were relatively minor. Some terms have been deleted, these were \u201camendment to the protocol\u201d, \u201cCo-ordinating committee\u201d, \u201cOpinion\u201d, \u201cApproval\u201d and \u201cWellbeing (of trial subjects). Some term titles and content have had minor changes made, for example removing \u201c(product)\u201d from Comparator or \u201cStudy\u201d from \u201cClinical Trial/Study\u201d and some new terms have been added. Some of these changes made are quite significant."
+        },
+        {
+            "text": "The change to \u201cTrial participant\u201d rather than \u201cTrial subject\u201d, which was known to be thought of in a derogative way by some of those taking part in trials has resulted in many changes throughout the guidance."
+        },
+        {
+            "text": "Significant changes are the definitions of Documentation and Essential Documents being combined in a new term of \u201cEssential Records\u201d, \u201cSource data\u201d and \u201cSource Documents\u201d being combined and revised in a new term of \u201cSource Records\u201d. This is to reflect changes in the guidance regarding the broadening of trial information to consist of documents and data and that source data is now contained in numerous computerised systems. The data governance section and addressing new technology in data capture etc. merited the inclusion of new terms \u201cData Acquisition Tool\u201d, \u201cMetadata\u201d and \u201cSignature\u201d."
+        },
+        {
+            "text": "Changes to the definitions relating to Adverse Events have all been grouped together and have provided greater clarity, in particular regarding the relationship to the investigational product to define adverse drug reactions. Additionally, the Reference Safety Information has been required to be defined due to its inclusion in the Investigator\u2019s Brochure appendix."
+        },
+        {
+            "text": "The expansion of organisations being delegated trial related duties and functions of the sponsor and investigator, led to the introduction a new term of \u201cService Provider\u201d to cover all those undertaking such activities and move away from use of CRO only. Finally, Assent has also been defined to reflect the changes made in the IRB/IEC section."
+        },
+        {
+            "text": "Appendix A: Investigator\u2019s Brochure (previously ICH E6(R2) section 7)"
+        },
+        {
+            "text": "There are no extensive changes to this section, but there is some minor restructuring at the start. Whilst there is clarification that the sponsor is responsible for ensuring an appropriate Investigator\u2019s Brochure is produced, the key change is inclusion of text concerning the reference safety information as the list of expected adverse drug reactions used for determination of whether a serious adverse reaction is a suspected unexpected serious adverse reaction that requires expedited reporting. The Appendix to the current section has been deleted and it did offer little additional value beyond the information in the guidance, with some minor updates to address gaps due to its removal."
+        },
+        {
+            "text": "Appendix B: Protocol (previously ICH E6(R2) section 6)"
+        },
+        {
+            "text": "Text has been added that encourages use of stakeholders in protocol development where appropriate and to develop a concise and operationally feasible protocol, that reduces unnecessary complexity, but mitigates or eliminates important risks to the rights, safety, and wellbeing of trial participants and reliability of the results. Revisions encourage adaptability in the protocol to reduce deviations and amendments."
+        },
+        {
+            "text": "Some administrative information requirements have been removed, some example trial designs, estimands and Bayesian design elements have been added and there has been clarification that the protocol should contain information on processes for participants withdrawing consent and discontinuing treatment and the use of their data."
+        },
+        {
+            "text": "The changes made included an expectation that the protocol contains information about the use of data monitoring committees for efficacy and safety assessments and that the protocol should include a description of identified quality factors and associated risks in the trial, monitoring processes and handling of non- compliance."
+        },
+        {
+            "text": "There also an expectation from changes made that the protocol contains a reference to the specification of the data to be collected and how, including identification of source data in data collection tools rather than just the CRF and that the protocol includes a statement about retention of the trial records."
+        },
+        {
+            "text": "Appendix C: Essential Records (previously ICH E6(R2) section 8)"
+        },
+        {
+            "text": "The guidance has moved from using the term \u201cdocuments\u201d to more generic term \u201crecords\u201d to broaden that the information required to assess the trial conduct also includes data. This has led to revision of glossary terms relating to documents and data. Current requirements on timeliness and organisation of filing, completeness of records, retention, access and certified copies has been retained. There has been clarification that the essential records and therefore the content of the TMF would be based upon the design and proportional approach applied to the trial."
+        },
+        {
+            "text": "The changes made, I suggest, are aimed to discourage the use of the tabulations as a checklist of which records are required, when and where they are located. This is a significant change to the current text section 8 as there is now a list of records that are always expected to be present as essential records and those that should they be produced, would also be essential. The \u201cpurpose\u201d and \u201clocation\u201d columns in current table have been removed and the new tables have amalgamated the \u201cbefore\u201d, \u201cduring\u201d and \u201cafter\u201d which led to unnecessary duplication. The opportunity was clearly taken to review the list of records and add some that were frequently produced and retained and used for compliance assessment."
+        },
+        {
+            "text": "There has been, in my view, an encouragement of a thoughtful approach by providing more guidance on what makes a record essential, using some of the information from the current \u201cpurpose\u201d column. I suggest that this doesn\u2019t mean a new requirement for procedures and new processes for individual record assessment, for example, many existing indices used by organisation for the TMF content have already effectively done this. Instead, it can used as a guide as to why a particular record might be essential and for training individuals who are involved in generating such records."
+        },
+        {
+            "text": "The revised guidance also addresses the requirement that some essential records are not trial specific and to avoid duplication of such records across TMFs. The updates have also addressed the use of new technology by referring to \u201caccess\u201d of records between parties involved in the trial, perhaps say via internet portals and eTMFs rather than just \u201ccopies\u201d and have clarified the use of service providers and their role in the management of essential records. Finally, the revision has also addressed version control of records."
+        }
+    ]
+}
