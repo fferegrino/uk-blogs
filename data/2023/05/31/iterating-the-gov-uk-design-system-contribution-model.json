@@ -1,0 +1,75 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2023/05/31/iterating-the-gov-uk-design-system-contribution-model/",
+    "title": "Iterating the GOV.UK Design System contribution model",
+    "authors": [
+        "Chris Ballantine-Thomas \u2013 Senior interaction designer, GDS"
+    ],
+    "categories": [
+        "Design",
+        "Design System"
+    ],
+    "pub_date": "2023-05-31T09:00:27+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK Design System is a contribution-led design system.\u00a0"
+        },
+        {
+            "text": "Since early on in its development, we've put a lot of focus on making the Design System open for contribution. It\u2019s had some great successes \u2014 nowadays, most major additions to the Design System come from outside the team."
+        },
+        {
+            "text": "After facilitating lots of different contributions and bringing them into the Design System, we\u2019re taking what we\u2019ve learnt and making some changes to the contribution model."
+        },
+        {
+            "heading": 2,
+            "text": "Running some experiments"
+        },
+        {
+            "text": "A few recent bits of work feed into this. Over the last year or so, our community designer has been leading two large-scale collaborations with the community. These involve far more people than in the past, and use co-design approaches to make use of more people\u2019s knowledge and skills. To hear more about this, listen to our podcast about the maps collaboration."
+        },
+        {
+            "text": "We\u2019ve also been trying a new way of prioritising new work, to make sure we take on the community\u2019s needs and prioritise the most valuable things. Those priorities are listed on our upcoming components and patterns page. Picking up one of these newly-prioritised things gives us an opportunity to trial a new model for contribution."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re proposing"
+        },
+        {
+            "text": "We\u2019ve put together a quick video that gives an overview of how we plan to work:"
+        },
+        {
+            "text": "It's intended as a loose model \u2014 each step has a range of possible activities we could run, depending on the thing we\u2019re working on."
+        },
+        {
+            "text": "We\u2019re not starting completely from scratch. A lot of the model is made of things we already do, rearranged a bit to reflect what we\u2019ve learned over the last few years. For example, the importance of making clear scoping decisions earlier on in the process."
+        },
+        {
+            "text": "We\u2019ve also left some existing steps untouched.\u00a0For example, how the working group reviews work. This is so we\u2019re not changing everything at once \u2014 we may revisit these things in the future."
+        },
+        {
+            "text": "If you want to see more detail than what\u2019s in the video, have a look at the journey map we made whilst developing the model."
+        },
+        {
+            "heading": 2,
+            "text": "What we want to achieve"
+        },
+        {
+            "text": "In the past, we often waited for teams to approach us for proposals for patterns and components, which did not always match with the community's needs. The new prioritisation process will change that dynamic: we'll communicate what the next focus is, then ask the community to get involved. Hopefully this means that people are able to share more relevant information, and that their efforts will bear fruit sooner."
+        },
+        {
+            "text": "We want to take the successes of the community collaborations and make them structurally part of how we work. This means being more intentional about how and when we involve the community. For example, some activities benefit from a larger group, some benefit from a smaller one."
+        },
+        {
+            "text": "We also want everyone involved to be clear about what\u2019s going on at each point in the process, and how they can contribute. So we\u2019re adding a bit more structure and planning to improve how we communicate."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019ll trial the model when we kick off one of the 3 priorities in the near future. When that happens, we\u2019ll blog about it and let people know via our mailing list."
+        },
+        {
+            "text": "Facilitating contributions to design systems is hard. Not everything will work. We\u2019ll be taking feedback and iterating as we go."
+        }
+    ]
+}
