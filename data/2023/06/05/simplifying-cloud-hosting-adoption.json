@@ -1,0 +1,66 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/06/05/simplifying-cloud-hosting-adoption/",
+    "title": "Simplifying Cloud Hosting Adoption",
+    "authors": [
+        "Emma Harley"
+    ],
+    "categories": [
+        "cloud hosting",
+        "Our services",
+        "user needs"
+    ],
+    "pub_date": "2023-06-05T11:31:09+01:00",
+    "content": [
+        {
+            "text": "As part of our MoJ and wider Government strategy, we are putting cloud first. Within Technology Services we have adopted two core platforms with the needs of users very much at the centre of everything we do. Our aim is to make technology more reliable and resilient while reducing costs and bringing services in-house, where practical."
+        },
+        {
+            "text": "Hosting with suppliers has been standard in the MoJ for some time. It doesn\u2019t always make sense to the supplier host but if a viable in-house option that can meet the needs of the application can\u2019t be found, then, there\u2019s no choice. The Landing Zone Team wants to offer a hosting service FOR the MoJ, by the MoJ, which is better, faster, cheaper and well supported while keeping the bar to adopting in-house hosting on the cloud as low as possible."
+        },
+        {
+            "text": "We don\u2019t want to isolate or alienate teams looking to self-host (e.g. move away from supplier or on premise infrastructure). We adopted a core principle that we wouldn\u2019t mandate, for example, that resources can only be created using code as, if teams didn\u2019t have an infrastructure as code skills, then we have automatically sent them away to host with a supplier! Saying that, we do want to encourage modern practices and use technology well. We\u2019re committed to doing this in several key ways:"
+        },
+        {
+            "text": "We work in the open"
+        },
+        {
+            "text": "All of our team documentation, user documentation and code is open to the organisation for visibility and critique. We publish \u2018Fortnight Notes\u2019 every two weeks which update our users on progress and keep them informed of our next priorities. We make no secret about the fact that our house isn\u2019t as in order as we\u2019d like it to be and regularly talk about our struggles and successes."
+        },
+        {
+            "text": "We empower users to work however they need to"
+        },
+        {
+            "text": "This means we mandate as few processes and procedures users must follow as possible but offer \u2018features\u2019 which help implement and maintain best practices. We make no secret about the fact that \u201cWith great autonomy comes great responsibility\u201d but remain committed to working for users first and supporting the way they need to do it."
+        },
+        {
+            "text": "We support our users every step of the way"
+        },
+        {
+            "text": "From initial conversations about the art of the possible to monthly catch-ups with service owners and support teams once they\u2019re onboard; we build relationships as well as infrastructure."
+        },
+        {
+            "text": "The problem space in hosting is quite complex and our hosting platform can definitely help make life easier for a lot of users. We need to keep up with user needs and make sure our roadmap delivery and management are in line with the challenges we hear about. The feedback so far has been very positive (as you can see) so we\u2019re on the right lines but there\u2019s a long way to go!"
+        },
+        {
+            "text": "Head of remote support says:"
+        },
+        {
+            "text": "\u201cBy using the landing zone secure access to our servers, it has allowed us to utilise our normal accounts to carry out the work. This enables accountability back against audit logs and more accurate recording of work carried out, where previously this could not be done. It removed engineer frustration by allowing concurrent connections, whereby the previous solution limited this to 2 at any given time. This improved resolution times for the users as a result.\u201d"
+        },
+        {
+            "text": "Solution architect says:"
+        },
+        {
+            "text": "\u201cIf Carlsberg did digital technology services, you\u2019d have the Landing zone team. From a product manager who understands the technology the team offers, and their capability and capacity, to extremely competent and knowledgeable engineers, or I should probably say developers, who always go above and beyond the ask. I recently required some monitoring for a landing zone spoke, and while looking at clickops\u2019ing my way through things, they developed a Terraform module to automate all of that, with detailed and clear instructions to self-serve (if only I knew my way around Github!) and then offered to help when I got stuck, giving me a detailed walkthrough of the solution. It\u2019s a joy working with such an amazing team, thank you.\u201d"
+        },
+        {
+            "text": "3LS Colleague says:"
+        },
+        {
+            "text": "\u201cIt's been a great experience working with the Landing Zone team to monitor our infrastructure. Previously we were monitoring these servers, we couldn't figure out how to configure an alert to send to our monitoring mailbox when a threshold was reached. Thanks to the Landing Zone team, we managed to achieve it and now we get alerts right into our monitoring mailbox and don't have to go to the monitoring dashboard to see what's going on with these servers. Landing Zone team has trained us how to write alert rules using code, now we can update the coding ourselves and once ALZ team approves it from, it will be merged to the main branch."
+        },
+        {
+            "text": "Also, big thanks for managing our infrastructure, which includes patching, hub, spoke management, and providing level 4 support for everything that falls under landing zone responsibilities.\u201d"
+        }
+    ]
+}
