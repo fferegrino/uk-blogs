@@ -1,0 +1,55 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/06/07/from-principles-to-practice-launching-the-portfolio-of-ai-assurance-techniques/",
+    "title": "From principles to practice: Launching the Portfolio of AI Assurance techniques",
+    "authors": [
+        "Nuala Polo"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Assurance",
+        "Trust",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2023-06-07T10:50:56+01:00",
+    "content": [
+        {
+            "text": "Today, we are pleased to announce the launch of DSIT\u2019s Portfolio of AI Assurance Techniques. The portfolio features a range of case studies illustrating various AI assurance techniques being used in the real-world to support the development of trustworthy AI. You can read the case studies here."
+        },
+        {
+            "text": "How does AI Assurance support AI governance?"
+        },
+        {
+            "text": "In the recent AI Regulation White Paper the UK government describes its pro-innovation, proportionate, and adaptable approach to AI regulation to support responsible innovation across sectors. The White Paper outlines five cross-cutting principles for AI regulation: Safety, security and robustness; appropriate transparency and explainability; fairness; accountability and governance; and contestability and redress.\u00a0"
+        },
+        {
+            "text": "The regulatory principles outline what outcomes AI systems need to fulfil, but how can we test whether a system actually achieves these results in practice? This is where tools for trustworthy AI come into play. Tools for trustworthy AI, like assurance techniques and standards, can help to measure, evaluate and communicate whether an AI system is trustworthy and aligned with the UK\u2019s principles for AI regulation and wider governance. These tools provide the basis for consumers to trust the products they buy are safe, and for industry to confidently invest in new products and services. These services could also build a successful market in its own right. Based on the success of the UK\u2019s cybersecurity assurance industry, an AI assurance ecosystem could be worth nearly \u00a34 billion to the UK economy."
+        },
+        {
+            "text": "The CDEI has conducted extensive research to investigate current attitudes towards, and uptake of\u00a0 tools for trustworthy AI. We published our findings in the Industry Temperature Check report, which identified major barriers that are impeding or preventing industry use of assurance techniques and standards. One of the key barriers identified in this research was a significant lack of knowledge and skills regarding AI assurance. Research participants reported that even if they want to assure their systems, they often don\u2019t know what assurance techniques exist, or how these might be applied in practice across different contexts and use cases.\u00a0"
+        },
+        {
+            "text": "Portfolio of AI Assurance Techniques\u00a0"
+        },
+        {
+            "text": "To address this lack of knowledge and help industry to navigate the AI assurance landscape, we are pleased to announce the launch of the DSIT Portfolio of AI assurance techniques. The portfolio has been developed by DSIT\u2019s Centre for Data Ethics and Innovation, initially in collaboration with Tech UK. \u00a0The portfolio is useful for anybody involved in designing, developing, deploying or procuring AI-enabled systems, and showcases examples of various AI assurance techniques being used in the real-world to support the development of trustworthy AI."
+        },
+        {
+            "text": "The portfolio includes a variety of case studies from across multiple sectors and features a range of technical, procedural and educational approaches, illustrating how a combination of different techniques can be used to promote responsible AI. We have mapped these techniques to the principles set out in the UK government\u2019s white paper on AI regulation, to illustrate the potential role of these techniques in supporting organisational AI governance.\u00a0"
+        },
+        {
+            "text": "Please note the inclusion of a case study in the portfolio does not represent a government endorsement of the technique or the organisation, rather we are aiming to demonstrate the range of possible options that currently exist.\u00a0"
+        },
+        {
+            "text": "Read the case studies here.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Next steps: future submissions\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "We will be developing the portfolio over time, and publishing future iterations with new case studies. While the first iteration was delivered with techUK, we invite future submissions from organisations across all sectors, to showcase a broad range of AI assurance techniques in practice. If you would like to submit case studies to the portfolio or would like further information please get in touch at ai.assurance@cdei.gov.uk."
+        }
+    ]
+}
