@@ -1,0 +1,122 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2023/06/09/finding-new-and-improved-ways-of-solving-problems-with-code-a-conversation-with-ons-data-scientists/",
+    "title": "Finding new and improved ways of solving problems with code - a conversation with ONS Data Scientists",
+    "authors": [
+        "jacobstarling"
+    ],
+    "categories": [
+        "Data",
+        "Data Science",
+        "People and skills",
+        "Recruitment"
+    ],
+    "pub_date": "2023-06-09T15:56:15+01:00",
+    "content": [
+        {
+            "text": "Our latest intake for Data Scientists has just gone live and it's a great opportunity to join a leading organisation in the Data Science field where you'll work on critical projects producing statistics for the public good."
+        },
+        {
+            "text": "We ask Jen and Vondy, two of our Data Scientists, about the role, the work, the Office for National Statistics (ONS) and why you should consider a career with us."
+        },
+        {
+            "heading": 2,
+            "text": "When did you join ONS?"
+        },
+        {
+            "text": "Jen:\u00a0I joined in January 2023."
+        },
+        {
+            "text": "Vondy:\u00a0I started at the ONS in April 2019."
+        },
+        {
+            "heading": 2,
+            "text": "How have you found the role so far?"
+        },
+        {
+            "text": "Vondy:\u00a0It\u2019s been a truly rewarding experience \u2013 working on a variety of projects that have challenged me to develop new skills and build on existing ones. The varied nature of the work makes each day unique and pushes me to find new and improved ways of solving problems with code, which I find really satisfying. I\u2019m looking forward to what lies ahead as I continue working on more projects."
+        },
+        {
+            "text": "Jen:\u00a0I have really enjoyed these first few months \u2013 I have learnt so much already!\u00a0It can be nerve wracking going into a new role in a new organisation, but everything at team and organisational level has been designed to make that transition as smooth as possible."
+        },
+        {
+            "heading": 2,
+            "text": "How are ONS as an employer?"
+        },
+        {
+            "text": "Jen:\u00a0The culture at ONS is great: I have been made to feel very welcome and a valued member of the team.\u00a0There are plenty of ways to get involved with making it such a great environment to work in as well, such as joining one of the various networks.\u00a0There is also a really positive culture around development, with plenty of learning and development opportunities offered."
+        },
+        {
+            "text": "Vondy:\u00a0As an employer, I appreciate the ONS\u2019s commitment to fostering a supportive and inclusive working environment where I feel welcome and have a strong sense of belonging. There\u2019s also a strong emphasis on learning with all sorts of professional development opportunities \u2013 like opportunities to apply the things I\u2019ve learnt to projects that inform national decisions. Alongside the opportunities to contribute to meaningful project work, the ONS has a the strong focus on work-life balance with ample support for flexible working arrangements which I very much appreciate."
+        },
+        {
+            "heading": 2,
+            "text": "What is your team like?"
+        },
+        {
+            "text": "Vondy:\u00a0My team, RDSA (Reproducible Data Science and Analysis), work in an environment that values adaptability, continuous improvement and uses Agile software development practices. What I like most about the team is how we operate under a culture of openness, with team members freely sharing progress updates, challenges, and successes. This fosters mutual respect, trust and supports efficient collaboration. As a team, we adapt quickly to changes and new information, ensuring plans remains relevant and effective,\u00a0the strong learning culture keeps us updated with the latest tools, techniques, and best practices, enhancing our work processes."
+        },
+        {
+            "text": "Jen:\u00a0The team are amazing!\u00a0Everyone has been so generous with their time and expertise, in helping me to get up to speed with the job but also making me feel like a member of the team right from the start.\u00a0There are so many incredibly talented Data Scientists in the team that are happy to share their experience and knowledge, and I am looking forward to learning from them."
+        },
+        {
+            "heading": 2,
+            "text": "What have you learned / what skills have you gained since starting your role?"
+        },
+        {
+            "text": "Jen:\u00a0The application of Data Science in the real world, and how to make sure that the statistical pipelines we are building are reproducible, efficient and of high-quality.\u00a0Having studied Data Science you understand the principles and the importance of this, but I have been really enjoying learning about how we put that into practice at ONS."
+        },
+        {
+            "text": "Vondy:\u00a0Since joining I have gained a variety of skills, including but not limited to programming in Python, SQL, Java and PySpark, alongside building expertise in areas like model validation, data ethics, and big data management. I've also delved deeper into mathematical applications, machine learning, and time series analysis, enhancing my technical Data Science proficiency. On the soft skills side, I\u2019ve had the opportunity to expand my leadership and project management skills, leading on some complex Data Science projects working in RDSA."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s been the most challenging bit?"
+        },
+        {
+            "text": "Vondy:\u00a0The main challenge I\u2019ve faced so far has been juggling my BSc degree apprenticeship at\u00a0Cardiff Metropolitan University alongside my role at the ONS. Effectively fulfilling the demanding requirements of both and delivering on multiple priorities definitely exercised my time management muscles! This was a challenging but highly valuable experience."
+        },
+        {
+            "text": "Jen:\u00a0This has been a career change for me, so I was nervous about joining a new organisation in a new field.\u00a0Getting to grips with the different systems and processes has taken a little time, but as I say, the induction process has been designed support you through that very effectively."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s been the most rewarding bit?"
+        },
+        {
+            "text": "Jen:\u00a0I really enjoy knowing that what I am doing is making a difference.\u00a0I believe passionately in the organisations strategy of Statistics for the Public Good, so it is really rewarding to know that I am part of that now."
+        },
+        {
+            "text": "Vondy:\u00a0While achieving a first-class grade for my degree was a significant milestone (alongside wearing a snazzy gown and hat at the graduation), the most rewarding part has been my hands-on involvement in some transformative projects. In particular, I\u2019ve loved taking a leadership role in the automation of financial surveys for National Accounts and creating real time indicators using VAT data, both contributing to modernising and improving the outputs we produce."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s your favourite thing about working for ONS?"
+        },
+        {
+            "text": "Vondy:\u00a0Among the many fantastic aspects of working at the ONS, what I appreciate most is the opportunity to leverage my data science capability in practical ways. Whether it's upskilling others, ensuring best practice in system development, or shaping meaningful, data-driven outputs, I find doing the data science itself deeply fulfilling."
+        },
+        {
+            "text": "Jen:\u00a0I get to spend all day doing what I love, in an environment that makes me feel valued."
+        },
+        {
+            "heading": 2,
+            "text": "Why should the person reading this apply to be a Data Scientist at ONS?"
+        },
+        {
+            "text": "Jen:\u00a0It\u2019s an amazing opportunity to be part of bringing high quality data to the UK, in an organisation that values you and is committed to your development."
+        },
+        {
+            "text": "Vondy:\u00a0Alongside the benefits mentioned above, you\u2019ll also be part of a truly multidisciplinary culture with colleagues working in business analytics to statistics and computer science. Working with people from many different backgrounds can really broaden your perspective and professional growth."
+        },
+        {
+            "heading": 2,
+            "text": "What piece of advice would you give someone thinking about applying?"
+        },
+        {
+            "text": "Vondy:\u00a0When it comes to the application, pay close attention to the given instructions, particularly regarding the requirements of your personal statement. Use your word count wisely, prioritising clear and evidenced examples over vague statements. Data Science is a rapidly evolving field so make sure to demonstrate your commitment to continuous learning, adaptability, and problem-solving skills. Being able to adapt to and master new tools and techniques is essential."
+        },
+        {
+            "text": "Jen:\u00a0Do it!\u00a0Think about how you can evidence what is being asked for in the job description, and how to articulate that in the application.\u00a0If, like me, you are looking to move into Data Science, think about all the transferable skills you have because this will enrich your application."
+        }
+    ]
+}
