@@ -1,0 +1,140 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2023/06/12/making-a-positive-change-pdf-to-html/",
+    "title": "Making a positive change: PDF to HTML",
+    "authors": [
+        "Samantha Merrett, Accessibility Lead, Food Standards Agency",
+        "Chris Comber, Graphic Designer for GRS/GBS",
+        "Stephanie Hill, Digital Content Lead at UK Health Security Agency",
+        "William Rees, Senior Content Designer, Welsh Government"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Regulations",
+        "Content"
+    ],
+    "pub_date": "2023-06-12T15:32:16+01:00",
+    "content": [
+        {
+            "text": "Over 100 of participants attended our live session on digital accessibility last November. As communicators, we must take care to make our content as easy to understand and accessible as possible."
+        },
+        {
+            "text": "In order to promote designing accessibility into the system and making people care about accessibility, let\u2019s continue the discussion."
+        },
+        {
+            "heading": 2,
+            "text": "PDF and climate change"
+        },
+        {
+            "text": "Perhaps the most surprising outcome from the panel was about Carbon Dioxide emission in relation to the use of PDF as a communication medium."
+        },
+        {
+            "text": "The environmental case for HTML over PDF was drawn from research and discussion between Government Digital Service (GDS) and Welsh Government content strategists. In the examples presented during the panel session,\u00a0Pingdom\u00a0was used to measure the size of a particular HTML page and\u00a0website carbon calculator\u00a0was used to estimate the amount of CO2 emitted for that page."
+        },
+        {
+            "text": "It\u2019s worth noting that other sources use a different means of measuring the effective size of a HTML page and estimating the amount of CO2 emitted per view."
+        },
+        {
+            "text": "What is evident across all methods of analysis however is that larger file size = more data transferred = more CO2 emitted. This is particularly evident when PDFs use large amounts of visual content, such as decorative graphics and high-resolution images or diagrams."
+        },
+        {
+            "text": "Consider inclusion beyond disability. Light, mobile-friendly web pages are critical for users who experience data poverty or have intermittent connections in remote locations. Loading speed has a major impact on the user experience of any online activity, including government services and information The image below shows the size of a document in HTML and PDF formats."
+        },
+        {
+            "text": "The HTML page shown is significantly smaller at 1.4 MB than the PDF at nearly 2 MB \u2013 42% larger \u2013 despite both containing the same information. The PDF emits an estimated 0.561g of CO2e every time someone views it versus 0.395g for the HTML version."
+        },
+        {
+            "text": "Read:\u00a0Publishing PDFs and other files on GOV.WALES."
+        },
+        {
+            "heading": 2,
+            "text": "Legal documents and PDF"
+        },
+        {
+            "text": "For legal documents, you will have to check the subject matter experts and or lawyers, the exact requirements. You may gain agreement that publication does not require a PDF and that you can publish the information as a web page."
+        },
+        {
+            "text": "This can be more difficult if a stamp or signature needs to be displayed. In that case a PDF might be unavoidable."
+        },
+        {
+            "text": "Emphasise user needs in your discussion. What do you expect people to do? Download, sign and return the PDF or just read it. If the PDF is for information only, a web page is the ideal way to publish the document."
+        },
+        {
+            "text": "What recommendations do you have for setting up a long publication so that it will work in HTML format\u00a0(for example an annual report)?"
+        },
+        {
+            "text": "Plan the images, graphs and tables and layout from the start and work with your design team/agency to ensure all assets are accessible."
+        },
+        {
+            "text": "Discuss options for landscape images, font size for diagrams and alternative and additional options for CSV file of data tables."
+        },
+        {
+            "text": "Consider breaking down a long publication into chapters and publish one chapter per web page. This can make larger online publications easier to navigate. It is important to make sure that your website can support long publications in HTML, you might need to build new templates to ensure the best experience for your users."
+        },
+        {
+            "text": "An alternative way to ensure users get the information they need is by publishing a Word (.DOCX) file instead of a PDF. Users can open these in their preferred word processing software and change the document formatting to better suit them."
+        },
+        {
+            "text": "Such changes include:"
+        },
+        {
+            "text": "Word files can also be easily ported to Braille readers."
+        },
+        {
+            "heading": 2,
+            "text": "What research proves HTML is better than PDF?"
+        },
+        {
+            "text": "The Government Digital Service (GDS) states\u00a0\u201cCompared with\u00a0HTML\u00a0content, information published in a PDF is harder to find, use and maintain\u201d."
+        },
+        {
+            "text": "Read their blog\u00a0Why GOV.UK content should be published in HTML and not PDF\u00a0to find out about the other problems with PDFs."
+        },
+        {
+            "heading": 2,
+            "text": "Is there still a place for PDF?"
+        },
+        {
+            "text": "The answer is it depends."
+        },
+        {
+            "text": "GDS\u2019 blog explains why they remain popular in government. One example includes control over the layout and design."
+        },
+        {
+            "text": "It all comes back to the user\u2019s needs:"
+        },
+        {
+            "text": "PDFs can be unwieldy, slow to download and costly to update."
+        },
+        {
+            "text": "Consider the needs of the people you are publishing the information for. Engage with them early to explore alternative options that may better meet their needs."
+        },
+        {
+            "text": "Dos and don\u2019ts on designing for accessibility."
+        },
+        {
+            "heading": 2,
+            "text": "Continue your accessibility journey"
+        },
+        {
+            "text": "We suggest you keep asking about the users\u2019 needs at the planning stage. Ask if people have thought about a web page as an asset, instead of a PDF. Explain the advantages of presenting information in HTML. Making your communication, your content and your message more accessible means everyone will benefit."
+        },
+        {
+            "text": "Use our guidance on\u00a0Accessible communications"
+        },
+        {
+            "text": "Watch our webinars:"
+        },
+        {
+            "text": "Explore tutorials\u00a0on how to make something HTML and how to accessibility check a PDF"
+        },
+        {
+            "text": "HTML"
+        },
+        {
+            "text": "PDF"
+        },
+        {
+            "text": "With thanks to our panellists for contributing to this blog post:"
+        }
+    ]
+}
