@@ -1,0 +1,76 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/06/14/improving-responsible-access-to-demographic-data-to-address-bias/",
+    "title": "Improving responsible access to demographic data to address bias",
+    "authors": [
+        "Amy Dickens, Centre for Data Ethics and Innovation",
+        "Benjamin Moore, CDEI"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Bias",
+        "Data",
+        "Demographic data",
+        "Intermediaries",
+        "Trust"
+    ],
+    "pub_date": "2023-06-14T09:16:12+01:00",
+    "content": [
+        {
+            "text": "Following our review into bias in algorithmic decision-making, the CDEI has been exploring challenges around access to demographic data for detecting and mitigating bias in AI systems, and considering potential solutions to address these challenges.\u00a0"
+        },
+        {
+            "text": "Today we are publishing our report \u201cEnabling responsible access to demographic data to make AI systems fairer\u201d, which explores the potential of novel approaches to overcome some of these challenges. This work, part of our responsible data access work programme, explores solutions with the potential to assist service providers to responsibly access data on the demographics of their users to assess for potential bias. "
+        },
+        {
+            "text": "The use of AI, and broader data-driven systems, is becoming increasingly commonplace. With this, the risks associated with bias in these systems has become a growing concern. Where AI systems produce unfair outcomes for individuals on the basis of these protected characteristics and are used in a context in scope of the Equalities Act 2010 (e.g. the provision of a service), this might result in unlawful discrimination."
+        },
+        {
+            "text": "The importance of addressing fairness in AI systems has also been recognised in the government's recent white paper \u201cA pro-innovation approach to AI regulation\u201d. The white paper proposes fairness as one of five potential cross-cutting principles for AI regulation. Fairness encompasses a wide range of issues, one of which is avoiding unfair bias, which can lead to discrimination."
+        },
+        {
+            "text": "Many approaches to detecting and mitigating bias require access to demographic data about users, including characteristics that are protected under the Equality Act 2010 - such as age, sex, and race - as well as other socioeconomic attributes.\u00a0"
+        },
+        {
+            "text": "For example, if an insurer wants to understand the impact of their risk pricing model on different ethnic groups, it needs data about the ethnicity of their customers (and potential customers). However, collection of such data is not common practice in most sectors."
+        },
+        {
+            "text": "Organisations building or deploying AI systems often struggle to access the demographic data they need. There are a number of reasons for this including:"
+        },
+        {
+            "heading": 3,
+            "text": "Potential solutions"
+        },
+        {
+            "text": "Our work focuses on two contrasting sets of promising approaches to help address some of these challenges: data intermediaries and proxies."
+        },
+        {
+            "text": "In simple terms, for the purposes of this report, a demographic data intermediary can be understood as an entity that facilitates the sharing of demographic data between those who wish to make their own demographic data available and those who are seeking to access and use demographic data they do not have. Intermediaries could help organisations navigate regulatory complexity, better protect user autonomy and privacy, and improve user experience and data governance standards. However, the overall market for data intermediaries in the UK remains nascent, and the absence of intermediaries offering this type of service may reflect the difficulties of being a first mover in this complex area, where demand is unclear and the risks around handling demographic data require careful management.\u00a0"
+        },
+        {
+            "text": "If gathering demographic data is difficult, another option is to attempt to infer it from other proxy data already held. For example, an individual\u2019s forename gives some information about their gender, with the accuracy of the inference highly dependent on context, and the name in question. There are already some examples of service providers using proxies to detect bias in their AI systems.\u00a0"
+        },
+        {
+            "text": "Proxies have the potential to offer an approach to understanding bias where direct collection of demographic data is not feasible. In some circumstances, proxies can enable service providers to infer data that is the source of potential bias under investigation, which is particularly useful for bias detection. Methods that draw inferences at higher levels of aggregation could enable bias analysis without requiring service providers to process individually-identifiable demographic data.\u00a0"
+        },
+        {
+            "text": "However, significant care is needed. Using proxies does not avoid the need for compliance with data protection law. Further, use of proxies without due care can give rise to damaging inaccuracies and pose risks to service users\u2019 privacy and autonomy. Therefore, we argue that inferring demographic data for bias monitoring using proxies should only be considered in certain circumstances, such as when bias can be more accurately identified using a proxy than information about an actual demographic characteristic, where inferences are drawn at a level of aggregation that means no individual is identifiable, or where no realistic better alternative exists. In our paper, we suggest risk mitigations and safeguards that organisations should consider if using proxies.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Next Steps"
+        },
+        {
+            "text": "Our report reflects on what needs to happen to enable an ecosystem to emerge that offers better options for the responsible use of demographic data to improve the fairness of AI systems.\u00a0"
+        },
+        {
+            "text": "In the short term, direct collection of demographic data is likely to remain the best option for many service providers seeking to understand bias. Where this isn\u2019t feasible, use of proxies may be an appropriate alternative, but significant care is needed. However, there is an opportunity for an ecosystem to emerge that offers better options for the responsible use of demographic data to improve the fairness of AI systems. This ecosystem would be characterised by increased activity in the development and deployment of different solutions that best meet the needs of service providers and service users, as well as ongoing efforts to develop a robust data assurance ecosystem, ensure regulatory clarity, support research and development, and amplify the voices of marginalised groups.\u00a0"
+        },
+        {
+            "text": "Building on this work, we have announced a new Fairness Innovation Challenge. This will support organisations in their efforts to implement the Fairness principle set out in the UK government\u2019s AI White Paper. The challenge will provide an opportunity to test new ideas for addressing AI fairness challenges in collaboration with government and regulators, including challenges around data access.\u00a0"
+        },
+        {
+            "text": "We are currently running a call for use cases, and would welcome submissions of specific fairness-related problems faced by organisations designing, developing, and/or deploying AI systems. For more information and to submit a use case, see this link. "
+        }
+    ]
+}

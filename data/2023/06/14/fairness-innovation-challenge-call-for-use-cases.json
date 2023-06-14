@@ -1,0 +1,78 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/06/14/fairness-innovation-challenge-call-for-use-cases/",
+    "title": "Fairness Innovation Challenge: Call for Use Cases",
+    "authors": [
+        "Nuala Polo"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Bias",
+        "Demographic data",
+        "Responsible innovation",
+        "Trust",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2023-06-14T09:13:38+01:00",
+    "content": [
+        {
+            "text": "Building and using AI systems fairly can be challenging, but is hugely important if the potential benefits from better use of AI are to be achieved.\u00a0"
+        },
+        {
+            "text": "Recognising this, the government's recent white paper \u201cA pro-innovation approach to AI regulation\u201d proposes fairness as one of five cross-cutting principles for AI regulation. Fairness encompasses a wide range of issues, one of which is avoiding bias, which can lead to discrimination.\u00a0"
+        },
+        {
+            "text": "This issue has been a core focus of CDEI since we were established in 2019. Our 2020 Review into bias in algorithmic decision making set out recommendations for government, regulators, and industry to tackle the risks of algorithmic bias. In 2021, we published the Roadmap to an Effective AI Assurance Ecosystem, which explores how assurance techniques such as bias audit can help to measure, evaluate and communicate the fairness of AI systems.\u00a0"
+        },
+        {
+            "text": "Over this period, this issue has received an increasingly strong focus across industry, academia and government, with significant numbers of academic papers and developer toolkits emerging. However, organisations seeking to address these challenges in real world examples continue to face a range of challenges, including:"
+        },
+        {
+            "heading": 3,
+            "text": "CDEI\u2019s Fairness Innovation Challenge"
+        },
+        {
+            "text": "To help address some of these challenges, CDEI plans to run a Fairness Innovation Challenge to support the development of novel solutions to address bias and discrimination across the AI lifecycle. The challenge also aims to provide greater clarity about which assurance tools and techniques can be applied to address and improve fairness in AI systems, and encourage the development of holistic approaches to bias detection and mitigation, that move beyond purely technical notions of fairness.\u00a0"
+        },
+        {
+            "text": "This challenge will build on our experience running the recent Privacy Enhancing Technologies Prize Challenges (in collaboration with the US government), which brought together industry, academia, government and regulators to help drive technical innovation in a real world context."
+        },
+        {
+            "text": "The challenges described above are much broader than technical ones, and we are keen to ensure that participants in the challenge are developing holistic solutions to address fairness challenges. Regulators play a key role in this area, and we\u2019re delighted that The Equality & Human Rights Commission (EHRC) and The Information Commissioner\u2019s Office (ICO) have agreed to support the challenges. They will help guide participants through some of the legal and regulatory issues, as well as using learnings from the challenge to shape their own broader regulatory guidance on these issues."
+        },
+        {
+            "text": "On the importance of addressing fairness in AI systems:"
+        },
+        {
+            "text": "Stephen Almond, Executive Director, Regulatory Risk said:\u00a0"
+        },
+        {
+            "text": "\u201cThe ICO is committed to realising the potential of AI for the whole of society, ensuring that organisations develop AI systems without unwanted bias. We\u2019re looking forward to supporting the organisations involved in the Fairness Challenge with the aim of mitigating the risks of discrimination in AI development and use.\u201d"
+        },
+        {
+            "text": "Marcial Boo, Chief Executive at the Equality and Human Rights Commission said:\u00a0"
+        },
+        {
+            "text": "\u201cWithout appropriate regulation, poorly-designed AI systems have the potential to disadvantage groups with characteristics that are protected in law, such as people\u2019s race, sex or age."
+        },
+        {
+            "text": "\u201cTech developers and suppliers have a responsibility to ensure their AI systems do not worsen discrimination. In addition, public bodies and all organisations delivering public services through AI have a legal duty to ensure that their systems promote equality of opportunity and foster good relations, preventing discrimination rather than making it worse."
+        },
+        {
+            "text": "\u201cWe\u2019re working closely with the CDEI to ensure AI is used and developed with fairness in mind from the outset.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Call for Use Cases"
+        },
+        {
+            "text": "As we finalise the design and scope of this challenge, we are eager to hear from you on how we can shape it to be most effective."
+        },
+        {
+            "text": "In particular, we are keen to identify real world use cases which could form the basis of specific challenge projects. We are today launching a call for use cases, and would welcome submissions of specific fairness-related problems faced by organisations designing, developing, and/or deploying AI systems.\n"
+        },
+        {
+            "text": "To submit a use case, please use the google form linked here. To discuss potential use cases, or provide feedback on the challenge structure, please get in touch with the team via email, at ai.assurance@cdei.gov.uk.\u00a0"
+        }
+    ]
+}

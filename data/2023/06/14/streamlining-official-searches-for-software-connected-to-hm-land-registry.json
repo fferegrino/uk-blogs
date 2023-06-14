@@ -1,0 +1,63 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2023/06/14/streamlining-official-searches-for-software-connected-to-hm-land-registry/",
+    "title": "Streamlining official searches for software connected to HM Land Registry",
+    "authors": [
+        "James Rippin, Technical Integration Support Manager"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2023-06-14T09:30:20+01:00",
+    "content": [
+        {
+            "text": "Did you know that, while we went digital by default in November last year, applications submitted through our suite of application programming interfaces (APIs), known as Business Gateway, have been digital since we introduced them in 2012?"
+        },
+        {
+            "text": "Today, one in five applications we receive are submitted through legal software connected to our APIs and the number of users, third party suppliers and features continues to grow."
+        },
+        {
+            "text": "Our APIs are a key part of our ongoing plans to invest in transforming digital services so customers can access our services and complete tasks using automated processes."
+        },
+        {
+            "text": "Recently, we made some enhancements to Business Gateway that have the potential to reduce errors, increase accuracy and save time."
+        },
+        {
+            "heading": 2,
+            "text": "Official search of whole (with priority) with data"
+        },
+        {
+            "text": "A new and improved version of OS1 went live on 22 December 2022. This was delivered in response to customer feedback after this enhancement received the most votes on our public enhancement list. An important change resulting from this update is that, whereas the former OS1 service returned the results as PDF only (which meant you had to open the document and read through it), the new service official search of whole (with priority) with data also returns some of the key items contained in the results as data."
+        },
+        {
+            "text": "This means legal software developers can build a feature that flags if the register has changed since the \u2018search from\u2019 date, highlighting where a prior official search is pending and details of that search, and where the names of the registered proprietor(s) differ from the details we hold in the register. \u00a0Additionally, OS results can be auto routed to the relevant team for consideration."
+        },
+        {
+            "text": "Here\u2019s what one of our suppliers and one of our early adopters said about the new OS1 with data service."
+        },
+        {
+            "text": "Ed, Hoowla"
+        },
+        {
+            "text": "Jay, Devonshires"
+        },
+        {
+            "text": "The new developments in OS1 reduce the risk of an adverse entry being missed, and the amount of time spent manually reading and checking OS result certificates."
+        },
+        {
+            "heading": 2,
+            "text": "New features"
+        },
+        {
+            "text": "HM Land Registry will continue to review and enhance the Business Gateway API as part of our wider plan on digital transformation and we are planning to launch an estimated completion date feature\u00a0 in summer 2023. This will provide Business Gateway customers with an estimation of when outstanding applications will be completed."
+        },
+        {
+            "text": "If you\u2019re already using legal software connected to our systems, ask your supplier when this feature will be available. If you\u2019re not using a third party solution but would like to know more, please see further information below."
+        },
+        {
+            "text": "A complete list of third party software suppliers who provide solutions connected to our system can be found in our guidance pages."
+        },
+        {
+            "text": "Our Business Gateway pages contain further information about our APIs and whether they are the optimum solution for you and your customers."
+        }
+    ]
+}
