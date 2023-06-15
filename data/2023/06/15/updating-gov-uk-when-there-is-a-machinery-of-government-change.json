@@ -1,0 +1,97 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/06/15/updating-gov-uk-when-there-is-a-machinery-of-government-change/",
+    "title": "Updating GOV.UK when there is a machinery of government change",
+    "authors": [
+        "Esther Woods, Content Designer, GOV.UK Content team",
+        "Isabel Attwood, Content Designer, GOV.UK Content team",
+        "Imogen Rowley, Senior Content Designer, GOV.UK Content team"
+    ],
+    "categories": [
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2023-06-15T11:16:00+01:00",
+    "content": [
+        {
+            "text": "Machinery of government (MoG) changes are when one or more government departments are created, closed, merged, change names, or split into new organisations. Usually this happens as part of a reshuffle or when there\u2019s a general election, but not always."
+        },
+        {
+            "text": "After a MoG change, we need to make sure that GOV.UK accurately reflects what the new departments and agencies do."
+        },
+        {
+            "heading": 2,
+            "text": "The work involved"
+        },
+        {
+            "text": "So what do we do to update GOV.UK properly? Here\u2019s a non-exhaustive list:"
+        },
+        {
+            "heading": 2,
+            "text": "What happened this time"
+        },
+        {
+            "text": "In February 2023, the Prime Minister announced the creation of 4 new government departments. This was a complex MoG change as it involved a number of departments, including one, the Department for Business, Energy and Industrial Strategy, being split into 3:"
+        },
+        {
+            "text": "To do this, we had to combine, transfer and split GOV.UK content published by the existing departments, depending on who was now responsible for each policy area."
+        },
+        {
+            "text": "Once the Prime Minister made the announcement, we reacted quickly to ensure public facing pages reflected the changing landscape, such as adding \u2018This organisation is changing\u2019 banners to the closing organisation pages. This made it clear to users what was happening and allowed us to focus on the backend tasks that affected public-facing content. We also had to wait for external decisions on things like new branding colours and crests to be confirmed before we could set them up for government publishers to start using."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "The complexity of this MoG meant it was a learning curve, but there\u2019s a lot that we can take forward into future MoGs to iron out and speed up the process."
+        },
+        {
+            "heading": 3,
+            "text": "Regular contact with departments is essential"
+        },
+        {
+            "text": "This is not just between GDS and the departments involved in the MoG, but also between the departments themselves. Content that came from one department was being moved to several other departments - some of them brand new - so we needed to work together to make sure all content had an owner."
+        },
+        {
+            "heading": 3,
+            "text": "There\u2019s more to it than tagging content, and there\u2019s more content than we thought!"
+        },
+        {
+            "text": "In all, we moved 415 departmental publishers to a new department so that they could access their content, and retagged over 5,500 URLs to new departments. As well as updating new department content owners, name mentions and departmental contact details, we changed brand colours, crests, short URLs, page slugs, world location names (for example Department for Business and Trade USA)."
+        },
+        {
+            "heading": 3,
+            "text": "A \u2018one size fits all\u2019 approach doesn\u2019t work"
+        },
+        {
+            "text": "Each changing department has their own unique circumstances. For example, the new Department for Culture, Media and Sport (DCMS) was a relatively simple change as we were passing their \u2018digital\u2019 content on to a new department. To handle this work, we split into smaller support teams and worked on individual roadmaps based on communications with departments. This agile approach allowed for more flexibility and gave us more time to investigate blockers and problems that were unique to each department without holding up other departments."
+        },
+        {
+            "heading": 3,
+            "text": "Technical knowledge is crucial"
+        },
+        {
+            "text": "We needed the help of colleagues with technical knowledge of how GOV.UK works behind the scenes, including how to make updates in 7 different publishing apps. We were greatly supported by Junior Content Designers who could take on some of the more technical tasks thanks to their experience helping departments with the ins and outs of the various publishing applications."
+        },
+        {
+            "heading": 3,
+            "text": "A MoG is a Civil Service wide change, not just on GOV.UK"
+        },
+        {
+            "text": "Our colleagues in the departments were busy leading rapid internal organisational changes. They worked quickly to define their new teams and remits and understand their new responsibilities, so we could then tell users on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "It\u2019s been over 100 days since the MoG was announced."
+        },
+        {
+            "text": "Now that we\u2019ve officially closed the old organisation pages and sent 22,717 emails to subscribed users, the public-facing work is all done. But there\u2019s still a long tail of snagging and admin tasks left to do after the initial flurry of activity."
+        },
+        {
+            "text": "This was an intensive undertaking and it wouldn\u2019t have been possible without huge effort and collaboration from the DBT, DSIT, DESNZ and DCMS content teams, as well as various teams across GDS."
+        }
+    ]
+}
