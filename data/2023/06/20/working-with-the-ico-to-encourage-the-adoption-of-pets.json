@@ -1,0 +1,52 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/06/20/working-with-the-ico-to-encourage-the-adoption-of-pets/",
+    "title": "Working with the ICO to encourage the adoption of PETs",
+    "authors": [
+        "CDEI"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Data",
+        "Ethical innovation"
+    ],
+    "pub_date": "2023-06-20T11:08:59+01:00",
+    "content": [
+        {
+            "text": "Last year, the CDEI launched a responsible data access programme to address the challenges organisations face to access data they need in a responsible way. A key component of this programme is our work to encourage adoption of Privacy-Enhancing Technologies (PETs).\u00a0"
+        },
+        {
+            "text": "PETs are a set of emerging techniques that enable data access and analysis while providing stronger protections to preserve data privacy. Using PETs could unlock opportunities to harness large sets of data for socially beneficial uses such as scientific research, improving public services, and monitoring fraudulent activity, without compromising on privacy or confidentiality. However, there are several challenges to achieving more widespread adoption of PETs including lack of awareness and relative nascence of these technologies. CDEI\u2019s work to address these issues has included a PETs adoption guide to raise awareness of these emerging technologies as well as the UK-US PETs Prize Challenges for driving innovation in novel PETs for financial crime prevention and pandemic forecasting."
+        },
+        {
+            "text": "Organisations are also uncertain of legal implications of using PETs. This week, the Information Commissioner\u2019s Office (ICO) published new PETs guidance to explain how PETs can be used to support a data protection by design approach in line with regulatory requirements.\u00a0"
+        },
+        {
+            "text": "Many organisations are still unsure of the value of PETs relative to their costs, which is key to supporting investment decisions in these emerging technologies."
+        },
+        {
+            "text": "Today, we\u2019re announcing a joint project with the ICO to develop a PETs cost-benefit analysis tool. Our tool will help organisations interested in adopting PETs to better understand the costs and benefits involved and point to resources that can address challenges to adoption. This tool will form part of the CDEI\u2019s updated PETs adoption guide, which includes a use case repository, recently updated by the Open Data Institute (who can be contacted at pets@theodi.org for further information)."
+        },
+        {
+            "text": "By developing this tool, the CDEI and ICO hope to encourage wider adoption of PETs through understanding and addressing common challenges in implementation and highlighting the opportunities enabled by these technologies."
+        },
+        {
+            "text": "During an initial research phase to inform development of this tool, the CDEI conducted interviews with stakeholders from across the PETs ecosystem to understand the challenges of articulating the value and costs of PETs. We spoke to people working with a variety of PETs including homomorphic encryption, secure multi-party computation, differential privacy, synthetic data, federated learning/analytics, and trusted execution environments (TEEs).\u00a0"
+        },
+        {
+            "text": "Despite the wide range of technologies, similar themes emerged around the potential benefits of PETs for allowing organisations to extract additional value from data, improve ease of regulatory compliance, and risk reduction. Similarly, common concerns emerged around the cost of deploying PETs due to computing costs, regulatory uncertainty and challenges of procurement."
+        },
+        {
+            "text": "Two key findings from our interviews were:"
+        },
+        {
+            "text": "Organisations typically find out about or adopt PETs to solve a particular problem they are facing rather than knowing they want to deploy a specific PET. Our tool will aim to highlight the information flows PETs can enable (such as data access within an organisation, allowing internal data insights to be shared publicly, cross-border data collaboration) that apply to a variety of use cases and sectors.\u00a0"
+        },
+        {
+            "text": "Quantifying the costs and benefits of PETs can be useful for organisations to quickly understand the impact of adopting PETs. However, we also heard of the need to continue raising awareness of benefits of PETs that can\u2019t be easily quantified and developing a narrative for the potential uses of PETs beyond their current use cases."
+        },
+        {
+            "text": "As we start the next phase of this project, we are interested in engaging with private or public sector organisations who have adopted or chosen not to adopt PETs in the past or are currently considering adopting PETs and want to learn more. In particular, we would like to understand what factors influence(d) your decisions of whether or not to use PETs and what features would make a tool like this most useful. If you are interested in sharing your experiences or would like to receive further updates on this project, please get in touch with us at pets@cdei.gov.uk."
+        }
+    ]
+}
