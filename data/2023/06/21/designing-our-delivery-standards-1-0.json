@@ -1,0 +1,137 @@
+{
+    "url": "https://dwpdigital.blog.gov.uk/2023/06/21/designing-our-delivery-standards-1-0/",
+    "title": "Designing our delivery standards 1.0",
+    "authors": [
+        "Barry Traish"
+    ],
+    "categories": [
+        "Agile development",
+        "Digital Delivery",
+        "Digital With Purpose"
+    ],
+    "pub_date": "2023-06-21T11:11:27+01:00",
+    "content": [
+        {
+            "text": "Service and project delivery is about solving problems and helping teams work together to get things done. Delivery can be done in lots of different ways, and needs to be tailored to the product, the team delivering it, and the organisation they work in. Some teams work better using agile methodology, some prefer waterfall, and others can use a blended approach.\u00a0"
+        },
+        {
+            "text": "Our delivery colleagues have created a set of standards that give us a shared understanding of delivery across the organisation. Head of agile delivery, Barry Traish, outlines the standards and suggests ways you can apply them to your own projects.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Use the most appropriate delivery method\u00a0"
+        },
+        {
+            "text": "Agile is the go-to methodology for many people involved in delivery, but is it always the right way to approach a problem? You need a deep understanding of whether a problem is \u2018complicated\u2019 or \u2018complex\u2019, and whether you need to learn and adapt as you go.\u00a0"
+        },
+        {
+            "text": "In the Cynefin framework, a problem is \u2018complicated\u2019 when you know the solution up front, its requirements are unlikely to change, and you\u2019ve done similar things before. A problem is \u2018complex\u2019 when the solution is unknown, requirements are unclear, or they\u2019re subject to change.\u00a0"
+        },
+        {
+            "text": "It\u2019s important to choose the right approach to ensure you understand the problem and that the right thing is delivered, at the right time, cost and quality. Different types of problems need different approaches.\u00a0"
+        },
+        {
+            "text": "Most problems we face in DWP Digital are complex, because the world we live in is inherently Volatile, Uncertain, Complex and Ambiguous (VUCA). But if we have high confidence in what we will deliver then agile is an unnecessary overhead.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Continuously improve your ways of working and delivery outcomes\u00a0"
+        },
+        {
+            "text": "Your team should take regular opportunities to reflect on and adapt their ways of working throughout the life of the delivery. Team health checks, sprint retrospectives and lessons learned help you do this.\u00a0"
+        },
+        {
+            "text": "Team health checks give you empirical data that help you understand and improve how the team is feeling and working. They also give you a balanced assessment on the effectiveness of a team and how they can deliver.\u00a0"
+        },
+        {
+            "text": "There is no single way to run a retrospective, and there are many resources with ideas and advice, but there are some common principles. They should always generate a small number of actions, which are completed and visibly tracked.\u00a0"
+        },
+        {
+            "text": "Retrospectives should be done regularly \u2013 no less than once every four weeks. Not doing regular retros is a serious indicator of poor team health.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Deliver value early\u00a0"
+        },
+        {
+            "text": "Everyone in the team should understand the value of what they are working on, including how we measure value. They should have a clear purpose and direction, with an understanding of how their work connects to the aims of the delivery.\u00a0\u00a0"
+        },
+        {
+            "text": "Put a working product in front of your customers as early as possible, as part of a phased delivery approach. This significantly lowers delivery risk and increases confidence. In agile, this may be through prototyping, Minimum Viable Products and iteration. In waterfall, it\u2019s done through sharing designs and phasing deliverables.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Work in the open\u00a0"
+        },
+        {
+            "text": "Transparency builds trust. Collaborate by being open, honest and transparent, constantly collaborating with your stakeholders, and regularly demonstrate progress towards your shared outcomes.\u00a0"
+        },
+        {
+            "text": "Consider embedding a stakeholder representative in your team. Be realistic about both forecasts and progress \u2013 agreeing to arbitrary deadlines, reporting optimistically and then having to reset baselines helps nobody.\u00a0"
+        },
+        {
+            "text": "Within the team, draw up a team charter to create a shared understanding of your team\u2019s working principles, and your commitment to each other.\u00a0"
+        },
+        {
+            "text": "Values are a core part of a culture. When people understand and live within shared values, they gain psychological safety, and the culture is conducive to teamwork and collaboration.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Understand your pace of delivery so you can deliver predictably\u00a0"
+        },
+        {
+            "text": "You should plan and forecast regularly, so you can set realistic expectations which you review, adjust and communicate, reflecting the pace and reality of delivery.\u00a0"
+        },
+        {
+            "text": "To do this, you need to set measures, and have access to your measurement data. Measuring progress and performance can:\u00a0"
+        },
+        {
+            "text": "Taking a data-driven approach to delivery removes subjectivity from planning and improves the quality of decision making. Data can be persuasive, help inform priorities and provide assurance.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Manage your risks and dependencies\u00a0"
+        },
+        {
+            "text": "First, understand your risk appetite, then recognise that risk management is big. It takes time and skill to understand risk types and develop a risk strategy.\u00a0"
+        },
+        {
+            "text": "Aim to have a continuous cycle of identifying, reviewing and acting on risks and dependencies. This helps you to mitigate, remove, reduce, and accept risks and dependencies.\u00a0"
+        },
+        {
+            "text": "A risk could derail your delivery, so you need to recognise, monitor, and mitigate against it. If it isn\u2019t managed, it\u2019s likely to become an \u2018Issue\u2019 which will impact the delivery of your project. Remember, early delivery and transparency reduce risk.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Apply appropriate governance\u00a0"
+        },
+        {
+            "text": "Governance is like the brakes on a car \u2013 without them you\u2019d drive very slowly. Apply governance proportionately, recognising its need outside the team, building relationships to ensure efficient compliance.\u00a0\u00a0"
+        },
+        {
+            "text": "Governance will help you:\u00a0"
+        },
+        {
+            "text": "You may not get excited by it, but you should understand the context of governance, and challenge or adapt where appropriate.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Champion the technical fundamentals\u00a0"
+        },
+        {
+            "text": "Attention to technical excellence and good design enhances and enables fast, high quality, user-centric, valuable, predictable delivery. Not everyone needs to be an expert in all these things, but make sure you\u2019re considering them and using them to deliver better.\u00a0"
+        },
+        {
+            "text": "Use technical practices such as test automation, CICD pipelines, test driven design, cloud engineering, microservice architecture, DevOps, alerting, YAGNI and minimise tech debt.\u00a0\u00a0"
+        },
+        {
+            "text": "Use product and design practices such as accessible design, design thinking, prototyping, roadmaps, value stream mapping and user centred design.\u00a0"
+        },
+        {
+            "text": "Whatever your methodology, sticking to these principles will help you deliver effectively and develop your own understanding and expertise in delivering complex projects.\u00a0"
+        },
+        {
+            "text": "To summarise:\u00a0"
+        }
+    ]
+}
