@@ -1,0 +1,105 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/06/22/experiments-in-service-assessments/",
+    "title": "Experiments in Service Assessments",
+    "authors": [
+        "Susan McFarland-Lyons"
+    ],
+    "categories": [
+        "Service Assessments"
+    ],
+    "pub_date": "2023-06-22T11:30:26+01:00",
+    "content": [
+        {
+            "text": "If you haven\u2019t heard of the Government Service Standard, well you have now. Those of us in the business of building digital products and services in the public sector use this framework to make sure we create the right thing, in the right way. And we have periodic \u2018service assessments\u2019 where advice is offered to help teams build better, and to provide assurance to everyone that all is indeed progressing to a sufficient standard.\u00a0"
+        },
+        {
+            "text": "An assessment features a panel of our peers and comprises three parts: learning about the thing being assessed; asking questions of the delivery team; and providing recommendations. The usual format of assessments at the Ministry of Justice (MoJ) has converged on:\u00a0"
+        },
+        {
+            "text": "\u201cThat\u2019s how we\u2019ve always done it!\u201d is due a challenge so, over the last couple of months, we\u2019ve been experimenting with the formula for three different assessments. The MoJ\u2019s strategic theme \u2018We must be led by users\u2019 dovetails nicely with the first point of the service standard, \u2018Understand users and their needs\u2019. It would be a sorry - and somewhat ironic - day if we in the Standards team were not talking to our users. We\u2019ve spoken to multiple service owners, delivery teams, and assessors alike and have arrived at experiments that test how nudges and tweaks to the assessment format can help teams build better.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "More advance information\u00a0"
+        },
+        {
+            "text": "In the existing format, assessors are faced with a deluge of information at the beginning of a 4 hour agenda and are expected to devise incisive questions on the hoof. We thought that if assessors had more time to cogitate and understand the service then they would have better conversations with teams about their work. This proved to be the case.\u00a0"
+        },
+        {
+            "text": "Assessors were given advance access to demos, wires, test environments, previous assessment reports or the latest show and tell so they could learn about the service before the assessment. When information did come late in the day, this was keenly felt by assessors.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Limited pre-calls"
+        },
+        {
+            "text": "Calls before the assessment day between a team member and assessor from the same discipline have become the norm at the MoJ. They have morphed into mini, siloed assessments that are in danger of eclipsing the main event. While assessors must comprehend a service if they are to ask insightful questions, we should be cognizant of when enough is \u2018good-enough\u2019.\u00a0"
+        },
+        {
+            "text": "The first experiment had no pre-calls at all, however, we learned that one is warranted for tech, as the rest of the audience doesn\u2019t have much to add to conversations about Kubernetes.\u00a0"
+        },
+        {
+            "text": "Once, we had a pre-call solely to introduce the panel to the team. It achieved its aim of reducing the fear factor but it was later mooted that a similar effect could be achieved more conveniently on Slack."
+        },
+        {
+            "heading": 3,
+            "text": "Breakout huddles"
+        },
+        {
+            "text": "The biggest innovation we trialled was introducing huddles to the agenda, where an assessor and team member from a similar discipline break out for a deep dive into their area of expertise. The informality of the huddles was welcome and assessors felt they were able to get into the weeds more. However, it turns out one huddle for design and user research is unwieldy and rations air time for each, which leads to more than usual follow-up questions. And, while the huddles were intended to be a free-flowing conversation, many would have preferred a structure e.g. discussions directed to particular points of the standard."
+        },
+        {
+            "text": "When huddles were a relatively short 45 mins, there was a perception that a decent discussion was compromised. But at a longer 75 mins, assessors felt they were restricted to advising on their own disciplines and developed a little FOMO."
+        },
+        {
+            "text": "There are still legs in huddles but we need to nudge and tweak a little more."
+        },
+        {
+            "heading": 3,
+            "text": "Panel-only huddle"
+        },
+        {
+            "text": "A huddle of only assessors was introduced after the team\u2019s presentation and before the Q&A as, in the current format, assessors had to come up with questions on the spot and in isolation. A more holistic vantage point was missing. This panel huddle worked really well as assessors could fill in gaps in each other\u2019s memories or interpretations and confer on where to focus their questions. At 30 to 40 mins, this did not feel rushed and certainly gave more structure to the ensuing Q&A. At the same time, it afforded the team a welcome breather after their presentation."
+        },
+        {
+            "heading": 3,
+            "text": "Shorter agenda on the day"
+        },
+        {
+            "text": "A typical assessment at the MoJ is 4 hours. It\u2019s a herculean task to find a spare half-day in diaries plus it makes for a tiring afternoon on Zoom. One experiment really sliced the time down to 2.5 hours but, after an hour\u2019s team presentation, assessors weren\u2019t able to have a good enough conversation in the remaining time. Hence more than usual follow-up questions that needed to be juggled with day jobs amid context-switching.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Slack and team charter"
+        },
+        {
+            "text": "Sometimes tech drives change rather than enables it. So it is with Slack. We made use of Slack in ways that proved fruitful, and have ideas for its continued use:"
+        },
+        {
+            "text": "Though Slack is available 24/7, assessors are not. Assessing is a voluntary role and, however rewarding they personally find them, assessors also have day jobs and cannot devote themselves entirely to the task at hand. It struck me that something akin to a social charter co-created by teams and panels might be a worthy pursuit.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Time is not always on our side with assessments. We don\u2019t want to devalue the discursive aspects of assessments but are there ways we can make them more nimble, and reduce the load on all concerned?\u00a0"
+        },
+        {
+            "text": "One way is to shift the balance from push to pull styles of communication. If we provide information in a flexible way, people will be able to consume it at a time that is convenient. Within that context, at our next assessment the team is recording their presentation and demo in advance so panel members can watch and cogitate at their leisure. The day before the assessment, the panel will huddle to agree areas for exploration. We may even share these thoughts with the team so they can start considering them.\u00a0"
+        },
+        {
+            "text": "Additional benefits are fewer nerves on the day as the team\u2019s presentation is done and dusted; plus we\u2019re eliminating the possibility of overruns; and it\u2019s easier to find 2 or 3 hours in 15 people\u2019s diaries than 4 hours."
+        },
+        {
+            "heading": 3,
+            "text": "And beyond"
+        },
+        {
+            "text": "There remain numerous ways for assessors to learn about a service, ask questions about a service and provide recommendations to a team. The insights we\u2019ve gleaned from these experiments have driven changes in assessments for the better.\u00a0"
+        },
+        {
+            "text": "We haven\u2019t yet touched on continuous assessments, self-assessments, lighter weight discoveries, reconsidering met or not, ties to spend controls, etc. As long as we focus on what matters (offering advice that helps teams build better; and providing assurance that things are progressing well), the way we achieve that can evolve. An ongoing, multidisciplinary dialogue with teams, assessors and stakeholders is critical in building an assessment service that meets the needs of our users."
+        }
+    ]
+}
