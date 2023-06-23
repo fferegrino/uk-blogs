@@ -1,0 +1,65 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/06/23/unlocking-the-power-of-low-code-in-defra/",
+    "title": "Unlocking the power of low code in Defra",
+    "authors": [
+        "Emma Shaw"
+    ],
+    "categories": [
+        "Defra digital",
+        "User centred design"
+    ],
+    "pub_date": "2023-06-23T07:30:59+01:00",
+    "content": [
+        {
+            "text": "Emma Shaw, Lead Product Manager for Power Platform in Defra, reflects on her team\u2019s journey to unlock the power of low code and enable the business to build their own apps and automations, driving efficiencies and expediting digital transformation across the group."
+        },
+        {
+            "text": "Low code tools have been a big trend in technology for some time now and many government departments are starting to make use of them for a variety of big business benefits."
+        },
+        {
+            "text": "The unique selling point of these tools is that you can build business applications, visualisations, and workflows without the need for code. This means that anyone can learn to build and deliver solutions on them quite quickly, expediting digital transformation at (generally) a much lower cost than building from scratch."
+        },
+        {
+            "heading": 2,
+            "text": "The power of the platform"
+        },
+        {
+            "text": "In Defra I manage a set of tools that form part of Microsoft 365 called the Power Platform. In this blog I\u2019m going to focus on the work we have done around two of these tools:"
+        },
+        {
+            "heading": 2,
+            "text": "Anyone can have a go"
+        },
+        {
+            "text": "In Defra, we\u2019ve been lucky in that our keen citizen developers (we define a citizen developer as a staff member who is not a developer by profession) showed early on how much value could be driven by allowing them to build solutions using the toolset."
+        },
+        {
+            "text": "However, alongside this we also had the challenge that many users were misunderstanding what the tools were for or developing critical applications without the oversight of IT and appropriate support."
+        },
+        {
+            "text": "We also had a whole bunch of risks and fears, particularly raised by our senior leadership teams who had been burned by the organisation\u2019s reliance on grey IT (unsupported technology, often built without any input from IT) in the past, and the lack of governance around this."
+        },
+        {
+            "text": "To combat this challenge, we undertook user research (to understand who was building what and why, and the main problems with current delivery processes and guidance), and we worked with suppliers and partners (to understand best practice and be linked to other organisations who had been through this journey already)."
+        },
+        {
+            "text": "In addition we conducted extensive research into \u2018what good looks like\u2019 when it comes to enabling citizen developers to build low code apps and automations within an acceptable governance framework."
+        },
+        {
+            "heading": 2,
+            "text": "We still needed a vision though"
+        },
+        {
+            "text": "Through this work, I built a vision for us to work towards, encompassing a few key areas:"
+        },
+        {
+            "text": "On top of this I wanted to ensure we remained user centric throughout (testing and ensuring we got feedback at each stage) and work in partnership with our suppliers to ensure we enhanced our knowledge and capability along the way, so we\u2019re fit for the future."
+        },
+        {
+            "text": "Almost 18 months later and we now have around 50 citizen developed applications in production (and many more in development), with our most common use cases being case and task management and many of these replacing existing legacy systems from spreadsheets to Access databases."
+        },
+        {
+            "text": "We also have around 1,100 Power Automate flows that are in use by our citizen developers and are currently working on a live benefits tracking dashboard to capture benefits in real time to prove the efficiency savings the tool is offering. We now have a thriving community of 400 citizen developers (which has grown 400% in 12 months!) who are supporting each other on the journey, encouraging business ownership of solutions and taking some of strain of support away from IT."
+        }
+    ]
+}
