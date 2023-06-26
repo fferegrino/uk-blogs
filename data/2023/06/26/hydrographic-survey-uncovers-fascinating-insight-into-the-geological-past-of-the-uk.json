@@ -1,0 +1,161 @@
+{
+    "url": "https://ukhodigital.blog.gov.uk/2023/06/26/hydrographic-survey-uncovers-fascinating-insight-into-the-geological-past-of-the-uk/",
+    "title": "Hydrographic survey uncovers fascinating insight into the geological past of the UK",
+    "authors": [
+        "Laurence Dyke"
+    ],
+    "categories": [
+        "Data Science"
+    ],
+    "pub_date": "2023-06-26T16:00:53+01:00",
+    "content": [
+        {
+            "text": "Part of a series of data sets collected in the Irish Sea, off North Wales, under the Civil Hydrography Programme (CHP) has given us a fantastic insight into the geological past of the UK."
+        },
+        {
+            "text": "The CHP is a long-running data collection programme undertaking systematic surveys of the UK\u2019s coastal waters. Administered by the\u00a0Maritime and Coastguard Agency (MCA), experts at the UKHO provide technical oversight and data validation. This data is used to update the nation\u2019s nautical charts and publications to ensure they remain current, safe and fit for purpose."
+        },
+        {
+            "text": "Collecting high-quality data provides information that can be used for much more than Safety of Life at Sea \u2013 as UKHO Geospatial Information Specialist Laurence Dyke discovered when analysing the data sets collected off North Wales in the Irish Sea."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "Location of HI1706 overlaid on Chart 1121: Irish Sea with Saint George\u2019s Channel and North Channel. Image credit: The MCA and the UKHO (2022)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "British-Irish Ice Sheet"
+        },
+        {
+            "text": "Laurence and the Scientific Analysis Group at the UKHO discovered a series of remarkably well-preserved landforms left by huge glaciers during the last glaciation. Global cooling at the start of the last glaciation allowed embryonic glaciers to form over high ground across Great Britain and Ireland. As conditions cooled, glaciers continued to grow, coalescing and flowing radially outwards, away from the mountains and across the lowlands and continental shelf to form the British-Irish Ice Sheet. Around 27,000 years ago, the ice sheet covered an area of 840,00 km2 and contained enough ice to raise global sea levels by 1.8 m(1)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "The present-day Greenland Ice Sheet with protruding nunataks. An analogue for the British-Irish Ice Sheet 27,000 years ago. Image credit: Laurence Dyke (2015)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The British-Irish Ice Sheet stretched from the Isles of Scilly to the Shetland Islands, and flowed out to the continental shelf edge along its entire western flank(2). In the east, the British-Irish Ice Sheet was confluent with the vast Fennoscandian Ice Sheet, with glaciers flowing from this saddle down the North Sea and reaching the coast of Norfolk(2)."
+        },
+        {
+            "text": "The ice sheet inundated Great Britain and Ireland with glacial ice several kilometres thick and was characterised by dendritic, or tree-like, ice flow(3). Several very large glaciers, known as ice streams, drained ice from the mountainous areas down to the ocean, calving icebergs into the Atlantic. These huge marine-terminating outlet glaciers flowed at speeds of several kilometres a year, analogous to the largest glaciers in present-day Greenland and Antarctica(3)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "The evolution of the British-Irish Ice Sheet through the last glaciation. Image credit: BRITICE-CHRONO Project/Chris Clark (2022)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The largest ice stream flowed southwards through\u00a0the Irish Sea, draining more than 17% of the ice sheet(4) including ice from source areas in the Galloway Hills, the Lake District, Snowdonia, the Cambrian Mountains, and the Wicklow Mountains. Fast and erosive ice flowed through the Irish Sea basin and into the Celtic Sea, extending to the shelf edge south of 49\u00b0N, roughly level with northern Brittany(5)."
+        },
+        {
+            "heading": 2,
+            "text": "Subglacial landforms show extensive field of drumlins"
+        },
+        {
+            "text": "The recent hydrographic survey data collected from the seabed in the centre of the Irish Sea shows a remarkably well-preserved suite of subglacial landforms; features formed by the bed of the glacier as it flowed over sediments and bedrock in the area."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "Extensive drumlin field in the centre of the Irish Sea. Large erratic boulders and eroded bedrock ridges are also visible in the data. The former direction of ice flow was from northeast to southwest. Image credit: UKHO (2022)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Arguably the most impressive subglacial landform in the newly surveyed area is the extensive field of drumlins. These mounds of glacial sediment can be tens of metres high and hundreds of metres long, and are generally elongated in the direction of ice flow. In profile, drumlins often have a blunt upstream or \u2018stoss\u2019 side, and a tapered downstream or \u2018lee\u2019 side. Drumlins only form beneath thick, fast-flowing ice. Their presence indicates that the Irish Sea Ice Stream was over 1000 m thick here and was flowing at speeds of several kilometres a year when these features were created."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "Drumlins and ribbed moraines in the centre of the Irish Sea. The transition between the two landforms is subtle; ribbed moraines are well-developed in the shallower areas in the east, while drumlins dominate the deeper western areas. Image credit: UKHO (2022)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "A little further to the south, closer to land, there is a gradual transition from drumlins to linear ridges of sediment that are aligned perpendicular to the ice flow direction. These ridges are ribbed moraines(4), also known as \u2018Rogen moraines\u2019 after the spectacular example found around Lake Rogen in Sweden. The origin of both drumlins and ribbed moraines have been hotly debated, but it is now generally accepted that these features are part of a continuum of subglacial landforms, formed by pattern-forming instabilities as glacial ice, and deformable layers of underlying sediment, behave like fluids during glacier flow."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "Aerial photo of well-preserved ribbed moraines (Rogen moraines), Lake Rogen, Sweden. Image credit: Laurence Dyke (2019)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Ice retreated from the area around 20,000 years ago"
+        },
+        {
+            "text": "There are also numerous moraines visible throughout the survey area. The most prominent, and best preserved, are in the north of the survey area. These are likely recessional moraines, marking still-stands or brief pauses of the glacier front during general retreat at the end of the last ice age. They indicate that as ice retreated from this area around 20,000 years ago, it was still grounded, or in contact with the seabed, and the glacier system had not thinned enough to float."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "The sinuous ridges in the centre of the image are likely recessional moraines. Note the submarine cable in the east and west of the image and lineations of streamlined bedrock showing the direction of previous former flow. Image credit: UKHO (2022)."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "There are a myriad of other interesting features to be found within the data from this new survey, including glacial erratic boulders, mega-scale glacial lineations, flutes, and even a possible large esker system. Glacial features across Great Britain and Ireland have been extensively mapped over the past 150 years, and the history of the British-Irish Ice Sheet is better understood than anywhere else on Earth. However, there are still plenty of areas for further research, and this new data may help resolve some of them. In time, surveys like this will be fully analysed by glacial geomorphologists and added to maps of ice sheet landforms."
+        },
+        {
+            "text": "It is possible to explore the latest glacial maps of Great Britain and Ireland and even to download the data. These are available through the BRITICE-CHRONO project(3)"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 5,
+            "text": "References:"
+        },
+        {
+            "heading": 5,
+            "text": "(1) Clark, C. D., Ely, J. C., Hindmarsh, R. C. A., Bradley, S., Ign\u00e9czi, A., Fabel, D., \u00d3 Cofaigh, C., Chiverrell, R. C., Scourse, J., Benetti, S., Bradwell, T., Evans, D. J. A., Roberts, D. H., Burke, M., Callard, S. L., Medialdea, A., Saher, M., Small, D., Smedley, R. K., Gasson, E., Gregoire, L., Gandy, N., Hughes, A. L. C., Ballantyne, C., Bateman, M. D., Bigg, G. R., Doole, J., Dove, D., Duller, G. A. T., Jenkins, G. T. H., Livingstone, S. L., McCarron, S., Moreton, S., Pollard, D., Praeg, D., Sejrup, H. P., Van Landeghem, K. J. J. and Wilson, P. (2022) Growth and retreat of the last British\u2013Irish Ice Sheet, 31\u2009000 to 15\u2009000\u2009years ago: the BRITICE-CHRONO reconstruction. Boreas, 51: 699\u2013758. https://doi.org/10.1111/bor.12594"
+        },
+        {
+            "heading": 5,
+            "text": "(2) Clark, C. D., Hughes, A. L. C., Greenwood, S. L., Jordan, C. J. and Sejrup, H. P. (2012) Pattern and timing of retreat of the last British-Irish Ice Sheet. Quaternary Science Reviews, 44: 112\u2013146. https://doi.org/10.1016/j.quascirev.2010.07.019."
+        },
+        {
+            "heading": 5,
+            "text": "(3) Clark, C. D., Ely, J. C., Greenwood, S. L., Hughes, A. L. C., Meehan, R., Barr, I. D., Bateman, M. D., Bradwell, T., Doole, J., Evans, D. J. A., Jordan, C. J., Monteys, X., Pellicer, X. M. and Sheehy, M. (2017) BRITICE Glacial Map, version 2: A map and GIS database of glacial landforms of the last British-Irish Ice Sheet. Boreas, 47: 11\u201327. https://doi.org/10.1111/bor.12273."
+        },
+        {
+            "heading": 5,
+            "text": "(4) Van Landeghem, K. J. J., and Chiverrell, R. C. (2020) Bed erosion during fast ice streaming regulated the retreat dynamics of the Irish Sea Ice Stream. Quaternary Science Reviews, 245 (106526). https://doi.org/10.1016/j.quascirev.2020.106526."
+        },
+        {
+            "heading": 5,
+            "text": "(5) Scourse, J., Saher, M., Van Landeghem, K. J. J., Lockhart, E., Purcell, C., Callard, L., Roseby, Z., Allinson, B., Pie\u0144kowski, A. J., O'Cofaigh, C., Praeg, D., Ward, S., Chiverrell, R., Moreton, S., Fabel, D., and Clark, C. D. (2019) Advance and retreat of the marine-terminating Irish Sea Ice Stream into the Celtic Sea during the Last Glacial: Timing and maximum extent. Marine Geology, 412: 53\u201368. https://doi.org/10.1016/j.margeo.2019.03.003."
+        }
+    ]
+}
