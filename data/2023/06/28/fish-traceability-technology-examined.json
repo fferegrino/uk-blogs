@@ -1,0 +1,70 @@
+{
+    "url": "https://marinedevelopments.blog.gov.uk/2023/06/28/fish-traceability-technology-examined/",
+    "title": "Fish traceability technology examined",
+    "authors": [
+        "Sean Haran, MMO"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2023-06-28T16:21:31+01:00",
+    "content": [
+        {
+            "text": "Marine Management Organisation (MMO) is keen to investigate technological advances that can improve consumer confidence in seafood products while also \u00a0reducing administration \u00a0for fishers, merchants, processors and retailers."
+        },
+        {
+            "text": "Being able to trace consignments of commercially caught fish is critical to assuring the produce has been caught, sold and handled in line with regulations designed to protect the sea from overfishing - and fish eaters from consuming sub-standard products."
+        },
+        {
+            "text": "As a future-focused organisation, MMO commissioned a project last year to investigate end-to-end traceability technology to track seafood and data through supply chains \u2013 all the way from sea to net to plate, including processing stages, transfers and storage."
+        },
+        {
+            "text": "In May 2023, local industry were invited to join MMO staff at our Brixham office to watch a demonstration of prototype technology created by tech company, AVS, for this project."
+        },
+        {
+            "text": "Two different techniques were demonstrated for traceability."
+        },
+        {
+            "text": "QR Codes"
+        },
+        {
+            "text": "Firstly, the software was used alongside a system of QR codes to be attached to fish boxes at each stage in the supply chain."
+        },
+        {
+            "text": "The QR codes can be printed on to waterproof labels using a relatively inexpensive printer."
+        },
+        {
+            "text": "\u00a0 \u00a0 "
+        },
+        {
+            "text": "The QR codes are easily readable using a mobile phone camera. If the fish are transferred to a different box, the information on the QR code can be read and then reprinted on to another QR code label along with additional traceability data."
+        },
+        {
+            "text": "RFID tags"
+        },
+        {
+            "text": "The next part of the demonstration focused on Radio Frequency Identification (RFID) tags. This technique requires more specialised equipment to read and write the data onto the tags."
+        },
+        {
+            "text": "An RFID tag is scanned on an RFID tag reader/writer device and the data entered into the software is written onto the tag. This tag is then attached to a fish box and can be scanned using an RFID reader at any point in the supply chain. Each time a tag is scanned, it registers as a new transaction and the additional information is recorded onto the tag, including where the tag was scanned and the date/time it occurred."
+        },
+        {
+            "text": "If the fish are transferred to a different box during grading or sale, the data from the original RFID tag is written onto a new tag, so all the previous information is retained in addition to the new tracking information from the new owner."
+        },
+        {
+            "text": "The link between the original and new tag is always maintained so that all the traceability information is retained right the way though the supply chain."
+        },
+        {
+            "text": "Since an RFID tag holds a record of the box weight, when a portion of the contents are transferred elsewhere, the weight of fish that\u2019s been removed is subtracted from the total, so that the contents of the box are tracked at all times - even when the contents are split into multiple portions."
+        },
+        {
+            "text": "The demonstration in our Brixham office included the use of plastic fish in boxes as a visual aid to follow the process and show how it could be used in the seafood industry."
+        },
+        {
+            "text": "This demonstration showed how scanning gates could automatically detect the RFID tags as they passed through, demonstrating how fish consignments could be tracked automatically as they passed through a merchant or processing facility."
+        },
+        {
+            "text": "Chris Graham, Senior Evidence Specialist at MMO, said:"
+        }
+    ]
+}
