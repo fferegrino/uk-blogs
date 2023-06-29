@@ -1,0 +1,107 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2023/06/29/being-a-software-developer-at-dluhc/",
+    "title": "Being a Software Developer at DLUHC",
+    "authors": [
+        "Gideon Goldberg"
+    ],
+    "categories": [
+        "DDAT Careers",
+        "Funding service design",
+        "Technology"
+    ],
+    "pub_date": "2023-06-29T16:23:00+01:00",
+    "content": [
+        {
+            "text": "Hi, I\u2019m Gideon, Lead Developer at the Department for Levelling Up, Housing and Communities (DLUHC). Our digital teams are growing, and we have great job opportunities nationwide for a range of roles including:"
+        },
+        {
+            "text": "Lead Software Developer"
+        },
+        {
+            "text": "Software Developer"
+        },
+        {
+            "text": "Junior Software Developer"
+        },
+        {
+            "text": "In this blog, I\u2019d like to tell you more about my experience of working at DLUHC since joining the department in 2022."
+        },
+        {
+            "heading": 3,
+            "text": "What I\u2019m working on"
+        },
+        {
+            "text": "I work on Funding Service Design. Our mission is to transform the way DLUHC delivers funding to communities across the UK. You can read about our team\u2019s progress and recent milestones in this blog.\u00a0"
+        },
+        {
+            "text": "So far, we\u2019ve improved the experience for applicants by providing modern, accessible, web forms; following GOV.UK standards which organisations can use to apply for funding. We\u2019ve designed this as a platform called \u2018Access Funding\u2019 which makes it possible to have multiple application forms running on our system simultaneously and share functionality between them. We have also built an Assessment microservice to let assessors from government departments and external organisations collaborate to score and shortlist applications for funding.\u00a0"
+        },
+        {
+            "text": "We continue to work on tackling different parts of the funding lifecycle and have recently launched a private beta called Find Monitoring Data which will be used internally in DLUHC to assess the progress of projects which have been awarded funding.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Our team set up"
+        },
+        {
+            "text": "We are split into sub-teams focussing on different parts of the funding lifecycle, currently \u2018Application\u2019, \u2018Assessment\u2019 and \u2018Post-Award\u2019. Each team is multidisciplinary and has access to all the skills needed to deliver an end-to-end service, including User Centred Design roles such as User Researchers, Content Designers and Interaction Designers alongside technical roles including Developers, QA and DevOps specialists. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Our tech stack\u00a0"
+        },
+        {
+            "text": "We primarily use Python for our microservices, using the Flask and SQLAlchemy frameworks. We also forked the X-Gov digital-form-builder for our applicant facing forms which is TypeScript based and lets us rapidly prototype and deploy forms. We work in the open and our code is public on GitHub.\u00a0"
+        },
+        {
+            "text": "On the infrastructure side we\u2019re currently in the process of migrating from GOV.UK PaaS to AWS and are currently using a mixture of Terraform and AWS Copilot for this. We have a mixed technology platforms across DLUHC and other teams use languages including Ruby and Java."
+        },
+        {
+            "heading": 3,
+            "text": "The problems we solve"
+        },
+        {
+            "text": "From DLUHC\u2019s side we\u2019re really trying to create efficiencies by building a platform that new funds can easily use, rather than each fund inventing its own (often very manual) process. For external organisations who want access to government funding, the process to submit information to DLUHC is designed be quicker and simpler. Organisations that access more than one type of funding should, as more funds use the same platform, get a more consistent user experience across multiple funds. This also means that, when we improve our services, these are picked up by all funds on the platform.\u00a0"
+        },
+        {
+            "text": "It\u2019s been so rewarding to see positive feedback. For example, one user got in touch unprompted to say how they found the application process so much more accessible and straightforward using our service compared with previous funding applications.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How we work together"
+        },
+        {
+            "text": "My team is a mix of civil servants and agency staff based across the UK, and we work predominantly remotely as a virtual team as part of a hybrid working model. We use agile ceremonies and tools like Slack to keep in contact. That said, we have regular team \u2018away days\u2019 to get together in person and get to know each other whilst working on interesting problems and prototyping new ideas.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How I got interested in joining DLUHC"
+        },
+        {
+            "text": "I was previously at the Government Digital Service during which time I did a year on secondment at the National Lottery Heritage Fund. This experience got me interested in the funding space, so this role was a great way to build on that and develop my career."
+        },
+        {
+            "heading": 3,
+            "text": "How I learn"
+        },
+        {
+            "text": "I\u2019ve attended PyCon UK, have done AWS Advanced Developer Training, and there is a growing mix of tailored training currently being developed for people in similar roles. I'm also participating in our nascent DLUHC Technology Community of Practice where I can get cross departmental perspectives and exchange ideas."
+        },
+        {
+            "heading": 3,
+            "text": "Things I like the most in my role"
+        },
+        {
+            "text": "As a team, we support each other to deliver our best work, and because we are tackling problems in a modular fashion using microservices we\u2019re able to get services live, iterate rapidly and really see the impact our work is having on applicants, grant recipients as well as on our internal teams.\u00a0 \u00a0"
+        },
+        {
+            "text": "As someone who talks openly about my disability DLUHC has also put in place workplace adjustments to support me in the role."
+        },
+        {
+            "text": "I really value the work-life balance that DLUHC offers and I\u2019m able to use the generous volunteering allowance of 6 days per year to visit schools and help students with employability skills."
+        },
+        {
+            "text": "You can find out more about our Software Developer career opportunities and all vacancies across DLUHC Digital on our job portal."
+        }
+    ]
+}
