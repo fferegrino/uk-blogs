@@ -1,0 +1,145 @@
+{
+    "url": "https://ruralpayments.blog.gov.uk/2023/06/30/how-to-fill-in-an-rle1-form/",
+    "title": "How to fill in an RLE1 form",
+    "authors": [
+        "RPA Editor"
+    ],
+    "categories": [
+        "Mapping"
+    ],
+    "pub_date": "2023-06-30T16:04:09+01:00",
+    "content": [
+        {
+            "text": "This is the first blog in a series about the RPA mapping process and how to carry out mapping-related tasks ahead of scheme applications. This blog will show you how to fill in the RLE1 form - electronically or on paper."
+        },
+        {
+            "text": "It's vital that you ensure your land details are up-to-date before you apply for Countryside Stewardship Mid Tier. This also applies to the Sustainable Farming Incentive (SFI). Land details shown on your digital maps in the\u00a0Rural Payments service\u00a0are used for several of the land-based schemes and that\u2019s why it\u2019s important to keep your mapping up to date."
+        },
+        {
+            "text": "The RPA RLE1 form enables you to make changes to your digital maps, register new land and transfer land."
+        },
+        {
+            "text": "Fill in your Single Business Identifier (SBI) and name of beneficiary or business name"
+        },
+        {
+            "text": "\u00a0If you want to use land to claim BPS at the same time as an agri-environment or woodland scheme applicant wants to use it, then it needs to remain linked to your SBI. To do this, write \u2018Dual use \u2013 maintain link to existing SBI\u2019 on the front page of the form. Make sure you enter \u2018(Keep link)\u2019 after the business name in section B2. If you\u2019re submitting your RLE1 by email, put \u2018RLE1 Land Change\u2019 and your SBI in the email subject heading."
+        },
+        {
+            "text": "You no longer have to fill in CPH numbers on the RLE1. However, there are Defra rules on the allocation of CPHs and British Cattle Movement Service (BCMS) links to land parcels for animal movements and disease control purposes."
+        },
+        {
+            "text": "Fill in Part B if you want to transfer\u00a0BPS\u00a0entitlements/land or remove land."
+        },
+        {
+            "text": "You don\u2019t need to fill in Part B and Part C if you only want to register new fields, make changes to permanent non-agricultural areas or features, make changes to your land covers or make permanent boundary changes to your land parcels. Fill in Part D to make land amendments."
+        },
+        {
+            "heading": 2,
+            "text": "Existing Field Data"
+        },
+        {
+            "text": "Form section: D1- OS map sheet reference and national grid number."
+        },
+        {
+            "text": "Fill in the OS map sheet reference and the National Grid number of the land parcel for which you\u2019re making the amendment. If registering a new parcel, D1 should be kept blank. The parcel ID will be entered into D6 on page 5."
+        },
+        {
+            "text": "Form section: D2 - Total field size in hectares."
+        },
+        {
+            "text": "Fill in the land parcel area, to four decimal places. If registering a new parcel, D2 should be kept blank. The estimated area of your new parcel will be entered into D7 on page 5."
+        },
+        {
+            "text": "Form section: D3 - Group. "
+        },
+        {
+            "text": "Use the group column to identify groups of parcels being amended together. Give your own two-digit number, for example, 01, 02 or 03, to act as a group code. In the example below, the two parcels that are being combined together as one parcel have been grouped into number 05."
+        },
+        {
+            "text": "Form section: D4 - Action code."
+        },
+        {
+            "text": "Fill in the action code \u2018N\u2019 for a new parcel."
+        },
+        {
+            "text": "Fill in the action code \u2018B\u2019 for a boundary change."
+        },
+        {
+            "text": "Fill in the action code \u2018D\u2019 for a dividing parcels."
+        },
+        {
+            "text": "Fill in the action code \u2018I\u2019 for a feature (land cover amendment)."
+        },
+        {
+            "text": "Fill in the action code \u2018C\u2019 for combining parcels."
+        },
+        {
+            "text": "Fill in the action code \u2018B\u2019 for a boundary feature change (hedge)."
+        },
+        {
+            "text": "Form section: D5 - Effective date of change."
+        },
+        {
+            "text": "Fill in the effective date of change, which is the date when you changed (or will change) the land parcel."
+        },
+        {
+            "text": "Form section: D6 - New Field Data"
+        },
+        {
+            "text": "((c) Crown Copyright and database rights 2023. Ordnance Survey 100022861.)"
+        },
+        {
+            "text": "New parcel - Fill in the OS map sheet reference and the National Grid (NG) number of the land parcel(s) you are adding."
+        },
+        {
+            "text": "Boundary change - Fill in the OS map sheet reference and NG number after the change. This may be the same as the old parcel ID, but you still need to complete this column. When RPA updates the land parcel in your digital map, the land parcel number may not be the same as your estimated number."
+        },
+        {
+            "text": "Division - Fill in the estimated new OS map sheet references and NG numbers of the land parcels once they have been divided. When RPA updates the land parcel in your digital map, the land parcel reference number may not be the same as your estimated numbers."
+        },
+        {
+            "text": "Land cover amendment - D6, D7, D8 and D9 should remain blank for this mapping request."
+        },
+        {
+            "text": "Combination - Fill in the estimated new OS map sheet reference and NG number of the land parcel once they are merged. When RPA updates the land parcel in your digital map, the land parcel reference number may not be the same as your estimated number."
+        },
+        {
+            "text": "Boundary feature change (hedge) - D6, D7, D8 & D9 should remain blank for this mapping request."
+        },
+        {
+            "text": "Form section: D7 \u2013 Total field size in hectares."
+        },
+        {
+            "text": "Fill in the total land parcel area in hectares, to four decimal places \u2013 your best estimate.\u00a0 When RPA updates the land parcel in your digital map, the land parcel area may not be the same as your estimated area."
+        },
+        {
+            "text": "Form section: D8 \u2013 Transfer this field."
+        },
+        {
+            "text": "This column is for removing or transferring land parcel(s). If you\u2019re not removing or transferring land, this column should remain blank."
+        },
+        {
+            "text": "Form section: D9 \u2013 CPH for the land parcel."
+        },
+        {
+            "text": "You no longer need to fill in CPH numbers, but it may be helpful."
+        },
+        {
+            "heading": 2,
+            "text": "Part E - Supporting documents"
+        },
+        {
+            "text": "If you\u2019re sending supporting documents with your RLE1, we need to know what you\u2019ve included. Please ignore Part E if you\u2019re not sending supporting documents."
+        },
+        {
+            "text": "Form section: E1 - Fill in the number of each type of supporting documents that you\u2019re sending to us. The following maps are acceptable supporting documents:"
+        },
+        {
+            "heading": 2,
+            "text": "Part F - Your declaration and responsibilities"
+        },
+        {
+            "text": "Please read the declaration and responsibilities carefully before signing the form. If you\u2019re sending us a paper RLE1, remember to:"
+        }
+    ]
+}
