@@ -1,0 +1,82 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2023/07/04/happy-lenders-happy-clients-harnessing-third-party-support/",
+    "title": "\u2018Happy lenders, happy clients\u2019: harnessing third-party support",
+    "authors": [
+        "Michelle Crouch, Customer Engagement and Development, Customer and Strategy Group"
+    ],
+    "categories": [
+        "Law and practice"
+    ],
+    "pub_date": "2023-07-04T15:24:31+01:00",
+    "content": [
+        {
+            "text": "Established in 2000, Simply Conveyancing has offices in Cardiff, Daventry, Peterborough and London, employing more than 300 staff in residential conveyancing services. The firm is among the top 1% of conveyancers by volume of applications submitted, currently around 500 per month, predominantly lodged via third-party software that connects directly to HM Land Registry\u2019s Application Programming Interfaces (APIs), or Business Gateway*."
+        },
+        {
+            "text": "Simply\u2019s Operations Manager, James Brewin, and Registrations Manager, Emma Pickerin, reveal how using connected software is helping to transform the firm, as well as saving time and money."
+        },
+        {
+            "text": "Emma: \u201cAlthough our registrations (post-completions) teams have always sought to get the most applications out of the door in the shortest time, we now really focus on quality as our driving force, which saves us more time in the long run."
+        },
+        {
+            "text": "\u201cWhen COVID struck, although we had the resources for homeworking in place, like many businesses in our industry and generally, staffing became a problem, as did the knock-on effects of other issues, such as procurement of Stamp Duty Land Tax (SDLT) certificates."
+        },
+        {
+            "text": "\u201cOur team in Daventry went from 10 to five members, with requisitions often sitting waiting for the time and resource to deal with them, so we called in a recruitment consultancy to help. Unfortunately, we found that this led to a drop in application quality and a rise in requisitions."
+        },
+        {
+            "text": "\u201cSo, we took a step back to really look into the types of requisition we were receiving and see if there were any points we could avoid at an earlier stage \u2013 like variations in names, incorrect or missing documents - and introduced regular reporting on application quality. This allowed us to identify key issues, such as training and lack of experience, and put measures in place."
+        },
+        {
+            "text": "\u201cWe ramped up training, as well as upskilling the team to make it technically self-sufficient. This means that if a requisition comes in, whether it\u2019s plan amends, discharges or chasing up a certificate, we have the capability to address it and reply much faster than we ever could before. And our lawyers rarely see a case again after handing it to the team."
+        },
+        {
+            "text": "\u201cWe\u2019ve been able to turn off outsourcing and now concentrate on in-house training. As well as operating a \u2018buddy\u2019 system, we use HMLR\u2019s materials: the How To guides are really useful \u2013 especially the YouTube video on DRS, and tips on reducing variations in names. Every time a new webinar comes online, we encourage colleagues to attend \u2013 we know the time out will benefit the company.\u201d"
+        },
+        {
+            "text": "But it\u2019s not all about training and experience."
+        },
+        {
+            "text": "James: \u201cWe also knew we couldn\u2019t get to where we wanted to be without a technical solution. We were quick to migrate to DRS and liked the checks it provides around fees and title numbers, for example, but we wanted a platform we could integrate into a bespoke system. For us, that\u2019s \u2018Business Gateway\u2019 connected software."
+        },
+        {
+            "text": "\u201cBy closely monitoring the background data on live submissions using Document Registration and DRS via portal, we were able to build our system to our own requirements, right down to telling us which application of several should be made first."
+        },
+        {
+            "text": "\u201cUsing connected software, we were able to add those DRS features we liked to our own case-management system (CMS), building in front-end safeguards. This has made us quicker and more efficient, as well as helping to drive up standards."
+        },
+        {
+            "text": "\u201cNinety-five per cent of our instructions are dealings [applications to update or amend, rather than create a register]. We know the first thing a caseworker will do is look at the basics, so we used \u2018reverse engineering\u2019 to develop a failsafe that overcomes the element of human error."
+        },
+        {
+            "text": "\u201cAs of now, 97% of submissions go through our own verification process, which double-checks basic details like party names and title numbers, eradicating errors at source. We log all requisitions and study the reports to see what further checks we can incorporate in our system, so we can confidently submit our applications as soon as the SDLT certificate drops in."
+        },
+        {
+            "text": "\u201cOne of our own in-house developers, Haydn Gleed, built our CMS integration with the help and guidance of our Head of Technology Change, Brinder Vijsir, and started live-testing it in October last year."
+        },
+        {
+            "text": "\u201cIn terms of implementation, we spoke to the team and kept them aware and informed throughout the development process. HMLR [HM Land Registry]\u2019s pre-integration support manager, Simon Devey, was very supportive in helping us code and test front-end validation processes and reviewing a few cases to prove the concept worked. We launched the new system to the whole team in November."
+        },
+        {
+            "text": "\u201cFor us, one of the key benefits of using connected software is speed. Using portal services, it took around twenty minutes to lodge an application. Once verified, it now takes on average seven minutes - a two-thirds saving! We also calculate that, taking out unavoidable omissions like compliance certificates and discharges, our requisition rate is down by 20% - so that\u2019s even more time saved."
+        },
+        {
+            "text": "\u201cFrom a business point of view, connected software can do everything we want it to. Our developers are constantly updating it: the next job, for instance, will be automatically renewing an application that HMLR has cancelled over a requisition we haven\u2019t received, perhaps because the case handler is on holiday."
+        },
+        {
+            "text": "\u201cBut it\u2019s not just a delivery mechanism for documents, and while saving time is a massive bonus, actually it\u2019s all about quality of applications. You only get one chance to lodge an application and we don\u2019t want to sacrifice quality. Harnessing information from the CMS to reduce requisition rates by 20% saves a lot more time in the long run."
+        },
+        {
+            "text": "\u201cUsing Business Gateway connected software, we get more completed registers back a lot quicker than we did, so both lenders and clients are happy.\u201d"
+        },
+        {
+            "text": "HM Land Registry\u2019s Simon Devey said: \u201cIt\u2019s been a pleasure working with Simply \u2013 their willingness to work with us throughout their integration journey has smoothed the development process and has definitely been a factor in their successful rollout of connected software.\u201d"
+        },
+        {
+            "text": "And a final word from me: \u201cIt is fantastic to work with Simply Conveyancing to support them with their drive to improve the quality of their applications through use of digital applications. We have a collaborative relationship which helps to deliver shared benefit and I am looking forward to seeing the continued positive impacts of their use of connected software.\""
+        },
+        {
+            "text": "*The Business Gateway Application Programming Interface (API) \u2013 connected software \u2013 allows customers to access HM Land Registry services from within their case-management systems and automate repetitive processes."
+        }
+    ]
+}
