@@ -1,0 +1,70 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2023/07/05/creating-a-place-for-data-analytics/",
+    "title": "Creating a place for data analytics",
+    "authors": [
+        "J.Driscoll"
+    ],
+    "categories": [
+        "Digital Foundry",
+        "Uncategorized"
+    ],
+    "pub_date": "2023-07-05T15:40:49+01:00",
+    "content": [
+        {
+            "text": "My name is Joe and I work within the Defence Digital Foundry\u2019s Data Analytics Service (DAS). These services are helping the Ministry of Defence (MOD) to make faster, better decisions to improve Defence outcomes using data.\u00a0"
+        },
+        {
+            "text": "One of the tools that DAS provides is the Defence Data Analytics Platform (DDAP)."
+        },
+        {
+            "text": "The DDAP is a secure data and analytics platform.\u00a0 It\u2019s the primary platform used by the Defence Artificial Intelligence Centre (DAIC) for data science experimentation and prototyping."
+        },
+        {
+            "text": "The DAIC have recently been using DDAP for experimenting and prototyping solutions which leverage the power of Large Language Models (LLM\u2019s), utilising the GPU resources available to accelerate their experimentation."
+        },
+        {
+            "text": "Beyond the DAIC, we have over 40 active use-cases on the DDAP across Defence - covering Air Command, Space Command, DE&S, DSTL and others - and around 6,000 end users. In this post I\u2019m going to talk about the DDAP and how Defence users can get involved."
+        },
+        {
+            "heading": 2,
+            "text": "See the opportunities in data"
+        },
+        {
+            "text": "Throughout my career, I have always seen opportunities where data science techniques can extract value from data held by organisations.\u00a0"
+        },
+        {
+            "text": "The main barrier for teams to gain insights from their data was the lack of the right tools for the job. Because of this, data analytics work was limited to Excel. You can do some great things with Excel, but I could see the potential for teams if they had easy access to data science tooling on MODNET, MOD\u2019s internal network. This would help them to exploit the right data at the right time."
+        },
+        {
+            "heading": 2,
+            "text": "Anyone in the MOD can use DDAP to work with their data"
+        },
+        {
+            "text": "I\u2019ve been lucky enough to be heavily involved with the development of DDAP for the Foundry. My team and I have been involved throughout the development of the platform to build out use cases to test functionality and feed back to the engineering team on improvements and new features. The best thing about this service is that it\u2019s available across MOD, so anyone can request the creation of a tenant (a secure area within the platform for you or your team to work) to start using the tools available on your own data."
+        },
+        {
+            "heading": 2,
+            "text": "Providing the right people with the right tools"
+        },
+        {
+            "text": "I think one of the most important things that DDAP will do is help to support what I call \u201cgrass roots data science\u201d. This is where there isn\u2019t a massive development project pre-planned over several years with a team of data scientists, engineers and developers, but someone with an interest and the motivation to see what they can do with their data. Nobody knows their data or their problems better than the people working on it day to day, so providing them with easy access to the right tools is fantastic."
+        },
+        {
+            "heading": 2,
+            "text": "Get data analytics tools from day one"
+        },
+        {
+            "text": "What DDAP gives you is a great starting point for your data science project"
+        },
+        {
+            "text": "You get a virtual desktop interface, accessible via your web browser, with a standard set of data science development tooling available out of the box."
+        },
+        {
+            "heading": 2,
+            "text": "Contact us"
+        },
+        {
+            "text": "Find out how you can make the most of your data. Email Data Analytics Service and tell us how you will use DDAP."
+        }
+    ]
+}

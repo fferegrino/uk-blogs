@@ -1,0 +1,63 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/07/05/zero-trust-architecture-in-moj-network-services/",
+    "title": "Zero Trust Architecture in MoJ Network Services",
+    "authors": [
+        "Nava Ramanan"
+    ],
+    "categories": [
+        "digital strategy",
+        "Our services",
+        "Zero Trust Architecture"
+    ],
+    "pub_date": "2023-07-05T14:24:10+01:00",
+    "content": [
+        {
+            "text": "There is a new buzzword, Zero Trust (ZT), that is cropping up at every cyber conference and there are streams of online publications referencing its approach. While the concept has existed for a decade, it has gained a lot more traction lately.\u00a0 If you\u2019re interested in understanding what it means and how we\u2019re approaching it at the Ministry of Justice, (and how to stay protected) then read on!"
+        },
+        {
+            "text": "In essence, ZT is a technique in cybersecurity where inherent trust in the network is removed and user identity is continuously revalidated at each stage of a digital interaction rather than, for example, permitting access to users based on which network they are connected to. But why is this necessary?\u00a0"
+        },
+        {
+            "text": "A good analogy that I heard lately that demonstrates the problems that ZT addresses discusses security in airports.\u00a0 It is accepted practice that we must validate our identity at various stages when travelling through an airport \u2013 at check-in, the security gates, potentially when buying duty-free, and again when boarding the plane. Just because we\u2019ve verified our identity at the check-in does not mean that our identity doesn\u2019t need to be validated again as our access increases - in this case eventually onto the aircraft. Also, bear in mind that our luggage goes through a similar process once it leaves us at check-in."
+        },
+        {
+            "text": "A similar approach is needed across the Ministry of Justice estate. We maintain more than 800 live services and over 100,000 devices.\u00a0 We support prisoners and members of the public as well as 86,000 internal colleagues operating across 13 organisations and 1,100 sites. As such, we need to ensure we have control over who has access to those systems no matter the situation, user, location, or access method. The same security checks should be applied irrespective of how users are accessing systems, whether that\u2019s from a government building or when working remotely.\u00a0"
+        },
+        {
+            "text": "ZT means we\u2019re taking a holistic approach and implementing the same policies and controls across users, applications, and infrastructure to reduce risk and complexity while achieving organisational resilience. It\u2019s not just the network, interactions also consist of identity, access, device/endpoints, and transactions.\u00a0\u00a0"
+        },
+        {
+            "text": "Why is Zero Trust Architecture Important to the MoJ?"
+        },
+        {
+            "text": "Getting it wrong could have a significant impact. The services we provide underpin much of the justice system and what we do at an operational level has an impact on people's lives. It is imperative that we get cybersecurity right as it is integral to improving our approach to data protection, reducing overall threats, mitigating insider threats, and generally enhancing our overall security posture."
+        },
+        {
+            "text": "We must also adapt to the changing environment. Like most organisations we have been on a significant digital journey over the last few years. Since the pandemic, there has been a significant increase in the use of technology across all our services, from laptops in prison cells, remote parole, and court hearings to virtual prison visits, and a considerable increase in virtual and hybrid meetings."
+        },
+        {
+            "text": "Ensuring secure connections to services has been vital during this journey and has ensured our staff are able to do their jobs. But we\u2019re not stopping there.\u00a0 We are continuing that journey to cement our ZT approach, which is helping to deliver our Justice Digital Strategy, and ensure we are led by our users, data driven and flexible. Let me expand on these three themes:"
+        },
+        {
+            "text": "What are we doing with Zero Trust?\u00a0"
+        },
+        {
+            "text": "Our \u201cInternet First\u201d strategy and modern hybrid working practices inherently create the need to allow access to our services from more varied locations and device types.\u00a0 This marks a transition from the traditional model where users were all connected to a corporate local area network and security was mainly focused on the network perimeter.\u00a0 Embracing ZT allows us to move away from a model that focuses on the network perimeter, to a more dynamic world.\u00a0 In this scenario, continued access is granted based on the analysis of user behaviour, network traffic, live security events and the revalidation of user identity."
+        },
+        {
+            "text": "By adopting ZT best practices, such as performing continual monitoring and analysis in conjunction with only allowing least privilege access, we will benefit from a security model that is far better suited to today\u2019s digital landscape and our strategic ambitions."
+        },
+        {
+            "text": "It is a journey for us at MoJ. We can't move immediately to the full ZT vision because legacy stuff means that some stuff will need a degree of network-based trust for some time.We are currently in the process of moving from legacy products and solutions to next generation solutions on our journey to ZT. These solutions allow for far greater insight into user behaviour and the data that is flowing across our network. They also provide far more granular and more dynamic control over the access provided.\u00a0 Migrating from a siloed logging and monitoring approach across technologies and environments to a centralised approach allows us to gain real-time visibility of what is happening in our environment."
+        },
+        {
+            "text": "The National Cyber Security Centre (NCSC) have established eight principles for ZT which cover:"
+        },
+        {
+            "text": "Our Take Away"
+        },
+        {
+            "text": "Taking a ZT approach provides the foundations for a secure digital environment, allowing the realisation of the principles of GovAssure and the Cyber Assessment Framework (CAF). All organisations have an ongoing cyber journey, and our mission is to provide simpler, faster, and better services to all our users.\u00a0"
+        }
+    ]
+}

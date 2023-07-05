@@ -1,0 +1,63 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/07/05/new-recurring-payments-and-webhook-features-available-through-gov-uk-pay/",
+    "title": "New recurring payments and webhook features available through GOV.UK Pay",
+    "authors": [
+        "Alan Maddrell - Senior Content Designer for GOV.UK Pay, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Pay",
+        "Posts for Tech Specialists"
+    ],
+    "pub_date": "2023-07-05T12:05:58+01:00",
+    "content": [
+        {
+            "text": "GOV.UK Pay can now take repeated payments and allow your users to pay for things in instalments without needing to pay manually every time. This feature works with cards and future payment types like open banking."
+        },
+        {
+            "text": "We\u2019ve also made it a lot easier for services to get real-time information about payments by introducing webhooks."
+        },
+        {
+            "heading": 2,
+            "text": "Taking recurring payments"
+        },
+        {
+            "text": "GOV.UK Pay was initially built to take single payments. As it became more popular, services told us they needed the ability to take repeated payments for things like licences and subscriptions."
+        },
+        {
+            "text": "We've now built functionality to allow services to create 'agreements', which allow payments to be taken on a schedule without the user being present, if they have agreed to it. To find out more about how this works, you can read our technical documentation about recurring payments."
+        },
+        {
+            "text": "If you're interested in taking recurring payments, whether you use GOV.UK Pay at the moment or not, get in touch with the Pay team."
+        },
+        {
+            "heading": 2,
+            "text": "Webhooks make real-time data easier"
+        },
+        {
+            "text": "Webhooks automatically send information when something happens, rather than requiring services to make API calls. Webhooks have a wide range of potential applications, such as integrating with existing enterprise resource planning software. This can make accounting and financial management a lot simpler and more effective."
+        },
+        {
+            "text": "For example, you could set up GOV.UK Pay to send a webhook when a payment is received along with the relevant information (like an invoice number) to allow it to be automatically registered and processed by your financial software. Using webhooks means that your finance systems are always up to date without the need for staff to manually input data. This can help with managing refunds."
+        },
+        {
+            "text": "If your organisation has lots of services that use GOV.UK Pay, webhooks mean you can use a single financial system to keep track of all your payments. You could also use webhooks to set up a system to send an email using GOV.UK Notify when something happens with a payment."
+        },
+        {
+            "text": "This is all faster than existing bank transfer methods. You can read more about webhooks in our technical documentation. If you already use GOV.UK Pay you can start using webhooks in your service immediately. Contact the team if you need further support."
+        },
+        {
+            "heading": 2,
+            "text": "The future of recurring payments and webhooks"
+        },
+        {
+            "text": "We want to develop recurring payments and webhooks further, particularly to make it easier for services to set up recurring payments without using our API. Later this year we will also be expanding beyond card payments, looking at future payment types like open banking."
+        },
+        {
+            "heading": 2,
+            "text": "Thanks to our partners"
+        },
+        {
+            "text": "We've developed these new features in partnership with the Environment Agency and Kent County Council. The Environment Agency are introducing recurring payments for rod fishing licences which will make renewing your licence a lot easier for users. Kent County Council are using it for the Trading Standards Checked service to allow vetted businesses to pay in instalments so they can appear on the fair trader directory."
+        }
+    ]
+}
