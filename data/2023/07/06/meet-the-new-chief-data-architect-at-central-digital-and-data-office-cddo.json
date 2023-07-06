@@ -1,0 +1,84 @@
+{
+    "url": "https://dataarchitecture.blog.gov.uk/2023/07/06/meet-the-new-chief-data-architect-at-central-digital-and-data-office-cddo/",
+    "title": "Meet the new Chief Data Architect at Central Digital and Data Office (CDDO)",
+    "authors": [
+        "Jenny Brooker"
+    ],
+    "categories": [
+        "Data architecture",
+        "Data Quality Hub",
+        "Office for National Statistics"
+    ],
+    "pub_date": "2023-07-06T13:39:56+01:00",
+    "content": [
+        {
+            "text": "Jenny Brooker, Central Digital and Data Office\u2019s new Chief Data Architect, discusses her passion for data, her career history, and her aims and ambitions in her new role."
+        },
+        {
+            "heading": 3,
+            "text": "A focus on data"
+        },
+        {
+            "text": "I am fascinated by the power of data to change behaviour, inform government policy and make a difference to people\u2019s lives. With a background in computer science, I started out writing code for submarines, while working with the UK Hydrographic Office on one of their charting systems, and I quickly found a love of all things data."
+        },
+        {
+            "text": "Over the next few years, I worked in Ordnance Survey building large scale GIS systems, researching geospatial linked data and leading the development of some of the first Open Data products. Some of my favourite projects included developing the first 3D-enabled national spatial data model for the Kingdom of Bahrain with the Survey and Land Registration Bureau (SLRB) mapping authority. This involved creating an intelligent 2D and 3D data model to aid decision-making across government, business and public services."
+        },
+        {
+            "text": "Going back to work after having my second son, I knew that I was ready for a new challenge and moved to SGN Gas, a utility company that was investing in developing its self-serve data analytics. My role was to develop the technology and processes to ensure that data could be used by decision makers. This role really taught me the value of access to data for all, and how technology can support that to happen."
+        },
+        {
+            "heading": 3,
+            "text": "Building data capability"
+        },
+        {
+            "text": "After seeing first hand the value that data was bringing to organisations, I moved into the Civil Service and started working in the Maritime and Coastguard Agency, as part of their digital transformation. This was the organisation's first data specific role, and as Chief Data Architect, I was tasked with building the data capability of the organisation, developing the data strategy, recruiting an experienced team and building the underpinning technology to support all our work."
+        },
+        {
+            "text": "It was an incredible organisation to work for with a diverse range of people and roles, from operational teams delivering life saving rescues, partners and groups improving beach safety, and policy makers increasing safety of lives at sea. From a data architecture perspective, this provided a wealth of data sources, we focused on data and analysis of this data. Having worked with the organisation to set the data strategy, the team were kept busy delivering an in-depth data literacy programme, developing cutting edge data science, and building a data democracy to ensure colleagues could access data at the right time, when they needed it."
+        },
+        {
+            "heading": 3,
+            "text": "Breaking down barriers"
+        },
+        {
+            "text": "From the Maritime and Coastguard Agency, I moved to CDDO. I knew that the Chief Data Architect role at the CDDO would give me the opportunity to make a meaningful impact to support data sharing across government, and hopefully remove some barriers."
+        },
+        {
+            "text": "I currently lead a team within CDDO that specialises in data architecture, data privacy and data security, with a strong focus on embedding user research into those specialisms to ensure we provide great services. The remit of our team is driven by Mission Three: Better Data to Power Decision Making as set out in the \u2018Transforming for a Digital Future: 2022 to 2025 Roadmap for Digital and Data\u2019."
+        },
+        {
+            "text": "One of the key projects that we are delivering is the development of a Data Marketplace, providing a hub to discover, access and share government data in a legal, ethical and trusted way."
+        },
+        {
+            "heading": 3,
+            "text": "Being part of the data community"
+        },
+        {
+            "text": "As well as building the frameworks and technologies to support data sharing, we also value the people in the data community who are working in cross-government departments."
+        },
+        {
+            "text": "My team is keen to understand best practice in data architecture, privacy and security across government, and attends meetings with a wide range of civil servants through communities such as Cross-Government Data Architecture Community (GDAC), API Data Exchange Community, Cross-government Data Sharing Practitioners Community, Cross-Government Data Architecture Community (GDAC) and Data and Technology Architecture Design Authority (DTADA)."
+        },
+        {
+            "heading": 3,
+            "text": "DataConnect23"
+        },
+        {
+            "text": "When we experience challenges in data sharing, we want to be the team you call to provide help and support, to break the deadlock of sharing data between departments. In order to help solve some of those challenges, we are facilitating this year\u2019s DataConnect23, alongside the Data Quality Hub (DQHub) at the Office for National Statistics, from 25 - 29 September 2023."
+        },
+        {
+            "text": "This free week-long conference will bring together data experts from across government. It has a diverse agenda created for, and led by, the public sector data community. We are keen for engaging speakers to present a talk or interactive session discussing innovative work and solving data challenges. To register to attend, or propose a session by 14 July, please email dataconnect@digital.cabinet-office.gov.uk or go to https://dataconnect.api.gov.uk."
+        },
+        {
+            "heading": 3,
+            "text": "Life goals"
+        },
+        {
+            "text": "Reflecting on my career so far, I\u2019ve seen first-hand the benefits that sharing and linking datasets can bring, what happens when you put the data in the hands of the people who need it, and the innovation that it can drive."
+        },
+        {
+            "text": "The more that we are able to nurture the government data ecosystem, remove the barriers and show the art of the possible whilst also operating responsibly, legally and ethically, the more that we can use data to power our decision making."
+        }
+    ]
+}
