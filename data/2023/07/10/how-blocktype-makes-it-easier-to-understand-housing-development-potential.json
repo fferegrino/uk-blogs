@@ -1,0 +1,88 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2023/07/10/how-blocktype-makes-it-easier-to-understand-housing-development-potential/",
+    "title": "How Blocktype makes it easier to understand housing development potential",
+    "authors": [
+        "Euan Mills, Chief Executive Officer and co-founder, Blocktype"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2023-07-10T10:40:11+01:00",
+    "content": [
+        {
+            "text": "Blocktype was a participant in the Geovation Accelerator Programme in autumn 2022 \u2013 a programme backed by HM Land Registry and Ordnance Survey which provides geospatial and property technology (PropTech) start-ups with grant funding and 12 months of support.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The problem we\u2019re trying to solve"
+        },
+        {
+            "text": "Over the next five years we need to build at least 1.5 million homes to meet England\u2019s housing needs. But we don\u2019t know where, how, or even if, we can fit that many homes in the land available."
+        },
+        {
+            "text": "Some people argue there is no space left, and that if we keep building new homes we will destroy our most precious landscapes and heritage assets. Others argue that the social need for housing should trump everything else."
+        },
+        {
+            "text": "The problem is that both camps have limited understanding of what these large abstract housing numbers actually look like. For example, 100 detached houses with gardens is radically different to a 20 storey block with the same number of homes."
+        },
+        {
+            "text": "The only way to confidently understand how much housing we can fit on a site is to hire architects to design proposals for every site. They can test different types of housing and produce detailed floor plans and robust information. But architects cost money and take time, two things we are currently scarce on."
+        },
+        {
+            "text": "Instead, our industry turns to spreadsheets. We apply formulas of varying levels of complexity to each site, and quickly get figures for \u2018number of homes\u2019 or \u2018gross internal area\u2019. Whilst this approach allows us to assess a large number of sites quickly, it also has huge margins of error, as it doesn\u2019t take into consideration the shape and size of a site or building typologies used."
+        },
+        {
+            "heading": 2,
+            "text": "This is where Blocktype comes in"
+        },
+        {
+            "text": "Developed by an urban designer and a data scientist, Blocktype\u00a0provides a middle ground between abstract formulas and detailed architect designs."
+        },
+        {
+            "text": "It provides developers and planners with pre-designed, customisable architectural floor plans, which they can drag and drop onto any site to create their own design. Whilst they do this, they get instant feedback, not only on the number and types of homes you fit on your site, but important information on the financial, policy and design implications of your design."
+        },
+        {
+            "text": "In other words, Blocktype democratises the process of site appraisals. Anyone can easily explore what they can fit on a plot of land without relying on architects, planners or any other consultants, until you actually need them. What used to take days to research, design and present, now takes minutes."
+        },
+        {
+            "text": "Blocktype\u2019s mission is to make it easy for anyone to understand what housing you can build where. We believe this will increase certainty and transparency in the planning process, reduce land speculation and help us build the right homes in the right places."
+        },
+        {
+            "heading": 2,
+            "text": "How it works"
+        },
+        {
+            "text": "Blocktype has a database of architectural floor plans which users can customise and turn into \u2018blocks\u2019 by setting the number of floors, construction costs, sales values and so on. This provides information such as the area of the development and the number and types of homes."
+        },
+        {
+            "text": "It also has a database of local authority planning policies and viability data, such as construction costs and sales values. As the user places blocks on the map, the information from these blocks create the inputs into the policy and viability information, to give instant feedback on the most critical information when deciding what to build, where."
+        },
+        {
+            "text": "To make all this work we rely heavily on two key datasets from HM Land Registry: Price Paid Data and the National Polygon Service. The former allows us to\u00a0estimate the gross development value of the proposed development, and the latter helps the user know where they can build on."
+        },
+        {
+            "heading": 2,
+            "text": "Who it\u2019s for"
+        },
+        {
+            "text": "Blocktype is for anyone that needs to understand what you can build where. We\u2019re starting to offer this to property developers, as they appraise thousands of sites a year and rely on a good understanding of development capacity to value land correctly. Next, we\u2019d like to expand this to the rest of the industry, particularly local authority planners, who rely on a good understanding of development capacity to write planning policies, plan infrastructure, and make decisions on what should get planning permission."
+        },
+        {
+            "heading": 2,
+            "text": "How the Geovation programme helped us"
+        },
+        {
+            "text": "Taking part in the Geovation programme helped us develop our early concepts into a fully functional start-up. The access to mentors and experts, including HM Land Registry specialists, put us in the right direction to develop our approach to sales, marketing and financial modelling."
+        },
+        {
+            "heading": 2,
+            "text": "What next for Blocktype?"
+        },
+        {
+            "text": "Blocktype private beta has just launched to a limited number of early adopters. Over the next couple of months we\u2019ll continue to improve the product and aim for a public launch in August \u2013 you can sign up on our website.\u00a0 We\u2019re also starting to look for investment, to retain users by improving the product and rapidly scale to the wider development industry."
+        },
+        {
+            "text": "If you\u2019re interested in finding out more go to www.blocktype.co.uk."
+        }
+    ]
+}
