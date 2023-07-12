@@ -1,0 +1,58 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/07/12/six-lessons-for-an-ai-assurance-profession-to-learn-from-other-domains-part-one-how-can-certification-support-trustworthy-ai/",
+    "title": "Six lessons for an AI assurance profession to learn from other domains - part one: how can certification support trustworthy AI?",
+    "authors": [
+        "John McElroy",
+        "Emily Campbell-Ratcliffe"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Assurance",
+        "Responsible innovation"
+    ],
+    "pub_date": "2023-07-12T11:38:45+01:00",
+    "content": [
+        {
+            "text": "The UK government's recently published approach to AI regulation sets out a proportionate and adaptable framework that manages risk and enhances trust while also allowing innovation to flourish. The framework also highlights the critical role of tools for trustworthy AI, including assurance techniques and technical standards, in enabling the responsible adoption of AI. The CDEI\u2019s AI assurance programme is championing the use and development of these tools to enable the development of an AI assurance ecosystem that is ethical, trustworthy, and effective. As part of this the CDEI is beginning work to promote dialogue on potential paths to an accountable AI assurance profession."
+        },
+        {
+            "text": "Certification holds promise as one of a wider set of tools for trustworthy AI. In building an accountable AI assurance profession, assurance providers (both the organisations as a whole and the individual professionals themselves) could be certified to evidence their expertise and therefore their trustworthiness. As the AI assurance ecosystem and certification develop, we will need to borrow from experience in other sectors, comparing common features of certification and building on existing knowledge to learn lessons from more mature certification models."
+        },
+        {
+            "text": "Early in 2023 we spoke to experts across a broad range of sectors to understand what works and doesn\u2019t work in other certification models. We sought views to reflect the varied subject matter and unique challenges of different domains, including cybersecurity, aerospace, sustainability, nuclear safety, bioethics, and medical devices. We covered topics like comparative maturity, conditions for success, and failure modes."
+        },
+        {
+            "heading": 2,
+            "text": "Main takeaways"
+        },
+        {
+            "text": "We will cover these six \u201clessons learned\u201d in three separate blog posts. This first post looks at the governance context for certification. The second post builds on this, exploring the wider factors needed for certification schemes to be effective\u2014the enabling conditions\u2014 taking into account the role of community, and how to balance robustness and flexibility. The third post looks at similarities between effective certification schemes, including specific common characteristics, the range of stakeholders and incentives, and managing complexity through monitoring and evaluation."
+        },
+        {
+            "text": "Across all six lessons, it is important to keep in mind that the process of maturity for certification schemes is continuous. In other sectors\u2014for example sustainability and cybersecurity\u2014certification has continued to mature over time with existing schemes being adjusted, new ones introduced, and others discontinued."
+        },
+        {
+            "heading": 2,
+            "text": "Lesson one: Context is key"
+        },
+        {
+            "text": "Certification is one of many governance tools, so it is important to consider it within its broader context. The wider governance landscape, including principles, standards, and conformity assessment techniques, must develop before certification can be effective. Across the range of sectors and schemes we considered, certification was consistently one of the final governance elements to mature."
+        },
+        {
+            "text": "However, that is not to say we should wait and watch these developments passively. Instead, by starting the dialogue about certification early, there is more time to explore with diverse stakeholders which model will work best for an effective future AI assurance profession. By starting now, dialogue will take place in parallel with the development of the wider landscape, rather than afterwards, helping to ensure alignment between emerging assurance techniques and technical standards, and the most promising certification model."
+        },
+        {
+            "text": "The development and adoption of certification may be driven by a combination of factors. In some sectors like aerospace, nuclear safety, food safety, and medical devices, \u201chard requirements\u201d are imposed by top-down regulation, creating a need for certification schemes that organisations and individuals can use to demonstrate compliance with rules. However, other factors can drive development of certification either as an alternative to, or alongside, regulation. In particular, market forces can encourage certification, as differentiation and brand recognition create competitive advantages and incentives for voluntary certification to demonstrate compliance with good practice, norms or standards, positively affecting consumers\u2019 trust."
+        },
+        {
+            "text": "There are some important questions about what role voluntary certification schemes should play in both the long and short term. Certification evaluates whether something meets a certain standard. However many\u00a0 standards for AI are still being developed and agreed upon. For example ISO/IEC 42001 (AI Management System) is in approval stage, ISO/IEC 42005 (AI Impact Assessment) is in committee stage, and ISO/IEC AWI TS 6254 (Objectives and approaches for explainability of ML models and AI systems) is in pre-draft stage. As such for the time being \"soft\" voluntary certification schemes may not be sufficiently developed for establishing and communicating trust."
+        },
+        {
+            "text": "In the longer term, clearer requirements might help make certification more effective. In fields like aerospace and nuclear power, where safety considerations have driven top-down rules, accidents are extremely rare. However, safety is just one part of AI that needs to be assured. Other elements of AI assurance might be better addressed through different types of certification. For instance, voluntary certification focused on elements like fairness and explainability could work alongside top-down rules based on safety and robustness. Top-down regulatory rules on specific principles could also co-exist with voluntary schemes that focus on the same principles and go beyond the baseline set by the regulatory rule."
+        },
+        {
+            "text": "The broader context for certification will continue to emerge and develop further over time. However, in the immediate term we should consider and seek consensus on whether encouraging voluntary certification now can help create and mature effective schemes that can be used in the future\u2014taking an iterative approach to certification, aligned with the UK government's adaptable approach to AI regulation."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/07/12/six-lessons-for-an-ai-assurance-profession-to-learn-from-other-domains-part-three-features-of-effective-certification-schemes/",
+    "title": "Six lessons for an AI assurance profession to learn from other domains - part three: features of effective certification schemes",
+    "authors": [
+        "John McElroy",
+        "Emily Campbell-Ratcliffe"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Assurance"
+    ],
+    "pub_date": "2023-07-12T11:45:44+01:00",
+    "content": [
+        {
+            "text": "We are looking at professionalisation and certification as part of our programme of work to support the vision laid out in our roadmap to an effective AI assurance ecosystem. As discussed in part one, it will be helpful to learn lessons from more mature certification models in other sectors.\u00a0"
+        },
+        {
+            "text": "Part one and two explored the wider factors needed for certification schemes to be effective, taking into account context, community, and how to balance robustness and flexibility in a changing environment. While these conditions are an important starting point, certification schemes themselves must also be designed and operated appropriately in order to succeed. This blog explores similarities between effective certification schemes, including the range of stakeholders and incentives, managing complexity, and specific common characteristics."
+        },
+        {
+            "heading": 2,
+            "text": "Lesson four: Existing effective certification schemes are transparent, adaptable, and interoperable"
+        },
+        {
+            "text": "The previous lessons raise significant challenges that certification must address in order to be effective. We identified some common principles which could help. In the range of sectors we explored, three common characteristics of effective certification schemes were: transparency, adaptability, and interoperability."
+        },
+        {
+            "text": "Credible schemes are transparent. The AI sector can learn from other sectors about how transparency can help to empower diverse groups of stakeholders to participate in, improve, and hold systems to account."
+        },
+        {
+            "text": "Transparency is central in many schemes - in sustainability it is often considered a fundamental principle, underpinning the overall credibility of a certification scheme. Within safety management systems in the aviation sector, transparency is key to ensuring that pertinent information and experience is shared and exchanged between those who work to make flying safe."
+        },
+        {
+            "text": "However, transparency may not necessarily involve simply publishing all available information regardless of relevance. Instead, in the sustainability sector for example, schemes focus on providing important information in appropriate detail, and making this easily accessible to all stakeholders - including information about the goals of a scheme, definitions, how assessments are carried out, and open communication of results and significance. Transparency may also involve public scrutiny, for example, public transparency of adverse event reporting can help drive impact. In healthcare, transparency can include mechanisms for patients and members of the public to look up information about outcomes in order to make their own judgements about the care they receive.\u00a0"
+        },
+        {
+            "text": "We know from other sectors that there may be tensions and tradeoffs to consider with transparency. For example in the case of medical devices, tradeoffs between transparency and human autonomy, and, with sustainability schemes, between transparency and the desire to reduce costs for organisations to seek certification. These questions may begin to be addressed by considering another common characteristic of effective certification, adaptability."
+        },
+        {
+            "text": "Effective schemes are adaptable. This characteristic may help to manage tensions and tradeoffs appropriately to ensure the right balance is struck for challenges, especially as the landscape of AI develops over time."
+        },
+        {
+            "text": "Certification can also provide opportunities for ongoing, iterative feedback and improvement. Adaptability can exist at different levels. Within the certification process, auditors might share results with audited parties to show them where improvements can be made. At the scheme level, metrics can be updated, increasing reliability and impact. At the level of the overall model for certification in a specific sector, new initiatives and schemes can be developed - including by new entrants - to respond to more fundamental changes in the assurance ecosystem or governance environment."
+        },
+        {
+            "text": "AI assurance can learn from other sectors here - for example one approach taken for cybersecurity in the UK takes into account adaptiveness as an important component of assuring technology, especially as that technology changes over time through innovation. In sustainability, a closely related concept of continual improvement is used as an explicit principle underpinning the credibility of certification schemes. Finally, performance-based requirements (stating the \"what to do,\" but not \"how to do it\") in aviation place greater emphasis on adaptability and focus more on desired, measurable outcomes, than prescriptive approaches."
+        },
+        {
+            "text": "Later on, in lesson six, we will discuss how continuous monitoring and evaluation can help to embed this adaptability into certification systems."
+        },
+        {
+            "text": "Finally, schemes must be interoperable in order to promote adoption of certification across regional and international governance environments. Interoperability is necessary both for the success of individual schemes, and for the wider adoption of certification as a mechanism to establish and build trust."
+        },
+        {
+            "text": "Here too, other sectors provide examples of how this can work in practice. In engineering and transport sectors like aviation, international cooperation and harmonisation on safety standards has been a driver for safety improvements. Reaching agreement on standards can help to achieve harmonisation where it is more difficult to achieve regulatory consensus. Elsewhere, the sustainability sector gives examples of models where high-level international agreements are made (for example on biotrade), and different assurance models then operate in parallel."
+        },
+        {
+            "heading": 2,
+            "text": "Lesson five: Meaningful impact requires a broad range of stakeholder views"
+        },
+        {
+            "text": "Certification systems must take into account a broad range of perspectives in order to be effective. Assurance service providers, professional bodies, organisations developing and deploying products or services, and affected users all have different needs and incentives. Sectors like healthcare, cybersecurity, and sustainability have recognised this, and have proactively sought to engage with diverse stakeholders to understand what these different groups need."
+        },
+        {
+            "text": "Different parts of the market may respond to different incentives to seek certification. While some actors may be motivated to work within specific norms and seek certification due to values or brand differentiation, it can be more difficult to incentivise moderately-engaged actors (the \u201cmiddle\u201d of the market) to participate in a certification scheme. Appeals to self-interest, such as market incentives, or the ability to evidence performance against benchmarks, can prove effective in these cases. Lower-engagement stakeholders can present a distinct set of challenges, and may require specific interventions (for example through top-down rules) in order for trust to be built across all parts of the AI assurance market ."
+        },
+        {
+            "text": "Perhaps most importantly, consumers and affected users can make or break a certification scheme. On one hand, consumers can push adoption of standards, driving demand by using brands they trust. On the other hand, lack of user recognition can lead to a certification failing to achieve impact, as has happened previously with some sustainability schemes. It is therefore crucial that consumers and affected users are involved closely in the end-t0-end design, operation, and evolution of certification schemes. In cybersecurity, this has previously been achieved in practice by engaging closely with consumer representatives and advocacy groups on specific assurance projects, leveraging their expertise to gain valuable insights. In practice within the healthcare sector, this can mean getting patients involved in the governance of medical devices through direct outreach programmes."
+        },
+        {
+            "text": "The same principle of engaging widely and early on applies also to frontline practitioners and professionals, who can play a part in addressing some of the practical challenges and limitations of engaging directly with consumers and affected users. In some sectors, for example healthcare, consumers and affected users may turn to trusted third parties (i.e. medical professionals) to understand the trustworthiness of a service or product. So, through their consumer-facing work, professionals working within organisations to deliver services and products also have an important role to play in the development of successful and impactful certification regimes."
+        },
+        {
+            "text": "Broad stakeholder views will also contribute to the meaningful transparency that certification will require in order to be effective, discussed in the previous lesson."
+        },
+        {
+            "text": "Therefore, in the cases of consumers and affected users, and the individuals and organisations most closely connected with them, there could be significant opportunities to learn and apply existing knowledge in an AI assurance context to ensure these perspectives are heard."
+        },
+        {
+            "heading": 2,
+            "text": "Lesson six: Continual monitoring and evaluation can manage complexity"
+        },
+        {
+            "text": "Certification is inherently complex, and will be particularly so for AI and AI assurance. To be effective, certification schemes must ensure that complexities are managed appropriately. Fortunately, other sectors provide clues for how we may begin to manage these complexities in our own context, and show that continual monitoring and evaluation can help address and manage these challenges."
+        },
+        {
+            "text": "Choices of what and how to measure are likely to have a significant impact on the overall trustworthiness and effectiveness of certification, and within these choices there is a need to balance complex considerations. However, in the case of AI, the overall degree of complexity will be heightened, so certification schemes must pay particularly careful attention to a wide range of challenges. For example, measurements need to be wide-ranging, accurate, precise, and relevant. Qualitative information as well as quantitative metrics are likely needed to provide sufficient relevant information. Measurements must also avoid the problem of \u201cperverse incentives\u201d \u2014like rewarding actors for the wrong behaviour\u2014 producing unintended or undesirable results.\u00a0"
+        },
+        {
+            "text": "Taken together, these challenges may perhaps give the false impression\u00a0 that measurements must provide total and absolute coverage of all possible scenarios. However, other sectors provide strategies we can look to and potentially learn from, in order to manage these complexities in an AI context. If implemented successfully, these strategies will contribute towards the adaptability required for effective certification, discussed in lesson four above."
+        },
+        {
+            "text": "Ongoing monitoring can help, allowing further metrics to be identified and added, and refinements made over time. Benchmarking can also promote consistency, and help recognise and drive improvements and impact, acting as an incentive to evidence performance improvement. These complexities can be addressed with strategies that are already in use in other sectors, and we can learn from existing examples of effective monitoring and evaluation across a range of domains including cybersecurity, sustainability, and safety-critical domains like medical devices, all of which benefit from continual monitoring and evaluation to manage complexity, thereby improving the trustworthiness of services and products."
+        },
+        {
+            "text": "In other sectors, like cybersecurity, there is a tension between certification being sufficiently detailed to be effective, and being long-lasting enough to remain relevant and useful. It is difficult to certify a product or service that is constantly changing, for example a complex system made up of many software components. One approach to manage this is to look at the system holistically, rather than focusing too much on individual metrics. Generally, the more detailed the certification, the more time-restricted it may be. Fortunately, this will not be a novel problem unique to AI assurance, and the approach taken in the cybersecurity domain could provide a valuable model for AI assurance to learn from."
+        },
+        {
+            "text": "Finally, significant complexities are introduced by different use cases and contexts. In the biomedical sector, for example, different sets of tradeoffs can arise between transparency and other varying factors (like human autonomy), depending on the specific context in which a system is being deployed. Here, monitoring strategies can help decide which tradeoffs are appropriate, in each specific situation, for example what level of transparency is right for a particular patient."
+        },
+        {
+            "text": "Easy or universal solutions to these complexities are unlikely. These challenges need to be addressed in detail and in reference to the specific domain, in harmony with the UK government's proportionate and context-based approach to AI regulation, guided by cross-sectoral principles to be implemented by existing UK regulators and complemented by tools for trustworthy AI, including technical standards. This work will also require a diverse community with skills and expertise, as discussed in the second post."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "In these six lessons, we have identified key enabling conditions and common features across existing schemes that can help certification play an effective role in broader governance. These surface further questions and challenges in our own domain, including how to monitor and improve the enabling conditions for effective certification, how schemes might be designed with the necessary features to succeed, and, crucially, who should be involved in efforts to resolve these challenges."
+        },
+        {
+            "text": "Such questions call for early dialogue involving diverse perspectives. The CDEI is now seeking out wider voices to engage in the community building discussed in these blog posts. Our immediate next step will be to convene diverse stakeholders to take forward the themes presented in these blog posts. We will start with an initial workshop to apply the lessons learned to AI assurance, and encourage anyone interested to reach out to us to express an interest. Our public attitudes team will also consider the potential for further public engagement to better understand consumer expectations for effective certification. These, together with future community building efforts, will help us to develop - in alliance with others - the most promising routes to an accountable AI assurance profession."
+        },
+        {
+            "text": "If you would like to discuss our work on AI assurance, please get in touch at ai.assurance@cdei.gov.uk.\u00a0"
+        }
+    ]
+}

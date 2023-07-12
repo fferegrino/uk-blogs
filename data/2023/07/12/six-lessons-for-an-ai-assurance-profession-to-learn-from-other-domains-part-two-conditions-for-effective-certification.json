@@ -1,0 +1,61 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/07/12/six-lessons-for-an-ai-assurance-profession-to-learn-from-other-domains-part-two-conditions-for-effective-certification/",
+    "title": "Six lessons for an AI assurance profession to learn from other domains - part two: conditions for effective certification",
+    "authors": [
+        "John McElroy",
+        "Emily Campbell-Ratcliffe"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Assurance"
+    ],
+    "pub_date": "2023-07-12T11:42:33+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Lesson two: Broad community building is crucial\u00a0"
+        },
+        {
+            "text": "Community building that emphasises skills, communication, and diversity is crucial for ensuring that certification is reliable and accountable. Other sectors, like cybersecurity and healthcare, as well as cross-sector communities organised around ESG and sustainability principles, provide models for how this can work."
+        },
+        {
+            "text": "A wider community of organisations and individuals within a sector can help address demand for the skills needed to assure AI systems, and feed a burgeoning profession of certification experts. These skills should not be limited to assurance professionals but must be embedded throughout the wider sector; challenges can surface when assurance knowledge is not available or accessible to those building the systems subject to assurance, for example the engineering community in cybersecurity. With a basic knowledge of assurance embedded throughout a sector, individuals and organisations can more effectively work with assurance professionals to build, test, and deploy trustworthy systems."
+        },
+        {
+            "text": "Technical skills for assurance must be accompanied by effective communication and knowledge exchange. Translating technical jargon into findings understandable to organisations and individuals, and listening to feedback from users, are both critical to the success of certification systems. Public engagement to explore the language consumers are using could help organisations to understand what enables different groups to have confidence in trustworthy systems.\u00a0"
+        },
+        {
+            "text": "Strong community structures can also help mitigate major systemic risks, and reduce the likelihood of harms occurring. The risk of loss or isolation of institutional knowledge in engineering systems, for example in the aerospace industry, may contribute to serious accidents and even fatalities, but can be mitigated by providing mechanisms and promoting norms for knowledge exchange and sharing.\u00a0"
+        },
+        {
+            "text": "The need for skills, effective communication, and knowledge exchange and retention, can begin to be addressed through a diverse and collaborative community. We think that the best approach is to form this community early on, drawing together a wide range of stakeholders. A critical next step will therefore be to convene and actively seek the views of organisations, executives and procurement professionals, technical and subject matter experts, developers, consumer groups and civil society, and affected users, bringing these groups together to explore and reach consensus on the most promising path forward.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Lesson three: In a changing environment, balance between flexibility and robustness is essential"
+        },
+        {
+            "text": "Certification systems often operate in dynamic, rapidly changing environments and must be resilient to substantial and continual change to remain effective. This process of change brings both challenge and opportunity. If managed appropriately, change can play a positive role, sustaining and promoting justified trust, and increasing adoption of trustworthy systems over time. One common theme to emerge from a range of sectors was a tension between robustness and flexibility: certification must be resilient to changes that could undermine its effectiveness, but also be capable of modification and improvement when needed. Getting the balance right between these can be tricky, but is essential to mitigating the significant challenges posed by the process of change."
+        },
+        {
+            "text": "Certification must be robust, especially in light of the risks of failure or poor performance in safety-critical contexts like aerospace and nuclear safety. Effective governance, including grievance mechanisms and claims management like those in sustainability certification schemes, is seen as essential to ensure quality of certification and minimise the potential for false positives (e.g. a certificate granted in the absence of compliance with requirements). This is especially important in the case of a \u201crace to the bottom\u201d dynamic, which could\u00a0 enable low-quality or unfounded certification, not only risking unjustified trust in untrustworthy systems, but also undermining trust in trustworthy certification."
+        },
+        {
+            "text": "However, certification that is highly robust alone is not likely to succeed in the real world. With rapid technological and social change, flexibility is also critical for ensuring that certification is effective. If done right, flexibility can bolster certification and contribute to continued robustness. Learning from results in order to improve the overall system is crucial, for example removing a poor-performing certification body from the wider system. In the sustainability sector, factors such as scandals and reputational risk factors have also played a role in catalysing wider structural change. We must not wait for these factors to arise, but must instead take proactive measures to avoid them in the governance of AI."
+        },
+        {
+            "text": "Another related question is how competition, and in particular new entrants, will be handled, and how high the bar is set for organisations offering certification services to become accredited. New entrants (e.g. AI assurance startups) could drive the use of more effective AI assurance techniques, and help ensure the AI assurance market keeps pace with continual technological change. The bar for accreditation should therefore be set appropriately to avoid stifling innovation and competition, while ensuring the quality, impartiality and competence of certification services."
+        },
+        {
+            "heading": 2,
+            "text": "From influencing enabling conditions to building effective certification schemes"
+        },
+        {
+            "text": "From these three lessons, we have learned that certain key enabling conditions are necessary for certification to succeed: wider governance structures and mechanisms like principles, standards, and conformity assessment techniques, a diverse stakeholder community, and appropriate management of change over time will all be needed for certification to be effective."
+        },
+        {
+            "text": "Enabling conditions are the starting point, but certification schemes themselves must also be designed and operated appropriately in order to succeed. We will consider some common features of successful certification schemes in part three."
+        }
+    ]
+}
