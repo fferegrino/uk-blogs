@@ -1,0 +1,86 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/07/19/scaling-a-service-quickly-with-the-help-of-user-research/",
+    "title": "Scaling a service quickly, with the help of user research",
+    "authors": [
+        "Kate Stulberg"
+    ],
+    "categories": [
+        "digital services",
+        "User research"
+    ],
+    "pub_date": "2023-07-19T12:52:03+01:00",
+    "content": [
+        {
+            "text": "I am a User Researcher working in Justice Digital as part of the HMPPS Digital team, we enable effective digital services for all who interact with the prison and probation service."
+        },
+        {
+            "text": "The day I joined Justice Digital, a new digital service was launched into private beta. Over the next 6 months, my team was responsible for assessing its performance, so we could be ready to scale up to public beta. With lots to do in not much time, I thought outlining my approach to user research might be useful to others operating in similar conditions."
+        },
+        {
+            "text": "The service in question"
+        },
+        {
+            "text": "When someone is found guilty of a crime, they are given a sentence to serve in prison or in the community. Often, the first part of someone\u2019s sentence will be spent in prison, with the latter part in the community. In these scenarios, a probation practitioner will assess risks associated with the person leaving prison, and put in place particular conditions that must be met in order to manage that risk, for example, not allowing someone to contact the victim of their crime. These conditions go into a licence, which the person leaving prison will sign before they are released. This licence is effectively an agreement between the person leaving prison and probation-abide by the conditions and you can finish your sentence at home. Breach your conditions, and you can be sent back to prison."
+        },
+        {
+            "text": "Our service looks to improve the way licences are created by probation, approved by prison, and understood by the person leaving prison. It\u2019s a mostly digital process that looks to reduce the reliance on emails back and forth between prison and probation, and promotes a more joined up approach to handling prison releases and risk management in the community.\u00a0"
+        },
+        {
+            "text": "A challenge of scale and time"
+        },
+        {
+            "text": "Like many public sector services, the scale of this is huge. Our service can create licences for most people released from prison on licence. Almost all prisons will have releases on licence, and almost all probation practitioners will supervise someone on licence. We\u2019re talking thousands of prison and probation staff creating tens of thousands of licences each year."
+        },
+        {
+            "text": "Like all government services, we followed the GDS approach of starting small in private beta, testing with a limited number of people, before scaling the service wider. In April 2022, we launched our private beta service in South Wales. I will say that this was quite a large private beta, immediately we had hundreds of users creating thousands of licences. We also needed to scale rapidly within about 6 months of going live in South Wales, the service was available in all prisons and probation offices across England and Wales."
+        },
+        {
+            "text": "It was a conscious decision to scale quickly. People often leave prison in one area to move to probation in another. We wanted to minimise the amount of time already busy prison and probation staff had to navigate two services and processes. So, that was another challenge to balance alongside scale.\u00a0"
+        },
+        {
+            "text": "My user research approach"
+        },
+        {
+            "text": "The aim of user research in private beta is to make sure that the developing service meets user needs, and usability issues are uncovered and resolved as we move into public beta. Balancing the need to scale a service at pace, whilst gathering sufficient evidence that we were ready to move into public beta, I approached user research by:"
+        },
+        {
+            "text": "Triangulation"
+        },
+        {
+            "text": "Method triangulation is never a bad idea. Gathering insights from a variety of sources almost always strengthens our understanding of user needs. It can also do a great job of confronting deep-rooted assumptions that may not be challenged so easily if we only use one method to gather feedback. After all, no method is perfect."
+        },
+        {
+            "text": "In addition to lots of moderated usability testing, I organised interviews, set up an in-service survey, and did content testing on service documentation. Alongside one-time qual methods, I also organised longitudinal research (more about this later). Recognising a gap in quantitative methods, and without a Performance Analyst in the team, I learned the basics of Google Analytics to track how users moved through key journeys and where they got stuck. Since the User Centred Design team were also handling tech support queries, I adopted the mindset of a Business Analyst to conduct support ticket analysis, to see if this gave us further insight into the issues users were having with the service."
+        },
+        {
+            "text": "This mix of research methods, along with borrowing approaches from other disciplines, helped the team understand our users much better than if our private beta research had only focused on usability testing. I was able to produce rich insights in a relatively short period of time, which also helped the team prioritise what parts of the service needed to be worked on before scaling into public beta."
+        },
+        {
+            "text": "Be brave"
+        },
+        {
+            "text": "It\u2019s important to be brave and try new things.When I joined the team, the previous User Researcher had proposed doing longitudinal research. This is working with the same users over a period of time to not only understand their needs now, but also see how their needs change over time. A group of users in our private beta region would ad-hoc video call me every time they used the service and, uninterrupted, I\u2019d watch them interact with it."
+        },
+        {
+            "text": "I was a bit worried about this method initially. How would I manage my time if users could call me at any point? What if I forgot to record all that I noticed on the call? What if I wasn\u2019t prepared for the interaction, and users asked me questions I didn\u2019t know the answer to?"
+        },
+        {
+            "text": "These are legitimate things to consider and plan for, and it was a bit disruptive to the rest of my work, but all in all, I think it was worth trying out a new method. It helped the team separate usability issues that were only observed when a user interacted with the service for the first time, compared to issues that persisted over time. Both are important to address but, when working to time pressures, this nuance helped us prioritise more effectively. It also allowed me to gather more organic feedback from users, reducing the bias often found in moderated sessions. Finally, I think building a relationship with these people allowed for a more honest conversation about the service and what needed improving before scaling nationally. So, in the end, not that scary and pretty helpful!"
+        },
+        {
+            "text": "Be pragmatic"
+        },
+        {
+            "text": "Just Enough Research by Erika Hall is a must read for any User Researcher. I find it gives really practical advice for delivering good quality research under time pressure. It challenges the idea that for research to be quick, you must give up on rigour, when that\u2019s just not true. Instead, it\u2019s about recognising and communicating biases and caveats, setting realistic expectations for what can be achieved in a certain period, and using a variety of tools to aid the research process.\u00a0 I started applying for permits to take my laptop into prisons to record the audio of our sessions, rather than having to analyse page upon page of handwritten notes later."
+        },
+        {
+            "text": "Being pragmatic, or doing just enough research, also involves the difficult step of knowing when to stop. Once we felt we knew \u2018enough\u2019 about a topic, or enough for right now, we moved on. If we learned that a feature wasn\u2019t meeting user needs, we\u2019d scrap it. I suspect all User Researchers would agree this is a crucial part of iterative, user-centered working, but I went a step further in this project, and this might be a bit controversial\u2026but I said I\u2019d be brave and try new things, so here we go."
+        },
+        {
+            "text": "In a usability round, if a design component or piece of content was performing particularly badly in the first few sessions, I would discuss this with my Interaction Designer and Content Designer, and we might decide to iterate in-round for future participants. This seemed to work quite well, especially when we knew it was unlikely that we\u2019d get another shot at testing this feature. Although the total number of users testing a particular design may have been fewer, we were still gathering feedback, still iterating and responding to that feedback, and I think what we got from this approach was valuable. The triangulation of methods, particularly reviewing support tickets and reading survey responses also helped to reassure me that we\u2019d done just enough research in these cases, as the problems our new designs were trying to solve stopped coming up."
+        },
+        {
+            "text": "If I was doing this project again, I would do some things differently. Even though we would have always needed to scale quite quickly, we could have started with an even smaller private beta, perhaps one probation office and one prison to identify major usability issues before rolling out further. I would have worked with a Performance Analyst to set baseline metrics to track and measure user behaviour at the offset. I would have sought out more unmoderated feedback routes, for example, heat mapping. But overall, I\u2019m proud of the service we delivered, and how user research helped the team to quickly scale a more effective service for prison and probation staff, as well as the people leaving prison on licence."
+        }
+    ]
+}
