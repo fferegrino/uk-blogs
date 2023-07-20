@@ -1,0 +1,103 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/07/20/how-were-building-a-bespoke-it-system-to-achieve-nutrient-mitigation-for-new-house-building/",
+    "title": "How we're building a bespoke IT system to achieve nutrient mitigation for new house building",
+    "authors": [
+        "Samantha Denham",
+        "Gregor Neeve"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra service design",
+        "Defra services",
+        "User centred design"
+    ],
+    "pub_date": "2023-07-20T08:00:21+01:00",
+    "content": [
+        {
+            "text": "Samantha Denham and Gregor Neeve give us a look behind the scenes at the work that went into building a digital solution to support a key plank of the Government\u2019s housebuilding strategy."
+        },
+        {
+            "text": "In July 2022 the Government announced it would be launching a brand-new scheme to help unlock the development of thousands of new homes by 2030."
+        },
+        {
+            "text": "Natural England\u2019s Nutrient Mitigation Scheme (NMS) launched in March 2023 after months of hard work, problem solving, and sheer determination. NMS has now opened two credit rounds in the Tees catchment with plans to roll out to other areas soon."
+        },
+        {
+            "text": "NMS, devised to protect our waterways from pollution and enable home building, will help Ministers meet the Government\u2019s objectives around growth by unlocking housing quicker. The scheme will lead to the delivery of numerous nature-based solutions, particularly wetlands, whilst speeding up housing delivery."
+        },
+        {
+            "text": "As Mike Burke, Natural England\u2019s Programme Director for Sustainable Development, highlighted in his recent blog, nutrient pollution is an urgent problem for freshwater habitats and estuaries which provide a vital home to many species including wetland birds, fish, and insects. Increased levels of nutrients such as nitrogen and phosphorus can disrupt natural processes and harm wildlife."
+        },
+        {
+            "text": "Not only will the scheme facilitate the delivery of thousands of new homes, it forms part of the wider package of support that Government is providing to promote access to green space, and contribute to nature recovery."
+        },
+        {
+            "heading": 2,
+            "text": "Mobilising capability to build a digital solution"
+        },
+        {
+            "text": "In response to the July 2020 announcement, a core team was rapidly assembled to figure out what would be needed to launch a new and novel scheme, and to explore what digital solutions could be developed in support."
+        },
+        {
+            "text": "What followed was a very 'agile\u2019 (in all senses of the word!) approach to digital delivery.\u00a0 By late July, a project team was already being assembled and working with policy, legal and financial specialists to understand and define the scheme."
+        },
+        {
+            "text": "Meanwhile a digital supplier was being onboarded to commence digital discovery activities. Discovery involves learning about our users, any constraints we might face and what opportunities there are to improve things. In addition, preparations were being made for a business case, including the calculating of cost estimations."
+        },
+        {
+            "text": "The initial discovery phase explored user needs, for both internal and external stakeholders \u2013 this was challenging as the scheme was so new, and the policy was being developed in parallel."
+        },
+        {
+            "text": "What was clear, was that for us to meet a launch date of \u201cQuarter 1\u201d 2023 we would need to have narrowed down requirements and streamlined governance processes to fit an already challenging timeline."
+        },
+        {
+            "heading": 2,
+            "text": "From Alpha to Beta"
+        },
+        {
+            "text": "In the Alpha phase, which is where we try out different solutions to the problems we learned about during discovery, we explored the minimum requirements that would enable scheme launch; drafted business processes, identified key data sets, drafted a Service Design, and developed prototypes."
+        },
+        {
+            "text": "Using the insight gained during the Discovery phase and following consultation with technical specialists and other Defra and Natural England teams, we proposed adoption of a \u201clow code\u201d solution. In other words, configure an out of the box service rather than develop a bespoke system from scratch. This approach would give the best opportunity of a Q1 delivery, and we therefore progressed with a PowerApps development."
+        },
+        {
+            "text": "Another key decision taken at the end of Alpha, was to focus on an internal-only facing delivery for Q1.\u00a0 There were several reasons why we took this approach, including a lack of clear requirements at that stage from external users."
+        },
+        {
+            "text": "Our Beta phase, which is where we take our best idea from alpha and start building it for real, focused on the development of a minimum viable product (MVP) for delivering an internal only solution that would enable Natural England to receive and record applications, hold details of mitigation sites, and manage allocation of mitigation credits ready for launch."
+        },
+        {
+            "heading": 2,
+            "text": "\u2018Language barriers\u2019 to overcome"
+        },
+        {
+            "text": "All the different teams worked closely together throughout the various phases, and this close engagement was critical, given that the policy and strategy were continuously evolving.\u00a0 We played back our user findings to colleagues, refined requirements, and held \u2018Show and Tell\u2019 sessions. All \u2018of this was done with the aim of ensuring that the digital development and business activities were done in tandem and didn\u2019t go off at tangents."
+        },
+        {
+            "text": "Our digital delivery \u2018language\u2019 was quite alien to the Natural England team though who, as scientists and environmental specialists, were not used to talking about user needs, backlog, sprints, and all the other terminology that the digital team are so used to using when following Government Digital Service (GDS) standards."
+        },
+        {
+            "text": "To overcome these obstacles, we provided informal training and guidance to help the Natural England team in understanding the stages of digital delivery, and to tweak and adapt ways of working to benefit all parties."
+        },
+        {
+            "text": "While the digital team were busy building the nutrient mitigation application, the business team were finalising business processes, workflows, data needs; and the broader project team were sourcing and contracting for nutrient mitigation sites."
+        },
+        {
+            "text": "There was also a myriad of governance steps to follow \u2013 from stage assessments, spend approvals, technical and security assurance, accessibility and data protection, business, and operational readiness activities. There was also the small matter of investment approval needed from both Defra and Natural England for us to be able to proceed and drawdown the funds to enable the development to progress."
+        },
+        {
+            "heading": 2,
+            "text": "And then we went \u2018live\u2019"
+        },
+        {
+            "text": "Roll forward eight months from the July announcement, and after what really did feel like a rollercoaster ride, the Nutrient Mitigation Scheme was successfully launched at the end of March, with round 1 opening in the Tees catchment.\u00a0 Within minutes of its launch, the team were inundated with applications for nutrient credits from very eager developers from the Tees."
+        },
+        {
+            "text": "What next for the team?\u00a0 Well, we have jointly developed a service roadmap to plan out what is needed for the next 6-12 months.\u00a0 We are also about to re-commence a new discovery phase, focused on the needs of external users, which we are hoping to get greater insight from now that the scheme is live."
+        },
+        {
+            "text": "So, while we achieved the first major milestone of scheme launch, as ever with digital development, there is still lots more fun to follow!"
+        }
+    ]
+}
