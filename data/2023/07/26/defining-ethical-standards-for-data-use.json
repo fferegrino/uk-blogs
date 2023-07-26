@@ -1,0 +1,58 @@
+{
+    "url": "https://ace.blog.gov.uk/2023/07/26/defining-ethical-standards-for-data-use/",
+    "title": "Defining ethical standards for data use\u00a0",
+    "authors": [
+        "Graedon Crouch"
+    ],
+    "categories": [
+        "Data science"
+    ],
+    "pub_date": "2023-07-26T14:41:09+01:00",
+    "content": [
+        {
+            "text": "Pushing at the boundaries of how data insights can be maximised also means confirming beyond doubt whether that use can be justified\u00a0"
+        },
+        {
+            "text": "Across government and industry the world over, better use of data has become the key to unlocking advances including greater efficiencies and insights, and more informed decision-making."
+        },
+        {
+            "text": "Helping create tools and processes to bring data siloes together, or to extract more information, faster, from existing databases, offers ongoing potential to make our society safer, fairer and more secure. As the wide array of problems brought to ACE to help solve has shown, making better use of data can benefit everyone from bed planners and radiologists at NHS hospitals to frontline officers and counterterrorism police. Better crime prevention, faster solving of crimes and more efficient and faster diagnoses are just some of the benefits from commissions we have worked on. Data itself, meanwhile, is firmly at the heart of leaps forward in artificial intelligence and machine learning."
+        },
+        {
+            "text": "But alongside the undoubted power and potential that data offers comes a corresponding responsibility; the need to be confident that every use is ethical. In our role as data stewards, this means, for each and every piece of work, taking time to understand the level of authority in place around using certain data, how we can ensure that the intended use, including any analytics, is transparent and trustworthy, and that it isn\u2019t used in unintended ways."
+        },
+        {
+            "text": "Even as we work to harness all the benefits that better and more intelligent use of data can bring, we devote considerable time to considering appropriate use, evaluating and managing any risks as they arise. Artifacts such as data processing agreements and data protection impact assessments help to bring rigour to the sharing and use of data. But these are used at the start of the journey and as we progress through technical development, considering and exploring potential bias in outputs and models is continuously undertaken to ensure it is ethically appropriate."
+        },
+        {
+            "text": "Data-driven by nature\u00a0"
+        },
+        {
+            "text": "Bringing data together, making different systems \u2018talk\u2019 to each other to share information more readily, and using data which already exists for a new purpose has been a core part of ACE\u2019s work since our earliest days."
+        },
+        {
+            "text": "This, in turn, has meant that our conversations about what ethical use of data looks like, and what considerations need to be in place and under constant review, have been taking place \u2013 and evolving \u2013 over the course of years, too."
+        },
+        {
+            "text": "We are proud that we have been thoughtful from the outset, always questioning whether proposed data uses are pushing the boundaries of innovation, or threatening to push in a direction that could be potentially problematic as we consider all implications of all the work we are being asked to do."
+        },
+        {
+            "text": "Sometimes that has led to tricky conversations \u2013 a recruiting service wanted to explore whether they could use AI to help sift through initial applications, for example. Technologically, this was certainly something we had the industrial and technical talent to scope and build \u2013 but an initial piece of research, undertaken at our suggestion, made it clear beyond doubt that a truly fair system was simply not possible, due to the likelihood of inherent bias in any data training sets used. The customer agreed, and the work did not go ahead in that form."
+        },
+        {
+            "text": "Staying alert to improvement"
+        },
+        {
+            "text": "While we\u2019ve always been confident in our processes and strong data ethics foundation at ACE, we also understand the importance of constantly testing ourselves against other thinking."
+        },
+        {
+            "text": "Most recently, that led us to have some conversations with the UK government\u2019s Centre for Data Ethics and Innovation (CDEI), an expert body which provides free advice to support the trustworthy and innovative use of data."
+        },
+        {
+            "text": "We went through an ethics review with them, using their framework which aims to identify potential risks and challenges associated with the use of data, and were reassured by how similar our thinking is. This doesn\u2019t mean we\u2019re complacent \u2013 we'll continue questioning ourselves and others, rigorously and constantly. But it was reassuring to be on the same page."
+        },
+        {
+            "text": "And we hope, in turn, that understanding just how seriously we take the ethical use of data at ACE will be reassuring to anyone working with us now or planning to in the future. We don\u2019t just see data and associated innovation as a limitless asset to be tapped, but as a valuable resource that should only be used where it can have a positive impact and be part of creating a better world \u2013 for all of us."
+        }
+    ]
+}

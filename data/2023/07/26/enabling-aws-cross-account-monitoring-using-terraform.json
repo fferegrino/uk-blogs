@@ -1,0 +1,116 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/07/26/enabling-aws-cross-account-monitoring-using-terraform/",
+    "title": "Enabling AWS Cross Account Monitoring Using Terraform",
+    "authors": [
+        "Oswald Quek, Senior Developer, Government Digital Service"
+    ],
+    "categories": [
+        "Posts for Tech Specialists"
+    ],
+    "pub_date": "2023-07-26T11:28:13+01:00",
+    "content": [
+        {
+            "text": "On GOV.UK Pay, we're evaluating options to improve our monitoring and observability capabilities which help us ensure GOV.UK Pay is efficient and reliable."
+        },
+        {
+            "text": "In this post we show how to set up a new AWS feature called CloudWatch cross-account observability using Terraform."
+        },
+        {
+            "text": "GOV.UK Pay runs on AWS and like many organisations, it has multiple AWS accounts to separate our test, staging and live environments, as well as separating our deployment and testing infrastructure. We use a combination of Cloudwatch for our AWS generated Infrastructure metrics and a SaaS product to aggregate our application metrics. One of the downsides with this setup is that engineers need to log into multiple AWS accounts and the SaaS UI to view metrics, making it difficult to correlate behaviour across environments. We're considering ways to improve our monitoring systems and a recently launched AWS feature called \"cross-account observability\" looked like it could help fix this problem. It allows a single AWS account to access instrumentation data from multiple AWS accounts. The potential benefits of this are:\u00a0"
+        },
+        {
+            "text": "When exploring CloudWatch cross-account observability, we wanted to configure everything using Infrastructure as Code using Terraform and avoid having to manually configure (\"click ops\") anything at all. Unfortunately, all the examples found on the internet used the click ops method, and there is sparse documentation on how to configure it in Terraform. Thankfully, we were able to configure everything in Terraform and thought it would be good to share our solution with the world!"
+        },
+        {
+            "heading": 2,
+            "text": "Configure a monitoring account"
+        },
+        {
+            "text": "A source account is an individual AWS account that generates observability data for the resources in it. A monitoring account is the account that can view and interact with observability data generated from source accounts. Configuring the monitoring account requires us to configure a Sink and a Sink policy."
+        },
+        {
+            "text": "This is quite simple (note you\u2019ll need to supply the source account IDs):"
+        },
+        {
+            "text": "\nvariable \"source_account_ids\" {\n type = list(string)\n}"
+        },
+        {
+            "text": "resource \"aws_oam_sink\" \"monitoring_account_oam_sink\" {\n name = \"ExampleSink\"\n}"
+        },
+        {
+            "text": "resource \"aws_oam_sink_policy\" \"monitoring_account_oam_sink_policy\" {\n sink_identifier = aws_oam_sink.monitoring_account_oam_sink.id"
+        },
+        {
+            "text": " // See https://docs.aws.amazon.com/OAM/latest/APIReference/API_PutSinkPolicy.html for examples\n policy = jsonencode({\n   Version = \"2012-10-17\"\n   Statement = [\n     {\n       Action   = [\"oam:CreateLink\", \"oam:UpdateLink\"]\n       Effect   = \"Allow\"\n       Resource = \"*\"\n       Principal = {\n         \"AWS\" = var.source_account_ids\n       }\n       Condition = {\n         \"ForAllValues:StringEquals\" = {\n           \"oam:ResourceTypes\" = [\"AWS::CloudWatch::Metric\"]\n         }\n       }\n     }\n   ]\n })\n}\n"
+        },
+        {
+            "text": "Once applied, you should be able to verify in the AWS console that the monitoring account has been enabled:"
+        },
+        {
+            "heading": 2,
+            "text": "Configure source account(s)"
+        },
+        {
+            "text": "For each source account you\u2019ll need to:"
+        },
+        {
+            "text": "The terraform configuration for this:"
+        },
+        {
+            "text": "\nvariable \"monitoring_account_sink_identifier\" {\n type = string\n}"
+        },
+        {
+            "text": "resource \"aws_oam_link\" \"source_account_oam_link\" {\n label_template  = \"$AccountName\"\n resource_types  = [\"AWS::CloudWatch::Metric\"]\n sink_identifier = var.monitoring_account_sink_identifier\n tags = {\n   Env = \"test\"\n }\n}"
+        },
+        {
+            "text": "locals {\n names = [\n   \"CloudWatchReadOnlyAccess\",\n   \"CloudWatchAutomaticDashboardsAccess\",\n   \"AWSXrayReadOnlyAccess\"\n ]\n}"
+        },
+        {
+            "text": "data \"aws_iam_policy\" \"policy\" {\n for_each = toset(local.names)\n name     = each.value\n}"
+        },
+        {
+            "text": "variable \"monitoring_account_id\" {\n type = string\n}"
+        },
+        {
+            "text": "locals {\n policy = {\n   \"Version\" : \"2012-10-17\",\n   \"Statement\" : [\n     {\n       \"Effect\" : \"Allow\",\n       \"Principal\" : {\n         \"AWS\" : var.monitoring_account_id\n       },\n       \"Action\" : \"sts:AssumeRole\"\n     }\n   ]\n }\n}"
+        },
+        {
+            "text": "resource \"aws_iam_role\" \"aws-cloudwatch-metrics-role\" {\n name = \"CloudWatch-CrossAccountSharingRole\""
+        },
+        {
+            "text": " assume_role_policy = jsonencode(local.policy)\n}"
+        },
+        {
+            "text": "resource \"aws_iam_role_policy_attachment\" \"policy\" {\n for_each = toset(local.names)"
+        },
+        {
+            "text": " policy_arn = data.aws_iam_policy.policy[each.key].arn\n role       = aws_iam_role.aws-cloudwatch-metrics-role.name\n}\n"
+        },
+        {
+            "text": "Once the above has been applied we can now go into our monitoring account and enter a source account number to see metrics from the source account:"
+        },
+        {
+            "heading": 2,
+            "text": "Viewing a cross account metric"
+        },
+        {
+            "text": "With the above set up, we were able to view cross account metrics on our self-hosted grafana dashboard on our monitoring account:"
+        },
+        {
+            "text": "Here we are viewing a CodeBuild metric from the \u201ctest-12\u201d environment (which is in the \u201ctest\u201d account) from our monitoring account.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "We were able to collate metrics from AWS resources from multiple accounts (in the same region) into one designated monitoring account. We were able to configure this completely using our infrastructure-as-code tool, Terraform. Although we focused specifically on metrics here, this should work for logs and traces too. Although we have yet to make a decision on the solution, the benefits to be had from this AWS feature seem to be compelling at the moment."
+        },
+        {
+            "text": "It is worth mentioning the following caveats:"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
