@@ -1,0 +1,67 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/08/08/how-common-platforms-deliver-brilliant-digital-services/",
+    "title": "How common platforms deliver brilliant digital services",
+    "authors": [
+        "Amanda Dahl, Deputy Director of Digital Service Platforms, GDS"
+    ],
+    "categories": [
+        "Digital Service Platforms"
+    ],
+    "pub_date": "2023-08-08T10:55:25+01:00",
+    "content": [
+        {
+            "text": "Hi there! I joined GDS back in December 2022 and I\u2019m really pleased to be writing my first blog post. I came to GDS because both the organisation and I share a passion for driving positive impact for citizens and I\u2019m so happy to have seen so much evidence of that happening here in the last 6 months."
+        },
+        {
+            "text": "I\u2019m responsible for GDS\u2019s digital service platform products and my teams exist to serve the needs of government users, providing cost-effective, time saving digital solutions that mean there\u2019s no need to reinvent the wheel, go to market through lengthy and costly procurement exercises, or manage the risks of building from scratch in-house."
+        },
+        {
+            "text": "Creating common platforms means understanding the issues faced right across government services, and to this end we are constantly learning and sharing with government teams both in the UK and around the world. We take our learnings and apply them directly to our product development process, so as to create solutions which meet the needs of many, up to and including becoming Digital Public Goods. Additionally, we put a huge amount of effort into the maintenance and operations of our product suite, making sure they remain secure, accessible and available to our users."
+        },
+        {
+            "text": "In celebration of all this, I am so pleased to share more about how we\u2019re helping government teams transform services and give our readers an update on what\u2019s happening next."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s been delivered"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing next"
+        },
+        {
+            "text": "With all digital products, it\u2019s important to continue developing them based on user needs, even when they are well established like GOV.UK Pay, GOV.UK Notify or GOV.UK Design System."
+        },
+        {
+            "text": "GOV.UK Pay already offers Apple Pay and Google Pay to central government digital services, but soon we\u2019re releasing the same mobile wallet payment types to local authority services and this will be a great benefit to people who are paying for government services on the go, like paying for Clean Air Zone charges."
+        },
+        {
+            "text": "Later this year we\u2019ll also be investigating how GOV.UK Pay might offer open banking, which means that people will have the option to pay for services conveniently using their own banking app.\u00a0"
+        },
+        {
+            "text": "GOV.UK Notify is also launching the ability to add attachments and QR codes to letters, which will enable more government services to use the product to communicate to citizens."
+        },
+        {
+            "text": "It\u2019s also right for us to call out developments with the accessibility of services. GOV.UK Design System are reviewing all components and patterns in line with the new WCAG 2.2 guidelines, updating these now so that government users will have less to do when the new guidelines are published later in the year. You can find out more about WCAG 2.2 on our YouTube channel."
+        },
+        {
+            "text": "Product development is also important for our emerging products, like GOV.UK Forms, which is in private beta. We\u2019ve already made some great strides in transforming services, working in partnership with teams like the Redundancy Payments Service in the Insolvency Service.\u00a0"
+        },
+        {
+            "text": "We\u2019re currently testing GOV.UK Forms with a limited number of other government teams to help us understand how the product is working and what issues we need to address before we make it more widely available. DWP\u2019s Access to Work Plus referral is one of the services now using GOV.UK Forms and provides support for people with high in-work support needs.\u00a0"
+        },
+        {
+            "text": "There\u2019s more to come from all of our teams really soon and you can read about our strategy for GOV.UK Notify and how we\u2019re understanding more about users of the GOV.UK Prototype Kit in our recent blog posts.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The future of our common platforms"
+        },
+        {
+            "text": "Ultimately, we want to be the first choice for building government digital services and it\u2019s my vision for the future that any team in government, regardless of their technical skills, can deliver usable, accessible digital services that integrate seamlessly with GOV.UK, so our new mission is to integrate our products to enable that to happen."
+        },
+        {
+            "text": "You\u2019ll be hearing more about it from us soon, so please stay tuned for our next update."
+        }
+    ]
+}

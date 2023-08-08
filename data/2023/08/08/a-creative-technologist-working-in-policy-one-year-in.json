@@ -1,0 +1,65 @@
+{
+    "url": "https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/",
+    "title": "A Creative Technologist working in policy: One year in",
+    "authors": [
+        "brendanarnold"
+    ],
+    "categories": [
+        "Policy Lab"
+    ],
+    "pub_date": "2023-08-08T09:16:40+01:00",
+    "content": [
+        {
+            "text": "What if policymakers could make more effective and more creative use of technology to get better results for citizens? Policy Lab set out to find the answer to this question by hiring the UK government\u2019s first Creative Technologist in Spring 2022. I\u2019m Brendan and after over a year working in this role I wanted to share some reflections on what it is like to make the leap from software developer into a new hybrid policy role."
+        },
+        {
+            "heading": 3,
+            "text": "Why a creative technologist, and not an embedded developer?"
+        },
+        {
+            "text": "Policy Lab has been at the forefront of bringing different approaches including a wide range of digital tools and methods into policymaking. Off the back of the 2021 launch of the Collective Intelligence Lab within Policy Lab, there was a clear need to adapt the \u2018pol.is\u2019 collective intelligence tool to government requirements. Beyond delivering a specific digital product, Policy Lab also wanted to explore other opportunities which needed technical expertise against a backdrop of policy development."
+        },
+        {
+            "text": "One way to do this could be to hire a \u2018full-stack\u2019 developer, who could develop digital products from start to finish. However this is typically a well defined, specialised role and it may not be appropriate to expect a developer, who might work with a focussed delivery mindset, to adapt to doing design-led policy. The new \u2018Creative Technologist\u2019 role was created to bridge design thinking, technical knowhow and policy work."
+        },
+        {
+            "text": "I\u2019ve been able to shape the new role through past experiences as a physicist, shopkeeper, maker and artist. For example, my physics background meant I could help Policy Lab bring data analysis in-house and has helped the team\u2019s understanding of highly technical pol.is outputs. My experience as a shopkeeper and an artist has enabled me to present work more effectively and engagingly, for instance by curating a \u2018market stall\u2019 at a recent Evidence House event organised by the No.10 Data Science team. I hope to discuss more on the creative and making aspects of the role in a future blog post but will focus first on the technological side of the role.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Building the foundation for digital experimentation in government"
+        },
+        {
+            "text": "Part of Policy Lab\u2019s approach is to create spaces for innovation to happen. This can be through interactive events and by making use of \u2018maker\u2019 spaces such as Makerversity where we develop physical artefacts to support policy development - or through digital \u2018spaces\u2019. Although they do not require physical space, digital products, especially in government, need to fit in a complex landscape of governance."
+        },
+        {
+            "text": "When I first arrived, there was a clear challenge of how to reconcile rapid digital prototyping with the high bar of compliance that comes with government software. In order to address this challenge, I worked with the security professionals from our department to build a digital space for innovation to happen - a virtual sandbox. This provides blanket technical, operational and security governance to ad-hoc prototype digital projects that fit a set of agreed constraints alongside streamlined privacy, accessibility and data governance. We also have expertise in this area from our lived experience research which helped when extending safeguards into the digital space."
+        },
+        {
+            "text": "Our sandbox environment, which we call the Gallery, allows us to incubate experimental digital products in a secure environment with the right kind of protections for government. Although we have some constraints, we can still present information in novel data visualisations, micro-sites, browser-based games and other interesting web-based prototypes. For example, not long after the Gallery was built we used it to present lived experience research to understand land management in England through a project-specific micro-site (see image below). We rendered audio clips, stories and animations in an attractive magazine layout rather than a static report to bring to life and make engaging, complex case studies. This approach is adaptable and extensible and has generated significant interest from policymakers across government and was well received when demonstrated at the ministerial level. Through this approach we can bring the literal voices of stakeholders to decision makers in government."
+        },
+        {
+            "heading": 3,
+            "text": "Working with civic tech groups"
+        },
+        {
+            "text": "Whilst I spend a lot of my time on policy projects, I have also developed the Collective Intelligence Lab\u2019s pol.is tool which allows large groups of people to engage with each other on a given policy topic. Much of this work was adapting pol.is to work on our government cloud computing environment, writing scripts to interpret results as well as work on the pol.is codebase to bring it more in line with government standards."
+        },
+        {
+            "text": "One way we have been able to bolster our efforts is through aligning our work with external civic tech groups who already work on the open-source pol.is project. We created the `polis-whitelabel fork\u2019 - a pared down, simplified, copy of the original pol.is codebase. We have incorporated the community\u2019s changes and we in turn have added similar simplifying changes which have been shared back. The goal of the \u2018whitelabel\u2019 fork is to make it easier for organisations to add their own customisations. Since creating it we have seen renewed interest in development not just on our fork but also the wider pol.is project which benefited us as well as the extended pol.is open-source community."
+        },
+        {
+            "heading": 3,
+            "text": "Scope for creative tech in policy"
+        },
+        {
+            "text": "Now that I\u2019ve spent time in a policy context and seen how Policy Lab works, I can see so many possible policy challenges and opportunities that could be tackled with software. This could range from tools to track policy progress, policy outcomes and policy evaluation in an easily digestible way, through to applying technology to explore our experimental methods. Some ideas we have already discussed with commissioners or are looking to explore include building an online serious game, prototyping a digital twin and conducting lived experience research in the metaverse."
+        },
+        {
+            "text": "Some of the best digital tools available cater to software developers, chiefly because the builders of that software understand their own challenges the best. Similarly the Policy Lab open-policy making approach has influenced the tools that I\u2019ve focussed on, such as the Gallery sandbox which enables rapid iteration on prototypes as well as scripts that create better digital outputs for policymakers. I hope to build on these foundations to experiment with more digital tools that could improve the way policy is made in the future."
+        },
+        {
+            "text": "If you are a policy team and want to talk to us about projects where a creative technologist can play a role, you can read our Prospectus and get in touch at team@policylab.gov.uk."
+        }
+    ]
+}
