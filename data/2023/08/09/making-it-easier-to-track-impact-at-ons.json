@@ -1,0 +1,84 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/08/09/making-it-easier-to-track-impact-at-ons/",
+    "title": "Making it easier to track impact at ONS",
+    "authors": [
+        "Louise Corti, Head of Analytical Insights and Impact, Integrated Data Service, Office for National Statistics"
+    ],
+    "categories": [
+        "Cross-government strategy",
+        "Data"
+    ],
+    "pub_date": "2023-08-09T13:34:18+01:00",
+    "content": [
+        {
+            "text": "Monitoring and evaluation are core activities for many of us working at the Office for National Statistics (ONS). Keeping track of use of our data at ONS is always challenging for our impact and evaluation teams. In addition to standard webpage metrics like Google Analytics, trawling the internet for mentions and acknowledgements of data or ONS, there are other tools that can help us identify outputs and outcomes from use of data.\u00a0"
+        },
+        {
+            "text": "Digital Object Identifiers (DOIs) are just one of these. They are unique identifiers that make it easier to track online where digital assets have been used in research, policy and the public domain.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What are DOIs?"
+        },
+        {
+            "text": "A DOI is a string of numbers, letters and symbols used to uniquely identify an online publication (article or dataset) and provide it with a permanent web address. It\u2019s like a fingerprint for digital content, which can point to a landing page that describes the asset and how to get hold of it.\u00a0"
+        },
+        {
+            "text": "Even if a URL for the landing page changes, the DOI will still take users to the original publication or dataset, making it a robust future-proofed citation tool.\u00a0\u00a0"
+        },
+        {
+            "text": "Tracking tools can be used to pick up mentions of the DOI in published research papers and reports, media and social media articles, and other online platforms"
+        },
+        {
+            "heading": 3,
+            "text": "How can ONS benefit from having DOIs?"
+        },
+        {
+            "text": "I\u2019ve been working on helping implement DOIs and a tracking system for one of the ONS data catalogues \u2013 for the Secure Research Service (SRS). This started with bringing together a helpful cross ONS working group to appraise and discuss business and user needs for DOIs within the organisation.\u00a0"
+        },
+        {
+            "text": "The availability of DOIs for data or publications enables a range of benefits for data producers like us, and research services like the ONS Secure Research Service\u00a0 and the forthcoming cross government Integrated Data Service. These include:\u00a0"
+        },
+        {
+            "text": "The use of DOIs builds on work we did in 2022 with the ONS Content team to create a standard house style format for citing\u00a0ONS releases .\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What will the Secure Research Service (SRS) pilot tell us?"
+        },
+        {
+            "text": "We are delighted to have rolled out DOIs in October 2022 for the SRS catalogue.\u00a0\u00a0"
+        },
+        {
+            "text": "A standard citation for a dataset available in the catalogue is:\u00a0"
+        },
+        {
+            "text": "Office for National Statistics (ONS), released 14 May 2020, ONS website, dataset, Annual Business Inquiry \u2013 UK. https://doi.org/10.57906/59tw-g536."
+        },
+        {
+            "text": "One of my team\u2019s roles is to track and showcase impact from the use of the ONS controlled data assets available to researchers. We have set up an Impact Tracking database, and record outputs when analysts tell us what they have done and where to find their publications or communications . Gathering this information involves a lot of manual work and there are many more outputs still to detect! We have implemented Altmetric badges to help capture citations across the wider digital landscape (the red circle). The badge provides a summary of the volume and type of attention a dataset has received."
+        },
+        {
+            "text": "We are hoping DOIs help us automatically pick up instances where they have cited the data, helping us track use productively."
+        },
+        {
+            "text": "Our pilot will also allow us to assess what the technical and operational burden is for selected or wider implementation of the DOI system within ONS, and to see whether we are able to track use productively.\u00a0\u00a0"
+        },
+        {
+            "text": "Finally, this is the first time DOIs have been made available for any UK government data assets. This early adoption at ONS is seen as a great opportunity to review implementation approaches for wider UK government digital publishing.\u00a0 The Data Standards Authority (DSA) endorsed the adoption of the DOIs across government, as a recommended standard in March 2023."
+        },
+        {
+            "heading": 3,
+            "text": "Campaign to use DOIs"
+        },
+        {
+            "text": "Now that DOIs are available for the SRS data catalogue, we must remind researchers and communicators to use them so that everyone can benefit from improved citation! Help on using our DOIs and catalogue can be found in our FAQ.\u00a0\u00a0"
+        },
+        {
+            "text": "We hope that as the DOI standard gains more interest across government publishing, a support community may emerge to help guide on implementation issues."
+        },
+        {
+            "text": "I can\u2019t help singing to myself, \u2018I\u2019m giving you good citations\u2019\u2026so I\u2019m hoping DOIs do exactly that!"
+        }
+    ]
+}
