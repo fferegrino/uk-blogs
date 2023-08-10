@@ -1,0 +1,119 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/08/10/making-it-easier-to-add-images-on-gov-uk/",
+    "title": "Making it easier to add images on GOV.UK",
+    "authors": [
+        "Nikin Nagewadia, Senior Interaction Designer, GOV.UK",
+        "Dan Karaj, Senior Frontend Developer, GOV.UK",
+        "Mike Whitehouse, Senior Product Manager, GOV.UK"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2023-08-10T11:28:04+01:00",
+    "content": [
+        {
+            "text": "GDS' mission is to design and protect the user experience of government. GOV.UK is not only used by 11 million users each week, but also by over two thousand civil servants to publish information in more than 700,000 pages."
+        },
+        {
+            "text": "This means there\u2019s a lot of content on the site, with thousands of items edited and published every week. This content includes critical and life-saving content relating to everything from COVID-19, taxes, or receiving emergency consular support."
+        },
+        {
+            "text": "Most civil servants publish content on GOV.UK using a tool called Whitehall - a bespoke content management system. This is one of our main publishing applications and is home to around 80% of the content on GOV.UK."
+        },
+        {
+            "text": "As part of the work of the GOV.UK publishing team, we regularly iterate and improve Whitehall to ensure it meets user needs. From our user research, and analysis of performance data in Google Analytics, we noticed that one of the highest errors for publishers was uploading images so we wanted to see how we could improve this."
+        },
+        {
+            "text": "By making it smoother to upload, errors were reduced by a third. This makes it easier for civil servants to use images in their content and saves time. Meaning important government content is published quicker, helping users get information faster, clearer and in a more engaging way. Also helping improve accessibility issues for those with reading difficulties or using assistive technology."
+        },
+        {
+            "text": "This is part of our strategy work, particularly our focus on reducing the complexity of our publishing tools. Something we\u2019ve blogged about before and will blog about again so watch this space!"
+        },
+        {
+            "heading": 2,
+            "text": "What the problems were"
+        },
+        {
+            "heading": 3,
+            "text": "Uploading images"
+        },
+        {
+            "text": "Previously, adding images into Whitehall was complicated. For starters, the image prompt was located in the middle of a long page which was filled with required and optional input fields that generated the structure of a GOV.UK page. Publishers sometimes made mistakes and would have to re-enter information, slowing the publication process. We noticed that many errors were from uploading an incorrect file type, as well as uploading images that were in the wrong dimensions."
+        },
+        {
+            "text": "In the latter case, a publisher would come across an error message if the image\u2019s dimensions were not exactly 960 pixels by 640 pixels. Even if they had inputted all the fields correctly. In order to proceed in the document creation process, publishers would need to find a third-party tool to then resize images to those specific dimensions. As a result, images would sometimes appear distorted or pixelated just so they could adhere to those strict image dimensions."
+        },
+        {
+            "heading": 3,
+            "text": "Deleting images"
+        },
+        {
+            "text": "We also realised that deleting an image caused further frustration for users of Whitehall. This was because we were using a numbered process, where every image uploaded to a document was given a number that a user then added in markdown for the image to appear in the final draft. When a user deleted an image, everything had to be reordered and their page updated manually which wasted time and effort."
+        },
+        {
+            "heading": 2,
+            "text": "How we approached the problem"
+        },
+        {
+            "text": "To help solve the problems identified, we ran a design 'charrette', an activity to help us generate as many design ideas as possible within the team in the shortest possible time. We brought together 10 people from various disciplines, including a user researcher, a delivery and a product manager, a front and a back-end developer, along with a couple of content designers."
+        },
+        {
+            "text": "After becoming familiar with the problem space, we ran a 5-minute rapid sketching session following which everyone shared their sketches on how they would go about designing a possible solution. Even though each participant\u2019s approach was influenced by their respective discipline, common patterns and ideas were present. We explored and refined these further, while ensuring that they not only abided by interaction design best practice but were also viable."
+        },
+        {
+            "text": "We worked in an agile way, starting small and building incrementally, so before starting technical implementation, we broke down the various design ideas into a number of phases. This allowed us to prioritise features based on a combination of user needs and complexity of implementation."
+        },
+        {
+            "heading": 2,
+            "text": "How it works now"
+        },
+        {
+            "heading": 3,
+            "text": "A dedicated tab for uploading and managing images"
+        },
+        {
+            "text": "We have streamlined the workflow, so that images no longer have to be uploaded on the edit document page. Instead, they now appear on a dedicated tab once a new document has been saved. This dedicated images tab allows publishers to upload images and manage those that have already been uploaded. For instance, publishers can make any necessary adjustments to the image and copy the image\u2019s unique markdown code."
+        },
+        {
+            "heading": 3,
+            "text": "Cropping images"
+        },
+        {
+            "text": "Whitehall now allows publishers to upload images greater than 960 pixels wide by 640 pixels high, with the ability to crop images to the correct aspect ratio available within the publishing application."
+        },
+        {
+            "heading": 3,
+            "text": "An updated markdown identifier for images"
+        },
+        {
+            "text": "The issue of having to update markdown identifiers when an image is deleted or replaced has also been addressed. The application now uses the uploaded image's filename and type as its markdown identifier, rather than a numerical value. This change should help publishers ensure the correct image appears in the right place in their document, as well as removing the task of having to update image markdown."
+        },
+        {
+            "heading": 3,
+            "text": "Alt text"
+        },
+        {
+            "text": "We take accessibility seriously and we aim to be world-leading. This is to ensure that pages on GOV.UK can be viewed and understood by all users equally. In line with our content guidance we have removed the alt text field and suggested that alt text descriptions should be added to the main body copy instead. This means the description is available to everyone."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Since launch, there has been a 33% reduction in errors in relation to everything images within Whitehall. We\u2019ve also heard great things from users including the following from a content designer at the Department for Environment, Food and Rural Affairs:"
+        },
+        {
+            "text": "We\u2019re not stopping here though! We are committed to continuing to improve the experience for publishers on GOV.UK, and want to keep iterating to make the process easier."
+        },
+        {
+            "text": "We will be exploring further work on images, such as changing the lead image, replacing images or bulk uploading. We are also looking at how we can build on our previous work by refining the wider process of adding, uploading and changing content."
+        },
+        {
+            "text": "If you have any questions or feedback about this update or publishing, you can email publishing-service-feedback@digital.cabinet.office.gov.uk."
+        },
+        {
+            "text": "We are also running regular sessions to test our ideas and learn from government publishers. If you\u2019d like to take part in user research, sign up through the Google form or by emailing us."
+        }
+    ]
+}

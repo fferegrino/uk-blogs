@@ -1,0 +1,60 @@
+{
+    "url": "https://technology.blog.gov.uk/2023/08/10/advocating-security-txt-across-uk-government/",
+    "title": "Advocating security.txt across UK government",
+    "authors": [
+        "Ollie N, Head of Vulnerability Management, National Cyber Security Centre"
+    ],
+    "categories": [
+        "Data",
+        "Open Standards",
+        "Security"
+    ],
+    "pub_date": "2023-08-10T12:44:53+01:00",
+    "content": [
+        {
+            "text": "Technology has revolutionised every aspect of our society and our economy, including the way that we deliver our public services, helping to make people\u2019s lives easier and safer. Security vulnerabilities are discovered all the time online and people want to be able to report them directly to the organisation responsible. That\u2019s why we are advocating for the use of security.txt as a standardised way of doing just that. One of the most important elements of vulnerability disclosure, and a challenge for the finder, is understanding who to contact. "
+        },
+        {
+            "text": "Security.txt describes a text file that advertises the organisation\u2019s vulnerability disclosure process so that someone can quickly find all of the information needed to report a vulnerability. It is a voluntary standard for internet users set by the Internet Engineering Task Force (RFC 9116)."
+        },
+        {
+            "text": "Security.txt will serve the government in its aim to become more resilient in its online security by making it easier for anyone to report vulnerabilities they have found. Quick, easy and secure reporting directly to the affected department speeds up the triage and remediation time and reduces the risk of compromise, such as reporting of a vulnerable web server so it can be remediated before being exploited. The security.txt was endorsed by the Data Standards Authority in March 2023."
+        },
+        {
+            "text": "Benefits to government departments & finders"
+        },
+        {
+            "text": "The ability to receive, respond and ultimately fix a reported vulnerability is essential to providing secure products and services. Being open to receiving vulnerability reports helps departments engage constructively with those who find them - \u2018finders\u2019. Engaging with finders can be a source of valuable information that would otherwise be missed or require additional time and effort to discover."
+        },
+        {
+            "text": "Vulnerability disclosure policy"
+        },
+        {
+            "text": "Departments should define what they expect from someone reporting a vulnerability, as well as what they will do in response, by providing a clear policy. This enables the department and the finder to confidently work within an agreed framework."
+        },
+        {
+            "text": "In its basic form, a vulnerability disclosure policy should contain the following information:"
+        },
+        {
+            "text": "How to implement security.txt"
+        },
+        {
+            "text": "Security.txt is a plaintext file that should be published in the \u201c/.well-known\u201d directory of the domain root."
+        },
+        {
+            "text": "The file contains three key fields:\u00a0"
+        },
+        {
+            "text": "CONTACT: How finders should report vulnerabilities. For example, email or secure web form."
+        },
+        {
+            "text": "POLICY: A link to the department\u2019s vulnerability disclosure policy."
+        },
+        {
+            "text": "EXPIRES: Indicates the date and time after which the data contained in the \"security.txt\" file is considered stale and should not be used. The value of this field is formatted according to the Internet profile of [ISO.8601] as defined in [RFC3339]. It is recommended that the value of this field be less than a year into the future to avoid staleness."
+        },
+        {
+            "text": "The ENCRYPTION field is optional and should link to the PGP public key you wish to be used for encrypted communication."
+        }
+    ]
+}
