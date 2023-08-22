@@ -1,0 +1,74 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/08/22/gov-uk-one-login-building-a-green-digital-service/",
+    "title": "GOV.UK One Login: building a green digital service",
+    "authors": [
+        "Natalie Jones OBE - Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "Green IT",
+        "Identity Assurance"
+    ],
+    "pub_date": "2023-08-22T12:19:18+01:00",
+    "content": [
+        {
+            "text": "I wanted to update you on an aspect of our work in GOV.UK One Login that we haven\u2019t really talked about before, our drive to make it one of the most sustainable government digital services in operation.\u00a0"
+        },
+        {
+            "text": "As part of our work to design the solution, we started to take a real interest in how different technical and style choices have a direct impact on carbon emissions. And when we really started to look at it in detail we realised how much work has been done in this space and yet how hard it still was to get a definitive \u2018how to\u2019 guide from anywhere if you want to start to calculate the carbon footprint of your digital service.\u00a0"
+        },
+        {
+            "text": "My deepest thanks to colleagues in Defra and our partnering organisations who have invested time (and patience) with us, helping us to understand the issues, the tools and principles we need to put into practice to be able to both measure a footprint but also to evaluate the effect of any future changes we might implement as a result.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How we started our green journey"
+        },
+        {
+            "text": "OK, some technical bits, for those of you that already know this, please bear with me. Calculating your emissions or your sustainability is as much art as science and in order to make any tangible progress you have to draw a ring around the things you\u2019re trying to measure and influence.\u00a0"
+        },
+        {
+            "text": "For us this meant focussing on the greening of digital services not greening by digital services. Sounds similar right? They\u2019re actually quite different. We've decided to focus on how we can make the digital tech we\u2019re building as sustainable as possible, rather than trying to calculate the emissions saved by people being able to complete things online rather than perhaps taking a bus to complete a face to face interaction.\u00a0"
+        },
+        {
+            "text": "We\u2019ve defined our \u2018digital service\u2019 as a combination of data centres and hosting, networks and end user devices, both those used by us to build and run the service but also those used by citizens when they access it.\u00a0"
+        },
+        {
+            "text": "Then we set about trying to measure our emissions and started to run experiments in areas to see whether changes to a design, or implementation can reduce our carbon emissions.\u00a0"
+        },
+        {
+            "text": "It\u2019s taken us nearly four months to get a baseline! We built an app in less time than that! Which goes to show how hard it\u2019s been to get data, and tooling and figure out how to come up with numbers that are robust. We think our numbers are probably under estimates and we\u2019ll continue to refine them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Understanding our digital emissions\u00a0"
+        },
+        {
+            "text": "We think One Login\u2019s annual digital emissions are currently roughly ~200 tonnes of CO2e but this will grow as the user base grows, likely from hundreds to thousands of tonnes of CO2e. It is not easy to compare One Login\u2019s carbon emissions to other web services as they are driven by a number of factors. However there are a number of other data points that we can use to compare One Login to other services."
+        },
+        {
+            "text": "Two of these data points are website page weight and mobile app size that indicate the amount of data transferred when using One Login (on the web or the app). The amount of data transfer impacts the amount of energy used to interact with the service, therefore impacting the overall carbon emissions attributed to citizens for using the service. Although it\u2019s not as simple as saying lower data transfer leads to lower emissions, it is a useful data point to estimate the emissions of web services and to compare One Login to others.\u00a0\u00a0"
+        },
+        {
+            "text": "One Login has relatively low page weights and app sizes as the comparison to other services below shows. Of course One Login has a different use case to these sites, however this still illustrates that we think we aren\u2019t doing too badly."
+        },
+        {
+            "text": "So now we have a baseline, we are starting to build out a prioritised roadmap of activities to reduce our carbon emissions and put in place better tools to monitor emissions on an ongoing basis. Some examples of activities we are considering to reduce One Login\u2019s emissions include: hosting assets (e.g. images and fonts) on shared domain so the user only has to download the assets to their device once, ensuring all our computing workloads scale dynamically, removing some unused cloud assets and implementing better data classification and use policies to minimise unnecessary data storage.\u00a0\u00a0"
+        },
+        {
+            "text": "Next we\u2019re rolling onto our neighbours in GOV.UK to run a similar exercise on GOV.UK itself. So exciting! Let\u2019s hope we can shave a couple of months off our previous measurement time.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Future proofing green IT"
+        },
+        {
+            "text": "As the SRO for GOV.UK One Login I\u2019m really passionate about understanding how we can make sustainability one of the factors all government digital teams consider when they\u2019re making design or technical choices. In GOV.UK One Login we have the glimmer of an idea that in order to do this teams will need a set of simple tools and processes they can apply and as we collaborate with GOV.UK teams on calculating their footprint we\u2019ll be adding to our lessons learned around how to measure things effectively and efficiently.\u00a0"
+        },
+        {
+            "text": "I\u2019m hoping we\u2019ll have much more to share on our journey into green digital over the coming months and years but for now\u2026 if you\u2019re out there and you\u2019re reading this and you\u2019ve done work in this area and have tips, tools, how to guides or ideas about how to help please do get in touch with the Green IT Team so we can share ideas and move forwards together.\u00a0"
+        },
+        {
+            "text": "Natalie Jones\u00a0"
+        }
+    ]
+}
