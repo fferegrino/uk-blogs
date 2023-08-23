@@ -1,0 +1,110 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2023/08/23/how-organisations-respond-to-accessibility-monitoring/",
+    "title": "How organisations respond to accessibility monitoring",
+    "authors": [
+        "Keeley Talbot - Accessibility Officer - Government Digital Service",
+        "Andrew Mitchell - Digital Officer - Northumberland National Park Authority",
+        "Elisabeth Ellis - Communications Officer - Derbyshire Community Health Services NHS Foundation Trust"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Monitoring"
+    ],
+    "pub_date": "2023-08-23T14:18:30+01:00",
+    "content": [
+        {
+            "text": "The Government Digital Service's mission is to make digital government simpler, clearer and faster for everyone. As part of this, GDS works right across government to make the content simple and accessible to all.\u00a0"
+        },
+        {
+            "text": "The Accessibility monitoring team at GDS audits public sector websites and mobile applications (apps) to see if they meet the accessibility regulations and work with organisations to fix accessibility issues identified in our reports.\u00a0"
+        },
+        {
+            "text": "We use a mixture of manual and automated tools to do simplified, detailed and mobile audits. We randomly select public sector websites and mobile apps to test."
+        },
+        {
+            "text": "Throughout this process we also provide support to organisations to help make sure their website is accessible and inclusive.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "After the initial audit, we review the website to check on the issues we initially found and how they\u2019ve been fixed.\u00a0"
+        },
+        {
+            "text": "This information is then sent to the Equality and Human Rights Commission (EHRC) or Equality Commission for Northern Ireland (ECNI) for any further compliance or enforcement.\u00a0"
+        },
+        {
+            "text": "We carry out many audits each year and recently asked 3 organisations that have been through an audit to share their experiences."
+        },
+        {
+            "heading": 2,
+            "text": "\u201cMake accessibility a part of your day to day work\u201d"
+        },
+        {
+            "text": "Andrew Mitchell, Northumberland National Park Authority"
+        },
+        {
+            "text": "\u201cAs digital officer, I work with colleagues to create content for general and specialist audiences as well as have day to day responsibility for our website. This was our second GDS audit and it identified a number of issues that required remediation."
+        },
+        {
+            "text": "\u201cWe found the advice and information in the GDS audit invaluable. Our web developers weren't aware that the errors on the site were accessibility issues so the step by step error reporting made it easier to address the problems."
+        },
+        {
+            "text": "\u201cWe\u2019re continuing to assess our website weekly and fix issues. We use the accessibility platform Silktide and Axe. Staff have also done accessibility training for document creation. We are looking to redesign our website and the accessibility requirements will be a key part of the procurement for this."
+        },
+        {
+            "text": "\u201cAdvising our leadership team about the accessibility regulations for content and documents has made web requests less onerous. Staff are now aware the documents must be accessible. They regularly ask if certain content and layouts will be accessible - something which never happened before the GDS audits.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "\u201cEducate yourselves on accessibility\u201d"
+        },
+        {
+            "text": "Elisabeth Ellis, Derbyshire Community Health Services NHS Foundation Trust"
+        },
+        {
+            "text": "\u201cAs Communications Officer at Derbyshire Community Health Services NHS Foundation Trust, I oversee the Trust\u2019s website and intranet. This includes the accessibility of content across the website.\u00a0"
+        },
+        {
+            "text": "\"Receiving the report inspired us to learn more about accessibility and how we could improve the content we share with both our patients and our staff. We shared the report with our web agency immediately who were able to identify the technical issues and correct them quickly."
+        },
+        {
+            "text": "\u201cOur biggest challenge was the amount of documents we house on our website. We are looking to move to using HTML but this isn\u2019t a change that can happen overnight, so we now ensure every document we upload or replace is accessible. We learnt how to use accessibility checkers and also how to make other versions available, including text only versions."
+        },
+        {
+            "text": "\"We have educated ourselves on all things accessibility and are starting to roll this out to other departments too. This has included online training and reading materials shared by the Government Digital Service. I am now sitting in a Trust accessibility group where I can feed in the website accessibility requirements. This will help to improve website accessibility knowledge wider in the Trust."
+        },
+        {
+            "text": "\u201cRead up on accessibility before you start and ask questions so you know that you are doing it correctly. I reached out to the monitoring team multiple times during our audit and they were more than happy to help me and answer my questions. This gave me the confidence that what we were doing was correct."
+        },
+        {
+            "text": "\u201cMy top tip is to break it down into sections and prioritise one at a time. Looking at the whole picture can seem very daunting but if you concentrate on each point in turn you soon start to see the bigger picture building positively.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "\u201cMake accessibility a priority\u201d\u00a0"
+        },
+        {
+            "text": "Anonymous\n"
+        },
+        {
+            "text": "\u201cAs the communications manager for a small organisation, and along with a team of website developers, I am responsible for ensuring our website is accessible. Our organisation was already working on accessibility improvements to the site, however it was taking a long time.\u00a0"
+        },
+        {
+            "text": "\u201cThe audit from GDS was disappointing to receive. It did however make the process of ongoing work speed up because it gave us a specific deadline.\u00a0"
+        },
+        {
+            "text": "\u201cOur organisation relies on a third party to make changes and this also took time. This was due to relying on the company to do the work and they needed to fit it into their schedules."
+        },
+        {
+            "text": "\u2018We now have a plan to ensure checks happen regularly and staff are being educated on accessibility through guidance we have produced. We have made it clear this is a top priority."
+        },
+        {
+            "text": "\u201cMy top tip is for your organisation to familiarise themselves with all regulations at the earliest opportunity.\u201d\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We continue to test\u00a0 the accessibility of websites and apps in the public sector. We\u2019re working on how to assess the new Web Content Accessibility Guidelines 2.2 success criteria and will start monitoring for it in mid 2024 to give organisations time to make changes."
+        }
+    ]
+}
