@@ -1,0 +1,72 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/08/24/five-questions-weve-been-asked-about-the-cross-government-secure-by-design-approach/",
+    "title": "Five questions we\u2019ve been asked about the cross-government Secure by Design approach",
+    "authors": [
+        "Fotini Tsekmezoglou, Head of Securing Digital Transformation, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Cross-government strategy",
+        "Cyber security",
+        "Digital strategy",
+        "Digital transformation"
+    ],
+    "pub_date": "2023-08-24T11:21:58+01:00",
+    "content": [
+        {
+            "text": "Secure by Design is all about building effective and proportionate cyber security into the delivery of new government services. You can read more of the background to this in our previous blog."
+        },
+        {
+            "text": "We\u2019ve been engaging with colleagues from across the digital, data and technology, security and project management communities through pilots, user research and senior leadership briefings. Not surprisingly, we\u2019ve been asked lots of questions, and we\u2019d like to address some of the more popular ones in this post."
+        },
+        {
+            "heading": 3,
+            "text": "What are the components of the cross-government Secure by Design approach?"
+        },
+        {
+            "text": "The approach includes both principles and framework guidance. It has been developed with input from our stakeholders, including a cross-government working group and an industry panel. In recent months we\u2019ve been testing the guidance, and are now updating it based on the feedback we\u2019ve received."
+        },
+        {
+            "text": "You can read the proposed Secure by Design principles in full and the intent behind them. The principles cover the end-to-end project lifecycle and reflect security challenges in digital delivery faced by government organisations. The National Cyber Security Centre (NCSC) secure design principles, which focus on secure design of a system, have been incorporated in principles five to eight."
+        },
+        {
+            "text": "The framework guidance covers the activities which need to be implemented in order for the principles to be met. It covers things like: security in the business case; documenting your assets; performing threat modelling; mitigating security risks; and evaluating the security impact of changes. The activities set out the what, why, when, who and how and are accompanied by templates, examples and tools to practically help project teams implement the activities.\u00a0"
+        },
+        {
+            "text": "Two key tools are built into the framework guidance. The first, a Self-Assessment Tracker, is designed to help delivery teams track how well their projects are following the Secure by Design approach."
+        },
+        {
+            "text": "The second tool, a Security Controls Taxonomy, will help project teams select appropriate security controls from recognised industry security standards and frameworks as part of their risk mitigation activities. The controls are mapped to the NCSC Cyber Assessment Framework (CAF) outcomes and Indicators of Good Practice (IGPs)."
+        },
+        {
+            "text": "It\u2019s worth stating that the cross-government Secure by Design approach is likely to evolve further in the future. How it develops will depend on further user research and stakeholder engagement."
+        },
+        {
+            "heading": 3,
+            "text": "Will Secure by Design be mandatory?"
+        },
+        {
+            "text": "Yes. The Secure by Design approach will be mandated across central government departments and Arms Length Bodies (ALBs). This has been cemented in the Government Cyber Security Strategy (outcome 9) and Transforming for a digital future: 2022 to 2025 roadmap for digital and data (commitment 11). The 10 Principles - expressed as outcomes - will be mandatory and central government departments and ALBs must adhere to them.\u00a0"
+        },
+        {
+            "text": "The Secure by Design activities set out in the framework guidance will be mandatory too, but there will be some flexibility in how organisations apply them, recognising that this will be influenced by structures, processes, governance, culture, resources and other factors."
+        },
+        {
+            "heading": 3,
+            "text": "How does Secure by Design relate to GovAssure?"
+        },
+        {
+            "text": "The Secure by Design approach will help government organisations on their journey to meeting their assigned GovAssure profiles and respective Cyber Assessment Framework (CAF)\u00a0Indicators of Good Practice."
+        },
+        {
+            "text": "As Secure by Design is specific to systems and services which are in development - rather than those which are already operating - it supports some areas of CAF more than others including those relating to risk management (A2), supply chain (A4), identity and access control (B2), data security (B3) and resilient networks and systems (B5)."
+        },
+        {
+            "heading": 3,
+            "text": "What is the timeline for launching and implementing Secure by Design?"
+        },
+        {
+            "text": "We are working towards a launch for Secure by Design in December 2023 or early 2024. We are developing an appropriate implementation approach, which is likely to involve a substantial \u2018grace period\u2019 during which government organisations would be expected to begin applying the approach to the delivery life-cycles for new systems and services.\u00a0"
+        }
+    ]
+}
