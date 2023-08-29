@@ -1,0 +1,134 @@
+{
+    "url": "https://mattersoftesting.blog.gov.uk/what-were-working-on-better-data-sharing-and-reviewing-paper-documents-across-the-mot/",
+    "title": "What we\u2019re working on: better data sharing and reviewing paper documents across the MOT",
+    "authors": [
+        "Chris Price"
+    ],
+    "categories": [
+        "Horror stories",
+        "MOT Modernisation",
+        "MOT testing service",
+        "News and updates"
+    ],
+    "pub_date": "2023-08-29T11:18:33+01:00",
+    "content": [
+        {
+            "text": "For this blog post, I wanted to update you on how we\u2019re sharing our data and what we\u2019re using it for to improve road safety, alongside further updates and improvements to our safety recalls service. We\u2019ll also go into more detail about going paperless and what this might mean for you.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Sharing our data with partners\u00a0"
+        },
+        {
+            "text": "Our aim is to make our data as open and as accessible as possible to improve road safety and MOT compliance.\u00a0"
+        },
+        {
+            "text": "We are in the process of updating our bulk data service called trade API so that it enables us to transfer our data faster to our users.\u00a0The current trade API\u00a0 was never designed for the volumes of users it has and the success of our open data policy means it needs to be re-engineered to cope with user demand.\u00a0"
+        },
+        {
+            "text": "There are a number of different versions of the API and these will be amalgamated into one so that all the features are available for all users.\u00a0"
+        },
+        {
+            "text": "Furthermore, the new API will provide us with a platform to share different data in bulk such as test logs and test quality information but this will be a future piece of work.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Cracking down on those without an MOT\u00a0"
+        },
+        {
+            "text": "One of the key users of our data are the police. We have been supporting them on Operation Tutelage - which was originally set up to crack down on insurance evasion however they have also started to focus on those without a valid MOT.\u00a0"
+        },
+        {
+            "text": "If the police find a vehicle driving on the road without an MOT, and they aren\u2019t taking their vehicle for an MOT, they will send the motorist a nudge letter reminding them to get their vehicle tested. If this is ignored, they may be stopped by the police and be subject to a fine.\u00a0\u00a0"
+        },
+        {
+            "text": "We hope sharing this data will make it easier to crackdown on those who try and drive without a valid MOT. This will have the benefit of improving MOT compliance and improve the volume of tests you conduct.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Continuing to improve our safety recalls service"
+        },
+        {
+            "text": "Last month we announced some new improvements being made to make it easier for customers to see if they\u2019ve got a safety recall on their vehicle. Working alongside vehicle manufacturers, we now have access to real-time data which means we can further improve our digital services.\u00a0\u00a0"
+        },
+        {
+            "text": "Changes to the MOT certificate and the MOT testing service (MTS) were introduced in July. This means that when motorists now receive their MOT certificate, it will also notify them of any outstanding safety recalls on their vehicle. The changes to MTS means you will get prompted when performing the MOT if the vehicle has an outstanding safety recall.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Digital service improvements\u00a0"
+        },
+        {
+            "text": "We\u2019re updating the Check MOT history service so that a \u2018pop up\u2019 interrupt screen will show when someone enters the reg plate of a vehicle we know has an outstanding recall. Bringing this information to the forefront, rather than letting customers search themselves, should make it easier to stay safe and identify if the vehicle has an outstanding recall.\u00a0"
+        },
+        {
+            "text": "We\u2019re also improving the MOT reminder service, which provides motorists with an automatic reminder to tell them when their MOT is due. When we send the MOT prompt via text or email, we will also now alert users if their vehicle has an outstanding recall.\u00a0"
+        },
+        {
+            "text": "Since bringing in the change to MTS and MOT certificates, we\u2019d be interested to know how you\u2019ve found this change, and whether it\u2019s prompted more discussions about safety recalls with your customers."
+        },
+        {
+            "heading": 2,
+            "text": "Going paperless"
+        },
+        {
+            "text": "We\u2019ve been clear within our strategy and vision that over the next year, we want to massively reduce the amount of paper we use across the agency, and within our service. Part of this includes plans to provide a digital by default option for the MOT certificate.\u00a0\u00a0"
+        },
+        {
+            "text": "Moving to a digital MOT record will reduce the amount of paper used which is beneficial to the environment whilst also making it easier for customers to access their vehicle records and view the results, if they need to view the certificate they can. We are keen to devalue the certificate and encourage people to use our digital services to reduce paper and fraud.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "User research with customers\u00a0"
+        },
+        {
+            "text": "Before we make any changes to the current process, we need to understand exactly how people use their certificate, why they think they need it and how they use the MOT history service \u2013 which is where a digital copy of the certificate is already stored.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ve been carrying out user research with motorists, observing how they use the MOT history service and any barriers they face in accessing their digital certificate. The good news is that MOT history has performed well with participants, and we\u2019re confident that with some small improvements the service is in the right place to help us move forward with digital certificates."
+        },
+        {
+            "heading": 3,
+            "text": "A review of paper across the MOT"
+        },
+        {
+            "text": "To make moving to a digital certificate as easy as possible, we want to review our use of paper across the MOT scheme. We\u2019re carrying out a review at the minute of all the paper we ask you to print, or store hard copies of, to see what is still needed and what can be done digitally.\u00a0\u00a0"
+        },
+        {
+            "text": "If there\u2019s anything you think should be changed, or kept as paper, please let me know in the comments as I'd been keen to hear your thoughts.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Digitising the training log"
+        },
+        {
+            "text": "A big piece of work we\u2019ve been looking into recently, linked to the paperless review, is the MOT training log. Currently, training logs are recorded in many ways across different sites. With no one standardised way to complete them and no centralised way to view them, it can be difficult for testers and AEs to stay on top of training logs.\u00a0"
+        },
+        {
+            "text": "We\u2019ve been carrying out research at several garages over the past few months to get a better understanding of how you store and use paper training logs. We've also been getting your thoughts on a digital version of your training log \u2013 from how it will work, to how long it takes to fill in and where it should be accessed on MTS.\u00a0"
+        },
+        {
+            "text": "We'll let you know more about how this piece of work progresses, and when you can start expecting to use a digital record of your training.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Making training relevant"
+        },
+        {
+            "text": "Something that came up when we were testing the digital training logs were questions around the purpose of annual training and what is covered. I thought it might be useful to explain why we choose certain topics \u2013 but also to remind you that we want training to be as beneficial as possible.\u00a0"
+        },
+        {
+            "text": "The topics are chosen through a combination of feedback from awarding organisations, vehicle examiners, training providers, and more. This is to ensure we\u2019re providing the best possible training that is beneficial to you. The subjects are chosen for testers to find the information they need that will assist and help with the areas we have identified that there are problems with.\u00a0"
+        },
+        {
+            "text": "Alongside the chosen topics, if you know from your test quality information that there\u2019s a certain area highlighted on, it makes sense to look at this as part of your training for the year. That way you get the most benefit from doing the training, and it\u2019s really relevant to the areas you might need more help on.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We want your shocking MOT stories!"
+        },
+        {
+            "text": "Finally, as it gets closer to Autumn, it\u2019s important that we make our customers aware of how to use and look after their vehicles properly in the darker months. We\u2019d love to hear some of the shocking things you\u2019ve found on vehicles to raise awareness of avoidable mistakes when it comes to keeping a vehicle safe to drive on Britain\u2019s roads. Please send us your photos and a brief of explanation of what was found to social.media@dvsa,gov.uk. We\u2019ll be sharing these in a blog post over the next few months and on social media."
+        }
+    ]
+}
