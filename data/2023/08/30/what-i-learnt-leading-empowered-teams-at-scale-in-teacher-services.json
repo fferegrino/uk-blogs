@@ -1,0 +1,112 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2023/08/30/what-i-learnt-leading-empowered-teams-at-scale-in-teacher-services/",
+    "title": "What I learnt leading empowered teams at scale in Teacher Services",
+    "authors": [
+        "Pete Ward, Head of Teacher Services"
+    ],
+    "categories": [
+        "culture",
+        "design",
+        "Major projects",
+        "multidisciplinary teams",
+        "service ownership",
+        "strategy",
+        "Teaching Vacancies"
+    ],
+    "pub_date": "2023-08-30T10:07:13+01:00",
+    "content": [
+        {
+            "text": "I\u2019ve spent the last 18 months leading Teacher Services."
+        },
+        {
+            "text": "Teacher Services is one of DfE\u2019s largest digital portfolios. We have long-lived service teams that are empowered to decide how to achieve their objectives. We\u2019ve grown quickly and have been changing how we work together as we scale. We\u2019re moving from building great services as individual teams, to making decisions about the journey for teachers across their careers. We're also changing our role in DfE. You can see our service line here."
+        },
+        {
+            "text": "We\u2019ve achieved a lot. As I leave the department, I wanted to reflect on four things I\u2019ve learnt."
+        },
+        {
+            "text": "The Teacher Services leadership team knew that as the services matured, we\u2019d need to join-up more. We also knew we shared problems across the service-line. Everyone agreed to \u201cjoin-up\u201d more, but no-one grabbed the concept and applied it. This was partly because we didn\u2019t initially explain the detail."
+        },
+        {
+            "text": "As leaders who sat across the entire service line, we agreed to focus on three specific problems:"
+        },
+        {
+            "text": "and"
+        },
+        {
+            "text": "Our Lead Content Designer led on communicating with users. She worked with two service teams to encourage newly qualified teachers to look for jobs immediately after achieving Qualified Teacher Status. The successful campaign led to further experiments around how to increase conversion in this part of the journey."
+        },
+        {
+            "text": "Our Principal Technical Architect led on improving how we track people as they interact with our different services. Eventually we built a service that will integrate with Gov.uk One Login and all our services. Once implemented, we will be able to better track people, provide them with a more personalised experience and reduce their administrative burden."
+        },
+        {
+            "text": "Policy colleagues reduced complexity around routes into teacher training."
+        },
+        {
+            "text": "\u201cJoining up\u201d was successful where we had well-defined problems, teams that understood the urgency and potential impact across the service line. Where we lacked one or more of these, progress was slow."
+        },
+        {
+            "text": "We broke our service line down into individual service teams because of the scale."
+        },
+        {
+            "text": "Once services were built, we needed to move out of our self-created silos and think like a service line. It was no longer enough to just deliver quickly, we also needed to consider competing priorities. This was challenging given people naturally prioritised their own service outcomes."
+        },
+        {
+            "text": "We made sure everyone understood the objectives of each service, and how they contributed to the overall objective of an excellent teacher for every child. Our Senior Leadership Team built collaboration and trust, and we felt the benefits of working together. We introduced a \u201ctransfer window\u201d where people could ask to move teams for a new challenge. When people moved, they brought a new perspective to their new team. They often suggested how their new and old teams might work together whilst minimising dependencies."
+        },
+        {
+            "text": "We maintained our own DevOps team and used an API-centric model to reduce technical dependencies."
+        },
+        {
+            "text": "This combination meant we minimised how much dependencies slowed down delivery."
+        },
+        {
+            "text": "I needed to make sure my peers, superiors, and teams trusted me, and each other. This wasn\u2019t always easy."
+        },
+        {
+            "text": "We found that the more teams were protected, the more they disconnected from broader DfE. Communication was harder, and misunderstandings more common."
+        },
+        {
+            "text": "We built trust by celebrating small, tangible successes, and sharing the credit."
+        },
+        {
+            "text": "I felt we had a responsibility to help DfE continually improve. We worked with the cyber security team to improve the Authority to Operate (AtO) process. This is an annual process where cyber security colleagues visit delivery teams to review and approve services. Together, we developed a new model that focused on principles that delivery teams could use every day."
+        },
+        {
+            "text": "Where we lacked trust, we created friction and frustration instead of positive change."
+        },
+        {
+            "text": "One senior stakeholder had a reputation for not \u201cgetting\u201d digital. They were rumoured to have called user researchers elsewhere \u201ccharlatans\u201d. Before a high stakes meeting, a colleague challenged me to speak to the stakeholder using their language."
+        },
+        {
+            "text": "I took the challenge and talked of the importance of \u201cbeing able to learn from our mistakes and correct them in weeks not years\u201d instead of \u201cbeing agile\u201d. I talked about \u201cthe risk of not knowing how people might react\u201d instead of \u201cuser research being important\u201d."
+        },
+        {
+            "text": "Speaking like them meant we could work together closely, and they trusted me more. This helped me clear the path for successful delivery."
+        },
+        {
+            "text": "I consistently underestimated the time and energy needed just to maintain delivery."
+        },
+        {
+            "text": "We faced increased pressures on budgets and headcount, which led to high staff turnover. We also faced commercial, legal and tax challenges. Working through these took time and effort but led to service teams achieving some impressive outcomes."
+        },
+        {
+            "text": "For example, our Initial Teacher Training Recruitment Services have helped provide more than 1,000 extra initial teacher training candidates. The Teaching Vacancies service is saving schools more money than ever. We\u2019ve enabled over 200,000 people to start either the Early Careers Framework or National Professional Qualifications."
+        },
+        {
+            "text": "It\u2019s been great to enable this, but it has been at the expense of other changes that would have moved us towards our service line vision faster."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Final thoughts"
+        },
+        {
+            "text": "Leading empowered teams at scale is hard! I didn\u2019t always find the role glamourous or fun, but I\u2019m proud to have done it. I am leaving the DfE satisfied with the outcomes our service line is achieving, and the credibility we\u2019re building across the department. There is more Teacher Services can do as a service line, and I look forward to seeing how the teams take things even further!"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
