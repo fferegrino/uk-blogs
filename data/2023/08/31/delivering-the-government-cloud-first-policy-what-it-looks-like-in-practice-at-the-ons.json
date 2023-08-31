@@ -1,0 +1,91 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2023/08/31/delivering-the-government-cloud-first-policy-what-it-looks-like-in-practice-at-the-ons/",
+    "title": "Delivering the Government cloud first policy \u2013 what it looks like in practice at the ONS",
+    "authors": [
+        "Peter McKenzie-Baughan"
+    ],
+    "categories": [
+        "Automation",
+        "Cloud",
+        "DevSecOps",
+        "Technology"
+    ],
+    "pub_date": "2023-08-31T15:07:29+01:00",
+    "content": [
+        {
+            "text": "Our Cloud Services and Support team (CSS) are the infrastructure operations and best practice hub for ONS\u2019 Digital Services and Technology Cloud Division \u2013 in 2020 we were created in response to ONS\u2019 growing need to operate sustainable, scalable, and secure cloud services. We now comprise 11 people working across a variety of areas and geographies."
+        },
+        {
+            "heading": 2,
+            "text": "A new DevSecOps engineer role"
+        },
+        {
+            "text": "We have a broad range of expertise in our community, Infrastructure Engineering, Software Engineering, Technical Architecture, Security, Delivery Management and Service Management. Given the pace at which we are delivering cloud services to the organisation the requirement for breadth and agility of skills is constantly changing. As a result, we pioneered the creation and recruitment of a new role \u2013 the DevSecOps Engineer! This role embeds thinking around security risk and mitigation and places this squarely in the middle of our \u2018DevOps\u2019 working practice."
+        },
+        {
+            "text": "We work very closely with the architecture teams in our Cloud Division \u2013 Cloud Infrastructure and Architecture, and Cloud Architecture and Technical Design, and our work spans three major public clouds \u2013 Amazon Web Services, Google Cloud and Microsoft Azure. That is a lot of ground to cover \u2013 one question I posed to myself when writing this was \u201chow are we doing this?\u201d but I think the more accurate sentiment would be \u201chow can we adapt and anticipate what needs to be done?\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "We use Agile combined with the best bits of Site Reliability Engineering, ITIL and DevOps. We hold stand-ups and planning sessions which are very wide ranging. We love a good \u2018hackathon\u2019, where we surge together to solve a problem. We ask colleagues, including across Government, what challenges and adaptation journeys they have been on and learn from their experience. We ask for help; we try things and get creative. Sometimes we even fail, and that\u2019s a MASSIVELY good thing, allowing us to learn fast and pivot."
+        },
+        {
+            "text": "Some of the approaches we use to make sense of this journey are:"
+        },
+        {
+            "heading": 3,
+            "text": "Identity and cloud projects"
+        },
+        {
+            "text": "Our team manages the identity platforms for users on AWS and Google and the lifecycle of project spaces (or \u2018cloud warehouses\u2019) across AWS, Google, and Azure for most divisions across the ONS such as the Integrated Data Service, Macroeconomic Stats and Surveys. We build and manage the secure cloud \u2018warehouses\u2019 from within which the business operates their specific cloud services; a bit like the analogy of a business park \u2013 but with 1000+ separate units! All projects are built using \u2018infrastructure as code\u2019 and we work with our users to ensure they have access to the policies, principles and guidance they need to keep their warehouse secure."
+        },
+        {
+            "heading": 3,
+            "text": "Cloud ecosystem"
+        },
+        {
+            "text": "Our colleagues and customers depend on a wide variety of products within the cloud \u2018ecosystem\u2019 that we support including:"
+        },
+        {
+            "heading": 3,
+            "text": "Track everything"
+        },
+        {
+            "text": "We track everything that we can with our use of the ServiceNow ITSM toolset, including Cloud Identities, Cloud Projects, and the Cloud Ecosystem. This platform allows us to track, prioritise and audit incidents, changes, requests, and problems."
+        },
+        {
+            "text": "One of the key challenges we face with the pace of cloud adoption is making sense of who owns and manages what, where and why in cloud \u2013 ServiceNow is helping us with this capability. We have built a \u2018Cloud Account Management System\u2019 (CAMS) in ServiceNow that holds metadata around each cloud project account and is updated automatically when a new project is created. It also surveys all cloud account owners regularly to ensure information is up to date."
+        },
+        {
+            "heading": 3,
+            "text": "The MOT test"
+        },
+        {
+            "text": "As we are working in a very fluid and organic space (ironic, given the amount of tech at work!), we acknowledged that if a process was suitable, secure and scalable at one point in time \u2013 perhaps when a service went live \u2013 the nature of change in cloud means that processes warrant ongoing consideration and iteration, even automation in some cases \u2013 so we developed the \u2018MOT Check\u2019. The whole team gathers monthly and runs down the list of cloud processes we operate to see if they are still valid, could be optimised or in some cases are no longer needed; it\u2019s a great way to look across our estate and identify where we can automate things."
+        },
+        {
+            "heading": 3,
+            "text": "Automate the boring stuff"
+        },
+        {
+            "text": "\u2018Toil\u2019 (not \u2018time off in lieu!) is a way to measure the effort of undertaking repeatable tasks such as creating a user account in Google Cloud or AWS or creating a Data Analysis project for the Integrated Data Service; it\u2019s a term we borrowed from the \u2018Site Reliability Engineering\u2019 principles. As we move further along our cloud journey, there are ways that we look at these repeatable tasks and ask whether there are more automatable/bot-driven ways of undertaking these to ensure we maximise our time and add value. Some of our successes so far are automating account creation and deletion across the cloud ecosystem and notifying users of dormant cloud accounts. As a central operational hub we are also responsible for propagating the question of \u2018can this operational task be automated?\u2019 as early as possible in the design phases for products we support, allowing us to help that get built quickly. This is going to be an exciting area as AI-driven tooling becomes more reliable and adoptable."
+        },
+        {
+            "heading": 3,
+            "text": "Service operations framework"
+        },
+        {
+            "text": "\u2018Document enough and iterate often\u2019. We utilise tools such as Confluence, Jira, and SharePoint to build standard operating procedures, playbooks and runbooks for service operations and have developed a framework that allows us to capture the key \u2018themes\u2019 around a service to successfully operate it at scale. At time of writing, we have 27 separate cloud services on our catalogue; this approach enables us to efficiently operate multiple services in parallel based on the key information needed to do so."
+        },
+        {
+            "heading": 3,
+            "text": "FinOps and sustainability"
+        },
+        {
+            "text": "The shift to cloud services has evolved the way we consume technical resources and the way we pay for them. Though a bit of an oversimplification, cloud service consumption can loosely be defined as a \u2018pay as you go\u2019 contract with our cloud suppliers. This shift has allowed ONS to look at more efficient ways of delivering the same outcome using cloud services. However, this has created a need to keep on top of costs and commitments, which is where FinOps (Financial Operations) comes in. Our team is responsible for centralising the billing views across the public clouds and helping teams to understand where cost can be saved through embedded culture (e.g., through switching off cloud resources when not in use and deleting old projects) and cloud service design. We are also working closely with the architecture teams on a \u2018tagging\u2019 strategy that will allow us to map and observe how the organisation is using cloud services, enabling us to advise and steer teams in optimum use of cloud. Crucially, each cloud vendor is also heavily committed to the use of renewable energy to power their data centres in the next 10 years, so we can also help teams understand what the carbon footprint of their project is and how to optimise it."
+        }
+    ]
+}
