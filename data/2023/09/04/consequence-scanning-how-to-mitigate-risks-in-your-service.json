@@ -1,0 +1,124 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2023/09/04/consequence-scanning-how-to-mitigate-risks-in-your-service/",
+    "title": "Consequence scanning: How to mitigate risks in your service",
+    "authors": [
+        "Betty Mwema \u2013 Senior Service Designer, GDS",
+        "Hazal Arpalikli \u2013 Senior Interaction Designer, GDS"
+    ],
+    "categories": [
+        "Design",
+        "Tried & tested"
+    ],
+    "pub_date": "2023-09-04T09:00:48+01:00",
+    "content": [
+        {
+            "text": "As designers working on the GOV.UK Forms team we help government services create accessible forms. Our team is working towards opening up the platform for more users to give them the autonomy to create accessible forms. That means we need to expand our knowledge of our users, think about the governance of our form creation service, and understand the potential risks that might emerge as a result of this growth.\u00a0"
+        },
+        {
+            "text": "Designers play an important role in helping the team see the important information in the journey and focus on improvements.This blog post is about how we used the consequence scanning design method to help us understand and plan to eliminate the most critical risks early in the design process, and what we learned from it.\u00a0"
+        },
+        {
+            "text": "Consequence scanning workshops can help teams to understand the risks in their product, and identify those that they can influence. These include risks to direct users, the general population, and the planet. The exercise means that different stakeholders can discuss these risks in the open.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to identify when you need to use consequence scanning"
+        },
+        {
+            "text": "From what we have learnt, some signs that your team may benefit from a consequence scanning exercise are:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Setting up the workshop to make it clear and inclusive"
+        },
+        {
+            "text": "The workshop had three main activities, and ran for an hour. We had two facilitators and participants from different disciplines within our product team. Prior to the workshop this group shared high level questions with the wider team, as prompts to help them prepare. We also created a working space on Mural with activity instructions and sections.This ensured that colleagues who wanted to participate but would not be available on the day could still contribute asynchronously.\u00a0\u00a0"
+        },
+        {
+            "text": "On the day of the workshop we did the following:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Identifying the intended and unintended consequences"
+        },
+        {
+            "text": "We asked the team to individually reflect and post on the Mural space about what they imagined could go well or go wrong when Forms is open for all. We asked them to identify:"
+        },
+        {
+            "text": "The aim of this activity was for the team to share honestly and openly and generate useful ideas.\u00a0"
+        },
+        {
+            "text": "Example prompt questions:"
+        },
+        {
+            "text": "We encouraged the team to also think beyond these questions and bring other novel ideas they may have.\u00a0"
+        },
+        {
+            "text": "After the set time for individual contribution we encouraged the team to look at other\u2019s contributions and if they sparked a new idea in them, they could note it down. We invited the team to raise questions and comments on ideas or a post that they found intriguing.\u00a0"
+        },
+        {
+            "text": "We noted the consequences in the Mural space and grouped similar ideas together to uncover themes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Sorting outcomes into those we can act on, influence or monitor"
+        },
+        {
+            "text": "We invited the team to sort the different notes into three categories to help us prioritise what we can work on."
+        },
+        {
+            "text": "This step helps to identify:"
+        },
+        {
+            "heading": 2,
+            "text": "Identifying positive outcomes to focus on and consequences to mitigate\u00a0"
+        },
+        {
+            "text": "We then took the outcomes that we can act on and the outcomes we can influence, and\u00a0 further sorted them into:"
+        },
+        {
+            "text": "This was an important step because intended consequences are not always positive, and unintended consequences are not always negative."
+        },
+        {
+            "text": "We came out of this step with clarity of the positive outcomes we want to focus on and negative outcomes we want to mitigate. There are some outcomes that were hard to place, those that were both positive and would still need solutions to mitigate. It was a great reminder that this activity is not a linear right or wrong process, just like many design activities."
+        },
+        {
+            "text": "We voted to agree on the riskiest outcomes that we need to mitigate first and reach a common understanding on how to reduce their negative impacts"
+        },
+        {
+            "heading": 2,
+            "text": "Prioritising insights"
+        },
+        {
+            "text": "At the end of the workshop we had a rich perspective of the risks, outcomes and consequences that can be expected from expanding our product to reach more users. An important final step was prioritisation.\u00a0"
+        },
+        {
+            "text": "After the workshop we mapped the relationship of the overall themes and prioritised what needs to be solved now, next or later.\u00a0"
+        },
+        {
+            "text": "We identified outcomes that pose the highest risk to other work in our roadmap, and how they fit with other current work in the team. We made sense of all the information shared and created action tickets. We put together a summary of the outcomes and shared this with the rest of the team, especially those not able to attend the workshop.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned about the consequence scanning workshop method"
+        },
+        {
+            "text": "The exercise works best if the workshop has a clear, narrow focus, such as working on a very specific question or topic about your product. It works best with an idea that is well defined and when the team has a good understanding of the scope. The method is not that useful with new and undefined ideas.\u00a0"
+        },
+        {
+            "text": "We also learned that it\u2019s important to create a safe team space where information can be shared freely and honestly. You should invite participants from different disciplines to get varied perspectives, share the workshop plan early with the team, and at the end thank them for contributing so they know their input was helpful."
+        },
+        {
+            "text": "You could also think about creating time for discussion as our workshop was very activity heavy. For example, you could break the session into a series of workshops as this can allow the team to explore points further. After the workshop, we also invited the wider team to give input on unexpected outcomes from the workshop that they wanted to look into or discuss further.\u00a0"
+        },
+        {
+            "text": "In the end, from this exercise we were able to clearly identify the potential risks that we needed to be aware of. We know that we are not able to eliminate all the risks that come from having our product open to all, but there are some risks that we can influence and mitigate.\u00a0"
+        },
+        {
+            "text": "Useful links:\u00a0"
+        },
+        {
+            "text": "Dot everyone have a consequence scanning template you can adapt to your team needs,\u00a0"
+        }
+    ]
+}
