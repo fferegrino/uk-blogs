@@ -1,0 +1,185 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/09/06/gov-uk-pay-product-strategy-and-upcoming-features/",
+    "title": "GOV.UK Pay product strategy and upcoming features",
+    "authors": [
+        "Beth Brown, Lead Product Manager for GOV.UK Pay, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2023-09-06T09:42:22+01:00",
+    "content": [
+        {
+            "text": "GOV.UK Pay is the payments platform for the UK public sector. Our vision is to:"
+        },
+        {
+            "text": "September 2023 marks 7 years since we took our first live payment. Reaching such a milestone birthday gave us a great opportunity to reflect on how far we\u2019ve come and decide on what\u2019s next for Pay.\u00a0"
+        },
+        {
+            "text": "Here's what we're doing to deliver our vision."
+        },
+        {
+            "heading": 2,
+            "text": "Our overall aim"
+        },
+        {
+            "text": "Our aim is to support more central government and local authority teams to take payments for their services digitally. This allows them to automate their financial processes, reduces burden on their teams, and saves government time and money. This aim closely aligns with GDS\u2019s strategy."
+        },
+        {
+            "heading": 2,
+            "text": "The 6 things we want to do"
+        },
+        {
+            "text": "We\u2019ve defined 6 strategic objectives as part of Pay\u2019s product strategy. These objectives describe what we need to do for Pay over the next few years and why it\u2019s important."
+        },
+        {
+            "heading": 3,
+            "text": "1. Diversify payment types"
+        },
+        {
+            "text": "What: We want to expand from card payments into other inbound payment types"
+        },
+        {
+            "text": "Why: Ten years ago, mobile wallets (like Apple Pay) did not exist, but now our users expect them as standard. This rate of change in the fintech industry is likely to increase and we\u2019ll see our users\u2019 expectations change too. We want to offer paying users with the most convenient ways to pay now and in the future"
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "In June, we released recurring card payments to enable our users to make payments in instalments without having to manually input their card details every time."
+        },
+        {
+            "text": "We already offer Apple Pay and Google Pay for our central government services. This month, we\u2019ll be releasing the same mobile wallet payment types to our local authority services too."
+        },
+        {
+            "text": "Later this year, we\u2019ll be investigating how Pay might offer open banking, so that users can pay for public services via their banking app."
+        },
+        {
+            "heading": 3,
+            "text": "2. Enhance paying users' experience"
+        },
+        {
+            "text": "What: We want to make Pay more usable and accessible for all our paying users.\u00a0"
+        },
+        {
+            "text": "Why: Paying for public sector services should be hassle free. It's important that the widest range of users are able to complete their payments as quickly as possible."
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "We\u2019re making updates to the payment journey, so that the content presented to paying users is clearer and easier to understand."
+        },
+        {
+            "heading": 3,
+            "text": "3. Improve public sector users' experience of managing card payments"
+        },
+        {
+            "text": "What: We want to improve the Pay admin tool and documentation for our public sector users"
+        },
+        {
+            "text": "Why: So that public sector users can manage transactions and refunds quickly and focus their energy on delivering great services"
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "In June, we released webhooks so that services can receive automatic updates after payment events have taken place."
+        },
+        {
+            "text": "We\u2019re reviewing and updating content in our tech docs to make it easier to use and understand."
+        },
+        {
+            "heading": 3,
+            "text": "4. Run a resilient, scalable, secure and cost efficient service"
+        },
+        {
+            "text": "What: We want to continue to provide a robust, reliable and secure payments platform for all our users"
+        },
+        {
+            "text": "Why: We need to keep all sensitive information secure in line with legislation. We want Pay to continue to perform successfully as our number of users and services grows"
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "We\u2019ll continue to provide responsive 24/7 support and improve our support processes."
+        },
+        {
+            "text": "We\u2019ll continue to maintain our Payment Card Industry compliance."
+        },
+        {
+            "heading": 3,
+            "text": "5. Make it easier for the Pay team to improve the product"
+        },
+        {
+            "text": "What: We want to create the right conditions so that our team can do their jobs with as little friction as possible"
+        },
+        {
+            "text": "Why: Reducing pain points for our software engineers will help our team to work more efficiently. This should shorten product release cycles, enabling our team to add value for our users more quickly."
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "We\u2019re improving the visibility of logs and metrics for our whole team, so everyone has access to the data they need to make decisions."
+        },
+        {
+            "text": "We\u2019ve built up some technical debt and we want to address it. Over the next 12 months, we\u2019ll be investing time in improving the quality of our code by breaking down known pieces of work and feeding them into our team\u2019s backlogs."
+        },
+        {
+            "heading": 3,
+            "text": "6. Improve our knowledge of procurement and suppliers"
+        },
+        {
+            "text": "What: We want to build up our team\u2019s knowledge about procurement processes in government, and learn about payments suppliers in the fintech market\u00a0"
+        },
+        {
+            "text": "Why: So that we can make sure we work with payment suppliers that offer the best value for money for our services\u00a0"
+        },
+        {
+            "text": "How:\u00a0"
+        },
+        {
+            "text": "We\u2019ll be growing our team\u2019s commercial capability through training and partnering with commercial experts across government."
+        },
+        {
+            "heading": 2,
+            "text": "What we're not doing"
+        },
+        {
+            "text": "As well as describing what\u2019s in our strategy, it\u2019s equally important to describe what\u2019s not in Pay\u2019s scope and why.\u00a0"
+        },
+        {
+            "text": "The main areas Pay will not be exploring are outbound payments, Direct Debit and PayPal."
+        },
+        {
+            "heading": 3,
+            "text": "Outbound payments"
+        },
+        {
+            "text": "Pay provides inbound payments, enabling businesses and people to pay for UK public sector services. Outbound payments allow government and local authorities to make payments to businesses and people. Pay will not be offering outbound payment types as the approach required is vastly different from inbound payments and the public sector has other existing mechanisms to manage outbound payments."
+        },
+        {
+            "heading": 3,
+            "text": "Direct Debit"
+        },
+        {
+            "text": "Direct Debit was not originally designed with digital payments in mind. This makes it difficult for Pay to integrate with and offer Direct Debit to users. Instead, we\u2019re prioritising other types of recurring payment (like recurring card payments) so we can still offer ways for our users to make repeat payments while limiting our technical overheads."
+        },
+        {
+            "heading": 3,
+            "text": "PayPal"
+        },
+        {
+            "text": "We\u2019re prioritising the mobile wallet payment types that have the lowest fees for our services, while still meeting the needs of our paying users (Apple Pay and Google Pay wallets). PayPal is not a mobile wallet payment that we plan to offer in the immediate future."
+        },
+        {
+            "heading": 2,
+            "text": "What now?"
+        },
+        {
+            "text": "We\u2019re using the 6 strategic objectives in our product strategy to drive decisions about our product roadmap and to prioritise our backlogs. We\u2019ll be working towards these objectives over the next few years.\u00a0"
+        }
+    ]
+}

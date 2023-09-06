@@ -1,0 +1,95 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2023/09/06/mortality-and-demographic-modelling/",
+    "title": "Mortality and demographic modelling",
+    "authors": [
+        "Natasha Hill - Actuary"
+    ],
+    "categories": [
+        "Analysis",
+        "Mortality"
+    ],
+    "pub_date": "2023-09-06T17:01:07+01:00",
+    "content": [
+        {
+            "text": "At GAD, understanding how long people are expected to live is key in many areas of our work. As an example, we need to estimate how long people will be drawing their pension, both state pension and for members in public service pension schemes."
+        },
+        {
+            "text": "We are experts in a range of skills including demographic modelling and analyse large volumes of experience data. We use external resources to tap into medical expertise and other demographic insights, mortality patterns and trends. We then use this information to help set assumptions and apply these to our work."
+        },
+        {
+            "text": "Information on mortality, the trends and statistics, is researched and published by private companies and a range of bodies and institutions such as:"
+        },
+        {
+            "text": "In this blog we set out some information from recent publications relating to mortality research."
+        },
+        {
+            "heading": 2,
+            "text": "The benefit of hindsight"
+        },
+        {
+            "text": "We often look to develop our thinking by considering analysis and results based on data from established and trusted sources."
+        },
+        {
+            "text": "One example is an analysis of historic mortality improvements by the CMI based on data from the Human Mortality Database (HMD). The HMD is a really valuable source of historic population and death data from over 40 different countries."
+        },
+        {
+            "text": "As well as considering historical patterns and comparing trends in different countries, the CMI looks at what other countries are using for their future assumptions in mortality improvements."
+        },
+        {
+            "heading": 2,
+            "text": "Adjusting approaches for COVID-19"
+        },
+        {
+            "text": "The CMI regularly publishes mortality tables based on mortality experience from the UK population."
+        },
+        {
+            "text": "Mortality tables reflect life expectancies according to age.\u00a0The CMI recently consulted on proposed methods and approach for its \u201cSeries 4\u201d mortality tables of self-administered pension schemes."
+        },
+        {
+            "text": "Previous versions of these tables have typically used 7 years of recent data."
+        },
+        {
+            "text": "For this release the CMI is proposing to exclude data from the period impacted by the COVID-19 pandemic. The tables will therefore be based on data covering a 6-year period, from 1 January 2014 to 31 December 2019."
+        },
+        {
+            "text": "The CMI is proposing to include 12 new amounts-weighted tables in this series. In addition to taking pension amounts into account, they will also incorporate a deprivation index. This means these mortality tables will reflect pension scheme members\u2019 socioeconomic class as well as income level."
+        },
+        {
+            "text": "The CMI also publishes models to project how mortality rates may change in the future.\u00a0The latest analysis showed mortality rates in 2022 were around 3% lower than in 2021, but approximately 6% higher than in 2019."
+        },
+        {
+            "text": "While mortality experience in 2022 was higher than pre-pandemic levels, it has been less volatile than during the pandemic years and may be indicative of future mortality trends."
+        },
+        {
+            "text": "Given the exceptional number of deaths during the pandemic, the CMI ignored death data for 2020 and 2021 in its model and only placed partial weight on data for 2022 in the latest core version of its\u00a0 model, CMI 2022."
+        },
+        {
+            "text": "The core version of CMI 2022 produces cohort life expectancies at age 65 around half a year shorter than the previous model CMI 2021."
+        },
+        {
+            "text": "This reflects a reduction in life expectancies, relative to central estimates immediately prior to the pandemic."
+        },
+        {
+            "heading": 2,
+            "text": "Work and living longer"
+        },
+        {
+            "text": "As part of our work to understand the impacts of mortality changes, we engage with different organisations to bring different perspectives. One of these organisations is the ILC, a think tank on the impact of longevity, that works to encourage debate."
+        },
+        {
+            "text": "The ILC has expressed the view that: \u201cit is inconceivable that we can work on average for just over 30 years and expect that to sustain the 80- to 100-year life.\u201d"
+        },
+        {
+            "text": "Analysis from the ILC is based on data from over 120 countries. It shows for example, that people living in the European Union work for around 28.6 years, while people in the UK work for 31.5 years."
+        },
+        {
+            "text": "In the meantime, we continue to look to the trends and statistics from a range of sources in order to extract and assess the best information for our work. Keep an eye out for the next edition of GAD\u2019s Mortality Insights bulletin which is due out later this year."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
