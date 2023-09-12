@@ -1,0 +1,74 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/09/12/back-to-the-future-where-does-private-cloud-sit/",
+    "title": "Back to the Future \u2013 Where does Private Cloud sit?",
+    "authors": [
+        "Stefania Pace"
+    ],
+    "categories": [
+        "cloud hosting",
+        "Our services"
+    ],
+    "pub_date": "2023-09-12T14:03:06+01:00",
+    "content": [
+        {
+            "text": "Every day a new technology or trend comes along and sometimes it leaves us all feeling like we are going \u2018Back to the Future\u2019."
+        },
+        {
+            "text": "At the Ministry of Justice (MoJ), we are balancing the demands of cloud-first with our needs for private cloud (or on-premises hosting) on our user journey for technology services. As a Digital Infrastructure and Security Operations team, we manage networking, voice, video, hosting, and day-to-day security for all parts of our organisation. Over the last year, we have been realising our Digital Strategy to support users better, exploit data, and be more flexible in our approach. Balancing these needs has been challenging and, in many use cases, there has always been a requirement to operate in a more private space."
+        },
+        {
+            "text": "We have borrowed a few famous phrases from the \u2018Back to the Future\u2019 movies to help explain and illustrate some of these points."
+        },
+        {
+            "text": "'Where we're going, we don't need roads.' - Dr Emmett Brown"
+        },
+        {
+            "text": "Since 2013 the UK Government\u2019s strategy has been \u2018Cloud First\u2019, acknowledging the scalability, flexibility, and innovation that this technology provides. The advent of cloud computing transformed the landscape for data management, unveiling new possibilities for storage, access, and scalability. However, the road well-travelled does not always mean leaving valuable resources and ideas behind."
+        },
+        {
+            "text": "This brings us to private cloud or on-premises hosting - what is it, and how does it compare with cloud hosting? Typically, private cloud runs on your own hardware and infrastructure as opposed to employing a third-party provider based around a transaction model. Everything sits on the provider's services, like Azure or AWS, and is accessed via a web browser or other interface."
+        },
+        {
+            "text": "\u2018The way I see it, if you\u2019re going to build a time machine into a car, why not do it with some style?\u2019 - Dr Emmett Brown"
+        },
+        {
+            "text": "You might be wondering, with our 'Cloud First' strategy, why do we still entertain private cloud? It is not as simple as it may seem."
+        },
+        {
+            "text": "Transitioning to the cloud is a journey and takes time. Some legacy systems were not designed to run in the cloud, and workarounds may not always be immediately available. Private cloud serves as a critical resource supporting our overall strategy and running crucial corporate systems and applications. It can also provide resilience and business continuity to maintain our critical services."
+        },
+        {
+            "text": "However, the requirement for on-premises hosting at MoJ is expected to decrease over time. Current projections from migrating services to the cloud anticipate that its need will reach an irreducible minimum within the next five years."
+        },
+        {
+            "text": "In early 2027 we will analyse the data, assess the ongoing need private cloud, and consider our position. This option is our 'insurance policy', guarding MoJ from any unforeseen circumstances that could delay our cloud migration. So, while we forge ahead with our 'Cloud First' strategy, we acknowledge the value of our private cloud and on-premises 'DeLorean' vehicle, helping us navigate the present while we shape the future."
+        },
+        {
+            "text": "\u2018If you put your mind to it, you can accomplish anything' \u2013 George McFly"
+        },
+        {
+            "text": "At MoJ, we are committed to continual improvement. Embracing the ethos of a user-led organisation, our aim is to ensure that every interaction our users have with our Data Centres is seamless and satisfactory. In the last 9 months, we have made significant steps towards this goal. For example, we transitioned to portal services. Like the leap from a skateboard to a hoverboard, we have moved away from spreadsheets, a decision that has amplified the visibility of our operations team and enhanced transparency of activities within our premises. Now, everyone involved can have a more precise overview of the operations - a significant step towards improving efficiency."
+        },
+        {
+            "text": "In terms of work in progress, right now we are working hard with the Ark team to improve the Delta T (the temperature differential between the air temperature entering the IT equipment and the air temperature being discharged by it) the higher the value, the better the cooling performance within our data rooms."
+        },
+        {
+            "text": "As a flexible organisation, we continue to innovate, adapt, and improve, ensuring our on-premises hosting is not just a relic of the past, but a well-maintained machine that complements our 'Cloud First' strategy and helps us navigate towards the future."
+        },
+        {
+            "text": "\u2018I guess you guys aren't ready for that yet. But your kids are gonna love it.\u2019 - Marty Mcfly"
+        },
+        {
+            "text": "The course of technology often takes unexpected twists and turns. While we have been enjoying our journey on the 'Cloud First' highway, we should also consider the possibility of paths winding back towards on-premises hosting and private cloud."
+        },
+        {
+            "text": "Much like fashion, trends in technology are cyclical. In the world of hosting, we cannot write off a 'Back to the Future' twist that brings 'Private Cloud First' back into the spotlight."
+        },
+        {
+            "text": "There are compelling reasons for this potential return. On-premises hosting offers distinct advantages over cloud hosting in certain respects, including security, control, and performance. Just like Marty was always prepared for unexpected trips back in time, at MoJ, we are ready to adapt and thrive, no matter where the road leads.\u00a0"
+        },
+        {
+            "text": "Whatever the future holds for hosting, be it cloud, on-premises, or a blend of both, MoJ will continue to provide innovative, user-friendly, and effective solutions. We will continue our journey, following our strategy (a flexible organization; led by users; driven by data) and looking to use the best option to meet our user and business need."
+        }
+    ]
+}
