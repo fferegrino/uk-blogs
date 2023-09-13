@@ -1,0 +1,97 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/09/13/discovering-data-across-government/",
+    "title": "Discovering data across government",
+    "authors": [
+        "Keiran Millard, Head of Data Architecture, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Cross-government strategy",
+        "Data"
+    ],
+    "pub_date": "2023-09-13T12:48:33+01:00",
+    "content": [
+        {
+            "text": "In CDDO, one of our aims is to support and enable responsible data sharing across government. The Data Marketplace is a key project we are developing to make this a reality. It will provide a front door to discover, access and share government data in a legal, ethical and trusted way, also offering supporting guidance and tools to help data sharing across government."
+        },
+        {
+            "heading": 3,
+            "text": "The cross government opportunity"
+        },
+        {
+            "text": "Government ambitions and responsibilities often span a number of departments. For example, strategic policy objectives like levelling up and net zero, and responding to global crises, such as Covid-19, have a wide ranging impact, demanding cross-government collaboration to deliver appropriate solutions supported by the timely sharing of data."
+        },
+        {
+            "text": "Although this need for cross departmental data sharing is understood, we have found that many civil servants grapple with making sure they have the right data, at the right time, to make the right decisions\u00a0 - whether this is providing advice, researching a new policy, or delivering a new service. Our user research has uncovered it can be difficult to find out what data is held by other parts of government and it is unclear whether, and how, this can be accessed easily and in a legally compliant way.\u00a0"
+        },
+        {
+            "text": "To enable good data discovery and re-use, government departments also need to easily and confidently publish their data when it is available. Recognising that most departments are both suppliers and consumers of data, the Data Marketplace aims to create the right environment and conditions that bring data users and data suppliers together.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What will be available at the marketplace?"
+        },
+        {
+            "text": "The Data Marketplace will not host or provide data directly. It will be a hub that adds value to existing government data services. This proposed solution, tested during our alpha phase, provides a centralised \u2018front door\u2019 on top of departmental data catalogues and internal data marketplaces. Its aim is to deliver the core, central services that are needed for great data sharing across government.\u00a0"
+        },
+        {
+            "text": "This philosophy has resulted in a design for the Marketplace based on four principal service areas:"
+        },
+        {
+            "heading": 3,
+            "text": "Outlining the benefits\u00a0\u00a0"
+        },
+        {
+            "text": "What does this all mean for government? Especially in relation to the \u2018discover\u2019 and \u2018share\u2019 components that will be flagship parts of our current beta programme."
+        },
+        {
+            "text": "The \u2018discover\u2019 service is underpinned by a catalogue that can be easily searched by users seeking data. Working with data suppliers, we are looking to populate it with metadata that provides sufficient information to allow users to find what they are looking for, and also allow them to dive deeper to fully explore whether the data can fully meet their requirements.\u00a0"
+        },
+        {
+            "text": "We do this all the time in our daily lives, for example browsing for clothes online and then drilling down to look at sizes, colours and delivery opinions to decide if we want to proceed. It's the same with data, and the better the information provided about the data, the less time is spent by users and suppliers sending emails backwards and forwards asking questions."
+        },
+        {
+            "text": "But what if you can\u2019t find what you are looking for in the catalogue? What do you do next?\u00a0 We\u2019re looking to cover this too, not in this current phase, but included on the roadmap is the provision of mechanisms in the Marketplace to surface data gaps and highlight new requirements."
+        },
+        {
+            "heading": 3,
+            "text": "Sharing data"
+        },
+        {
+            "text": "Through the \u2018discover\u2019 services, when users find a \u2018data match\u2019, they will want to access the data as soon as possible. This is where the \u2018share\u2019 service comes in.\u00a0 Any use of public data by government needs to be legal and ethical, especially when the personal information of citizens is concerned. We must ensure we strike the right balance between requiring data to drive and improve services for citizens, while also using this data responsibly. Procedures exist to do this at a departmental level, however if we offer this current good practice as a single, consistent approach, we drive efficiency, transparency and set expectations of requirements.\u00a0\u00a0"
+        },
+        {
+            "text": "The terms and conditions for data access still remain the responsibility of departments supplying the data, however the Data Marketplace will be able to help streamline data sharing request processes."
+        },
+        {
+            "heading": 3,
+            "text": "Working together to develop the service\u00a0"
+        },
+        {
+            "text": "To deliver this ambitious project, CDDO is collaborating with a number of government departments to collate different user and supplier perspectives, including Department for Education, Department for Environment, Food and Rural Affairs (DEFRA), HM Revenue and Customs, Office for National Statistics, and the Home Office. We are currently working with these departments to develop a private beta service that will go live in beta across government in spring 2024."
+        },
+        {
+            "heading": 3,
+            "text": "Sharing data outside government\u00a0"
+        },
+        {
+            "text": "We know that the value of public sector data is wider than sharing across government. We are also working with the Department for Science, Innovation and Technology to understand how the approaches we are using for secure, legal and ethical sharing of public sector data across government, can be applied for similar sharing requirements across industry and other groups.\u00a0"
+        },
+        {
+            "text": "This is in response to Sir Patrick Vallance\u2019s \u2018Pro-innovation Regulation of Technologies Review - Digital Technologies\u2019 report published in March 2023, which recommended government \u2018facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the government\u2019s public services transformation programme.\u2019"
+        },
+        {
+            "text": "The project will look to engage with departments and industry to shape the future roadmap for the Data Marketplace and provide recommendations for any wider programmes of work in a final report published April 2024."
+        },
+        {
+            "heading": 3,
+            "text": "Ambitions for the future\u00a0"
+        },
+        {
+            "text": "The Data Marketplace will realise our ambition to make the process of finding and working with trusted data easier and more accessible. In turn this will help to make public services more joined-up, efficient and responsive to user needs. This is just the start, and the Data Marketplace's transformational benefits will start to be recognised when users engage with the hub. We will then be able to examine insights, to enable us to fully understand how the government data ecosystem functions - and how it can be improved."
+        },
+        {
+            "text": "To contact the CDDO Data Marketplace team directly, please email Teslim Abbas\u00a0"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2023/09/13/how-prototyping-helps-us-deliver-better-user-experiences/",
+    "title": "How prototyping helps us deliver better user experiences",
+    "authors": [
+        "James Francis - Lead Interaction Designer"
+    ],
+    "categories": [
+        "Digital transformation"
+    ],
+    "pub_date": "2023-09-13T11:35:21+01:00",
+    "content": [
+        {
+            "text": "Prototyping is an important aspect of my team\u2019s daily job."
+        },
+        {
+            "text": "Prototypes are early versions, or representations, of our services. They're vital because they allow us designers, as well as key stakeholders (for example, user researchers, product managers and developers) to evaluate the proposed designs of our services and decide if they're fit for purpose."
+        },
+        {
+            "text": "Most importantly, they allow us to test designs with our users. After all, it\u2019s users who we\u2019re ultimately designing these services for."
+        },
+        {
+            "text": "We know we\u2019re extremely unlikely to get the designs right first time. We\u2019ll fail and fail often. But by working with fellow designers, stakeholders, and users, we can identify potential problems, gather crucial feedback, and make iterative design improvements long before the \u2018final\u2019, real service is built."
+        },
+        {
+            "heading": 2,
+            "text": "Types of prototype"
+        },
+        {
+            "text": "Prototypes can take many forms. We tend to categorise them based on fidelity."
+        },
+        {
+            "heading": 3,
+            "text": "Low-fidelity"
+        },
+        {
+            "text": "These are simple, basic representations of the service. Quite often, we might doodle ideas for user journeys or screen designs on post-it notes or a whiteboard."
+        },
+        {
+            "text": "They\u2019re ideal for quickly exploring ideas without spending too much time - which equals money - on \u2018polished\u2019 designs. Another advantage is pretty much anyone can get involved in these designs \u2013 all you need is a pen. Coffee and cake also helps!"
+        },
+        {
+            "heading": 3,
+            "text": "Mid-fidelity"
+        },
+        {
+            "text": "These involve a more finessed representation of the service. We typically use \u2018wireframing\u2019 tools. These prototypes often start to look like a real service - we may introduce styling in the form of GOV.UK branding and recognised patterns such as the big, green \u2018Start\u2019 button."
+        },
+        {
+            "heading": 3,
+            "text": "High-fidelity"
+        },
+        {
+            "text": "As projects progress, we know more and more about our users, about policy intent and about technical considerations. We'll have already tested and iterated low and mid-fidelity prototypes with users and stakeholders. We'll then build high-fidelity, much more detailed prototypes which mimic the behaviour of \u2018finished\u2019 services."
+        },
+        {
+            "text": "We code these prototypes in HTML which means users can fully interact with them - they can enter dummy information and even see error messages. These prototypes work on different devices, for example, phone or tablet, so we can get a richer understanding of how well they're meeting user needs."
+        },
+        {
+            "heading": 2,
+            "text": "Why we prototype"
+        },
+        {
+            "text": "On a typical project we might go through dozens of prototype designs, at different levels of fidelity. We'll constantly test with users and stakeholders. And we will fail all the way. This is a key principle of prototyping though - fail early and fail often! For example, users might not understand something because we\u2019ve not made our designs intuitive enough, or we may have designed something that's not technically achievable in a limited timeframe."
+        },
+        {
+            "text": "Imagine we spent a huge amount of money, building and launching a service, without any prototyping or testing, only then to find out it was a complete disaster. Let\u2019s say for example, we put a critical page of the journey in completely the wrong section, meaning a significant number of users could not complete a filing. We\u2019d have to spend more money and time fixing the issue, possibly having to take the service offline. There\u2019d be reputational impact, and an increase in customer contact \u2013 all things we want to avoid of course."
+        },
+        {
+            "text": "Now, if we made that mistake earlier, in a low-fidelity prototype, all we\u2019d need to do is erase that bit of the flow on the whiteboard and re-draw it correctly. The only cost would be 30 seconds of doodling and a maybe a few quid for a whiteboard eraser!"
+        },
+        {
+            "heading": 2,
+            "text": "Working with the organisation"
+        },
+        {
+            "text": "My team recently delivered some interactive workshops to colleagues from around Companies House on the methods and benefits of prototyping, as part of a recently launched scheme where subject matter experts from within the organisation share knowledge and experience to train each other. This was a very enjoyable experience, and it means more areas of the business - not just the digital directorate - understand the principles of prototyping and how it can benefit both them and their users."
+        },
+        {
+            "text": "Prototyping is a critical part of the user-centred design process that allows designers and other key stakeholders to deliver better user experiences, mitigate risks, enhance communication, and ultimately, save time and money for Companies House."
+        }
+    ]
+}
