@@ -1,0 +1,70 @@
+{
+    "url": "https://digitalpeople.blog.gov.uk/2023/09/18/redesigning-the-ddat-capability-framework/",
+    "title": "Redesigning the DDaT Capability Framework",
+    "authors": [
+        "Ma\u00eft\u00e9 de La Gu\u00e9ronni\u00e8re"
+    ],
+    "categories": [
+        "Capabilities",
+        "Community",
+        "Digital data and technology"
+    ],
+    "pub_date": "2023-09-18T10:27:53+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Introduction"
+        },
+        {
+            "text": "Government is such an exciting place for digital, data and technology professionals, with services that impact people\u2019s lives and a very ambitious digital transformation roadmap. To deliver on these ambitions we need all civil servants to build their digital skills at scale as outlined in the mission five of the Transforming for a Digital Future strategy."
+        },
+        {
+            "text": "Sharing a common understanding of what digital, data & technology skills are and what digital, data & technology people do is critical to build a digital culture. The Capability Framework, initially developed in 2017, is in need of updating and that is what I want to talk about."
+        },
+        {
+            "heading": 3,
+            "text": "Our product is now in Beta"
+        },
+        {
+            "text": "The Capability Framework articulates standards of capability in digital, data & technology roles. We want it to be so easy to use and understand that it becomes indispensable for skills and career development."
+        },
+        {
+            "text": "We assembled a small multidisciplinary team at the Central Digital and Data Office (CDDO). Our user research showed that information was difficult to understand and that the whole framework was not easy to navigate.\u00a0"
+        },
+        {
+            "text": "Our Senior Content Designer undertook a framework-wide review to improve on readability and remove inconsistencies. In parallel, the team worked on a prototype built from the GOV.UK Prototype Kit and GOV.UK Design System components with accessibility requirements at heart. We tested it with digital, data & technology professionals, which is our main user group, but also with people designing capability interventions for digital, data & technology professionals. Six rounds of research enabled us to thoroughly understand our users, their journeys and the tasks they were trying to achieve with the framework while designing a Minimal Viable Product that would work on both laptops and mobile devices. We know from our user research that almost a quarter of our users access the framework while using a mobile device.\u00a0"
+        },
+        {
+            "text": "We also added new functionalities and information based on user needs, such as:"
+        },
+        {
+            "text": "As we tested and iterated our prototype we also had to review the framework\u2019s foundations for its governance, data, and content strategy."
+        },
+        {
+            "heading": 3,
+            "text": "Revisiting Foundations"
+        },
+        {
+            "text": "The framework\u2019s content has to be constantly updated to stay relevant and we welcome proposed changes to the framework from anyone. It's also why we believe a robust cross-government consultation process is essential to source the latest roles and skills evolutions in the civil service. We enabled this by creating the Capability Framework Design Council and adopting clear governance principles for managing changes."
+        },
+        {
+            "text": "To adopt a common language and allow consistency in the way we describe roles and skills, our Senior Content Designer created a style guidance and step by step drafting templates that we use when engaging with subject matter experts to make changes to the framework. We now follow a quarterly cadence to publish changes, all of them are tracked in the update section of our product."
+        },
+        {
+            "text": "We also made a decision to underpin digital, data & technology roles by a catalogue of skills. This is something we are still working on but it helps us to better understand how skills can be shared between roles. We are undertaking a major rewrite to harmonise skills descriptions where we can while removing inconsistencies. This is really exciting as it opens up career pathways in a much clearer way!"
+        },
+        {
+            "heading": 3,
+            "text": "Going forward"
+        },
+        {
+            "text": "The capability framework is now in beta. Going forward we want to use our website analytics better to further understand what skills and role connections our users make when navigating the framework.\u00a0"
+        },
+        {
+            "text": "We also want to be even more open and transparent about what changes are being made and why they are being made. This is something that we are working hard on with the Capability Framework Design Council but that we would like to reflect in the development of our product."
+        },
+        {
+            "text": "Beta is only one phase of our journey to build a product that becomes indispensable for skills and career development. Please share your feedback and continue to engage with my team, we only made it this far thanks to our digital, data and technology professionals and people who support the development of our phenomenal profession."
+        }
+    ]
+}
