@@ -1,0 +1,104 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/09/20/undertaking-gov-uks-largest-software-infrastructure-project/",
+    "title": "Undertaking GOV.UK's largest software infrastructure project",
+    "authors": [
+        "Nila Patel, Senior Delivery Manager, GOV.UK",
+        "Chris Banks, Senior Site Reliability Engineer, GOV.UK"
+    ],
+    "categories": [
+        "Product changes"
+    ],
+    "pub_date": "2023-09-20T10:12:35+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is an essential part of living, studying and working in the UK. For its millions of users, GOV.UK appears as a single website, where people can move seamlessly from one page or service to another."
+        },
+        {
+            "text": "However, behind the scenes, GOV.UK is made up of many applications that work together to produce the public-facing website. Between these applications and the computer hardware that runs them, there is system software that acts as a go-between. We sometimes call this system software the \"platform\" on which GOV.UK runs."
+        },
+        {
+            "text": "With a system software end-of-life deadline approaching, we took the opportunity to evaluate what platform was best for GOV.UK and its needs."
+        },
+        {
+            "text": "This was GOV.UK's largest software infrastructure project since its launch. This blog post describes how we decided what to do, how we did it and ultimately how we made GOV.UK more secure, cheaper to run and easier to scale. By doing this, we directly contributed to GDS\u2019s mission \u201cto make digital government simpler, clearer and faster for everyone\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "Why we decided to modernise"
+        },
+        {
+            "text": "The software that runs the GOV.UK website makes use of other software \"underneath\" it, such as an operating system (OS) and some configuration management software to manage and keep track of changes. From 2014 to 2023, our OS was Ubuntu, and we managed our configuration with Puppet."
+        },
+        {
+            "text": "By 2021, this infrastructure software was approaching the end of its supportable lifespan. Though we still have commercial support in place, running an old operating system meant we were spending ever more engineering effort working around compatibility issues whenever we needed to update other software that GOV.UK depends on, such as Ruby-on-Rails."
+        },
+        {
+            "text": "We considered whether to upgrade to recent versions of Ubuntu and Puppet (running on virtual machines), or to take the opportunity to modernise by running GOV.UK in containers."
+        },
+        {
+            "text": "For GOV.UK, the main advantages of containers are scalability and lower maintenance. We were using complex automation to deploy many different applications onto the same set of virtual machines, which made it difficult to add more machines (\"scaling up\") in response to increased website traffic. We were also spending a lot of engineering time updating the software on these virtual machines."
+        },
+        {
+            "text": "Moving to containers means that when we need to respond to surges of traffic, we can add capacity easily. During our work on COVID-19, we saw how important it was to be able to withstand these traffic spikes."
+        },
+        {
+            "text": "Upgrading the existing infrastructure would have solved our short-term problem, but would have represented a much smaller return on investment and taken at least as much effort as containerisation."
+        },
+        {
+            "heading": 2,
+            "text": "How the team worked"
+        },
+        {
+            "text": "The team of engineers had varying degrees of experience working on projects like this, and had to get up to speed with a new technology to progress with the project. To establish healthy ways of working we, as team leads;"
+        },
+        {
+            "heading": 2,
+            "text": "Testing ahead of go-live"
+        },
+        {
+            "text": "By giving engineers responsibility for managing and prioritising their own stream of work and protecting them from other distractions, it allowed them the time and space to try things out. It also helped build their confidence to work autonomously."
+        },
+        {
+            "text": "One of our engineers suggested a bold idea which would prove a catalyst for the project's success: what if we were to perform a trial-run on the real, live website? At first this sounds like an unnecessary risk: why not wait until the whole system is fully working in a test environment?"
+        },
+        {
+            "text": "By limiting the scope of our trial-run to just those components of GOV.UK that serve web pages to the public (as distinct from the other parts that help people update the content of the site), we were able to:"
+        },
+        {
+            "text": "During our trial runs, we solved problems as a team by mobbing on them. Mob programming as a team further helped build trust and confidence for individuals. By working through minor issues together as a team in a safe environment, it increased people\u2019s ability to experiment with different solutions to solve problems."
+        },
+        {
+            "heading": 2,
+            "text": "Going live"
+        },
+        {
+            "text": "Once the team was fully confident everything was in place, we selected a week to switch over when there weren't any big planned government announcements. We reviewed our run book and roll back plans to ensure they were accurate and up to date. We made a list of useful contacts such as technical support and escalation contacts. We informed publishers and other stakeholders, allowing them time to ask questions."
+        },
+        {
+            "text": "On the day, we mobbed on the go live activities and kept a log of status updates. We kept our stakeholders updated regularly."
+        },
+        {
+            "text": "The launch went smoothly and the public-facing website continued working without any visible change, as we were hoping."
+        },
+        {
+            "heading": 2,
+            "text": "Impact"
+        },
+        {
+            "text": "We\u2019ve seen a positive impact to the organisation and our users, for example:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "In the GOV.UK Platform Engineering team, we're working hard to get rid of a few behind-the-scenes odds and ends that are still running on the old Ubuntu/Puppet infrastructure so that we can finally switch it off. These are things like:"
+        },
+        {
+            "text": "Once we've done that, we'll realise the rest of the value and savings by switching off the old infrastructure and no longer having to maintain it."
+        },
+        {
+            "text": "Now that GOV.UK is hosted on a modern, container-based infrastructure, there are a lot of exciting improvements that we can make to further increase developer productivity, reduce running costs and add even more resilience. Many of these things would have been difficult or expensive to achieve with the previous system. For example, we could:"
+        }
+    ]
+}
