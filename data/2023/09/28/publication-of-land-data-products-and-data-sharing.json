@@ -1,0 +1,37 @@
+{
+    "url": "https://ruralpayments.blog.gov.uk/2023/09/28/publication-of-land-data-products-and-data-sharing/",
+    "title": "Publication of land data products and data sharing",
+    "authors": [
+        "RPA Editor"
+    ],
+    "categories": [
+        "Mapping"
+    ],
+    "pub_date": "2023-09-28T12:23:31+01:00",
+    "content": [
+        {
+            "text": "The Rural Payments Agency (RPA) is making a number of new and existing spatial data products publicly available, which can be used by organisations and businesses to support the agricultural economy and research in the industry. Products that have been made available so far this year include Parcel point data; Less Favoured Areas (LFA) & Moorland Line dataset and Registered Common Land layer; with a Ground observation dataset to be made available later this year. All datasets will be hosted on the Defra Data Services Platform and regularly updated."
+        },
+        {
+            "text": "These newly public datasets build upon the success of the annually published Crop Map of England, that has been widely used across the industry since 2016, to support environmental protection and restoration, as well as identifying funding opportunities for farmers."
+        },
+        {
+            "text": "The Parcel Point dataset is a newly developed product that provides the location of the centres of an agricultural parcel, identifying a consistent, shared, geographical reference point by which customers and stakeholders can identify agricultural parcels. Farmers will have the opportunity to build upon this dataset by adding supplementary information, such as the crop and soil type within the parcel, meaning farmers can build an accurate representation of their parcel. This data can then be utilised to streamline uptake of opportunities for new agri-environmental schemes, improving the overall efficiency of scheme delivery. This data is now available on the Defra Data Services Platform and will be updated every six months."
+        },
+        {
+            "text": "The Less Favoured Areas (LFA) & Moorland Line dataset combines two existing datasets, both of which provide different classifications of land based on the extent to which farming, and therefore economic competition, is limited by the natural landscape characteristics of the land. These classifications usually apply to upland land parcels. This dataset will provide a valuable tool to upland land managers, to understand and address limitations to accessing schemes. This data will be updated as and when needed and is now available on Defra Data Services Platform."
+        },
+        {
+            "text": "The Registered Common Land layer provides the boundary mapping data for all land registered by RPA as common land. This data helps to identify the surrounding parcel boundaries as well as providing a map of areas claimed on for other subsidies such as commons grazing rights. This dataset is continually updated and is now available on Defra Data Services Platform."
+        },
+        {
+            "text": "The Ground Observation Point dataset is a new product derived from data collected since 2015 by surveyors and site visits, that indicates the location of observation and the type of crop growing at that location within a land parcel, allowing for the analysis of distribution and quantity of crops. It is intended that releasing the ground observations would benefit research in automation, machine learning, and national food production. The dataset for this year will be available after October 2023 on the Defra Data Services Platform and will be updated annually going forwards by the first week of September."
+        },
+        {
+            "text": "There are widespread benefits to making these land data products publicly accessible. Areas of industry that can make use of these datasets are likely to include universities, farmers and landowners with a specific interest in common land, as well as agri-tech companies providing geospatial solutions to farmers and the agriculture industry. Other organisations that may be able to use these datasets to enrich their work include national parks, wildlife organisations, property developers, land planners and companies or researchers concerned with natural capital or ecosystem service assessments and modelling."
+        },
+        {
+            "text": "RPA has released these datasets under the Open Government Licence and its priority is to make the datasets as accessible, transparent and usable as possible to support customer and wider stakeholder business practices."
+        }
+    ]
+}
