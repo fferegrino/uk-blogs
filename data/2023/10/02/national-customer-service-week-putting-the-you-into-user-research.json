@@ -1,0 +1,55 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/10/02/national-customer-service-week-putting-the-you-into-user-research/",
+    "title": "National Customer Service Week: Putting the \u2018you\u2019 into user research",
+    "authors": [
+        "Will Roissetter"
+    ],
+    "categories": [
+        "Defra service design",
+        "User research"
+    ],
+    "pub_date": "2023-10-02T08:00:36+01:00",
+    "content": [
+        {
+            "text": "In National Customer Service Week user researcher Will Roissetter explains how being customer-centric is helping design a new service for packaging producers."
+        },
+        {
+            "text": "Hi, my name is Will, and I\u2019m leading the user research in the Local Authority Payments digital team here in Defra. I want to take a bit of time to explain what we\u2019re doing and how we use customer centric principles when developing this tool."
+        },
+        {
+            "text": "The way UK organisations responsible for packaging must carry out their recycling responsibilities is changing. Under the extended producer responsibility scheme for packaging, packaging producers will need to pay for the full cost of disposing of packaging waste. This money will be granted to local authorities to cover recycling and disposal costs."
+        },
+        {
+            "text": "Via the Local Authority Payments tool, local authority representatives will be notified of their upcoming payments. They will be able to understand how these payments have been calculated, and query payments they think are inaccurate."
+        },
+        {
+            "text": "Local Authority Payments is the digital journey within the extended producer responsibility scheme that enables local authorities in the UK to engage with the scheme to receive fair compensation for their work in managing packaging waste. Users will be able to register to:"
+        },
+        {
+            "heading": 2,
+            "text": "Private beta, explained"
+        },
+        {
+            "text": "We\u2019re now gearing up to start working in private beta next year. A private beta is a stage in the software development process where a limited number of external users or testers are invited to use and test a pre-release version of a software product or service."
+        },
+        {
+            "text": "It\u2019s typically conducted after the alpha stage (which we\u2019ve recently passed) has been completed, but before the software is made available to all users in a full-scale release."
+        },
+        {
+            "text": "Private beta serves as a crucial quality assurance step in developing services, helping us catch and resolve issues early, reduce the risk of bugs in the public release, and ensure the service meets our users' expectations. It also allows for valuable user feedback to be incorporated into the software's design and functionality."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing, and what we\u2019re learning"
+        },
+        {
+            "text": "So, this is our first real opportunity to get working software into the hands of customers. It's really important for us to do this for a variety of reasons."
+        },
+        {
+            "text": "In summary, being customer-centric when developing our services is essential for delivering effective, efficient, and responsive governance. It promotes user satisfaction, trust, and inclusivity while ensuring that government resources are used effectively to meet the diverse needs of our users."
+        },
+        {
+            "text": "Customer-centric services are designed to meet user expectations and make interactions with government agencies more positive. High levels of user satisfaction can improve trust in our department and foster a sense of partnership between our customers and the government. We\u2019ll continue to aspire to this aim as a means of building trust and confidence in the services we build."
+        }
+    ]
+}
