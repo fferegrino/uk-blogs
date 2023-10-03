@@ -1,0 +1,108 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/",
+    "title": "How we\u2019re opening up access to GOV.UK Forms",
+    "authors": [
+        "Adam Robertson, Senior Product Manager, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Forms"
+    ],
+    "pub_date": "2023-10-03T11:29:21+01:00",
+    "content": [
+        {
+            "text": "Here at GDS, we\u2019re making it easier for departments to build better digital services. GOV.UK Forms is an online form builder which can be used to make accessible and easy to use digital forms for GOV.UK. It saves time for departments that are processing form submissions, and time for users that are filling in forms."
+        },
+        {
+            "text": "In just a matter of minutes, government teams can replace PDF and other document-based forms with digital forms which all users can access and are legally compliant with the Public Sector Bodies Accessibility Regulations 2018.\u00a0"
+        },
+        {
+            "text": "Best of all, there\u2019s no need for any technical knowledge and it\u2019s completely free!"
+        },
+        {
+            "text": "GOV.UK Forms is currently in private beta, where we\u2019re testing the product out with a small number of teams that own forms. This is to help us steadily understand how our product is working and what issues we need to address. After that, we\u2019ll move into public beta, where we\u2019ll open up GOV.UK Forms for any central government department to use freely."
+        },
+        {
+            "text": "We wanted to share what we\u2019ve been up to since our last update, and what we\u2019re doing to open up private beta for a wider pool of users - a phase that we\u2019re calling \u2018Early Access\u2019. This will allow departments with forms that only require current features to start building them, and also allow any government user to try out our product. It will also help us to ramp up our overall user numbers and test the stability of our platform before public beta."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve done"
+        },
+        {
+            "text": "In October 2022, the Insolvency Service was the first government organisation to publish a form with us. This was a relatively simple form as we only supported quite basic features at the time. The vast majority of document-based forms require more complex features to turn these into digital forms, including multiple options, declaration statements and more."
+        },
+        {
+            "heading": 3,
+            "text": "Routing to skip questions that aren\u2019t relevant"
+        },
+        {
+            "text": "One of these features is routing, or skippable questions. If you think of any form that you might have to fill out, for example at the GP or for an application, the chances are that it will say \u2018If you answer \u2018No\u2019, skip to question 13\u2019 or similar. This is a really core requirement for form building, and we needed to find a way to build this so that people who aren\u2019t digital professionals could understand how to set up this kind of logic for their form."
+        },
+        {
+            "text": "We created a new journey for form builders to add this to questions that ask for one answer to be selected from a list of options. They can specify which answer should route people to a future question and which question they should go to. The person filling out the form will then skip questions they don\u2019t need to answer - saving them time and saving processing time too. You can see how this appears for form builders in the screenshot below:"
+        },
+        {
+            "text": "We know this is not going to cover all routing needs though - in the future, we\u2019d like to look at building branching (two separate sets of questions depending on the answer), and later down the line we might be able to expand our routing so you can add routes to more than one answer, and also routes based on a combination of answers."
+        },
+        {
+            "heading": 3,
+            "text": "Making a draft of a live form"
+        },
+        {
+            "text": "At the start of 2023, if one of our users created a form, made it \u2018live\u2019 (meaning it can now be put on GOV.UK), and then later on wanted to edit their live form, any change made would be updated on the live form immediately. This would cause issues as form builders may be making multiple changes, or change their mind about what they want to edit. And each time this would happen, people that are filling in the form would be at risk of losing their progress."
+        },
+        {
+            "text": "So what we did is we made live forms uneditable - instead, if you want to make changes to a live form, you would create a new draft copy of that form. Then you could make all the edits you want, and only make that new version live when you\u2019re happy with all the changes. This new version would automatically replace the existing live form - meaning this change only happens once, and affects a much smaller number of people filling in the form."
+        },
+        {
+            "heading": 3,
+            "text": "Detailed guidance"
+        },
+        {
+            "text": "Our form builder already allows users to add hint text to a question, such as \u2018Enter your name as it appears in your passport\u2019. But sometimes on a form there are questions that need a bit more information for someone to answer - for example, specific guidance that they may need to refer to, or industry codes that need to be defined so that the right code is entered."
+        },
+        {
+            "text": "To do this, in September we released a feature called \u2018detailed guidance\u2019 that will allow this more detailed information to be provided to the person filling in the form. Here\u2019s what it will look like for people filling out an example form:"
+        },
+        {
+            "heading": 2,
+            "text": "What we still need to do"
+        },
+        {
+            "heading": 3,
+            "text": "User management and self-service accounts"
+        },
+        {
+            "text": "Right now we use GOV.UK Signon to allow users to sign into our product and use it. However, each time that a new user wants access, our team has to set that account up. We also can\u2019t give people custom permission levels based on what we want them to be allowed to do (and not do). Signon is currently making improvements to make it more self-serviceable, but this wouldn\u2019t have been ready for us to start expanding."
+        },
+        {
+            "text": "So last year we decided that we needed to move off of Signon and use Auth0 (also used by Ministry of Justice\u2019s MOJ Forms) for authenticating users, and bring the permission controls into the GOV.UK Forms product itself. We also wanted to create a system so that users could create their own trial accounts without our involvement (self-service), try out the product, and then be easily upgraded to the next permission level in order to make their forms live."
+        },
+        {
+            "text": "Doing this work is one of our key challenges to adding many more users onto the platform, and we\u2019ve designed an easy flow to allow quick access to the product, whilst also keeping enough control of who can make live forms whilst we\u2019re still in private beta. We also want to ensure we\u2019re following good governance practices and ensure Memorandum of Understandings (MoUs) are agreed before somebody from a department is able to make a form live."
+        },
+        {
+            "heading": 3,
+            "text": "Other features"
+        },
+        {
+            "text": "Before we kick off Early Access, there are some other features that we\u2019re working on to implement, including:"
+        },
+        {
+            "heading": 2,
+            "text": "Launch of Early Access"
+        },
+        {
+            "text": "Once we\u2019ve achieved all these things, GOV.UK Forms will be ready for launching into our \u2018Early Access\u2019 stage within private beta, with a public beta launch planned for the first half of 2024."
+        },
+        {
+            "text": "We are planning to start our Early Access period in November 2023, at which point central government departments can start trying out GOV.UK Forms to see what they can make - and if they meet the criteria, we\u2019ll be providing access to make those forms live. This will open up in public beta when departments can provide their own editor access to form creators. As with any agile development process, timescales can shift depending on what we find out along the way, and priorities."
+        },
+        {
+            "text": "Before we move to public beta, we have some much-requested features that we\u2019ll be working on, including:"
+        },
+        {
+            "text": "We\u2019re not currently supporting organisations outside of central government, such as local councils or NHS and Police, but we\u2019re hoping that we can see this scope expand later in 2024 and beyond."
+        }
+    ]
+}
