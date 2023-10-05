@@ -1,0 +1,56 @@
+{
+    "url": "https://technology.blog.gov.uk/2023/10/05/navigating-microsoft-365-guidance-for-uk-government-digital-data-and-technology-professionals/",
+    "title": "Navigating Microsoft 365 guidance for UK Government digital, data and technology professionals",
+    "authors": [
+        "Claudia Chiurlia, Delivery Manager, Central Digital and Data Office"
+    ],
+    "categories": [
+        "Tools",
+        "Transformation"
+    ],
+    "pub_date": "2023-10-05T14:50:02+01:00",
+    "content": [
+        {
+            "text": "In an unprecedented age where secure and efficient collaboration is paramount, the Central Digital and Data Office has taken a significant stride forward by collaborating with Microsoft and the National Cyber Security Centre (NCSC) to develop comprehensive guidance for the UK Government organisations that are using\u00a0 Microsoft 365.\u00a0"
+        },
+        {
+            "text": "The guidance has been designed by digital, data and technology professionals across government to empower and support each other in alignment with the Mission Four: Efficient, Secure and Sustainable Technology of the 2022 to 2025 roadmap: Transforming for a digital future."
+        },
+        {
+            "text": "This blog outlines three pieces of guidance available that are key to enhancing secure configuration, external collaboration and information protection within the Microsoft 365 environment."
+        },
+        {
+            "heading": 3,
+            "text": "1. Secure Configuration Alignment for Enhanced Security"
+        },
+        {
+            "text": "The Microsoft 365 Guidance for UK Government: Secure Configuration Alignment guides Government departments on how to securely configure their Microsoft 365 Platform in alignment with the latest NCSC advice in the journey towards fortified cybersecurity. \n\nBy adhering to these guidelines, digital, data and technology professionals can\u00a0 understand how the features and capabilities in Microsoft 365 can be used to ensure that a common bar has been achieved for their tenant and promote a secure digital ecosystem.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Fostering cross-government collaboration"
+        },
+        {
+            "text": "It is no surprise that collaboration lies at the heart of modern government operations. The Microsoft 365 Guidance for UK Government: External Collaboration is a huge step forwards for colleagues that rely on effective collaboration and rapid communication with teams across HM Government.\u00a0"
+        },
+        {
+            "text": "This guidance provides a baseline configuration for the Microsoft 365 platform enabling key features such as real-time file sharing and co-authoring across government departments, efficient meeting scheduling through free-busy calendar sharing, consistent instant messaging (IM), video conferencing and the creation of cross-governmental Microsoft Teams sites.\u00a0"
+        },
+        {
+            "text": "This blueprint not only streamlines communication, but also paves the way for more efficient and impactful cross-department collaboration.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3. Safeguarding information with precision"
+        },
+        {
+            "text": "In an era of data-driven governance, safeguarding sensitive information is non-negotiable.\u00a0"
+        },
+        {
+            "text": "The Microsoft 365 Guidance for UK Government: Information Protection sets forth a standard configuration for sensitivity labels and data loss prevention. This guidance caters to organisations aiming to implement the OFFICIAL tier of the updated Government Security Classification Policy (GSCP) using Microsoft Purview, a part of the Microsoft 365 suite.\u00a0"
+        },
+        {
+            "text": "By adhering to this guidance, government departments can confidently navigate the intricacies of data protection while harnessing the full potential of their information assets."
+        }
+    ]
+}
