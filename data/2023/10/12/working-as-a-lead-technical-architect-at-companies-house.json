@@ -1,0 +1,98 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2023/10/12/working-as-a-lead-technical-architect-at-companies-house/",
+    "title": "Working as a lead technical architect at Companies House",
+    "authors": [
+        "Michael Moore - Lead Technical Architect"
+    ],
+    "categories": [
+        "Working at Companies House"
+    ],
+    "pub_date": "2023-10-12T09:16:22+01:00",
+    "content": [
+        {
+            "text": "I\u2019ve been working at Companies House for nearly 9 years. I joined the organisation as a developer, progressed to senior developer and then became a lead developer. I was promoted to lead technical architect 4 years ago."
+        },
+        {
+            "heading": 2,
+            "text": "How I like to work"
+        },
+        {
+            "text": "Often the first thing I\u2019ll do when I start work is to read the latest news and tech blogs to see if there\u2019s any new or interesting articles. It\u2019s good to have that little bit of extra knowledge, so that when colleagues come to you with ideas or issues, you\u2019ve got the most up to date information to guide you."
+        },
+        {
+            "text": "Before the pandemic we worked mostly in the office. Now that our organisation has moved to a flexible hybrid approach, combining both home and office-based working, I work mostly from home. It\u2019s still great to get together in the office for workshops, team or project meetings where you've got a purpose for doing so. You come in, catch up with people and get things done."
+        },
+        {
+            "text": "One of my favourite things about working as a technical architect is the autonomy. I know what projects I'm on and what the timelines are, but I can decide what I\u2019m going to work on that day and that\u2019s great. It could be something for my career development, something I think is worth investigating for the organisation, or something specifically related to a particular project."
+        },
+        {
+            "text": "Previously where I've worked for private companies, you had objectives and worked on them until they were done. So, to come in and start work thinking \u2018right, I\u2019m going to prioritise this because I've been waiting to do that for a while\u2019 - that\u2019s a big thing to me."
+        },
+        {
+            "heading": 2,
+            "text": "Designing services"
+        },
+        {
+            "text": "There are currently 4 technical architects in the team and we tend to specialise in different areas."
+        },
+        {
+            "text": "Our role as architects is not just to have all the knowledge of what's going on in our services and how they\u2019re put together, but to be able to communicate that to other colleagues and stakeholders. They won\u2019t all have the same level of understanding, so it\u2019s our job to translate technical concepts so that they can be understood by everyone."
+        },
+        {
+            "text": "When a new project kicks-off, we help define what the scope of that project will be. We then start our discovery work, where we look at what the system currently does and what it will have to do with any new changes coming in, sketching out what it might look like."
+        },
+        {
+            "text": "As we move into the alpha phase, we create a formal design and start communicating those designs out to the project team."
+        },
+        {
+            "text": "Once we have a plan for how the system will work, we carry out threat modelling. We consider how someone might try to find vulnerabilities in the system. We do this as a team because everyone's got a different perspective of the system - someone might think of something that hasn\u2019t occurred to you."
+        },
+        {
+            "text": "When we have all the documentation, designs, data flow diagrams and have identified the users and full requirements of the system, we get everything signed off by a panel. This includes other technical architects and colleagues from across the business. The panel can give different perspectives on the system and how it might work, and they need to approve the design for it to move to the next phase. If it\u2019s not approved, the panel will give recommendations on the things that will need to be reassessed."
+        },
+        {
+            "text": "Approved designs are then passed on to the teams of developers who build the systems."
+        },
+        {
+            "text": "Through the various stages of a project, requirements change. It\u2019s important to stay aware and be able to adapt and react to those sorts of things. It could be that suddenly you've lost some budget, or that the law has changed, and you\u2019ll have to make changes to the designs and work closely with the developers to make sure those new designs can be implemented."
+        },
+        {
+            "text": "We always design with change in mind so that we\u2019re not locking down our services in such a way that they cannot adapt to revisions."
+        },
+        {
+            "text": "We\u2019re still involved even as a service goes live. There will be issues that come up and if front-end support teams need help, they'll often contact us to resolve any issues."
+        },
+        {
+            "text": "Sometimes issues need to be dealt with immediately because they\u2019re impacting live services and our users. There could also be legal implications or impact to our service level availability targets so we act as quickly as we can to resolve them."
+        },
+        {
+            "text": "When you do find the issue, work out the solution and everything then works, you think \u2018brilliant that's something good I've done today\u2019 \u2013 it\u2019s really rewarding."
+        },
+        {
+            "heading": 2,
+            "text": "Collaborative working"
+        },
+        {
+            "text": "We have such a vast array of technology in Companies House, lots of different languages and frameworks. It\u2019s almost impossible for one person to know all of that. So, although we\u2019re all assigned to projects, we also work together and collaborate on a lot of our work. We'll be pulled into project meetings or areas of discussion that do not necessarily come under our remit, but might be part of a system that we have greater expertise in."
+        },
+        {
+            "text": "As a group of architects, we'll get together to discuss each other\u2019s work and build our understanding of the broader systems. Cross-communication is important. It gives us a chance to see the common themes that are coming up and we might have a solution that will make a difference to more than just one area. We do not want to have a blinkered approach, so if we can produce things more efficiently and for less money, that's the dream."
+        },
+        {
+            "text": "We'll often get called into workshops for other areas of the business. For example, I was in the Cardiff office recently to discuss ways to aggregate data which might inform how our data science teams are going to improve reporting and data use. That's nothing to do with the projects that I'm on at the moment but the lead analyst wanted some consultation with some senior technical colleagues - there was a few of us and we spent some time trying to work that out \u2013 so that's also a nice area of the job."
+        },
+        {
+            "heading": 2,
+            "text": "The future"
+        },
+        {
+            "text": "Outside of the projects, it\u2019s important that we have a future strategy. We spend time trying to think about what our future systems might look like. This makes sure that we\u2019re developing and designing systems with a goal in mind and that the services we're making today are fit for the future."
+        },
+        {
+            "text": "I guess it's a bit of blue sky thinking, you get to investigate the technologies that you'd like to be applying in the future."
+        },
+        {
+            "text": "We\u2019re also working on improving the requirements and governance around technical architecture at Companies House and the ways that we deliver that for projects. That's exciting because it gives us the opportunity to influence decision making and make sure that everyone across the organisation knows what's expected of the architecture team."
+        }
+    ]
+}
