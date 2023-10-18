@@ -1,0 +1,117 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2023/10/18/working-in-cyber-security-at-the-home-office/",
+    "title": "Working in Cyber Security at the Home Office",
+    "authors": [
+        "Threat Hunting team, Cyber Security, DDaT, Home Office"
+    ],
+    "categories": [
+        "cyber security",
+        "Recruitment"
+    ],
+    "pub_date": "2023-10-18T09:40:44+01:00",
+    "content": [
+        {
+            "text": "Our colleagues from the Cyber Security Operations Centre (CSOC) in Home Office Digital, Data and Technology (DDaT) tell us what they do and what they enjoy most about their work."
+        },
+        {
+            "heading": 2,
+            "text": "Senior Cyber Threat Analyst - Natalie"
+        },
+        {
+            "text": "Hello, I\u2019m Natalie. I\u2019m a Senior Cyber Threat Analyst in the Threat Hunting team in CSOC. We\u2019re responsible for proactively and iteratively identifying patterns of suspicious behaviour within the Home Office network to protect the services that you use."
+        },
+        {
+            "text": "My team are on the frontline of fighting cybercriminals. I keep ahead of the latest threats by conducting research and liaising with the Threat Intelligence team who gather, analyse, and categorise threat data. I identify service improvements and new processes so our team has the required tooling and visibility to detect and thwart well-resourced threats."
+        },
+        {
+            "text": "A large part of my role involves the development of hypotheses, which are informed assumptions about an attack. These form the foundation for a threat hunt. A hypothesis may also include the Tactics, Techniques, and Procedures that can be used as a means of profiling the behaviours of a threat actor. They support in identifying anomalies and patterns in our data."
+        },
+        {
+            "text": "I\u2019m also involved in delivering controlled threat simulation, using adversarial techniques to identify weaknesses in our defensive controls and strengthen the effectiveness of our existing cyber capabilities."
+        },
+        {
+            "text": "I enjoy the variety in my role. The threat landscape is constantly evolving,\u00a0so there are always opportunities to learn something new."
+        },
+        {
+            "heading": 2,
+            "text": "CSOC Fast Streamer - Isabella"
+        },
+        {
+            "text": "I'm a Fast Streamer in my first posting in Cyber Security. As a Response Manager I work with the Protective Monitoring team dealing with our processes for monitoring alerts."
+        },
+        {
+            "text": "I help refine the incident response process, codifying documentation and writing playbooks for dealing with alerts and fixing existing process documentation."
+        },
+        {
+            "text": "I\u2019m from a non-technical background and have really enjoyed working in a technical environment with the guidance and support of the team."
+        },
+        {
+            "heading": 2,
+            "text": "Protective Monitoring - Steven"
+        },
+        {
+            "text": "Hi, I\u2019m Steven and I\u2019m the Protective Monitoring Lead within CSOC."
+        },
+        {
+            "text": "One of my main responsibilities is leading 5 shift teams of Security Operation Centre Analysts. These teams work every day of the year, 24 hours a day, 7 days a week to detect and respond to cyber threats targeting the Home Office."
+        },
+        {
+            "text": "I joined CSOC as an Analyst and I\u2019m glad I did. No 2 days in Cyber Security are ever the same which is probably one of the main reasons I enjoy the work so much."
+        },
+        {
+            "heading": 2,
+            "text": "Threat Hunting team - Abrar"
+        },
+        {
+            "text": "I moved into the Threat Hunting team following experience working in Digital Forensics."
+        },
+        {
+            "text": "Threat hunting requires both an inquisitive mind and technical capability to create rules and queries to detect suspicious behaviours across people and computers."
+        },
+        {
+            "text": "I enjoy how creative the approach to the threat hunting process is. There are multiple ways to design the hunt."
+        },
+        {
+            "heading": 2,
+            "text": "Threat Intelligence \u2013 Izna"
+        },
+        {
+            "text": "Hello, I\u2019m Izna. Threat intelligence is the basis of a lot of the work we do within CSOC. Threat intelligence involves gathering information from various sources, both internal and external, and turning it into actionable intelligence to enhance our security position."
+        },
+        {
+            "text": "It\u2019s great to be able to learn from my team regularly and have constructive discussions; it really helps us to build a sense of how the intel we gather impacts the organisation."
+        },
+        {
+            "heading": 2,
+            "text": "Threat Vulnerability Management team - Sabir"
+        },
+        {
+            "text": "My role is to scan, discover, prioritise and remediate cyber vulnerabilities using industry-recognised tools and methods to protect the Home Office."
+        },
+        {
+            "text": "The best aspects of the role for me are both the tools we use and the people I work with."
+        },
+        {
+            "heading": 2,
+            "text": "The Cyber Profession offers a clear career and learning framework"
+        },
+        {
+            "text": "The Cyber Profession team at Home Office DDaT ensures the activities of the Profession align with the cross-government\u00a0Transforming for a digital future: 2022 to 2025 roadmap for digital and data."
+        },
+        {
+            "text": "We encourage our teams to take charge of their careers. We champion the Career framework for security professionals in government, which builds internal capability through recruitment and retainment of digital skills. The framework encompasses a Skills and Competency Model that maps the Skills Framework for the Information Age to roles and career paths, which is a great resource for colleagues identifying vertical and horizontal career moves."
+        },
+        {
+            "text": "For many, breaking into the cyber security industry with no formal education or cyber experience can be tough. We challenge misconceptions around the requirements needed to join the field by championing diversity and inclusion. For those new to the profession there are many opportunities to learn, such as shadowing expert individuals or teams. Shadowing really creates a sense of belonging, improves team cohesion, and gives you the belief that you can excel!"
+        },
+        {
+            "text": "The Cyber Profession supports our teams to build their Continual Professional Development plan so they can continue learning new skills. We recommend the Government Online Skills Tool for civil servants to help colleagues identify their skills and address knowledge gaps by providing learning solutions."
+        },
+        {
+            "text": "We offer a range of training options. The Cloud Centre of Excellence provides Amazon Web Services and Microsoft Azure training. The Collaboration Innovation and Technology Forum provides mentoring and networking opportunities. O\u2019Reilly provides books, videos, and conference talks from industry experts."
+        },
+        {
+            "text": "We encourage colleagues to join our community groups, such as The Women Non-Binary and Trans in CSOC. The group has given its members a platform to promote inclusivity and positive change through effective communication workshops and by encouraging leadership in cyber."
+        }
+    ]
+}

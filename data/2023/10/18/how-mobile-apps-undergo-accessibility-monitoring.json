@@ -1,0 +1,144 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2023/10/18/how-mobile-apps-undergo-accessibility-monitoring/",
+    "title": "How mobile apps undergo accessibility monitoring",
+    "authors": [
+        "Andrew Hick - Senior Accessibility Specialist - Government Digital Service"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Monitoring"
+    ],
+    "pub_date": "2023-10-18T10:23:32+01:00",
+    "content": [
+        {
+            "text": "As part of the Government Digital Service\u2019s (GDS) mission to make digital government accessible for everyone, the GDS accessibility monitoring team has been testing UK public sector mobile applications (apps). This helps us check if they are likely to work well for people with cognitive, hearing, motor and visual disabilities. Apps have a legal requirement to meet the Web Content Accessibility Guidelines (WCAG) along with websites and it\u2019s our role to monitor this."
+        },
+        {
+            "text": "This blog covers how we\u2019ve applied WCAG to mobile, the challenges we\u2019ve faced, and a recent case study."
+        },
+        {
+            "heading": 2,
+            "text": "How WCAG applies to mobile"
+        },
+        {
+            "text": "Under the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018, public sector mobile apps for the public need to be accessible. This means they must meet the WCAG AA criteria. For example:"
+        },
+        {
+            "text": "The main challenge we face is that most of the current criteria were published as part of WCAG 2.0 in 2008, before mobile apps were in widespread use. This means that it was primarily written for the web."
+        },
+        {
+            "text": "There have been some more recent updates to help with testing apps. In 2018, WCAG 2.1 added mobile-specific criteria, such as the need for content to work in both portrait and landscape mode, on a small screen, and without relying on complex gestures. And WCAG 2.2 has just been published, which adds more checks relevant to mobile (such as Target Size and Dragging Movements)."
+        },
+        {
+            "text": "Despite these updates, the main backbone is largely unchanged. So we have been working out how best to meaningfully apply WCAG to mobile apps. The biggest challenges are as follows:"
+        },
+        {
+            "heading": 3,
+            "text": "Keyboard support"
+        },
+        {
+            "text": "WCAG has a number of criteria which help people who use a keyboard to navigate content."
+        },
+        {
+            "text": "We believe that keyboard support is a good indicator of general support for assistive technologies. For example:"
+        },
+        {
+            "text": "When we test, we use an external Bluetooth keyboard in a similar way as we would on a website with some tweaks, as follows:"
+        },
+        {
+            "heading": 3,
+            "text": "No access to the code"
+        },
+        {
+            "text": "When we test an app, we do not have access to the code, which makes it harder to check things like titles, headings, images and form controls."
+        },
+        {
+            "text": "A side effect is that we cannot easily run tools which help to highlight certain accessibility features of a site (for example, tools which show the alternative text of images, or the keyboard focus order)."
+        },
+        {
+            "text": "This means that compared to websites, we spend more time testing apps using the phone\u2019s inbuilt screen reader (VoiceOver on iOS, TalkBack on Android) to help identify how each element is presented to people who use assistive technology."
+        },
+        {
+            "heading": 3,
+            "text": "Language"
+        },
+        {
+            "text": "WCAG has two criteria around setting a language, but in our testing, we have struggled to get a native app to respond to language changes - for example on screens with text in English and Welsh."
+        },
+        {
+            "heading": 3,
+            "text": "Criteria designed for web pages"
+        },
+        {
+            "text": "There are two further requirements where we believe you should use judgement when testing them on a mobile app."
+        },
+        {
+            "text": "2.4.2 Page Titled requires that web pages have titles that describe topic or purpose. However, some mobile app screens might have a single image or line of text, for example as part of an onboarding process. In such cases, it may not be appropriate to add a title."
+        },
+        {
+            "text": "2.4.5 Multiple Ways requires that there\u2019s more than one way to get to each web page on a site. However, many mobile apps have a very simple structure (for example, five functions all linked to from a home screen), so providing an extra means to access each screen might be unnecessary and unhelpful."
+        },
+        {
+            "heading": 3,
+            "text": "Inconsistencies between native and web content"
+        },
+        {
+            "text": "An app might contain both native content (built specifically for the device) and web content. When testing an app, it might not be obvious which is which, but here are some differences which sometimes occur when testing:"
+        },
+        {
+            "heading": 3,
+            "text": "Other criteria"
+        },
+        {
+            "text": "Other specific criteria are difficult to test with a mobile as there is no common functionality for it. These are 1.4.12 Text Spacing and 4.1.1 Parsing (although Parsing has now been deprecated with the publication of WCAG 2.2)."
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019ve learnt"
+        },
+        {
+            "text": "Before we started testing mobile apps, we had several really useful sessions with the HM Revenue & Customs (HMRC) team while their app was being tested with disabled people. This helped to inform our early approach."
+        },
+        {
+            "text": "We\u2019ve also taken cues from training courses, accessibility communities and various online sources."
+        },
+        {
+            "text": "We\u2019ve continued learning as we\u2019ve gone along. Where we\u2019ve been unsure on a particular failure, we\u2019ve used internal surgery sessions with other accessibility specialists to discuss them and agree on a consensus. In each test, we have been able to identify clear access barriers and enable them to be fixed as part of our monitoring process."
+        },
+        {
+            "heading": 2,
+            "text": "Case study"
+        },
+        {
+            "text": "The Taxicard app is used by disabled people to book subsidised taxi travel across London. The scheme is operated by London Councils and the app is built and maintained on their behalf by ComCab London, a private company. In 2022, we were made aware of possible accessibility issues within the app."
+        },
+        {
+            "text": "This caused us to test the app and validate that there were indeed accessibility issues at the time. Also, the app was in the process of moving to a new platform so we needed to test both the old and new versions of the app."
+        },
+        {
+            "text": "After documenting the issues we found and sending a report, the ComCab team responded and started to fix the issues, publishing incremental updates on each app store and asking us for clarification where needed. We had a single point of contact who was able to track each update and keep us informed."
+        },
+        {
+            "text": "Since the original test, the following have significantly improved:"
+        },
+        {
+            "text": "In addition, ComCab have published a compliant accessibility statement which can be accessed from within the app, the London Councils website and their own site."
+        },
+        {
+            "text": "In the past, we have seen public sector organisations sometimes struggling to gain a commitment from third party companies working on behalf of the public sector. So it was really refreshing to see a private organisation working hard to fix the issues we had raised, improving the experience for disabled people using the app."
+        },
+        {
+            "heading": 2,
+            "text": "Mobile testing guidance"
+        },
+        {
+            "text": "We\u2019re currently working on publishing our test guidance for mobile apps and look forward to sharing it more widely."
+        },
+        {
+            "text": "We\u2019re not the only people who have tried to map accessibility standards - for example, Appt (a non-profit organisation based in the Netherlands) have recently published their App Evaluation Methodology in English. We\u2019ve found their guidance really helpful but have come to one or two different conclusions over how much WCAG applies to apps."
+        },
+        {
+            "text": "In the meantime, we would love to promote further discussion on mobile app accessibility across government."
+        }
+    ]
+}
