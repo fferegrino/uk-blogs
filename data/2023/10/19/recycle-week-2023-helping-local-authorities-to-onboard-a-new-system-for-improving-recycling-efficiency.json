@@ -1,0 +1,86 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/10/19/recycle-week-2023-helping-local-authorities-to-onboard-a-new-system-for-improving-recycling-efficiency/",
+    "title": "Recycle Week 2023: helping local authorities to onboard a new system for improving recycling efficiency",
+    "authors": [
+        "Jenny Rogal",
+        "Polly Howden"
+    ],
+    "categories": [
+        "Defra services",
+        "User centred design",
+        "User research"
+    ],
+    "pub_date": "2023-10-19T07:30:18+01:00",
+    "content": [
+        {
+            "text": "In Recycle Week Jenny Rogal and Polly Howden explain how the work they are doing to develop a new Local Authority Payments tool will ensure the tool meets the needs of the end users - local authorities."
+        },
+        {
+            "text": "This week marks the 20th annual Recycle Week: the theme this year is 'The Big Recycling Hunt'. People across the nation are being encouraged to learn about the recyclable items which most commonly show up in the general bin, items like empty aerosol cans and shampoo bottles."
+        },
+        {
+            "text": "Whilst individuals are on the hunt for misplaced recyclables, we've decided to delve into the Extended Producer Responsibility for packaging scheme (pEPR). We are members of the digital teams who are designing solutions to reduce waste and increase recycling in the UK. It\u2019s a topic our colleague Jason Stockwell blogged about earlier this week, and which Will Roissetter also reflected on recently."
+        },
+        {
+            "text": "In this post, we'll explore the work going on behind the scenes to build the Local Authority Payments (LAPs) tool and learn how our teams' work will help support key players in the story of municipal recycling - local authorities."
+        },
+        {
+            "heading": 2,
+            "text": "What are the Government's recycling reforms?"
+        },
+        {
+            "text": "It all started when the government published its Resources and waste strategy for England, which set out goals for how we will preserve material resources by minimising waste, promoting resource efficiency and moving towards a circular economy in England. As part of the plan, the government committed to improving resource efficiency and increasing recycling rates in the UK."
+        },
+        {
+            "text": "The pEPR forms part of that commitment. Companies and organisations, except charities, will pay a fee for packaging that they put onto the market, for example cardboard boxes. This money will be granted to local authorities, who collect and recycle the packaging once it has been discarded by households."
+        },
+        {
+            "text": "Via the LAPs tool, local authority representatives will be notified of their upcoming pEPR payments. They will be able to understand how these payments have been calculated, and query payments they think are inaccurate."
+        },
+        {
+            "heading": 2,
+            "text": "How are we making sure it will meet the needs of local authority representatives?"
+        },
+        {
+            "text": "Government digital services go through several stages of development before they are ready, and user research plays a key part at every step along the way."
+        },
+        {
+            "text": "In what's known as the 'Alpha' stage, the groundwork for the LAPs was laid. End users, in this case local authority representatives, advised our team on what they really need from this tool, and when and how they would expect to use it."
+        },
+        {
+            "text": "Our user researchers spoke to 160+ local authority representatives. This provided insights that the team used to shape how the tool would be built, along with plans for technical design, and accessibility considerations. Building the right product solution always relies on really understanding user needs."
+        },
+        {
+            "text": "To make sure that LAPs reflected user needs at the Alpha stage, we needed to pass an assessment which ensured the LAPs tool was carefully designed and easy to use. Without feedback from our users, we wouldn't have passed the Alpha assessment, so a huge thank you to everyone who participated!"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "The LAPs team is now preparing for the next stage, private beta. In private beta, representatives from around 50 local authorities will be able to interact with and test the online tool as it is being built. Our private beta participants can offer feedback on how straightforward the tool is to use, and whether they encounter any 'bugs' (issues with the online tool). This helps us to fix issues and improve the service as we build, meaning that the service is constantly improving. We're aiming to release private beta in spring 2024."
+        },
+        {
+            "text": "Once we have incorporated the feedback from private beta, we enter the second to last stage: public beta. At this stage, we will invite all local authorities to register for Local Authority Payments. We need 100% of local authorities to sign up by November 2024 so that we can send out notifications of their upcoming payments."
+        },
+        {
+            "heading": 2,
+            "text": "Interested in participating in the Local Authority Payments private beta?"
+        },
+        {
+            "text": "We want to test the LAPs tool with representatives from a range of different local authorities. If you represent a local authority and would like to participate, you can register your interest here. We will be in touch with further details."
+        },
+        {
+            "text": "Please note that, due to us needing to engage participants from local authorities with a representative range of features, registering your interest does not guarantee participation. It also doesn't mean that you must participate - you get to decide when we reach out."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
