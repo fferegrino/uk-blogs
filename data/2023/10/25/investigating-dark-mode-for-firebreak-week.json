@@ -1,0 +1,112 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2023/10/25/investigating-dark-mode-for-firebreak-week/",
+    "title": "Investigating Dark Mode for Firebreak Week",
+    "authors": [
+        "Graham Sanders, Senior Interaction Designer",
+        "Laura Wood, User Researcher",
+        "Rachael Irwin, Data Analyst",
+        "Ieuan Parker - Interaction Designer",
+        "Tom Swart - Data Analyst"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2023-10-25T11:00:48+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What is Firebreak Week?"
+        },
+        {
+            "text": "The Digital, Data and Technology team (DDaT) run Firebreak Week every 3 months. It sees teams temporarily disband, providing the opportunity for self-directed time to work on short term projects such as improving GOV.UK. It\u2019s also a chance to keep our skills fresh and try our hand at new things which is really important for our continued learning and development. You can read more about it in this blog."
+        },
+        {
+            "heading": 2,
+            "text": "What is Dark Mode?\u00a0"
+        },
+        {
+            "text": "Dark Mode is a display setting for user interfaces, such as smartphones or laptops. It means that a light colour text (white or grey) is presented against a dark or black screen, instead of the default dark text showing up against a light screen (known as \u2018light mode\u2019).\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How and why did you investigate Dark Mode?"
+        },
+        {
+            "text": "I\u2019m Graham Sanders, a Senior Interaction Designer working within the Data Infrastructure team in the Department for Business and Trade (DBT). My role is to develop design concepts across complex GOV.UK services based on the evidence of user needs."
+        },
+        {
+            "text": "The idea for this project came from viewing the DBT website late at night and noticing immediately the impact the glare from the screen had on my eyes.\u00a0 I thought to myself, \u2018why isn\u2019t there a setting where I can quickly change the monitor to improve the viewing experience?\u2019\u00a0"
+        },
+        {
+            "text": "I set up the project on Trello which is a planning and collaboration tool. I was happily surprised at the interest shown in the project, forming together a group of like-minded individuals who also understood the issue. My team included Ieuan Parker, an Interaction Designer, Laura Wood, a User Researcher, and Rachael Irwin and Tom Swart who are Data Analysts.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Researching the impact of Dark Mode"
+        },
+        {
+            "text": "We spoke to 6 participants:\u00a0"
+        },
+        {
+            "text": "\u00a02 of the users we spoke to had visual impairments. They highlighted the importance of Dark Mode enabling them to do their job.\u00a0"
+        },
+        {
+            "text": "User research helped to identify several other benefits of Dark Mode which included:\u00a0"
+        },
+        {
+            "text": "A study published in Nature Research\u2019s Scientific Reports in 2018 suggests that sustained exposure to light-mode may be associated with myopia (Near-sightedness).\u00a0\u00a0"
+        },
+        {
+            "text": "We carried out some data analysis investigations and found:\u00a0\u00a0"
+        },
+        {
+            "text": "We did some additional research and discovered that:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we did next"
+        },
+        {
+            "text": "We created a prototype based on the technique of the websites\u2019 theme being set by the preference chosen on your operating system theme settings. The website theme should be reflected when a user changes their MacOS theme or Windows theme.\u00a0\u00a0"
+        },
+        {
+            "text": "This easy implementation allows us to custom select the colours of each element.\u00a0It gives us the power to reduce any accessibility issues, when compared to Chrome, or any general plugins.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What was the outcome and what happens next?\u00a0"
+        },
+        {
+            "text": "We created a comprehensive presentation to share with the rest of DDaT. It covered workshops, research, user research, data analysis, design and a working prototype.\u00a0\u00a0"
+        },
+        {
+            "text": "I designed a bespoke slide deck which matched the \u2018dark mode\u2019 subject and began the presentation to DDaT wearing a Darth Vader mask to illustrate the \u2018dark side\u2019. This was a deliberate ploy to make the presentation memorable and unique. It was well-received by my peers, receiving 58% of the votes from all the Firebreak projects.\u00a0 I hope that our initial findings can be expanded upon and implemented in some form.\u00a0"
+        },
+        {
+            "text": "Ieuan Parker, an Interaction Designer on the team, also contacted the Design System team at GDS (Government Digital Service). He asked them if we could do our own research and implementation on our services, as we know from our research, that we have users who struggle to work with the current light theme. The result of this was very positive, and we got the approval to start working on it. As a result of this, the Data Infrastructure team have a plan in the next couple of weeks to start work on implementing Dark Theme on Data Workspace, our corporate database.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Laura Wood, User Researcher"
+        },
+        {
+            "text": "I joined DBT in April 2023 and this was my first time working on a Firebreak project. I am passionate about making government services more accessible, so when I heard Graham\u2019s pitch for exploring dark mode, I wanted to be involved.\u00a0"
+        },
+        {
+            "text": "I had some prior understanding of the benefits of dark mode for users with accessibility requirements. This was reinforced when I conducted user research with DBT colleagues. The user perspective had a great impact on us as a team and has encouraged us to keep shouting about the benefits of dark mode.\u00a0"
+        },
+        {
+            "text": "Firebreak was also a fantastic opportunity to work with colleagues outside my team. We had a great range of skills (and enthusiasm!), and we collaborated well to explore this opportunity.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Rachael Irwin, Data Analyst"
+        },
+        {
+            "text": "Firebreak is a great opportunity to work on projects that interest you and collaborate with people you would not normally get the chance to work with. This firebreak was no different and my favourite so far! We had a great team who was determined to start the dark mode revolution and had great fun doing so. The highlight, of course, was Darth Vader's appearance at our presentation. I hope this project has made people more aware of dark mode and its advantages. Hopefully it can kick start the process of bringing dark mode to gov.uk sites, making the tools more accessible to everyone."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
