@@ -1,0 +1,85 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/10/26/balancing-security-and-usability-to-add-save-for-later-to-moj-forms/",
+    "title": "Balancing security and usability to add \u201csave for later\u201d to MoJ Forms",
+    "authors": [
+        "Fabien Marry"
+    ],
+    "categories": [
+        "MoJ Forms",
+        "Our services",
+        "security"
+    ],
+    "pub_date": "2023-10-26T11:43:32+01:00",
+    "content": [
+        {
+            "text": "We're working on MoJ Forms, an online application that helps MoJ colleagues create GOV.UK-style forms much more quickly and easily."
+        },
+        {
+            "text": "It's great to see more and more services take advantage of MoJ Forms as we continue to add new features and capabilities to the platform. Services such as Apply to become a property and affairs deputy from HMCTS, Apply to register a notice with the Public Trustee, and Contact the Criminal Injuries Compensation Authority (CICA). And we are seeing the length and complexity of those forms grow at the same time."
+        },
+        {
+            "text": "To help users complete these longer forms, we started to look at options for saving progress."
+        },
+        {
+            "heading": 3,
+            "text": "There's never enough time"
+        },
+        {
+            "text": "The longer a form gets, the more likely it is that you won't be able to complete it in one go. Maybe the form is a lot longer than you expected, maybe it asks you to make detailed statements that you want to think about for a while, or you need to upload a document that you just can't find now. Or maybe the little one has run out of Bluey episodes and comes barging in."
+        },
+        {
+            "text": "To help in these cases, we built \"save for later\", a feature that allows users to save their progress and resume the form at a later date. This core idea isn't new but our challenge was: how do you select the right trade-offs for this feature when you don't know what services it will be used for?"
+        },
+        {
+            "heading": 3,
+            "text": "Security versus usability"
+        },
+        {
+            "text": "We wanted to make it as easy as possible for you to save your progress and later resume your form. But we also needed to make sure only you could get access to your answers. These goals tend to fight each other: the more secure it is, the less usable it tends to be. For individual services, one would carefully weigh the pros and cons of extra layers of security: how serious is it if a bad actor gets in? Is it worth the extra hassle of a more secure process?"
+        },
+        {
+            "text": "When creating a site to book gym classes, it's unlikely and not a big deal if that was breached, so one might go with something simple. When designing online banking, that's a lot more serious, which is why banks tend to require multiple passwords, memorable information, physical card readers, or biometrics like fingerprint or face recognition."
+        },
+        {
+            "text": "As MoJ Forms is a platform, we don't know in advance what services will be built on it. So we worked with our colleagues from MoJ Cyber to design something that would provide a good balance of usability and security."
+        },
+        {
+            "text": "We ruled out simply sending you a link by email as anyone with access to your email could use it. We have to be mindful of many things at MoJ, and one of them is that people might share their devices with their domestic abuser."
+        },
+        {
+            "text": "We also ruled out requiring you to create a full account, complete with a password. We felt that would be too annoying, as most wouldn't reuse this account often enough to make the creation of it worthwhile. Plus, passwords are always a messy affair, with people forgetting them and frequently needing to reset them. Such a process wouldn\u2019t have met our key design goal: saving a form for later needed to be quicker than completing it."
+        },
+        {
+            "heading": 3,
+            "text": "Something you have, something you know"
+        },
+        {
+            "text": "After considering many options, we decided to ask for 2 things:\u00a0"
+        },
+        {
+            "text": "After submitting this information, you receive an email with a link to click on when you are ready to resume the form. You only need to answer the security question to get back to where you left off. This combines something you have (access to the email account) with something you - and ideally only you - know (the security answer), providing a sufficient amount of security."
+        },
+        {
+            "text": "Security questions are no panacea either, as all questions are flawed. Your favourite anything might change over time. You may not know your parents' names. Employment related answers are often easily findable on LinkedIn. A question might unintentionally exclude many by asking about things like higher education or travel abroad. To keep it short and simple, we opted to ask the user for only one answer, but from a selection of 3 questions to ensure at least one would be suitable.\u00a0"
+        },
+        {
+            "text": "We went with:\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "A quick and effective solution"
+        },
+        {
+            "text": "Our design worked well in user testing, with all users being able to pick and answer a security question and successfully save and resume a form. The full process, including emails, also passed our external accessibility audit without any issue."
+        },
+        {
+            "text": "Save for later is now available to any form on MoJ Forms that wants to enable it. Doing so is incredibly easy and takes about a minute. And so far the results are promising. Four of our most complex forms are using the feature and over 1000 applications have already been saved and resumed. We also expect more forms will be created with MoJ Forms as a result of this development from teams who had identified such a 'save for later 'solution as a major user need."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Has this peeked your interest in MoJ Forms? We are looking to conduct research with future and potential users of our platform. If you are interested in taking part, please fill out this short form https://mojf-ur-panel.form.service.justice.gov.uk/."
+        }
+    ]
+}
