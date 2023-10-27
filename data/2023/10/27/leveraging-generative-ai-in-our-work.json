@@ -1,0 +1,144 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2023/10/27/leveraging-generative-ai-in-our-work/",
+    "title": "Leveraging generative AI in our work",
+    "authors": [
+        "Sam Kinshuck - Senior Analyst"
+    ],
+    "categories": [
+        "Analysis",
+        "Data science"
+    ],
+    "pub_date": "2023-10-27T16:55:06+01:00",
+    "content": [
+        {
+            "text": "Recent advances in artificial intelligence (AI) technology are leading to benefits across various industries."
+        },
+        {
+            "text": "It is important for the Government Actuary\u2019s Department (GAD) to capitalise on the enormous benefits these technologies offer while carefully navigating their potential pitfalls."
+        },
+        {
+            "text": "This is so we can continue to deliver excellent value for our clients. GAD uses ChatGPT and other generative AI tools to enhance the quality of our analysis in various ways. So, this blog on AI has been written with the help of AI in the form of ChatGPT."
+        },
+        {
+            "text": "In fact, the importance and prevalence of the use of artificial intelligence and machine learning (AI/ML) in actuarial work is examined in new research conducted by GAD on behalf of the Financial Reporting Council."
+        },
+        {
+            "text": "\u2018The use of Artificial Intelligence and Machine Learning in UK actuarial work\u2019 explores the growing importance of AI/ML in actuarial work. I was on the team which researched and wrote it, along with\u00a0 2 actuarial colleagues (Chris Paterson and Sam Davies) and a wider GAD team."
+        },
+        {
+            "heading": 2,
+            "text": "Code writing and debugging"
+        },
+        {
+            "text": "ChatGPT is useful for producing, checking and debugging programming code. This is rarely just a matter of telling it what you need and waiting for the appropriate code to come out in response. Rather, it typically requires the programmer to:"
+        },
+        {
+            "text": "We never assume that ChatGPT has provided a correct response without first testing the code it suggests."
+        },
+        {
+            "text": "We usually find that it\u2019s quicker and less burdensome to check the outputs that ChatGPT provides than to produce the same code from scratch."
+        },
+        {
+            "text": "Suppose a programmer needs to use the programming language Python to find the difference between 2 dates in terms of fractions of a year. They could ask ChatGPT to provide a solution, and they could then check whether the solution works on a set of test cases. For example, they could feed it multiple pairs of dates and check whether the suggested code generates the correct output for each pair."
+        },
+        {
+            "text": "You can even tell ChatGPT not only to produce the solution, but to then test the solution by itself. It can do this by executing the proposed code with multiple example inputs within its own Python environment."
+        },
+        {
+            "text": "We have often found that ChatGPT is highly astute in checking its own work and often covers areas that a human might forget."
+        },
+        {
+            "text": "For instance, in the above example, ChatGPT would likely ensure that its proposed solution works when one or both of the inputted dates is a 29 February. A human checker might forget to test these kinds of edge cases."
+        },
+        {
+            "text": "This is an example of how, when combined with human intelligence, generative AI can improve the quality of work as well as the efficiency."
+        },
+        {
+            "heading": 2,
+            "text": "Enhance efficiencies"
+        },
+        {
+            "text": "It is still crucial to ensure there are multiple, human-guided checking stages applied to all our code, regardless of whether ChatGPT has been involved in producing it."
+        },
+        {
+            "text": "The fundamental benefit offered by ChatGPT is not that it can replace a human analyst, but that it can massively enhance a human\u2019s efficiency. It means we can shift away from producing code from scratch (which is time-consuming) and towards checking the code produced by ChatGPT."
+        },
+        {
+            "text": "Indeed, our experience indicates that tools like ChatGPT produce the biggest efficiency gains when paired with the most proficient analysts. For example, a programmer who is proficient in Python but lacks R experience could ask ChatGPT to translate a piece of Python script into R. In this way, ChatGPT helps analysts to leverage their existing knowledge to access new analytical tools and techniques"
+        },
+        {
+            "heading": 2,
+            "text": "Understanding complex spreadsheets"
+        },
+        {
+            "text": "We've all encountered Excel files with layers of complicated and interconnected formulae."
+        },
+        {
+            "text": "In many cases, we have found that describing to ChatGPT the structure of a spreadsheet helps immensely. Explaining the formulae in key cells sheds light on the function and purpose of the main data processing stages."
+        },
+        {
+            "heading": 2,
+            "text": "Information retrieval"
+        },
+        {
+            "text": "Given the nature of GAD\u2019s work, we often need to look up information about financial arrangements such as pension schemes by reading through complicated guidance notes and scheme rules."
+        },
+        {
+            "text": "In some cases, we have found that ChatGPT can accurately answer questions like \u2018tell me the maximum permitted commutation rate in pension scheme X\u2019 when it is given access to PDF. documents containing the information it needs to calculate the answer."
+        },
+        {
+            "text": "This is another example of ChatGPT performing an otherwise time-consuming task that is relatively simple for a human to check. ChatGPT can explain which part of a provided document its answer is based on, making it easy for the user to confirm that it has understood correctly."
+        },
+        {
+            "text": "However, we have found that ChatGPT and similar models begin to struggle when dealing with more complicated questions. This is especially true when inferences and calculations need to be based on multiple disparate sources of information. In these cases, human actuaries and analysts with subject matter expertise appear to have a clear advantage."
+        },
+        {
+            "heading": 2,
+            "text": "Quality oversight by GAD experts"
+        },
+        {
+            "text": "While the AI is advanced, it is not infallible and ChatGPT occasionally gets things wrong. That\u2019s why we always ensure its output is checked by a human expert. However, with the \u2018code interpreter\u2019 functionality, it can offload the arithmetic stages of its reasoning to a Python script, enhancing accuracy."
+        },
+        {
+            "text": "This doesn\u2019t eliminate the need for human involvement. Every step in our analytical process is subject to human oversight to ensure that the final product is robust. Tools like ChatGPT are not immune to errors, and human checking and reviewing therefore remains a crucial part of the analytical process."
+        },
+        {
+            "text": "And while AI programmes may be effective when dealing with compartmentalised and clearly structured problems, they struggle with \u2018bigger picture\u2019 thinking. There is a limit to the amount of task-specific information that they can use to inform their answers. This means that they cannot replace insight, expert intuition and task-specific knowledge that human analysts apply to their work."
+        },
+        {
+            "heading": 2,
+            "text": "Staying aligned with appropriate guidance"
+        },
+        {
+            "text": "Our commitment goes beyond just delivering results; we prioritise security and privacy. This means that:"
+        },
+        {
+            "heading": 2,
+            "text": "Innovation and client trust"
+        },
+        {
+            "text": "GAD is a champion of innovative solutions, consistently delivering high quality work for our clients that showcases our forward-thinking approach."
+        },
+        {
+            "text": "By integrating tools like ChatGPT into our work, we streamline our processes and improve the quality of our analysis."
+        },
+        {
+            "text": "However, our clients\u2019 trust is paramount. Security, privacy, and the quality of our outputs are non-negotiable, and we do not allow AI tools to compromise these. Indeed, the IFoA recently published a risk alert highlighting some of the risks associated with AI."
+        },
+        {
+            "text": "The risk alert emphasised the necessity for ethical and transparent use of AI and of balancing consumer and commercial needs. It also highlighted the importance of addressing biases, ensuring regulatory compliance, and maintaining robust communication about AI models."
+        },
+        {
+            "text": "In the age of digital transformation, leveraging tools like ChatGPT to enhance our client offering isn\u2019t just about staying current. It\u2019s about looking ahead, pushing boundaries, and delivering unmatched excellence."
+        },
+        {
+            "text": "At GAD, that\u2019s precisely what we aim to do, every single day."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
