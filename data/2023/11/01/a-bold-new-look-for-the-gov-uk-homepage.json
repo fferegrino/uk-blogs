@@ -1,0 +1,66 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/11/01/a-bold-new-look-for-the-gov-uk-homepage/",
+    "title": "A bold new look for the GOV.UK homepage",
+    "authors": [
+        "Kuba Bartwicki, Lead Designer at GOV.UK",
+        "Monica Crusellas, Senior Interaction Designer at GOV.UK"
+    ],
+    "categories": [
+        "Finding things"
+    ],
+    "pub_date": "2023-11-01T11:32:38+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK homepage is a really popular web page, used more than a million times each week to access essential UK government information and services. Alongside search engines like Google and our own internal site search, it\u2019s one of the main ways into government content. It\u2019s also used to communicate the purpose of the site and to create a sense of trust between GOV.UK and our users."
+        },
+        {
+            "text": "Our strategy for GOV.UK is all about growth: we\u2019re expanding into new channels and trying to reach new audiences where they are. We want to make it easier for users to access information and services, helping them to achieve quicker and better outcomes. We last looked at the homepage a couple of years ago, but we have not changed it significantly since 2014. We want to make sure that the homepage is as useful as it can be for all users and that it continues to reflect the innovative spirit of GOV.UK. Today we\u2019re launching the first of many significant changes to the homepage, including:"
+        },
+        {
+            "text": "We are making improvements iteratively so that we can learn and tweak as we go. This post explains the changes we have made so far and what we plan to do next."
+        },
+        {
+            "heading": 2,
+            "text": "Bolder, mobile-first design"
+        },
+        {
+            "text": "The visual design of GOV.UK is bold, simple and accessible. We\u2019re building on a rich history of public sector design in the UK, including in our use of typography, which references road signage in the UK. But good design doesn\u2019t stand still and needs to evolve as expectations change. For example, a decade ago, only 20% of visits to GOV.UK were made from mobile devices. Today, this number is over 60%, and continues to grow."
+        },
+        {
+            "text": "In response to this, as well as to other changes in user behaviour, we\u2019ve made the design of the homepage bolder and clearer on mobile devices. We redesigned the header area and increased font sizes and spacing throughout the page. There are less boxes on it and the layout is simpler. We also reduced the amount of text on the page by removing content that did not have a clear user need or that wasn\u2019t used much."
+        },
+        {
+            "text": "We think that these changes make GOV.UK easier to read and browse, and we\u2019re thinking about how they can be brought to other areas of the site."
+        },
+        {
+            "heading": 2,
+            "text": "Easier to read"
+        },
+        {
+            "text": "GOV.UK is made up of mostly words and links, and arranging these into clear, usable layouts takes a lot of work. This is especially true on the homepage, where almost everything is a link, as many users begin their journey here."
+        },
+        {
+            "text": "We know that pages full of links can be hard for users to scan, so we made some improvements to make the homepage easier to navigate. This includes turning the popular links into a bulleted list and increasing spacing between sections. These changes make the page easier to scan and to identify when one section ends and the next begins."
+        },
+        {
+            "heading": 2,
+            "text": "Reflective of what our users are doing"
+        },
+        {
+            "text": "Knowing what users are doing on GOV.UK helps us improve it. For example, if the most popular link on the page is at the bottom of it, that\u2019s probably a good indicator that it should be moved further up."
+        },
+        {
+            "text": "We get insights like this from analytics on page use, with a user\u2019s consent, and from talking to our users. Over the last couple of months, we\u2019ve been tweaking the homepage in response to these learnings. Doing it iteratively helps us carefully monitor the impact of our changes, so that we can reverse them if their impact isn\u2019t what we expected. The changes include:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019re monitoring the impact that our changes have on what people do on the homepage. For example, we have already seen an increase in the number of people using search on mobile since we moved it higher up."
+        },
+        {
+            "text": "There are more changes to come, too. For example, we know that we can improve how we adapt content in response to trending user needs. We\u2019ll be testing new design patterns to help users find relevant information more easily."
+        }
+    ]
+}

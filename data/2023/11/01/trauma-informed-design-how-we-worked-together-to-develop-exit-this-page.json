@@ -1,0 +1,151 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/11/01/trauma-informed-design-how-we-worked-together-to-develop-exit-this-page/",
+    "title": "Trauma-Informed Design: How we worked together to develop 'Exit this page'",
+    "authors": [
+        "Rob King",
+        "Hannah Jump"
+    ],
+    "categories": [
+        "cross-government collaboration",
+        "exit this page",
+        "Our services"
+    ],
+    "pub_date": "2023-11-01T15:29:10+01:00",
+    "content": [
+        {
+            "text": "This blog post highlights how, at the MoJ Digital, we took a collaborative, open, and evidence-based approach to help keep people safe online."
+        },
+        {
+            "text": "Let us rewind\u00a0"
+        },
+        {
+            "text": "Back in March 2020, I identified a high-risk gap in the service where users could be put at risk when seeking Legal Aid support for Domestic Abuse.\u00a0"
+        },
+        {
+            "text": "With the help of a subject matter expert (SME) who was working with Domestic Abuse (DA) survivors, a need was identified to provide people with a way to safely hide the information they were viewing from perpetrators.\u00a0"
+        },
+        {
+            "text": "I led this piece of work within the team by researching how other organisations provided this support online and, working with an SME, began to develop a design concept rapidly based on user needs.\u00a0"
+        },
+        {
+            "text": "We knew from expert sources and online resources that the pandemic had heightened the risk to those experiencing DA. Lockdown saw an increase in reporting via Police and specialist services so we knew that we needed to work quickly to implement something - taking the view that something was always better than nothing.\u00a0"
+        },
+        {
+            "text": "During this period of work, we approached other Government departments that had identified a similar need for their own services and created a working group to ensure we were creating consistency across Government."
+        },
+        {
+            "text": "The design went from \u2018Exit Site\u2019, \u2018Hide this page\u2019 to,\u2018Exit this page\u2019 component and pattern that has recently been released by the Government Digital Service as a new component in the GOV.UK Design System."
+        },
+        {
+            "text": "The importance of finding new ways to support vulnerable users"
+        },
+        {
+            "text": "Domestic abuse is something that can affect anyone, with approximately 1 in 5 adults aged 16 years and over (10.4 million) living with the devastating consequences of abuse, both immediate and long-term. This was true before the COVID-19 pandemic, but it became an epidemic during lockdown, where for many people, staying home did not mean staying safe."
+        },
+        {
+            "text": "In April 2020, the Home Affairs Committee said there was \u201cevidence that cases are escalating more quickly to become complex and serious, with higher levels of physical violence and coercive control."
+        },
+        {
+            "text": "Within Government, we provide lots of information and services to both victims where abuse is ongoing and survivors who have fled perpetrators. We have a duty of care and responsibility to help protect and keep people safe, in any way that we can.\u00a0"
+        },
+        {
+            "text": "What is the \u2018Exit this page' component\u00a0"
+        },
+        {
+            "text": "If someone is experiencing abuse within their home, there are usually limited opportunities to access support and advice online without the perpetrator being aware."
+        },
+        {
+            "text": "Someone experiencing\u00a0 DA,\u00a0 especially control and coercion may have limited opportunities to access a webpage for support. An exit strategy is required as the risk is heightened when a survivor is looking for advice that may lead them to separate from the abusive individual(s)"
+        },
+        {
+            "text": "The \u2018Exit this page' component is a design solution in the form of a button on a web page that when interacted with, allows users to hide a page from perpetrators quickly if they enter the setting.\u00a0"
+        },
+        {
+            "text": "It doesn't just hide the page however, it disguises the browsing habit by sending them to an ambiguous page such as Google search, weather or news channel. Something that might not be considered 'suspicious'."
+        },
+        {
+            "text": "Establishing that it's not a one-service issue"
+        },
+        {
+            "text": "The need for an Exit this page component was first identified within the Child Maintenance team at the Department of Work and Pensions, and the Check Legal Aid team at the Ministry of Justice. Through our online communication channels, I realised that other teams had identified the same problem, and we also learned that the Scottish government had already implemented a component a few years ago on gov.scot."
+        },
+        {
+            "text": "There was clearly a need to bring together the work the teams were doing individually, so a working group was formed to identify:"
+        },
+        {
+            "text": "What our common goal was"
+        },
+        {
+            "text": "A virtual session was set up to establish why we were working on this component and what our goal was. What had led each team to prioritise this amongst their day-to-day delivery work?"
+        },
+        {
+            "text": "The common goal was to ensure in each of our respective teams that we were doing as much as we could to keep users safe when accessing our services. This needed to be done in such a way that kept the experience for the user consistently the same across any government service that carried an element of risk."
+        },
+        {
+            "text": "What we had been working on"
+        },
+        {
+            "text": "Teams were at different stages of their design process with the component and had various evidence and testing on their design iterations:"
+        },
+        {
+            "text": "The fact that each service had already started to design and develop a version of the component highlighted that there needed to be a consistent approach across Governments.\u00a0"
+        },
+        {
+            "text": "Creating a joined-up component for the GOV.UK Design System would allow other departments to implement a unified design on any service that a vulnerable user might interact with."
+        },
+        {
+            "text": "What the working group did\u00a0"
+        },
+        {
+            "text": "The working group met regularly over a period of about 7 months."
+        },
+        {
+            "text": "We discussed several aspects of the component, such as:"
+        },
+        {
+            "text": "These conversations allowed us to agree (and sometimes disagree!) on ways forward on iterating on our design proposals.\u00a0"
+        },
+        {
+            "text": "This blog post would be much longer if we included details around design and functionality, so you can read more information on the gov.uk design system backlog"
+        },
+        {
+            "text": "What we learned from collaborating on the component\u00a0"
+        },
+        {
+            "text": "It was challenging working on the component because speed was of the essence, and because having something on a service adds a much more significant element of safety for the user than not having anything. But also, we needed to design something that was accessible and worked.\u00a0"
+        },
+        {
+            "text": "We collaborated through shared documents, so we could be open and transparent about the design process. We shared our learnings and iterations at Design System team meetings, where we discussed and critiqued the designs as they went along. This led to wider conversations and meetings to improve code efficiency, accessibility and visual elements, such as positioning and colour.\u00a0"
+        },
+        {
+            "text": "We had to learn to not be protective of our designs. Everyone had to have a mutual understanding that what we were creating was for the user and that there was no room for egos.\u00a0"
+        },
+        {
+            "text": "One of the biggest challenges we encountered was being able to test with people living in that moment of trauma and DA. Every DA experience is different and not everyone who actively looks for advice will then go on to flee an abusive situation. Trauma such as domestic abuse alters the brain and reduces executive functioning skills including memory, so it is impossible to accurately replicate this under testing environments.\u00a0"
+        },
+        {
+            "text": "More importantly, in order for us to have a trauma-aware, user-centred approach, we did not test the component with users in this scenario to avoid re-traumatisation. Therefore, it was vital to fully utilise the experience and knowledge of our SM - who provided such insightful information and detail around Trauma and DA that we would where we are today with the component.\u00a0"
+        },
+        {
+            "text": "Making it happen"
+        },
+        {
+            "text": "The component was submitted to the GOV.UK Design System working group for approval to become a recognised component in the Design System."
+        },
+        {
+            "text": "This was approved back in December 2020 and the Government Design System team took over the work to add it to the UK Government Design System.\u00a0"
+        },
+        {
+            "text": "The Scottish Government have implemented their component into their own design system.\u00a0"
+        },
+        {
+            "text": "Crucially it will mean that vulnerable users coming on to any Government service will have a familiar and consistent way to hide what they are looking at from perpetrators. This will not be a foolproof way of keeping all online information hidden but is a line of defense in attempting to reduce harm to victims and survivors of DA."
+        },
+        {
+            "text": "This ongoing and lengthy collaborative process wouldn't have been possible without the following people from other Government departments and Local Authority leading on their side of the working group:"
+        },
+        {
+            "text": "Since the component has recently been published on the GOV.UK Design System, the Check Legal Aid team at the Ministry of Justice have been the first team to release the component on their live service which brings the work full circle. "
+        }
+    ]
+}
