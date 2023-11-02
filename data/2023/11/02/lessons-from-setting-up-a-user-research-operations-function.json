@@ -1,0 +1,113 @@
+{
+    "url": "https://userresearch.blog.gov.uk/2023/11/02/lessons-from-setting-up-a-user-research-operations-function/",
+    "title": "Lessons from setting up a user research operations function",
+    "authors": [
+        "Chris Hyland"
+    ],
+    "categories": [
+        "User research",
+        "User research infrastructure",
+        "User research operations"
+    ],
+    "pub_date": "2023-11-02T13:57:28+00:00",
+    "content": [
+        {
+            "text": "User research operations (ReOps) teams, which support user researchers / UX researchers to do their best work, are increasingly common. If you are considering setting one up, you probably want to learn from those who have trod the path before. I certainly did, when I established research operations at the Government Digital Service (GDS) in March-September 2022, joined in late July 2022 by the brilliant Uzma Razaq who runs it to this day. I learned a lot from Dr Salma Patel's blog about setting up research operations at NHS Test and Trace, Emma Boulton's work on pillars of user research, and resources from the global ResearchOps Community. This blog post summarises, in turn, my key lessons from what went well, and what did not, setting up research operations at GDS."
+        },
+        {
+            "heading": 2,
+            "text": "1. Benchmark your starting point"
+        },
+        {
+            "text": "It\u2019s important to know whether you\u2019re making things better and be able to show this to others."
+        },
+        {
+            "text": "On day one of research operations at GDS, I asked its user researchers to complete a short benchmarking survey. Questions were derived from prior reflective work by the GDS user research community and should probably vary by organisation. I asked:"
+        },
+        {
+            "text": "Average scores from the rating questions and word clouds of the \u2018three words\u2019 responses powerfully communicated how researchers initially felt about research operations. I repeated the survey five months later, and could show all ratings improving, and the most common words shifting from \u201csiloed\u201d and \u201cinconsistent\u201d to \u201chelpful\u201d and \u201cvisible\u201d."
+        },
+        {
+            "text": "If I had my time again, as well as measuring the sentiments of researchers I\u2019d also try to benchmark the time and costs that research incurred."
+        },
+        {
+            "heading": 2,
+            "text": "2. Be user-centred"
+        },
+        {
+            "text": "Research operations functions should be focused on the needs of their users (user researchers), while considering the needs of their organisation and constraints like regulatory compliance."
+        },
+        {
+            "text": "At GDS, the benchmarking survey gave an initial sense of problem areas. However, to get a richer understanding of how our user researchers operated and the pain points they encountered, I ran a workshop at a community event. In small groups, I had researchers map the stages in a typical research project, record the pain points they encounter in each, and then vote on those that have the greatest effect on their impact. I later sorted these issues into the eight pillars of user research, and affinity mapped them within these. Arranging these by number of votes gave me a prioritised list of problems and problem areas."
+        },
+        {
+            "heading": 2,
+            "text": "3. Be clear about what research operations does and does not do"
+        },
+        {
+            "text": "Research operations is very broad, and there are many models of how it can operate. Researchers need clarity on what you\u2019re there for, and what you\u2019re not, so they know how to work with you and you can avoid spreading yourself too thin."
+        },
+        {
+            "text": "After the survey, workshop, and other engagement with user researchers at GDS, I worked with GDS\u2019s lead user researchers to set out on one slide what our user research operations function was for. It described our initial purpose, central missions, and our first steps to achieving them. If I had requests that sat outside it, it allowed me to explain why I couldn\u2019t currently support them, what I was prioritising instead, and why. That said, we were clear it would respond to the changing needs of our research community."
+        },
+        {
+            "text": "I presented this to all GDS user researchers when it was produced and sought feedback. I could have referred to it more frequently afterwards to maintain researchers\u2019 understanding of our purpose."
+        },
+        {
+            "heading": 2,
+            "text": "4. Get some quick wins under your belt"
+        },
+        {
+            "text": "Some areas of research operations, like knowledge management, are long games. To get buy-in from your researchers and other stakeholders, get some quick wins under your belt in the first few weeks."
+        },
+        {
+            "text": "At GDS this included sorting out permissions issues on research shared drives and collating details of all tooling in one place. In your organisation, it will likely be something different."
+        },
+        {
+            "heading": 2,
+            "text": "5. Don't go it alone"
+        },
+        {
+            "text": "Research operations functions can only achieve so much by beavering away themselves. Ask for support from researchers, leads, and other relevant functions in your organisation such as data protection, and do what you can to help them help you."
+        },
+        {
+            "text": "For the initial few months, GDS\u2019s \u2018research operations team\u2019 was just me, supporting 50-60 user researchers. Going it alone wasn\u2019t an option. I worked with other parts of the organisation such as the highly supportive Privacy Office and Information Management teams. I organised community activities such as a (thrilling) \u2018research data spring clean\u2019 to get support in sorting out our shared drives. And for some research operations activities, especially those successfully being conducted by others already, I was explicit about only performing a coordination role."
+        },
+        {
+            "text": "Coordinating work being done by others, especially informally by user research communities, is hard. I had a go at implementing a \u201cuser research community contributions\u201d model, with a big Trello board, activities linked to researchers\u2019 performance objectives, and drop-ins with the ReOps team. It was overcomplicated and needed a bit of a rethink."
+        },
+        {
+            "heading": 2,
+            "text": "6. Be visible"
+        },
+        {
+            "text": "Engaging with user researchers shouldn\u2019t be done initially and never again. To build trust and be proactive rather than reactive, be as visible as you can."
+        },
+        {
+            "text": "At GDS this meant attending and running sessions in user research community workshops and show and tells, putting in intro chats with new joiners, attending meetings of each directorate\u2019s user researchers, meeting fortnightly with our lead user researchers, and many a Slack message."
+        },
+        {
+            "heading": 2,
+            "text": "7. Be pragmatic"
+        },
+        {
+            "text": "Research operations professionals tend to like order, processes, guidance, and documentation. We don\u2019t want chaos and non-compliance. Equally, don\u2019t go overboard. With the best will in the world, if your guidance for new starters is 80 pages long, it probably won\u2019t be read, and it almost certainly won\u2019t be well understood."
+        },
+        {
+            "text": "I tried to keep this in mind. When I revised our guidance on managing user research data, I resolved ambiguities raised by researchers while making it two-thirds the length, and it was well-used. But I also spent time re-working wiki pages that the analytics later showed nobody much visited, and which conversations suggested few knew existed."
+        },
+        {
+            "heading": 2,
+            "text": "8. Keep collaborating with and learning from others"
+        },
+        {
+            "text": "There are so many brilliant research operations people out there. There are communities of them, such as the global ResearchOps Community, and that in UK central government (find them on UK Government Digital Slack). All those I\u2019ve met to date are a supportive, helpful bunch."
+        },
+        {
+            "text": "The approach I took at GDS, and indeed the lessons in this post, draw heavily on the conversations I had with some of them. A huge thanks to those I spoke to at the Department for Education, Defra, HMRC, the Home Office and Hackney Council, among others."
+        },
+        {
+            "text": "So reach out, learn, and contribute. Maybe even write a blog post once you\u2019re some ways in. Good luck!"
+        }
+    ]
+}
