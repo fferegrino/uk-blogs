@@ -1,0 +1,84 @@
+{
+    "url": "https://publicpolicydesign.blog.gov.uk/2023/11/03/distress-and-design/",
+    "title": "Distress and design",
+    "authors": [
+        "Alice Whitehead"
+    ],
+    "categories": [
+        "PublicPolicyDesign",
+        "Thought leadership"
+    ],
+    "pub_date": "2023-11-03T12:30:17+00:00",
+    "content": [
+        {
+            "text": "Have you ever felt frustrated when using a service? Rolled your eyes after trying to do something online, having to phone up and hearing the message telling you to look online? Got that sinking feeling when you\u2019ve filled out every box but the continue button is still greyed out? Suddenly realised it\u2019s going to take longer than you thought, when you\u2019ve typed the whole problem out but the chatbot says \u201csorry, I can\u2019t help with that\u201d? Even though there are lots of services out there with smooth user journeys and great customer experience, a common part of daily life is navigating through services that seem to put obstacles between you and the thing that you need."
+        },
+        {
+            "text": "Bad service design can do much more damage than making us annoyed. I recently helped an elderly person who had got locked out of their phone. There was a time constraint and extra pressure: they were just about to catch a Eurostar train, but had lost access to their e-tickets. The situation caused the person to go into an anxiety spiral. They were beating themselves up, repeating \u201cI\u2019m so stupid\u201d. The level of distress caused by this mistake might seem silly to you, but it was genuinely felt by that person."
+        },
+        {
+            "heading": 2,
+            "text": "Public service design should do no harm"
+        },
+        {
+            "text": "There is a feedback loop between a person\u2019s emotional state and the person or thing they are reacting to. The feelings sparked by the original event or the design of the thing affect how the person behaves next. In this case, the person\u2019s distress caused them to mix up their passwords, making the problem worse. The design of the recovery process was insufficient to calm them down or direct them to a simple resolution, so things continued to spiral. That design could be characterised as an active factor in that person\u2019s distress."
+        },
+        {
+            "text": "Not only does design have a significant impact upon the happiness of the people who interact with it, it also significantly contributes to the likelihood that the desired outcome will materialise. In the world of commerce this is well understood, with designers fine-tuning websites, products and offers (and emotional experiences) so that customers conclude that the benefits of buying the product will outweigh the cost."
+        },
+        {
+            "text": "In the public sector, design is arguably far more important and far less well understood. Why? Monopoly power. Where there is no choice of provider, the design of the only permitted pathway is critical, but there is no incentive to make it great. After all, everyone has to use the thing whether they like it or not. Unless the people designing public services spend time with their users (and non-users), the monopoly means they only infrequently glimpse the behaviours that result from poor designing: avoidance, denial, inaccurate information, false declarations and failure demand. If users do end up managing to successfully complete the transaction, their irritation, confusion, shame and distress along the way is invisible."
+        },
+        {
+            "text": "Public services should expressly drive the outcomes they aim to achieve, and they should \u2018do no harm\u2019 to the citizens they aim to serve. That\u2019s uncontroversial. So why are we not systematically using the discipline of design to minimise individual distress and the counterproductive behaviours that flow from it?"
+        },
+        {
+            "heading": 2,
+            "text": "Designing against distress"
+        },
+        {
+            "text": "There has been a lot of work done in recent years on designing for accessibility, with leading organisations emphasising how good design can help people navigate services in particular circumstances from using assistive technologies to looking at a screen in a sunny park. I want to propose a similar approach to designing to prevent distress. I\u2019ve chosen this term because it is widely understood to cover a range of experiences from trauma to light upset."
+        },
+        {
+            "text": "Reflecting on my example of an elderly person\u2019s experience of becoming distressed by a bad user experience, I started thinking about Maslow\u2019s hierarchy of needs. You may recognise the pyramid, which offers a model for how people react to situations. If people are hungry, they can\u2019t think about anything except their hunger. This spills over into their behaviour: they might steal food to satisfy that hunger. The need is overriding things that would, if it wasn\u2019t for the need, be considered very important, like morality or honesty."
+        },
+        {
+            "text": "Maslow used a pyramid structure to illustrate the hierarchy: at the bottom are the needs that, if unmet, have the most detrimental impact. The top of the pyramid shows the desirable state where none of the basic needs are lacking. Since its conception, this model has helped people understand the drivers of behaviour in the context of what an individual is experiencing."
+        },
+        {
+            "text": "I propose a hierarchy of emotional needs in relation to services. Unlike Maslow\u2019s needs, which apply to an individual in a particular situation, these needs specifically relate to an interaction/ transaction that an individual is experiencing with another party such as a private company, public servant or other service provider."
+        },
+        {
+            "text": "My model identifies four deficient states. The state at the top of the pyramid cannot be reached if any of the deficiencies exist. Each deficiency has an emotional impact, in that the person\u2019s wellbeing is reduced. It also causes a behavioural impact that has consequences for the individual, anyone they might be interacting with and the desired outcome of the interaction. The model ranks the states by the \u2018average\u2019 emotional impact, from least to most harmful. However, this is a generalisation. People experience setbacks differently, and they react differently. Importantly, the behaviours that stem from the different types of distress might be the same \u2013 for example, both a person who is frustrated and a person who is scared might completely disengage from the interaction. In all these deficient states, the service is not serving the person: it\u2019s actually harming them"
+        },
+        {
+            "text": "Perhaps it feels like common sense that services are designed in relation to the state that the average user is in when they first access the service, particularly if it\u2019s a question of a difficult life event. By and large that\u2019s true. Emergency call handlers are trained in how to guide people through unsafe situations. Volunteers for helplines know that their callers are likely to be distressed. However, it is often the case that after that \u2018front door\u2019, the service stops reducing or preventing distress, and in some cases adds new burdens and trauma, which has consequences for how people behave as they move through that journey."
+        },
+        {
+            "text": "Any element of an interaction or service can create new distress. As I have tried to show with my examples, distress can develop in response to issues as varied as technologies, wording, decisions, bad wifi, lack of information, risk assessment or user error. It can also develop in relation to the whole experience: people grow weary and cynical if time passes, they keep pushing, but there is no resolution. Service design is critically important precisely because it is the only discipline that encompasses all of these and the feelings of the individual users."
+        },
+        {
+            "heading": 2,
+            "text": "Design is the backdrop to significant life events"
+        },
+        {
+            "text": "When the stakes are very high, users need to be able to make good decisions, but they are also more likely to be stressed. Claiming asylum, divorce, medical diagnoses, accusations of crime, large financial transactions: these are the situations in which people most need to be able to effectively navigate services to get the right outcome for them. The services are not a neutral portal \u2013 they are the experience: best when they guide, defuse and resolve, worst when they cause additional shame, pain or fear."
+        },
+        {
+            "text": "The poorer the design of a service is, the more important it is that the person who is navigating it be focused and clear-headed. We instinctively embody this when we sit down, turn off the tv and concentrate on putting the right combination of flights and luggage \u2013 but no extra hire cars or insurance policies - into our shopping basket. When design is unintentionally or intentionally poor, it is the user who has to make the effort to get it right."
+        },
+        {
+            "text": "Sometimes, individuals experience a perfect storm of these factors. They are in a high-stress situation, the outcome of which will be critical to their future. However, they are facing a complex, poorly-designed service that can only be navigated by people who are articulate, patient, confident or even pushy. Sound familiar? This is often the case for services provided by the courts, police, border control, the NHS and central government."
+        },
+        {
+            "text": "Ironically, these services only exist to cater for people in some sort of distress; in many cases the user will be vulnerable by definition. That is completely different from a consumer\u2019s free choice to buy from a budget airline\u2019s dodgy website. Individuals are compelled to use the designs public servants make \u2013 unless they\u2019re so emotionally impacted that they go down a \u2018bad path\u2019: non-compliance with a law, evasion of responsibilities, or disengagement from the structures society has put in place to supposedly help them."
+        },
+        {
+            "heading": 2,
+            "text": "Design can prevent and remedy distressing experiences"
+        },
+        {
+            "text": "At a basic level, we have an ethical responsibility to stop adding to people\u2019s distress. In addition, we need to employ design to prevent behaviours that sabotage the outcome we are aiming for. The discipline of design has so much to offer the public sector, from the minutiae of service interactions in specific situations to the overall feeling that our democratic institutions are creating the sort of society people want to live in. Every public servant has this power \u2013 the power to design well, eliminate distress and make a positive difference to the people we are here to serve. What can you do to design danger, fear, shame and frustration out of people\u2019s experiences?"
+        }
+    ]
+}
