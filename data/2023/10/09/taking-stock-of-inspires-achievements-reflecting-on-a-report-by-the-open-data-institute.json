@@ -1,0 +1,74 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/10/09/taking-stock-of-inspires-achievements-reflecting-on-a-report-by-the-open-data-institute/",
+    "title": "Taking stock of INSPIRE's achievements \u2013 reflecting on a report by the Open Data Institute",
+    "authors": [
+        "John Dixon"
+    ],
+    "categories": [
+        "Data Transformation"
+    ],
+    "pub_date": "2023-10-09T09:00:33+01:00",
+    "content": [
+        {
+            "text": "Data Policy Lead, John Dixon, shares his thinking on the independent review of INSPIRE by the Open Data Institute."
+        },
+        {
+            "text": "INSPIRE is the short way of referring to The INSPIRE Regulations 2009 and is an acronym of INfrastructure for SPatial Information REgulation. INSPIRE is a framework that requires public authorities to use common, shared standards for geospatial data and related data access services. The rationale for INSPIRE is to improve environmental decision-making at all levels of government by improving access to geospatial data."
+        },
+        {
+            "text": "Geospatial data (called spatial data in the legislation) is any data with a direct or indirect reference to a specific location or geographical area. INSPIRE's importance to Defra is in gaining consistency of data across administrative boundaries, consistent environmental reporting, and more general benefits it brings to sharing, reuse and interoperability of geospatial data for example in publishing environmental indicators, land use modelling, biodiversity net gain and tree planting."
+        },
+        {
+            "text": "Using common, shared standards makes data easy to find, to access, integrate and reuse. It also provides a measure to assess the quality of data. Meeting those principles is also referred to as Q-FAIR (Quality, Findable, Accessible, Interoperable, Reusable)."
+        },
+        {
+            "heading": 2,
+            "text": "The Open Data Institute (ODI) Report on INSPIRE"
+        },
+        {
+            "text": "The Open Data Institute: Outcome of the INSPIRE Regulations 2009 Review was commissioned by Defra to assess the extent to which INSPIRE has achieved its objectives and to make recommendations for INSPIRE\u2019s future in the broader context of UK data policy."
+        },
+        {
+            "text": "We asked ODI to consider how far the original goals of INSPIRE have been met and to what extent they are still valid. We also requested a view of how best to take forward the UK geospatial data infrastructure established by INSPIRE."
+        },
+        {
+            "text": "The ODI report found that the goals of INSPIRE are indeed still valid and recommends keeping the INSPIRE legislation for the time being. The report recommends that a cross-government consortium be formed to oversee the further development of the UK geospatial framework."
+        },
+        {
+            "text": "Defra is the owner of the INSPIRE legislation because of the link to environmental reporting. Over the years INSPIRE has developed a much wider use base and has impacted other sectors and organisations with responsibilities for (for example) data standards.\u00a0 These interests are currently represented on a Defra-led INSPIRE Compliance Board."
+        },
+        {
+            "text": "We understand that the implementation of INSPIRE has had its challenges but there are some considerable achievements, which are set out in the ODI report. Just two highlights are the well over 20,000 data sets published as a direct result of INSPIRE and the UK GEMINI metadata standard which was re-versioned and updated for INSPIRE and is still the default UK standard for geospatial metadata."
+        },
+        {
+            "heading": 2,
+            "text": "Q-FAIR"
+        },
+        {
+            "text": "The National Data Strategy builds its foundation on Q-FAIR principles. The ODI report notes that the Q-FAIR principles share much with the INSPIRE framework and we will develop and implement them both together to bring about the best outcomes for geospatial data users. Making data accessible and reusable through the Q-FAIR principles is the basic principle of the Defra group data transformation strategy."
+        },
+        {
+            "heading": 2,
+            "text": "What does the future hold?"
+        },
+        {
+            "text": "Standards for data are a fundamental building block towards making data easier to find, share, re-use and combine with other data.\u00a0 For Defra, greater application of data standards will, among many other things:"
+        },
+        {
+            "text": "In the future UK geospatial data may or may not need the INSPIRE legislation (or a restated or revised version) to support use cases. The report recommends that the proposed cross-government consortium organisations should each consider what their own geospatial data users want and need as part of regular stakeholder engagement \u2013 which we will ensure is in line with the Retained EU Law (Revocation and Reform) Act 2023."
+        },
+        {
+            "text": "I recommend reading the report as it has some interesting points of learning and more general recommendations for data policy. It is short, succinct and an easy read for anyone working in or interested in data policy and strategy."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "The independent report on INSPIRE from the ODI forms an evidence base for the statutory Post Implementation Review of INSPIRE."
+        },
+        {
+            "text": "Defra will now start the conversation with organisations across government on the ODI recommendations."
+        }
+    ]
+}
