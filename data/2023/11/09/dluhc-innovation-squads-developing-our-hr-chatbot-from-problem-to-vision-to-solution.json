@@ -1,0 +1,82 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2023/11/09/dluhc-innovation-squads-developing-our-hr-chatbot-from-problem-to-vision-to-solution/",
+    "title": "DLUHC Innovation Squads: developing our HR chatbot from problem to vision to solution",
+    "authors": [
+        "Innovation Squads team"
+    ],
+    "categories": [
+        "Innovation"
+    ],
+    "pub_date": "2023-11-09T09:01:15+00:00",
+    "content": [
+        {
+            "text": "As outlined in our team\u2019s first post,\u00a0 the initial phase of work from our department's first Innovation Squad achieved a couple of things.\u00a0"
+        },
+        {
+            "text": "First, it proved that a small team of people with no prior experience can be stood up quickly to take a lean UX approach to experimenting. Second, it shone a light on a universal problem \u2014 the size of HR enquiry backlogs."
+        },
+        {
+            "text": "To keep this work going, we met with our People Capability and Change team and HR service desk colleagues to align on how to move forward. We wanted to keep our focus on solving the problem for users while maintaining our pace and momentum."
+        },
+        {
+            "text": "We used these sessions to develop our problem statement and vision.\u00a0"
+        },
+        {
+            "text": "Immediately following these sessions, Tom from the HR service desk team, joined us to help uncover and analyse HR data."
+        },
+        {
+            "text": "This is one of many changes to the team, whose shape has changed considerably in the last few weeks \u2014 although Umar remains our constant, as delivery manager.\u00a0"
+        },
+        {
+            "text": "Ben, our user researcher, joined us to run some user testing on the outputs of our 2 test chatbot models. This research has helped us understand the strengths and limitations of chatbots in helping answer HR enquiries.\u00a0"
+        },
+        {
+            "text": "As we begin to recognise that a chatbot only offers value if it provides the answers users need, we've also brought in Helena, our content designer.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What we\u2019ve learnt"
+        },
+        {
+            "text": "We had a call with a data scientist, who explained the considerable step change in the capability of publicly available Large Language Models (LLMs) \u2014 the technology behind the latest chatbots.\u00a0"
+        },
+        {
+            "text": "Before LLMs, chatbots were often a source of pre-scripted answers. At most, the chatbot would breakdown user questions, highlight key words and return the scripted answer that was \u201cmost similar\u201d.\u00a0"
+        },
+        {
+            "text": "With an LLM, it will still break the sentence down and analyse key words. But now, rather than fetching an answer from a list, it generates a string of words that it thinks are the most likely response to a question.\u00a0"
+        },
+        {
+            "text": "However, this means they can give factually inaccurate answers to questions. So the latest development is a method called Retrieval Augmented Generative Large Language Models (RAG-LLMs).\u00a0"
+        },
+        {
+            "text": "Here, the model is fed business specific information (such as HR policy and guidance) and will only provide responses based on that information source. These models are rather complicated to set up, but will provide tailored answers and references to the source material."
+        },
+        {
+            "text": "So, in order for this kind of technology to be successful it needs to be built on well designed and high quality content. Quality in = quality out."
+        },
+        {
+            "heading": 3,
+            "text": "Quick wins"
+        },
+        {
+            "text": "Tom, Helena and Ben have been working to analyse the types of enquiries received. This has already led to the identification and implementation of quick wins with regard to better use of Freshdesk (the HR service desk software) for categorisation and tagging of enquiries.\u00a0"
+        },
+        {
+            "text": "Examples include tagging enquiries that did not need human interaction to resolve."
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We'll work with business and performance analyst colleagues to establish how we will measure success. Without this, we won't know if what we're doing is making a positive impact, or demonstrate a 'return on investment'."
+        },
+        {
+            "text": "We will investigate the top 10 most frequent types of HR enquiry from end to end, so that we can understand how best to address them. Once best practice is established we can scale and replicate first across remaining HR enquiry types and then across other teams within DLUHC."
+        },
+        {
+            "text": "Drop a comment in the comment box or get in touch with our Innovation Squads Team at innovationsquads@levellingup.gov.uk if you have any questions or would like to continue this conversation."
+        }
+    ]
+}
