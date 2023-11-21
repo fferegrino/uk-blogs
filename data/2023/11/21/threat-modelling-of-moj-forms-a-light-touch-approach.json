@@ -1,0 +1,101 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/11/21/threat-modelling-of-moj-forms-a-light-touch-approach/",
+    "title": "Threat Modelling of MoJ Forms - A Light Touch Approach",
+    "authors": [
+        "Matt Tei"
+    ],
+    "categories": [
+        "MoJ Forms",
+        "threat modelling"
+    ],
+    "pub_date": "2023-11-21T12:42:35+01:00",
+    "content": [
+        {
+            "text": "Any service can face a number of threats. A way to surface these is to run through a threat modelling assessment. Running through the process can help to prioritise and make decisions based on data the output gives us."
+        },
+        {
+            "text": "There are many different ways to perform threat modelling but the previous method I had experience with was to remove all the controls, assess a threat then define the controls to mitigate the threat. This is not a trivial piece of work that includes using security professionals, deconstructing the product and assessing the importance of the data it processes or holds.\u00a0"
+        },
+        {
+            "text": "The team I had joined needed an overview of the platform, it had been securely architected but a threat model had not been done. Building a new platform with many features still needed a formal threat model process which would have taken too much time. We needed a way that could be completed by our team and not take more than a sprint (2 weeks)."
+        },
+        {
+            "text": "The method we used defined the assets, and the actors linked them with a threat and assessed against the current platform, with the controls it already had in place."
+        },
+        {
+            "text": "Assets"
+        },
+        {
+            "text": "Anything we want to protect - including personal data held, credentials or keys. leaving items left on whiteboards or a notepad on your desk. Representational damage to the MOJ or Government."
+        },
+        {
+            "text": "Actors"
+        },
+        {
+            "text": "A person, organisation either external or internal who causes harm to the information system which is intentional or unintentional. These range from being targeted to an employee who is trying to find a work around."
+        },
+        {
+            "text": "Threats"
+        },
+        {
+            "text": "The STRIDE framework"
+        },
+        {
+            "text": "We linked up the threat and provided a narrative/ user story to a spreadsheet to record them.\u00a0"
+        },
+        {
+            "text": "Ranking the threats, by calculating a threat score by multiplying the severity of the threat - how much damage would it do against the probability it could happen.\u00a0"
+        },
+        {
+            "text": "This provides a list of threats which have been scored and in an order. "
+        },
+        {
+            "text": "The next part is to decide what we do with the threats we have found."
+        },
+        {
+            "text": "We used the following list:"
+        },
+        {
+            "text": "Now to put that into context by running through a threat for the product I am working on."
+        },
+        {
+            "text": "MoJ forms lets you create and publish digital forms without needing developer skills and not starting from scratch. All data is treated as Official-Sensitive Personal."
+        },
+        {
+            "text": "After running through this process a few times my views are that it was quicker and more lightweight, completed during just one sprint (2 week cycle). The whole team was involved which gave better coverage, not just technical threats.\u00a0"
+        },
+        {
+            "text": "This made the creation and prioritisation of work packages simpler, the what and why had already been explored. We have a living document to refer to and add to when a new feature is designed and developed.\u00a0"
+        },
+        {
+            "text": "What could be improved? The first session was gruelling, we started with a blank page. Luckily we had some experience in IA and pentesting to fall back on. Saying that, some example threats to talk around first would have made this easier. Not just focus on the technology, consider shoulder surfers on the train or leaving things on a whiteboard in the office or meeting space. Everything should be considered that interacts with the product."
+        },
+        {
+            "text": "It doesn\u2019t replace the full threat modelling session and we know it doesn\u2019t cover everything, but gives us a greater understanding and that is better than not doing it at all."
+        },
+        {
+            "text": "Tips!"
+        },
+        {
+            "text": "The resources available to you"
+        },
+        {
+            "text": "MoJ Forms Product Page\u00a0"
+        },
+        {
+            "text": "MoJ Cyber and Technical Security Guidance\u00a0\u00a0"
+        },
+        {
+            "text": "Threat Dragon\u00a0"
+        },
+        {
+            "text": "OSWASP\u00a0"
+        },
+        {
+            "text": "GDS Threat Modelling"
+        },
+        {
+            "text": "NCSC"
+        }
+    ]
+}
