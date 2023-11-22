@@ -1,0 +1,101 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2023/11/22/inclusive-language-by-design/",
+    "title": "Inclusive language by design",
+    "authors": [
+        "Sarraounia Christianson, Senior Content Designer",
+        "Cara Aikman, Senior Product Manager"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "User centred design"
+    ],
+    "pub_date": "2023-11-22T10:24:01+00:00",
+    "content": [
+        {
+            "text": "We volunteered as Diversity and Inclusion practice leads in the Home Office user-centred design (UCD) community. Our goal is finding ways to embed diversity and inclusion into our research and design practices."
+        },
+        {
+            "text": "We\u2019ve found that understanding the importance of accessible and inclusive government services is one thing but putting this into practice is another."
+        },
+        {
+            "text": "While working as part of a service team we noticed inconsistencies in how the sex and gender of users were referred to. When discussing the problem with other designers we discovered there was no best practice for tackling this within Home Office services."
+        },
+        {
+            "heading": 2,
+            "text": "Why it\u2019s important to write inclusively"
+        },
+        {
+            "text": "Inconsistencies in the way we identify users risks unintended consequences that may exclude or disadvantage the people we build services for."
+        },
+        {
+            "text": "The words we use are crucial because it's how we communicate with people and give them the information they need to complete the tasks they need to."
+        },
+        {
+            "text": "Our services need to be consciously unbiased to effectively serve our users, so we wanted to fill the gap in how we use language to design inclusively."
+        },
+        {
+            "text": "Other organisations are starting to develop their own inclusive language guides to provide a standard for designers and create consistency in their approaches to language."
+        },
+        {
+            "text": "NHS Digital for example have an inclusive content style guide, tailored to the healthcare context. Google has published guidance on how to write inclusively, specifically designed for developers."
+        },
+        {
+            "heading": 2,
+            "text": "Working with stakeholders to understand whether a solution already existed"
+        },
+        {
+            "text": "We spoke to people across government departments and professions to find out how teams were approaching content with our diverse user groups in mind, and if inclusivity was a key consideration."
+        },
+        {
+            "text": "It became clear that despite trying to design services that work for everyone, there wasn\u2019t a single point of reference for inclusive language in the Home Office that people could use to guide their work."
+        },
+        {
+            "text": "Other than accessibility and usability standards, how we use language to communicate inclusively remained an elusive subject."
+        },
+        {
+            "heading": 2,
+            "text": "Creating Home Office inclusive language guidance"
+        },
+        {
+            "text": "We've created our own inclusive language guidance for designers at the Home Office, to use as a benchmark for content in our services."
+        },
+        {
+            "text": "The guidance is not an exhaustive list but aims to start setting a standard for writing inclusively and consistently across the services we work on."
+        },
+        {
+            "text": "We've laid out clear guidelines for designers as to what language to use and how to approach writing about users from groups, including users from groups with protected characteristics. The guidance highlights how to avoid inconsistent approaches that have the potential to exclude and alienate users from certain groups."
+        },
+        {
+            "text": "Inclusive language ultimately builds trust and allows us to communicate effectively with our users."
+        },
+        {
+            "heading": 2,
+            "text": "Home Office inclusive language posters"
+        },
+        {
+            "text": "Taking inspiration from some accessibility posters produced by one of our colleagues, we distilled the ideas of inclusive language into a more shareable format."
+        },
+        {
+            "text": "The inclusive language posters are quick reference, best practice guidelines and not meant to be used as a set of rules. The idea is that you can put them up in your office space to get UCD colleagues thinking about how to write inclusively as they design and research. They can also be used digitally."
+        },
+        {
+            "text": "The guidance and posters are available in PDF or JPEG format for anyone to find on GitHub and our Home Office design system."
+        },
+        {
+            "text": "We hope the posters will be used by teams to bake inclusivity into their designs and have it at the forefront of their minds when designing for all users."
+        },
+        {
+            "text": "These will be iterated as we continue to seek out new ways to be inclusive in our work and evolve design practices to build services that work for everyone."
+        },
+        {
+            "heading": 2,
+            "text": "Want to make an impact?"
+        },
+        {
+            "text": "User-centred design at the Home Office is about designing our products and services in collaboration with the people who will use them. We work on some of the most challenging and important government services. Our work helps to keep people safe and the country secure."
+        },
+        {
+            "text": "You can find out more about user-centred design at our Home Office Careers website."
+        }
+    ]
+}
