@@ -1,0 +1,102 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/11/27/get-involved-with-the-launch-of-early-access-to-gov-uk-forms/",
+    "title": "Get involved with the launch of early access to GOV.UK Forms",
+    "authors": [
+        "Iain Boyd - Engagement Lead for GOV.UK Forms, Government Digital Service",
+        "Irina Pencheva, Lead Product Manager - GOV.UK Forms and GOV.UK Notify"
+    ],
+    "categories": [
+        "GOV.UK Forms"
+    ],
+    "pub_date": "2023-11-27T09:23:22+00:00",
+    "content": [
+        {
+            "text": "We launched GOV.UK Forms\u2019 private beta back in April 2022 and we\u2019re now ready to move into our next phase - \u2018Early Access\u2019.\u00a0"
+        },
+        {
+            "text": "So far, we\u2019ve been working closely with 11 private beta partners and over 60% have already published forms. We\u2019ve published 17 forms and we\u2019ve got a pretty healthy pipeline of more forms being worked on. Our remaining partners are all getting closer to publishing their first forms which is hugely encouraging too. This means we\u2019ve helped to solve some common problems experienced by lots of form owners and form processors.\u00a0"
+        },
+        {
+            "text": "Quotes from partners"
+        },
+        {
+            "text": "- Dan M, Animal and Plant Health Authority"
+        },
+        {
+            "text": "And we feel that now is a good time to release the value we\u2019ve created and allow more teams to use the platform."
+        },
+        {
+            "heading": 2,
+            "text": "What does \u2018Early Access\u2019 mean?"
+        },
+        {
+            "text": "During this phase, anyone who works in central government and has a gov.uk email address can try out using GOV.UK Forms by creating a trial account. They can learn about the platform and decide if this is going to be useful for them to build forms now. Trial accounts won\u2019t allow users to create live forms but we\u2019ll be considering requests to upgrade accounts, based on our criteria below.\u00a0"
+        },
+        {
+            "text": "This means giving access to our new form builder to more colleagues working in government. We\u2019re doing this because we think we\u2019ve got a great platform and lots of teams will benefit from using GOV.UK Forms, even at this early stage."
+        },
+        {
+            "text": "We want to do this in a managed way, one that helps us to test out new and existing features in a live environment and to scale up confidently.\u00a0"
+        },
+        {
+            "text": "Users can ask to upgrade their trial account and gain full access to the platform if:"
+        },
+        {
+            "text": "It\u2019s important to state that even with an upgraded account, users will not be able to publish any forms on GOV.UK themselves. To make a form findable on the website, form creators will need to work with their departmental publishing team to add a link and make any other content changes required.\u00a0"
+        },
+        {
+            "text": "We\u2019re still in private beta and have lots to learn. Early access will help us to do this in a scalable way, releasing value to our users and tying this to our roadmap. We\u2019ll be inviting more and more users to access the platform as we develop more features.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What GOV.UK Forms currently offers"
+        },
+        {
+            "text": "We\u2019re building a brand new platform which means we have a growing, but still limited, set of features right now. You can ask questions for names and addresses, or for longer text answers, as well as asking for dates and answers which require a number. You can also create questions which ask a person filling in a form to select options from a list. You can even allow a user to skip future questions based on a previous answer.\u00a0"
+        },
+        {
+            "text": "Another really great feature we\u2019ve recently added allows you to include detailed guidance, where typical hint text does not provide enough context or information to help people answer a question. It allows you to add guidance, as well as formatting, like bullet points, subheadings and links.\u00a0\u00a0"
+        },
+        {
+            "text": "You can choose how to format certain questions such as, whether to ask for a name in one box or split this into first name and surname. We support autofill, allowing a user\u2019s browser to automatically suggest information they\u2019ve provided on other websites, for example for names, addresses and dates of birth.\u00a0"
+        },
+        {
+            "text": "We\u2019ve just released a new feature to send confirmation emails to people who have filled out a form using an integration with GOV.UK Notify. Another cool feature allows you to see some simple form metrics, including weekly completion rates and the number of form submissions. This helps form owners to manage and to iterate forms, making them better and easier to fill out."
+        },
+        {
+            "heading": 2,
+            "text": "What happens next?"
+        },
+        {
+            "text": "Over the next few months we\u2019ll be developing our functionality in order to move into public beta where anyone working in central government will be able to use the product in a self-service way. We are hoping to move into public beta in the spring.\u00a0"
+        },
+        {
+            "text": "Before we move into public beta, we will integrate with GOV.UK Pay so people filling out forms can make payments using a payment link. We will also add functionality that allows users to include additional answers to the same question, a common pattern used on around 35% of government forms. For example, if a question asks for an address history for the past 5 years, users will be able to add multiple addresses."
+        },
+        {
+            "text": "We will iterate our sign-up journey and account management process to make it fully self-service. We will also complete some technical work to make sure our platform can scale for the increased demand.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why we think this is a big deal and how you can get involved"
+        },
+        {
+            "text": "Our aim is to design an easy to use, self-service tool which has an accessible interface, built with common GOV.UK Design System components. In this way, we think the new platform is a crucial tool to help us deliver better government services.\u00a0"
+        },
+        {
+            "text": "Amanda Dahl, Deputy Director, Digital Service Platforms, GDS"
+        },
+        {
+            "text": "We\u2019re already working closely with a number of teams to plan how they will improve their forms and help shape our product, both now and as we release more features in the coming months. If you work in central government, we\u2019d love to hear from you, please do get in touch."
+        },
+        {
+            "text": "You can read more about the features we already have, and what we're working on next, on our product site."
+        },
+        {
+            "text": "Early Access is our big idea for scaling up! We hope you\u2019re interested in working with us, learning more and helping to shape the development of future form features. We can only do this with your help, so please share with colleagues and any civil servants who may be interested in our form builder too.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ll also be hosting a webinar to discuss the new form builder and what\u2019s coming up in January 2024. Details will be on our product site."
+        }
+    ]
+}
