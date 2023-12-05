@@ -1,0 +1,65 @@
+{
+    "url": "https://cddo.blog.gov.uk/2023/12/05/ensuring-government-data-drives-improvements-in-public-services/",
+    "title": "Ensuring government data drives improvements in public services",
+    "authors": [
+        "Sue Bateman, Chief Data Officer, CDDO"
+    ],
+    "categories": [
+        "CDDO",
+        "Cross-government strategy",
+        "Data",
+        "DDaT community"
+    ],
+    "pub_date": "2023-12-05T09:55:12+00:00",
+    "content": [
+        {
+            "text": "By sharing and reusing trusted data, where it\u2019s safe and legal to do so, policymakers and analysts are able to make better decisions ultimately leading to better services and outcomes for citizens. We are driving a step change in our data management practices so that we can realise our ambitions to use data to improve productivity, deliver better services and harness the full power of new technologies such as artificial intelligence (AI)."
+        },
+        {
+            "text": "Government holds large volumes of data, and to drive these efficiencies and improvements we need to prioritise the data which could be of most benefit for government departments and focus our efforts on investing in improving and unlocking its further reuse. But how do we identify those data assets which are most important? And once identified, how can we ensure they are of high quality, managed and captured appropriately?"
+        },
+        {
+            "text": "The policy and guidance about Essential Shared Data Assets will allow the government to have a clear understanding of what data is critical from a cross-government perspective, as well as a clear, standardised and agreed way of identifying and reporting such data assets."
+        },
+        {
+            "heading": 3,
+            "text": "What is an Essential Shared Data Asset?"
+        },
+        {
+            "text": "An Essential Shared Data Asset (or ESDA) is a data asset which is critical to delivery of cross-government operations."
+        },
+        {
+            "text": "When we talk about \u2018critical data\u2019 from a cross-government perspective we refer to data assets that support the purposes or processes of delivering public services, regulatory compliance, policy formulation, producing national statistics or defence, national security and resilience. In other words, the data assets held by any government department that supports another government department deliver such essential processes or purposes."
+        },
+        {
+            "text": "The approach to identifying ESDA\u2019s helps us to understand what data government needs \u2018as a whole\u2019 and how this needs to respond to current and emerging challenges. Where data is shared or has the potential to be shared between two organisations it is important that both organisations they\u00a0 have a shared understanding of the roles and accountabilities associated with the data asset. The new data ownership model for government defines roles around those essential shared data assets and drives broad accountabilities around a number of key data principles such as data being secure and managed effectively throughout its lifecycle.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What does this mean for government departments?"
+        },
+        {
+            "text": "The Central Digital and Data Office (CDDO) has been leading work across government to identify our ESDAs.\u00a0 For now, central government departments have been asked to identify their ESDAs and report its metadata (data which describes other data) back to CDDO.\u00a0"
+        },
+        {
+            "text": "This work will bring more clarity to a complex landscape, by providing a shared cross-government framework of key data roles and their associated responsibilities. This is a step change in the way the government approaches data discoverability and reuse, and sets the basis for delivering the government\u2019s Data Marketplace."
+        },
+        {
+            "heading": 3,
+            "text": "Content for the Data Marketplace"
+        },
+        {
+            "text": "To ensure ESDAs are discoverable across government, the ESDA metadata records will be some of the first content to populate the Data Marketplace. The Data Marketplace will provide a front door to discover, access and share government data in a legal, ethical and trusted way."
+        },
+        {
+            "text": "Importantly the Data Marketplace will make agreeing and managing data shares based on ESDAs easier, faster and legally compliant. Demands for datasets derived from ESDAs will vary on a case by case basis and through the Data Marketplace departments will be able to use a consistent and transparent process to ensure that appropriate data shares are established.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Guidance ahead of beta testing"
+        },
+        {
+            "text": "To deliver on the commitments under the Mission 3 from the government\u2019s Roadmap for Digital and Data, CDDO, in close collaboration with a wide range of government departments and agencies has developed a new policy and guidance for beta testing. The proposals underwent Alpha testing with a small number of departments. All this with the goal to make sure that robust foundations for data discoverability, sharing and reuse are in place. The guidance and resources include:"
+        }
+    ]
+}
