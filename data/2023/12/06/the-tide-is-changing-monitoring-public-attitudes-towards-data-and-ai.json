@@ -1,0 +1,72 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/12/06/the-tide-is-changing-monitoring-public-attitudes-towards-data-and-ai/",
+    "title": "The tide is changing: Monitoring public attitudes towards data and AI",
+    "authors": [
+        "Sylvie Hobden",
+        "Dea Begaj"
+    ],
+    "categories": [
+        "Algorithms",
+        "Artificial intelligence",
+        "Data",
+        "Data collection",
+        "Data-sharing",
+        "Decision-making",
+        "Demographic data",
+        "Diversity",
+        "Equity",
+        "Ethical innovation",
+        "Public engagement"
+    ],
+    "pub_date": "2023-12-06T10:41:14+00:00",
+    "content": [
+        {
+            "text": "Today marks the publication of the third wave of the Centre for Data Ethics and Innovation (CDEI) Public Attitudes to Data and AI tracker survey. The CDEI leads the Government\u2019s work to enable trustworthy innovation using data and AI as part of the Department for Science, Innovation and Technology (DSIT). The survey provides a temperature check of the UK public\u2019s attitudes towards the use of data and artificial intelligence (AI) in society. It helps policymakers, civil society, industry, and other interested parties monitor changing trends in public attitudes, and informs the government\u2019s approach to future policy development."
+        },
+        {
+            "text": "Background to the survey"
+        },
+        {
+            "text": "Data-driven technologies, including AI, have unique potential to improve people\u2019s lives. To maximise these benefits however, it is crucial that we engage with the people who will be affected to understand how they want these innovative technologies to be used and regulated. It is only through this engagement that we can understand the conditions that data-driven technologies need to meet in order to secure public trust and make the most of the available opportunities."
+        },
+        {
+            "text": "In response to this need, the CDEI\u2019s annual tracker survey allows us to monitor changes in public attitudes over time and supports both the public and private sectors to consider how they can facilitate an effective data and AI ecosystem that citizens can trust."
+        },
+        {
+            "text": "This is the third wave of the tracker survey, which began in 2021 and was the first of its kind to monitor how attitudes to data and AI vary over time."
+        },
+        {
+            "text": "Key findings"
+        },
+        {
+            "text": "AI is already changing the way we live and work for the better. It\u2019s behind many products and services that improve our day-to-day lives, whether that\u2019s our streaming services recommending new albums and TV shows we might enjoy, or our email provider filtering out spam\u200b. Our latest survey findings demonstrate that the UK public increasingly recognises the impact of data-driven technology, including AI, on our lives."
+        },
+        {
+            "text": "Following the emergence of large language models (LLMs) into public view in late 2022, self-reported awareness of AI has increased significantly: our 2023 tracker finds that 95% of people have heard of AI (compared with 89% the previous year), and 66% feel able to explain what it is, at least partially (compared with 56% the previous year). Across the board we see that the public has high hopes for AI to increase convenience, make goods and services more affordable, and to improve public services such as education, healthcare, and policing. More broadly, the public increasingly recognises the transformative power of data use to tackle what are seen as the greatest issues facing society: healthcare, the cost of living, and the economy."
+        },
+        {
+            "text": "However, in line with other research, we also found that people\u2019s comfort with the use of AI is greatly dependent on the specific context. For example, the public are positive regarding the application of AI to detect cancer from a scan, but less so regarding the use of AI to mark students\u2019 homework. Perceptions of the need for AI governance also vary considerably by sector; with a substantial proportion of the public prioritising careful management of AI used in healthcare (29%), by the military (27%), or in banking and finance (25%)."
+        },
+        {
+            "text": "These preferences are underpinned by the public\u2019s increasing awareness of risks associated with data-driven technology. Most notably, there is widespread concern that AI will displace jobs, particularly among non-graduates, that AI will erode human creativity and problem-solving skills, and about AI\u2019s potential impact on fairness in society. More broadly, there is heightened public concern around insecure data storage leading to hacking or data theft. It\u2019s possible that this concern can be attributed to a heightened awareness of negative media stories around data, particularly on the topic of data breaches and leaks."
+        },
+        {
+            "text": "In order to unlock the benefits of these emerging technologies, the government recognises that it must address risks at a national level and through international forums. Our proportionate and context-based approach to AI regulation is designed to ensure that we have the right guardrails in place to responsibly reap the benefits of AI. Public engagement, including this tracker survey, will play an important role in ensuring that these guardrails foster justified public trust and equitable outcomes as the technology continues to evolve."
+        },
+        {
+            "text": "Next steps"
+        },
+        {
+            "text": "We have published a report on the survey findings along with a summary infographic. The full data tables are also available to download in line with our commitment to transparency. The findings from the tracker survey will continue to underpin the government\u2019s approach to AI and data. We will also continue to publicise the research across industry and civil society to ensure public voices are amplified in the wider AI discussion."
+        },
+        {
+            "text": "If you have any questions or would like to receive updates on future waves of the tracker survey, please contact us at public-attitudes@cdei.gov.uk."
+        },
+        {
+            "text": "Methodology"
+        },
+        {
+            "text": "The methodology across all three waves of the tracker survey has remained consistent to enable us to compare data points year on year. The survey comprises an online component which completed by a nationally representative sample of 4,000 UK residents, as well as an additional telephone component conducted with 200 UK residents with very low digital familiarity. This enables us to include the voices of individuals who may not have been able to otherwise participate in this survey. It also aids us by capturing a wider range of opinions on the topics of data and AI from groups that may be differentially impacted by the issues."
+        }
+    ]
+}
