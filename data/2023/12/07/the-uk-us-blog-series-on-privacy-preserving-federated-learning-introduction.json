@@ -1,0 +1,76 @@
+{
+    "url": "https://cdei.blog.gov.uk/2023/12/07/the-uk-us-blog-series-on-privacy-preserving-federated-learning-introduction/",
+    "title": "The UK-US Blog Series on Privacy-Preserving Federated Learning: Introduction",
+    "authors": [
+        "Dave Buckley",
+        "David Darais",
+        "Joe Near",
+        "Naomi Lefkovitz"
+    ],
+    "categories": [
+        "Data",
+        "Data collection",
+        "Data-driven technology",
+        "Data-sharing",
+        "Ethical innovation",
+        "Responsible innovation"
+    ],
+    "pub_date": "2023-12-07T15:19:17+00:00",
+    "content": [
+        {
+            "text": "This post is the first in a series on privacy-preserving federated learning. The series is a collaboration between CDEI and the US National Institute of Standards and Technology (NIST)."
+        },
+        {
+            "text": "Advances in machine learning and AI, fuelled by large-scale data availability and high-performance computing, have had a significant impact across the world in the past two decades. Machine learning techniques shape what information we see online, influence critical business decisions, and aid scientific discovery, which is driving advances in healthcare, climate modelling, and more."
+        },
+        {
+            "heading": 3,
+            "text": "Training Models: Conventional vs Federated Learning"
+        },
+        {
+            "text": "The standard way to train machine learning models is to collect the training data centrally, on one server or in one data centre, where it can be used to train the model. A model is what we get from the output of training on the data; once trained, a model is then used for predictions or generating new content. For example, a consortium of banks may want to train a model to detect fraudulent transactions; to do so, they\u2019ll need to collect transaction data from many different banks on a central server, as shown in Figure 1(a)."
+        },
+        {
+            "text": "Collecting sensitive financial data raises serious privacy concerns, however. If the central server is compromised or its owner is not trustworthy, then the data may be leaked or used for other purposes. Sharing sensitive information like financial data may not even be possible due to privacy regulations or other legal restrictions. Apart from security and privacy concerns, in some cases the data may raise intellectual property issues."
+        },
+        {
+            "text": "Because of these challenges, many organisations simply decide to not share data. As a result, useful models\u2014like the fraud detector in our example\u2014are impossible to build."
+        },
+        {
+            "text": "This blog series focuses on federated learning, an approach that addresses the fundamental privacy challenge of traditional machine learning by avoiding the centralised collection of training data. In federated learning, the central server sends a copy of the partially trained model to each participating organisation and collects model updates instead of data, as shown in Figure 1(b). Each organisation constructs its model update by training the model locally on its own sensitive data\u2014which never leaves the organisation. The resulting model updates can be aggregated and assembled to construct an improved model. This process repeats until the model is trained. Examples of successful use of federated learning include Google\u2019s Gboard, Speech, and Messages, and Apple\u2019s news personalisation and speech recognition. However, there are currently limited examples of federated learning being used to enable collaboration between different organisations without direct sharing of data \u2013 such a setup has the potential to unlock new use cases that could provide significant societal and economic benefits."
+        },
+        {
+            "heading": 3,
+            "text": "Privacy Challenges in Federated Learning"
+        },
+        {
+            "text": "Even though federated learning helps to address the privacy challenge of centralised data collection, in the past decade, researchers have discovered new kinds of privacy attacks that can recover sensitive training data even when federated learning is used!"
+        },
+        {
+            "heading": 4,
+            "text": "Developing Solutions: The UK-US PETS Prize Challenges"
+        },
+        {
+            "text": "Announced at the inaugural Summit for Democracy in December 2021, the UK-US PETs prize challenges were a collaborative effort between UK and US governments to drive innovation in privacy-preserving federated learning (PPFL). Contestants could tackle two high-impact use cases: combating financial crime, and responding to public health emergencies. In both cases, contestants were tasked with training a machine learning classifier on a federated dataset, whilst providing end-to-end privacy guarantees."
+        },
+        {
+            "text": "The winning teams were selected by an independent panel of PETs experts from academia, industry, and the public sector, taking into consideration the quantitative metrics from the evaluation platform, the outcomes from red teaming, and the code and written reports submitted by teams."
+        },
+        {
+            "text": "The winning solutions were announced at the second Summit for Democracy in March 2023; you can watch the announcement video here, which also provides a really useful animation of the challenge setup. You can learn more about the challenges at the NIST and the UK Research and Innovation websites."
+        },
+        {
+            "heading": 4,
+            "text": "Coming up in this blog series"
+        },
+        {
+            "text": "Throughout this series, we plan to present techniques for PPFL alongside lessons learned in the PETs prize challenges. The challenge results demonstrated the increasing practicality of some PPFL techniques\u2014in some cases, these techniques are already being incorporated into commercial products. The results also highlighted areas where existing techniques are not yet practical, and more research is needed."
+        },
+        {
+            "text": "Over the coming months, we\u2019ll be publishing a number of blogs to provide practical guidance for exploring privacy-preserving federated learning in practice. The series will feature guest authors from organisations involved in the UK-US prize challenges, and other leading experts in the field. Topics will include:"
+        },
+        {
+            "text": "Finally, we want this blog series and our other work in this space to meaningfully contribute to making AI safer and fairer, whilst protecting important shared values such as privacy and autonomy. Through the Atlantic Declaration, the US and UK governments have reaffirmed their commitment to developing safe and responsible AI, including further collaboration on privacy enhancing technologies. If you feel you could help us in this ambition, we want to hear from you. Please do get in touch via pets@cdei.gov.uk or PrivacyEng@nist.gov."
+        }
+    ]
+}
