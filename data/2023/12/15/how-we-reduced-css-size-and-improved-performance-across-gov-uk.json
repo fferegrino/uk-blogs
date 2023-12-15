@@ -1,0 +1,123 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/12/15/how-we-reduced-css-size-and-improved-performance-across-gov-uk/",
+    "title": "How we reduced CSS size and improved performance across GOV.UK",
+    "authors": [
+        "Jon Kirwan, Front end developer, GDS",
+        "Martin Jones, Front end developer, GDS"
+    ],
+    "categories": [
+        "Posts for Tech Specialists"
+    ],
+    "pub_date": "2023-12-15T12:03:26+00:00",
+    "content": [
+        {
+            "text": "We recently reduced CSS size and improved performance across GOV.UK pages by\u00a0moving away from bundling all CSS into a single stylesheet served to all pages to serving smaller stylesheets containing only the necessary styles for each page. There have been reductions of up to 40% in CSS size on some pages, accompanied by incremental improvements in timing metrics across many pages. These improvements could lead to a slightly faster experience for users accessing GOV.UK through older or low end devices or for people on slower connections."
+        },
+        {
+            "heading": 2,
+            "text": "Previously"
+        },
+        {
+            "text": "GOV.UK is made up of many different applications. Previously, each application served a single stylesheet, a set of CSS rules that define the layout and appearance of a page, made up of many different types of styles bundled together. Styles can come from our component library (accordion, button, notice and more) or they may apply to specific pages within the application. Styles were served to all application pages. Bundles could sometimes include as many as 30 different style imports."
+        },
+        {
+            "text": "In addition, a separate stylesheet which includes commonly used styles like layout or typography styles is served from an application called static."
+        },
+        {
+            "text": "Bundling is a common HTTP/1 performance optimization technique where resources cannot be loaded in parallel and too many sequential network requests can take a long time to download, so it makes sense to bundle styles together to reduce network requests."
+        },
+        {
+            "heading": 2,
+            "text": "Problems"
+        },
+        {
+            "text": "Concatenating multiple stylesheet assets into one bundle has its downsides."
+        },
+        {
+            "text": "Firstly, users might have downloaded CSS for unvisited pages. For example, the homepage previously loaded CSS for 24 components yet, aside from commonly used styles (included in the static stylesheet), only required styles for 5 components. Therefore, a homepage visit required 17 kilobytes of unused CSS to be downloaded."
+        },
+        {
+            "text": "Also, the application stylesheet cache was easily invalidated for small changes, which meant the browser had to download the application stylesheet again. For example, consider a small style change to the contents list component styles in our component library to change bottom margin spacing from 20px to 30px.\n"
+        },
+        {
+            "text": "This small change would require the entire application stylesheet (27.7 kB gzipped) to be redownloaded. This is an important consideration when our component library is frequently updated."
+        },
+        {
+            "text": "Lastly, bundling all CSS doesn\u2019t take advantage of the multiplexing features of HTTP/2 where multiple assets can be requested at the same time making it possible to serve many smaller files. HTTP/2 was switched on for GOV.UK in 2020."
+        },
+        {
+            "heading": 2,
+            "text": "How we solved these problems"
+        },
+        {
+            "text": "To solve these problems, we created a new asset helper in the govuk-publishing-components gem. The asset helper is used to create a list of stylesheets required for rendering a page, it includes helper methods to add required stylesheets to the list and the `render_component_stylesheets` method to output the list of stylesheets as stylesheet link tags in the <head> of the document."
+        },
+        {
+            "text": "The asset helper ensures that all stylesheets in the list are unique. For example, if several button components are rendered on a page, only one button stylesheet is loaded."
+        },
+        {
+            "text": "The asset helper runs in the background for all applications that use GOV.UK Publishing Components, but implementing the individual loading of stylesheets feature is optional."
+        },
+        {
+            "text": "Once we had the asset helper available, the next step was to implement the individual loading of stylesheets feature in our rendering applications. We decided to do this one application at a time, starting with the `frontend` rendering app (which renders the home page, the register to vote and tax your vehicle services and more). This approach allowed us to monitor the impact of the change, giving us time to fix any issues before implementing in the next rendering application."
+        },
+        {
+            "text": "We also created detailed documentation for setting up individual component CSS loading in a rendering application. This includes step-by-step guidance, links to example pull requests and known issues."
+        },
+        {
+            "heading": 2,
+            "text": "Performance gains"
+        },
+        {
+            "text": "Using SpeedCurve to test various pages, across various devices and connection speeds, before and after the changes, we\u2019ve seen a site-wide reduction in CSS size together with performance improvements when measured against key performance indicators."
+        },
+        {
+            "text": "CSS size has reduced by 40% (dropping from 42 kB to 25 kB) on the GOV.UK home page along with improvements to timing metrics including Start Render (the time from the start of the initial navigation until the first non-white content is painted to the browser display), Largest Contentful Paint (\u200b\u200ba Core Web Vital metric which measures loading performance) and Last Painted Hero (a metric that shows you when the last critical content is painted)."
+        },
+        {
+            "text": "On an emulated Mobile 3G device:"
+        },
+        {
+            "text": "Likewise, for COVID-19 pages, there\u2019s been a 27% reduction in CSS (from 44 kB to 32 kB) and similar performance improvements."
+        },
+        {
+            "text": "Such improvements will mostly be imperceptible to users on high end devices or faster connections but could make a difference for users on older or low end devices (GOV.UK analytics show a sizeable number of users using Galaxy A12, A13 and earlier models) or for people on slower connections - for some pages the improvements bring load times in under 3 seconds (statistics indicate that 40% of visitors will leave a website if it takes longer than three seconds to load)."
+        },
+        {
+            "text": "Whilst these size reductions are encouraging, arguably the main advantage is in caching improvements. In the earlier example, a small spacing update to one of the application component styles forced the browser to redownload the entire application stylesheet. Now the same change means the client only downloads the updated component CSS (1.1 K gzipped). All other stylesheets are loaded from cache."
+        },
+        {
+            "heading": 2,
+            "text": "Other improvements"
+        },
+        {
+            "text": "Whilst implementing the asset helper we identified other optimisation opportunities including finding and removing redundant code. We removed 32 stylesheets across 7 applications and more than 600 lines of CSS by removing unused CSS - styles that are no longer used anywhere - and also removing redundant code - custom helpers or component styles that are now available in the component library or design system."
+        },
+        {
+            "heading": 2,
+            "text": "Negatives"
+        },
+        {
+            "text": "Loading lots of individual stylesheets doesn\u2019t always lead to performance improvements. For example, on detailed guide pages e.g. rates and thresholds for employers 2023 to 2024 which use lots of different components, users can download approximately 16 different stylesheets. Whilst CSS size is still lower than previously, performance indicators are adversely affected with time metrics slightly worse than previously."
+        },
+        {
+            "text": "Also, compressing files with small amounts of text doesn\u2019t always produce smaller file sizes (or leads to hardly any size reduction) since there are fewer instances of repetition to be identified. It\u2019s even possible to see larger file sizes in some cases."
+        },
+        {
+            "text": "However, the performance improvements across the site outweigh the downsides seen in these particular edge cases."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "For some pages, where many individual stylesheets are served, performance metrics are slightly worse. We might look to group together some component styles, commonly served to the same pages, into smaller bundles to achieve better compression savings and reduce their size."
+        },
+        {
+            "text": "Also, we\u2019re investigating loading JavaScript scripts individually, though this is more complex and will require changes to our component library to make use of ES6 modules."
+        },
+        {
+            "text": "Finally, future enhancements might include preloading assets based on predicted user journeys or lazy loading \u2018below the fold\u2019 component stylesheets such as footer and feedback component CSS; both positioned at the bottom of each page."
+        }
+    ]
+}

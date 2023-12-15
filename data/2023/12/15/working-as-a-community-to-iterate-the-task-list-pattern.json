@@ -1,0 +1,87 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2023/12/15/working-as-a-community-to-iterate-the-task-list-pattern/",
+    "title": "Working as a community to iterate the task list pattern",
+    "authors": [
+        "Frankie Roberto \u2013 Interaction designer, Department for Education"
+    ],
+    "categories": [
+        "Design",
+        "Design System"
+    ],
+    "pub_date": "2023-12-15T09:00:20+00:00",
+    "content": [
+        {
+            "text": "We have published a new version of the Task List pattern within the GOV.UK Design System, after 2 years of cross-government collaboration."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s changed"
+        },
+        {
+            "text": "There are three new features of the updated pattern:"
+        },
+        {
+            "text": "Additionally, the code is now available within the GOV.UK Design System rather than just the GOV.UK Prototype Kit, making it easier for teams to use the pattern in production services."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019ve changed it"
+        },
+        {
+            "text": "The task list pattern was first published back in 2017, after being designed by the Government Digital Service (GDS) for more complicated application processes where users need to complete a set of different tasks."
+        },
+        {
+            "text": "Since then it has been used successfully in dozens of services across government."
+        },
+        {
+            "text": "However, it hasn\u2019t always been implemented in a consistent way, and was for a long time still considered \u2018experimental\u2019."
+        },
+        {
+            "text": "Two years ago, we started some cross-government collaboration to understand how it was being used, and see what different teams had learnt from their research on it."
+        },
+        {
+            "text": "The most common recurring finding from this research was that teams observed users attempting to click on the status tag (for example \u2018not yet started\u2019) instead of the link text. Whilst users were generally able to recover quickly from this, it indicated to us that the status labels looked too similar to the standard button design."
+        },
+        {
+            "text": "In addition, we heard repeated concern from teams that the uppercase text on status tags may be harder to read than regular text, particularly for certain user groups or where longer text was used."
+        },
+        {
+            "text": "To improve both of these issues, we changed the design of the status tag so that it always uses a darker text colour on a lighter coloured background, and no longer uses uppercase text. This makes them more distinct from buttons, which use white text on a darker coloured background."
+        },
+        {
+            "text": "In case users still perceive the status tag as a button, we also made the whole row of the task clickable."
+        },
+        {
+            "text": "Finally, we also include a version of the status label which is just plain black text with no background colour at all. We recommend that teams use this for \u2018Completed\u2019 tasks, so that more visual attention is drawn to the tasks where users still need to take action."
+        },
+        {
+            "heading": 2,
+            "text": "How we developed the change"
+        },
+        {
+            "text": "This change was developed through a new collaborative cross-government contribution process."
+        },
+        {
+            "text": "We kicked off with an open call to join an online workshop, and had over 120 participants attend from dozens of government organisations. This helped us to understand the diversity of ways in which the task list pattern was being used, from application forms to case management systems, as well as collecting research findings, and user needs that the pattern was helping with."
+        },
+        {
+            "text": "From the workshops a smaller group, comprising designers and researchers from across different government departments, was formed to work on iterating the actual design."
+        },
+        {
+            "text": "Collaborating in this way wasn\u2019t always fast \u2013 the work had to be fitted in around everyone\u2019s main roles \u2013 but a dedicated Slack channel and semi-regular calls helped to maintain momentum."
+        },
+        {
+            "text": "Once we had a version we were all happy with, it was sent to the Design System working group for feedback. Their main feedback was that the design changes to the status tags within the task list should also be applied to the tag component more widely, such as within the \u2018beta\u2019 banner, or when used within tables. We were happy to do this, however this did cause the new component to become a \u2018breaking change\u2019, which meant waiting to release it with version 5 of GOV.UK Frontend."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We are still keen to learn from teams how they are using the task list pattern."
+        },
+        {
+            "text": "The new guidance pages for the pattern contain recommended wording and colours for status tags in task lists, but these are non-prescriptive and you can change them if your research shows different text is more suitable."
+        }
+    ]
+}
