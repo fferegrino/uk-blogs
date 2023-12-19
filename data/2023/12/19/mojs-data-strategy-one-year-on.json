@@ -1,0 +1,93 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2023/12/19/mojs-data-strategy-one-year-on/",
+    "title": "MoJ\u2019s Data Strategy \u2013 one year on",
+    "authors": [
+        "Richard Price"
+    ],
+    "categories": [
+        "Data",
+        "Data Strategy",
+        "MoJ Digital Strategy 2025",
+        "Our People",
+        "Our services",
+        "our users"
+    ],
+    "pub_date": "2023-12-19T13:46:57+01:00",
+    "content": [
+        {
+            "text": "Data is at the heart of the Ministry of Justice\u2019s work. It helps us to measure the impact of policy interventions, gives us operational insight into prisons and probation, and gives us insights which help us to deliver better services for the public. The Lord Chancellor\u2019s recent prison reform proposals, which will help alleviate ongoing prison capacity issues, were closely informed by data analysis."
+        },
+        {
+            "text": "Last summer MoJ launched its data strategy, which aims to accelerate our transformation into a data-led department, improving justice outcomes for all."
+        },
+        {
+            "text": "We are committed to:"
+        },
+        {
+            "text": "The data strategy was designed in tandem with MoJ\u2019s digital strategy 2025. Our data teams provide insights to inform decisions by frontline teams, work with digital teams to use AI and machine learning tools effectively to deliver the best possible services for the future, and to ensure we\u2019re making the most of the data that we gather from our digital products."
+        },
+        {
+            "text": "We\u2019ve made a lot of progress towards our ambitions this year, here are some examples of what we\u2019ve done."
+        },
+        {
+            "text": "Making data accessible and impactful"
+        },
+        {
+            "text": "In October 2022 we launched Justice in numbers \u2013 giving staff and the public access to key data and statistics on the justice system. Justice in numbers is available as a hard-copy pocketbook, but online you can drill down into the data underpinning the charts to get a better understanding of trends and latest data. If you\u2019re looking for the latest published numbers for a briefing or writing a speech, this is now the go-to source. Justice in numbers has won praise from practitioners and researchers for helping people to get an at-a-glance sense of how the system works and helping the curious to dig down into the data to improve their understanding."
+        },
+        {
+            "text": "This supplements the criminal justice system delivery data dashboards \u2013 designed to increase transparency, increase understanding of the justice system and support collaboration, particularly at a local level through Local Criminal Justice Boards. The dashboards are interactive and have been further developed this year to reflect requests from local agencies. I have attended Local Criminal Justice Boards and talked to Police and Crime Commissioners to see how they are being used in practice to get a shared understanding of priorities across local agencies, and to see what more we can do to help."
+        },
+        {
+            "text": "This is a great example of how our data can help to make a difference in practice to our public services.\u00a0 \u00a0"
+        },
+        {
+            "text": "Data-driven insight and innovation"
+        },
+        {
+            "text": "Our data science teams are at the forefront of innovation, producing new tools and analytical approaches. They have linked electronic monitoring curfew data into probation case management. This is being used by data analysts within MoJ and by collaborating academic fellows to support policy makers and operational staff in their work to reduce offending and strengthen public protection."
+        },
+        {
+            "text": "We continue to improve and develop our existing data science products to provide new insights. Our Prison Network App links up multiple sources of administrative data to help detect prisoners involved with drug smuggling, gang violence and organised crime. More than 500 intelligence staff use the app to identify connections between individuals in the prison population. We're now adding information on co-defendants which will make the app even more powerful in spotting relationships between offenders in prisons."
+        },
+        {
+            "text": "We have worked in partnership with the Alan Turing Institute to develop a framework for the Department to build and embed our ethical approach to the use of AI and data science, so that we can be confident that we understand the choices we make are ethically sound, with principles we can stand by as this area develops quickly."
+        },
+        {
+            "text": "Improved outcomes for users through data linking"
+        },
+        {
+            "text": "Data First links together administrative datasets from across the justice system, to build a fuller picture of our users and their outcomes that has not been possible before and allowing researchers across the UK to generate new insights to inform decision making. For example, on which kinds of intervention and support are more likely to help an individual turn away from crime. Data First researchers have shared a cross-justice system dataset\u00a0that links users from across the courts, prisons, and probation with those of the civil and family courts in England and Wales. This will help us better understand the extent to which people dealing with debt or housing issues are also involved in the criminal justice system, and how many people involved in care proceedings in family court are subject to criminal cases at the same time."
+        },
+        {
+            "text": "Data First also recently published analysis on linked data from MoJ and the Department for Education, which revealed that children who have lived in care are eight times more likely to have received a youth justice caution or conviction than those who have not (as cited by the\u00a0Guardian in September 2023)."
+        },
+        {
+            "text": "Better Outcomes through Linked Data (BOLD) is another ambitious data-linking project, joining data from MoJ, Department of Health and Social Care, the Department of Levelling Up, Housing and Communities, among others. BOLD has begun to transform the way policy and services are shaped, actioned, and delivered with a strong emphasis on linked data infrastructure across service systems that span multiple organisations."
+        },
+        {
+            "text": "BOLD has linked probation and health treatment data to understand treatment pathways for alcohol treatment and drug rehabilitation requirements which can be imposed by a court alongside a non-carceral sentence. This revealed that only around 40% of those with these requirements appeared in treatment data, suggesting that large numbers of offenders are not completing their treatment and allowing probation officers to follow up with those most likely to drop out. BOLD have also produced a tool for probation staff which cuts down the duplication of data entry and significantly reduces the need for probation officers to search for data, freeing up their time to allow more offender management to reduce reoffending."
+        },
+        {
+            "text": "As demand for our services increase, linking data across different public services can give us a clearer sense of how \u2013 by working with our colleagues in health, education and local authorities \u2013 we can help to divert people from crime before they enter the criminal justice system, reducing criminality and making our communities safer places to live and work."
+        },
+        {
+            "text": "Fixing the basics to support a strategic approach to data"
+        },
+        {
+            "text": "The MoJ now has its first Chief Data Officer, to lead from the top, bring strategic expertise and championing our data ambitions across the department. Our Data Improvement team has run a discovery into tooling for a new data catalogue and has mapped critical datasets across the MoJ and criminal justice system (CJS), which will inform prioritisation of work and form the basis for this future catalogue."
+        },
+        {
+            "text": "The Data Improvement team has also piloted a data ownership policy that is tailored to the way MoJ is organised and have supported thousands of colleagues to build their data skills through One Big Thing."
+        },
+        {
+            "text": "I\u2019m also proud to be sponsoring the CJS Data Forum, bringing together senior leaders from across the CJS to agree and prioritise our collective ambitions for using CJS data to provide greater insight to support decision-making - whether that is in policy development or operational delivery."
+        },
+        {
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We will shortly publish our data improvement roadmap, outlining our plans for data management, data skills and behaviour, and access to data over the next three years. Early progress notwithstanding, we are still at an early stage in our journey to deliver on the vision of the data strategy, and there is much more to do, and our teams will share more about their work in the future."
+        }
+    ]
+}
