@@ -1,0 +1,86 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/12/20/department-for-education-our-experience-of-joining-gov-uk-one-login/",
+    "title": "Department for Education: Our experience of joining GOV.UK One Login",
+    "authors": [
+        "Jayne Farrington - Senior Product Owner, Department for Education"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2023-12-20T12:06:33+00:00",
+    "content": [
+        {
+            "text": "This is the first time I have written a guest blog for Government Digital Service (GDS), so I\u2019m really pleased to be able to tell you more about my team and the work we have done with GDS and the GOV.UK One Login programme. You might be wondering why my team is called the FAT Badgers\u2026 We were originally called the Honey Badgers (due to being fearless and highly intelligent) but then we redesigned Find Apprenticeship Training (FAT) so rebadged ourselves the FAT Badgers."
+        },
+        {
+            "text": "In October 2022, our team in the Department for Education began the work to switch over to GOV.UK One Login for a range of our services. One Login will deliver a single consistent way for users to sign in and prove their identity to all government services, so being an early adopter was an exciting yet slightly daunting task! We knew we were in safe hands as services such as Disclosure and Barring Service basic check (DBS), Apply for a vehicle operator licence (DVSA), and Register to be a Social Worker service (SWE) had already joined GOV.UK One Login."
+        },
+        {
+            "heading": 2,
+            "text": "Why we became early adopters"
+        },
+        {
+            "text": "The Department for Education has a number of services which use different sign in methods. For example, the same people who use our \u2018Find an apprenticeship service may use \u2018Apprenticeship service account' however they have different portals to sign in.\u00a0"
+        },
+        {
+            "text": "Therefore, being a part of GOV.UK One Login increases our usability. We recognised that by adopting GOV.UK One Login our users would have a simpler process to register and return to our service. Our users include people like sole traders and small employers who really need their interactions with the government to be simple and fast, given they could be multitasking and how busy they can be."
+        },
+        {
+            "text": "Other important benefits of onboarding to GOV.UK One Login included:"
+        },
+        {
+            "heading": 2,
+            "text": "How we started the onboarding process"
+        },
+        {
+            "text": "The delivery team began the complex task of transitioning around a dozen separate sub-services to a new method of user authentication. The onboarding process involved working with the team in GDS to sign a memorandum of understanding, reviewing user journeys, planning our communications, and testing the service. After months of hard development work, our services migrated over."
+        },
+        {
+            "heading": 2,
+            "text": "Our top tips of switching to GOV.UK One Login\u00a0"
+        },
+        {
+            "text": "Work in the open"
+        },
+        {
+            "text": "Working in the open allows both teams to work at pace. We were regularly working to tight deadlines to ensure that there were solutions in place for all sign in processes. To improve ways of working we scheduled weekly meetings and set up shared Slack channels, letting us discuss issues together and unblock any stuck development tickets.\u00a0"
+        },
+        {
+            "text": "Working in an open way also helps teams that are planning their future switch to GOV.UK One Login. Our work was produced on public repositories so other teams can see how we integrated GOV.UK One Login and use our code, available on github, as a starting point."
+        },
+        {
+            "text": "This is particularly useful as we were one of the first GOV.UK services that use Microsoft .NET to implement GOV.UK One Login. We initially had some development difficulties as a lot of our services were using outdated Microsoft framework versions which did not support the updated security packages that were required for the integration to work. Now GDS can use our work as an example to support other teams which is a win-win for everyone."
+        },
+        {
+            "text": "User-centred design work is required"
+        },
+        {
+            "text": "Though switching to GOV.UK One Login clearly involves development and resources for internal testing, this kind of project is an example of how each role in a service team is important.\u00a0"
+        },
+        {
+            "text": "For instance, our user-centred design team had to change the service to follow the GOV.UK One Login design recommendations. The design work included:"
+        },
+        {
+            "text": "Throughout this experience, we've discovered that unexpected tasks can pop up now and then. It's crucial to leave some room for flexibility in your planning. We believe this is a valuable lesson that other service teams should keep in mind when making a switch."
+        },
+        {
+            "text": "Think about communications early"
+        },
+        {
+            "text": "We worked closely with our colleagues in Service Engagement to ensure that users knew the switch was coming and understood what actions they had to take. We did this early: our first email was sent out to users over 4 months before the actual migration date. Service Engagement colleagues communicated regularly with internal employer facing teams, giving them key information to be able to support employers they work with."
+        },
+        {
+            "text": "As we were making a large change to the service, we also made sure we kept the National Apprenticeship Helpdesk in the loop. We provided guidance and documentation, so they could offer support to users."
+        },
+        {
+            "heading": 2,
+            "text": "Switching to GOV.UK One Login is worth it"
+        },
+        {
+            "text": "Changing how users sign into a service could have been a daunting task, but by switching to GOV.UK One Login, we\u2019ve implemented a future proof sign-in that improves our user journey. We found through careful planning of the migration, and regular communication with users, there was minimal impact on our support teams.\u00a0"
+        },
+        {
+            "text": "We couldn\u2019t have achieved this successful migration without support from colleagues across GDS and DfE."
+        }
+    ]
+}
