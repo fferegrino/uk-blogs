@@ -1,0 +1,107 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2023/12/21/how-we-are-making-our-forms-accessible-and-easy-to-use/",
+    "title": "How we are making our forms accessible and easy to use",
+    "authors": [
+        "Jenny Taylor"
+    ],
+    "categories": [
+        "Defra digital",
+        "Digital transformation"
+    ],
+    "pub_date": "2023-12-21T08:56:48+00:00",
+    "content": [
+        {
+            "text": "Jenny Taylor reflects on the work she\u2019s been doing to develop a solution which she hopes will reduce our reliance on paper forms in the future."
+        },
+        {
+            "text": "Back in September a new project team was created within our Digital Data and Technology function called Defra Forms.\u00a0 This multidisciplinary team is working in an Agile way to tackle Defra group\u2019s continuing reliance on paper (document based) forms. As the Lead Product Manager for Defra Forms, I have the hugely rewarding and often challenging task of defining the product vision and roadmap."
+        },
+        {
+            "text": "Form builders, digital forms, and options for replacing paper (document based) forms have been on the agenda for us and Defra for a long time.\u00a0 It can be surprising for many teams across Defra\u2019s 35 Arm\u2019s Length Bodies that, for such a big government department, we don\u2019t have an easy, quick, accessible, and standardised way to create digital forms to capture data and information from users."
+        },
+        {
+            "text": "We know there is a lot of technology out there but when it comes to a team within Defra wanting to set up a digital form to support a policy area or a new regulation, we don\u2019t have a ready solution that complies with Government Standards and our own Defra standards regarding security, accessibility, privacy, and resilience."
+        },
+        {
+            "text": "Ultimately this lack of a simple and efficient solution can drive teams to give up and \u2018just create a pdf\u2019, increasing our dependency on non-digital processes that present their own challenges in data handling and processing. PDFs are also not fully accessible which means we may unintentionally be excluding some users from interacting with us easily."
+        },
+        {
+            "text": "For example, this might mean having to go back to our customers to correct errors, or fill in missing information, or it could be that we are having to ask teams to do very repetitive data handling, increasing the risk of errors."
+        },
+        {
+            "text": "We need a better framework to make it easier for people to do the right thing for users \u2013 to give users a digital option for their interactions with Defra (this is not about creating digital-only channels but offering alternatives to the document-based routes that already exist)."
+        },
+        {
+            "text": "The Defra Forms team was created to tackle this issue, and since September we have been in a Discovery phase to learn more about the problem, the challenges people within Defra face in creating forms, and the potential solutions that might help us."
+        },
+        {
+            "text": "We are building a foundation of evidence on which we can make decisions about what solutions are available \u2013 by first making sure we have an accurate view of the problem, and that we are not relying on our own assumptions."
+        },
+        {
+            "text": "Though we are working within Cross Cutting Technical Services (CCTS), which sits in our Digital Delivery team, the outcomes of this project are very much driven by our Digital and Data Transformation Strategy, and in particular Mission 1, which is about transforming services, and Mission 2, putting common business capabilities and delivery practices in place."
+        },
+        {
+            "heading": 2,
+            "text": "How we approached Discovery"
+        },
+        {
+            "text": "As a team we have grappled with our purpose or mission statement since we formed \u2013 there are so many valid and important reasons to tackle paper (document based) forms \u2013 but what is the driving force? During Discovery we managed to articulate our mission statement:"
+        },
+        {
+            "text": "\u201cTo provide a framework for the timely and cost-effective digital delivery of a user centred, accessible experience for processing data submitted by users.\u201d"
+        },
+        {
+            "text": "Fundamentally our work is about the user experience \u2013 because as a government department we are here to help people live their lives, run their businesses and comply with the law.\u00a0 We want to help them to do that in the simplest way possible."
+        },
+        {
+            "text": "We also want to make sure that civil servants working within Defra have the tools they need to bring about better efficiency and value for money in the way they operate and handle data.\u00a0 Our mission statement is our guiding light, something we can check back on to make sure we are staying true to our purpose."
+        },
+        {
+            "text": "We also set some goals and objectives for Discovery; during this eight-week phase we set out to:"
+        },
+        {
+            "text": "\u201cDeliver evidence-based options and recommendations for how the existing paper (document based) forms landscape can be improved to offer a digital service to users and onward data processing capability for Defra teams.\u201d"
+        },
+        {
+            "text": "During the Discovery phase the Defra Forms team conducted a triage of the existing paper (document based) forms that are currently published on GOV.UK."
+        },
+        {
+            "text": "The team looked at each of the 579 forms currently published on GOV.UK (our backlog for Discovery) to understand what common features exist and whether digitisation of the forms with existing technology would be possible, or if a new Defra solution would be required."
+        },
+        {
+            "text": "The team also spent time in Discovery looking at existing form builders and understanding how other government departments have tackled this problem. We spoke to colleagues in HMRC, Ministry of Justice, the Home Office, amongst others and learned a great deal about what worked for them and what didn\u2019t."
+        },
+        {
+            "text": "We have also been engaging with the GOV.UK Forms team, who are currently developing a form builder that will soon be available for all government departments to use. Defra has been part of the Private Beta phase of this project, using the GOV.UK Forms product to deliver services for our users."
+        },
+        {
+            "text": "During October we were able to work collaboratively with GOV.UK Forms to deliver a digital form enabling users to comply with new legislation to ban XL Bully dogs."
+        },
+        {
+            "text": "The Defra Forms team have used Discovery to look at the needs of Defra\u2019s forms and assess if the GOV.UK forms offering can meet those needs, now or in the future, and we are continuing to work with GDS to contribute to their roadmap of features."
+        },
+        {
+            "heading": 2,
+            "text": "What did we find out in Discovery?"
+        },
+        {
+            "text": "Our initial investigation of the existing published paper (document based) forms demonstrated that a large proportion of the forms Defra currently publish could be digitised. But we wanted to understand more about what features would be required in a potential Forms solution, if we were to deliver one \u2013 and could an existing form builder provide those features?"
+        },
+        {
+            "text": "The team did a deeper dive into the 579 forms to analyse the apparent common features. Overwhelmingly there were several features, such as repeater questions or tabular data capture, custom validation for data fields and conditional or branching questions that any forms solution would need to deliver to meet the requirements for digitising our existing forms, and to make real headway in removing Defra\u2019s reliance on paper (document based) forms."
+        },
+        {
+            "heading": 2,
+            "text": "The Alpha phase"
+        },
+        {
+            "text": "We have now moved into Alpha where we are looking more closely at those features \u2013 creating prototypes, testing these with users and assessing what existing technology we can reuse to harness efficiency in our delivery."
+        },
+        {
+            "text": "Defra Forms is not just about delivering a Defra form builder as a technological solution, but a new approach for how, as a department, Defra can create, manage, and benefit from a consistent approaching to digital forms.\u00a0 This will ultimately involve a number of options and solutions, depending on the needs of the users, both within Defra group, and externally."
+        },
+        {
+            "text": "I intend this to be the first of many blog posts explaining how this Defra Forms project is progressing. More next time about Alpha, and how the Defra Forms Product Roadmap is evolving. Other members of the Defra Forms team will also be providing updates on how we are tackling the project and some of the key challenges we are working to overcome."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2023/12/21/updating-the-gov-uk-licence-finder/",
+    "title": "Updating the GOV.UK licence finder",
+    "authors": [
+        "Jessie Rossington, former Product Manager, GOV.UK",
+        "Peter Hartshorn, Developer, GOV.UK"
+    ],
+    "categories": [
+        "Finding things",
+        "What we're working on"
+    ],
+    "pub_date": "2023-12-21T13:10:54+00:00",
+    "content": [
+        {
+            "text": "GDS exists to make digital government simpler, clearer and faster for all - based on the principle that good online services are better for users, and cheaper for the taxpayer. That\u2019s why our product teams working on GOV.UK regularly evaluate the tools we offer to make sure they\u2019re still fit for purpose and providing the right information quickly, every time it\u2019s required."
+        },
+        {
+            "text": "One of these tools, Find a Licence, allows people to search for and find licences that they might need for their business, home or another activity. Individuals starting a business need to know which licences they need, so they can operate safely and legally. For example, someone opening a restaurant may need a licence to serve alcohol, a licence to advertise their business, or a licence to play music in the background."
+        },
+        {
+            "text": "The legacy Licence Finder tool was created 10 years ago, but analytics indicated that it was in need of some improvements. So we set out to develop a new version, focusing on the part of the user journey where people are seeking out licences."
+        },
+        {
+            "text": "Since launching the new Find a Licence tool the data has shown some highly encouraging results. User satisfaction is up markedly and, by engaging with the Department for Business and Trade and simplifying the content management, we\u2019ve increased the number of findable licences by more than half. This post explains how we delivered this successful outcome for users and what happens next."
+        },
+        {
+            "heading": 2,
+            "text": "Looking at the previous tool"
+        },
+        {
+            "text": "Reviewing analytics identified a number of issues with the previous licence finder, which prompted us to prioritise this work. We knew the licence finder was not working as it should. We could see that people were dropping out of the journey and not reaching the final page, and we knew we could improve the accessibility."
+        },
+        {
+            "text": "Secondly, the previous content maintenance model was inefficient. Departments had to raise a ticket and GDS developers had to hardcode content. These dependencies meant it was complex and expensive to keep the tool up-to-date and accurate."
+        },
+        {
+            "heading": 2,
+            "text": "Listing the essentials"
+        },
+        {
+            "text": "GOV.UK has a strategy to ensure that more people get better outcomes from government by making it quicker and easier for users to access information and services. In line with these goals, we drew up a list of the essential requirements the new solution needed to meet. We wanted to be certain that it:"
+        },
+        {
+            "text": "It was also essential for us to form partnerships with other departments across government in order to develop the tool. We collaborated closely with the Department for Business and Trade (DBT), who are responsible for the overarching policy around licences, business and trade, as well as with another 30 government departments, arms length bodies and devolved nations to empower them to own and maintain their licence content."
+        },
+        {
+            "heading": 2,
+            "text": "Putting our plans in motion"
+        },
+        {
+            "text": "GOV.UK\u2019s responsibility was developing a solution, from discovery - the process of understanding the problem that needs to be solved - to live, when the new service would be rolled out."
+        },
+        {
+            "text": "After analysing the tool that already existed, we carried out user research to understand pain points and user needs, which we translated into prioritised requirements. We created a prototype, which we tested with users, and then iterated, based on user feedback. We prioritised 4 areas of iterations: search functionality, design, accessibility and content."
+        },
+        {
+            "text": "Some of the iterations we implemented included improving the relevance of search results and improving the user experience for mobile users. We validated iterations by testing the solution with users, before launching a minimum viable product (the simplest version of a product that still has sufficient features to attract users and gather feedback)."
+        },
+        {
+            "heading": 2,
+            "text": "What happens next"
+        },
+        {
+            "text": "The new Find a Licence tool launched in July. Since the launch, analytics suggest the tool has resulted in an improved user experience, with the numbers showing that 431 licences are now findable with the tool, compared to 263 previously - a rise of 64% - while user satisfaction has risen by 20%."
+        },
+        {
+            "text": "Results like these demonstrate how taking a user-focused approach, and cutting the complexity of our processes behind the scenes, can help more people to get the right support from government. But there\u2019s still more work to do. Departments will be adding and updating their licence content over the next few months, and we will be monitoring analytics in order to identify usability issues and rolling out iterations where necessary."
+        }
+    ]
+}

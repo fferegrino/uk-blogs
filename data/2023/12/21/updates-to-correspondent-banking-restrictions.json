@@ -1,0 +1,70 @@
+{
+    "url": "https://ofsi.blog.gov.uk/2023/12/21/updates-to-correspondent-banking-restrictions/",
+    "title": "Updates to Correspondent Banking Restrictions",
+    "authors": [
+        "OFSI"
+    ],
+    "categories": [
+        "Financial sanctions regime"
+    ],
+    "pub_date": "2023-12-21T16:04:27+00:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Regulation 17A of the Russia (Sanctions) (EU Exit) Regulations 2019 was amended with effect from 15 December 2023. This amendment prohibits UK banks[1] from processing payments previously processed by designated banks (meaning banks designated specifically under regulation 17A) or which are intended for a designated bank. So, if a UK bank receives funds that have been routed from or via a designated bank, directly or indirectly, the UK bank should not process the transaction even if the account holders sending and receiving the funds are not designated for the purposes of the asset freeze or otherwise sanctioned. Designation status for the purposes of regulation 17A can be found within OFSI\u2019s consolidated list. Please note that credit and financial institutions that are owned or controlled by a bank which is designated for the purposes of regulation 17A will also be captured by this prohibition."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "What types of payments will be caught?"
+        },
+        {
+            "text": "Put simply, correspondent banking is how banks make payments internationally \u2013 they often use one, or a series of, intermediary banks (or \u201ccorrespondent\u201d banks) to make the payment. For example, if Bank A in the UK wants to send money to Bank X in Brazil, it may try to find a bank that has a presence in both countries. Bank A has a relationship with Bank B who has a presence in both the UK and Brazil. Bank A will transfer the funds to Bank B in the UK who will transfer the funds from its UK entity to its Brazil entity. The funds will then be transferred from the Brazil entity of Bank B to their final destination at Bank X. To enable this, the banks have accounts with each other (these are known as \u201cnostro\u201d and \u201cvostro\u201d accounts). Sometimes, a series of correspondent banks will be used to complete a payment from sender to receiver. When reading about these transactions you may see the terms \u2018remitting bank\u2019 and \u2018beneficiary bank\u2019. Simply put, the remitting bank is the bank sending the funds originally and the beneficiary bank is the receiving bank, or intended destination bank in the payment chain"
+        },
+        {
+            "text": "OFSI currently anticipates that most of the transactions affected by this measure will be transactions which have used correspondent banking earlier in the chain of transactions, and where the correspondent bank is designated for the purposes of regulation 17A."
+        },
+        {
+            "text": "An annex within OFSI\u2019s Russia Guidance document shows two example scenarios where a payment may be stopped by the UK\u2019s financial sanctions under regulation 17A."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Why can\u2019t my payment be processed?\u00a0"
+        },
+        {
+            "text": "The UK\u2019s Russia Regulations prohibit UK banks from processing payments to or via, or which have been received from or via banks designated for the purposes of regulation 17A. In other words, if a UK bank receives funds previously routed from or via a designated bank, or has instructions to pay funds to a designated bank, they must not transmit those funds onwards. The banks must act this way both 1) in a situation where the remitting bank is designated and 2) in a situation where a non-designated bank has initiated the payment but it has been processed via a designated bank before reaching the UK bank."
+        },
+        {
+            "text": "Banks are prohibited from processing these payments even in cases where the account holders sending and receiving the funds are not designated for the purposes of the asset freeze or regulation 17A. This may mean that persons who are not themselves designated have their payments impacted if they involve these designated banks."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "What can I do about it?\u00a0"
+        },
+        {
+            "text": "If funds have not been processed, and you are unsure why, you should contact your bank in the first instance."
+        },
+        {
+            "text": "Some of OFSI\u2019s general licences permit banks to process payments that would otherwise be prevented by Regulation 17A. If you believe one applies to your transaction you should contact your bank and explain why. OFSI\u2019s general licences can be found here: https://www.gov.uk/government/collections/ofsi-general-licences"
+        },
+        {
+            "text": "If your funds have not been processed due to engaging Regulation 17A and a General Licence is not applicable, you may be able to apply to OFSI for a specific licence. However, it will be your responsibility to decide whether you qualify for a relevant licensing purpose and then make an application to OFSI (with the benefit of independent legal advice if appropriate). Guidance on applying for a licence can be found here: https://ofsi.blog.gov.uk/2021/04/19/introduction-to-licensing/. The licensing grounds available under this prohibition are set out at Parts 1B and1C of Schedule 5 of the Russia Regulations, and are:"
+        },
+        {
+            "text": "Any derogation listed in Parts 1B or 1C would be applicable to a transaction that engages regulation 17A(2).You should be aware, however, that although some of these licensing grounds are generally applicable, some are only available to the designated person themselves. If you are unsure about whether to apply or whether a licensing ground or general licence applies to your situation you should seek independent legal advice."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "[1] The relevant legislation applies to \u201cUK credit or financial institution[s]\u201d. We often use the term \u2018bank\u2019 within this article as a shorthand to ease readability. UK persons, including credit or financial institutions, who are unclear on their obligations in a given case should refer to the relevant legislation and consider taking independent legal advice."
+        }
+    ]
+}
