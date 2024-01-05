@@ -1,0 +1,67 @@
+{
+    "url": "https://gds.blog.gov.uk/2023/06/24/gov-uk-one-login-june-2023-update/",
+    "title": "GOV.UK One Login: June 2023 update",
+    "authors": [
+        "Natalie Jones OBE - Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2023-06-24T09:00:32+01:00",
+    "content": [
+        {
+            "text": "It's now been over 18 months since I became the SRO of GOV.UK One Login so I thought it was high time I provided an update on our progress lest you think we\u2019ve been twiddling our thumbs.\u00a0"
+        },
+        {
+            "text": "Nothing could be further from the truth here in the GOV.UK One Login programme. We've been heads down - pedal to the metal - building, testing, iterating and operating our product set over the past six months.\u00a0"
+        },
+        {
+            "text": "We\u2019ve now got 8 services onboard, multiple routes through our product to prove an identity to a medium GPG 45 profile, an Apple and Android app, so it\u2019s been go, go, go\u2026\n"
+        },
+        {
+            "heading": 2,
+            "text": "Shipping product"
+        },
+        {
+            "text": "When I last wrote I talked about how we were shaping our backlogs and working to understand what it was that users and departments needed. Since then our focus has shifted to building and shipping the things on the list, while continuing to run a robust and resilient live service.\u00a0"
+        },
+        {
+            "text": "Our numbers have swelled in every area, we have three times the number of teams working in parallel on features and incremental improvements to existing functionality. We\u2019re making over 500 separate releases a month to production through our automated pipeline. We\u2019re running continuous discovery sessions in parallel to development and have conducted over 100 end user research sessions in the last six months alone.\u00a0"
+        },
+        {
+            "text": "We now have 8 services using GOV.UK One Login, these are:"
+        },
+        {
+            "text": "We have driving licence and passport based routes for users, with both forms of ID able to be used with our identity checking app or via a web journey. Our identity check apps have now been downloaded over 2 million times and we\u2019ve issued over 1.5 million verified identities since our first users last summer. More than 815,000 individuals now have GOV.UK One Login accounts that can now be accessed using authenticator apps as one of their factors. We\u2019re accepting overseas telephone numbers for One Time Passwords and we\u2019ve got Welsh Language versions.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Tackling inclusion\u00a0"
+        },
+        {
+            "text": "That\u2019s pretty impressive but we haven\u2019t stopped there. We\u2019re really focussed on broadening out the reach of our service to users who don\u2019t have a driving licence or passport as well as those with low digital skills. This is why we\u2019re going to open a face-to-face route for identity verification in the summer, which will allow users with additional forms of identification to prove their identities to a medium GPG 45 profile and give us our first asynchronous journey!"
+        },
+        {
+            "text": "We\u2019re also just finalising our plans for our first \u2018low\u2019 profiles and our first \u2018medium profile\u2019 that won\u2019t need users to have any form of photo ID at all. More on these exciting new features as they mature.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Goodbye GOV.UK Verify\u00a0"
+        },
+        {
+            "text": "The pace at the end of 2022 was determined at least in part by the desire to retire our predecessor service GOV.UK Verify. I\u2019m happy to say that before Christmas GOV.UK Verify issued its last identity and in March this year, the last service using it migrated away and it has now been decommissioned. We often talk about new features and products -\u00a0 so it's good to be able to celebrate the brilliant efforts, teamwork and collaboration that enabled us to elegantly switch something off. GOV.UK Verify successfully proved the identity of 10m end-users and facilitated 18.6m transactions across 27 services using seven identity providers. I hope everyone who worked on Verify is proud of their contribution."
+        },
+        {
+            "text": "The lessons learned from GOV.UK Verify formed a core part of the thinking around the way we have set up and been running GOV.UK One Login. We\u2019ve been focussed on increasing user success rates from the GOV.UK Verify baseline since we first went into beta last summer. Our user-level data shows that for our most popular service we\u2019re achieving an identity verification rate of 62% which is a huge achievement for a platform that didn\u2019t exist 12 months ago. This is over 10% higher than the target rates agreed with the service before it onboarded.\u00a0"
+        },
+        {
+            "text": "So with one last glance backwards we are now firmly focussed forwards and on the exciting roadmap we have in place for 2023-24 and beyond.\u00a0"
+        },
+        {
+            "text": "Over the next 18 months we\u2019ll be onboarding the vast bulk of government services. As part of that many of you reading this will create GOV.UK One Login accounts in that period. Please let us know what you think when this happens by dropping us a line."
+        },
+        {
+            "text": "Until next time, Natalie."
+        }
+    ]
+}
