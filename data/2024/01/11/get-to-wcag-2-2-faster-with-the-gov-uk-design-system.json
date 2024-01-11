@@ -1,0 +1,96 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/01/11/get-to-wcag-2-2-faster-with-the-gov-uk-design-system/",
+    "title": "Get to WCAG 2.2 faster with the GOV.UK Design System",
+    "authors": [
+        "David Cox - Senior Accessibility Specialist",
+        "GOV.UK Design System team, GDS"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Regulations",
+        "Design"
+    ],
+    "pub_date": "2024-01-11T11:31:20+00:00",
+    "content": [
+        {
+            "text": "There\u2019s a new update in town, and it\u2019s a big one! The GOV.UK Design System is ready to help service teams across the UK government meet the latest version of the Web Content Accessibility Guidelines: WCAG 2.2."
+        },
+        {
+            "text": "2023 was a busy year for our team, as we worked to assess, investigate, implement and test accessibility improvements for our codebase and guidance. We\u2019re excited that all our work can now help service teams across the UK Government make more accessible services in 2024."
+        },
+        {
+            "text": "You can learn What's new in WCAG 2.2 from the W3C Web Accessibility Initiative (WAI), the group that writes, manages and publishes WCAG."
+        },
+        {
+            "heading": 2,
+            "text": "The impact: why WCAG 2.2 matters"
+        },
+        {
+            "text": "Improving accessibility improves lives."
+        },
+        {
+            "text": "The UK public sector is here to provide essential services and support to the public. Government services play a vital role, often as the sole provider of crucial services. We hold monopolies on driving licences, passports, business permits, and so much more. When these services are not made accessible, people get left behind without alternatives."
+        },
+        {
+            "text": "So WCAG 2.2 isn\u2019t just an exercise in standards or compliance. It\u2019s about making changes that benefit millions of users across the digital ecosystem. The updates included in WCAG 2.2 help real people. Similarly, neglecting or ignoring WCAG 2.2 harms real people."
+        },
+        {
+            "text": "Working together, we have the opportunity remove and reduce many barriers in government services, including for people:"
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re pushing for WCAG 2.2"
+        },
+        {
+            "text": "Teams across government will need to work hard this year to make services more accessible, and we\u2019re here to help."
+        },
+        {
+            "text": "WCAG 2.2 AA is the new minimum accessibility standard for all UK Government public sector websites and mobile apps. Starting from October 2024, services across the UK government will be monitored for WCAG 2.2 AA compliance."
+        },
+        {
+            "text": "Thousands of government services will require WCAG 2.2 updates in 2024, so we've updated our design system to anticipate the needs of service teams across the UK public sector. The GOV.UK Design System provides teams with accessible code and important guidance for designing consistent, usable, and accessible services in the GOV.UK ecosystem.\u00a0\u00a0"
+        },
+        {
+            "text": "Together, we can work to build government services that work better for everyone, and especially for disabled people. Implementing the WCAG 2.2 success criteria will\u00a0 greatly improve services, with better interaction methods, more visible keyboard navigation, consistently located help tools and supports that make entering information simpler."
+        },
+        {
+            "heading": 2,
+            "text": "For teams using the design system"
+        },
+        {
+            "text": "The WCAG 2.2 Design System updates include code changes to GOV.UK Frontend, a new accessibility section, and over 50 new pieces of WCAG 2.2 guidance content across our website."
+        },
+        {
+            "text": "To move over to the WCAG 2.2 version of the Design System:"
+        },
+        {
+            "heading": 2,
+            "text": "For teams not using the design system"
+        },
+        {
+            "text": "Now is an excellent time to switch a government service to the GOV.UK Design System."
+        },
+        {
+            "text": "Services, including those run on third-party tools, will need to meet level AA of WCAG 2.2 as a minimum, with compliance monitoring starting from October 2024 (read more information on public sector accessibility monitoring). We\u2019ve put in the effort to get the Design System ready now, to help service teams make the journey to meeting WCAG 2.2. More than 1,200 services are estimated to already use the GOV.UK Design System, and it\u2019s a stable starting point for web accessibility."
+        },
+        {
+            "text": "The Design System provides accessible code and important guidance for designing consistent, usable, and accessible services in the GOV.UK ecosystem."
+        },
+        {
+            "text": "By using the GOV.UK Design System, teams can:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We\u2019re planning more WCAG 2.2 activities to support, including potential workshops and peer support methods. However, we\u2019d like to hear what would be helpful to you and your teams \u2013 you can tell us by joining our GitHub discussion page."
+        },
+        {
+            "text": "Keep an eye on the Design System\u2019s WCAG 2.2 page for more updates, and sign up to our mailing list to hear from us about future events and updates."
+        },
+        {
+            "text": "If you have any questions, you can contact the team."
+        }
+    ]
+}
