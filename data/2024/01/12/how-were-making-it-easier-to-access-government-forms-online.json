@@ -1,0 +1,88 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/01/12/how-were-making-it-easier-to-access-government-forms-online/",
+    "title": "How we\u2019re making it easier to access government forms online",
+    "authors": [
+        "Oliver Quinlan, Senior User Researcher, GDS"
+    ],
+    "categories": [
+        "GOV.UK Forms"
+    ],
+    "pub_date": "2024-01-12T09:09:23+00:00",
+    "content": [
+        {
+            "text": "We\u2019re making it easier for departments to build digital services here at GDS and we\u2019ve built a tool to make it easy to create online forms for GOV.UK without any specialist digital skills. GOV.UK Forms makes creating an online, accessible form as easy as creating a document."
+        },
+        {
+            "text": "We\u2019ve been testing forms created using our tool with the public, and found they much preferred online forms to PDFs and other document-based versions. We learned some interesting things from users about why they find online forms easier to use."
+        },
+        {
+            "heading": 2,
+            "text": "Usability testing"
+        },
+        {
+            "text": "We\u2019ve been doing lots of testing with the immediate users of GOV.UK Forms - civil servants who create forms. But we wanted to check in with the people who end up using those forms - the members of the public who need to submit information to government."
+        },
+        {
+            "text": "We ran some user research sessions with members of the public to understand their experiences of using government forms. We asked them to complete a range of simple forms and share their thinking as they did so. Some of these were document-based forms in PDF or Word format and some were online forms created using GOV.UK Forms."
+        },
+        {
+            "heading": 2,
+            "text": "Clear, trusted design"
+        },
+        {
+            "text": "There was strong support for the online forms across the sample group we tested, with everyone stating they preferred the forms created using GOV.UK Forms. GOV.UK Forms uses the GOV.UK Design System, and our participants commented that they recognised the visual style as being a government site and something that they could trust.\u00a0"
+        },
+        {
+            "text": "Forms using the GOV.UK Design System all look the same, increasing their sense of trust and familiarity."
+        },
+        {
+            "heading": 2,
+            "text": "Checking your answers"
+        },
+        {
+            "text": "Online forms created with GOV.UK Forms all end with a simple 'Check your answers\u2019 page. Our participants said they liked this page showing them their information and giving them the chance to go back and change anything they weren't happy with.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Automatically completing personal information"
+        },
+        {
+            "text": "When completing online forms, people were able to use \u2018autofill\u2019 to complete common information, such as names and addresses, that was saved in their browser."
+        },
+        {
+            "text": "One person gave more complete information because they were able to use previously saved information from the browser using autofill.\u00a0"
+        },
+        {
+            "text": "It's not always perfect, and one person found a previous form had caused them to save some incorrect information in their autofill, but it does usually save people time, especially if they use assistive technology."
+        },
+        {
+            "heading": 2,
+            "text": "One thing per page"
+        },
+        {
+            "text": "One of the most distinctive aspects of online forms on GOV.UK is the 'one thing per page' principle. The online forms we tested had one question per page, and people commented that this was welcome and made the form easier to complete."
+        },
+        {
+            "text": "They said that this principle allows them to focus on one thing at a time and not worry about navigating through the form. They simply answer the question that\u2019s in front of them.\u00a0"
+        },
+        {
+            "text": "Being able to focus on one question at a time was also commented on as a positive by people with accessibility needs. We tested with people using a range of assistive technologies and this simple, focused layout was something many found helpful."
+        },
+        {
+            "text": "We also observed some people giving more accurate and complete information using the online forms."
+        },
+        {
+            "heading": 2,
+            "text": "Making forms quicker and easier"
+        },
+        {
+            "text": "We've been building GOV.UK Forms to make it easier for civil servants to create interactive forms on GOV.UK. It's been good to confirm that these types of forms are also easier for members of the public to complete.\u00a0"
+        },
+        {
+            "text": "Making forms easier and more accessible means people are more likely to submit accurate and complete information the first time around. This cuts down on the time both they and civil servants have to spend following up submissions."
+        },
+        {
+            "text": "There will always be a place for document based forms where information needs to be provided in a situation where a hard copy works best, and to make sure people can access forms completely offline. However, using GOV.UK Forms can help government run services more efficiently, and can make it quicker and easier for people to access them.\u00a0"
+        }
+    ]
+}
