@@ -1,0 +1,84 @@
+{
+    "url": "https://ukhodigital.blog.gov.uk/2024/01/15/plotting-a-safe-course-for-autonomous-vessels/",
+    "title": "Plotting a safe course for autonomous vessels",
+    "authors": [
+        "Mark Casey"
+    ],
+    "categories": [
+        "Autonomous Vessels"
+    ],
+    "pub_date": "2024-01-15T14:57:59+00:00",
+    "content": [
+        {
+            "text": "Marine data provider XOCEAN recently deployed five of its Uncrewed Surface Vessels (USVs) off the Isles of Scilly to collect bathymetric data on behalf of the UK Hydrographic Office (UKHO). The USVs scanned the seabed to help identify features from depth and habitats, to ridges, boulders and shipwrecks."
+        },
+        {
+            "text": "This was the first time the UKHO had commissioned an organisation under their framework to collect seabed data in this way. The USV pilots and surveyors remained safely onshore, monitoring progress 24/7 via satellite communications. The data XOCEAN collects enables us at the UKHO"
+        },
+        {
+            "text": "to map the seabed, giving us a better understanding of the sea floor and the marine environment to support safer and efficient maritime navigation."
+        },
+        {
+            "heading": 2,
+            "text": "Autonomous vessels of the future"
+        },
+        {
+            "text": "Autonomous technology and the safety implications for seafarers, cargo and vessels was one of the key subjects of discussion during our ADMIRALTY event at London International Shipping Week (LISW) 2023. At the event, our panel of experts discussed how, as we move towards fully autonomous ships, the traditional approach of humans on board using standard digital products will often no longer apply."
+        },
+        {
+            "text": "Currently to navigate safely and effectively, trained mariners interpret Electronic Navigational Chart (ENC) data alongside other complementary navigational information. ENCs are used on board most large ships across the globe to enable safe passage from A to B. However, these have been specifically designed with the mariner in mind, meaning they are optimised for human interpretation \u2013 and are effectively constrained to include only the information that a mariner needs."
+        },
+        {
+            "text": "This presents a challenge for the industry to develop and optimise machine-readable navigational solutions that support uncrewed Maritime Autonomous Surface Ships (MASS). To help tackle this issue, the UK Hydrographic Office along with the MASS community is exploring potential solutions that utilise the latest technologies and S-100 \u2013 the International Hydrographic Organization\u2019s new data standard, which will support the next generation of navigational products and services and what these may look like for large ocean-going autonomous vessels."
+        },
+        {
+            "heading": 2,
+            "text": "Using data to power autonomous vessels"
+        },
+        {
+            "text": "High-resolution gridded bathymetry, utilising the S-102 data standard, is one information source that delivers a more intricate depiction of the ocean floor and enhances navigational accuracy. When integrated with other data collections, this gridded bathymetry can significantly contribute to navigation and position determination for MASS, as demonstrated through the XOCEAN-led project. XOCEAN used the UKHO\u2019s ADMIRALTY ENC\u2019s to safely navigate the USVs whilst collecting the bathymetric data."
+        },
+        {
+            "text": "Last year we supported the Mayflower Autonomous Ship project, which saw S-100 data tested on board an autonomous vessel for the first time. Without a crew on board, AI-powered cameras and onboard sensors enabled the Mayflower Autonomous Ship to cross from Plymouth UK to North America. By bringing together data from various sources, its onboard AI captain was able to perform a similar role to a human captain, constantly assessing the ship\u2019s route, status and mission."
+        },
+        {
+            "text": "The UKHO provided data including high-resolution gridded bathymetry (S-102), tidal heights and surface currents, and geospatial restriction and constraints data for the Plymouth Sound region. This data provided the research vessel with a definitive view of the seabed in UK coastal waters."
+        },
+        {
+            "heading": 2,
+            "text": "Digital Twin"
+        },
+        {
+            "text": "Digital twin technology is another area where the UKHO is helping to steer maritime towards an autonomous shipping future. A digital twin is a virtual representation of a physical setting, precisely mirroring its conditions in almost real time. These digital duplicates can be used in various applications, such as enabling users to undertake virtual tours of ports, informing data gathering, and supporting route optimisation and simulation."
+        },
+        {
+            "text": "Real-time data feeds and AI test data are used to display live vessel movements. This encompasses official marine data such as bathymetry, tidal heights, and seabed configuration, in addition to other sources of weather and land-related data."
+        },
+        {
+            "text": "Serving as a bridge between scientific understanding and decision-making, digital twins offer a thorough and data-centric method for maritime navigation. This will foster innovation in the maritime sector by creating a lifelike environment to simulate a variety of scenarios that a mariner could feasibly encounter at sea. It will also enable the testing of new technologies for both crewed and uncrewed vessels and for researchers to study the effects of environmental change."
+        },
+        {
+            "text": "By using the same 3D engines that power video games, our teams have also been able to successfully develop dynamic digital models of the coastline and its associated features to support MASS. We have recently developed \u2018digital twins\u2019 of port environments, including Southampton and north-west Scotland, using a similar concept. These technologies could potentially serve as a robust tool for MASS navigation in coastal regions."
+        },
+        {
+            "heading": 2,
+            "text": "Maritime Autonomous Surface Ships (MASS)"
+        },
+        {
+            "text": "The future of uncrewed ships requires international collaboration to address the challenges. We are continuing to engage with industry experts and initiatives surrounding MASS to support the safe and effective transition from crewed to uncrewed vessels."
+        },
+        {
+            "text": "This involves leading the IHO's MASS Project Team, with the objective of identifying present and future navigational needs, discussing hydrographic standards and regulations, and offering recommendations. In line with this, the project team is exploring ways to ensure that the next generation of S-100 data standards is suitable for both crewed and uncrewed vessels, underpinned by official navigation data."
+        },
+        {
+            "text": "With every research and trial project we conduct, we move nearer to unlocking the potential of self-navigating vessels. And as we head into an exciting new chapter for shipping, we will continue to collaborate to support safe navigation for the autonomous vessels of tomorrow."
+        },
+        {
+            "heading": 2,
+            "text": "Navigating the maritime future"
+        },
+        {
+            "text": "UKHO Chief Executive, Peter Sparkes and Head of Technical Partnerships, Thomas Mellor, discussed the topic of autonomy in our recent webinar. Navigating the maritime future webinar further explores the discussions that took place between our panel of experts at our ADMIRALTY LISW event."
+        }
+    ]
+}
