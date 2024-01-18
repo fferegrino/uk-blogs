@@ -1,0 +1,114 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/",
+    "title": "The findings of our first generative AI experiment: GOV.UK Chat",
+    "authors": [
+        "Dr Matthew Gregory, Lead Data Scientist at GDS",
+        "Alessia Tosi, Data Scientist at GDS",
+        "Sharon McDonald, Lead User Researcher, GDS",
+        "Robert Sewell, Senior User Researcher, GOV.UK"
+    ],
+    "categories": [
+        "Data",
+        "User insights",
+        "What we're working on"
+    ],
+    "pub_date": "2024-01-18T11:15:50+00:00",
+    "content": [
+        {
+            "text": "In our strategy for growth, launched in June last year, we said that we wanted to explore whether emerging technologies can help users when interacting with GOV.UK."
+        },
+        {
+            "text": "The Government Digital Service (GDS) is running a series of experiments to explore, and test, how generative Artificial Intelligence (AI) could improve the user experience of GOV.UK. Chris Bellamy, Director of GOV.UK, has shared more about the work of the AI team, and how we\u2019re approaching this technology \u2014 we suggest you read her blog post before this one to have that context."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach to generative AI"
+        },
+        {
+            "text": "OpenAI\u2019s ChatGPT is an emerging technology. It\u2019s only just over a year old, but it has generated a huge amount of interest and discussion. As Chris Bellamy writes: \u201cWe believe that there is potential for this technology to have a major, and positive, impact on how people use GOV.UK... [and] that the government has a duty to make sure it's used responsibly, and this duty is one that we do not take lightly.\u201d This echoes the government's recommended approach described in a policy white paper last year."
+        },
+        {
+            "text": "This meant we took the approach of running a series of phased experiments in a controlled way to quickly gather data for analysis and evaluation of the system, and iteration. Our first experiment was using generative Large Language Models (the technology behind ChatGPT) to solve a problem that\u2019s as old as GOV.UK itself \u2014 how we can save people time and make their interactions with government simpler, faster and easier."
+        },
+        {
+            "heading": 2,
+            "text": "GOV.UK Chat"
+        },
+        {
+            "text": "Our first experiment was an OpenAI powered chatbot, \u201cgrounded\u201d on published information on the site (a method known as Retrieval Augmented Generation). We wanted to see if we could use this approach to enable users to find the information they need by asking questions of GOV.UK content in natural language - the way they would write or speak in everyday life."
+        },
+        {
+            "text": "We called the system we developed GOV.UK Chat. We took a phased approach to experimenting with GOV.UK Chat, where each phase would last a couple of weeks. At the end of each phase, we evaluated the data to determine our next step."
+        },
+        {
+            "text": "The first 3 phases were internal. This allowed us to develop the system safely prior to showing it to real users. This included a \u201cred teaming\u201d exercise, where colleagues from across government tried their hardest to break the system or make it not behave as intended."
+        },
+        {
+            "text": "We also evaluated the performance of the system at each stage, based on expert human assessment of the responses provided and the retrieved GOV.UK sources. Earlier on, this allowed us to identify an initial set of components which, together, produced the best results."
+        },
+        {
+            "text": "Following Phase 4 testing with a dozen users, with positive results, \u200b\u200bwe scaled up testing by inviting 1,000 users to use GOV.UK Chat within a live private pilot \u2014 so we could continue to iterate and improve, and see how people would respond to the system. Collecting more data also helps us have more confidence in our evaluation of the technology."
+        },
+        {
+            "text": "Prior to each phase, especially Phase 5, we carefully considered what outcome or learning we wanted to achieve and designed the experiment and analysis accordingly."
+        },
+        {
+            "text": "We look forward to blogging about some of these areas in greater detail at a later date."
+        },
+        {
+            "heading": 2,
+            "text": "Protecting users\u2019 privacy and security"
+        },
+        {
+            "text": "As with all GDS\u2019s work, we are committed to protecting users\u2019 privacy and security. For this experiment, we put in safeguards to prevent users from submitting personal data in their query."
+        },
+        {
+            "text": "We also respect the personal data that exists on GOV.UK pages and worked closely with our data protection colleagues throughout the experiment in conducting a data protection impact assessment and mitigating any identified risks. For example, we removed GOV.UK pages with personal data from the system so they could not be sent to the LLM."
+        },
+        {
+            "heading": 2,
+            "text": "Our early findings"
+        },
+        {
+            "text": "We conducted follow up surveys of users\u2019 experience with GOV.UK Chat, as well as getting human experts to assess the accuracy and completeness of a sample of answers produced by the system."
+        },
+        {
+            "text": "Analysis of the survey data (n=157) revealed that most people liked using GOV.UK Chat to find the information they needed. Nearly 70% of users found the responses were useful and just under 65% of our users were satisfied with the experience."
+        },
+        {
+            "text": "From the testing we also gathered insights on how these results could be improved. For instance:"
+        },
+        {
+            "text": "Our results also highlighted known issues associated with the nascent nature of this technology. Overall, answers did not reach the highest level of accuracy demanded for a site like GOV.UK, where factual accuracy is crucial. We also observed a few cases of hallucination - where the system generated responses containing incorrect information presented as fact - mostly in response to users\u2019 ambiguous or inappropriate queries."
+        },
+        {
+            "text": "Accuracy gains could be achieved by improving how we search for relevant GOV.UK information that we pass to the LLM, and by guiding users to phrase clear questions, as well as by exploring ways to generate answers that are better tailored to users\u2019 circumstances."
+        },
+        {
+            "text": "We also found that some users underestimated or dismissed the inaccuracy risks with GOV.UK Chat, because of the credibility and duty of care associated with the GOV.UK brand. There were also some misunderstandings about how generative AI works. This could lead to users having misplaced confidence in a system that could be wrong some of the time. We\u2019re working to make sure that users understand inaccuracy risks, and are able to access the reliable information from GOV.UK that they need."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "These findings validate why we\u2019re taking a balanced, measured and data driven approach to this technology \u2014 we\u2019re not moving fast and breaking things. We\u2019re innovating and learning while maintaining GOV.UK\u2019s reputation as a highly trusted (according to internal polling) information source and a ubiquitously recognised symbol in the UK."
+        },
+        {
+            "text": "Based on the positive outcomes and insights from this work, we\u2019re rapidly iterating this experiment to address the issues of accuracy and reliability. In parallel we\u2019re exploring other ways in which AI can help the millions of people who use GOV.UK every day."
+        },
+        {
+            "heading": 2,
+            "text": "Working across government"
+        },
+        {
+            "text": "Teams across government are investigating how best to take advantage of this new technology, and the AI Safety Institute has been established to focus on advanced AI safety for the public interest. GDS is working closely with the Central Digital and Data Office (CDDO) and No.10 on the experiments. CDDO has today published the Generative AI Framework, which provides guidance across government departments."
+        },
+        {
+            "text": "We believe our GOV.UK Chat experiment can act as a \u201cpathfinder\u201d experiment for colleagues across government and the private sector, as to how to evaluate this technology safely."
+        },
+        {
+            "text": "If you\u2019re interested in the work, please get in touch with the team via govuk-enquiries@digital.cabinet-office.gov.uk"
+        }
+    ]
+}

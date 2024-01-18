@@ -1,0 +1,63 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/",
+    "title": "Experimenting with how generative AI could help GOV.UK users",
+    "authors": [
+        "Chris Bellamy, Director of GOV.UK"
+    ],
+    "categories": [
+        "Data",
+        "Vision and plans",
+        "What we're working on"
+    ],
+    "pub_date": "2024-01-18T11:09:44+00:00",
+    "content": [
+        {
+            "text": "Recently, there\u2019s been a lot of discussion about artificial intelligence (AI). In November, the Prime Minister held the AI Safety Summit with the world-first Bletchley Declaration, and shortly after there were further international agreements on AI knowledge sharing. The AI Safety Institute has also been established to focus on advanced AI safety for the public interest. So, it\u2019s clear the spotlight is on the opportunities and risks AI presents to governments \u2014 and what can be done collectively to use AI for good."
+        },
+        {
+            "text": "At the Government Digital Service (GDS), we\u2019ve been thinking hard about how we can use generative AI and large language model (LLM) technologies to improve the user experience of GOV.UK. This builds on a decade of innovating with new technologies, including AI and machine learning, at GOV.UK. And it helps directly contribute to GDS\u2019s mission of improving and safeguarding the user experience of digital government."
+        },
+        {
+            "text": "We believe that there is potential for this technology to have a major, and positive, impact on how people use GOV.UK - for instance making it easier to find answers to their questions from the 700,000+ page estate of GOV.UK. However, we also know, as with all new technology, that the government has a duty to make sure it\u2019s used responsibly, and this duty is one that we do not take lightly."
+        },
+        {
+            "text": "To make sure we were both investigating new technologies, while being cognisant to the risks, we decided the best way to understand how the new technology can deliver value is through real experiments, starting small and scaling incrementally. We\u2019ve set up the GOV.UK AI Team, which brings together a multidisciplinary team to design, build and run a series of experiments using AI that can be tested with a variety of different users."
+        },
+        {
+            "heading": 2,
+            "text": "The first of our generative AI experiments"
+        },
+        {
+            "text": "The first of these experiments was to see if a LLM-powered chatbot can reduce complexity, save people time and make interactions with government simpler, faster and easier. The chatbot responds to user questions in the style of GOV.UK, based only on published information on the site."
+        },
+        {
+            "text": "Following initial testing, with positive results, late last year we scaled up testing to 1,000 invited users - so we could continue to evaluate, iterate and improve. Watch the video to see a demo and hear from the team, and read our blog post detailing our approach and findings."
+        },
+        {
+            "text": "As with all our work we\u2019re committed to protecting people\u2019s privacy and security, particularly with this new technology. We will always uphold our high standards when it comes to data protection, following privacy by design and data minimisation principles. We do this by methods that include removing GOV.UK pages with personal data from the tool; limiting the tool to invited users; instructing these testers not to input personal data; and screening inputs for personal data."
+        },
+        {
+            "text": "For our upcoming experiments, we are set to explore and evaluate ideas contributed by colleagues, users and various government departments. We are continuing to develop the accuracy of the chat while partnering with other government organisations, aiming to establish rapid feedback loops to assess and iterate going forward."
+        },
+        {
+            "heading": 2,
+            "text": "Innovation and experimentation"
+        },
+        {
+            "text": "Innovation is not new for GDS. The creation of GOV.UK itself was an innovation over a decade ago - bringing together nearly 2,000 government websites into a single home for the UK government online. And since then the teams across GOV.UK have sought to take advantage of AI technologies to keep up with changing user expectations. For instance, we used algorithms for related links, machine learning to increase accessibility of the site and innovative data analysis during COVID-19."
+        },
+        {
+            "text": "As part of this culture, we have been given the space to experiment in a controlled environment. Building fast, and iterating quickly, means data and feedback can be rapid - and easier to scale."
+        },
+        {
+            "heading": 2,
+            "text": "Sharing our learnings"
+        },
+        {
+            "text": "This is a new technology that brings a new set of risks that need managing. We\u2019re working closely with colleagues across government, particularly in the Central Digital and Data Office (CDDO) and No.10, to ensure our experiments are conducted safely and securely. CDDO has published the Generative AI Framework today which sets out guidance for government departments on the safe, responsible and effective use of generative AI."
+        },
+        {
+            "text": "As always, we\u2019re going to share our work, particularly with our cross-government data science colleagues so please watch this space. If you\u2019re interested in this work, we\u2019re looking for individuals and partners to join us on this programme of AI experiments, so please get in touch via govuk-enquiries@digital.cabinet-office.gov.uk if you\u2019d like to be involved. We\u2019ll be recruiting full time Data Scientist, Data Engineer and more positions in the team as we build our capabilities in this area. Please search Civil Service Jobs to apply."
+        }
+    ]
+}
