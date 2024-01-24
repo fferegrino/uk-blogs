@@ -1,0 +1,93 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2024/01/24/the-power-of-pathogenic-genomics/",
+    "title": "How pathogen genomics could help us detect new health threats and improve vaccines",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "Public health data"
+    ],
+    "pub_date": "2024-01-24T18:19:44+01:00",
+    "content": [
+        {
+            "text": "Pathogen genomics is an important tool in our mission to prepare for and respond to infectious disease threats."
+        },
+        {
+            "text": "Our new 5-year Pathogen Genomics Strategy will establish a unified programme to enhance and expand our excellence in this field. Using pathogen genomics, we will increase our understanding of infectious disease risks, and enable effective evaluation of interventions to mitigate them."
+        },
+        {
+            "text": "In this blog post, we will explore the role of pathogen genomics in UK biosecurity and how we are developing our genomic systems to better protect public health in the UK."
+        },
+        {
+            "heading": 2,
+            "text": "What is pathogen genomics?"
+        },
+        {
+            "text": "Pathogen genomics involves examining the genetic material of microorganisms that cause diseases.\u00a0 We can analyse genomes to identify harmful mutations or variations in a pathogen compared to known strains. This will allow us to detect drug resistance or other characteristics, such as those associated with severity, within a pathogen. By using genomic data, we can track the spread of infections and outbreaks. Additionally, pathogen genomics helps in the development and discovery of new vaccines and therapeutics, playing a crucial role in combating diseases and safeguarding our health."
+        },
+        {
+            "heading": 2,
+            "text": "How is pathogen genomics keeping us safe?"
+        },
+        {
+            "text": "Pathogen genomics isn\u2019t new: the first bacteria were sequenced in 1995, and the pandemic brought genomics to public attention. It demonstrated the science's real-time impact on public health globally, by detecting and monitoring outbreaks; determining the effectiveness of interventions and by allowing us to adapt the global pandemic response."
+        },
+        {
+            "text": "Since 2014, over 1 million genomes from routine hospital samples, outbreak investigations, environmental and food samples, and dedicated surveillance projects, have been sequenced by UKHSA and its legacy organisations. To date, the UK has uploaded 3,138,941 SARS-CoV-2 genomes to GISAID through collaborative partnerships between UKHSA, public health agencies in the devolved nations, NHS, academic and industry partners. The proactive sharing of genomic sequences in the public domain has made UKHSA an integral player in collaborative outbreak investigations across various agencies and countries. Last year, for example, global sequence data were used to rapidly identify a novel COVID-19 variant with unusual mutations, and once identified allowed us to quickly track and control local outbreaks."
+        },
+        {
+            "text": "The knowledge gained from the genomic profile of the variant allowed us to establish in our laboratories the continued effectiveness of Lateral Flow Device (LFD) tests and COVID-19 vaccines."
+        },
+        {
+            "text": "And automated data pipelines allowed us to rapidly generate information through large-scale accessible genomic datasets, linked across local and national systems, which we could then share with scientists globally."
+        },
+        {
+            "heading": 2,
+            "text": "Food safety"
+        },
+        {
+            "text": "Genomics also plays a key role in food safety by helping to monitor and prevent outbreaks within the food chain. The Gastrointestinal Bacteria Reference Unit (GBRU) at UKHSA pioneered the first service for genome-based surveillance and tracking of bacterial variants causing gastrointestinal infections. This marked an early shift from traditional laboratory methods to genomic analysis."
+        },
+        {
+            "text": "In April 2022, a distinct type of salmonella in chocolate was identified using genomics. The early detection of this outbreak and routine surveillance with WGS were instrumental in linking the outbreak to specific products, allowing for prompt and effective intervention. This technology has enabled rapid and decisive actions like food recall notices, which may previously have been delayed. Now, outputs from WGS help provide a robust evidence base to swiftly remove and recall hazardous products."
+        },
+        {
+            "heading": 2,
+            "text": "Individualised drug treatment"
+        },
+        {
+            "text": "UKHSA supports the NHS and patients by providing WGS to identify the strain of tuberculosis (TB) causing disease in humans and using pathogen genomics to predict accurately the antibiotics that will effectively cure the individual with TB. This has halved the time from TB detection to understanding the effective drugs from 6 to 12 weeks to approximately 2 to 4 weeks in the vast majority of cases.\u00a0 This is particularly important where individuals have drug-resistant infections, to both improve the opportunity to cure the individual and prevent drug-resistant TB infections spreading in the community by effectively targeting rapid public health interventions."
+        },
+        {
+            "heading": 2,
+            "text": "The next phase of pathogen genomics"
+        },
+        {
+            "text": "Over the next 5 years, we will build on existing infrastructure, capacity, and scientific capabilities in pathogen genomics, further benefitting public health and bolstering our mission to protect lives and livelihoods."
+        },
+        {
+            "text": "This strengthened approach to managing infectious diseases will be underpinned by genomic data which is optimised for clinical and public health decision-making, impacting local and global health settings."
+        },
+        {
+            "text": "And in practice, our enhanced capabilities will mean the early detection of new threats, a better understanding how diseases spread within our population, and the application will ensure the most effective vaccines and treatments."
+        },
+        {
+            "text": "Genomic data will also drive advances in diagnostics, vaccines, and therapeutics, enabling a more targeted and efficient response to infectious diseases."
+        },
+        {
+            "text": "Innovation in new methodologies and technologies, such as metagenomics, will put us on the front foot in detecting new and emerging infections. This pursuit of innovation will be balanced with building high-impact services that are economically efficient."
+        },
+        {
+            "text": "Equally important is the workforce transformation within and beyond UKHSA. Through training and development, we will build a team well-versed in the complexities and potentials of pathogen genomics."
+        },
+        {
+            "text": "Committing to open sharing of pathogen genomic data and promoting global collaboration ensures that learnings and breakthroughs benefit a broader global community."
+        },
+        {
+            "text": "Our world is more interconnected than ever, and infections and outbreaks can spread rapidly."
+        },
+        {
+            "text": "Our genomics strategy represents a commitment to innovation, collaboration, and excellence in tackling some of the most pressing health challenges of our time."
+        }
+    ]
+}
