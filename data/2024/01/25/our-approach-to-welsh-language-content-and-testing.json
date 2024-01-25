@@ -1,0 +1,92 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2024/01/25/our-approach-to-welsh-language-content-and-testing/",
+    "title": "Our approach to Welsh language content and testing",
+    "authors": [
+        "Nia Campbell"
+    ],
+    "categories": [
+        "Our services",
+        "usability testing",
+        "welsh translation"
+    ],
+    "pub_date": "2024-01-25T14:39:07+01:00",
+    "content": [
+        {
+            "text": "For the past year, the Modernising Lasting Powers of Attorney (MLPA) team has considered its approach to the Welsh language. Here they share what they\u2019ve learnt from testing Welsh content, and challenges they need to solve in the run-up to public beta."
+        },
+        {
+            "text": "If you\u2019ve worked on a Welsh language product or service, you probably know that translation tends to be one of the last steps in the process. English content is often sent in bulk to translation teams, after the important design work has been done."
+        },
+        {
+            "text": "Yet when the design work is done solely in English, the needs of Welsh speakers and the mechanics of the language itself are not always considered. This can lead to problems further down the line. The classic example is that \u2018yes\u2019 and \u2018no\u2019 answers in Welsh depend on the question, so there\u2019s no one-size-fits-all translation here. (See other examples in HM Land Registry\u2019s guide to creating a Welsh language service.)"
+        },
+        {
+            "text": "While translators do their best, without enough context of products and services, translations can be overly formal or even different in meaning.\u00a0"
+        },
+        {
+            "text": "As research from the Centre for Digital Public Services (CDPS) shows, the results can be that people are put off from trying or unable to use services in Welsh."
+        },
+        {
+            "heading": 3,
+            "text": "Testing Welsh language content"
+        },
+        {
+            "text": "Since the summer, we\u2019ve been fortunate to work with the HMCTS Welsh Language Unit to translate our content from English to Welsh.\u00a0"
+        },
+        {
+            "text": "To make sure that the Welsh version provided a consistent experience across the service for Welsh language users, we decided to test it. We did not want to assume that a direct translation of English content would meet their needs.\u00a0"
+        },
+        {
+            "text": "In our first round of Welsh testing, we focused on the content itself, rather than the functionality of the service. We tested for:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Piloting bilingual usability testing"
+        },
+        {
+            "text": "One of the benefits of having a Welsh speaker on the team was that we could pilot running our test sessions bilingually. This meant we could give users the choice of which language they\u2019d prefer to speak."
+        },
+        {
+            "text": "As one user explained, this was helpful because it meant they could read the Welsh content and share their thoughts without needing to switch to speaking another language.\u00a0"
+        },
+        {
+            "text": "During sessions, our Welsh-speaking team member took detailed notes and interpreted for the rest of the team when users spoke in Welsh."
+        },
+        {
+            "text": "We learnt a lot and even defined some best practices for the team going forward:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "\u2018Trio editing\u2019 with a translator"
+        },
+        {
+            "text": "The feedback on our Welsh content was overwhelmingly positive. But there were instances where words and phrases were unfamiliar, or the tone changed.\u00a0"
+        },
+        {
+            "text": "To act on feedback, we adapted an approach we\u2019d seen used by content designer, Adri\u00e1n Ortega and the team at CDPS called trio writing. This technique involved a content designer, translator, and subject expert designing content together in English and Welsh at the same time.\u00a0"
+        },
+        {
+            "text": "We worked through feedback directly with the Welsh Language Unit, reviewing the Welsh and English content side-by-side.\u00a0"
+        },
+        {
+            "text": "Not only did it save us time going back and forth in Word documents and emails, but it meant that we could provide context, discuss each comment, and decide whether any changes affected the English content too.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What else we\u2019ve been doing"
+        },
+        {
+            "text": "Translating and testing content are not the only things we\u2019ve been up to on the Welsh side of the service. We\u2019ve also:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Translation challenges as we go to public beta"
+        },
+        {
+            "text": "While having a Welsh-speaking content designer embedded in the team has been beneficial, we still have some challenges:\u00a0"
+        },
+        {
+            "text": "If you\u2019re facing similar challenges and would like an invite to the fortnightly chat about designing Welsh products and services, contact Nia at nia.campbell@digital.justice.gov.uk. "
+        }
+    ]
+}
