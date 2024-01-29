@@ -1,0 +1,89 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2024/01/29/changes-to-the-energy-performance-certificates-open-data-service/",
+    "title": "Changes to the Energy Performance Certificates open data service",
+    "authors": [
+        "Steve Peters, Head of Analytical Data and Technology Unit"
+    ],
+    "categories": [
+        "Data",
+        "Energy Performance Certificates"
+    ],
+    "pub_date": "2024-01-29T13:39:26+00:00",
+    "content": [
+        {
+            "text": "The Energy Performance Certificates (EPC) open data site was launched in 2016. It provides both an interface and programmatic access to allow users to search for and download almost 30 million energy performance certificates in England and Wales. The site is well-used, and experiences high volumes of activity, with 30 million API requests and 40,000 zip files downloaded each month.\u00a0"
+        },
+        {
+            "text": "Over the years, we have been making incremental improvements to the service, and we are pleased to announce another round of improvements applied in January 2024.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How we chose what to focus on"
+        },
+        {
+            "text": "To determine which areas to focus on when making improvements, we have taken into account feedback from our users, analysis of usage statistics and a review of support tickets. We have also taken the opportunity to review the site through the lens of the latest design standards, as well as implementing features and approaches to getting data from other sites.\u00a0"
+        },
+        {
+            "text": "From this analysis, we decided that there were 2 parts of the service that we wanted to improve \u2013 both centred around the way that users can get data out of the application.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How users get data about EPCs\u00a0"
+        },
+        {
+            "text": "The application already provides 3 ways for users to get data about energy performance certificates:\u00a0searching in the application and viewing certificate data on screen, bulk downloading EPC data in CSV files, and accessing data programmatically via the API. Our analysis revealed that the bulk downloads and API access are both well-used, but support tickets and helpdesk enquiries indicated we could make them better.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The improvements we\u2019re making"
+        },
+        {
+            "text": "Improvements to the bulk download part of the service include better visibility of the bulk downloads and more cuts of the data. Improvements to the API include: better documentation, with code snippets for each of the API calls we provide, a better way to get all the data our users need in one go, and application of the OpenAPI standard, giving users access to tools to support better exploration of the API through the new Swagger interface.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Improving the bulk downloads\u00a0"
+        },
+        {
+            "text": "While the service has supported bulk downloads of certain cuts of the data for some time, we have improved visibility of the bulk downloads and introduced new bulk download options.\u00a0"
+        },
+        {
+            "text": "Previously, it was possible to download zip files containing all certificates and recommendations for the 3 certificate types (domestic, non-domestic and DEC), with files organised by local authority, as well as downloads for each local authority in England and Wales.\u00a0"
+        },
+        {
+            "text": "We have now introduced the ability to download all certificates and recommendations in one file for each of the certificate types. We have also introduced downloads by specific time periods: monthly for each of the last 12 months, and then annually going back to 2008.\u00a0"
+        },
+        {
+            "text": "Our research indicated the existing local authority downloads were not sufficiently obvious to users, so we have created 3 new pages to provide full lists of all the available files for downloading (all certificates and recommendations, all certificates and recommendations by local authority, and all certificates and recommendations by time period). Find out more about domestic EPCs."
+        },
+        {
+            "text": "Some of the downloads now have a schema.json file available within the zip bundle to provide machine-readable information about the contents of the files.\u00a0"
+        },
+        {
+            "text": "All of the download files have a predictable, permanent URL so if you wish, you can programmatically access the files.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Improving the API and documentation\u00a0"
+        },
+        {
+            "text": "Previously, the API provided access to data within the site, but individual requests were limited to a page size of 5,000 records, with an overall limit of 10,000 records. Feedback from users suggested that this limitation makes it difficult to work with the data, requiring multiple requests, applying different filters to build the dataset.\u00a0"
+        },
+        {
+            "text": "We have reconfigured the underlying database to remove this limitation, so API requests can now provide access to all of the data provided through the service, using a new pagination method. We will be closely monitoring the platform to ensure that there is no degradation in performance for our users. To help reduce the load on the server, please make use of the filters to download the data you need.\u00a0"
+        },
+        {
+            "text": "In addition to this, we now provide OpenAPI v3 schemas for all of the available APIs. This is a way of describing the APIs in a standard way. Using the OpenAPI standard means we have been able to create a Swagger interface to support developers with building their API calls. We have also updated the documentation to include code snippets in cURL and Python for each API call to make it easier for users to access data programmatically. You can see the updated documentation here.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Feedback\u00a0"
+        },
+        {
+            "text": "We will be closely monitoring the platform to ensure that there is no degradation in performance for our users. To help reduce the load on the server, please make use of the filters to download the data you need."
+        },
+        {
+            "text": "As always, we\u2019d love to hear your feedback on these changes and any other features of the EPC service. Contact us by email at EPC.Enquiry@communities.gov.uk.\u00a0"
+        }
+    ]
+}
