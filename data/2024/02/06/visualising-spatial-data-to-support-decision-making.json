@@ -1,0 +1,90 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2024/02/06/visualising-spatial-data-to-support-decision-making/",
+    "title": "Visualising spatial data to support decision-making",
+    "authors": [
+        "Elliott Phillips, Software Engineer"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2024-02-06T12:16:02+00:00",
+    "content": [
+        {
+            "text": "I'm Elliott, a Software Engineer within the Department for Levelling Up, Housing and Communities (DLUHC). In DLUHC we are applying innovative techniques with open, publicly accessible data sources to support place-based decision-making.\u00a0"
+        },
+        {
+            "text": "I have led the development of a new tool that allows internal users to browse and visualise data at national and neighbourhood levels across the UK.\u00a0"
+        },
+        {
+            "text": "The tool features a dynamic map visualisation that enables users to zoom through multiple geography levels that span all 4 devolved administrations. It also supports timeseries to explore how UK datasets have changed over time. Within DLUHC, this tool has helped visualise the Levelling Up Mission framework, as outlined in the White Paper.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where it all began"
+        },
+        {
+            "text": "DLUHC needed a data tool with high-quality granular maps and data to help inform policy, programming and decision-making.\u00a0"
+        },
+        {
+            "text": "In order to deliver a prototype at pace, we adopted technologies used in the Office for National Statistics\u2019 Census Maps. This was due to the similarity in requirements to use the same statistical boundaries. The prototype was tested with the Index of Multiple Deprivation publication at Local Authority District level.\u00a0"
+        },
+        {
+            "text": "User feedback was overwhelmingly positive and justified the investment of resource into further developing the tool.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where are we now?"
+        },
+        {
+            "text": "The internal product has recently moved into private Beta release, and work is underway to internally deploy the tool.\u00a0"
+        },
+        {
+            "text": "Our users now have first-hand access to:\u00a0"
+        },
+        {
+            "text": "DLUHC uses the agile delivery framework. We iterate on user-centred design and feedback regularly to refine and continuously improve. We\u2019ve worked to deploy and scale our cloud infrastructure to ensure the application conforms to security, performance, and accessibility requirements.\u00a0"
+        },
+        {
+            "text": "Delivery has involved negotiating through several governance stages, for example service assessments, pipeline assurance board and technical design authority.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Data transformation"
+        },
+        {
+            "text": "The interactive tool is more than a pretty map \u2014 a huge amount of thought has gone into its design, architecture and ongoing management. With user experience being our highest priority, we needed a fast, responsive and intuitive solution. We\u2019ve worked with design experts to adopt the GOV.UK Design System, and with geospatial data scientists and data engineers to complete the complex dynamic spatial data visualisation.\u00a0"
+        },
+        {
+            "text": "The data explorer tool uses Sveltekit, Typescript, Mapbox and Python. All published datasets are publicly available and approved for use by the government department responsible.\u00a0"
+        },
+        {
+            "text": "We\u2019ve configured a data catalogue to source, transform and deliver all the data consumed where our pipelines are able to adapt to new datasets, including file download, APIs, and web scraping, or if we require data from a new provider. Our team uses design principles and patterns to ensure our code is extendable and responsive to emerging requirements.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Working with our users"
+        },
+        {
+            "text": "This new capability has been showcased at Civil Service events to help share knowledge and learning with others across government, such as Civil Service Live and DataConnect.\u00a0"
+        },
+        {
+            "text": "The team have been encouraged and supported by the wealth of positive comments and suggestions for continuous improvement. We've also used this feedback together with ongoing user research, and provide updates on the progress of our work through our internal monthly show-and-tells.\u00a0"
+        },
+        {
+            "text": "We ensure the data we use is accurate and up to date, and validated by data science/engineering experts to ensure our data modelling is robust and accurate.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What's next?"
+        },
+        {
+            "text": "The team is actively working to support several new geography types to accommodate a wider range of datasets and provide finer geospatial detail, including police force areas and travel to work areas.\u00a0"
+        },
+        {
+            "text": "This work is making the exploration of data easier and more accessible for internal users. By centrally co-ordinating the data in one place, DLUHC can now spend less time on data discovery and downloads, and more time applying data to support their decision-making.\u00a0"
+        },
+        {
+            "text": "If you\u2019re interested in finding out more about this work, get in touch at atlas@levellingup.gov.uk.\u00a0"
+        }
+    ]
+}

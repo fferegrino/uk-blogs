@@ -1,0 +1,99 @@
+{
+    "url": "https://cddo.blog.gov.uk/2024/02/06/a-new-data-standard-for-trade-policy/",
+    "title": "A new data standard for trade policy",
+    "authors": [
+        "Simon Worthington, Data Standards Expert, Department for Business and Trade",
+        "Stephen Corder, Senior Product Manager, Department for Business and Trade"
+    ],
+    "categories": [
+        "Cross-government strategy",
+        "Data",
+        "DDaT community"
+    ],
+    "pub_date": "2024-02-06T15:19:17+00:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "International trade is big business for the UK economy, with many tens of billions of pounds worth of trade in goods happening each month."
+        },
+        {
+            "text": "To keep this international trade machine operating smoothly, everyone taking part in UK trade needs a clear and accurate understanding of the rules. Government needs to constantly respond to changes in global conditions with agile and effective policy that keeps international trade working well for the UK."
+        },
+        {
+            "text": "When we update trading rules, there's a wide community of people both inside and outside of the UK who need to understand how to trade. We've seen how organisations of all sizes like individual farmers, national supermarkets and international freight companies all want to understand how changes in trade policy will affect them."
+        },
+        {
+            "text": "One of the ways we can do that is through standardising the way we store and exchange data about trade policy. We are working with the Data Standards Authority, and gathering feedback from across government and industry stakeholders to help refine and validate the proposed UK Tariff Data Standard. "
+        },
+        {
+            "heading": 3,
+            "text": "How government shares trade policy as data"
+        },
+        {
+            "text": "Multiple government departments set trade policy that pertain to their area of expertise. For example, the Department of Environment, Food and Rural Affairs (DEFRA) set the rules on biosecurity, covering the checks required to import animal and plant products. Similarly, the Department for Culture, Media and Sport set the rules on movement of antique and culturally significant goods."
+        },
+        {
+            "text": "The ultimate source for all trade policy is legislation laid by these departments and ratified by Parliament. Once laid, all UK trade policy is encoded as structured data and entered into a ledger database. The Department of Business and Trade and HMRC are responsible for keeping the ledger timely and accurate. It records all UK trade rules all the way back to 1970 and has over 2.5 million records."
+        },
+        {
+            "text": "Once the rules are set they then need to be enforced. HMRC, HM Border Force and DEFRA are responsible for enforcing trade rules for the United Kingdom. Jersey and Guernsey have separate customs offices that enforce rules for the Channel Islands. These bodies all consume the ledger and use the data to apply the correct trade rules at the right time."
+        },
+        {
+            "text": "Outside government, there's a broad international trade community that also consumes the database. Freight companies and other large organisations pull the data into their own systems. GOV.UK services such as the Online Tariff Service also consume the database to provide a human-friendly view."
+        },
+        {
+            "text": "Today, all of these users speak the common language of the ledger database when they contribute or consume data, and this includes some large and very expensive systems. However, there is no canonical documentation on how the data works or what it means. If government has to evolve the language, there's nowhere for it to collaborate with the wider international trade community. Historically, government has simply made the changes it needs to and it's been up to downstream consumers to handle the change in meaning, often with little notice."
+        },
+        {
+            "heading": 3,
+            "text": "Users need a UK trade policy data standard"
+        },
+        {
+            "text": "We want to standardise the language of the ledger database and introduce a new open governance group comprised of everyone who needs to work with it. By doing so, we'll evolve the language for communicating trade policy together with the whole international trade community and make contributing and consuming trade policy data easier and more reliable. Better data means government and the private sector can deliver higher quality services."
+        },
+        {
+            "text": "Clear and accurate information"
+        },
+        {
+            "text": "Traders need clear and accurate information about which rules apply to their imports or exports. Bigger traders need access to information in a structured form, which they can use to power their financial systems and business processes. Government provides some of this information, whereas some is provided by third party providers like freight companies or data resellers."
+        },
+        {
+            "text": "It's important that policy being applied at the border is an accurate reflection of what has been legislated for, so government\u00a0 needs to communicate unambiguously between departments and to downstream consumers outside of government. The less human reinterpretation or rekeying of policy, the less opportunity there is to introduce accuracy errors."
+        },
+        {
+            "heading": 4,
+            "text": "Historical and future data"
+        },
+        {
+            "text": "Declarations can take time to reconcile so traders need to know not just what rates are today but what they were when they made the declaration, up to several months ago. It\u2019s also useful for analysis purposes to be able to understand how trade rules change over time."
+        },
+        {
+            "text": "Traders also need to know how the trade landscape will change in the future and what trade policy changes are upcoming. If rates are going up or down or rules are being introduced or retired, traders need to know in advance how their business will be affected."
+        },
+        {
+            "heading": 4,
+            "text": "Shared collaboration on a shared language"
+        },
+        {
+            "text": "A small change to the format or meaning of a data structure can have a knock-on effect on data quality or require millions of pounds of software spend.\u00a0"
+        },
+        {
+            "text": "When the shared language of trade policy data needs to change, the entire international trade community, including government service owners, needs to be involved so that they can prepare for changes, help set a suitable timeline for change, and give feedback on any that will be challenging to implement."
+        },
+        {
+            "heading": 3,
+            "text": "Get involved and contribute"
+        },
+        {
+            "text": "We've already begun the work of documenting the existing language and establishing an open governance forum. Now, we'd like to hear from people involved in international trade to help identify whether our new standard is fit for purpose. To do this, we're launching an open standards challenge."
+        },
+        {
+            "text": "We'd like to hear:"
+        },
+        {
+            "text": "You can get involved with the challenge by contributing to the issue on GitHub with comments and questions, or by contacting stephen.corder@businessandtrade.gov.uk"
+        }
+    ]
+}
