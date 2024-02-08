@@ -1,0 +1,79 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/02/08/moving-our-most-used-publishing-tool-to-the-gov-uk-design-system/",
+    "title": "Moving our most-used publishing tool to the GOV.UK design system",
+    "authors": [
+        "Nikin Nagewadia, Senior Interaction Designer, GOV.UK"
+    ],
+    "categories": [
+        "How we work",
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2024-02-08T11:20:54+00:00",
+    "content": [
+        {
+            "text": "GOV.UK has a vast website estate. There are more than 700,000 pages covering an enormous range of topics to deliver our mission of being the single, trusted online home for the UK government."
+        },
+        {
+            "text": "The majority of this content is created with Whitehall Publisher. Introduced in the early days of GOV.UK, this is an in-house content management system (CMS) which is used by over 2,000 civil servants to upload, manage and amend content."
+        },
+        {
+            "text": "Over the last year we\u2019ve been making improvements to Whitehall, including simplifying the way images are added. Now we\u2019ve completed a bigger overhaul of the CMS - moving its user interface, the part of the system publishers see and interact with, to the GOV.UK Design System. We did this to make the CMS more accessible, and make it quicker and easier to publish content. This has simplified the publishing process for civil servants and, in turn, means the millions of people that use GOV.UK every single day get vital information more quickly."
+        },
+        {
+            "text": "Here\u2019s how we achieved this important transition and what happens next."
+        },
+        {
+            "heading": 2,
+            "text": "Why we moved to the GOV.UK Design System"
+        },
+        {
+            "text": "The GOV.UK Design System is a set of styles, components and patterns that help teams in government create user-centred digital services."
+        },
+        {
+            "text": "Moving to the GOV.UK Design System brings a number of benefits. The colours, font sizes, and components it contains were built to be accessible for all users, including those who require assistive technologies to navigate online services. Meanwhile updating the user interface makes the codebase - the text written in the programming language that Whitehall was built with - less complex. This will lead to a better experience for developers when they make future improvements to Whitehall."
+        },
+        {
+            "heading": 2,
+            "text": "How we updated Whitehall"
+        },
+        {
+            "text": "Replacing Whitehall\u2019s existing styles and components with those found in the GOV.UK Design System was a big task, especially given publishers needed to continue using the CMS to do their jobs. With this in mind, the approach we took was to convert Whitehall like-for-like to the design system. The image below shows how document search has been changed in this way."
+        },
+        {
+            "text": "Converting like-for-like meant the design system's styles and components would be used, while keeping the existing layout and functionality of Whitehall\u2019s individual pages."
+        },
+        {
+            "text": "However, where there were no suitable replacements for parts of Whitehall in the design system, the team took the chance to re-imagine how these aspects of the CMS could work, in line with the design system's principles. The image below shows how the document collection user interface has been changed in this way."
+        },
+        {
+            "text": "For instance, tasks such as reordering content, adding, removing and searching material used to happen on the same page, but now they are on their own page, each with a unique URL."
+        },
+        {
+            "text": "At GDS we work in an agile way. This means our teams build quickly, test what they\u2019ve built and iterate their work based on regular feedback. So, as we were improving Whitehall, we decided to release the updates in manageable packages as opposed to waiting until it was all complete. Before a release, the team communicated the changes to publishers via Basecamp."
+        },
+        {
+            "text": "In addition, the guidance to using the application is edited to reflect the latest design and/or functionality updates. Every time a release happens, our users let us know what\u2019s working and what isn\u2019t via Basecamp, Zendesk as well as the Publisher Survey. If anything needs to be revisited the team quickly responds and makes any necessary improvements."
+        },
+        {
+            "heading": 2,
+            "text": "How publishers\u2019 experience has improved"
+        },
+        {
+            "text": "After one-and-a-half years, and more than 10 release packages, Whitehall\u2019s transition to the GOV.UK design system is complete, and all traces of the previous styles and components have been removed. Here\u2019s what some of our publishers across government have to say about the changes:"
+        },
+        {
+            "text": "\u201cThere have been a fair few changes to the app, all positive. It\u2019s easier to use, especially for people new to Whitehall; it\u2019s more intuitive.\u201d (Content Designer, Home Office)"
+        },
+        {
+            "text": "\u201c...the fact you\u2019ve made it clearer for colleagues just joining us while, at the same time, not interrupting my work is really positive.\u201d (Lead Content Designer, Environment Agency)"
+        },
+        {
+            "heading": 2,
+            "text": "Our next steps"
+        },
+        {
+            "text": "Although the transition has now finished, a dedicated team is exploring how we can further improve and iterate the overall user experience of Whitehall. This offers us the chance to re-imagine many of the publishing app\u2019s existing functionalities from the ground up."
+        }
+    ]
+}
