@@ -1,0 +1,82 @@
+{
+    "url": "https://space.blog.gov.uk/2024/02/14/space-medicine-for-the-future-of-space-exploration/",
+    "title": "Space medicine for the future of space exploration",
+    "authors": [
+        "VITA"
+    ],
+    "categories": [
+        "International Space Station",
+        "Space exploration"
+    ],
+    "pub_date": "2024-02-14T17:14:47+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Medicine\u2026in space?"
+        },
+        {
+            "text": "Space exploration is high on the agenda for much of the world, and humanity aims to travel further and further into space with each passing year. As part of the International Space Exploration Coordination Group (ISECG), 21 space agencies now hope to explore Mars as part of their long-term plans. With time and cooperation, this goal will one day become a reality. A journey to Mars could take around seven months, and presents many challenges that need solutions well before take-off. One of the biggest is looking after the health of astronauts during such long journeys, and working out how to bring medicines on missions."
+        },
+        {
+            "text": "VITA, an Astropharmacy team at the University of Nottingham, are working on a solution. They aim to create a light, room-temperature storage and multi-use system that will allow medicines to be transported in space. Given the storage space limitations, extreme conditions of space and long storage time needed, this is a tricky task."
+        },
+        {
+            "heading": 2,
+            "text": "The VITA team\u2019s big idea"
+        },
+        {
+            "text": "The team are developing a system that can store the proteins that make up medicines for long periods of time, without taking up much space. The system works by sticking the medicine to cellulose and freeze-drying it, then rehydrating it when the medicine is needed, without the need for a full medical laboratory. This system could also have uses on Earth in similar situations where transport and storage options for medicines are limited, such as while mountaineering, on submarines or in areas of conflict."
+        },
+        {
+            "text": "This project is slated to launch to the International Space Station (ISS) in July 2024 as part of the European Space Agency\u2019s Orbit Your Thesis! (OYT) programme , to carry out experiments in space."
+        },
+        {
+            "text": "OYT provides Masters and PhD students the chance to design and build a project that can be flown to the ISS for experiments in microgravity. Having been accepted onto the programme, VITA then applied for the UK Space Agency\u2019s \"Support for Student Teams selected for ESA Microgravity Student programmes\", which offers up to \u00a35,000 funding towards building the experiments."
+        },
+        {
+            "heading": 2,
+            "text": "How will it work?"
+        },
+        {
+            "text": "The protein production system will use E. coli cells which have undergone lysis (where the outside of the cell is broken down) so that their internal components can be harvested for making proteins. These components are then \u2018hijacked\u2019 by adding DNA coding for the proteins needed for the desired medicine, and turning those components into the needed proteins."
+        },
+        {
+            "text": "This process is called \u2018expression\u2019, where the information encoded in a gene is turned into reality, in structures such as cells."
+        },
+        {
+            "text": "The sample is freeze-dried onto discs of cellulose. Freeze-drying the sample puts it into hibernation, which allows it to be stored for a long time. When the medicine needs to be administered, the sample is rehydrated to activate the production of therapeutic proteins for the desired medicine."
+        },
+        {
+            "text": "Once on board the ISS, there will be experiments to test the project in the microgravity environment in space. During these experiments, fluorescent proteins (which simulate proteins used for medicines) and nanobodies (which bind the fluorescent proteins to the cellulose and preserve them) will be \u2018expressed\u2019 in space to recreate the conditions in which an astronaut would need medicine."
+        },
+        {
+            "text": "The aim of the project is to create and then freeze-dry the samples onto cellulose paper with molecules that will preserve them, to prove that the process works and that proteins needed for medicine can be produced this way in a space environment. Once samples return to Earth, the VITA team will look at how well the fluorescent proteins and nanobodies bind to each other. This is an important step, because nanobodies act as a purifier for the proteins needed for medicine, stopping other, unwanted proteins made in the process being given to the astronauts."
+        },
+        {
+            "heading": 2,
+            "text": "Experiments onboard the ISS"
+        },
+        {
+            "text": "The experiment will take place in the Ice Cubes facility onboard the ISS. The experiment will begin when the Experiment Cube, containing the VITA team\u2019s experiment is plugged into the Ice Cubes facility."
+        },
+        {
+            "text": "Discs that have been freeze-dried to take out moisture (\u2018cell-free lyophilised\u2019) will be stored within four science units. These are standardised units supporting four wells each. Each well has different DNA to produce different proteins. Below each well, there are reservoirs containing the liquid solutions which will be used for rehydrating the samples."
+        },
+        {
+            "text": "Once the Experiment Cube is plugged in and the experiment is ready to start, the liquid will be pushed towards wells by plungers. The solution will be absorbed by each sample, reviving them from their freeze-dried hibernation and starting the production of fluorescent proteins and nanobodies. This process is similar to how we make instant coffee!"
+        },
+        {
+            "text": "Once the sample is rehydrated, LED lights and sensors pointing towards the wells will be activated, which will enable \u201cfluorescence spectroscopy\u201d of the samples. If the molecules are fluorescent proteins, the LEDs will excite them, causing them to emit light in certain wavelengths. The spectrometer sensors will determine the wavelength of the emitted light determining whether samples in each well are fluorescent proteins or not. This will show whether the experiment is working, and how well it is working."
+        },
+        {
+            "text": "These samples need a certain temperature range to stay active, so the Experiment Cube must perform accurate thermal control of a biological experiment. The team has come up with a solution using home-built heater control units and thermal sensors that will semi-autonomously handle the temperature of the science units."
+        },
+        {
+            "heading": 2,
+            "text": "Back on Earth"
+        },
+        {
+            "text": "A follow-up analysis of the samples will be completed back on Earth once they are delivered back to the students. The binding of the nanobodies and the produced fluorescent proteins will be analysed using the western blotting technique, used to separate and identify proteins. The fluorescence of the fluorescent proteins will also be measured. These will then be compared to the results of the same experiment carried out on Earth, which will show how the experiment differs when carried out in space."
+        }
+    ]
+}
