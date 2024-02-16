@@ -1,0 +1,42 @@
+{
+    "url": "https://technology.blog.gov.uk/2024/02/16/how-our-domains-data-sharing-beta-aims-to-reduce-domain-vulnerabilities/",
+    "title": "How our Domains Data Sharing beta aims to reduce domain vulnerabilities",
+    "authors": [
+        "Nick Woodcraft, Domains Product Owner, CDDO"
+    ],
+    "categories": [
+        "News"
+    ],
+    "pub_date": "2024-02-16T14:20:06+00:00",
+    "content": [
+        {
+            "text": "Every organisation has vulnerabilities in its digital infrastructure, including in its Domain Name System (DNS). In the Protecting Public Sector Domains team in the Central Digital and Data Office (CDDO) we work to identify and fix those vulnerabilities before our adversaries find them. We\u2019d also like to do that for other kinds of vulnerabilities, related to email and web services. This isn\u2019t easy, but it\u2019s a goal we\u2019re working towards."
+        },
+        {
+            "text": "Our monitoring tools find misconfiguration and vulnerability data from a variety of services, and we\u2019re gradually expanding our scope and capability. Once we have the data, we have found the hardest part is getting the information into the hands of the person who can fix it."
+        },
+        {
+            "text": "To that end we are running a Domain Data Sharing programme to send the vulnerability data we collect directly to public sector organisations via their SIEM (Security Information and Event Management) or other systems.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "SIEM on the rise, tracking is hard: what we learnt during discovery"
+        },
+        {
+            "text": "Last year, we ran a discovery programme to look for a way to share all our vulnerability data, not just the biggest and most urgent problems. We talked to people in public sector organisations who manage and fix domain issues, or operate vulnerability management or other teams that work every day to fix these kinds of problems. We found that:"
+        },
+        {
+            "text": "We also found that SIEM adoption is growing. These are systems that collect and analyse data from different sources like network devices or servers, and external feeds like ours, and use them to spot security issues. These are toolsets that can handle the volume of data we offer in a way that\u2019s useful to our users."
+        },
+        {
+            "heading": 3,
+            "text": "Launching our Domain Data Sharing beta programme"
+        },
+        {
+            "text": "In light of our learnings during the discovery phase, we've got a Domain Data Sharing beta programme running right now that will:"
+        },
+        {
+            "text": "We\u2019re also working with NCSC to include our data in ACD services in the future."
+        }
+    ]
+}
