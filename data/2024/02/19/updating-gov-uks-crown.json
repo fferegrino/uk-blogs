@@ -1,0 +1,86 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/",
+    "title": "Updating GOV.UK\u2019s crown",
+    "authors": [
+        "Laura Yarrow, Head of Design, GOV.UK",
+        "Chris Ballantine-Thomas, Senior Interaction Designer, GOV.UK Design System"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2024-02-19T12:24:38+00:00",
+    "content": [
+        {
+            "text": "As of today, GOV.UK has a new crown in its logo. This blog post explains why we\u2019ve made the change and how we\u2019ve done it."
+        },
+        {
+            "heading": 2,
+            "text": "Why the crown has changed"
+        },
+        {
+            "text": "In September 2022, the College of Arms announced His Majesty King Charles III\u2019s Royal Cypher, which features the monarch\u2019s chosen crown. This Cypher features the Tudor Crown, rather than the St Edward\u2019s Crown chosen by Queen Elizabeth II following her Accession in 1952. Her Royal Cypher was itself a change from her father King George VI."
+        },
+        {
+            "text": "On each accession, the monarch will choose a Royal Cypher, or symbol to represent their personal authority. You can see the Royal Cypher in many places, for example post boxes, on police and military uniforms or on the side of official buildings."
+        },
+        {
+            "text": "Forms of the crown are being gradually updated across government to reflect the monarch\u2019s choice of crown, featured in His Majesty\u2019s Royal Cypher. This includes GOV.UK, the digital home of the government, which is a hugely important part of public life in the UK. The GOV.UK crown is one of many official instances of the crown so it forms one part of this change. For this work, we\u2019re focusing on instances of the GOV.UK logo which do not include the Royal coat of arms or government departments\u2019 crests."
+        },
+        {
+            "heading": 2,
+            "text": "How the crown has changed"
+        },
+        {
+            "text": "We wanted to create something that was faithful to both the official heraldry and the visual identity of GOV.UK. \u200b\u200bWe redrew a simplified version of the crown, making sure it appeared clearly at smaller sizes and lower resolutions. The different proportions of the new crown meant we had to subtly tweak the GOV.UK logo\u2019s typography and spacing to complement it."
+        },
+        {
+            "text": "We worked with the Government Communication Service (GCS) and the Royal Household to confirm the final version."
+        },
+        {
+            "heading": 2,
+            "text": "Rolling out the new crown"
+        },
+        {
+            "text": "GOV.UK\u2019s crown is an important part of GOV.UK\u2019s brand, which is one of the most recognisable digital services in the UK according to YouGov. It has not been updated since the site went live in 2012, so we had to work out how to implement this change in a consistent and ordered way."
+        },
+        {
+            "text": "Once we had the new designs, we needed to roll it out across GDS-owned instances of the GOV.UK crown. This included the GOV.UK homepage, the sitewide menubar, and GDS owned apps, like the Identity Checker App."
+        },
+        {
+            "text": "However, this change is a cross-government effort. Although GOV.UK looks like a single thing to users, it\u2019s made up of multiple different website domains, which are owned by various government departments. These departments are required to update the crown in their locally owned services and channels."
+        },
+        {
+            "text": "The GOV.UK Design System makes it possible to do this in a consistent way through its centralised open-source codebase, GOV.UK Frontend. The Design System team updated the crown in versions 5.1, 4.8 and 3.15, to make sure that services using older versions of GOV.UK Frontend can update it as easily as possible."
+        },
+        {
+            "text": "We\u2019re taking a phased approach to implementation, starting with the sitewide menu bar and homepage, and seeing it rolled out across GOV.UK in the next 2 weeks."
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s live"
+        },
+        {
+            "text": "With huge thanks to teams across government, today is when the new crown is seen for the first time across GOV.UK."
+        },
+        {
+            "text": "It first went live on the GOV.UK homepage and in the sitewide menu bar. You can also see it in other GOV.UK domains such as campaign.gov.uk and blog.gov.uk."
+        },
+        {
+            "text": "Departments are making changes to their services between today and 1 March. During this time, users may see both new and old versions of the crown."
+        },
+        {
+            "text": "We also want to thank GCS for their support and for leading the wider changes to symbols of state; thank you."
+        },
+        {
+            "heading": 2,
+            "text": "If you need support"
+        },
+        {
+            "text": "If you\u2019re from a government department you can get support to update to the latest version of the Design System. You can also ask any questions directly to the Design System Team on:"
+        },
+        {
+            "text": "If you want the logo in an image file for internal instances of the GOV.UK crown, please email govuk-design-system-support@digital.cabinet-office.gov.uk."
+        }
+    ]
+}
