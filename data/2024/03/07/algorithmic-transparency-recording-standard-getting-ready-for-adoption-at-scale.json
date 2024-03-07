@@ -1,0 +1,70 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/03/07/algorithmic-transparency-recording-standard-getting-ready-for-adoption-at-scale/",
+    "title": "Algorithmic Transparency Recording Standard: Getting ready for adoption at scale",
+    "authors": [
+        "Liz Adams",
+        "Max Greenwood"
+    ],
+    "categories": [
+        "Algorithms",
+        "Transparency"
+    ],
+    "pub_date": "2024-03-07T15:15:01+00:00",
+    "content": [
+        {
+            "text": "Today, the Responsible Tech Adoption Unit (RTA) in DSIT and the CDDO (Central Digital and Data Office) are launching updated products to better support public sector organisations in using the Algorithmic Transparency Recording Standard (ATRS). This includes a new gov.uk repository for ATRS records which will scale to support increased usage of the ATRS, and an incremental update to the ATRS itself in response to feedback. This aims to more clearly separate information relating to the models and datasets, enabling the ATRS to be applied more easily for commodity models deployed in different use cases."
+        },
+        {
+            "text": "These enhancements follow the announcement in the recent government response to the consultation on the AI White Paper that use of the ATRS will become a requirement for UK government departments, with an intent to extend to the broader public sector over time."
+        },
+        {
+            "text": "We are also introducing regular opportunities to join an ATRS cohort: a group of similar teams all completing transparency records, following the same timelines for writing and publishing. Sharing innovation, experiences and best practice is a key benefit of transparency and being part of a cohort will maximise this opportunity. Cohorts will be open to everyone across the public sector, but for central government in particular this will be a way to get support and share experiences in the run up to the ATRS being mandatory."
+        },
+        {
+            "heading": 3,
+            "text": "The road so far"
+        },
+        {
+            "text": "Transparency is a key principle of building and deploying responsible technology. Building the tools to enable and support effective transparency is a core to seeing the principles of responsible AI delivered in practice."
+        },
+        {
+            "text": "The ATRS provides the framework for accessible, open and proactive information sharing about the use of algorithmic tools across the public sector. The ATRS, internationally recognised as best practice, was developed through a co-design process with UK citizens, and has been trialled right across the public sector, including with central and local government, police forces and regulators."
+        },
+        {
+            "heading": 3,
+            "text": "Product updates"
+        },
+        {
+            "text": "Over the past 2 years the ATRS has been tested, reviewed, and refined. We\u2019ve included guidance on mitigating the risks to IP, security and gaming posed by making information public. We\u2019ve incorporated a wide range of feedback from government, industry, and the general public. In this update, we\u2019ve looked to improve the public sector user experience \u2013 both ease of using the ATRS, and making it interoperable with other RTA products that are currently under development."
+        },
+        {
+            "text": "Some of the key changes include:"
+        },
+        {
+            "heading": 3,
+            "text": "Become part of a cohort"
+        },
+        {
+            "text": "We are launching cohorts for teams interested in completing algorithmic transparency records to streamline the adoption and publication of ATRS records. Cohorts will work in parallel to complete their ATRS records and publish them together. It comes with the added benefit of offering participating government departments a strategic head start on ATRS record publication, ensuring readiness for an increased ATRS mandate in the future."
+        },
+        {
+            "text": "As a cohort member, you will be invited to join a community of public sector teams completing ATRS records in parallel. You will have access to workshops run by the ATRS team, opportunities to communicate share approaches with other participants, and a responsive team who will answer questions, review your record and prepare you to publish. You will be able to work alongside others also completing transparency records, share experiences and best practice. Cohorts will span approximately nine weeks, and finish with the publication of a batch of records to our online repository."
+        },
+        {
+            "text": "The new streamlined process will accelerate adoption of the ATRS among public sector bodies and establish a robust foundation for trust-building, sharing knowledge and continuous process improvement within the public sector landscape. It is a step towards transparency, accountability and responsible AI service delivery."
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "In February, the government announced the intention to make using the ATRS a requirement for all central government organisations. Over 2024, we will be implementing this increased mandate, and finalising the detailed scope, including some limited but necessary exemption (e.g. for national security). While this exercise is ongoing, we will determine timelines for departments to complete and publish records and how the ATRS team can best support an increased rate of record publication."
+        },
+        {
+            "text": "We will continue to monitor the successes and weaknesses of the ATRS. We\u2019ll consider if the requirement to use the ATRS should be expanded across the public sector, and whether if other transparency interventions should be developed."
+        },
+        {
+            "text": "Outside central government, we encourage public organisations to keep engaging with the ATRS voluntarily. We will continue to signpost information about transparency cohorts and policy developments as our ATRS strategy develops. If you would like to participate or learn more about or our program, please visit the ATRS hub for further information and contact details."
+        }
+    ]
+}
