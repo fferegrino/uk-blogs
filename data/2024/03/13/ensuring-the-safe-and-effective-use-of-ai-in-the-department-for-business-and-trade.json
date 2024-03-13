@@ -1,0 +1,76 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/03/13/ensuring-the-safe-and-effective-use-of-ai-in-the-department-for-business-and-trade/",
+    "title": "Ensuring the safe and effective use of AI in the Department for Business and Trade",
+    "authors": [
+        "Sarah Livermore, Senior Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2024-03-13T13:50:27+00:00",
+    "content": [
+        {
+            "text": "Sarah Livermore"
+        },
+        {
+            "text": "Here at the Department for Business and Trade (DBT) we have a wealth of experience in developing \u2018AI-powered\u2019 digital products and services. This involves long-established machine learning techniques such as statistical models used to identify patterns in data.\u00a0\u00a0"
+        },
+        {
+            "text": "These models underpin some of our existing work. This can include identifying businesses that could most benefit from DBT\u2019s export advice depending on how well-established they are for instance.\u00a0"
+        },
+        {
+            "text": "A new era for AI\u00a0"
+        },
+        {
+            "text": "The technical expertise required to build such models means that AI use has previously been led by data science teams. However, the rapid growth in popularity of online generative AI tools during the past year means that some form of AI is now available to many more people.\u00a0"
+        },
+        {
+            "text": "As humans, the process of getting our thoughts down \u2018on paper\u2019 is neurologically hugely complex. Indeed, it is not possible to build a model that accurately represents how we do this. So instead, current language models are built by training statistical models on trillions of words taken from the world wide web. To represent the richness of language, the resulting models are some of the most complex ever developed, containing billions of parameters. For comparison, models used to process images typically have millions rather than billions of parameters.\u00a0\u00a0"
+        },
+        {
+            "text": "The computational power required to train these models is vast. It would take a single computer hundreds of years to train the most popular Large Language Models (LLM). Huge numbers of computers are therefore pooled together so that the training can be done in a reasonable amount of time. Consequently, only those organisations with access to such resources are currently able to develop these models. This means that the most popular models tend to be developed by \u2018big tech\u2019 companies, although some smaller start-ups and academic collaborations have also developed models.\u00a0"
+        },
+        {
+            "text": "Therefore, if someone wanted to use AI to help write a tricky email, or even a blog post, it is not their data science team to whom they would turn. They are more likely to ask for an online service hosted outside of their organisation.\u00a0\u00a0"
+        },
+        {
+            "text": "This potentially opens up the possibility of automatically generating emails, reports and even entire books or movie scripts. However, it also poses challenges around the governance of how that work is done and where the associated data goes. For example, how we explain exactly who created the writing and who would be accountable for it.\u00a0\u00a0"
+        },
+        {
+            "text": "Ensuring safe and responsible use of AI\u00a0"
+        },
+        {
+            "text": "To that end, at DBT, we have recently established a process to ensure that we develop and use AI safely. It maintains public trust in our services and how we handle people\u2019s data. This governance framework covers the development of our in-house mathematical modelling, plus any use of third-party tools including generative AI.\u00a0\u00a0"
+        },
+        {
+            "text": "Right at the start of developing this process we recognised how important it was to involve external experts. We opted for a voluntary review by the Government Internal Audit Agency to determine the robustness of DBT\u2019s AI adoption strategy. Their recommendations, such as developing a clear approval process for the use of AI, established the foundations for our AI adoption framework.\u00a0\u00a0"
+        },
+        {
+            "text": "We then commissioned experts from the Alan Turing Institute\u2019s (ATI) Public Policy Programme to advise us on the ethical use of AI. The ATI have many years of experience advising the public sector on the safe design, development and deployment of AI-powered systems. They tailored their well-established Process Based Governance framework to show how it applied to DBT. The report for DBT  is available online so that others in the public sector, and wider, can benefit.\u00a0\u00a0"
+        },
+        {
+            "text": "During the framework\u2019s development, we also worked closely with our own experts such as our cyber security and data protection teams. This was important to ensure that the AI governance fits with existing governance processes and does not cause needless duplication.\u00a0\u00a0"
+        },
+        {
+            "text": "Establishing our framework\u00a0"
+        },
+        {
+            "text": "Our AI governance framework has now been in place since the start of the year. Colleagues wanting to develop or use AI must provide assurances such as:\u00a0"
+        },
+        {
+            "text": "We have built this framework to sit on top of our existing Information Risk Assurance Process (IRAP) which covers data protection and cyber security. This means that we maintain expert assurance in those critical areas, whilst covering new risks related to the use of AI.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Our experts from across these teams are also learning from each other, where issues overlap. For example, our data protection and AI experts come together to assess the risks of AI generating inaccurate information about someone. This is an important consideration in UK data protection law.\u00a0\u00a0"
+        },
+        {
+            "text": "We are going to use the framework around 50 times before reviewing it and seeking to iterate. We expect in that time we will have learnt a lot about how it suits DBT. Also the market will have changed to address some of the more common concerns around accuracy, data privacy and copyright infringement.\u00a0"
+        },
+        {
+            "text": "We recognise that as a government department, we must meet a very high standard for trustworthiness by being fair, accurate and impartial. It is really important that we apply those values to any AI-driven systems we build. We engaged extensively with senior leaders across the department including our Executive Committee and Chief Scientific Advisor. This provided us with confidence in our approach. We will report back to them and share here our findings as work continues.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

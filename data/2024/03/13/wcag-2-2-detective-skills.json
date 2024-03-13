@@ -1,0 +1,190 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/03/13/wcag-2-2-detective-skills/",
+    "title": "WCAG 2.2 Detective Skills",
+    "authors": [
+        "David Cox - Senior Accessibility Specialist",
+        "GOV.UK Design System Team"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Monitoring",
+        "Accessibility Regulations"
+    ],
+    "pub_date": "2024-03-13T11:02:08+00:00",
+    "content": [
+        {
+            "text": "Whispers of a new \u2018WCAG 2.2\u2019 web accessibility standard flutter between coworkers, within and across the UK government. For teams working on services, the message carries an element of mystery. In any given service, how can areas that need Web Content Accessibility Guidelines (WCAG) 2.2 improvements be identified?"
+        },
+        {
+            "text": "Accessibility is a serious topic, but it doesn\u2019t need to be daunting. It\u2019s possible to sharpen accessible design skills and have some fun at the same time."
+        },
+        {
+            "text": "So, welcome to the WCAG 2.2 Detective Agency! Let\u2019s get you trained up."
+        },
+        {
+            "text": "This article \u2013 or rather, this detective training course \u2013 includes a series of \u2018if statement\u2019 clues, a handy magnifying glass and a nifty deerstalker hat (hat and magnifying glass sold separately). The clues can help pinpoint areas of a service that deserve a closer look when making changes to meet WCAG 2.2."
+        },
+        {
+            "heading": 2,
+            "text": "What WCAG 2.2 brings overall"
+        },
+        {
+            "text": "Officially released in October 2023, version 2.2 of the Web Content Accessibility Guidelines (WCAG) adds 9 new \u2018success criteria\u2019 for improving web accessibility. 6 of the new WCAG 2.2 criteria are graded at the A and AA level, meaning that they\u2019re considered a requirement for websites and mobile apps in UK government. You can learn more about WCAG 2.2 from the W3C Web Accessibility Initiative (WAI)."
+        },
+        {
+            "text": "Each criterion also comes with an \u2018understanding\u2019 document, which offers helpful information on how to understand and interpret the criterion."
+        },
+        {
+            "text": "A standard like WCAG should not be used as a replacement for exploring the lived experiences of disabled people, but WCAG can be a great tool to nudge teams towards building more accessible web services."
+        },
+        {
+            "text": "Ready to begin the training?"
+        },
+        {
+            "heading": 2,
+            "text": "Helpful clues for WCAG sleuths"
+        },
+        {
+            "text": "There are 7 types of new guidance in WCAG 2.2, spread across 9 new criteria. Pretty much every website and service will benefit from exploring and applying these 7 guidance types."
+        },
+        {
+            "text": "The challenge lies in identifying where each criterion applies, especially across vast web journeys, sites and services."
+        },
+        {
+            "text": "Let\u2019s gather 7 \u2018clues\u2019 which together form a detective toolkit. These \u2018component-level\u2019 and \u2018service-level\u2019 clues can help pinpoint areas that deserve attention, allowing teams to more efficiently target effort when working to improve a service."
+        },
+        {
+            "heading": 2,
+            "text": "Component-level clues"
+        },
+        {
+            "text": "Let\u2019s start by examining the individual elements that make up a service, often called components and patterns."
+        },
+        {
+            "text": "4 of the new WCAG 2.2 criteria can be explored by examining how individual elements behave and interact with each other."
+        },
+        {
+            "heading": 3,
+            "text": "Target size"
+        },
+        {
+            "text": "If an element on the page is:"
+        },
+        {
+            "text": "\u2026That\u2019s a clue! It\u2019s worth examining further."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 2.5.8: Target size (minimum)."
+        },
+        {
+            "heading": 3,
+            "text": "Dragging movements"
+        },
+        {
+            "text": "If an element on the page:"
+        },
+        {
+            "text": "\u2026That\u2019s a clue! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 2.5.7: Dragging movements."
+        },
+        {
+            "heading": 3,
+            "text": "Focus appearance"
+        },
+        {
+            "text": "If an element on the page has a focus indicator that:"
+        },
+        {
+            "text": "\u2026That\u2019s a clue! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 2.4.13 Focus appearance."
+        },
+        {
+            "heading": 3,
+            "text": "Focus not obscured"
+        },
+        {
+            "text": "If an element on the page either:"
+        },
+        {
+            "text": "\u2026Those are clues! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 2.4.11: Focus not obscured (minimum)."
+        },
+        {
+            "heading": 2,
+            "text": "Service-level clues"
+        },
+        {
+            "text": "Now, let\u2019s step back from individual elements and examine the service as a whole. Not all WCAG 2.2 criteria can be investigated by looking at individual components. Sometimes it requires looking at the bigger picture."
+        },
+        {
+            "text": "These next 3 clues cover new WCAG 2.2 criteria that relate to how the service is designed."
+        },
+        {
+            "heading": 3,
+            "text": "Accessible authentication"
+        },
+        {
+            "text": "If there\u2019s a login process with any of the following:"
+        },
+        {
+            "text": "\u2026Those are clues! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 3.3.8: Accessible authentication (minimum)."
+        },
+        {
+            "heading": 3,
+            "text": "Consistent help"
+        },
+        {
+            "text": "If there\u2019s a series of pages across a service that all include some form of:"
+        },
+        {
+            "text": "\u2026That\u2019s a clue! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 3.2.6: Consistent help."
+        },
+        {
+            "heading": 3,
+            "text": "Redundant entry"
+        },
+        {
+            "text": "If a single online journey requires a user to enter the same info more than once\u2026"
+        },
+        {
+            "text": "\u2026That\u2019s a clue! It may be worth taking a closer look."
+        },
+        {
+            "text": "You can continue the investigation by using the WCAG \u2018understanding\u2019 document for WCAG 3.3.7: Redundant entry."
+        },
+        {
+            "heading": 2,
+            "text": "A more forensic approach to WCAG 2.2"
+        },
+        {
+            "text": "Hot on the trail of a WCAG 2.2 mystery and looking for more info?"
+        },
+        {
+            "text": "The GOV.UK Design System team ran 3 workshops, to inspect specific WCAG 2.2 criteria where testing is more complex."
+        },
+        {
+            "heading": 3,
+            "text": "Inspecting \u2018Focus not obscured\u2019"
+        },
+        {
+            "heading": 3,
+            "text": "Inspecting \u2018Target size\u2019"
+        },
+        {
+            "heading": 3,
+            "text": "Inspecting \u2018Accessible authentication\u2019"
+        }
+    ]
+}

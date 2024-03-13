@@ -1,0 +1,76 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2024/03/13/funding-service-design-using-content-design-to-reduce-the-burden-on-applicants/",
+    "title": "Funding Service Design: Using content design to reduce the burden on applicants",
+    "authors": [
+        "Maddie Broxup, Content Designer"
+    ],
+    "categories": [
+        "Funding service design"
+    ],
+    "pub_date": "2024-03-13T13:59:07+00:00",
+    "content": [
+        {
+            "text": "In September 2022, I started on a new project as a content designer in the Funding Service Design team, where the aim was to:"
+        },
+        {
+            "text": "Here are a few things I learned along the way.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Sometimes the simplest tools are the most powerful\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "In a nutshell, part of my role on the project was to help onboard funds to our GOV.UK service. The service was essentially an application form for whichever fund we were working with at the time.\u00a0\u00a0"
+        },
+        {
+            "text": "By the time we started to work with fund teams, they were usually already thinking about the data they wanted to collect from applicants as part of the application stage. Sometimes that data was more of a \u2018nice to have\u2019 instead of fundamental information an assessor would need to make a decision.\u00a0\u00a0"
+        },
+        {
+            "text": "We found that running question protocol workshops really helped prompt the fund teams to think about:\u00a0\u00a0"
+        },
+        {
+            "text": "If a data point could not be justified, then it probably was not necessary.\u00a0\u00a0"
+        },
+        {
+            "text": "These sessions took time \u2013 often longer than an hour \u2013 but were always our most valuable tool. With that information, we were then able to start thinking about the flow and the content of the questions.\u00a0\u00a0"
+        },
+        {
+            "text": "The best thing about question protocols is that they\u2019re relatively easy to set up and run. All you need is a table with some column headings to get started.\u00a0\u00a0"
+        },
+        {
+            "text": "Read more about question protocols from UX Matters.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Showing the thing does not\u00a0always mean it has to look pretty\u00a0\u00a0"
+        },
+        {
+            "text": "Our work with fund teams meant there were always things to show, like user journeys, patterns, components and content.\u00a0\u00a0"
+        },
+        {
+            "text": "One thing we soon realised was that we were spending too much time on creating polished mock-ups in Mural. I think there\u2019s a tendency to do this as designers. We want things to look good, especially if we\u2019re showing it to other people.\u00a0\u00a0"
+        },
+        {
+            "text": "It was also always inevitable that we\u2019d have to make changes to these designs because we were still so early on in the process, meaning that all our hard work to make things look polished was a waste.\u00a0\u00a0"
+        },
+        {
+            "text": "Instead of Mural boards, we decided to trial a simple Excel spreadsheet. We included columns for:\u00a0\u00a0"
+        },
+        {
+            "text": "After trialling the approach, we found that overall this was a quicker way to:\u00a0\u00a0"
+        },
+        {
+            "text": "Using spreadsheets for design work is not groundbreaking, but it\u2019s not something I\u2019d ever really considered before.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What next?\u00a0\u00a0"
+        },
+        {
+            "text": "Our next goal is to continue building up a bank of standard questions, so that fund teams can take question blocks off the shelf and do not need to spend time reinventing the wheel.\u00a0\u00a0"
+        },
+        {
+            "text": "There will always be a small amount of bespoke questions, because each fund is unique, but there are many questions which are the same across multiple funds \u2013 such as organisation name. This will mean we have reduced the burden on fund delivery teams, as well as the burden on fund applicants. Win win.\u00a0\u00a0"
+        }
+    ]
+}
