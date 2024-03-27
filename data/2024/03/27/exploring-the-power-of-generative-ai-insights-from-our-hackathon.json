@@ -1,0 +1,67 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2024/03/27/exploring-the-power-of-generative-ai-insights-from-our-hackathon/",
+    "title": "Exploring the power of generative AI - insights from our hackathon.",
+    "authors": [
+        "fahadanwar"
+    ],
+    "categories": [
+        "AI",
+        "DevSecOps",
+        "Technology",
+        "Ways of working"
+    ],
+    "pub_date": "2024-03-27T13:34:27+00:00",
+    "content": [
+        {
+            "text": "Generative\u00a0AI\u00a0is a broad label used to describe any type of artificial intelligence (AI) that can be used to create new text, images, video, audio, or code.\u00a0 Our hackathon aimed to explore the potential of Generative AI in software development, particularly in converting legacy code to modern technology and developing an internal chatbot."
+        },
+        {
+            "heading": 2,
+            "text": "Hackathon goals"
+        },
+        {
+            "text": "The 3 day hackathon was an opportunity for our teams to explore and leverage AI technologies in software development. The event focused on two primary goals:"
+        },
+        {
+            "heading": 2,
+            "text": "Hackathon challenges"
+        },
+        {
+            "text": "The hackathon presented several technical challenges, including the conversion of specific functions and applications from SAS/VB6 to Python. Some of the notable challenges included:"
+        },
+        {
+            "heading": 2,
+            "text": "Team experiences & outcomes"
+        },
+        {
+            "text": "The participating teams employed various approaches and strategies to tackle the challenges. Each team's unique approach and outcomes contributed to the overall success of the hackathon. Some of the notable team experiences and outcomes included:"
+        },
+        {
+            "heading": 2,
+            "text": "Key takeaways"
+        },
+        {
+            "text": "The hackathon demonstrated the potential of Generative AI in software development and highlighted the future possibilities of increasing productivity and innovation in this field. Notable takeaways from the event included:"
+        },
+        {
+            "text": "Significant reduction in code conversion time.\u00a0GitHub Copilot demonstrated a substantial increase in productivity, reducing the time for code conversion significantly."
+        },
+        {
+            "text": "Successful Chatbot development.\u00a0 The successful creation of a working chatbot using GCP services showcased the potential of AI in this area."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We're now going to further explore and implement Generative AI technologies. Some of the proposed next steps include:"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "The hackathon proved the potential of AI in software development and its ability to revolutionise traditional processes. The event's success and the outcomes achieved by the participating teams underscore the significance of embracing AI technologies in the pursuit of enhanced productivity and innovation."
+        }
+    ]
+}
