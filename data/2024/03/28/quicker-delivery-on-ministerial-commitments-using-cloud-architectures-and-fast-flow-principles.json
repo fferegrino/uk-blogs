@@ -1,0 +1,113 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2024/03/28/quicker-delivery-on-ministerial-commitments-using-cloud-architectures-and-fast-flow-principles/",
+    "title": "Quicker delivery on ministerial commitments using cloud architectures and fast flow principles",
+    "authors": [
+        "Dimitris Perdikou, Portfolio Chief Technology Officer, Data Services and Analytics"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "Data"
+    ],
+    "pub_date": "2024-03-28T10:11:38+00:00",
+    "content": [
+        {
+            "text": "The Data Services and Analytics (DSA) portfolio sits in Digital, Data and Technology (DDaT) in the Home Office. It forms part of the wider Enterprise Services portfolio as it serves all of the Home Office and not just specific directorates. \u00a0"
+        },
+        {
+            "text": "DSA is responsible for taking multiple data sets, ingesting, transforming, enriching and analysing those data sets, before providing capabilities for our users to consume the information.\u202fThis varies from the more traditional data analytics functions, such as Management Information (MI) reporting that goes up to senior leaders within the Home Office, to ministers and to the public.\u00a0\u00a0"
+        },
+        {
+            "text": "DSA combines and matches data sets to utilise intelligence at the border and target people and freight of interest. Without many of these systems we wouldn\u2019t be able to publish the data to enable ministers to make data driven decisions. The public wouldn\u2019t be able to see that data and take part in open conversations on key issues. And we wouldn\u2019t be able to keep our country safe.\u00a0\u00a0"
+        },
+        {
+            "text": "Our ambition is aligned with the principles set out in the Home Office Digital, Data and Technology Strategy 2024. We\u2019re continually challenging ourselves to become the leading centre for data analytics across government.\u202f\u202fWe work with colleagues across government to compare lessons learned and push ourselves to improve our data analytical capabilities. \u00a0"
+        },
+        {
+            "text": "We\u2019ve been cloud-first for a number of years now and are constantly exploring use of the ever-growing managed services and serverless technologies being provided by the major cloud providers. We are a pioneer in building for the cloud within central government and in the last year have made substantial savings through undergoing rigorous FinOps initiatives.\u202f\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Setting out the existing problem \u00a0"
+        },
+        {
+            "text": "The services we provide are in higher demand than ever before, with the Illegal Migration Act 2023 (IMA) being a case in point. Our operational teams are working under very tight timescales to turn the IMA into practise. DSA is innovating at speed to enable our caseworkers to achieve that objective.\u202f\u202f\u202f\u00a0"
+        },
+        {
+            "text": "We continuously ingest immigration data, currently approximately 70 million events per month. This data is growing continuously and as we create new immigration routes such as IMA, we are also consuming new types of data.\u00a0\u00a0"
+        },
+        {
+            "text": "Our typical release process for surfacing new immigration data was taking us several months. For IMA we had a ministerial ambition to surface and build analytics within 6 weeks so we could provide analytics as soon as the first IMA cases were processed.\u00a0\u00a0"
+        },
+        {
+            "text": "It became abundantly clear that our existing approach to the data ingestion problem would not enable our users to deliver on key ministerial priorities, which prompted us to radically rethink our solution to this problem.\u00a0"
+        },
+        {
+            "text": "We knew delivering within this 6 week timescale would prove difficult because of our mix of technology and how we were using our data. We faced numerous problems:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our multi-pronged solution\u202f\u00a0"
+        },
+        {
+            "text": "We took a multi-pronged approach to solving the problem.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Streamlining the delivery teams\u202f\u00a0"
+        },
+        {
+            "text": "To streamline we shifted to a single team empowered to deploy our own infrastructure and used industry expert knowledge on \u2018fast flow\u2019 at Team Topologies and Amazon\u2019s two pizza team.\u00a0"
+        },
+        {
+            "text": "We combined Developer and Operations teams (DevOps).\u202fThis empowered a single team to deliver services from development all the way to production, introducing efficiency and a deeper knowledge of how to overcome challenges in production.\u00a0\u00a0"
+        },
+        {
+            "text": "One of the key differentiators we implemented was to create clear communication channels between the people:\u202f\u00a0"
+        },
+        {
+            "text": "This user-centred design approach led our technical decisions, resulting in rapid iterative development that met user needs.\u202f\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Leveraging a cloud native architecture\u202f\u00a0"
+        },
+        {
+            "text": "We designed a solution using Amazon Web Services\u2019 (AWS) cloud native services, such as AWS-managed Kafka, Glue and S3.\u00a0 Previously we had spent a lot of time building the services and code ourselves, struggling to achieve the reliability and performance we required. By relying on AWS expertise we could focus on the challenge of meeting our IMA obligations.\u00a0\u00a0"
+        },
+        {
+            "text": "By using AWS cloud native services we were able to set up the infrastructure in a matter of hours and greatly reduce the future cost of maintenance.\u202f\u202fWe were able to continually stream the data to DSA through Kafka, transform the data into the Person, Object, Location, Event (POLE) model in Glue and then store the output in a flat structure in S3.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "Ingesting the data through Kafka and storing the data in S3 in a flat and backwards compatible structure meant we followed an event driven architecture. This gave us loose coupling between our data pipeline and the analytical products and shifted us to a model where each analytical product can independently build and release in a cadence that is best suited to user needs.\u202f\u202f\u00a0\u00a0"
+        },
+        {
+            "text": "The solution we implemented for the first time allowed us to perform data quality checks at scale which will allow us to build much more robust analytical systems.\u202f\u202f\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Developing cross-portfolio collaboration\u202f\u00a0"
+        },
+        {
+            "text": "To meet the tight timescales we had to work very closely with our Migration and Borders Technology Portfolio (MBTP) who build the operational systems. We did this in 2 ways.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "Firstly, we embedded our Architects within the MBTP teams that were designing the front-end functionality for IMA. This meant any upcoming changes were immediately cascaded down, enabling us to adapt at very short notice.\u00a0"
+        },
+        {
+            "text": "Secondly, the Data Analytical Service (DAS), a capability for understanding data quality which was built in MBTP, was open-sourced especially for us to build our IMA solution. We have not only built our solution on top of DAS but have since been contributing to the open-source project.\u00a0\u00a0"
+        },
+        {
+            "text": "This level of technical collaboration has allowed us to meet both customer demand and forge a long-lasting partnership with another portfolio.\u202f\u202f\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Utilising suppliers for short term work\u202f\u00a0"
+        },
+        {
+            "text": "We had to very quickly bring in a new team to deliver the capability required. To do this we leveraged our strong existing relationship with our supplier, 6point6.\u202f\u202f6point6 provided Solution Architects to design the solution and the Software and Data Engineers to implement it. Our long-term goal is to equip civil servants with these skills. \u00a0"
+        },
+        {
+            "text": "Our solution enabled us to deliver key ministerial commitments in weeks rather than months. We have set ourselves up for a future where we can continuously adopt new data, analyse and provide it as key information faster than ever before.\u202f\u202f"
+        }
+    ]
+}
