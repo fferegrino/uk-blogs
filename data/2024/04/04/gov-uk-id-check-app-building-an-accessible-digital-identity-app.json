@@ -1,0 +1,120 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/04/04/gov-uk-id-check-app-building-an-accessible-digital-identity-app/",
+    "title": "GOV.UK ID Check app: Building an accessible digital identity app",
+    "authors": [
+        "Shaun Conner - Head of Accessibility for GOV.UK One Login - GDS",
+        "Tom Bassett - Head of Delivery for GOV.UK One Login - GDS"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Regulations",
+        "Design"
+    ],
+    "pub_date": "2024-04-04T14:33:10+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "The background"
+        },
+        {
+            "text": "At Government Digital Service (GDS), our mission is to make digital government simpler, clearer and faster for everyone. As part of the GOV.UK One Login programme, we released the GOV.UK ID Check app for iOS and Android last year which is the first mobile app GDS has built and released."
+        },
+        {
+            "text": "The GOV.UK ID Check app gives users with a form of photo ID a fast, simple and secure way to prove their identity when accessing government services online. The app works with a UK driving licence, UK or international chipped passport, or UK biometric residence permit."
+        },
+        {
+            "text": "In a previous blog post, we talked about how we\u2019re working to improve inclusion across digital identity in government, and our mobile app is an important part of this. In this blog, we\u2019ll discuss how we\u2019ve approached accessibility throughout the product development lifecycle."
+        },
+        {
+            "text": "The Public Sector Bodies Accessibility Regulations (2018) require all public sector bodies to make their websites and apps accessible by making them \u2018perceivable, operable, understandable and robust\u2019. Our websites and apps can meet this requirement by meeting the Web Content Accessibility Guidelines (WCAG) 2.2 to AA standard."
+        },
+        {
+            "text": "By making the GOV.UK ID Check app accessible, it means that it can be used by as many people as possible."
+        },
+        {
+            "text": "This includes those with:\n"
+        },
+        {
+            "text": "The WCAG guidelines are a good start to ensure that government services are accessible, but they are a floor, not a ceiling, as a measure of accessibility. Our aim across GOV.UK One Login is to build a truly inclusive, accessible service.\u00a0"
+        },
+        {
+            "text": "We\u2019re doing this by not only relying on WCAG as a measure of accessibility but also leveraging our user research capabilities to understand the real challenges our users are facing more broadly through our journeys.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Developing mobile apps\u00a0"
+        },
+        {
+            "text": "Apple (iOS) and Google (Android) keep a close hold over their eco-systems, providing well-defined guidelines on designing applications for each. The Human Interface Guidelines for iOS and The Material Design Guidelines for Android have accessibility as a key foundation in their design principles."
+        },
+        {
+            "text": "People using mobile devices will likely be familiar with the user interface (UI) patterns outlined in these platform guidelines. Following these guidelines can enhance the usability of an app. Additionally, users expect apps to align with the settings they have enabled on their devices."
+        },
+        {
+            "text": "\u00a0These include:"
+        },
+        {
+            "text": "We developed our apps using Software Development Kits (SDKs) offered by Apple and Google rather than cross-platform solutions. Doing so allows us to take full advantage of in-built accessibility features available on iOS and Android, including those required to meet WCAG 2.2 AA."
+        },
+        {
+            "heading": 2,
+            "text": "How we created our platform guidelines for mobile app"
+        },
+        {
+            "text": "By law, digital services produced by UK Public Sector organisations must be accessible. The Service Manual sets this requirement by law such as meeting the Web Content Accessibility Guidelines (WCAG) version 2.2 to a minimum of AA level. The Web Consortium has guidance on applying these guidelines for mobile web and non-web technologies."
+        },
+        {
+            "text": "We\u2019ve produced platform-specific guidelines for implementing WCAG 2.2 AA in iOS and Android apps using these documents. They help us ensure our app can be used by the widest possible range of users, working in ways users expect from their mobile platform."
+        },
+        {
+            "text": "Our guidelines focus on features relevant to the app we\u2019ve been building. We haven\u2019t provided guidance for developers for types of functionality not included in our app. This means it doesn\u2019t cover all WCAG success criteria, such as success criterion 1.2 Time-Based Media, as we haven\u2019t built any time-based media into the GOV.UK ID Check app."
+        },
+        {
+            "text": "We started by working through the WCAG 2.2 AA success criteria point by point and discussing how each point relates to system accessibility features. Some were trivial, such as the WCAG 2.1.1 Keyboard success criterion, where users needed to navigate the app using a Bluetooth keyboard like on a website."
+        },
+        {
+            "text": "Some guidelines needed a slight adaptation for mobile apps. For example, for success criterion \u201c1.4.4 Resize text\u201d, we interpreted support for iOS\u2019s dynamic type feature as sufficient to meet the success criteria. The GOV.UK ID Check app supports all available dynamic type sizes, including those smaller than the default setting."
+        },
+        {
+            "text": "Once we\u2019d mapped the system accessibility features and cross-referenced them with the WCAG mobile guidance, we added any missing pieces to our guidance and shared them with our wider teams."
+        },
+        {
+            "text": "Accessibility is considered throughout the entire product development lifecycle, from user research and usability testing with disabled people to end-to-end automated and manual accessibility testing with assistive technology.\u00a0 This helps us get better outcomes from our independent accessibility audits and results in having fewer issues to fix later on."
+        },
+        {
+            "text": "As a result of this work, we have an early version of a components and pattern library shared in the Design System Day 2023.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Evolving our design with usability testing"
+        },
+        {
+            "text": "In addition to adapting guidelines for our mobile app, we carry out regular usability testing, and we\u2019re regularly iterating our designs, code and standards based on our research findings to build a better, more inclusive app."
+        },
+        {
+            "text": "A key feature of the GOV.UK ID Check app enables liveness and likeness checks as part of the identity-checking process. This part of the journey includes a screen that has flashing lights."
+        },
+        {
+            "text": "Flashing lights can cause harm to people who have epilepsy and vestibular conditions. It was important that we considered this when implementing this new feature, and that we provided an accessible alternative so users could still verify their identity."
+        },
+        {
+            "text": "The screens were usability tested with over 100 participants. Participants understood the purpose of these specific screens and were able to complete the task. Our current analytics shows there\u2019s no significant drop-off rate on these screens because users can still prove their identity another way."
+        },
+        {
+            "heading": 2,
+            "text": "The future"
+        },
+        {
+            "text": "We believe we\u2019ve made a great start by making our app accessible to AA standards, but there is still plenty to do. We\u2019re constantly reviewing the latest accessibility features available on Android and iOS to see which ones we can support. We want to expand our implementation guidance to cover a wider range of components, providing example implementations of each in the code libraries we have for iOS and Android."
+        },
+        {
+            "text": "We\u2019re continuously monitoring how the app performs with real users and plan to gather anonymous analytics on which accessibility features are enabled by our users. This will allow us to prioritise our work to make sure we provide the accessibility features that are most needed by our users.\u00a0"
+        },
+        {
+            "text": "GOV.UK One Login app is also collaborating closely with team members from GOV.UK Design System and GOV.UK to explore how we translate web-based design principles into native apps. The teams meet on a regular basis to work through a prioritised list of design problems and accessibility considerations that can influence each team\u2019s roadmap, ensuring the best experience for end users undertaking cross-channel or single channel journeys.\u00a0"
+        },
+        {
+            "text": "As we build new features, we\u2019ll continue undertaking user research and doing both internal and independent accessibility testing in order to strive to make the app as inclusive as possible to users."
+        }
+    ]
+}
