@@ -1,0 +1,81 @@
+{
+    "url": "https://dluhcdigital.blog.gov.uk/2024/04/10/scaling-data-standards-to-support-local-government/",
+    "title": "Scaling data standards to support local government",
+    "authors": [
+        "The Local Digital team"
+    ],
+    "categories": [
+        "Data",
+        "Local Digital"
+    ],
+    "pub_date": "2024-04-10T11:31:28+01:00",
+    "content": [
+        {
+            "text": "One major challenge councils face is unconnected technology solutions that can\u2019t share data with each other. This has a real world impact, as described by a council officer during our Future Councils pilot:"
+        },
+        {
+            "text": "\u201cWe have a disjointed view of our citizens, especially the most vulnerable, which means the council is unable to take preventative measures to ensure the wellbeing of its residents and financial continuity for the council.\u201d (Future Councils pilot report)"
+        },
+        {
+            "text": "This issue could be addressed by describing data in a consistent way between services, which we refer to as a data standard. Ideally this would be an open standard, that enables data to be shared through APIs (Application Programming Interfaces). This would streamline processes, reduce manual errors, and improve efficiency. Having APIs that are open and consistent is also critical to tackling sub-optimal market conditions (for example, by making it easier for councils to switch products) and allowing the integration of new open-source or off the shelf technology modules."
+        },
+        {
+            "text": "However, defining a standard is not enough. It has to be adopted by a sufficient number of councils and their technology suppliers before it has an impact.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Data standards for councils"
+        },
+        {
+            "text": "Local Digital has already supported open data standards in various areas, such as planning; Open Referral UK for community services; and SAVVI, which helps identify vulnerable people and households across services. We\u2019re now making additional investment in these standards to ensure they scale and reach their full potential, but we want to go further.\u00a0"
+        },
+        {
+            "text": "In a recent blog post, we discussed how research with councils and an ongoing independent evaluation of the Local Digital programme has led to us adapting our approach to become a \u2018steward\u2019, using our position as a central government department to influence change. The introduction and promotion of data standards is an example of such change.\u00a0"
+        },
+        {
+            "text": "We\u2019re starting with standards we\u2019ve already invested in, as well as those aligned with DLUHC\u2019s policy areas, like social housing. This focus should allow us to use a wide range of levers and show visible ownership of the issue, which we\u2019ve identified as a key driver of adoption success. Our ambition is to tackle critical standards in other policy areas within the next few years as part of an ongoing initiative. Any standard we create will be open, available for everyone to use.\u00a0"
+        },
+        {
+            "text": "Co-creation with councils and their technology suppliers is also important to success, although we're approaching this in a different way to our Local Digital Fund model, where councils were directly funded to deliver projects. Instead, we\u2019re providing funding to the council-led group iStand, as well as the LGA, to help us deliver this work in close collaboration with local government. We\u2019ll also be including councils and suppliers in our delivery teams - more on this to follow!\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Understanding how to successfully introduce standards"
+        },
+        {
+            "text": "To start, we led a six-week research project into previous attempts to establish standards across councils. We wanted to understand the conditions necessary for a standard's success, asking questions like:"
+        },
+        {
+            "text": "While we will be focusing on data standards, we researched all kinds of standards to better understand and learn from their adoption strategies.\u00a0"
+        },
+        {
+            "text": "The findings on scaling adoption can be categorised into three stages:"
+        },
+        {
+            "text": "We learned the approach for adoption should vary based on what the intervention is, who it\u2019s for, and what the source of the intervention is."
+        },
+        {
+            "text": "The result of our research is a detailed report which includes recommendations for any central government department looking to introduce new standards or service patterns across councils. The report has already been used to inform the recommendations on scaling Open Referral UK, and we\u2019re currently in an alpha phase focused on housing standards.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Get involved with the housing standards alpha"
+        },
+        {
+            "text": "We are currently recruiting research participants for the alpha phase of our housing standards work, and are especially interested in hearing from social housing providers. If you would like to be involved in the research please email our TPX delivery partners at housingdata@tpximpact.com."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Shortly, we\u2019ll be kicking off work with iStand to identify the second phase of the data standards initiative. More on this will be shared as soon as possible, in addition to the housing standards discovery report which will be published on this blog later in Spring."
+        },
+        {
+            "text": "As we continue to learn more about scaling standards, we\u2019ll update the report to ensure the best information is available to inform central government\u2019s approach to standards.\u00a0"
+        },
+        {
+            "text": "In the meantime, make sure you are following our channels:"
+        }
+    ]
+}
