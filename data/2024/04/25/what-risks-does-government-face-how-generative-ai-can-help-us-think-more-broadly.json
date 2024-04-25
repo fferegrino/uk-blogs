@@ -1,0 +1,25 @@
+{
+    "url": "https://giaa.blog.gov.uk/2024/04/25/what-risks-does-government-face-how-generative-ai-can-help-us-think-more-broadly/",
+    "title": "What risks does government face? How generative AI can help us think more broadly.",
+    "authors": [
+        "Dr Lauren Petrie"
+    ],
+    "categories": [
+        "Innovation"
+    ],
+    "pub_date": "2024-04-25T15:28:48+01:00",
+    "content": [
+        {
+            "text": "Over a year on from the release of ChatGPT, there are now lots of artificial intelligence (AI) tools in various stages of testing and development across government. I\u2019m genuinely excited by the enthusiasm and opportunities that I hear about in cross-government forums to use AI in responsible and secure ways, in line with the government framework for generative AI. Much has (rightly) been made of the difficulties with hallucinations - where models give inaccurate information - and the challenges in evaluating model performance, how do we benchmark against what is the \"right\" answer? So, at the Government Internal Audit Agency we wanted to think differently about how we could use generative AI in ways to help our auditors overcome the work challenges that they face on a regular basis."
+        },
+        {
+            "text": "When our auditors start an audit on a particular area, one of the first things that they will think about is risk. What things could go wrong in this area of work? By considering these potential problems, we can prepare - putting checks and mitigations in place to ensure that the impact of these risks can be minimised. It's important for our auditors to be able to think broadly about potential risks, and to be able to articulate those risks clearly and concisely, in line with government guidance as published in the Orange Book."
+        },
+        {
+            "text": "To respond to these needs, we developed our GIAA Risk Engine, built using generative AI. Users input a business objective, then it suggests potential causes, events and consequences, allowing users to get inspiration and build a well-articulated risk within the cause-event-consequence framework. We developed the app in-house, building on the success of our GIAA Insights Engine, and made it available to our auditors in the agency in September 2023. We've had great feedback from users and ever-growing external interest. I am also delighted that GIAA has recently agreed to support internal audit services for two more government organisations, and they will use our Risk Engine in their risk management activity."
+        },
+        {
+            "text": "I'll be sharing more information about our progress in harnessing generative AI tools at various Government Finance Function events soon. If you work in a public sector organisation and are interested in hearing more about how we can provide low-cost access to these tools, then please do let us know in the comments section below. Thank you."
+        }
+    ]
+}
