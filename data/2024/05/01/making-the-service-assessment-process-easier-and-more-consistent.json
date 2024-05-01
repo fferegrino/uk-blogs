@@ -1,0 +1,77 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2024/05/01/making-the-service-assessment-process-easier-and-more-consistent/",
+    "title": "Making the service assessment process easier and more consistent",
+    "authors": [
+        "Kerry Lyons",
+        "Andy Jones",
+        "Jake Lloyd",
+        "Mike Dunn"
+    ],
+    "categories": [
+        "Assurance",
+        "Collaboration",
+        "Cross-government",
+        "service assessments",
+        "Service standard",
+        "user research",
+        "User-centred design"
+    ],
+    "pub_date": "2024-05-01T10:37:21+01:00",
+    "content": [
+        {
+            "text": "For the last 18 months, we\u2019ve been investigating and implementing initiatives for how we check and improve our digital services against standards, specifically, the Government Service Standard. Our research findings show that the way we assess these services in DfE could be more straightforward. We found: \u2022 the assessment process was confusing at times. \u2022 some people did not understand the purpose of service assessments or that their work needed a service assessment. \u2022 teams struggled for how to best demonstrate their work at assessment. \u2022 everyone involved in an assessment struggled or faced pain points in multiple parts of the process.Some of the reasons for the problems relate to guidance being in multiple places, sometimes guidance is contradictory. Other reasons include a general lack of awareness of standards, and very manual, repetitive processes."
+        },
+        {
+            "text": "This builds on our previous work to help teams understand and apply the Service Standard in DfE as we talked about in a previous blog post. We also ran a session at Services Week 2024 where we ran a demo of the end to end user journey in the service. "
+        },
+        {
+            "heading": 3,
+            "text": "What we've done"
+        },
+        {
+            "text": "We worked with the service assessment team in DfE, to understand the assessment journey from teams understanding what they need, through to booking, assessing, and finally, publishing reports. We identified several touchpoints that could be made easier for everyone involved."
+        },
+        {
+            "text": "We talked with service teams to identify how they find out about service assessments and assurance, what happens between booking an assessment and accepting a report, who\u2019s involved from the team, and where pain points are in their assurance journey."
+        },
+        {
+            "text": "We collaborated with DfE assessors and assessors from other government departments to find out how they prepare for an assessment, work with the other assessors, and complete the report. In addition to these groups of people, we also ran sessions with Heads of Profession across DfE and Deputy Directors, to help us understand what information is important to them. This helped us to develop features which not only support standard owners and leadership, but service teams to understand good practice from the outcomes of service assessments."
+        },
+        {
+            "heading": 3,
+            "text": "What we\u2019ve built"
+        },
+        {
+            "text": "We have now rolled out the Service assessment service and supporting guidance on Apply the Service Standard in DfE within DfE. Both services are built and maintained by the DesignOps team. "
+        },
+        {
+            "text": "Users will be able to book, manage a booking and complete an assessment report within the service. The service will be supported by emails sent using GOV.UK Notify, which will let teams or assessors know when they need to do the next thing, for example: \u2022 add teammates who are taking part in the assessment \u2022 add links to artefacts for assessors to read Emails will also provide links to relevant guidance that\u2019s on Apply the Service Standard in DfE, so people are getting the right content at the right time."
+        },
+        {
+            "text": "Guidance for assessors and service teams has been pair written, critted and tested with colleagues across DfE and wider government who are involved in the assessment process. It\u2019s been iterated based on feedback by service teams and assessors with a wide range of experience and knowledge of the Service Standard. We included the RAG rating changes to service assessments from CDDO and incorporated them into the service and supporting guidance."
+        },
+        {
+            "text": "The aim of which is to provide a clear, consistent experience for everyone involved in the assessment process and our simplified user journey helps people navigate this more easily."
+        },
+        {
+            "heading": 3,
+            "text": "Who will use this service"
+        },
+        {
+            "text": "Potentially, we have around 650 people who might need to use the service in DfE. This is a mix of service teams, assessors and the Service Assessment Plus team. The service will also be used by people external to the department, who may be assessing a DfE service as part of a cross-government panel of assessors."
+        },
+        {
+            "text": "We have had a lot of interest from other departments who want to use the service to support their own assessment processes. Ideally, we\u2019d have one service for all of government, but this isn\u2019t something we\u2019re set up to provide or support. Working in the open and sharing source code, however, means any other department can take the code, set it up themselves and provide the service within their own departments. We would like to work closely with a couple of departments to make this happen and learn how they use it and contribute features into the core product. Our backlog includes things like real-time editing, Slack integration, and how we can consolidate reporting around trends in Service Standard outcomes across government."
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "We\u2019ll be testing the service internally with teams, assessors and the Service Assessment Plus team to see if the process for applying, managing, and reporting on service assessments is easier and more efficient through this service. We\u2019ll do this through our usual service metrics and KPIs, feedback loops, research sessions with people who use the service, and our community events."
+        },
+        {
+            "text": "We\u2019ll also continue to talk and share this work across government through community meetups, assessor channels and other events."
+        }
+    ]
+}
