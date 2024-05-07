@@ -1,0 +1,96 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/05/07/how-were-growing-our-community-of-low-coders/",
+    "title": "How we\u2019re growing our community of \u2018low coders\u2019",
+    "authors": [
+        "Di Washbrook"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra technology"
+    ],
+    "pub_date": "2024-05-07T12:19:40+01:00",
+    "content": [
+        {
+            "text": "Di Washbrook explains how reading a Defra blog inspired her to take her own interest in low-code developing even further by joining the Defra Power Platform team."
+        },
+        {
+            "text": "Around this time last year my colleague Emma-Claire Shaw wrote about how Defra was unlocking the power of low-code. At that time I had been working with MS Power Platform at the Office for National Statistics, and this had given me an early insight into the potentially transformative role of low-code in software development."
+        },
+        {
+            "text": "Emma\u2019s blog demonstrated to me how Defra was pioneering in this space, within government, by actively promoting and managing citizen development, and I was thrilled to subsequently join Defra\u2019s Power Platform team a few months later."
+        },
+        {
+            "text": "It\u2019s been almost a year since Emma shared her vision, so it feels to me like a good time to reflect on how things have been going here."
+        },
+        {
+            "text": "Since joining the team, I have learned that adopting low code successfully is about so much more than just implementing the tech. So I plan to walk you through my personal take on the key components of a mature, sustainable low-code service model, and explain how Defra is working towards this."
+        },
+        {
+            "heading": 2,
+            "text": "Governance is at the heart of the model"
+        },
+        {
+            "text": "Risk management is central to our decision-making and is embedded within the adaptive governance framework at Defra.\u00a0 And we\u2019ve held firm on Emma\u2019s mantra of the \u2018the right tools for the job\u2019 - just because something can be built using Power Platform, doesn\u2019t mean it should be!"
+        },
+        {
+            "text": "Business critical solutions undergo all the traditional controls for enterprise IT solutions, while small non-critical applications can be created swiftly by citizen developers using our self-service model."
+        },
+        {
+            "text": "The governance is supported by our Solution Registration Tool \u2013 it lets people self-assess what category their solution fits into and gives us visibility of what they plan to build. \u00a0\u00a0Our Power Platform Hub SharePoint site is the one-stop-shop for all our guidance and signposts learning and other useful resources."
+        },
+        {
+            "text": "The governance needs to constantly evolve to meet changing user needs and encompass the rollout of new features \u2013 what is our take on Copilot, for example?\u00a0 And it only works if people know about it, so continually reaffirming the key governance messages is important."
+        },
+        {
+            "heading": 2,
+            "text": "Which brings us on to the awareness and adoption function\u2026\u2026\u2026"
+        },
+        {
+            "text": "We aim to educate people at all levels of our organisation about low-code and its benefits.\u00a0 Our Community of Practice is now 700+ strong, and we have monthly meetings, away days, and a Viva Engage channel (aka Yammer) for our members to ask questions and share tips."
+        },
+        {
+            "text": "This community is at the heart of low-code adoption, and our tech-savvy and enthusiastic members continue to push the boundaries. Going forwards, we\u2019d like to introduce champions or hub teams within business areas to spread the gospel about low code."
+        },
+        {
+            "text": "Our aim is to make low code accessible to absolutely everyone in Defra, so we run lots of introductory sessions to demystify and encourage people to \u2018have a go\u2019.\u00a0 We\u2019ve found that a good analogy can help \u2013 a favourite is to compare low code to Lego: it provides the building blocks for development, so you don\u2019t have to start from scratch."
+        },
+        {
+            "text": "We\u2019ve also established a Small Works team \u2013 which crucially fills a gap between our enterprise projects and the citizen developer space.\u00a0 Our small team of pro-developers has built up a proven track record for delivery of business apps, managed with a light-touch Agile framework."
+        },
+        {
+            "text": "Our pro-dev team provides valuable learning for us \u2013 we need to know how to do things ourselves before we can guide the wider community."
+        },
+        {
+            "text": "A fantastic advantage of low code is how it can organically grow the next generation of pro-developers.\u00a0 We\u2019re already seeing some great examples at Defra of talented people from within the community finding a route into a career in IT this way. \u00a0Our delivery lead began her career as a \u2018Citizen Developer\u2019 at Natural England just a few years ago.\u00a0 We\u2019ll be sharing more success stories from our community in future blogs."
+        },
+        {
+            "heading": 2,
+            "text": "Why automation is so important"
+        },
+        {
+            "text": "Automation has been crucial from the outset \u2013 we have implemented an extended version of the Power Platform Centre of Excellence Starter Kit, which allows us to actively monitor and manage the platform at scale."
+        },
+        {
+            "text": "Our ambition is to build on this foundation to enshrine a culture of automation in the team, so that manual processes and checks don\u2019t become a blocker to further adoption at scale."
+        },
+        {
+            "text": "So adaptable governance, a proven track record of delivery, effective communication channels and automation all provide the foundations for the service \u2013 allowing us to effectively support the over 1789 people who form our citizen developer community today."
+        },
+        {
+            "heading": 2,
+            "text": "But what about future aspirations?"
+        },
+        {
+            "text": "We need to make sure that what we are building adds value. Benefit tracking is essential, and we are going to carry out Proof of Concept work in this space soon; this is one area that has been far more complex than first anticipated."
+        },
+        {
+            "text": "We also need to address the risk of proliferation and duplication in what\u2019s being built by moving towards a culture of re-use - Component and Template libraries might be a possible solution here."
+        },
+        {
+            "text": "In the meantime, we aim to encourage greater knowledge sharing, not just within Defra but across government.\u00a0 Ultimately the end goal for low-code, in my opinion, is establishing a culture of enablement \u2013 where the main role of the IT department is not to be the \u2018builder of things\u2019 but the \u2018enabler of people\u2019 \u2013 providing the frameworks, assurance, components, guidance and support to empower others to build safely and quickly."
+        },
+        {
+            "text": "This will involve new team structures, roles, service offerings and importantly new ways of thinking about problems, and it will be fascinating to see what new opportunities this next phase of the low-code revolution can create both for Defra and wider government."
+        }
+    ]
+}
