@@ -1,0 +1,123 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2024/05/08/a-user-centred-approach-to-renaming-a-service/",
+    "title": "A user-centred approach to renaming a service",
+    "authors": [
+        "Ruth Drake \u2013 User Researcher, formerly at HMRC",
+        "James Nicholson \u2013 User Researcher, HMRC"
+    ],
+    "categories": [
+        "Content Design",
+        "Tried & tested",
+        "User Research"
+    ],
+    "pub_date": "2024-05-08T09:00:53+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Why names matter"
+        },
+        {
+            "text": "We talk a lot about access and inclusion in public services, but we do not always consider the role of our service names. The name you give your service could be the difference between making things clear for users or leaving them lost or confused."
+        },
+        {
+            "text": "A government service needs a name that:"
+        },
+        {
+            "heading": 2,
+            "text": "When to rename your service"
+        },
+        {
+            "text": "There are many reasons why you may be considering renaming your service. Perhaps your research has shown you that people do not relate the existing name to the task at hand or use it naturally, perhaps they do not even really understand it. Maybe your data or usability testing suggests that some users are struggling, or failing, to find the service at all.\u00a0"
+        },
+        {
+            "text": "Equally, there are many reasons why services have ineffective names, but often they are based upon the internal jargon that was used when the idea of the service was first floated.\u00a0"
+        },
+        {
+            "text": "Sometimes, a bad service name has become so familiar to its users that it may actually be detrimental to change it."
+        },
+        {
+            "heading": 2,
+            "text": "Six steps to renaming an existing service"
+        },
+        {
+            "text": "We recently looked into renaming our two related services: claim reimbursement of import duties, VAT and other customs charges and claim repayment or remission of charges on rejected imports."
+        },
+        {
+            "text": "The names were not plain English and they were quite a mouthful. The words \u2018reimbursement\u2019 and \u2018remission\u2019 tested poorly with users as they were:"
+        },
+        {
+            "text": "So, we took the following six steps.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Learning from the naming experts"
+        },
+        {
+            "text": "This Service Manual guidance was a great starting point as it sets out the design principles behind a good service name, as well as giving tips on how to test a service name before and after go-live.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Learning from existing users: how do people currently find the service?"
+        },
+        {
+            "text": "In collaboration with the performance analyst, we looked at data from Google Analytics and Splunk and this gave us a good idea of what users were searching for before they reached the GOV.UK guidance and start pages. However, these insights were biassed as they only showed the searches that successfully reached the relevant pages. If you\u2019d failed to reach the page, you were not counted. We could not therefore take these searches as representative of all potential users and needed to conduct further analysis."
+        },
+        {
+            "heading": 3,
+            "text": "3. Considering the wider user base: searching online"
+        },
+        {
+            "text": "We used Wordstream search engine analysis and Google\u2019s \u2018people also ask\u2019 feature to see the search terms used by all those attempting to reach the service, regardless of whether they were successful or not."
+        },
+        {
+            "text": "We analysed the Wordstream data to come up with the most commonly used verbs and nouns. These findings were very different from the Google Analytics and Splunk data suggesting that some would-be users were not reaching the relevant GOV.UK pages. We also reflected both Google\u2019s suggested search terms and those used by novice users testing the end-to-end journey in our user research. This gave us confidence that we were on the right track."
+        },
+        {
+            "heading": 3,
+            "text": "4. Testing potential names: where would you click?"
+        },
+        {
+            "text": "Taking into account the insights from data analysis, qualitative research and government design principles, we created a shortlist of service names to test. We mocked up four different variants of a Google search results page which was then used in a first click test with the following scenario:\u00a0"
+        },
+        {
+            "text": "You think you have paid too much tax on some goods you ordered from abroad. You search for what to do. Please click on the link that you would think would be most helpful in this situation."
+        },
+        {
+            "text": "We were very careful not to use any of the potential names in the scenario to avoid biassing the results. 271 HM Revenue & Customs (HMRC) users participated in the first click test. Users were selected from those working in relevant fields and those with no experience to ensure the chosen name would be accessible to all."
+        },
+        {
+            "heading": 3,
+            "text": "5. Taking a step back"
+        },
+        {
+            "text": "Once we had the results from the first click test, we took a step back. We needed to consider how the top performing names met our service needs. Our chosen name had to:"
+        },
+        {
+            "text": "It is better to have a name that makes sense to users than one that exactly describes the HMRC processes. We opted for \u2018claim back import duty and VAT\u2019. One of the services that will come under this umbrella was originally called \u2018claim repayment or remission of charges on rejected imports\u2019. Claim back is not exactly synonymous with remission but it makes sense to users.\u00a0"
+        },
+        {
+            "text": "We decided not to use the popular word \u2018refund\u2019 in the service name as it could be misleading. However, we will use it in the meta description and guidance, where relevant, to help with findability."
+        },
+        {
+            "heading": 3,
+            "text": "6. Ongoing testing and monitoring"
+        },
+        {
+            "text": "This work isn\u2019t over. We\u2019ll keep testing the new name through usability testing and data analysis. For example, when the new guidance and start pages are in public beta, how are users reaching them? Have the metrics changed since the name change? Is there close alignment between what people are searching for on search engines, internally on GOV.UK and how they are reaching the pages?\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How else could you find the right name for your service?"
+        },
+        {
+            "text": "The six steps above worked well for our service but may not be right for yours. Here are some other methodologies you might like to consider.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Who can help you?\u00a0"
+        },
+        {
+            "text": "Like everything else in user-centred design, this should be a team effort. Include your:\u00a0"
+        }
+    ]
+}
