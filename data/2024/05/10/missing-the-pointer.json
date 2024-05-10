@@ -1,0 +1,112 @@
+{
+    "url": "https://technology.blog.gov.uk/2024/05/10/missing-the-pointer/",
+    "title": "Missing the Point(er)",
+    "authors": [
+        "Nick Woodcraft, Domains Product Owner, CDDO"
+    ],
+    "categories": [
+        "Security",
+        "Tools",
+        "Transformation"
+    ],
+    "pub_date": "2024-05-10T09:15:13+01:00",
+    "content": [
+        {
+            "text": "Email security policy for the UK Government has been fairly consistent for a while, so we were pleased when Google and Yahoo decided to tighten their email authentication requirements that align closely to our own guidance. One element that stands out however, is their requirement that all IP addresses must have a PTR (\u2018Pointer\u2019 or \u2018reverse DNS\u2019) record. This is also in our guidance, but was a little buried until a recent update.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What is a PTR?"
+        },
+        {
+            "text": "They are a less well known but important part of the anti-spam toolkit, and we probably ought to give them more attention than we have up to now. Google and Yahoo may be tightening their approach, but most other email providers use PTR records in their checks as well."
+        },
+        {
+            "text": "PTR records provide some reassurance that a sender is well established and trustworthy. When an email is received the IP address is checked for its PTR record. Google states:"
+        },
+        {
+            "text": "Every IP address must map to a hostname in the PTR record. The hostname specified in the PTR record must have a forward DNS that refers to the sending IP address."
+        },
+        {
+            "text": "This means the sending service has control of the IP address, the DNS associated with the IP address, and the sending hostname. Spammers are more likely to use short lived domains for sending, and spoof IP addresses, meaning they won\u2019t be able to get valid PTR records in place."
+        },
+        {
+            "text": "A lack of good PTR records won\u2019t always cause an email to be rejected, but it adds to the overall spam score and could be the thing that tips a message into the spam folder."
+        },
+        {
+            "heading": 3,
+            "text": "PTR in government"
+        },
+        {
+            "text": "Improving email security is a collective effort in the UK Government, across teams including the Government Security Group in Cabinet Office, the National Cyber Security Centre (NCSC), us in the Central Digital and Data Office (CDDO), and the Government Security Centre for Cyber. We also get help with implementation in the local sector from Information Security for London (ISfL)."
+        },
+        {
+            "text": "Across these organisations we\u2019ve looked at email sending IP addresses and at IP addresses in Sender Policy Framework (SPF) records. These records list the email sending sources approved to send email for a domain. A review of SPF records across the sector shows there are problems. Many include email sending services that are out of use, or have changed IP addresses."
+        },
+        {
+            "text": "It is vital that genuine messages from government to citizens are delivered, so in CDDO, NCSC, and ISfL we\u2019ve been doing some outreach to the organisations explaining the problem and providing help on how to fix it."
+        },
+        {
+            "heading": 3,
+            "text": "Identifying the problem"
+        },
+        {
+            "text": "Spotting when a PTR record is missing or broken can be difficult, particularly if you don\u2019t have great visibility of the services you use to send email. People in your organisation may notice email failing to deliver. It could be when they send from a particular source, like a mailing list service, or when they send to a particular provider like Google or Yahoo."
+        },
+        {
+            "text": "If you\u2019re signed up to the NCSC\u2019s Mail Check service (and if you look after email for a public sector organisation you definitely should be) you can send them your DMARC reports. Mail Check can tell you where problems lie, and specifically calls out when PTR records aren\u2019t set up correctly."
+        },
+        {
+            "heading": 3,
+            "text": "Looking up PTR records"
+        },
+        {
+            "text": "You can also check your records for yourself. If you have an IP address in your SPF record that\u2019s a good place to start. You can use dig (the Domain Information Groper) or a web-based dig-like tool like the Google Admin toolbox or Dig web interface."
+        },
+        {
+            "text": "Enter the IP address of your sending email service and lookup the PTR record:"
+        },
+        {
+            "text": "and it should return an in-addr.arpa record pointing to a valid domain."
+        },
+        {
+            "text": "For example, Mail Chimp sends some of its email on behalf of customers from 148.105.10.6.\u00a0 If we look up the PTR record for this:"
+        },
+        {
+            "text": "we get:"
+        },
+        {
+            "text": "If we then look for an A record of mail6.sea172.mcdlv.net.:"
+        },
+        {
+            "text": "we get:"
+        },
+        {
+            "text": "So the IP address points to a valid hostname AND that domain points back to the same IP address. This tells us that both the hostname and the IP address are linked and under some level of shared control, making email sent from this address more trustworthy."
+        },
+        {
+            "heading": 3,
+            "text": "What is in-addr.arpa?"
+        },
+        {
+            "text": ".in-addr.arpa domains are delegated to the owners of a network range. The owner of the IP address range also controls the DNS of the respective .in-addr.arpa domain and can create DNS records on it, including the all important PTR record."
+        },
+        {
+            "heading": 3,
+            "text": "Fixing the problem"
+        },
+        {
+            "text": "If you find an IP address that doesn\u2019t have working PTR record somewhere in your email sending services, you can look up the owner with the WHOIS command:"
+        },
+        {
+            "text": "or use a web based WHOIS lookup. For example, looking up the IP 148.105.10.6 again tells us it is delegated by ARIN (the American Registry of Internet Numbers) to MailChimp. There are five Regional Internet Registries (RIRs) providing Internet resource allocations, registration services and coordination activities for the internet.\u00a0"
+        },
+        {
+            "text": "Once you know who owns the IP address you\u2019ll need to contact them and ask them to put the PTR record in place. Some larger organisations or service providers may\u00a0 own their own IP addresses. Others may be owned by an Internet Service Provider and leased to the organisation running the email service. Whoever owns it, they\u2019ll need to add the record. This is a standard part of running a reliable email service and should always be provided."
+        },
+        {
+            "heading": 3,
+            "text": "Read my previous blogs on"
+        }
+    ]
+}
