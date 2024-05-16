@@ -1,0 +1,110 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/05/16/accessibility-tools-we-use-every-day/",
+    "title": "Accessibility tools we use every day",
+    "authors": [
+        "Alice Winters",
+        "Anna Scott",
+        "Marian Avery"
+    ],
+    "categories": [
+        "Accessibility",
+        "Defra content design",
+        "Defra digital"
+    ],
+    "pub_date": "2024-05-16T10:49:46+01:00",
+    "content": [
+        {
+            "text": "To mark Global Accessibility Awareness Day, we\u2019re sharing some of our content design team at Defra's go-to accessibility tools and guides. We're all responsible for making sure our content and services are accessible, these are some of the resources we use to help with that.\u00a0\u00a0"
+        },
+        {
+            "text": "Of course, we know there are lots of alternative tools out there, so if you use something different, share them in the comments.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "For a quick evaluation, the WAVE web accessibility evaluation tool\u00a0"
+        },
+        {
+            "text": "\u201cBack when I was a complete accessibility novice, WAVE web accessibility evaluation tool helped me to quickly evaluate many pages, some with complex functionality. More importantly, it let me understand and prioritise what needed improving.\u00a0"
+        },
+        {
+            "text": "\u201cNow, I use WAVE as a static analysis tool when I do audits and accessibility checks. The speed and easy-to-use functionality make WAVE great for a first pass before more in-depth manual testing.\u00a0\u00a0"
+        },
+        {
+            "text": "\u201cBecause it\u2019s a free tool that runs as a browser extension, it's also been very easy to get designers and developers to start using WAVE so that they can quickly check things for themselves. This forms good habits, which is vital for embedding accessibility best practice into the entire development process.\u201d\u00a0"
+        },
+        {
+            "text": "Zico Harris, Accessibility consultant\nFollow Zico on LinkedIn\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "To find out how many disabled people might be using your content, the \u2018how many\u2019 service\u00a0"
+        },
+        {
+            "text": "\u201cI regularly use the \u2018how many\u2019 service built by Defra\u2019s accessibility team to show stakeholders how many people using their content or service might be disabled. It also shows a breakdown of what disabilities that number might include.\u00a0\u00a0"
+        },
+        {
+            "text": "The service is really impactful, with figures proportional to the number of disabled people in the UK. It helps people realise that accessibility is for real people. It makes it easier to have conversations about why we cannot do something which would cause a barrier for disabled people. It\u2019s really useful, because we can base our decisions on data.\u201d\u00a0"
+        },
+        {
+            "text": "Helen Salter, Senior content designer\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "For assessing readability, the Hemingway App\u00a0\u00a0"
+        },
+        {
+            "text": "\u201cI use Hemingway App every day to test the readability of\u00a0my content. It highlights passive voice,\u00a0long sentences and gives me an average reading age for the content.\u00a0\u00a0"
+        },
+        {
+            "text": "I can edit straight in the browser so I can see how my content decisions affect the readability. By making sure content is as easy to read as possible, we help to make guidance accessible to everyone and easy to scan on a screen.\u201d\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Alice Winters, Senior content designer\nFollow Alice on LinkedIn\u00a0"
+        },
+        {
+            "text": "\"It\u2019s great to show stakeholders and subject matter experts as a baseline. It can be used to support co-design, as part of pair writing and to meet joint goals around readability.\"\u00a0"
+        },
+        {
+            "text": "Sandeep Dhaliwal, Senior content designer \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "To check colours, the Colour Contrast Checker\u00a0"
+        },
+        {
+            "text": "\u201cI use the colour contrast checker every time I design content where colour is involved. It\u2019s an easy way to check that text colour against object colour, against background colour, meets accessibility requirements. I also use it for checking different coloured segments of a chart against each other, and against their data labels. It\u2019s handy to use a tool which lets you select colours from webpages alongside it, for example a chrome extension called Eye Dropper.\u00a0"
+        },
+        {
+            "text": "A service designer at GDS built the checker because someone said a colour contrast analyser that could do 3 colours together would be very useful, and they were so right!\u201d\u00a0\u00a0"
+        },
+        {
+            "text": "Marian Avery, Content designer\nFollow Marian on LinkedIn\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "For extra colour checks, the Colour Blindness simulator\u00a0"
+        },
+        {
+            "text": "\u201cWe tend to publish a lot of charts and maps in Defra. I use the colour blindness simulator to do extra checks on the colours I\u2019ll use in those images before I input the data to the chart or map. You just upload a screenshot and the simulator adds a filter to show you what different types of colour blindness look like. I take notes on which colours may look visually similar, then explain to the stakeholders where some of these colours should change. For charts, I also recommend they use the chart colour palettes from Government Analysis Function. For maps, I recommend they use one of the more accessible colour palettes from the Coloring for Colorblindness blog.\u00a0"
+        },
+        {
+            "text": "The tool is also great to show examples of where a stakeholder may have unknowingly used only colour to convey meaning in a diagram, flowchart or infographic.\u201d\u00a0"
+        },
+        {
+            "text": "Ved Gobin, Content designer\nFollow Ved on LinkedIn\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Other things we love\u00a0"
+        },
+        {
+            "text": "Guidance and tools for digital accessibility is a collection of guidance, tools and training about accessibility.\u00a0\u00a0"
+        },
+        {
+            "text": "Do you have any favourite accessibility resources? We\u2019d love to hear about them in the comments!\u00a0"
+        }
+    ]
+}
