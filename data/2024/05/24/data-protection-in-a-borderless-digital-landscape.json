@@ -1,0 +1,55 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/05/24/data-protection-in-a-borderless-digital-landscape/",
+    "title": "Data protection in a borderless digital landscape",
+    "authors": [
+        "Benjamin Moore",
+        "Mark Durkee",
+        "Henry Ramsay",
+        "Christian Reimsbach-Kounatze"
+    ],
+    "categories": [
+        "Data",
+        "Data collection",
+        "Data-driven technology",
+        "Data-sharing"
+    ],
+    "pub_date": "2024-05-24T11:55:04+01:00",
+    "content": [
+        {
+            "text": "Privacy Enhancing Technologies (PETs) have become an increasingly important policy priority for governments, multilateral organisations, and the data privacy expert community. PETs refer to a range of digital technologies and techniques that enable the collection, processing, analysis, and sharing of information while safeguarding data confidentiality and privacy (OECD, 2023)."
+        },
+        {
+            "text": "For example, data obfuscation tools such as synthetic data combined with differential privacy can be used to generate insights or AI models without exposing sensitive or confidential data. In financial services, for instance, they can be applied to financial datasets for fraud detection and credit scoring without exposing the data of specific transactions or clients. And in health care, researchers can use these tools for disease prediction, drug discovery, and health policy analysis without accessing actual patient records, thus preserving patient privacy (see DSIT\u2019s repository of real-world use cases that leverage emerging PETs for further examples)."
+        },
+        {
+            "text": "However, the technical complexity and rapid evolution of PETs presents significant challenges not only for policymakers and regulators but also for organisations seeking to implement PETs into their existing business processes and data governance frameworks. This challenge is further exacerbated by the fact that the application of many PETs is confined to specific use cases, which remain largely unknown to prospective users. This raises questions about possible case-specific challenges that need to be addressed as policymakers and regulators seek to achieve wider, more effective, and appropriate adoption of PETs, in line with their regulatory and policy frameworks."
+        },
+        {
+            "text": "The UK government has led various initiatives to help realise the opportunities presented by PETs to enable trustworthy use of data. This included the UK-US PETs prize challenges, delivered jointly with US government partners, which challenged participants to develop privacy-preserving solutions\u00a0 capable of efficiently generating high-utility machine learning models for one of two predefined use-cases in finance and public health."
+        },
+        {
+            "heading": 4,
+            "text": "Co-Hosting the first OECD Expert Workshop on PETs and AI"
+        },
+        {
+            "text": "Against this backdrop, the UK and Estonia hosted the first OECD Workshop on PETs in London. This workshop, and the Task Force established to cohere it, sought to bring together world leading experts on data privacy to:"
+        },
+        {
+            "text": "The OECD is central to global thought leadership and cooperation on AI and Data governance and was the natural home for a joint initiative under the UK-Estonia Tech Partnership agreed by Prime Ministers Sunak and Kallas in September 2022. The implementation of AI-based solutions has emerged as a common thread in many of the Partnership\u2019s strands, and the workshop allowed us to learn from each other's approaches to ensuring privacy preserving innovation and building compatible approaches between EU and UK regulatory frameworks."
+        },
+        {
+            "heading": 4,
+            "text": "Key Areas of Discussion"
+        },
+        {
+            "text": "The workshop was focused around a range of concrete use cases for PETs. Discussion topics through the day included:"
+        },
+        {
+            "heading": 4,
+            "text": "Building an international PETs Community"
+        },
+        {
+            "text": "The UK-Estonia OECD PETs workshop established an international community of PETs experts, enabling a more coordinated international effort in support of the wider adoption of privacy enhancing technologies. The next PETs Workshop will be hosted by Singapore in July."
+        }
+    ]
+}
