@@ -1,0 +1,56 @@
+{
+    "url": "https://ukhodigital.blog.gov.uk/2024/05/28/how-content-first-design-can-improve-the-customer-experience/",
+    "title": "How content-first design can improve the customer experience",
+    "authors": [
+        "Dave Alexander"
+    ],
+    "categories": [
+        "UKHO",
+        "User Experience",
+        "User Experience"
+    ],
+    "pub_date": "2024-05-28T12:49:35+01:00",
+    "content": [
+        {
+            "text": "At the UK Hydrographic Office (UKHO), we are committed to innovating to find solutions to our end users' problems."
+        },
+        {
+            "text": "Our user-centred design (UCD) team of user researchers, content designers and user interaction designers guide teams to improve experiences and engage users to test hypotheses and proposed solutions. Together, the UCD team ensures that we are always maturing our customer-centric approach as an organisation, working to serve the needs of a changing market."
+        },
+        {
+            "text": "Two years ago, we wrote a blog about a week-long design sprint we conducted to solve user problems, drawing from ideas and expertise across the organisation. While the 2022 design sprint enabled our staff to collaborate and take time away from day-to-day work to solve problems, we have seen the most significant benefit in using dedicated multi-disciplinary teams for digital delivery to improve customer and user experiences."
+        },
+        {
+            "text": "The UCD team's recent work to improve the UKHO Data Upload service used a content-first methodology, relying on UK government UCD processes to engage with customers and test and improve their experiences."
+        },
+        {
+            "heading": 2,
+            "text": "Using a content-first approach"
+        },
+        {
+            "text": "The UKHO Data Upload service enables data suppliers like ports to share their bathymetric data with us. As these users are busy and may only upload data occasionally, it is crucial that the content on our website is clear, unambiguous and doesn't use complex wording. We had to go above and beyond to remove any potential hurdles, such as problems with using forms, hard-to-understand language or visually unattractive formatting, as this could negatively impact the number of users willing to use the service; this is where a content-first approach comes in."
+        },
+        {
+            "text": "Consider a digital form. How do you transpose an existing paper-based form into an online version that is quicker and easier to use? It might be tempting \u2013 particularly where customers are very accustomed to a particular way of working \u2013 to keep the questions and the structure of that form the same and move it into the online environment."
+        },
+        {
+            "text": "We designed, tested and iterated the experience for users to complete the upload form more quickly and successfully while maintaining vital content for sharing data."
+        },
+        {
+            "heading": 2,
+            "text": "Putting the end user at the heart of decision-making"
+        },
+        {
+            "text": "The UKHO's UCD team works to ensure decision-making always remains user-centric. The team involved in delivering the UKHO Data Upload service worked in three-week sprints. We spent the first week preparing and defining our focus, choosing a particular user problem and preparing our approach. We spent the second week collaborating, sharing ideas and starting development work on our solutions. In the final week, we test, gather user feedback and use technology to observe how our users interact with our design."
+        },
+        {
+            "text": "We review our work throughout, using ten usability heuristics and working with our colleagues across the organisation to ensure we implement our work correctly."
+        },
+        {
+            "text": "With the UKHO Data Upload service and where we've iteratively improved content design, there's been a clear positive user response to the changes. One example of this was changing the terminology for duplicating and editing a previously sent survey of a port to make it easier and quicker to send new surveys. Here, we changed the word copy, which users found confusing, to template, which users instinctively understood as it matched their intended action."
+        },
+        {
+            "text": "At its core, user experience design is about creating high-quality, functional and user-centric products. Digital products designed with user-centred methodologies and content-first design tend to be more intuitive and easy to use. They minimise risk, reduce costs and ensure a positive user experience. Consequently, users are more likely to engage with and revisit the products and services we design, enabling them to achieve their goals and helping the UKHO to execute its Public Task and responsibilities."
+        }
+    ]
+}
