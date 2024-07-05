@@ -1,0 +1,53 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2024/07/05/improving-our-website-search/",
+    "title": "Improving our website search",
+    "authors": [
+        "Martin O'Brian",
+        "Rob Thomlinson"
+    ],
+    "categories": [
+        "Technology",
+        "Website"
+    ],
+    "pub_date": "2024-07-05T11:14:24+01:00",
+    "content": [
+        {
+            "text": "ONS.GOV.UK has a vast website estate. There are nearly 4 million pages and downloadable files covering an enormous range of information and statistics related to the economy, population, and society at national, regional and local levels \u2013 all published to deliver our mission: statistics for the public good. With around 2 million page views a month, our website is the primary platform for us to deliver high quality data to inform the UK, improve lives and build for the future."
+        },
+        {
+            "text": "Most other government departments must use GOV.UK for their news, announcements, services, and general information, but the quantity and variety of our content is best suited to a dedicated website communicating our unique statistical content to users."
+        },
+        {
+            "text": "Therefore, it\u2019s essential that our website gives our users the information they need and when they need it."
+        },
+        {
+            "heading": 2,
+            "text": "A more natural way to search"
+        },
+        {
+            "text": "A very important part in doing this is through the website search and we\u2019ve introduced a more natural way to search using Natural Language Processing (NLP) to better give users the information they need."
+        },
+        {
+            "text": "We\u2019ve been A/B testing the new search on our website where some users would get the new NLP search and others would get the previous search.\u00a0 We've now switched to full NLP search where all users will have their results generated using the new search."
+        },
+        {
+            "text": "Previously, the website search took the words entered in the search bar and matched them directly to the index, providing the links to the pages in the search results.\u00a0 The new search introduces a further step \u2013 to understand better what the user is searching for."
+        },
+        {
+            "text": "This means a user can use natural language in the search bar, for example, asking questions such as \u201cwhat is the inflation rate\u201d.\u00a0 Previously, the search engine would have looked for matches of all words in the index, giving each one an equal weighting when the important part of the search is really \u201cinflation\u201d."
+        },
+        {
+            "text": "The new search breaks the question down, ignoring \u201cwhat\u201d, \u201cis\u201d and \u201cthe\u201d and weighting \u201cinflation\u201d higher than \u201crate\u201d because \u201crate\u201d is more present in our content than \u201cinflation\u201d."
+        },
+        {
+            "text": "Once the search words have been weighted, the search then looks for what those words mean in the context of our outputs \u2013 identifying close neighbours of the words, words which regularly appear alongside them and the topics they appear in."
+        },
+        {
+            "heading": 2,
+            "text": "Richer search results"
+        },
+        {
+            "text": "The search results can be more relevant to what the user is searching for with the results also presented in order of weighting. Our aim is to provide the user with richer search results to increase the probability of them finding what they were looking for.\u00a0We\u2019ve released these changes as a Public Beta, we\u2019ll monitor and analyse search performance through July to see how much difference they\u2019ve made and to prioritise further development work."
+        }
+    ]
+}
