@@ -1,0 +1,106 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2024/07/11/a-simpler-clearer-and-faster-way-to-decide-when-to-consult-natural-england-on-planning-applications-that-might-affect-a-sssi/",
+    "title": "A simpler, clearer and faster way to decide when to consult Natural England on planning applications that might affect a SSSI",
+    "authors": [
+        "Natural England"
+    ],
+    "categories": [
+        "Development",
+        "Mapping",
+        "Protected sites and species",
+        "Site of Special Scientific Interest"
+    ],
+    "pub_date": "2024-07-11T10:41:22+01:00",
+    "content": [
+        {
+            "text": "By Sarah Middlehurst, Senior Officer, Natural England"
+        },
+        {
+            "text": "Today sees the launch of a new tool that will help local planning authorities (LPAs) decide when to consult Natural England on planning applications that might impact a SSSI."
+        },
+        {
+            "text": "The new and improved Impact Risk Zones for Sites of Special Scientific Interest (SSSI IRZs) is a milestone for Natural England as we make our shift to managing planning consultations more efficiently and focus our engagement where it can make the biggest impact for nature."
+        },
+        {
+            "text": "The SSSI IRZs are a geographical information system (GIS) tool that can highlight whether a development proposal poses a risk to the notified features of SSSIs at any given location and require consideration by Natural England."
+        },
+        {
+            "text": "This latest chapter in the long history of SSSI IRZs makes the tool easier to access, use and interpret, providing a simple step by step journey, more helpful guidance and in certain circumstances, instant advice as a formal consultation response."
+        },
+        {
+            "text": "Our aim is to provide LPAs with a simpler, clearer and faster way to decide when to consult us, reducing unnecessary delays in the planning process. In turn this allows Natural England to concentrate resources on development proposals with the highest risks and opportunities for nature recovery."
+        },
+        {
+            "text": "How it all began"
+        },
+        {
+            "text": "My involvement with the SSSI IRZs started in 2014. Back then they had already been around for three years, albeit under a different name and only used internally to help Natural England decide how best to handle consultations."
+        },
+        {
+            "text": "I was brought on to the project to help turn the SSSI IRZs into a consultation support tool for LPAs. I led on the publication and communications, drawing on my experience as a local authority planning officer in Greater Manchester. The aim was to reduce the many thousands of unnecessary planning consultations received by Natural England each year for developments that were unlikely to pose a risk to SSSIs."
+        },
+        {
+            "text": "The publication of the SSSI IRZs was a great achievement for the small but dedicated IRZ project team, but our work didn\u2019t stop there."
+        },
+        {
+            "text": "Since this first release we have continued to raise awareness of SSSI IRZs and carry out regular updates to ensure they reflect the latest evidence and are focused on where risks to SSSIs are most likely."
+        },
+        {
+            "text": "While the uptake by LPAs and the feedback we received was good, we knew there was more we could do."
+        },
+        {
+            "text": "In 2016, we introduced advice into the tool to guide LPAs without the need for a consultation. However, there were limits to the amount of advice the SSSI IRZs could hold and with the demand increasing, we decided to explore how we could improve the functionality of the tool."
+        },
+        {
+            "text": "Improving the tool for users "
+        },
+        {
+            "text": "Working with our contractors, the Geodata Institute at Southampton University, we developed and piloted a prototype in a new format. Building on our original success, the prototype was still for use within a GIS mapping system, but now with the information and advice presented on a webpage accessed by a hyperlink. With positive results we were given approval to roll out this new design nationally."
+        },
+        {
+            "text": "Over the last couple of years, I have become a senior officer for the IRZs project team and seen the team grow while working tirelessly to make the new SSSI IRZs tool a reality."
+        },
+        {
+            "text": "As well as the technical work to improve the functionality of the tool, we have over the past year been out testing it with our users and responding to their feedback. This has made sure we have created a tool that works for all and meets accessibility standards."
+        },
+        {
+            "text": "The new SSSI IRZs tool is now simpler to use, easier to interpret, and can hold and compile any amount of advice relevant to a location and include hyperlinks to guidance."
+        },
+        {
+            "text": "We hope that the improved user experience and the benefits of getting instant advice from Natural England will increase use among LPAs, providing them with a simpler, clearer and more efficient service from Natural England, while enabling us to focus on delivering positive outcomes for nature."
+        },
+        {
+            "text": "It has been challenging at times but I\u2019m extremely proud of what our small team has achieved. I am now looking forward to us embarking on the next phases of the project, to expand the use of the SSSI IRZs tool to deliver a greater range of planning responses and further help nature recovery through planning and development."
+        },
+        {
+            "text": "The new SSSI IRZs tool is available now as a Web Map Service (WMS) with WMS standard GetFeatureInfo functionality and as a downloadable shapefile for use on a GIS mapping system from:"
+        },
+        {
+            "text": "It is also available on the free to use government\u2019s interactive mapping website MAGIC (defra.gov.uk)."
+        },
+        {
+            "text": "If you would like to be added to our mailing list, have questions or feedback on the new SSSI IRZs tool, please email the IRZs mailbox."
+        },
+        {
+            "text": "How it works"
+        },
+        {
+            "text": "The above image shows IRZs around Dungeness, Romney Marsh & Rye Bay SSSI, SPA and SAC to demonstrate how we create the SSSI IRZs."
+        },
+        {
+            "text": "To establish IRZs for a site, we assess the sensitivities of the notified features against a set of potential impacts that could result from development proposals such as:"
+        },
+        {
+            "text": "Based on that assessment, we create a set of IRZs for the site at varying distances and for different categories of developments that can result in those impacts. These are indicated by symbols on the image and include Infrastructure, Residential, Waste, Wind and Solar."
+        },
+        {
+            "text": "Within each of those development categories different criteria and scales of development apply at different distances. The distance over which the risk of impact from a development type and scale extends is determined following evidence-based advice from Natural England\u2019s specialists."
+        },
+        {
+            "text": "We then combine all these individual site IRZs, and the result is a very complex dataset with many different overlapping zones relating to different SSSIs in any given location. To simplify this for users, we consolidate the information for different SSSIs is into a single data layer that summarises the risk at a location and displays the lowest threshold criteria present for each development category."
+        },
+        {
+            "text": "The image showing the timeline of SSSI IRZs development:"
+        }
+    ]
+}
