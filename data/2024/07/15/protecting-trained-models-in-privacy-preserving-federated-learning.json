@@ -1,0 +1,77 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/07/15/protecting-trained-models-in-privacy-preserving-federated-learning/",
+    "title": "Protecting Trained Models in Privacy-Preserving Federated Learning",
+    "authors": [
+        "Mark Durkee",
+        "Joe Near",
+        "David Darais"
+    ],
+    "categories": [
+        "Data",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-07-15T11:03:07+01:00",
+    "content": [
+        {
+            "text": "This post is part of a series on privacy-preserving federated learning. The series is a collaboration between the Responsible Technology Adoption Unit (RTA) and the US National Institute of Standards and Technology (NIST). Learn more and read all the posts published to date on our blog or at NIST\u2019s Privacy Engineering Collaboration Space."
+        },
+        {
+            "text": "The last two posts in our series covered techniques for input privacy in privacy-preserving federated learning in the context of horizontally and vertically partitioned data. To build a complete privacy-preserving federated learning system, these techniques must be combined with an approach for output privacy, which limit how much can be learned about individuals in the training data after the model has been trained.\u00a0"
+        },
+        {
+            "text": "As described in the second part of our post on privacy attacks in federated learning, trained models can leak significant information about their training data\u2014including whole images and text snippets.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Training with Differential Privacy\u00a0"
+        },
+        {
+            "text": "The strongest known form of output privacy is differential privacy. Differential privacy is a formal privacy framework that can be applied in many contexts; see NIST\u2019s blog series on this topic for more details, and especially the post on differentially private machine learning.\u00a0\u00a0"
+        },
+        {
+            "text": "Techniques for differentially private machine learning add random noise to the model during training to defend against privacy attacks. The random noise prevents the model from memorising details from the training data, ensuring that the training data cannot later be extracted from the model. For example, Carlini et al. showed that sensitive training data like social security numbers could be extracted from trained language models, and that training with differential privacy successfully prevented this attack.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Differential Privacy for Privacy-Preserving Federated Learning\u00a0"
+        },
+        {
+            "text": "In centralised training, where the training data is collected on a central server, the server can perform the training and add noise for differential privacy all at once. In privacy-preserving federated learning, it can be more difficult to determine who should add the noise and how they should add it.\u00a0"
+        },
+        {
+            "text": "Figure 1: FedAvg with differential privacy, for privacy-preserving federated learning on horizontally partitioned data. Modifications to the FedAvg approach are highlighted in red. These modifications add random noise to each update, so that the aggregated noise samples are sufficient to ensure differential privacy for the trained global model.\u00a0"
+        },
+        {
+            "text": "For privacy-preserving federated learning on horizontally partitioned data, Kairouz et al. present a variant of the FedAvg approach described in our fourth post. In this approach, visualised in Figure 1, each participant performs local training, then adds a small amount of random noise to their model update before aggregating it with the updates of other participants. If each participant correctly adds noise to their update, then the new aggregated model will contain sufficient noise to ensure differential privacy. This technique provides output privacy, even in the case of a malicious aggregator. The Scarlet Pets team used a variant of this approach in their winning solution for the UK-US PETs Prize Challenges.\u00a0"
+        },
+        {
+            "text": "In the case of vertically partitioned data, ensuring differential privacy can be complicated. The noise required for differential privacy cannot be added before entity alignment, because it will prevent data attributes from matching up correctly. Instead, the noise must be added after entity alignment, either by a trusted participant or via techniques like homomorphic encryption or multiparty computation.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Training Highly Accurate Differentially Private Models\u00a0"
+        },
+        {
+            "text": "The random noise required for differential privacy can affect model accuracy. More noise generally leads to better privacy, but worse accuracy. This tradeoff between accuracy and privacy is often called the privacy-utility tradeoff.\u00a0\u00a0"
+        },
+        {
+            "text": "For some kinds of machine learning models, including linear regression models, logistic regression models, and decision trees, this tradeoff is easy to navigate - the approach described earlier often works to train highly accurate models with differential privacy. In the UK-US PETs Prize Challenge, both the PPMLHuskies and Scarlet Pets teams used similar techniques to train highly accurate models with differential privacy.\u00a0"
+        },
+        {
+            "text": "For neural networks and deep learning, the sheer size of the model itself makes training with differential privacy more difficult \u2013 larger models require more noise to achieve privacy, which can significantly reduce accuracy. While these kinds of models were not part of the UK-US PETs Prize Challenges, they are increasingly important across all applications of generative AI, including large language models. \u00a0"
+        },
+        {
+            "text": "Recent results have shown that models pre-trained on publicly available data (without differential privacy) and then fine-tuned with differential privacy can achieve much higher accuracy than models trained only with differential privacy. For example, Li et al. show that pre-trained language models can be fine-tuned with differential privacy and achieve nearly the same accuracy as models trained without differential privacy. These results suggest that for domains where publicly available data can be used for pre-training\u2014including language and image recognition models\u2014privacy-preserving federated learning that achieves both privacy and utility is feasible.\u00a0\u00a0"
+        },
+        {
+            "text": "This approach does not offer any privacy protection for the public data used during pre-training, so it\u2019s important to ensure that use of this data respects relevant privacy and intellectual property rights (the legal and ethical considerations around this are outside of the scope of this blog series).\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Coming up next\u00a0"
+        },
+        {
+            "text": "In our next post, we\u2019ll discuss implementation challenges when deploying privacy-preserving federated learning in the real world.\u00a0"
+        }
+    ]
+}
