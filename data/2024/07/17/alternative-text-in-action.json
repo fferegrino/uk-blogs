@@ -1,0 +1,151 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/07/17/alternative-text-in-action/",
+    "title": "Alternative text in action",
+    "authors": [
+        "Katherine Moonan - Senior Accessibility Specialist",
+        "Samantha Merrett - Senior Accessibility Specialist - Ministry of Justice"
+    ],
+    "categories": [
+        "Accessibility",
+        "Design"
+    ],
+    "pub_date": "2024-07-17T11:15:02+01:00",
+    "content": [
+        {
+            "text": "We want to share some top tips on writing and using alternative text to encourage everyone to add it into their content every day. Our tips can be applied no matter what software or application you\u2019re using."
+        },
+        {
+            "heading": 2,
+            "text": "Writing alternative text that matters"
+        },
+        {
+            "text": "Images are often used without alternative text (alt text) in documents, newsletters and social media. Chris Jenkins, a civil servant and screen reader user from Department of Environment and Rural Affairs (Defra) described not adding alt text as being like dropping litter."
+        },
+        {
+            "text": "\u201cPeople leave out alt text because they forget or they don't think it's important to add it. Well, to me and people in my situation, it\u2019s the equivalent of litter dropping in the sense that people do it. It's not really acceptable, but because other people see other people doing it, they think \u2018Well, I can get away with that\u2019 and the problem with that is the screen reader user can't guess at what an image is.\u201d"
+        },
+        {
+            "text": "We want to share some top tips on alt text to encourage everyone to add it into their content every day. Our tips can be applied no matter what software or application you\u2019re using."
+        },
+        {
+            "heading": 2,
+            "text": "A note on terms we use"
+        },
+        {
+            "text": "In the article, we shorten alternative text to alt text. We use this term to include:"
+        },
+        {
+            "heading": 2,
+            "text": "Find out the basics of alt text"
+        },
+        {
+            "text": "If you\u2019re very new to alt text or you\u2019d like a refresher please go through the following resources for an introduction."
+        },
+        {
+            "heading": 2,
+            "text": "Writing alt text is easy but writing good alt text can be hard"
+        },
+        {
+            "text": "Alt text is one of the easiest techniques to apply but getting it right can be difficult. Writing good alt text is about considering different factors including:"
+        },
+        {
+            "text": "Alt text decision trees can help you write better alt text by filtering through common scenarios such as whether the image includes text. Use the tree if you want to improve your skills or to assist you with a more challenging image."
+        },
+        {
+            "heading": 2,
+            "text": "Alt text in action\u00a0"
+        },
+        {
+            "text": "Let\u2019s explore a some examples of using alternative text in different scenarios."
+        },
+        {
+            "heading": 3,
+            "text": "Add alt text on the page so everyone can access it"
+        },
+        {
+            "text": "Image guidance from GDS (Government Digital Service) suggests you leave the \u2018alt text\u2019 empty and write a description of the image in the body text instead. This means the description is then available to everyone. Including alt text on the page removes more barriers because it\u2019s also useful to people with low vision and visual processing disorders."
+        },
+        {
+            "text": "If you\u2019ve been used to adding alt text as visually hidden content, it might be hard to break the habit and start adding it to the page. To encourage you to do this we want to highlight the positive impact it can have."
+        },
+        {
+            "text": "We asked content designer and accessibility specialist Marian Avery to tell us why it\u2019s important to include alt text on the page. Marian is also visually impaired and uses a screen magnifier.\u00a0"
+        },
+        {
+            "text": "\u201cMagnification users often struggle to see images because most images pixelate when enlarged. Lots of visually impaired people may be visiting your page without using assistive technology. This is especially true for older people or people who are newly diagnosed.\u00a0"
+        },
+        {
+            "text": "You should also consider someone reading your page in bright sunlight - the hardest bits to see are probably the images. Describing them on the page helps everyone.\u201d"
+        },
+        {
+            "text": "Marian shared some practical tips on how to use alt text and text on the page together."
+        },
+        {
+            "text": "\u201cYou can still use the alt text field to tell people that the image is described on the page, and where that description is. This gives reassurance to screen reader users who are used to something being in the alt text field. It's better to use it as a pointer rather than repeating the description and creating\u00a0 'auditory clutter' for screen reader users.\u201d"
+        },
+        {
+            "text": "Moving from alt text being visually hidden to alt text being visible on the page is an emerging practice. Marian\u2019s advice is slightly different from the GDS guidance to not use the alt attribute at all. We think this is a valid technique to try out until we learn more about user preferences and behaviour."
+        },
+        {
+            "text": "Marian also highlighted the value of show alt text buttons."
+        },
+        {
+            "text": "\u201cPlatforms like X (formerly Twitter) and Slack make image descriptions for everyone with a visible 'alt' button. Where you don't have that option, image descriptions on the page are the most helpful way to go.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Alt text and AI using shortcuts for alt text"
+        },
+        {
+            "text": "Adding alt text to lots of images at one time can be time consuming. This might prompt you to start looking at artificial intelligence (AI) to see if it can do your job for you. AI uses image recognition to write a description of the image. It might seem like a simple solution, if the computer can describe my images for me, then why do I need to get involved?\u00a0"
+        },
+        {
+            "text": "The problem is the computer often provides a very literal description of what the image contains and fails to take into account wider context.\u00a0"
+        },
+        {
+            "text": "We ran a quick experiment with an online alternative text generator. We picked an image of different-coloured apples, red, yellow and green in a large white bowl.\u00a0"
+        },
+        {
+            "text": "The alternative text generator produced the following results:"
+        },
+        {
+            "text": "Although the first three descriptions are not incorrect they are also not very accurate. A couple of the descriptions mention a wooden table or bowl but this is not visible in the picture. Also, none of the descriptions mention the green or yellow apples on display. The fourth description is simply incorrect and of no use.\u00a0"
+        },
+        {
+            "text": "As this experiment shows, human descriptions are more accurate. We are able to describe images using clear and consistent language and take into account the surrounding context.\u00a0"
+        },
+        {
+            "text": "You may choose to use automatically generated descriptions to draft alt text and then you can manually check that they are correct and appropriate before you publish.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Broadening your reach on social media"
+        },
+        {
+            "text": "Everyone should be able to enjoy quality content online. Adding alt text to your social media posts makes your content more accessible. Here are our alt text \u2018must-knows\u2019 for creating high quality and accessible social media content.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Flowcharts"
+        },
+        {
+            "text": "A flowchart is a diagram that represents a workflow or process. They aim to guide readers through a complex process in a visual manner but this makes them inaccessible for non-visual readers.\u00a0"
+        },
+        {
+            "text": "Always include a structured text version of the chart, using headings, lists or a data table. That way there is no need to provide complex alt text, it could simply say: \u2018Flow chart for [name of process], full description on page.\u2019\u00a0"
+        },
+        {
+            "text": "Chris Jenkins explains the importance of presenting data in multiple ways; \u2018People often need time to process the complexities or subtleties in charts.The more ways that you can provide the information will help people make sense of that data, whether they are experts or novices\u2019."
+        },
+        {
+            "heading": 3,
+            "text": "Infographics"
+        },
+        {
+            "text": "Infographics are about visual storytelling. They are intended to present information quickly and \u2018at a glance\u2019. However, to make them accessible, we recommend a two-step approach: first, write a short description that describes your infographic, keep it brief; then write a long description, communicating all the essential information, including any text that is part of the image.\u00a0"
+        },
+        {
+            "text": "Chris Jenkins explains \u2018If you're looking at inclusion and accessibility then you need to consider all user needs rather than just prioritising the visual. It's important to try and describe that for people who don't have the means to visually access it themselves.\u2019"
+        }
+    ]
+}
