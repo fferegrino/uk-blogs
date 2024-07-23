@@ -1,0 +1,130 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/07/23/generative-ai-in-government-dbts-next-steps/",
+    "title": "Generative AI in government: DBT\u2019s next steps",
+    "authors": [
+        "Jamie Laing - Service Owner for Export Promotion",
+        "Anthony Coyne, Head of Data Science",
+        "Will Langdale, Data Scientist",
+        "Martina Marjanovic - Head of Monitoring and Evaluation for Export and Investment"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2024-07-23T12:18:43+01:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Jamie Laing"
+        },
+        {
+            "text": "In our recent blog we discussed our work to develop and use artificial intelligence (AI) tools safely. We promised to share our findings as this work progresses.\u00a0"
+        },
+        {
+            "text": "Our team have since added to this by developing a new impact assessment for the use of generative AI in public-facing services.\u00a0"
+        },
+        {
+            "text": "We have also been working with the Government Digital Service (GDS) on their first AI experiment where they invited 1,000 users to access an experimental chatbot for government information, called GOV.UK Chat. GDS have published the headline findings from the trial on the Inside GOV.UK blog.\u00a0"
+        },
+        {
+            "text": "Finally, one of our team was seconded to 10 Downing Street to work on the Redbox Copilot. This tool is designed to summarise Civil Service documents.\u00a0"
+        },
+        {
+            "text": "We wanted to share what further lessons we have taken from the last few months\u2019 work and how we plan to continue exploring the value of this emerging technology.\u00a0"
+        },
+        {
+            "text": "Background"
+        },
+        {
+            "text": "Anthony Coyne"
+        },
+        {
+            "text": "Generative AI has emerged recently as subset of AI which allows users to create their own content based on prompts. Large Language Models (LLMs) are a form of generative AI that take input in the form of text. They then return information that the LLM has determined is a statistically relevant response, or that sounds like a relevant answer."
+        },
+        {
+            "text": "However, there are issues related to accuracy, bias and data privacy which have been raised extensively as part of the wider conversation happening in this space. Public-facing services in government need to be particularly mindful of these risks.\u00a0\u00a0"
+        },
+        {
+            "text": "We are learning about the value of these tools for public facing services through collaborating across government. By working together with other departments, sharing lessons and emerging best practice, we can learn faster and reduce the need for duplicate experiments.\u00a0\u00a0"
+        },
+        {
+            "text": "Working with GDS on GOV.UK Chat\u00a0"
+        },
+        {
+            "text": "Jamie Laing\u00a0"
+        },
+        {
+            "text": "It was welcome news that GDS were experimenting with this technology and moreover that the first experiment, a first prototype of GOV.UK Chat, was taking a\u00a0focus on business content. This is an important area of GOV.UK where we think\u00a0there are opportunities to improve the user experience. This work was a chance to\u00a0learn lessons together about new ways to do this.\u00a0\u00a0"
+        },
+        {
+            "text": "We agreed a partnership over Autumn 2023 with GDS where DBT could provide guidance on what we already knew about our users.\u00a0"
+        },
+        {
+            "text": "For the trial, 1,000 users were invited to access the tool, and were prompted to \u201cuse this service to ask questions about business and trade\u201d. The user experience is similar to ChatGPT. The responses were produced using only GOV.UK content.\u00a0"
+        },
+        {
+            "text": "Colleagues from our Content Design team joined GDS in an exercise where they went through the answers provided by GOV.UK Chat. Together the team evaluated the accuracy of the answers compared to the source content.\u00a0"
+        },
+        {
+            "text": "You can learn more about this and the lessons learned in the trial by reading GDS\u2019 blog on the work.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "Redbox Copilot: a gain for productivity?\u00a0"
+        },
+        {
+            "text": "Will Langdale\u00a0"
+        },
+        {
+            "text": "It might surprise you to learn there\u2019s quite a lot of paperwork in the Civil Service. For fairness, transparency and rigour, the UK government spends a lot of time producing and synthesising vast quantities of information about incredibly specialised subjects. In DBT, this important work can see Civil Servants dealing with everything. This can include the arcane language of international trade agreements, to protecting consumers with regulatory guidance for products and services. Can generative AI help?"
+        },
+        {
+            "text": "We think so. Redbox Copilot is a tool being developed by the Cabinet Office. It will aim to help Civil Servants extract, summarise and synthesise information on specialised subjects from documents the length of a bookshelf. Summarisation is a well-trodden use case for this technology. But can we generate the kind of specialised summaries Civil Servants require with the same accuracy, and faster?\u00a0"
+        },
+        {
+            "text": "Redbox Copilot is in very early stages. However, DBT sees enough potential to temporarily loan staff to its development and begin building the evaluations that will show whether it\u2019s hitting those key metrics of accuracy and speed. We will soon launch a small private beta where we will open the tool to an invited group of selected users to answer these vital questions.\u00a0"
+        },
+        {
+            "text": "Assessing the impact of Large Language Models"
+        },
+        {
+            "text": "Martina Marjanovic"
+        },
+        {
+            "text": "Understanding the accuracy and quality of these models was the primary goal of this project. However, we need to be able to assess the real-world impact of their use before making tools like these available outside of a trial.\u00a0"
+        },
+        {
+            "text": "For this reason, we took this opportunity to develop a framework for setting up robust evaluations of LLM-type government interventions. We believe that public-facing LLMs in DBT should ideally be deployed in the form of a small trial. This would randomly allocate some users to the LLM-based tool and others to a \u2018control\u2019 or \u2018comparison\u2019 group. Although we recognise that a randomised controlled trial might not always be feasible, this will allow us to understand what would have happened without an intervention. It also helps us discover the impact of any unforeseen consequences.\u00a0"
+        },
+        {
+            "text": "All trials will need to collect robust baseline data and monitor what is happening throughout. They must then return to users and the comparison group to learn more about the impacts after the trials are closed.\u00a0"
+        },
+        {
+            "text": "The framework also sets out that any decision to use generative AI in DBT\u2019s public-facing services should be preceded by an economic appraisal of the potential options. This will ensure that the LLM-based option is the most effective way to provide a service in the specific context that it is being looked at.\u00a0 A value for money assessment should be conducted following delivery and be informed by the trail evaluation results. This will identify whether the use of an LLM has and will continue to provide the best use of public resources.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "What\u2019s next?\u00a0"
+        },
+        {
+            "text": "Jamie Laing\u00a0"
+        },
+        {
+            "text": "We have learned some important lessons about where we need to put in guardrails to deploy this technology. In addition, we have developed a new impact assessment framework for generative AI. Our teams are now better equipped to investigate the possibility of incorporating large language models into their work or services.\u00a0"
+        },
+        {
+            "text": "We plan to build on this work through a review of potential use cases for this technology in DBT. We will explore both internal and external use options for the next trial. \u00a0"
+        },
+        {
+            "text": "In the meantime, we will continue to build on this work with GDS, bringing in our other links across government, including 10 Downing Street and the Alan Turing Institute. This will foster a community around the Data Science and Monitoring & Evaluation teams working in this area. \u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
