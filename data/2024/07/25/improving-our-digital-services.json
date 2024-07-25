@@ -1,0 +1,79 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2024/07/25/improving-our-digital-services/",
+    "title": "Improving our digital services",
+    "authors": [
+        "Matthew Thomas, Digital Registration Service Product Manager"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2024-07-25T12:08:59+01:00",
+    "content": [
+        {
+            "text": "We have made a number of key improvements to our digital services over the last year. HM Land Registry became \u2018Digital by Default\u2019 in November 2022 and, drawing on feedback from customers, we continue to adapt our services to more closely meet their needs.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Between April 2023 and April 2024, there were approximately 8,000 daily portal users, collectively making a total of 4,000,000 visits and almost 1.5 million applications were submitted through our Digital Registration Service (DRS).\u00a0 Just under 3,000 customers now have access to Business Gateway which is software connected to our services through APIs (Application Programming Interfaces). The move to digital is a crucial part of our efforts to provide a faster registration service.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "HM Land Registry portal\u00a0"
+        },
+        {
+            "text": "We enhanced the View Applications tool on the portal which helps users to manage their applications and easily find related correspondence. Early in the year we introduced flags against applications that had outstanding requisitions, as well as a filter function to isolate those that needed a response. This change has made it much easier to find requisitions, reducing customers\u2019 reliance on emails.\u00a0"
+        },
+        {
+            "text": "Also on the portal, our DRS made it much easier to save applications which are still being drafted, meaning that work is not lost if users need to disconnect or close an application halfway through. We also made it possible to edit all essential details within a draft application.\u00a0"
+        },
+        {
+            "text": "Customers have also been telling us more about how they work, sharing applications with colleagues, which had historically been an issue when using the DRS. In December, we introduced the function for users to access their colleagues\u2019 applications, complete and submit them as well as transfer applications between colleagues.\u00a0"
+        },
+        {
+            "text": "Customers noted that this not only made the DRS more user-friendly, saving them a significant amount of time, but it will also help with training new staff who have applications checked before submission.\u00a0"
+        },
+        {
+            "text": "We are continuing to respond to customer feedback and make enhancements to the portal. Most recently, we have enhanced Estimated Completion Date so the date is more accurate, enabling greater clarity and understanding of when a submitted application will be completed, and improved filters for requisitions and warnings of cancellation in View Applications.\u00a0"
+        },
+        {
+            "text": "We have also increased file size from 20mb to 40b for files that are being uploaded or downloaded in the portal to allow greater flexibility when uploading and downloading documents to and from the portal."
+        },
+        {
+            "text": "By summer 2024, we will enhance elements of our reply to requisition tools to enable additional parties to work on applications in the DRS."
+        },
+        {
+            "heading": 2,
+            "text": "Business Gateway\u00a0"
+        },
+        {
+            "text": "We have also brought our Estimated Completion Date tool to our Business Gateway APIs.\u00a0\u00a0"
+        },
+        {
+            "text": "Our Business Gateway APIs allow third-party software to connect with HM Land Registry\u2019s systems. The software developers can now enhance their case management software by including an indicator of when a case will be completed.\u00a0"
+        },
+        {
+            "text": "Customers connected through these APIs now also have access to greater levels of pre-submission validation options. Now our systems can help check whether the right date, fee or mortgage document (MD) reference has been entered on an application.\u00a0"
+        },
+        {
+            "text": "We also enhanced our Official Copy Document Availability service, which provides much more accessible information on official copies, saving customers\u2019 time by extracting key information.\u00a0\u00a0"
+        },
+        {
+            "text": "This summer, we will begin work to enhance APIs to improve the service and introduce further validation tools to help ensure applications are complete and correct before submission.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Digital applications \u00a0"
+        },
+        {
+            "text": "Both channels are key in our bid to receive the majority of our applications as \u2018digital applications\u2019, where the application is received in a way that is quicker for us to process. The move to digital is an essential tool in helping HM Land Registry to provide faster registration services.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Digital applications also make it easier to automate more of our work. Moving away from paper forms, or scanned copies, removes the need for our caseworkers to retype information into our casework systems. This also reduces the risk of human error and means that we can process applications much more quickly.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "More than 87% of our applications were made digitally in the 2024-25 financial year, amounting to more than 3.7m\u00a0applications in total.\u00a0"
+        },
+        {
+            "text": "We welcome your comments about this blog in the comments below. Please note that we are unable to discuss individual cases through the comments section and would request that all such queries be directed to our\u00a0Contact Us web form\u00a0where you will receive a response as soon as possible."
+        }
+    ]
+}
