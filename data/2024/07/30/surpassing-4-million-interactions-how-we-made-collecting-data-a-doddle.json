@@ -1,0 +1,101 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/07/30/surpassing-4-million-interactions-how-we-made-collecting-data-a-doddle/",
+    "title": "Surpassing 4 million interactions: how we made collecting data a doddle",
+    "authors": [
+        "Isabel Glover, Senior Product Manager",
+        "Graham Bird, Product Lead"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2024-07-30T11:42:29+01:00",
+    "content": [
+        {
+            "text": "The Department for Business and Trade (DBT) exists to support businesses to grow. To provide the best possible support, we have teams of advisers including sector and country specialists across the UK and in over 100 countries around the world.\u00a0\u00a0"
+        },
+        {
+            "text": "Every company is unique and at a different stage on their journey. DBT teams develop an understanding of the needs of different businesses and provide tailored support to help them succeed. They do this by working closely together and with other government departments, partner organisations and devolved administrations.\u00a0 Team communication and efficient recording of interactions with businesses are essential to success.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "About Data Hub\u00a0"
+        },
+        {
+            "text": "Data Hub was created to enable teams to provide tailored support to businesses. It is an internal digital service that enables DBT to capture and manage its relationship with businesses in one place. It is the central pillar of DBT\u2019s Customer Relationship Management (CRM) system. Through Data Hub, staff around the world can view the latest on any business DBT has a relationship with and add their own activity to keep others informed. Users can access information about each business, the support they have already received and what they need next.\u00a0"
+        },
+        {
+            "text": "- Data Hub user, 2024\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A major milestone\u00a0"
+        },
+        {
+            "text": "In June 2024, DBT\u2019s Data Hub passed the milestone of 4 million interactions - the wide range of activities that DBT staff undertake to provide support to businesses.\u00a0"
+        },
+        {
+            "text": "Here are some examples of interactions, with names hidden for privacy:\u00a0"
+        },
+        {
+            "text": "As you can see, logging these interactions is vital to direct our engagement efforts and support businesses who want to grow and invest.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The history of Data Hub\u00a0"
+        },
+        {
+            "text": "We have come a long way to reach this milestone of 4 million interactions, as the origins of Data Hub date back to 2016. Back then, user satisfaction and take-up of an existing off-the-shelf system were low. In line with the government Service Standard, a multidisciplinary team was formed (with subject-matter experts from across DBT). They aimed to understand more about:\u00a0"
+        },
+        {
+            "text": "This Discovery highlighted issues for users such as poor usability, a lack of data quality and limited overall benefit to the department. Customer data existed in silos with limited data integrity and the system prevented data integration with other services. \u00a0"
+        },
+        {
+            "text": "Having established clear problems, the team built and prototyped an Alpha of what would become Data Hub. Now in Public Beta, the service has over 2,000 monthly users, capturing over 1,000 interactions daily and supporting \u00a3350 billion in export and investment projects in 2023/24.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Guided by the Service Standard\u00a0"
+        },
+        {
+            "text": "From the start and throughout, the Data Hub team have held true to the Service Standard. The Service Standard helps teams to create and run great public services by providing a set of principles to follow. Data Hub is continuously improved thanks to dedicated multidisciplinary agile product teams. The teams work closely with a diverse range of users and stakeholders to ensure that improvements meet user needs and align with DBT\u2019s strategic objectives.\u00a0"
+        },
+        {
+            "text": "Users benefit from an interface that uses well-established, accessible Government Digital Services (GDS) design patterns. Where necessary the team have developed additional components to the same standards, backed by a holistic design approach.\u00a0"
+        },
+        {
+            "text": "- Data Hub user, 2023\u00a0"
+        },
+        {
+            "text": "As well as user-centred product teams, Data Hub is supported by a platform team who focus on security, reliability, and data integration. The platform is built on open-source technologies such as Python and Django and the source code for Data Hub's front and back end is public.\u00a0Since those early days in 2017, DBT Software Engineers have made over 26,000 code commits and 589 releases. This is equivalent to 10 commits a day and a release every week for 7 years!\u00a0"
+        },
+        {
+            "text": "The teams are supported by our in-house Monitoring and Evaluation team who ensure that the right performance data is collected, reported, and acted on. As the product has matured, development has gone beyond the service standard in relation to data management and data quality. As with any CRM, the quality of the data people put in is central to the insights that you can get out!\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "An indispensable tool\u00a0"
+        },
+        {
+            "text": "For businesses across the UK and around the world, getting the right support at the right time can make a real difference. For DBT, Data Hub is an indispensable tool to help teams work together across continents to provide diverse business support and demonstrate the department\u2019s impact for the UK.\u00a0"
+        },
+        {
+            "text": "- Data Hub user, 2023 \u00a0"
+        },
+        {
+            "text": "Thanks to the Service Standard, DBT has created something uniquely positioned to meet its needs. But the team are not complacent \u2013 the vision for Data Hub and CRM at DBT is evolving with the changing needs of the Department.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A cross-government future?\u00a0"
+        },
+        {
+            "text": "Looking ahead, Data Hub has the potential to be something bigger. Economic growth is more important than ever, and collaboration between government departments is essential to achieve that goal. Could there be a single place for business relationships across government?\u00a0\u00a0"
+        },
+        {
+            "text": "Data Hub has no per-user licence costs, so the traditional CRM cost concerns for large user numbers do not apply. It also has an open-source codebase, meaning that Software Engineers in any government department could contribute new features and bug fixes. The potential for Data Hub is huge if it can be realised.\u00a0"
+        },
+        {
+            "text": "We wonder whether that small Discovery team in 2016 predicted that following the Service Standard would help to unlock global economic growth on this scale.\u00a0"
+        }
+    ]
+}

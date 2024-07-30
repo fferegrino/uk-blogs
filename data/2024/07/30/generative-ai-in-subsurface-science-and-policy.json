@@ -1,0 +1,58 @@
+{
+    "url": "https://openpolicy.blog.gov.uk/2024/07/30/generative-ai-in-subsurface-science-and-policy/",
+    "title": "Generative AI in subsurface science and policy",
+    "authors": [
+        "celynbricker"
+    ],
+    "categories": [
+        "Policy Lab"
+    ],
+    "pub_date": "2024-07-30T09:03:38+01:00",
+    "content": [
+        {
+            "text": "Policy Lab has experimented with Artificial Intelligence (AI) in policy development with teams across government, and beyond, for a number of years. In 2019 we worked with the Department for Transport\u2019s data science team to consider the role that AI could play in improving the efficiency and effectiveness of the policy consultation process. In 2022 we used AI to create a vision for the future of Hounslow with the local authority. In 2023, we commissioned the creation of the Ecological Intelligence Agency, a speculative artefact to help experience the role AI might have in future decision-making in environmental policy. \u00a0"
+        },
+        {
+            "text": "This blog explains how Policy Lab used generative AI in policy relating to the future of the subsurface. Broadly speaking, generative AI can be understood as systems that create new data, which could be new code, text, images, video or other forms of data. We used generative AI to visualise evidence, bring to life policy ideas, and create this blog, written iteratively with a system trained on Policy Lab\u2019s publicly available content.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Reimagining the future of the subsurface\u00a0\u00a0"
+        },
+        {
+            "text": "Policy Lab partnered with the Government Office for Science (GO-Science) to reimagine the future of the subsurface and consider the policy implications with policy professionals and stakeholders in a highly interactive workshop. Here the \u2018subsurface\u2019 refers to everything below the land or sea-floor surface, including all underground infrastructure and assets. For this project, GO-Science used the framing of \u2018turning planning upside down\u2019 to encourage policymakers to re-orient the importance given to underground infrastructure. Policy Lab created a series of specially designed \u2018evidence cards\u2019 to enable a creative and participatory exploration of the evidence base.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Generative AI for visual assets "
+        },
+        {
+            "text": "\u202fWe created the evidence cards in an iterative process that combines hand-drawn or traditional ways of working with a series of linked AI models. This technique is slightly different from another method known as \u2018chaining\u2019, where the output from one AI model forms the input for another; in this example of evidence card design, there was repeated, human-led design input into each stage. The process for writing this blog followed a similar, collaborative process, where suggestions from an AI were modified before being integrated into the blog text. In both the design and writing process, ultimately it is the human shaping the work and determining the quality of the output.\u00a0"
+        },
+        {
+            "text": "The process begins with a hand-drawn image that is transferred into a computer line drawing; this is enhanced, before being further interpreted and \u2018expanded\u2019 upon by an AI. This AI generated image is then reworked using various digital tools, before being further interpreted and expanded by a different AI model. This \u2018collaborative\u2019 process with the AI is repeated several times until the finished product is achieved. The principal idea in this way of working is that iterative, generative AI-powered design can enhance or amplify existing skill sets and working processes.\u00a0\u00a0"
+        },
+        {
+            "text": "This process was repeated for forty pieces of evidence about subsurface science, the selection carefully curated with GO-Science. To connect to the original framing by GO-Science, each evidence card also had a question, reflection or additional piece of evidence that could only be read by spinning the card upside down.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Real-time generative AI \u202f\u00a0"
+        },
+        {
+            "text": "After exploring the evidence base and additional provocations, Policy Lab asked workshop participants to develop more detailed policy proposals and ideas on \u2018policy canvases\u2019. As participants wrote down information, we collated key points to prompt generative AI to create real-time visualisations of the work being developed. This dynamic, in-person application of AI tools resulted in compelling visuals that brought to life the ideas of our participants with an immediacy and power that would not have been possible without the use of AI.\u00a0"
+        },
+        {
+            "text": "Working with generative AI in this way allowed Policy Lab to introduce an element of\u00a0creativity and exploration to the policy ideation process. It enabled the variety and novelty of new policy ideas to be instantly communicated visually alongside a verbal presentation. In a sense the unpredictability of the generative AI introduced an additional collaborator into the process: the way in which an algorithm generates an image is often quite different from the mental image that a human may have. The GO-Science team are now in the process of sharing their findings from the project across government as they finalise the Foresight report as part of the Future of the Subsurface project.\u00a0"
+        },
+        {
+            "text": "Working with generative AI as described in this blog is just one of the ways that Policy Lab has explored this new technology. We have ongoing experiments in using generative AI, from designing serious games, to creating new video work to interactive digital outputs. Responsible use of AI allows us to amplify our existing skill sets and take our innovative methods in directions that previously would have been too resource-intensive to explore, ultimately allowing us to more effectively pursue our mission of radically improving policymaking. We look forward to sharing our ongoing experiments \u2013 how else do you imagine generative AI could be safely used in policy development contexts? If you are interested in using these experimental methods in your work, contact the team at\u202fteam@policylab.gov.uk.\u202f\u202f\u202f"
+        },
+        {
+            "text": "No personally identifiable information was input in the AI system, nor did Policy Lab input any unpublished policy or official sensitive data. Policy Lab\u2019s use of generative AI in the workshop was in line with the recommendations of the Central Digital and Data Office (CDDO) for AI usage.\u00a0\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
