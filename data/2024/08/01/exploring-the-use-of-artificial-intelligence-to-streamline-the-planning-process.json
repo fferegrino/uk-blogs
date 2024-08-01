@@ -1,0 +1,47 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/08/01/exploring-the-use-of-artificial-intelligence-to-streamline-the-planning-process/",
+    "title": "Exploring the use of artificial intelligence to streamline the planning process",
+    "authors": [
+        "Digital Planning"
+    ],
+    "categories": [
+        "Digital Planning",
+        "Innovation"
+    ],
+    "pub_date": "2024-08-01T10:36:58+01:00",
+    "content": [
+        {
+            "text": "Planning documents often contain vast amounts of valuable information, but accessing and using this data can be challenging. Artificial intelligence (AI) offers a potentially promising solution by efficiently processing and interrogating large volumes of data to extract key information and insights.\u00a0"
+        },
+        {
+            "text": "The MHCLG Digital Planning Programme partnered with Faculty AI, a specialist in applying AI and technology, on a 6-week project to explore the potential of AI to extract specific information from planning documents.\u00a0"
+        },
+        {
+            "text": "Understanding that it's difficult to manually extract and analyse important information from local plans (policy documents that specify how much and where future development in an area should go), we decided to see if AI could make this process easier. By using AI, we aimed to speed up the extraction of key information and improve its accuracy and accessibility, helping planning officers find content and numerical information more easily, and allowing us to design a possible classification system that reflects the content of a plan.\u00a0"
+        },
+        {
+            "text": "The partnership made two important breakthroughs. Firstly, we were able to create a chatbot that can pull out important information from local plans and that uses the data in these plans to answer questions based on what it finds.\u00a0"
+        },
+        {
+            "text": "To test the chatbot\u2019s accuracy, the team used 2 methods:\u00a0"
+        },
+        {
+            "text": "The chatbot correctly answered questions about how many homes were to be built within a specific time frame 59% of the time, and during the lifetime of the local plan (normally 15 years) \u2013 76% of the time. When answering the question on climate change, we received 43% correct responses.\u00a0"
+        },
+        {
+            "text": "Secondly, we developed a common way to classify and organise local plans. This classification system, called a standard taxonomy, helps organise items based on their features or relationships. By analysing over 120,000 pages from 100 local plans using a large language model (a model trained to work with immense amounts of data that\u2019s capable of understanding and responding in everyday language), the team created a standardised table of contents for these plans.\u00a0\u00a0"
+        },
+        {
+            "text": "These results show that AI has promise in navigating the complexities of planning documents and data, particularly given the time and effort usually required for such tasks, but highlights that the results are dependent on the quality of the input data.\u00a0"
+        },
+        {
+            "text": "Providing better access to planning data and establishing consistent data standards is a programme priority and one we\u2019ve recently spoken about.\u00a0\u00a0"
+        },
+        {
+            "text": "This 6-week project was a first look at how AI could streamline aspects of the planning process. It shows that AI has the potential to make a big impact. Just like in other fields, AI offers a chance to automate administrative tasks and greatly improve our planning public services. While there are some limitations to using AI in the planning system, the real question is how we can get the most value out of AI to help planning professionals focus on more important, strategic decisions.\u00a0\u00a0"
+        },
+        {
+            "text": "As well as this short project, we are working with the sector and Local Planning Authorities through the PropTech Innovation Fund to see how AI can help with processing and organising feedback and consultation representations."
+        }
+    ]
+}
