@@ -1,0 +1,74 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/08/05/gov-uk-one-login-a-disclosure-and-barring-service-success-story/",
+    "title": "GOV.UK One Login: A Disclosure and Barring Service Success Story",
+    "authors": [
+        "Allan Robinson - Product Manager, Basic Digital Service Team, DBS"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2024-08-05T11:06:46+01:00",
+    "content": [
+        {
+            "text": "GOV.UK One Login is the new straightforward, secure way to access a range of government digital services, from requesting a DBS check to signing a mortgage deed. In 2021, the Disclosure and Barring Service (DBS) became the first department to partner with GOV.UK One Login."
+        },
+        {
+            "text": "It's been over a year since we integrated the 'Request a Basic DBS Check' with DBS, so to mark the occasion we sat down with the Basic Digital Service Team in DBS to learn how the programme has changed their service. We discussed how they found partnering with GDS, onboarding to One Login, and what they learnt along the way."
+        },
+        {
+            "heading": 2,
+            "text": "Working with GOV.UK One Login"
+        },
+        {
+            "text": "DBS helps employers make safer recruitment decisions. One of their key services, 'Request a Basic DBS Check', allows an individual to get a copy of their criminal record check. This check will only show convictions that are not 'spent' - for example, some types of caution will disappear after 3 months."
+        },
+        {
+            "text": "This helps employers decide whether applicants are suitable for a role, so a service which is accessible, secure and easy to use is a necessity."
+        },
+        {
+            "text": "After the sunsetting of GOV.UK Verify, GOV.UK One Login approached DBS to be a co-designer of a new identity checking solution. The DBS Product Manager reflected on that initial decision to partner with GOV.UK One Login:"
+        },
+        {
+            "text": "Allan Robinson - Product Manager, Basic Digital Service Team, DBS"
+        },
+        {
+            "text": "As a private beta partner, DBS provided invaluable insights into their specific service requirements. This approach not only allowed DBS to tailor their service but also offered One Login a unique perspective. By understanding DBS's objectives, we restructured our onboarding process for departments, assigning dedicated engagement managers to ensure streamlined communication and a personalised experience for each team."
+        },
+        {
+            "heading": 2,
+            "text": "Laying the foundations"
+        },
+        {
+            "text": "From the initial co-design process through to private beta, and public beta delivery to ongoing developments, there was a constant exchange of ideas and feedback between DBS and the GOV.UK One Login programme. This level of openness laid the foundation for our success, as it allowed us to continually iterate and improve the service together."
+        },
+        {
+            "text": "Allan Robinson - Product Manager, Basic Digital Service Team, DBS"
+        },
+        {
+            "text": "Key to the GDS and DBS success was building strong relationships. DBS and GDS had regular communication through monthly meetings, facilitated by engagement leads. DBS and GDS also attended user-centred design (UCD) meetings/sessions to catch up whenever there were new designs to share. There were also playbacks and UR sessions to gain insight to design and iterate the service."
+        },
+        {
+            "text": "This combination of engagement also ensured that any concerns were addressed promptly and that our shared objectives stayed clear."
+        },
+        {
+            "heading": 2,
+            "text": "Celebrating success"
+        },
+        {
+            "text": "The integration of GOV.UK One Login into the 'Request a Basic DBS Check' service has significantly improved user experience and efficiency. One of the most notable benefits is the increase in successful online verifications, which has led to a surge in user satisfaction. By leveraging the robust capabilities of One Login, users are now able to complete their DBS checks quickly and with greater ease."
+        },
+        {
+            "text": "The efficiency gains from reusing data through One Login have been remarkable. The average time to submit a basic DBS check has been reduced by six minutes. This translates to an astounding total user time saving of 1,814 days in 2023. The higher verification rates facilitated by One Login have also led to an increase in application volumes."
+        },
+        {
+            "text": "We're proud that the implementation of GOV.UK One Login into the 'Request a Basic DBS Check' service has driven substantial improvements in user satisfaction, from 81% to 88%, and increased operational efficiency. By reducing the time required for submissions, increasing successful verifications, and ensuring reliable communication through verified contact details, GOV.UK One Login has proven to be a pivotal enhancement in the DBS basic check process."
+        },
+        {
+            "heading": 2,
+            "text": "Looking to future work"
+        },
+        {
+            "text": "Allan Robinson - Product Manager, Basic Digital Service Team, DBS"
+        }
+    ]
+}
