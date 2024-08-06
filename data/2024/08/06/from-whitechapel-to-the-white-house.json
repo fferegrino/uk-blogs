@@ -1,0 +1,98 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/08/06/from-whitechapel-to-the-white-house/",
+    "title": "From Whitechapel to the White House",
+    "authors": [
+        "Chris Bellamy, CEO, Government Digital Service",
+        "Louise Harris, Chief of Staff, Government Digital Service"
+    ],
+    "categories": [
+        "GDS team"
+    ],
+    "pub_date": "2024-08-06T11:58:27+01:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The Government Digital Service's (GDS) mission is to design and protect the user experience of government - making it better for users and cheaper for the taxpayer. Over the last year, we've been asking ourselves some big questions. Like what's changed socially, technologically and economically since we were set up in 2011? We've challenged ourselves to test previous assumptions and technical decisions about how digital services needed to work, thinking critically about which aspects might need to change versus what should remain the same."
+        },
+        {
+            "text": "We've always believed that when you make things open, it makes things better. So when our counterparts from the Office of Management and Budget, part of the Executive Office of the President of the United States, invited us to have that very conversation with a group of global digital leaders, we were first in line."
+        },
+        {
+            "text": "Earlier this year, we swapped our UK base for the storied halls of the White House, and the iconic backdrop of Washington DC. Alongside colleagues from I.AI and the Central Digital and Data Office (CDDO), we sat down with leaders from the USA, Trinidad and Tobago, Cyprus, Canada, Germany, Iceland, the Netherlands, Azerbaijan, and Singapore for an inspiring (and intense!) three days of discussion, debate and storytelling. Read on for the key takeaways from our time in DC."
+        },
+        {
+            "heading": 2,
+            "text": "Our four main takeaways"
+        },
+        {
+            "heading": 3,
+            "text": "Trust is everything"
+        },
+        {
+            "text": "In an era of increased complexity and misinformation, users justifiably expect accurate guidance and information from government. They want to trust that services are designed around their needs, and be confident their data is suitably protected and responsibly used."
+        },
+        {
+            "text": "Frustrating or fragmented interactions can harm trust. The group agreed that adopting modern user-centric design principles is just one of the ways digital governments around the world can build and maintain trust among our users. By designing the user experience of government better, we have the opportunity to create more positive interactions between users and the state."
+        },
+        {
+            "text": "In the UK, we maintain trust through our unified digital brand, GOV.UK, supported by an ecosystem of other digital components including GOV.UK Pay, Notify and Forms. These platforms already offer a consistent, accessible experience for users who interact with our government, and drive efficiency for our taxpayers. We're now expanding our channel strategy to strengthen the trust they have in our services by meeting them in more places, and offering information and support in alternative formats that work best for them."
+        },
+        {
+            "heading": 3,
+            "text": "The role of connected data"
+        },
+        {
+            "text": "Canada and Singapore kicked off the conversation highlighting their efforts to connect data around users in order to make services more efficient, and personalised. As you'd expect, privacy and security were at the core of the conversation, but so was data quality. As one US delegate summarised: \"if you put garbage in, you'll get garbage out.\""
+        },
+        {
+            "text": "We know that data which is seamlessly integrated across departments could revolutionise government services - but only if we work together to achieve high levels of quality, privacy, security and user trust."
+        },
+        {
+            "text": "Here in the UK, the Data Standards Authority established standards to streamline data sharing and usage and a CDDO roadmap mission is focused on better data to power decision-making. At GDS, reimagining how government services could be offered if they were designed around (quality) data is something which is at the heart of our thinking. Specifically how GOV.UK One Login could enable a faster, more personalised and more proactive experience of government in the near future."
+        },
+        {
+            "heading": 3,
+            "text": "Generative AI needs guardrails and governance"
+        },
+        {
+            "text": "The conversation naturally shifted from data to generative AI. Like any other technology, AI will only ever be as good as the data we use to train it, or the guardrails we apply to govern its use."
+        },
+        {
+            "text": "Governments around the world are exploring AI to boost productivity, economic growth, and improve policy-making. At GDS, we're experimenting to see whether it can improve the government-to-citizen experience. And last November, the UK proudly initiated a global dialogue at the first-ever AI Safety Summit. The Bletchley Declaration which followed, endorsed by 29 global signatories, aims to use AI to \"enhance human wellbeing, peace and prosperity\"."
+        },
+        {
+            "text": "In Washington, fellow leaders balanced the ambition to innovate at pace and at scale, with accountability for the wider potential impacts of AI. As a group we recognised that the AI challenge is as much about the people, policies and governance as it is about the underlying technology. Working together, we can harness AI's potential to enhance public services alongside safeguarding societal values. But only if ethical governance, transparency and collaboration remain central to the work."
+        },
+        {
+            "heading": 3,
+            "text": "Alternative funding models can benefit innovation"
+        },
+        {
+            "text": "The majority of the global partners in the room were still subject to fixed budget cycles. We discussed how traditional government funding approaches can hinder agile software development, and the rapid experimentation and adoption of emerging technologies, and what alternatives might exist."
+        },
+        {
+            "text": "Our US hosts shared their experience with the Technology Modernisation Fund (TMF), which acts as an alternative to Congress' 12 funding committee routes to accelerate funding for high-potential digital, cybersecurity, and data projects."
+        },
+        {
+            "text": "The TMF mission is to \"enable agencies to reimagine and transform the way they use technology to deliver their mission and services to the American public in an effective, efficient and secure manner\". It has supported over 57 projects with $900 million in funding to date, including guardrails to protect the investment by providing technical expertise and board oversight to guide the work."
+        },
+        {
+            "text": "Adopting innovative funding arrangements - such as the TMF - could enable governments to more rapidly embrace technological advancements and drive digital transformation outside of fixed, traditional funding cycles."
+        },
+        {
+            "heading": 3,
+            "text": "Where next?"
+        },
+        {
+            "text": "Our discussions in Washington, and the generous insight shared by those who attended, underscored the importance of many of the things we are already focusing on: building trust; unlocking the transformative power of data and pursuing responsible innovation."
+        },
+        {
+            "text": "It was wonderful to come together and reflect on all of the work already happening across the globe to make interacting with government simpler and faster for the millions (billions?) of users who collectively rely on us. But there is so much more to do, and we are up for the challenge."
+        },
+        {
+            "text": "We will all go further, faster if we keep sharing and learning from one another and we look forward to continuing the conversations and the collaborations sparked with our international colleagues."
+        }
+    ]
+}
