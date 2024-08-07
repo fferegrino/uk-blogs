@@ -1,0 +1,84 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/08/07/introducing-gov-uks-new-publishing-strategy/",
+    "title": "Introducing GOV.UK's new publishing strategy",
+    "authors": [
+        "Tobi Ogunsina, Lead Product Manager, GOV.UK Publishing, GDS",
+        "Jade Fryer, Lead Performance Analyst, GOV.UK Publishing, GDS"
+    ],
+    "categories": [
+        "Content",
+        "How we work",
+        "Vision and plans",
+        "What we're working on"
+    ],
+    "pub_date": "2024-08-07T10:55:16+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is the primary gateway to government, well established as one of the most recognisable digital services in the UK. Our aim is to be a welcoming front door for users, wherever their journey is taking them - and our publishing teams work hard to give people across government the necessary tools to make this happen."
+        },
+        {
+            "text": "Last year we launched our strategy for growth, setting out how we\u2019re growing our product offer, user base and team in order to do more for the millions who visit us every day to do everything from registering a death to paying taxes. While putting the programme\u2019s priorities in action, we\u2019ve identified several enablers that will help us to achieve our objectives as we move to become multi-channel."
+        },
+        {
+            "text": "One of these enablers is to increase publishing speed by reducing the complexity of our publishing systems. To achieve this we\u2019ve drawn up a new publishing strategy, covering the period from now until 2026, with 3 main aims."
+        },
+        {
+            "text": "Read on to find out more about the publishing strategy, and what it means for our users, colleagues across government and GOV.UK teams."
+        },
+        {
+            "heading": 2,
+            "text": "Deciding our aims"
+        },
+        {
+            "text": "The GOV.UK Publishing Service looks after 9 publishing apps and 6 supporting tools. Alongside these, the team also looks after 4 APIs - application programming interfaces, which let applications talk to each other and share data, in this case information to be displayed on GOV.UK\u2019s user-facing channels - and an authentication tool. These are used by more than 2,300 civil servants to publish and manage government content, so it\u2019s crucial that the publishing ecosystem we create is flexible, secure and easy to use. In turn, this means GOV.UK users get the information they\u2019re looking for in the way they need it."
+        },
+        {
+            "text": "To begin work on the strategy, our publishing leads and product managers held a series of workshops to identify the key challenges and what we could do to address them. The strategy needed to provide a robust framework for decision-making and prioritisation, and inspire action, while also leaving room for teams to make their own plans."
+        },
+        {
+            "text": "Through this process we determined that there were 3 things we needed to address:"
+        },
+        {
+            "text": "This helped us to decide on our 3 main aims, which are to:"
+        },
+        {
+            "heading": 2,
+            "text": "What we will do"
+        },
+        {
+            "text": "To achieve our aims, we\u2019ll be focusing mainly on the core publishing apps responsible for the bulk of our publishing and content reach - Mainstream Publisher, and Whitehall Publisher - so they are able to support the rest. We\u2019ll be creating shared design and architectural patterns across publishing. This consistency will reduce the need for separate publishing apps and make it easier to make cross-service improvements for publishers."
+        },
+        {
+            "text": "Meanwhile, modelling content - breaking content down into the smallest reasonable pieces, organising and classifying them so they can be understood and used by computers and people - will allow it to be effectively used in other channels like the GOV.UK app, and enable reuse and cut duplication across publishing. This will reduce the cost of content management, help provide more convenient information for users and support personalisation in the future. For example, every year a range of figures (tax rates, thresholds and fees) change in response to the new tax year starting. These changes usually need to be manually applied in many places across GOV.UK, and the ability to reuse them will save lots of time and effort across government."
+        },
+        {
+            "text": "And lastly, helping government colleagues to self-serve means removing manual interventions or duplication of effort during the publishing process. We will do this by making the publishing process easier to navigate and understand as well as providing publishers with the tools and information they need to assess and manage the quality of their content. For example, we believe publishers will get a better experience if we reduce the number of situations where they have to request changes from developers or GOV.UK support teams."
+        },
+        {
+            "heading": 2,
+            "text": "The benefits for users"
+        },
+        {
+            "text": "Our users - publishers inside government, and end users coming to GOV.UK - will see a number of benefits. For publishers, less training will be needed because the publishing experience is consistent, with a reduced need to understand complicated architecture. Editing will only have to take place once, as reusing content is a possibility, and it will be easier and quicker to publish and review content, and to check facts."
+        },
+        {
+            "text": "End users will receive content the way they need it - on the website, or via another channel - and see updates to content more rapidly, resulting in a more satisfying user experience."
+        },
+        {
+            "text": "There will be advantages within the GOV.UK programme, too. Teams will see a reduction in support queries, and will have fewer apps to maintain and support, saving time and effort. This will free us up to work on valuable cross-service improvements, and provide tools and guidance to support the production of quality content."
+        },
+        {
+            "heading": 2,
+            "text": "Putting our plans in motion"
+        },
+        {
+            "text": "We\u2019re now putting our plans in motion. Alongside longstanding teams that look after core publishing tools and APIs, we\u2019ve set up a multidisciplinary mission team. This mission team will focus on content reuse and modelling to help publishing develop this new capability, concentrating on the core publishing apps mentioned earlier. We\u2019ve also established small groups within specific disciplines to focus on cross-service initiatives."
+        },
+        {
+            "text": "We\u2019ve been sharing our strategy with managing editors, publishers and within GOV.UK, and we\u2019ve also been thinking about what data we need to measure how we\u2019re performing against our strategy. We\u2019ve done this by developing a service-wide performance framework including measurable indicators such as time spent on support tickets, the amount of content reused across channels and feedback from publishers."
+        },
+        {
+            "text": "Ultimately, we want everyone in the publishing process to be empowered to easily create and manage their content so that people can access, trust and understand it. Our strategy will play a crucial role in realising these ambitions."
+        }
+    ]
+}
