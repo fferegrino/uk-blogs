@@ -1,0 +1,53 @@
+{
+    "url": "https://codigital.blog.gov.uk/2024/08/12/future-proofing-the-resiliencedirect-service-by-migrating-to-public-cloud-blog/",
+    "title": "Future-proofing the ResilienceDirect service by migrating to public cloud",
+    "authors": [
+        "Anthony Ilona",
+        "Venus Bailey"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2024-08-12T16:27:33+01:00",
+    "content": [
+        {
+            "text": "Cabinet Office Digital (CO Digital) has teamed up with the Resilience Directorate to transform the online event and emergency response service ResilienceDirect. "
+        },
+        {
+            "text": "ResilienceDirect plays a key role in coordinating the planning, response and recovery services across multiple agencies during national emergencies and provides secure information sharing and mapping capabilities to the resilience community in the UK, in the devolved administrations, Channel Islands and overseas territories."
+        },
+        {
+            "text": "The first phase of this transformation is now complete and was dedicated to migrating the hosting infrastructure from private cloud to a public cloud environment."
+        },
+        {
+            "text": "The migration took 14 weeks from December 2023 to March 2024 and delivered:"
+        },
+        {
+            "text": "ResilienceDirect consisted of five applications. Three of these, Collaborate, Maps and Joint Operational Learning, are central for core users. These platform applications were hosted in a private cloud network controlled by a single hosting provider. This set up was not ideal for a web platform that has by its nature a wide range of fluctuation in usage since an emergency can happen at any time. Moreover, the applications are provided and operated by four different partners, as a result, there were additional operational costs in having to coordinate work between the different suppliers. "
+        },
+        {
+            "text": "After a decade of operating, the Resilience team needed a modernised, scalable infrastructure that could cope with additional user needs, increased data processing load and provide a more economical pricing structure to improve service performance and avoid recurring overspend."
+        },
+        {
+            "text": "Hence, in September 2023, the two teams, CO Digital and Resilience, came together for a programme of phased service transformation. They reviewed the live service\u2019s technology and supplier landscape, considered a range of options for improving it and made the case for investment. They subsequently produced a hosting migration design that was approved by the Cabinet Office Technical Design Authority in February and started work on phase one. "
+        },
+        {
+            "text": "For phase one, the four-person delivery team (two full time and two part time) worked in an Agile way to prioritise the modernisation of the hosting infrastructure. This would stabilise the platform and prepare the way for a subsequent phase of work dedicated to building a user-centric service by improving its design and accessibility in compliance with the government digital Service Standard. Focusing on migration first would also remove the need to maintain dual hosting infrastructure for any extended period. "
+        },
+        {
+            "text": "The entire hosting migration ran at a high pace and was completed ahead of time in mid-March 2024. By using cloud native tools and right-sizing hosting maintenance and support resources, the team has already delivered a saving of roughly \u00a330,000 per month (a 42 percent cost reduction per year). The new supplier also provides an ongoing service to optimise the infrastructure which will deliver further savings and it includes enhanced security and application monitoring.1"
+        },
+        {
+            "text": "In the first four months since the migration several additional benefits for the team and the service can be observed:"
+        },
+        {
+            "text": "This first phase of modernising ResilienceDirect has been a critical step toward future-proofing the service. By migrating to the public cloud, the team has not only enhanced scalability and flexibility but also made the potential to iterate the technology available for the future. With platform resilience now in place, the next phase towards enhancing the user journey and service design has already started and will complete the transformation towards an improved event and emergency response service for all the resilience community."
+        },
+        {
+            "text": "Collaborators: Helena Edwards, Phil Platt, Prashanth Motapothula and Gordon Cousins"
+        },
+        {
+            "text": "1 Technology Code of Practice, 12: \u201cmake your technology sustainable\u201d. The Greening government: ICT and digital services strategy 2020-2025 also asks for government departments to \u201cdeliver measurable and tangible sustainable outcomes\u201d in the reduction of cost and energy consumption. Efficient hosting infrastructures and server utilisation are specified as key deliverables. "
+        }
+    ]
+}

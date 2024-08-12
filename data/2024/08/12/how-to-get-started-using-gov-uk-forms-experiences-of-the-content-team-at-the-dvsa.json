@@ -1,0 +1,191 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/08/12/how-to-get-started-using-gov-uk-forms-experiences-of-the-content-team-at-the-dvsa/",
+    "title": "How to 'Get Started' using GOV.UK Forms - experiences of the Content team at the DVSA",
+    "authors": [
+        "John Ploughman, Head of Content Design, Driver and Vehicle Standards Agency (DVSA)",
+        "Thomas Williams, Content Design Lead, Driver and Vehicle Standards Agency (DVSA)"
+    ],
+    "categories": [
+        "GOV.UK Forms"
+    ],
+    "pub_date": "2024-08-12T14:09:30+01:00",
+    "content": [
+        {
+            "text": "Over the last 12 months at the Driver and Vehicle Standards Agency (DVSA), we've published 12 GOV.UK Forms, and we've received more than 14,000 form submissions. We've also developed a clear backlog of forms that could be created using GOV.UK Forms."
+        },
+        {
+            "text": "We want to share how we've gone about this so you can learn from what we've done - and hopefully so we can learn from your comments and feedback."
+        },
+        {
+            "heading": 2,
+            "text": "Making sure GOV.UK Forms is considered for new forms"
+        },
+        {
+            "text": "At DVSA, we already had a centralised policy and process for getting approval to create new forms."
+        },
+        {
+            "text": "We've been working to update these so that GOV.UK Forms is considered as an option for creating new forms. As GOV.UK Forms' features increase, more forms will become suitable, and we expect fewer new PDF forms will be published."
+        },
+        {
+            "text": "We hope to launch this updated policy and process soon. It will mean that when a new form is flagged as being suitable for GOV.UK Forms, the Content Design team will be able to step in and help to design and publish it."
+        },
+        {
+            "heading": 2,
+            "text": "Identifying existing forms to remake with GOV.UK Forms"
+        },
+        {
+            "text": "To bring some structure to identifying existing forms that could be remade with GOV.UK Forms, we started with a content audit."
+        },
+        {
+            "text": "We audited all of the forms we have published on GOV.UK. It included:"
+        },
+        {
+            "text": "Our audit included the:"
+        },
+        {
+            "text": "We also recorded whether the form requires:"
+        },
+        {
+            "text": "In total, we identified 136 forms as part of the audit."
+        },
+        {
+            "heading": 2,
+            "text": "Identifying things that would be better as forms"
+        },
+        {
+            "text": "We also audited all of the places on GOV.UK where we ask users to send structured information to a DVSA email address."
+        },
+        {
+            "text": "We found about 60 of these. In most cases, we ask users to email no more than 5 pieces of data to us as part of a process, such as replacing lost documents."
+        },
+        {
+            "text": "When we started talking to the teams that deal with the incoming emails, we found that most miss some or all of the required information. The teams then need to go back to the user and ask for the missing information."
+        },
+        {
+            "text": "It slows down the outcome for the user, and it's frustrating and inefficient for the teams dealing with the emails."
+        },
+        {
+            "text": "Again, we recorded whether the email process required supporting documents or payments further down the line."
+        },
+        {
+            "heading": 2,
+            "text": "Starting out simple"
+        },
+        {
+            "text": "We decided to start with some of the most simple things we'd identified - such as processes which mainly involved collecting information by an email address."
+        },
+        {
+            "text": "Because this early version of GOV.UK Forms didn't have these features at the time, we ruled out anything that needed supporting documents, complex branching or taking payments*."
+        },
+        {
+            "heading": 2,
+            "text": "Designing and publishing forms"
+        },
+        {
+            "text": "At DVSA, we've made the decision to centralise the creation, publication and management of GOV.UK Forms in our Content Design team."
+        },
+        {
+            "text": "GOV.UK Forms has been designed to help any teams in government to create accessible online forms, regardless of their technical skills. However, at the DVSA we decided we'd achieve the best results by having user-centred design experts working on the forms."
+        },
+        {
+            "text": "We have the skills to:"
+        },
+        {
+            "text": "We will not go into detail on how you actually create a form within the platform. But if you want to see a demo of that, do go and read this blog post and watch the embedded video about how easy it is to use GOV.UK forms."
+        },
+        {
+            "heading": 2,
+            "text": "Measuring success"
+        },
+        {
+            "text": "We're trying to follow the guidance in the Service Manual about measuring success as much as possible."
+        },
+        {
+            "text": "The GOV.UK Forms platform shows us the number of form submissions and forms started but not completed over the last 7 days."
+        },
+        {
+            "text": "If you keep a record of these, you can build up a picture of your form's completion rate over time."
+        },
+        {
+            "text": "We know this is just a minimum viable product (MVP) of metrics and that more detailed performance data will be available later this year. For example, including total form submission numbers and a breakdown of interactions with each question page. These would help to identify where we might need to improve the wording for any questions."
+        },
+        {
+            "heading": 2,
+            "text": "Measuring user satisfaction with GOV.UK feedback pages"
+        },
+        {
+            "text": "We've worked with the content team at the Government Digital Service to create GOV.UK feedback pages (sometimes called 'completed transaction' or 'done' pages) for our forms."
+        },
+        {
+            "text": "This allows us to collect feedback from users on:"
+        },
+        {
+            "text": "We're using this to work out user satisfaction ratings for each form."
+        },
+        {
+            "text": "We're getting feedback that shows that users are finding the forms easy to use."
+        },
+        {
+            "text": "\"It was very straightforward, easy to use.\""
+        },
+        {
+            "text": "\"Could not be better.\""
+        },
+        {
+            "text": "\"This is the first time I have used this service and it is much easier than having to email through a request.\""
+        },
+        {
+            "text": "We're also getting useful feedback from users on what they want to see next."
+        },
+        {
+            "text": "\"By accepting payment online when filling out the forms.\""
+        },
+        {
+            "text": "\"Take payment online for replacements.\""
+        },
+        {
+            "text": "\"Having an online payment option so the lot could be sorted immediately.\""
+        },
+        {
+            "heading": 2,
+            "text": "Feedback from the teams processing submissions"
+        },
+        {
+            "text": "We've received positive feedback from the teams that we've worked with to design and publish the forms. They're now busy processing the submissions."
+        },
+        {
+            "text": "We think this is our favourite so far:"
+        },
+        {
+            "text": "\"[The form submission email] looks awesome, really easy to action now and gives us all the details we need, huge improvement!!!\""
+        },
+        {
+            "heading": 2,
+            "text": "Working towards services that solve whole problems for users"
+        },
+        {
+            "text": "We're not just creating a GOV.UK Form and then moving on as if the job is done. It's not."
+        },
+        {
+            "text": "Using GOV.UK Forms can help us make some current processes more efficient in the short term. But in the longer term, we need more user-centric policies and services that reduce the need for forms."
+        },
+        {
+            "text": "As an example, one of our GOV.UK Forms allows MOT centres to apply for a replacement approval certificate. This proves they're approved to carry out MOTs - they have to display it on a public notice board."
+        },
+        {
+            "text": "When the MOT centre applies for a replacement, a member of staff at DVSA will generate a PDF certificate and then email it to the MOT centre so they can print it out."
+        },
+        {
+            "text": "So you can see that we could:"
+        },
+        {
+            "text": "But by using GOV.UK Forms, we can make things more efficient right now. And it makes it easier to make iterative improvements to forms, benefitting thousands of users."
+        },
+        {
+            "text": "Equally as important, it helps us to:"
+        },
+        {
+            "text": "* Providing documents and complex branching are amongst the GOV.UK Forms teams top forthcoming features with work planned for the second half of 2024. GOV.UK Forms now includes the new 'taking payments' feature, which was released in March 2024."
+        }
+    ]
+}
