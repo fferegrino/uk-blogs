@@ -1,0 +1,161 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/08/14/how-we-migrated-gov-uk-notify-to-aws-elastic-container-service/",
+    "title": "How we migrated GOV.UK Notify to AWS Elastic Container Service",
+    "authors": [
+        "The GOV.UK Notify Team"
+    ],
+    "categories": [
+        "GOV.UK Notify"
+    ],
+    "pub_date": "2024-08-14T16:11:17+01:00",
+    "content": [
+        {
+            "text": "GOV.UK Notify has finished our migration from GOV.UK Platform as a Service (PaaS). In our previous blog post we talked about how we migrated our database. In this post, former Notify team member David McDonald explains how we migrated production traffic to our new apps running in Amazon Web Services (AWS) Elastic Container Service (ECS)."
+        },
+        {
+            "heading": 2,
+            "text": "Building the new ECS infrastructure"
+        },
+        {
+            "text": "On PaaS, we had 3 environments: preview, staging and production. We had about 25 apps running per environment, mostly deployed using the Cloud Foundry Python buildpack."
+        },
+        {
+            "text": "We built an equivalent set of these 3 environments, deploying our apps as Docker containers in ECS. We also built new deployment pipelines and monitoring infrastructure. Those 2 sentences do not do justice to the hard work of our team of 7 who worked on this, alongside other infrastructure we migrated, over a period of 18 months."
+        },
+        {
+            "text": "The 3 new ECS environments were separate from PaaS and were built to share a minimal amount of infrastructure with their PaaS equivalent. For example, the AWS SQS queues that we put our Celery tasks on were kept separate, so that the same environment that created a task would also process it."
+        },
+        {
+            "text": "The PaaS environment and equivalent ECS environment did share the same state though. For example, they shared a Postgres database per environment. This meant if you visited the same URL on the PaaS environment and the ECS environment, you would see the same result and the same data."
+        },
+        {
+            "text": "We had built these 3 new environments but by default they received no traffic."
+        },
+        {
+            "heading": 2,
+            "text": "Our plan for migrating traffic"
+        },
+        {
+            "text": "Near the start of our migration project, we identified all the ways that traffic comes into Notify. We identified 7 of these 'entry points'. We planned how to migrate each of them to stop sending their traffic to our PaaS environment and instead send it to our ECS environment."
+        },
+        {
+            "text": "Our approach was to:"
+        },
+        {
+            "text": "I'll explain in detail about how we did this migration for our different types of entry points."
+        },
+        {
+            "heading": 2,
+            "text": "HTTP requests entering at an AWS CloudFront distribution"
+        },
+        {
+            "text": "Five of our entry points were AWS CloudFront distributions. These distributions are where HTTP requests enter our infrastructure. Each distribution links to a particular subdomain."
+        },
+        {
+            "text": "For example, one distribution is responsible for receiving all traffic to www.notifications.service.gov.uk and forwarding it to the appropriate application. Another distribution is responsible for traffic to api.notifications.service.gov.uk."
+        },
+        {
+            "text": "On PaaS, when a user visited www.notifications.service.gov.uk, the CloudFront distribution received their request and forwarded it to the relevant PaaS origin."
+        },
+        {
+            "text": "On AWS ECS, the same CloudFront distribution would need to receive the request and forward it to its new origin, an AWS Application Load Balancer. The load balancer then has our ECS apps as its targets."
+        },
+        {
+            "text": "We could have simply changed the origin of our CloudFront distribution from the PaaS origin to the ECS origin when we wanted to migrate traffic. However, this would have affected 100% of traffic immediately and we had already decided to take a percentage-based approach."
+        },
+        {
+            "text": "We used CloudFront Lambda@Edge to run a small bit of Python code for every request that would decide whether to send the request to PaaS or to ECS."
+        },
+        {
+            "text": "The Python code looked a bit like this:"
+        },
+        {
+            "text": "To start with this code will have no effect. All requests will still go to PaaS because the ECS_TRAFFIC_PERCENTAGE is set to 0."
+        },
+        {
+            "text": "If we change the value of ECS_TRAFFIC_PERCENTAGE this will divert a percentage of requests to our new ECS_ORIGIN by overwriting the PaaS origin already set in the request object."
+        },
+        {
+            "text": "We also added 2 further improvements to this Lambda@Edge function."
+        },
+        {
+            "text": "First, we added support for forcing a request to go to either PaaS or ECS based on custom HTTP headers. If we included our ECS HTTP header in a request then the function would always send the request to ECS. We put the equivalent in place for forcing requests to go to PaaS."
+        },
+        {
+            "text": "This was useful for our manual testing, and even more important for the testing done by our deployment pipelines. The tests run by the deployment pipelines should tell us that a specific environment is working correctly. Using custom headers meant we could ask our tests to target either the PaaS or ECS environment."
+        },
+        {
+            "text": "Second, we changed our Lambda@Edge function so we could very quickly decrease the percentage of traffic going to ECS, for example if we spotted a problem and wanted to revert back to sending all traffic to PaaS. With our original function, the percentage was hardcoded and to change it we had to deploy a new version of the function and associate it with the CloudFront distribution - this took about 10 minutes."
+        },
+        {
+            "text": "We moved the percentage value out of our code and into an AWS DynamoDB table. Changing a value in DynamoDB would only take us a few seconds and we wouldn't need to deploy a new version of our function. Having our function call out to DynamoDB did have a performance hit, roughly 200ms, but we added 30 seconds of time-based caching so that the vast majority of requests wouldn't be slowed down."
+        },
+        {
+            "heading": 2,
+            "text": "Email delivery receipts entering at an AWS Lambda function"
+        },
+        {
+            "text": "The sixth entry point is an AWS Lambda function that receives delivery notifications from AWS Simple Email Service (SES). Whenever it receives one, it takes the JSON it receives and puts it in a Celery task on an SQS queue to be picked up by one of our apps."
+        },
+        {
+            "text": "For the migration we tweaked the Lambda function code so it put the Celery task on the relevant queue in our PaaS environment, or the equivalent queue in our ECS environment, based on a percentage value. The code we added was similar to the code we used for our CloudFront Lambda@Edge functions."
+        },
+        {
+            "heading": 2,
+            "text": "Celery tasks put on queues by celery beat"
+        },
+        {
+            "text": "The seventh entry point is celery beat. Celery beat is a scheduler - it creates Celery tasks at regular intervals. For example, it is responsible for creating a Celery task:"
+        },
+        {
+            "text": "Celery beat itself doesn't process the tasks it creates. Instead it puts them on an SQS queue and one of our other apps will pick up the task from the SQS queue to process."
+        },
+        {
+            "text": "We only run a single instance of celery beat in PaaS production. Instances of celery beat don't share state, so if we ran 2 instances then we would have 2 tasks created for every item in our celery beat schedule. While this wouldn't be an issue for most of our Celery tasks, we knew at least some are not able to be run twice without having an unwanted impact."
+        },
+        {
+            "text": "For example, running our letter sending task twice in one evening would mean 2 duplicate letters arriving on your doorstep!"
+        },
+        {
+            "text": "This behaviour also means we couldn't necessarily run celery beat in PaaS and ECS at the same time. Both environments share the same database and state, so duplicate tasks might end up with duplicate results."
+        },
+        {
+            "text": "To migrate celery beat, we had to decide between 3 options:"
+        },
+        {
+            "text": "We chose the first option because it was quick and simple. We timed the swap over for one of the quieter times of day where no critical tasks were scheduled."
+        },
+        {
+            "heading": 2,
+            "text": "How it went"
+        },
+        {
+            "text": "On 9 January, we started sending our first production traffic to ECS. For our lowest traffic and lowest impact subdomain, we configured its CloudFront distribution to send 1% of requests to ECS. This subdomain only serves GET requests, so if a request is served by ECS and errors, the user can just reload the page. The reload will likely be served by PaaS with no further impact to the user. Regardless, we kept a close eye on our logs to spot any errors."
+        },
+        {
+            "text": "On 6 February, we started sending 0.1% of traffic for api.notifications.service.gov.uk to ECS. This was our last subdomain because it was the highest risk. If requests to our API fail, then we might break other web services run by the public sector -- maybe even leaving their users stuck in a web journey or never receiving an important notification."
+        },
+        {
+            "text": "We started with just 0.1% of traffic because our API receives thousands of requests per minute so even 0.1% would be enough to give us confidence that things were working without the risk of affecting a large number of users."
+        },
+        {
+            "text": "Once we had a small percentage of traffic from each of our CloudFront distributions going to ECS, we had reasonable confidence that our apps were working correctly. Over the next few weeks, we gradually increased the percentage of traffic going to ECS, while continuing to closely monitor. This helped confirm that our autoscaling and the capacity of our new environment were sufficient."
+        },
+        {
+            "text": "With the migration of HTTP traffic going well, we turned our attention to the Lambda function for our email delivery receipts. Between 27 January and 28 February, we slowly increased the percentage of email delivery receipts going to ECS until we reached 100%."
+        },
+        {
+            "text": "On 27 February we migrated celery beat."
+        },
+        {
+            "text": "On 8 March we increased the percentage of traffic going to ECS for our final CloudFront distribution to 100%. At this point, all production traffic was being served by ECS."
+        },
+        {
+            "heading": 2,
+            "text": "Migration complete"
+        },
+        {
+            "text": "We'd managed to migrate all of our applications to our new infrastructure without any downtime. We monitored for one further week before calling it 'job done' and celebrating. Migrating our apps was the last part of migrating off the PaaS. We were only left with the final and most pleasing of tasks - deleting lots of code and infrastructure we no longer needed!"
+        }
+    ]
+}

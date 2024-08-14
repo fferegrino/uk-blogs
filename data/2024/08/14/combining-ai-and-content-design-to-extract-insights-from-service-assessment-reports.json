@@ -1,0 +1,131 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2024/08/14/combining-ai-and-content-design-to-extract-insights-from-service-assessment-reports/",
+    "title": "Combining AI and content design to extract insights from service assessment reports",
+    "authors": [
+        "Alex Robertson"
+    ],
+    "categories": [
+        "Content",
+        "Content design",
+        "Digital Innovation",
+        "Our services",
+        "Service Assessments",
+        "Service standards"
+    ],
+    "pub_date": "2024-08-14T11:25:59+01:00",
+    "content": [
+        {
+            "text": "How do we make sure that a Large Language Model (LLM) understands a task, and completes it as accurately as possible?"
+        },
+        {
+            "text": "If you\u2019ve experimented yourself, or read the advice of major LLM providers (such as these guides from Anthropic, Google, Meta, Microsoft and OpenAI), you\u2019ll know there\u2019s a common principle. Communicate with LLMs like you would a human."
+        },
+        {
+            "text": "To get the best results:"
+        },
+        {
+            "text": "I\u2019m not the first to point out that these are among the many skills of a content designer. As a Lead Content Designer in Justice Digital, I think our profession can play a vital role in exploring use cases, techniques and quality safeguards for these natural language tools. Not to do the things we already do well, but those we never could before."
+        },
+        {
+            "text": "This blog post describes one experimental example: combining content design techniques with a Large Language Model to extract insights from service assessment reports."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The opportunity: service assessment reports"
+        },
+        {
+            "text": "When a panel of experts conducts a service assessment, they write up a report for the team they\u2019ve assessed. The report describes how the service team has met or not met the Service Standard, and recommends next steps."
+        },
+        {
+            "text": "Reports for services that meet the threshold for a cross-government assessment are publicly available for anyone to read, published by the Central Digital and Data Office (CDDO).\u00a0"
+        },
+        {
+            "text": "By the end of 2023, CDDO had published 365 of these reports, of which 196 applied the latest version of the Service Standard (or could easily be mapped to it). This is a huge library of practical insight for anyone preparing for a service assessment, whether in their own department or cross-government."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The challenge: it\u2019s a lot to read"
+        },
+        {
+            "text": "Large knowledge bases (such as a library of legal cases or medical papers) aren\u2019t intended to be read cover-to-cover by any one person, of course."
+        },
+        {
+            "text": "The subset of 196 reports alone contains around half a million words, longer than the Lord of the Rings Trilogy. Anyone who diligently read the entirety would surely achieve Gandalf-like wisdom on the subject of service assessments (\u201cone Standard to rule them all\u201d etc)."
+        },
+        {
+            "text": "And there\u2019s no easy way to accurately summarise half a million words with any LLM. Even if there existed such a large context window (the amount of text a language model can \u2018read\u2019 at once), accuracy - like digestion - is compromised if you cram in too much at once. Shorter texts tend to be more accurately summarised than very lengthy ones, which usually need \u2018chunking\u2019 into segments, or atomising into a kind of semantic cloud (a \u2018vector database\u2019). When the LLM automatically does this carving up for us, we lose more control over the process, which becomes increasingly opaque and error-prone."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "A hybrid approach"
+        },
+        {
+            "text": "Regardless of the current technology considerations, a straightforward summary of 196 reports wouldn\u2019t be very useful. To improve the results, a lightweight technical approach is combined with elements of content design."
+        },
+        {
+            "text": "The step-by-step process:"
+        },
+        {
+            "text": "1. Gather the source content. We could do this manually, merging every assessment report into a giant document, but it would be very inefficient and time-consuming. It\u2019s much faster and more scalable to extract the text via the GOV.UK Content API. We first export the full list of report URLs from the GOV.UK Content Data tool, and can then use some relatively simple code (Python, in this case) to run through the URLs and retrieve all the corresponding body HTML via the API."
+        },
+        {
+            "text": "2. Segment the source content. We now need to break down the reports into their component content parts. The consistent headers that appear in each report (eg.\u201c1. Understand users and their needs\u201d or \u201cWhat the team has done well\u201d) can helpfully function as delimiters. With these slice points, we can segment the text into a structured dataset (stored in a JSON file, for instance), like Lego bricks that we can rearrange."
+        },
+        {
+            "text": "3. Rearrange the content. The reports are originally organised by service, each structured around the 14 points on the Service Standard. Working with the structured data, we can reverse that, grouping the content around the Service Standard points instead. For example, we can group all the descriptions of what teams did to meet \u201cUnderstand users and their needs\u201d, allowing us to see in one place everything that successful teams did. And the opposite: all the things teams needed to explore when this point was not met."
+        },
+        {
+            "text": "4. Iterate LLM instructions. With the content segmented into Service Standard-themed chunks, we can now test and refine various instructions (or \u2018prompts\u2019) for our LLM of choice, drawing out and formatting insights in different ways. For instance, for each point on the Service Standard we can explore:"
+        },
+        {
+            "text": "We need to iterate our instructions to constrain the output, ensuring it\u2019s as consistent, reliable and easy to read as possible. Many LLMs allow the creation of a \u2018system prompt\u2019, enabling us to provide persistent rules around format, length, style and faithful representation of source material (to minimise LLM \u2018hallucinations\u2019). This is then combined with specific task prompts for each insight being explored."
+        },
+        {
+            "text": "A content design perspective is helpful to define these types of rules and instructions, minimising ambiguity and optimising the output\u2019s readability."
+        },
+        {
+            "text": "5. Collate the outputs into a single document. The idea was to summarise insights from 196 reports into something a single individual could feasibly digest. So once confident that our various instructions produce consistent results on sample tests, we\u2019re ready to run them on every chunk of the segmented content. We then bring the outputs all together into a single document, and format it as a guide that can be read in full or easily scanned for useful nuggets."
+        },
+        {
+            "text": "6. Quality assure the output. The initial LLM output needs extensive manual review and clean-up. This includes:"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The result"
+        },
+        {
+            "text": "You can read the output of this experiment in this guide: How teams passed cross-government service assessments (and why some did not)."
+        },
+        {
+            "text": "This guide is no substitute for the Service Manual, of course, or a replacement for all the valuable detail in individual service assessment reports. But it gives us an impression of the hard work across government to develop great services, and provides an additional reference for anyone preparing for a service assessment."
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "This is a proof of concept, with the limited scope of a personal project. To more closely follow a true design process, it would be a multidisciplinary effort that engaged real users, such as teams preparing for a service assessment. What insights would they find most useful? Would it be helpful to group the reports by development stage (discovery, alpha, beta, live) before summarisation? Do people trust information that\u2019s \u2018co-authored\u2019 by LLMs?"
+        },
+        {
+            "text": "Content maintenance and continuous improvement are also important, particularly as LLM capabilities improve and new reports are published. LLMs might assist by identifying new information to integrate into existing summaries, and recommending how to do so without continually growing the word count."
+        },
+        {
+            "text": "If your team is exploring similar projects, it\u2019s a good idea to bring in content design expertise as early as possible. Content designers can offer strategic advice, help to design and quality assure the end-to-end process, and sometimes - just as importantly - identify where human effort alone would be more effective!"
+        }
+    ]
+}
