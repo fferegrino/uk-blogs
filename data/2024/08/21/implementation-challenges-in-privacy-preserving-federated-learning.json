@@ -1,0 +1,89 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/08/21/implementation-challenges-in-privacy-preserving-federated-learning/",
+    "title": "Implementation Challenges in Privacy-Preserving Federated Learning",
+    "authors": [
+        "Joe Near",
+        "Mark Durkee",
+        "David Darais"
+    ],
+    "categories": [
+        "Data",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-08-21T09:02:41+01:00",
+    "content": [
+        {
+            "text": "Featuring:"
+        },
+        {
+            "text": "In this post, we talk with Dr. Xiaowei Huang and Dr. Yi Dong (University of Liverpool), Dr. Mat Weldon (UK Office of National Statistics (ONS)), and Dr. Michael Fenton (Tr\u016bata) who were winners in the UK-US PETs Prize Challenges. We discuss implementation challenges of privacy-preserving federated learning (PPFL) - specifically, the areas of threat modeling and real-world deployments."
+        },
+        {
+            "heading": 2,
+            "text": "Threat Modeling"
+        },
+        {
+            "text": "In research on privacy-preserving federated learning (PPFL), the protections of a PPFL system are usually encoded in a threat model that defines what kinds of attackers the system can defend against. Some systems assume that attackers will eavesdrop on the system\u2019s operation, but won\u2019t be able to affect its operation (a so-called honest but curious attacker), while others assume that attackers may modify or break the system\u2019s operation (an active or fully malicious attacker). Weaker attackers are generally easier to defend against than stronger ones."
+        },
+        {
+            "text": "Unfortunately, it remains challenging to determine whether a threat model is realistic.\u00a0 In the real world, will attackers be honest but curious, or fully malicious? Or somewhere in between? It\u2019s often very difficult to say with confidence\u2014and making the wrong choice may result in deployment of a system that is not sufficiently well-defended. Moreover, it can be difficult even to compare different threat models to determine their relative strength."
+        },
+        {
+            "text": "Authors: What assumptions do system designers make about the capabilities of attackers when designing a threat model?"
+        },
+        {
+            "text": "Dr. Xiaowei Huang and Dr. Yi Dong, University of Liverpool: Depending on the assumptions, different threat models enable the attacker with different capabilities. For example, an attacker can eavesdrop on communications between agents and use the observations to figure out the secrets, e.g., reconstruct the global model. Another attacker may tamper with the labels of a local dataset to induce erroneous predictions. A local agent can also be an attacker, in the sense that they can inject backdoors into the global model or steal the global model without contribution. An attacker to the central agent can manipulate the model update to prevent the global model from converging."
+        },
+        {
+            "text": "Authors: What are the challenges in defining and comparing threat models for privacy-preserving federated learning?"
+        },
+        {
+            "text": "Dr. Xiaowei Huang and Dr. Yi Dong, University of Liverpool: Even for a well-discussed attack such as poisoning attack, due to its distributed nature and privacy constraints, there might be different threat models for e.g., noisy, observational, or Byzantine attackers.\u00a0 "
+        },
+        {
+            "text": "To enable a rigorous study, a threat model needs to be articulated well. However, a formal model that can describe different assumptions is still missing. This state of the art has made the comparison between methods (either learning or defence) hard."
+        },
+        {
+            "heading": 2,
+            "text": "The Theory-Reality Gap"
+        },
+        {
+            "text": "Research on privacy-preserving federated learning often makes simplifying assumptions that are not reasonable in real-world deployments. These gaps between theory and practice remain a barrier to developing deployable PPFL systems, and most existing systems have filled these gaps with custom solutions. In addition to limiting the potential for PPFL systems to be adoptable on a wider scale, this approach also means that it\u2019s difficult to ensure that deployed PPFL systems are reliable and free of bugs. This challenge is compounded by the need for real-world PPFL systems to integrate with existing data infrastructure\u2014a requirement that can also lead to important security and privacy problems. Several participants in the UK-US PETs Prize Challenges highlighted issues relating to this."
+        },
+        {
+            "text": "Authors: What major gaps still exist between the theory and practice of privacy-preserving federated learning?"
+        },
+        {
+            "text": "Dr. Xiaowei Huang and Dr. Yi Dong, University of Liverpool: Current FL or PPFL focus on algorithmic development, by abstracting away some real-world settings on which the FL or PPFL algorithm will run. For example, it may not consider the cases where some or all local agents do not have sufficient computational powers or memory to conduct large scale training and inference, it may not consider the open environment in which there are eavesdropper or attacker to compromise security or privacy properties of the algorithms, etc."
+        },
+        {
+            "text": "Dr. Mat Weldon, UK ONS, Data Science Campus: The problem with the current, highly bespoke, federated learning solutions is that there are so many moving parts, and every moving part needs to be independently threat tested for each new solution. It\u2019s actually easier to design a new federated learning architecture than it is to \u2018red team\u2019 it."
+        },
+        {
+            "text": "The discipline is currently in a very fluid state \u2013 every new solution is bespoke and tailored to a particular engineering problem. This makes it difficult to achieve economies of scale. I predict that over the next few years we\u2019ll see protocols emerge that crystallise common patterns, in the same way that cryptographic protocols emerged and crystallised in web commerce."
+        },
+        {
+            "text": "Dr. Michael Fenton, Tr\u016bata: In the majority of solutions that we have observed, small but critical flaws in the overall system design can lead to privacy breaches. These flaws typically arise because solution designers often seek to retro-fit existing legacy solutions or systems to add privacy-preserving elements as a time and cost-saving measure. The net result is that the overall system becomes poorly optimised for privacy protection, since in many cases an optimal solution may necessitate starting from scratch which can be prohibitively expensive from a development perspective. Privacy-by-design means building privacy protections into a system \u201con paper and in practice\u201d, i.e. both designing a system to be privacy-preserving from the ground up and testing the entire system to ensure those privacy protections are having the desired effect."
+        },
+        {
+            "heading": 2,
+            "text": "Meeting the Challenge"
+        },
+        {
+            "text": "The challenges described in this post are associated with the early stage of development for PPFL systems\u2014a situation that many working in this area hope will improve with time."
+        },
+        {
+            "text": "As organizations begin building and deploying PPFL systems, we are learning more about processes for threat modeling. For example, it\u2019s important to carefully articulate the most important security and privacy risks of the deployment context, and ensure that the threat model includes all the attacker capabilities associated with these risks."
+        },
+        {
+            "text": "Growing interest in practical deployments is also driving the development of flexible software tools. Open-source software frameworks like Flower, PySyft, FATE, and TensorFlow Federated are fast becoming more mature and capable, and collaborative efforts like the UN PET Lab, the National Secure Data Service, and challenges like the UK-US PETs Prize Challenges are continuing to raise awareness about the need for these technologies."
+        },
+        {
+            "heading": 2,
+            "text": "Coming Up Next"
+        },
+        {
+            "text": "Solutions for privacy-preserving federated learning combine distributed systems with complex privacy techniques, resulting in unique scalability challenges. In our next post, we\u2019ll discuss these challenges and some of the emerging ideas for addressing them."
+        }
+    ]
+}
