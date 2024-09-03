@@ -1,0 +1,101 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/09/03/tackling-a-systems-accessibility-without-testing/",
+    "title": "Tackling a system's accessibility without testing",
+    "authors": [
+        "James Buller",
+        "Guerman Cope, Senior Accessibility Consultant, Home Office",
+        "Julie Maybury, User Centred Design Team, Home Office"
+    ],
+    "categories": [
+        "Access needs",
+        "Accessibility",
+        "Accessibility Regulations",
+        "Testing"
+    ],
+    "pub_date": "2024-09-03T11:11:51+01:00",
+    "content": [
+        {
+            "text": "The Web Content Accessibility Guidelines (WCAG) provides a helpful framework for identifying technical accessibility issues, but what happens when the same issues crop up time and again? How can you find the causes and change the culture of the team behind the system?"
+        },
+        {
+            "text": "That was the challenge we faced as the Accessibility Assurance team in Home Office Digital, Data and Technology (DDaT). We\u2019re passionate about improving the user experience and creating a diverse and inclusive environment, so we really wanted to understand what was stopping teams from fully embedding accessibility in all stages of design, development, and deployment. We conceived the idea of an accessibility assurance review."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We were dealing with a very large, modular system that all our staff use, often several times a week. Testing components against WCAG criteria was helpful to highlight issues, but we weren\u2019t really moving forward in creating an accessibility mindset. To help us find out why, we had to understand how the multi-disciplinary product teams could better integrate accessibility into development processes instead."
+        },
+        {
+            "text": "First, we did an extensive review of materials created by the delivery team including: emails, minutes, Jira tickets, contracts, specifications, research plans and test reports. We noted any references to accessibility. We looked at how prominently accessibility featured throughout the full development lifecycle of the product and really focused on how well it was understood in all aspects of delivery."
+        },
+        {
+            "text": "We highlighted 5 key areas for further investigation:"
+        },
+        {
+            "text": "Across all areas there were reoccurring themes:\u00a0"
+        },
+        {
+            "text": "To help us to fully understand these themes, we interviewed various team members. We took detailed notes and used root cause analysis to identify and explore the key challenges faced by the team."
+        },
+        {
+            "text": "The output was a report of the findings, a set of conclusions and a rating of the resulting risk, plus several broad recommendations. We delivered this report to the product team and their senior managers."
+        },
+        {
+            "text": "In collaboration with us they produced a plan to fulfil the recommendations and tackle the issues. We supported these activities and held a formal progress review a year later, a pattern that will be repeated.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What went well"
+        },
+        {
+            "text": "The level of buy-in from the director responsible for the system was a huge boon. Their encouragement enabled real frankness during meetings."
+        },
+        {
+            "text": "Later they were very open to the challenges made in the report and have since given strong ongoing commitment to the remedies.\u00a0"
+        },
+        {
+            "text": "Speaking to a range of people across the team gave us lots of different perspectives and allowed us all to explore the different levels of understanding of accessibility. These open conversations also increased engagement and insight into accessibility. Gathering honest insight from the team helped us to correctly identify root causes, rather than focusing on just the symptoms within the system. As a result, our recommendations were both practical and achievable."
+        },
+        {
+            "text": "Alongside our recommendations, we used a common quality assurance report template to show how accessibility can be integrated into wider risk management practices. This helped all team members to see how their approach to accessibility affected the risks associated with the product and so why it is important to their role."
+        },
+        {
+            "text": "The report sparked ongoing collaboration with the team, on activities closely mapped to recommendations and monitored over time. The sponsorship of the director and this enduring relationship with the team is what made the accessibility assurance review such a success. Throughout, accomplishments were celebrated, and good practice was highlighted and encouraged."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges we overcame"
+        },
+        {
+            "text": "Taking a novel approach required a lot of groundwork. It took several months to fully understand the scope of the problem and identify the areas we wanted to focus on. We also had to spend time building relationships with the people we wanted to speak to, so we could be sure their answers would be open and honest. Without this trust, we wouldn\u2019t get to the root of the problems. Spending this extra time really paid off though, as all the team really got behind the review."
+        },
+        {
+            "heading": 2,
+            "text": "Impacts"
+        },
+        {
+            "text": "The assurance review improved the overall understanding of accessibility implementation and highlighted areas where central support was required from our accessibility team."
+        },
+        {
+            "text": "It also empowered the product team by showing them where and how they could take accessibility into their own hands. They are now thinking about and empowered to practice accessibility everyday as part of delivery.\u00a0"
+        },
+        {
+            "text": "The review highlighted Home Office obligations and clearly communicate to senior stakeholders the importance of accessibility. This allowed the wider directorate to successfully build a case and obtain approval to recruit a full-time accessibility consultant and create an accessibility advocate group. This is setting an excellent example which can be replicated across the organisation."
+        },
+        {
+            "text": "Guerman Cope, Senior Accessibility Consultant\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The future"
+        },
+        {
+            "text": "The increased engagement and understanding of accessibility we achieved through this review is something we want to replicate in other areas. We are improving the methodology when conducting assurance reviews of other products, focusing again on individual understanding and the bigger picture in terms of risk management. We\u2019re hoping this will help identify common areas for development across the department and start working towards a consistent, embedded approach to accessibility.\u00a0\u00a0"
+        },
+        {
+            "text": "Every Home Office product is different, and we know the approach to each will need to be tailored. Sometimes we might need a lighter touch or a deeper dive, we will continue to innovate on the format to capture the best results for each product and business area. As for the teams involved in the first assurance review, their next steps are looking at improving metrics and training for accessibility as part of their ongoing programme of improvement. "
+        }
+    ]
+}

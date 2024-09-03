@@ -1,0 +1,105 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/09/03/setting-the-foundations-for-effective-data-use-in-local-government/",
+    "title": "Setting the foundations for effective data use in local government",
+    "authors": [
+        "The Local Digital team"
+    ],
+    "categories": [
+        "Data",
+        "Local Digital"
+    ],
+    "pub_date": "2024-09-03T15:43:32+01:00",
+    "content": [
+        {
+            "text": "In this blog post, we share the insights behind our approach to scaling data standards and an update on how we are addressing the challenge of unconnected systems in councils.\u00a0"
+        },
+        {
+            "text": "Over 300 councils and sector organisations have committed to the Local Digital Declaration, which sets out a clear goal: to co-create the conditions for the next generation of local public services, where technology is an enabler rather than a barrier to service improvements. However, unconnected systems are making it difficult for councils to use data effectively, impacting their commitment.\u00a0"
+        },
+        {
+            "text": "Through the development and scaling of data standards across local government, we can help councils unlock the full potential of data and digital services. Read our blog published in April to find an introduction to Local Digital\u2019s work on data standards.\u00a0"
+        },
+        {
+            "heading": 1,
+            "text": "What we have learnt"
+        },
+        {
+            "text": "Over the past 5 years, we\u2019ve worked with local government to address common challenges in digital transformation. We\u2019ve provided direct support through the Local Digital programme and the Digital Planning programme, scaled solutions like the Open Referral UK data standard, and researched the current local government software market in areas such as planning, and social care.\u00a0"
+        },
+        {
+            "text": "Insights from this work, the Future Councils pilot, and preliminary findings from the independent evaluation of the Local Digital programme highlight a major challenge across the sector: the lack of interoperability between existing technology systems.\u00a0"
+        },
+        {
+            "text": "This issue has been evident across Local Digital Fund projects, where nearly half focused on leveraging data to improve service delivery. The use cases vary: for instance, Stockport\u2019s Family Context helps social workers quickly access a child's family information for thorough needs assessments, while Westmorland & Furness Council\u2019s VIPER tool uses data to identify vulnerable households during emergencies, ensuring they receive the support they need."
+        },
+        {
+            "text": "Despite these different use cases, each project faced similar challenges, as illustrated below:\u00a0\u00a0"
+        },
+        {
+            "text": "The interoperability challenges can be broadly grouped into two categories: technical barriers and data governance barriers."
+        },
+        {
+            "heading": 2,
+            "text": "Technical barriers"
+        },
+        {
+            "heading": 2,
+            "text": "Data governance barriers\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Addressing challenges with scaling"
+        },
+        {
+            "text": "These challenges prevent many councils from fully leveraging data for their intended purposes. There are some projects, such as Family Context, that have successfully navigated these obstacles. This project developed a solution that links data from social care, education, and health systems to help frontline workers better support vulnerable families. This solution, which includes an open-source rules engine, is now in use within the council.\u00a0"
+        },
+        {
+            "text": "However, scaling this solution introduces another challenge. Each council operates with its own unique software systems, data structures, and agreements with external organisations. While the rules engine can be adopted by other councils, strict interpretations of compliance requirements prevent the use of existing data-sharing agreements. As a result, each council must independently navigate the process of accessing and extracting data from various systems and organisations."
+        },
+        {
+            "text": "This highlights the need for a more centralised approach. By addressing these challenges at a broader level, we can help councils develop their own data processes while also moving toward solutions that work across the entire sector. In doing so, we can reduce duplication and foster widespread innovation.\u00a0"
+        },
+        {
+            "heading": 1,
+            "text": "What we are doing about it"
+        },
+        {
+            "text": "The information we have gathered reveals that the potential of digital innovation and emerging technologies, such as AI, cannot be fully realised without first addressing foundational interoperability issues. Ensuring that data can be effectively used and shared, that systems are integrated, and that councils have the necessary skills is essential for unlocking the benefits of emerging technologies."
+        },
+        {
+            "text": "To achieve this, in our role of steward for the sector, we are supporting the development of data standards."
+        },
+        {
+            "text": "We are approaching data standards in several complementary ways. We have broken down the journey to scaling adoption of data standards, and are delivering three streams of work at each phase to understand the right interventions we should be making. Take a look at our website to learn more.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Data standards discovery"
+        },
+        {
+            "text": "We want to unlock value across the wider ecosystem for data standards. Our goal is to find out how to drive meaningful impact across the local government sector to enhance data access, improve service delivery and interoperability, and promote innovation. This builds upon our previous exploration into scaling data standards to support local government.\u00a0"
+        },
+        {
+            "text": "By engaging with central and local government, the private sector and other sector organisations, we aim to understand the landscape and clearly define our role in standards creation, adoption and ownership.\u00a0"
+        },
+        {
+            "text": "We have recently kicked off a discovery to understand the potential for standards across the sector, focusing on:"
+        },
+        {
+            "text": "We are working closely with iStand UK to drive success for standards across the sector.\u00a0"
+        },
+        {
+            "text": "To share your experiences of working with data infrastructure standards, provide your contact details via this form, and we will get in touch."
+        },
+        {
+            "text": "We will be holding an open \u2018Show and Tell\u2019 on 17 October, 2024 for anyone wanting to hear more about our work. Complete this form to receive joining instructions."
+        },
+        {
+            "heading": 1,
+            "text": "How to find out more"
+        },
+        {
+            "text": "To learn more about our work on data standards and how you can get involved, visit the Local Digital website. You can also follow our channels to hear the latest updates:"
+        }
+    ]
+}
