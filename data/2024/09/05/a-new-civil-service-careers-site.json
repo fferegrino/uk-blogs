@@ -1,0 +1,123 @@
+{
+    "url": "https://civilservice.blog.gov.uk/2024/09/05/a-new-civil-service-careers-site/",
+    "title": "A new Civil Service Careers site",
+    "authors": [
+        "Lindsay Polden"
+    ],
+    "categories": [
+        "A Brilliant Civil Service",
+        "A great place to work",
+        "A Skilled Civil Service",
+        "An Ambitious Civil Service",
+        "An Innovative Civil Service"
+    ],
+    "pub_date": "2024-09-05T11:36:47+00:00",
+    "content": [
+        {
+            "text": "The Civil Service is made up of 44 departments as well as 421 agencies and other public bodies. So it\u2019s no surprise that, even for existing civil servants, finding the right career opportunities can take a lot of effort."
+        },
+        {
+            "text": "Since its launch in 2018, the Civil Service Careers site has been helping improve awareness of what the Civil Service does and the breadth of job roles available.\u00a0"
+        },
+        {
+            "text": "To cement its place as the \u2018front door\u2019 to careers in government, we recently embarked on a project to modernise and improve the site."
+        },
+        {
+            "heading": 2,
+            "text": "How it began"
+        },
+        {
+            "text": "Back in 2018, we started by adding the highest-priority features to the site. The first was an interactive map so that users could see vacancies closer to home, in real time. The map also serves to highlight that over 80% of Civil Service jobs are based outside of London, in our regional towns and cities."
+        },
+        {
+            "text": "Next, we developed a Career Matcher tool where users can self-assess their transferable skills and interests, and be directed to the professions that may be a good fit for them."
+        },
+        {
+            "text": "We then expanded our range of cross-government information, to help users explore entry routes that suit their circumstances, get advice on reasonable adjustments and job sharing, and how to approach applications, assessments and interviews."
+        },
+        {
+            "text": "But it wasn\u2019t enough to have fun features and useful content, we needed the site to look and feel modern in the way our users expected from a careers site."
+        },
+        {
+            "heading": 2,
+            "text": "Our users"
+        },
+        {
+            "text": "Over the last year, the Civil Service Careers site has had around 1.8 million users. They are civil servants, non-civil servants, school leavers, carers, apprentices - job seekers of all types and at all stages of their careers."
+        },
+        {
+            "text": "According to our site survey, the majority want to know what the Civil Service is, what kinds of careers are available, and how the Civil Service Jobs application process works.\u00a0"
+        },
+        {
+            "text": "They also have strong opinions about how the site can be improved."
+        },
+        {
+            "heading": 2,
+            "text": "The issues"
+        },
+        {
+            "text": "The CS Careers team: Left to right: Jenny Pickard (Associate Delivery Manager), Lindsay Polden (Content Designer), Katharine Sendell (Delivery Manager)."
+        },
+        {
+            "heading": 2,
+            "text": "Updating the look of the site"
+        },
+        {
+            "text": "In spring 2023, after a significant discovery phase, we began a complete redesign of the site. The site content is managed by many teams, or \u2018page owners\u2019 in different corners of the Civil Service, so it was important for the new design to be consistent but not uniform, allowing for personality and difference to shine through.\u00a0"
+        },
+        {
+            "text": "Alongside this, our end users were consulted on everything from their preferred colour schemes, fonts, and illustration styles, to how the menu worked. As with all user research, there were a few surprises that sent us rushing back to tweak designs."
+        },
+        {
+            "heading": 2,
+            "text": "Reconsidering the structure of the site"
+        },
+        {
+            "text": "Users liked the content but couldn\u2019t always find everything they needed. Our first step to solve this was to create a clear and useful navigation menu."
+        },
+        {
+            "text": "We conducted usability testing sessions and an online card-sorting exercise with a range of users. During the card sorting exercise, users were asked to group different information, that they might find on the site, into categories, in a way that made sense to them. This informed the menu structure you see today."
+        },
+        {
+            "text": "Even with a great menu, there are over 300 pages on the site, so our next step will be to add a keyword search function.\u00a0"
+        },
+        {
+            "text": "During the user research for this, users tried out 4 different ways of searching. The overall preference was for a drop-down search, opening under the main menu, and a familiar search engine-style results page."
+        },
+        {
+            "text": "When the feature launches in the coming months, users will be able to find exactly what they are looking for in a few keystrokes."
+        },
+        {
+            "heading": 2,
+            "text": "Reimagining the back end of the site"
+        },
+        {
+            "text": "The process for creating and editing site pages in WordPress was completely overhauled. Previously, page owners had to fit their content into 7 restrictive templates and follow a three-step publishing process. Now, page owners use bespoke blocks - a series of components (such as text, cards, images, tabs and accordions) with over 6 million potential combinations - to showcase their content. We\u2019ve also reduced the publishing process to just two steps."
+        },
+        {
+            "text": "Moving from templates to blocks was a manual process as each page had to be rebuilt using the new components. This took around 6 months and over 25 mini-projects, with page owners, providing workshops that included training, prototyping, content management, and design support.\u00a0"
+        },
+        {
+            "text": "To track the success of the new-look pages, we designed a Google Analytics data dashboard specifically for our page owners."
+        },
+        {
+            "heading": 2,
+            "text": "The future"
+        },
+        {
+            "text": "We\u2019re delighted that all pages on the site are now in the new style and we can look ahead.\u00a0"
+        },
+        {
+            "text": "The Civil Service Careers site has already been chosen to host the Civil Service Fast Stream, which is a testament to the success of the redesign."
+        },
+        {
+            "text": "Our ambition is still to showcase every department and profession in the Civil Service, so we\u2019re continually working to welcome new teams onto the site with their vibrant new content."
+        },
+        {
+            "text": "We\u2019ll also be building new features and functionality and working closely with Civil Service Jobs to maintain a streamlined end-to-end journey for our users."
+        },
+        {
+            "text": "Keep an eye on the Civil Service Careers site for exciting new content.\u00a0"
+        }
+    ]
+}

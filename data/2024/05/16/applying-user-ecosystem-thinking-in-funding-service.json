@@ -1,0 +1,129 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/05/16/applying-user-ecosystem-thinking-in-funding-service/",
+    "title": "Applying user ecosystem thinking in the Funding Service",
+    "authors": [
+        "Ben Sprung, Policy Lead",
+        "Nicole Aleong, Senior User Researcher"
+    ],
+    "categories": [
+        "Design",
+        "Funding Service"
+    ],
+    "pub_date": "2024-05-16T11:03:26+01:00",
+    "content": [
+        {
+            "text": "In DLUHC\u2019s Funding Service\u00a0team, we design ways to improve the user experience of applying for and distributing funding. To do that, we need to continually expand our understanding of our users and the mental models we apply to think about them.\u00a0\u00a0"
+        },
+        {
+            "text": "In this post, we\u2019re going to discuss the concept of user ecosystem thinking and how it can be applied by designers in their day-to-day work.\u00a0\u00a0"
+        },
+        {
+            "text": "This concept and the practical activities we discuss in this post are derived from the book \u2018Rethinking Users: A Design Guide to User Ecosystem Thinking\u2019 by Michael Youngblood and Ben Chesluk, with illustrations by Nadeem Haidary. \u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is user ecosystem thinking?\u00a0\u00a0"
+        },
+        {
+            "text": "User ecosystem thinking is a term that recognises that there are multiple archetypes of users, not just the ones that directly interact with your product, service or solution. It is a unique way to think of users, user experience and design together. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Users and stakeholders\u00a0"
+        },
+        {
+            "text": "According to the book by Youngblood and Chesluk, which we referenced above, a user is \u201canyone who has a personal experience of a design artefact\u201d whereas stakeholders are \u201cpeople or entities that have a stake/personal interest in the service. They don\u2019t have to directly experience the service.\u201d\u00a0 "
+        },
+        {
+            "text": "We recognise the temptation to typically focus our attention on the direct users that engage with and have interaction touchpoints with our services. Users beyond that group can be hard to see. If they are out of sight, they are often out of mind. We know that \u2018users\u2019 and \u2018stakeholders\u2019 are connected in an ecosystem \u2013 a fluid and dynamic environment \u2013 and can influence each other. However, our conventional models of thinking about them in service design limit our ability to see the ways they are connected.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "User ecosystem thinking in practice\u00a0"
+        },
+        {
+            "text": "The Youngblood and Chesluk book gives the example of electric scooter rental services, used in many cities, to illustrate what happens when user ecosystem thinking is not part of the design process. \u00a0"
+        },
+        {
+            "text": "One of the first cities to introduce an electric scooter rental service was San Francisco. The company only focused on the needs of their end or direct user \u2013 the rider of the scooter. At the end of the ride, riders could leave the scooter anywhere. Consideration was not given to the needs of other users in the wider scooter ecosystem, such as pedestrians and cyclists, who were getting frustrated by scooters left in the middle of the pavement. The inevitable backlash resulted in the city authorities revoking the company\u2019s licence.\u00a0 \u00a0"
+        },
+        {
+            "text": "Companies in other cities worked to understand the needs of cyclists and pedestrians, as well as the needs of \u2018intermediary users\u2019, like those servicing the scooters and even those attempting to vandalise the scooters. This meant they introduced features to the service to meet some of these needs, such as designated parking places and the rider having to take a photo to prove they have parked responsibly. Additional security features were also introduced to reduce the risk of vandalism.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Rethinking our \u2018users\u2019\u00a0\u00a0"
+        },
+        {
+            "text": "In March, we hosted a 3-hour team workshop for all members of the user-centred design (UCD) team working in the Funding Service. The aim was to go beyond our conventional models of thinking about users, and to fully explore the different archetypes of the users of our services. \u00a0\u00a0"
+        },
+        {
+            "text": "We brought together our service designers, content designers, interaction designers, design researchers, along with policy team members and a few other subject matter experts.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "We hosted the workshop on Mural, for online collaboration as a hybrid session, and included activities that were adapted from the Youngblood and Chesluk book.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The structure of the workshop\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt\u00a0\u00a0"
+        },
+        {
+            "text": "Our \u2018Rethinking user ecosystems\u2019 workshop encouraged our team to engage and discuss our users in a new way. Here are a few things that surprised and challenged us.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. This activity was hard. Many doubts arose for our team, but the challenge was valuable.\u00a0"
+        },
+        {
+            "text": "The workshop reminded us how we need to consider other user types, not just the direct user, when designing our services.\u00a0\u00a0"
+        },
+        {
+            "text": "It took us out of our comfort zone. There were several archetypes where we struggled to think of examples. This in turn made us ask ourselves: was that an example of how we may have neglected certain archetypes? Are there archetypes we don\u2019t know exist? Or do those archetypes simply not exist in our ecosystem? Was that because we were trying to apply this to a complex digital service? Would this have been easier if we were thinking about non-digital concepts, like a bike or a door handle?\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "This team activity challenged us to think differently, humbled us about what we thought we knew, and identified gaps in our knowledge.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Users can represent different archetypes at different times and be multiple archetypes at the same time. \u00a0\u00a0"
+        },
+        {
+            "text": "Healthy debate sparked when we came across a user group that occupied multiple archetypes simultaneously or evolved into a different one. Our brains started to hurt as we realised we were recognising a transition previously not paid attention to nor documented. We did not have a way to track this transition or \u2018evolution\u2019 before and found this to be a particularly valuable way of looking at the user experience over time.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3. Our designs can sometimes accommodate one user archetype, which influences the experience of another archetype.\u00a0\u00a0"
+        },
+        {
+            "text": "By identifying different archetypes of users, we had a more open discussion around how we prioritise the needs of different users. It is something we must constantly think about. The benefit of having a shared language to discuss user groups and the roles they play also holds us to future accountability.\u00a0\u00a0"
+        },
+        {
+            "text": "Coming out of this workshop activity, we plan to make incremental adjustments to our whole service thinking. We have since done more mapping to create shared artefacts. Also, in some recent usability testing sessions focused on features to withdraw funding applications, we prioritised doing a smaller amount of testing with various user groups to gain multiple perspectives earlier on to then iterate.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "So... user ecosystem thinking: is it worth a try?\u00a0\u00a0"
+        },
+        {
+            "text": "Yes! Try it. Although it was complex, we would really recommend this activity to others, to take a step back from your day-to-day to explore your own user ecosystem. On balance, it was a challenge, but our team valued reframing our understanding of users.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch\u00a0\u00a0"
+        },
+        {
+            "text": "For anyone interested in running this workshop with their team, we\u2019d be happy to chat.\u00a0We\u2019d also love to share more user-centred design experiments and explorations like this in the future. If you have other book or activity recommendations, let us know. Likewise, we would love to hear how these types of activities have worked for you. Contact ben.sprung@communities.gov.uk.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Join our team\u00a0\u00a0"
+        },
+        {
+            "text": "If you are someone that takes an experimental approach to design and understands users, we\u2019d love to hear from you. Please keep an eye out for upcoming vacancies on the DLUHC Digital career portal. Read more about the work we do in the Funding Service."
+        }
+    ]
+}
