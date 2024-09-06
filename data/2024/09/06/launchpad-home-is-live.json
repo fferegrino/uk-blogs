@@ -1,0 +1,95 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2024/09/06/launchpad-home-is-live/",
+    "title": "Launchpad Home is Live!",
+    "authors": [
+        "Jane Stead"
+    ],
+    "categories": [
+        "Content",
+        "Content design",
+        "digital services",
+        "Our services",
+        "our users",
+        "Prisons",
+        "service design",
+        "Technology",
+        "User Centred Design"
+    ],
+    "pub_date": "2024-09-06T12:53:42+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Building on our first digital prisoner-facing service"
+        },
+        {
+            "text": "The digital Launchpad Product Delivery team went live with the new prisoner-facing Launchpad Home and Launchpad Auth on in-cell prisoner laptops on 4 June 2024."
+        },
+        {
+            "text": "Launchpad Home is the new home page and Launchpad Auth is the new single sign-on.\u00a0"
+        },
+        {
+            "text": "After 2 weeks of the roll-out into Private Beta in HMP Erlestoke, an early survey found 74% of prisoners had used Home and Auth (77% of those more than once) while 69% of prisoners always or sometimes click on Home when they sign into their laptops. This is positive as it's a different user journey to the one they're used to."
+        },
+        {
+            "text": "If you don't know about Launchpad, it is the first Justice Digital built prisoner-facing service (PFS) in the UK. As an innovative HMPPS in-cell tech programme, it's LIVE in 17 prisons meaning over 13,000 people in prison have secure laptops in their cells to support their rehabilitation.\u00a0"
+        },
+        {
+            "text": "Many teams work within this programme, but the Launchpad Product Delivery team works to create a modern and intuitive digital platform empowering prisoners on the inside, to live better lives on the outside.\u00a0"
+        },
+        {
+            "text": "At the moment, those services are Content Hub (information and rehabilitation content), Self-service (requests and apps) and Virtual Campus 2 (education tool). Within the Content Hub is a section called 'Profile' which contains a prisoner's personal information regarding their visits, adjudications, incentives, timetable and money.\u00a0"
+        },
+        {
+            "text": "We've now built on that."
+        },
+        {
+            "heading": 3,
+            "text": "Benefits of Launchpad Home"
+        },
+        {
+            "text": "Launchpad Home is the place where in-cell prisoner personalisation begins. It's the foundational platform from which all future prisoner-facing services and allowlisted content will be accessed."
+        },
+        {
+            "text": "It looks similar to the Content Hub homepage, but the back end is very different. Launchpad Home allows for much more complexity, diversity and breadth.\u00a0"
+        },
+        {
+            "text": "To do that, we needed to build software to allow a more mature home page (Home) and single sign-on (Auth) to allow for complex future builds and software access. In effect, we needed to futureproof the in-cell tech platform in order to build more and more progressively on it."
+        },
+        {
+            "text": "We're exploring opportunities to enable prisoners to self-serve more thus preparing them for resettlement into the community, for example ways to:"
+        },
+        {
+            "text": "None of this could have been done using the existing Content Hub. Launchpad Home and Auth (single sign-on) are a complex digital iteration of the Hub now offering the versatility, security and foundation on which to build new prisoner services and offer secure externally-sourced content."
+        },
+        {
+            "heading": 4,
+            "text": "Many, (many) blockers"
+        },
+        {
+            "text": "It's been a difficult journey going LIVE to produce a simple platform that is multi-layered. We passed through security and IT health checks at each stage, conforming to the British Standards Institute.\u00a0 Also, we effectively design and build 'blind' - we cannot test in situ or see our 'builds'.\u00a0"
+        },
+        {
+            "text": "So, well done to the team for the diligence, patience and commitment to seeing this through."
+        },
+        {
+            "heading": 4,
+            "text": "What's next for the team?"
+        },
+        {
+            "text": "Shortly, Launchpad Home and Auth will be rolled out to all Launchpad prisoners."
+        },
+        {
+            "text": "With these live, we can finish moving the prisoner Profile out of the Content Hub to Launchpad Home, and hopefully add even more useful, available data to create a better personalised, informative user experience.\u00a0"
+        },
+        {
+            "text": "We're also exploring allowlisting external 'sister' sites, putting laptops into more prisons, and how Launchpad can move prisoner requests away from the current paper-based processes.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "What can you do?"
+        },
+        {
+            "text": "Ask yourselves if the work you're doing could help prisoners self-serve and access services from the inside. Maybe we can collaborate. Could a prisoner-facing service work alongside your staff-facing one? Please email jane.stead@digital.justice.gov.uk and come chat to the team."
+        }
+    ]
+}
