@@ -1,0 +1,113 @@
+{
+    "url": "https://services.blog.gov.uk/2024/09/10/addressing-the-gaps-in-service-delivery-content/",
+    "title": "Addressing the gaps in service delivery content",
+    "authors": [
+        "Connie Briggs, Digital Strategy Lead, CDDO",
+        "Ben Carpenter \u2013 Senior Product Manager, Service Manual and Service Standard, CDDO"
+    ],
+    "categories": [
+        "Service Standard",
+        "Service transformation",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2024-09-10T13:01:40+01:00",
+    "content": [
+        {
+            "text": "Our mission: Central Digital and Data Office (CDDO) is redesigning the products and services we provide to other government departments to support the delivery of their services. This includes updating existing standards and guidance, so that more services are implemented to a \u2018great\u2019 standard."
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019re looking to update our products and services"
+        },
+        {
+            "text": "In our last blog post, we talked about the need to holistically review all the products and services CDDO creates to ensure they are aligned with good practice across government."
+        },
+        {
+            "text": "CDDO\u2019s Services team is specifically responsible for around 200 pieces of content related to service delivery and one of our largest products, the Service Manual. As part of a review process, we\u2019re looking at what needs to change within the products we own to align to the latest good practice across government."
+        },
+        {
+            "heading": 2,
+            "text": "We have over 200 pieces of content on service delivery, so where do we start?"
+        },
+        {
+            "text": "In recent months, we\u2019ve focused on auditing and cataloguing the content owned by our team. As part of this, we realised that we needed to create a prioritisation tool to work out where to start making changes that would have the biggest impact on our users to focus our efforts."
+        },
+        {
+            "text": "We started by trying to define the scope of service delivery content and creating a topic based structure to place all the existing products and services in to get a better view of what our content was talking about at a higher level. To help us understand what topics we should group content around, we ran a top tasks exercise where we presented a list of tasks to our users and asked them to identify their top 5. We then followed up with targeted user research to know more about how people currently use our content and some of the biggest challenges they face when trying to deliver services. Based on what we learned, we decided to map our products and services across the service delivery lifecycle and highlighted themes we knew were important from our research, ranging from approaches to transforming services, through to delivery practices and performance measurement."
+        },
+        {
+            "text": "Once we had our structure, we then layered all our existing products and services onto it, and this helped us clearly see where the gaps were in what we offer. For example, we have a lot of guidance in the Service Manual about delivery approaches (like this page on how to run in-depth user research interviews), but little information on service transformation as a whole and the conditions that are needed to enable it."
+        },
+        {
+            "text": "However, although this map helped us have a clear understanding of how all our content could be grouped, we still had an overwhelming landscape to narrow down. We wanted to make sure we were not just focusing on gaps, but also prioritising where we might need to refine and retire content too."
+        },
+        {
+            "heading": 2,
+            "text": "Establishing priority topics"
+        },
+        {
+            "text": "To help us prioritise, we decided to use the risk, impact, confidence and effort (RICE) framework, and came up with a series of questions we could apply to both our topic based structure and the content within it to work out where we could have the most impact. We\u2019ve since turned this process into an internal tool we are calling \u2018the good practice framework\u2019."
+        },
+        {
+            "text": "We applied a risk and impact lens to all of our topic areas identified in the scoping exercise to ask ourselves which of those areas were strategically important and have the largest potential for change. We answered questions such as \u2018what type of change is it\u2019 to understand its risk profile and questioned whether there was a clear purpose to know what impact it was or was not having. This helped us understand where the biggest scope for change was and how controversial that change might be."
+        },
+        {
+            "text": "Once we narrowed the topics down to the areas that came out as high priority against our risk and impact questions, we then took the individual pieces of content that we had mapped to those topics and applied questions on confidence and effort. This helped us understand how confident we were that a change is needed based on who\u2019s telling us about it and what we know about the subject, as well as the size and scope of the change required. It also helped us know if something was or was not currently good practice."
+        },
+        {
+            "text": "Once we answered all those questions, it was quite clear that we needed to focus on the following 3 topics first."
+        },
+        {
+            "heading": 2,
+            "text": "Types of service"
+        },
+        {
+            "text": "We\u2019ve known for a long time that there are multiple types of services across government however current guidance is mainly targeted at transactional services. We\u2019ve learned that different types of services have individual nuances as to how they are managed, and whilst the high level principles in the Service Standard apply to all services, we don't have specific guidance for teams on how this might be applied to other service types. This has been a long term issue for assurance teams, and acknowledged by a range of cross-government communities."
+        },
+        {
+            "text": "Therefore, we have identified the following types of services where clarity about how to work best with the Service Standard is needed:"
+        },
+        {
+            "text": "We cannot tackle all of these types of services immediately, therefore we\u2019ve decided to focus initially on COTS services having identified a cross-government community created by DWP and ONS to understand how to apply user-centred design principles and practices to COTS services. We will be working closely with this community to learn more about the challenges, understand what good practice already exists and share guidance when we know more."
+        },
+        {
+            "text": "We\u2019ve also been working on a service definition to include in the Service Manual (blog post to follow) to help define what we mean when we talk about government services. This guidance will include what we mean by outcomes, what\u2019s in scope, and definitions for the types of services government delivers."
+        },
+        {
+            "heading": 2,
+            "text": "Large scale transformation projects"
+        },
+        {
+            "text": "Large scale transformation projects have been a hot topic for many people in Government Digital and Data in the past few years and are different to digital transactions as they look at the whole user journey across the system and across transactions, thinking about how the whole journey can be transformed to create better outcomes for users."
+        },
+        {
+            "text": "Our research shows there are a range of pain points for service teams in large scale transformation projects that teams need help with, from challenges around multiple assessment points to limited whole service vision across all the different delivery teams. This can often become more complicated when no single organisation owns the full service and teams have to work across boundaries."
+        },
+        {
+            "text": "We\u2019ve set up a small working group with colleagues from across government to address these pain points. We aim to collate shared experiences of what works, points to consider in these programmes and prioritise areas of focus."
+        },
+        {
+            "heading": 2,
+            "text": "Continuous improvement"
+        },
+        {
+            "text": "While we have a lot of guidance on the service lifecycle from discovery to private beta, we have very little guidance or support available for live services and how to continuously improve them. We know this is challenging for departments from what our users tell us and we also see challenges around user satisfaction and accessibility in the Top 75 services."
+        },
+        {
+            "text": "We have some existing content that relates to this theme, but we know that these pages will require further review to bring them up to date with the latest good practice:"
+        },
+        {
+            "text": "However, we do not want to just rely on our own knowledge of what needs to change in this area and therefore we\u2019ve started to engage with subject matter experts to gather knowledge, experience and insight."
+        },
+        {
+            "heading": 2,
+            "text": "How you can help"
+        },
+        {
+            "text": "We know that there's lots of good practice on these topics already across the Government Digital and Data profession that we might not be aware of."
+        },
+        {
+            "text": "If you have information to share on an approach you\u2019ve taken that has proven to be successful, we\u2019d love to hear from you and work with you on case studies, especially if they're in one of our 3 priority areas."
+        }
+    ]
+}
