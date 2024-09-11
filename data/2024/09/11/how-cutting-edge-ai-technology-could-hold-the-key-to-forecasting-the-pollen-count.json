@@ -1,0 +1,86 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/",
+    "title": "How cutting-edge AI technology could hold the key to forecasting the pollen count",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "Health in a changing climate"
+    ],
+    "pub_date": "2024-09-11T16:55:32+01:00",
+    "content": [
+        {
+            "text": "\nPinaceae (pine) pollen"
+        },
+        {
+            "text": "On the roof of a UK Health Security Agency (UKHSA) lab, at Chilton\u2019s Harwell Science Campus in Oxfordshire, a new chapter in artificial intelligence (AI) and pollen monitoring is unfolding. By leveraging real-time data and AI-powered analysis, our team of toxicologists are developing a deeper understanding of the air we breathe and its impact on our well-being. They have recently installed a state-of-the-art system for monitoring biological particles, such as pollen and fungal spores, marking a significant leap in environmental surveillance."
+        },
+        {
+            "text": "This cutting-edge technology, installed on the rooftop, is not just an upgrade; it's a game-changer and in this blog post we\u2019ll explore how the team are working to better understand and monitor what we\u2019re breathing in and how this may impact our health."
+        },
+        {
+            "heading": 2,
+            "text": "Holography and cutting-edge AI"
+        },
+        {
+            "text": "Integrating sophisticated sensors with advanced data analytics, the system is able to provide real-time data on the types of pollen circulating in the atmosphere above Chilton."
+        },
+        {
+            "text": "Equipped with precision sensors, air is drawn into the instrument and particles enter the detection chamber one at a time. The light scattered by each particle as it moves through a laser is captured by 2 cameras to create a holographic image. These images provide detailed information on the size and shape of each particle."
+        },
+        {
+            "text": "From these holographic images the instrument has been trained with AI to identify different pollens among many other airborne particles, enabling the automated monitoring of local pollen types and levels in real time."
+        },
+        {
+            "text": "Pinaceae (pine pollen), quercus (oak pollen), poaceae (grass pollen)."
+        },
+        {
+            "heading": 2,
+            "text": "Speed and automation"
+        },
+        {
+            "text": "Historically, pollens and other biological particles/fungal spores are monitored using traps that sample air onto slides and/or sticky tape, which are then analysed under a microscope by experts able to identify and count different pollens/biological particles. This is a much slower process and results in data that is several days or even weeks old by the time it is available. Furthermore, count data is of lower resolution, generally per 24 hours at best."
+        },
+        {
+            "text": "Combining sampling and analysis with enhanced imaging and AI technologies automates the analysis and drastically reduces the time lag between sample collection and analysis from days or weeks to minutes."
+        },
+        {
+            "text": "This automation and speed mean that pollens are monitored in real time, providing immediate insights into what pollens are present and how they are changing minute by minute, providing a more comprehensive understanding of airborne allergens."
+        },
+        {
+            "heading": 2,
+            "text": "Real-time data and pollen patterns"
+        },
+        {
+            "text": "The real-time capability is a game-changer. The team can now observe fluctuations in pollen concentrations and types as they happen. This allows for a detailed analysis of pollen patterns and trends, which can be invaluable for both researchers and those affected by allergies."
+        },
+        {
+            "text": "By analysing these patterns, the team can now track both longer-term changes over days, months and years as well as the peak times of different pollens within the same day. This provides the opportunity to compare pollen patterns with weather and climate data, identifying how changing conditions can impact pollen types and levels."
+        },
+        {
+            "text": "An example graph of a pollen concentration time series."
+        },
+        {
+            "heading": 2,
+            "text": "Future developments and benefits"
+        },
+        {
+            "text": "To improve particle recognition further, the instrument has another trick up its sleeve. It also measures the fluorescence profile of each particle passing through the detection chamber."
+        },
+        {
+            "text": "Adding fluorescence data into the AI analysis will not only improve the accuracy of pollen classification, it will also allow identification of fungal spores. Soon the team will be able to track the patterns of both pollens and fungal spores, two key aeroallergens, in real time."
+        },
+        {
+            "text": "The data will also inform the experimental work of the team, identifying the aeroallergens of most concern for further research in their airway models to study the impacts of aeroallergen exposure on health, potentially leading to new interventions and/or treatments."
+        },
+        {
+            "text": "Researchers at 3 other Universities (Manchester, Birmingham and Leicester) are also collecting data with the same instruments, with a fourth university expected to begin soon. The team are collaborating with these researchers to establish the first UK real-time pollen and fungal spore monitoring network. This will enable the consortium to build a much better picture of the changing pollen and fungal spore patterns across the country, identifying key sources and how our changing climate can impact aeroallergen patterns in the future."
+        },
+        {
+            "text": "This wider real-time data will revolutionise pollen and fungal spore forecasting, providing more accurate and more timely alerts about high aeroallergen levels, allowing people to take preventive measures and manage their symptoms more effectively."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}

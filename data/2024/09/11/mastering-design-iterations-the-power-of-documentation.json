@@ -1,0 +1,102 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2024/09/11/mastering-design-iterations-the-power-of-documentation/",
+    "title": "Mastering design iterations: The power of documentation",
+    "authors": [
+        "Laura Sanchez"
+    ],
+    "categories": [
+        "Collaboration",
+        "Content design",
+        "Service design",
+        "software and services",
+        "technology",
+        "user research",
+        "User-centred design"
+    ],
+    "pub_date": "2024-09-11T13:13:20+01:00",
+    "content": [
+        {
+            "text": "Have you ever struggled to remember the context behind a particular design iteration? In the fast-paced world of UX design, decisions are made quickly and iterated even faster. But, as the designs evolve, it\u2019s easy to lose track of the rationale behind the choices we make."
+        },
+        {
+            "text": "This lack of documentation often leads to confusion. That\u2019s why documenting design iterations isn\u2019t just good practice, it\u2019s essential. By keeping records of the changes and their context;"
+        },
+        {
+            "text": "Documenting design decisions is crucial for several reasons:"
+        },
+        {
+            "text": "I've seen how comprehensive documentation of design iterations can help UX designers with the design processes. And how it assists the approach during a CDDO service mock assessment."
+        },
+        {
+            "heading": 2,
+            "text": "How to document them"
+        },
+        {
+            "text": "There isn\u2019t a one-size-fits-all approach to documenting design iterations. Each project is unique, and so will be your documentation method. Tailor your approach to suit your team's needs and the specific data you want to capture. Ensuring it remains flexible and effective."
+        },
+        {
+            "text": "Regardless of the format you choose, the minimum information you\u2019ll always want to include is:"
+        },
+        {
+            "text": "Linking the design iterations to specific research insights or pain points is good practice. This ties the changes to concrete evidence. Making the rationale behind each decision clearer and unbiased."
+        },
+        {
+            "text": "It may sound counterintuitive, but taking your time to document each iteration not only saves time. But also fosters a culture of accountability and continuous improvement within the team. Pair that with the right documentation tool, and your team will never lose track of the changes ever again!"
+        },
+        {
+            "text": "Let\u2019s take a closer look at the different tools we can use."
+        },
+        {
+            "heading": 2,
+            "text": "Tools for documentation"
+        },
+        {
+            "text": "When it comes to documenting your design iterations, you have complete flexibility in choosing the tools that best suit your project\u2019s needs. Whether you prefer using spreadsheets, Lucid boards, a plain document, Figma, Jira, or even including it as a page on the code prototype. The key is to select a method that works well for your team and stakeholders. It is a good idea to discuss and agree on the best approach to ensure everyone is following all the relevant information."
+        },
+        {
+            "text": "I\u2019ve experimented with different tools in the different projects I\u2019ve participated in, and here are some of the methods that have worked well."
+        },
+        {
+            "heading": 3,
+            "text": "Figma"
+        },
+        {
+            "text": "When using Figma, I added comments directly next to each section of the page, corresponding to the pain points uncovered during our research. Alternatively, you can highlight specific sections with a box and add explanatory text, which may be more visually engaging."
+        },
+        {
+            "text": "It\u2019s important to remember that not all design changes will be based on direct research evidence, and that\u2019s okay. Sometimes, you may choose to make a change to improve accessibility or decide to hold off on changes until more evidence is gathered. Both approaches are valid and should be documented accordingly."
+        },
+        {
+            "text": "Documenting design iterations in Figma is efficient as it eliminates the need to export designs to another tool. Everything stays within Figma, allowing you to add comments and insights directly on the design itself. This streamlines the process and ensures that all relevant information is easily accessible to the entire team."
+        },
+        {
+            "text": "Additionally, Figma offers flexible sharing options that enhance accessibility for team members without a Figma account. By setting the appropriate permissions, you can allow anyone with the link to view the file. Ensuring that stakeholders and collaborators can access the designs without needing to create an account."
+        },
+        {
+            "heading": 3,
+            "text": "Lucid"
+        },
+        {
+            "text": "In Lucid, I developed a template specifically designed to document the iterative design process for each page of the service across multiple rounds of testing."
+        },
+        {
+            "text": "Here\u2019s the structure I followed:"
+        },
+        {
+            "text": "I adhered to this structure consistently throughout subsequent design versions. Ensuring a clear and organised record of the design evolution."
+        },
+        {
+            "text": "This approach allowed me to quickly visualise all changes in one place. As the same board contained everything\u2014screenshots, research insights, and the changes made from one version to another\u2014across all pages. Having all this information centralised on a single board made it easy to track progress and maintain a holistic view of the design journey."
+        },
+        {
+            "text": "Contrary to Figma, where files can be shared with anyone via a link, Lucid boards typically require users to have an account to access the content."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "Documenting design iterations has proven to be invaluable in my work. Not just for keeping track of decisions, but for enhancing team collaboration and preserving the context of our designs. While the tools I\u2019ve used\u2014like Figma and Lucid\u2014have made this process more seamless. The key takeaway is that effective documentation should be tailored to your project\u2019s needs. Give it a try. You might be surprised at how much clarity and efficiency it brings to your design process."
+        }
+    ]
+}
