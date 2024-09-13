@@ -1,0 +1,89 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2024/09/13/authorised-corporate-service-providers-what-you-need-to-know/",
+    "title": "Authorised Corporate Service Providers: what you need to know",
+    "authors": [
+        "Mark Buckley - Implementation Lead, ACSP"
+    ],
+    "categories": [
+        "Changes to UK company law",
+        "Companies House transformation",
+        "Company guidance"
+    ],
+    "pub_date": "2024-09-13T11:07:03+01:00",
+    "content": [
+        {
+            "text": "It\u2019s important that Companies House knows who\u2019s filing information on the public register to make sure the information we hold is accurate, transparent, and not being used for fraudulent purposes. However, we do not currently have a full picture of who\u2019s filing this information."
+        },
+        {
+            "text": "Identity verification is an important part of the Economic Crime and Corporate Transparency Act. Under the act, Companies House will be required to verify the identity of anyone who\u2019s submitting information to the public register, including those acting on behalf of a company."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re introducing identity verification"
+        },
+        {
+            "text": "Our new powers will make the information we hold more accurate and transparent. It will also allow us to work more effectively with regulators and supervisory bodies through data and intelligence sharing."
+        },
+        {
+            "text": "Requiring third party agents to register their business and verify their identity will allow us to confidently identify who\u2019s filing on the register and acting on behalf of companies. We'll also be able to quickly identify when an agent may not be acting with a lawful purpose, and we\u2019ll be able to take action. This will help us to effectively protect lawful businesses and the public."
+        },
+        {
+            "heading": 2,
+            "text": "Authorised Corporate Service Providers (ACSPs)"
+        },
+        {
+            "text": "In the future, all third-party providers will need to register their business as an Authorised Corporate Service Provider (ACSP) before they can submit information and carry out identity verification checks on their clients. Over the coming months, we\u2019ll explain when these changes will come into effect."
+        },
+        {
+            "text": "An ACSP, also known as an authorised agent, is a business that\u2019s covered by Money Laundering Regulations, such as:"
+        },
+        {
+            "heading": 2,
+            "text": "Standards to become an ACSP"
+        },
+        {
+            "text": "To become an ACSP, agents must be supervised within the UK by one of the relevant Anti-Money Laundering (AML) supervisory bodies, such as:"
+        },
+        {
+            "text": "There are 25 supervisory bodies in the UK in total. You can find a full list on GOV.UK."
+        },
+        {
+            "text": "As part of the ACSP registration process, we'll ask for the AML supervisory body membership number for the business, sometimes called an ID number. It\u2019s important to make sure this is accurate."
+        },
+        {
+            "text": "Agents who operate as a sole trader or are part of a company that\u2019s not registered with Companies House will still need to register as an ACSP, but will be asked for more details. This is so we can cross-reference the information provided with the AML supervisor\u2019s data, as Companies House does not hold any records for non-incorporated companies."
+        },
+        {
+            "text": "If you\u2019re a software provider, filing information on behalf of a company or third-party provider, you\u2019ll also need to register as an ACSP. You\u2019re now included in the new legislation because you\u2019re responsible for filing information on the register through your software service."
+        },
+        {
+            "text": "The registrar has new powers to ensure compliance of ACSPs. This includes the ability to suspend or cease an ACSP, for example if the registrar has reason to believe an ACSP is no longer a fit and proper person."
+        },
+        {
+            "heading": 2,
+            "text": "Registering to become an ACSP"
+        },
+        {
+            "text": "If you hold a senior role within the business, such as a director, you'll need to complete a registration process to register your business as an ACSP. You'll be asked to complete identity verification as part of the application. You\u2019ll provide information about the business, which you\u2019ll need to keep up to date once registered as an ACSP. If your business is a sole trader, you will need to provide additional information, for example your name and date of birth."
+        },
+        {
+            "text": "Once registered, the ACSP will be provided with a new digital account and a unique identity number. This will allow them to file information and complete identity verification checks for their clients and enable Companies House to identify that the information has come from an authorised source."
+        },
+        {
+            "text": "The person registering the business as an ACSP will be able to add other people who work for the business to the ACSP account once it has been registered and approved. These employees will not be subject to identity verification but will be allowed to access services on behalf of the authorised agent, such as being able to carry out identity checks and file accounts for clients."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "The new registration service, combined with an intelligence and enforcement process will help us to maintain the accuracy of the information agents provide us. This will help protect the public and disrupt fraud."
+        },
+        {
+            "text": "If you\u2019re an agent, you do not need to do anything yet. We\u2019ll announce when the registration service will launch in advance to give you plenty of time to prepare, and we\u2019ll publish guidance on GOV.UK to help you with your responsibilities. In the meantime, you can get ready by making sure you understand:"
+        },
+        {
+            "text": "\u2022 the standards you need to meet before applying to become an ACSP\n\u2022 where to find your AML membership number"
+        }
+    ]
+}
