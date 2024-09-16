@@ -1,0 +1,93 @@
+{
+    "url": "https://food.blog.gov.uk/2024/09/16/how-technology-has-enabled-large-scale-rapid-population-level-recruitment-into-research-possible-food-poisoning-in-the-community-the-third-infectious-intestinal-disease-study-iid3/",
+    "title": "How technology has enabled large scale, rapid population level recruitment into research on possible food poisoning in the community: the third infectious intestinal disease study (IID3)",
+    "authors": [
+        "Vanashree Sexton & Elizabeth Button, members of the Clinical Informatics and Health Outcomes Research Group"
+    ],
+    "categories": [
+        "Foodborne disease",
+        "Science"
+    ],
+    "pub_date": "2024-09-16T12:28:41+01:00",
+    "content": [
+        {
+            "text": "Thanks to the use of patient- and practice-facing technology, this study has succeeded in achieving large scale, rapid population level recruitment into research about diarrhoeal illness and possible food poisoning in the community."
+        },
+        {
+            "heading": 2,
+            "text": "The background to IID3"
+        },
+        {
+            "text": "IID3 is made up of three cohort studies, which aim to understand the disease burden and cause of IID:"
+        },
+        {
+            "text": "Together, these cohort studies will help to identify the true incidence of IID in the population, rather than the small proportion that is picked up in surveillance systems and in those patients that visit the GP about their symptoms."
+        },
+        {
+            "text": "Our research group is the home of the RSC, we deliver disease surveillance sponsored by the UK Health Security Agency (UKHSA) and research.\u00a0 Our research includes being the largest work package in the third national study of infectious intestinal disease in the community (IID3), which is led by the University of Newcastle."
+        },
+        {
+            "heading": 2,
+            "text": "Progress to date"
+        },
+        {
+            "text": "The study is already providing an up-to-date understanding of the patterns of infectious intestinal disease (IID) in the UK population. So far, we have been able to rapidly recruit over 6000 participants and have collected over 1500 stool samples in the first 6 months of the study. The range of pathogens identified in stool samples for the study can be seen on our public facing dashboard: IID3 dashboard"
+        },
+        {
+            "heading": 2,
+            "text": "Cohort 1: Prospective Cohort Study"
+        },
+        {
+            "text": "In this article we focus on the Prospective Cohort Study (Cohort 1), and the technology that has enabled us to rapidly recruit patients across England at scale."
+        },
+        {
+            "text": "In this prospective cohort, we aim to recruit 9000 volunteer participants who report if they\u2019ve had any symptoms of IID (vomiting and/or diarrhoea) on a weekly basis for a 12-month period using the study mobile app. If participants develop symptoms, they are asked to complete a questionnaire about their symptoms, and to provide a stool sample, which can be tested in the lab for the pathogen causing illness."
+        },
+        {
+            "text": "Practice & participant recruitment"
+        },
+        {
+            "text": "As of August 2024, we have over 150 practices supporting us with participant recruitment, distribution of practices can be found in the map below. Engaging with, and recruiting practices, has been made possible through our close links with 2000+ member practices that are part of the RSC."
+        },
+        {
+            "text": "We started participant recruitment for this cohort in March 2024, and as of 20 August 2024 we have recruited 6128 volunteer participants throughout England."
+        },
+        {
+            "heading": 2,
+            "text": "Simplified screening and invitation process"
+        },
+        {
+            "text": "Technology in this cohort study has allowed us to achieve this rapid, at scale recruitment. Practices have been able to quickly and easily send text message invitations to a large proportion of their patient population (~80%). In the first three months of recruitment an estimated 250,000 text messages were sent. We were able to achieve this through automated patient search, and batch text message invitation software, which interfaces with the practice\u2019s computerised medical record system. The automated search allowed screening to be simpler and quicker (to exclude patients aged under 18, and those with incapacity to consent), so that practice staff don\u2019t need to undertake this task manually."
+        },
+        {
+            "heading": 2,
+            "text": "Patient and Practice facing app"
+        },
+        {
+            "text": "Patients that receive a text message invitation to participate in the study from their general practice receive a link to a microsite, from where they can download the study mobile app to complete consent and a baseline questionnaire. Patients are prompted on a weekly basis to report their IID symptoms, if any, on a weekly basis (see the interface and app images below)."
+        },
+        {
+            "text": "The tech-enabled approach used here differs to the earlier IID2 study which used dedicated study nurses to undertake manual reviews of GP records. In IID2 participants were asked to report symptoms by sending in a weekly postcard or email."
+        },
+        {
+            "text": " "
+        },
+        {
+            "heading": 2,
+            "text": "Our upcoming focus"
+        },
+        {
+            "text": "Our focus is now on gaining an understanding of participant engagement (including weekly question completion rates), through this automated participant recruitment method and extending recruitment in other UK nations."
+        },
+        {
+            "text": "We\u2019d like to say thank you to the public, patients and practices that are making this research possible. We\u2019d also like to thank the technology suppliers who have supported this work: the EMIS Recruit team and People With."
+        },
+        {
+            "heading": 2,
+            "text": "More about the RSC"
+        },
+        {
+            "text": "The RSC is a collaboration between the Royal College of General Practitioners (RCGP), the UK Health Security Agency (UKHSA), and the University of Oxford Research surveillance centre. \u00a0The RSC has over 2000 member general practices that support our research and disease surveillance through providing routine data, sampling and participating in research studies."
+        }
+    ]
+}

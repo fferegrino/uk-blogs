@@ -1,0 +1,64 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2024/09/16/changes-were-making-to-our-api-service/",
+    "title": "Changes we\u2019re making to our API service",
+    "authors": [
+        "James Male"
+    ],
+    "categories": [
+        "APIs",
+        "Data"
+    ],
+    "pub_date": "2024-09-16T16:01:15+01:00",
+    "content": [
+        {
+            "text": "At the Office for National Statistics, we are continually improving our digital products and services and James Male, Senior Product Manager, shares our plans to retire an API (application programming interface) and how to get the data from an alternative ONS API."
+        },
+        {
+            "heading": 2,
+            "text": "Retiring the v0 API"
+        },
+        {
+            "text": "We will be retiring the public facing V0 API that was developed several years ago by the digital team at the ONS. The API was introduced with the goal of making it easier for users to programmatically get the data they need without having to visit the ONS website."
+        },
+        {
+            "heading": 2,
+            "text": "When it will be switched off"
+        },
+        {
+            "text": "We will be doing a rolling retirement of the API over a 6-week period which will start with effect from Monday 14/10/2024. Also known as a \"rolling blackout\", this means we'll be taking this API offline at certain times of the day, gradually increasing the offline duration before making it completely unavailable with effect from Monday 25/11/2024."
+        },
+        {
+            "text": "Our controlled, gradual approach of phasing out the V0 API should help raise awareness of the plan to retire the API, providing our users with time to migrate to using the alternative Search API and to gain valuable user feedback."
+        },
+        {
+            "heading": 2,
+            "text": "What the API does"
+        },
+        {
+            "text": "There are three endpoints available in the V0 API that when currently queried, return the following data:"
+        },
+        {
+            "text": "The plan to retire means that the below will eventually become unavailable:"
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019re switching the API off"
+        },
+        {
+            "text": "At the Office for National Statistics, we are continually improving our digital products and services and retiring this API is part of a larger suite of work we\u2019ve started to improve our API services in line with the guidance on gov.uk."
+        },
+        {
+            "text": "The V0 API was developed some time ago as an initial concept to provide users with data via an API and has provided us with great insights, enabling us to learn more about our users and the way they want to retrieve data from us. We\u2019ve since concluded that it is no longer viable for us to keep it live as the technology is now outdated. It also doesn't provide good value for money as the cost of upkeep is high when comparing with other similar services."
+        },
+        {
+            "text": "However, the data is still available through our more modern Search API which we recommend using instead."
+        },
+        {
+            "heading": 2,
+            "text": "How to update your systems to use the alternative Search API"
+        },
+        {
+            "text": "To update your systems to use the Search API, please follow the guidance that\u2019s been published on our Developer Hub."
+        }
+    ]
+}
