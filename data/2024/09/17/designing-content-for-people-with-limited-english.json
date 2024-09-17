@@ -1,0 +1,193 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2024/09/17/designing-content-for-people-with-limited-english/",
+    "title": "Designing content for people with limited English",
+    "authors": [
+        "Sarah Lombardi, Principal Content Designer",
+        "Steven Shukor, Principal Content Designer"
+    ],
+    "categories": [
+        "Content",
+        "User centred design"
+    ],
+    "pub_date": "2024-09-17T14:00:15+01:00",
+    "content": [
+        {
+            "text": "The Home Office is the lead government department for immigration, visas, passports and asylum in the United Kingdom ('the UK'). The people we serve might be new to the country or accessing our services from overseas."
+        },
+        {
+            "text": "Not all of them will speak English. And those who do may still be learning."
+        },
+        {
+            "text": "For this reason, the Home Office offers interpreters and translations for some of our services. Our digital products aim to provide non-digital alternatives for those who want to speak to a person."
+        },
+        {
+            "text": "But the majority of our content is written in English, and this presents an obvious challenge for many of our users."
+        },
+        {
+            "text": "Using understandable language ensures everyone has equal access to critical government services and also reduces inequalities and protects people's rights."
+        },
+        {
+            "heading": 2,
+            "text": "Tips for writing for people who do not understand English"
+        },
+        {
+            "text": "At Home Office Digital, Data and Technology we\u2019ve been designing with language barriers in mind for a while now."
+        },
+        {
+            "text": "Back in 2015, our colleagues Amanda Summers-Plotno and Ben Stevens wrote a blog on writing for non-native English speakers. But a lot has happened in the UK government and internationally since then."
+        },
+        {
+            "text": "We have built on that guidance and used our recent experiences to put together some tips for anyone who needs to design for people with limited English."
+        },
+        {
+            "text": "More detail is given in our guide to designing for users with limited English, available on the Home Office Design System."
+        },
+        {
+            "heading": 2,
+            "text": "Be really clear and concise"
+        },
+        {
+            "text": "Reading and understanding information is much slower if you have limited English.\u00a0\u00a0"
+        },
+        {
+            "text": "People may interact with the Home Office at stressful times in their life, which already affects comprehension. Research has also shown that long and technical content makes people anxious."
+        },
+        {
+            "text": "This makes the use of clear language really important."
+        },
+        {
+            "text": "And though you already do this across all your services, you may have to be even plainer than you think. Here are some words we have discovered limited English speakers find hard to understand:"
+        },
+        {
+            "text": "Testing is really important in these cases."
+        },
+        {
+            "heading": 2,
+            "text": "Consider images or videos"
+        },
+        {
+            "text": "Before you even start to write, consider if an image, diagram or video is more useful."
+        },
+        {
+            "text": "A study has shown that a combination of pictures and text can help language learners to understand and remember information."
+        },
+        {
+            "text": "In a recent discovery, we explored using images in signage at a Home Office building as many people reading the signs did not speak any English."
+        },
+        {
+            "text": "We have also used a similar approach with passports \u2013 a chip symbol is included with the text describing what it is."
+        },
+        {
+            "text": "It\u2019s important to remember that not all users can perceive images so text alternatives should always be available."
+        },
+        {
+            "heading": 2,
+            "text": "Define and explain"
+        },
+        {
+            "text": "Sometimes you may have to use specialist or technical words because of policy or legal constraints. If so, give examples or explain what something is."
+        },
+        {
+            "text": "For example, \u2018Biometrics means your fingerprints and a photograph of your face\u2019. Or \u2018Chaperone means an adult who is travelling with your child\u2019."
+        },
+        {
+            "text": "Similarly, you might want to tell them why we need something. For example, why we are asking for any disabilities or health conditions."
+        },
+        {
+            "heading": 2,
+            "text": "Keep sentences short and simple"
+        },
+        {
+            "text": "People learning a language read every word, sometimes stopping to translate. This is different to fluent speakers who skim read."
+        },
+        {
+            "text": "Make this easier for limited English speakers by keeping sentences short and simple."
+        },
+        {
+            "text": "We advise following Content Design London\u2019s Readability Guidelines recommendation to keep sentences to an average of 15 words, if you can."
+        },
+        {
+            "text": "If you cannot, the Government Digital Service advice is to keep your sentences to an average of 25 words."
+        },
+        {
+            "text": "Split long sentences into different sentences or use lists. You can also save words by using simpler verbs, like \u2018Complete\u2019 rather than \u2018You should complete\u2019."
+        },
+        {
+            "text": "Be careful with tense as well. The simple present (\u2018You do\u2019) and simple past tense (\u2018You did\u2019) can help with comprehension and simplicity. These are often the first tenses that language learners are taught."
+        },
+        {
+            "text": "Try to avoid the perfect tense (\u2018I will have been\u2019) and make sure you only use the future tense (\u2018I will\u2019) if you need to. For example, the phrase \u2018How your information will be used\u2019 can be easily rewritten in the present \u2018How we use your information\u2019. And it makes it active, which is also great for this user group."
+        },
+        {
+            "heading": 2,
+            "text": "Use words that translate well"
+        },
+        {
+            "text": "Not all words translate exactly."
+        },
+        {
+            "text": "We\u2019ve found that the word \u2018deadline\u2019 is translated as \u2018dead\u2019 and \u2018line\u2019. Much more alarming than what we mean."
+        },
+        {
+            "text": "Similarly, avoid words that have a double meaning in English. Take the word \u2018leave\u2019, for example. Within the Home Office we sometimes use this to mean \u2018permission\u2019 but the user or a translating tool may read it as \u2018go away\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "Avoid idioms"
+        },
+        {
+            "text": "Idiomatic and figurative language is common and easy to use by accident."
+        },
+        {
+            "text": "But those less familiar with English may take idioms literally."
+        },
+        {
+            "text": "Think about phrases like \u2018Get in touch\u2019. This may be misunderstood when taken literally."
+        },
+        {
+            "text": "English speakers might also use phrases like \u2018keep an eye out\u2019 to mean \u2018expect to see something soon\u2019 - that is a strange phrase when translated literally."
+        },
+        {
+            "text": "Be as clear as you can. For example, in recent research with an asylum intake centre we found users were being directed to a \u2018red tent\u2019. This tent was not red at all. The centre they were in had been organised into zones, and \u2018red\u2019 was just the name of the zone."
+        },
+        {
+            "heading": 2,
+            "text": "Spell out abbreviations and acronyms"
+        },
+        {
+            "text": "Abbreviations and acronyms don\u2019t translate well. Translator tools don\u2019t pick them up."
+        },
+        {
+            "text": "Even if you expand on first use, the translation may not match the initials (for example \u2018biometric residence permit (BRP) becomes \u2018permesso di soggiorno biometrico (BRP)\u2019 in Italian) so it is harder for the reader to recognise the acronym on later screens."
+        },
+        {
+            "text": "Abbreviating through punctuation can also puzzle limited English speakers. A forward slash (/) could represent division or show a strong connection between words. For example, if you ask users about their \u2018parent / legal guardian\u2019, they might not realise this means \u2018parent or legal guardian\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "Words have power"
+        },
+        {
+            "text": "And finally, in our last blog we used the term \u2018non-native speakers\u2019. We now want to avoid that term as it reduces people to what they are not, and the word \u2018native\u2019 has links to the British colonial past."
+        },
+        {
+            "text": "There\u2019s no space to cover the debate in this post, but many other organisations are looking into this and have suggested alternatives, for example, the British Council in their article \u2018Native speakerism\u2019."
+        },
+        {
+            "text": "It has been difficult to find a single descriptive alternative, and maybe that\u2019s ok. You will see we describe it mostly according to the language level \u2013 for example using words like \u2018limited\u2019 or 'fluent\u2019."
+        },
+        {
+            "text": "This is a good example of how words can reinforce stereotypes or inequality. At the Home Office, we are committed to our values of being collaborative, compassionate, courageous and respectful. Using language that empowers and respects language and cultural difference is an important part of that."
+        },
+        {
+            "heading": 2,
+            "text": "Help us improve our guidance"
+        },
+        {
+            "text": "This post is based on our guidance on designing for people with limited English. We are always looking to iterate it."
+        },
+        {
+            "text": "If you have any insights or examples that you would like to share, please contact ucdops@homeoffice.gov.uk."
+        }
+    ]
+}
