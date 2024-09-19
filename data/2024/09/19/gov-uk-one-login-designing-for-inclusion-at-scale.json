@@ -1,0 +1,118 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/09/19/gov-uk-one-login-designing-for-inclusion-at-scale/",
+    "title": "GOV.UK One Login: Designing for inclusion at scale",
+    "authors": [
+        "Pablo Romero - Lead User Researcher for Digital Identity, Government Digital Service",
+        "Helena Trippe, Head of User Centred Design for GOV.UK One Login, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK One Login",
+        "Service design",
+        "User research"
+    ],
+    "pub_date": "2024-09-19T16:47:44+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK One Login mission is to \u2018make it easy for everyone to access government services\u2019."
+        },
+        {
+            "text": "However, translating exactly what \u2018for everyone\u2019 looks like in the context of identity proofing is not an easy task. There can be many barriers for a user to complete an identity journey and gain access to government services. Our work has shown that these not only exist for various user groups, but they are overlapping in nature and not easy to overcome."
+        },
+        {
+            "text": "Our ambition means it is essential that we design solutions that help users access services online. User-centred design (UCD) is at the core of our work and how we address our inclusion challenges.\u00a0"
+        },
+        {
+            "text": "In this blog, we\u2019ll share a strategic piece of UCD work on user segmentation to help GOV.UK One Login plan delivery of our inclusion agenda. And, in particular, how we\u2019re working to address the barriers of a particular user group that indexed highly in our findings, namely young people.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Building our evidence base around inclusion\u00a0"
+        },
+        {
+            "text": "At GOV.UK One Login, we\u2019ve been doing end-user research since April 2021. To date, we\u2019ve carried out over 150 rounds of research with over 2,000 participants, including live end to end testing and observational studies of participants engaging with our journeys. We\u2019ve got a rich pool of qualitative data and insight around people\u2019s lived experience of proving digital identities and using our service.\u00a0"
+        },
+        {
+            "text": "Despite all of this work, we knew we had a gap in understanding of the scale of digital inclusion and the impact of those insights across different user groups.\u00a0\u00a0"
+        },
+        {
+            "text": "In 2023, we started a piece of work on \u2018user segmentation\u2019 to uncover inclusion gaps in our coverage and evidence ways to address these. We wanted to understand the technology and identity documents our users have access to, as well as their levels of digital confidence.\u00a0"
+        },
+        {
+            "text": "The aim of the user segmentation work was to get more in depth insight into different user groups (or segments) that share similar characteristics in terms of their barriers to using GOV.UK One Login."
+        },
+        {
+            "text": "Working with colleagues across the programme, we defined a set of parameters that would enable us to build a sustainable data set on inclusion, which the programme can augment over time. We surveyed 2,000 users, ensuring the results were representative of UK population demographics. The survey answers were self-reported allowing us insight into people\u2019s direct experience and perception of barriers to proving their identity. You can access the fuller findings here.\u00a0"
+        },
+        {
+            "text": "In addition to our inclusion data set, the output of the user segmentation work is helping GOV.UK One Login more easily quantify the value and impact of inclusion related initiatives and to better understand how the One Login product is performing for different user groups.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Overlapping barriers and opportunities for the digitally native"
+        },
+        {
+            "text": "Our work revealed something surprising about digital exclusion.\u00a0"
+        },
+        {
+            "text": "It is well documented that network connectivity is a common, yet, significant issue across digital services. Despite this challenge, mobile device penetration is extensive, with only 3% of all survey respondents not owning a device that can access the internet.\u00a0"
+        },
+        {
+            "text": "A small but significant margin (4-9%) of users did not have the evidence for identification which is critical to digital identity verification. A larger proportion of users, and a significant barrier for GOV.UK One Login, struggle with having enough credit history for identification, if they were using the security questions route. This is because a person may not have a mobile phone contract, as well as an active bank account, credit cards, loans, or mortgages used to establish a financial UK digital footprint.\u00a0"
+        },
+        {
+            "text": "Our focus in the past year has been to widen the evidence types and government data sources for users we know will find it particularly difficult to prove their identity online. We believe this data will significantly support addressing these barriers."
+        },
+        {
+            "text": "The most surprising finding from those surveyed, were the barriers for users under the age of 17:\u00a0"
+        },
+        {
+            "text": "- only 4% have enough financial or government footprint for identification"
+        },
+        {
+            "text": "- 46% don't have a phone number (they have a mobile but without a phone number)"
+        },
+        {
+            "text": "- 20% don't have an email address"
+        },
+        {
+            "text": "- 42% have difficulty completing online tasks and therefore need help from friends and family"
+        },
+        {
+            "text": "Users in the 13-17 year old group are between 20% and 33% less likely to be able to prove their identity through our service compared to the average potential user."
+        },
+        {
+            "text": "Our findings are not unique and speak to recent data from OFCOM. As a result, we did a little more digging to understand how this compares with a wider cohort of young people.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "The 18-24 year olds have similar barriers but experience them less acutely:"
+        },
+        {
+            "text": "- only 22% have access to an active bank account, credit cards, loans, or mortgages used to establish a financial UK digital footprint (compared with 43% for the general population)"
+        },
+        {
+            "text": "- only 16% don\u2019t have a phone number (compared with 20% for the general population, meaning that in this aspect 18-24 year olds are better off)"
+        },
+        {
+            "text": "- 13% don\u2019t have an email address (compared with 8% for the general population)"
+        },
+        {
+            "text": "- 43% have difficulty completing online tasks (compared with 25% for the general population)"
+        },
+        {
+            "text": "Young people (aged 24 and under) will be the first generation to have just one government account, it's crucial that we get it right for them. From applying for their first apprenticeship to signing their mortgage deed, they will rely on their GOV.UK One Login account throughout their lives, which will transform the way they access government services for years to come."
+        },
+        {
+            "heading": 2,
+            "text": "Continuing to iterate our service to meet our user needs\u00a0"
+        },
+        {
+            "text": "As a result of our findings, GOV.UK One Login is actively exploring how best to respond to these findings in terms of how they might shape our product roadmap in future. Specifically, we\u2019re focused on access to identification, mobile usage, lack of email, and increasing digital confidence.\u00a0"
+        },
+        {
+            "text": "We know this is just the start. When it comes to using the user segmentation data across GOV.UK One Login there are a number of pieces of work underway to combine this data with live service data, performance analytics, our own user research insights and that of other government services. "
+        },
+        {
+            "text": "We have also produced a characterisation of a set of user groups identified from our segmentation work, and are using it to inform our day-to-day design practice and user research participant recruitment and to seed inclusion insights at scale, in all our practice.\u00a0\u00a0\u00a0"
+        }
+    ]
+}
