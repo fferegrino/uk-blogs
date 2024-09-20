@@ -1,0 +1,113 @@
+{
+    "url": "https://technology.blog.gov.uk/2024/09/20/the-5-year-journey-to-moving-gov-uk-to-a-new-registry/",
+    "title": "The 5 year journey to moving .gov.uk to a new registry",
+    "authors": [
+        "Simon Foster, Head of Protecting Public Service Domains, CDDO"
+    ],
+    "categories": [
+        "News",
+        "Security",
+        "Transformation"
+    ],
+    "pub_date": "2024-09-20T14:59:10+01:00",
+    "content": [
+        {
+            "text": "A week before the 2024 General Election, the Domains team carried out one of the most important digital infrastructure changes in government history.\u00a0"
+        },
+        {
+            "text": "In theory the migration to a new .gov.uk Registry Operator required a few technical changes, but it was not as simple as that. There was a risk these changes would interrupt people from using all of the UK government\u2019s digital services, including the ability to use the Register to vote service at a time when it was needed most."
+        },
+        {
+            "text": "Before we dive into the preparation that went into the migration, let\u2019s start by explaining the importance of the .gov.uk registry."
+        },
+        {
+            "heading": 3,
+            "text": "Why is the .gov.uk domain so important?"
+        },
+        {
+            "text": "The Domains team at the Central Digital and Data Office (CDDO) is responsible for operating the .gov.uk domain or as we call it the \u201c.gov.uk registry\u201d. That\u2019s different to the GOV.UK brand, which is used to describe the government\u2019s website.\u00a0"
+        },
+        {
+            "text": "We approve applications for all .gov.uk third-level domains\u00a0 - like \u201ccabinetoffice.gov.uk\u201d, \u201chmrc.gov.uk\u201d or newly created ones like \u201cgreatbritishenergy.gov.uk\u201d. Not all domains have websites - some are simply used to provide emails or other services."
+        },
+        {
+            "text": "The .gov.uk registry currently contains 5,000 public sector domain names. Just like an address book, the registry tells your browser, your email, and everything else where to find that domain on the internet. Domain registries exist in a hierarchy across the internet as part of the global Domain Name System (DNS)."
+        },
+        {
+            "text": "If a domain registry fails, your internet browser will not be able to find the websites that the registry was publishing. Similarly, all email and other digital services that use that domain will stop."
+        },
+        {
+            "heading": 3,
+            "text": "The journey to a new .gov.uk registry\u00a0"
+        },
+        {
+            "text": "Our journey to improve the security and resilience of the .gov.uk domain name and all the services that sit under it began 5 years ago when the Domains team was assembled.\u00a0"
+        },
+        {
+            "text": "Up until the switch-over, the .gov.uk registry was run on a pro-bono basis that was not meeting internationally recognised standards. That was not the fault of any party in particular, it was due to having a legacy memorandum of understanding that was set up in a world where the internet was in its infancy."
+        },
+        {
+            "text": "Our 3 objectives for the .gov.uk registry were to make it:"
+        },
+        {
+            "text": "We also wanted our .gov.uk Registry provider to help us prevent and fix domain related cyber vulnerabilities, which is the main focus of what the CDDO Domains team does."
+        },
+        {
+            "text": "To create a fair open market competition we worked closely with Crown Commercial Service to enable our registry procurement through the Network Services 3 Framework."
+        },
+        {
+            "text": "Once we were set up with a Lot on NS3, the real work could begin. Starting in March 2022, we planned 7 workshops with potential Registry Operator bidders as well as the 300 plus Registrars in our marketplace to assess the viability and impact."
+        },
+        {
+            "text": "Getting feedback from the marketplace was critical. This helped the Domains team create 40 pages worth of in-depth technical requirements for the Registry Operator as well as\u00a0 Criteria to be a .gov.uk Approved Registrar, which all had to go through commercial and legal review.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Evaluating bids, planning the transition and getting Public Sector assurance"
+        },
+        {
+            "text": "Our incumbent supplier, Jisc, did not bid for the new contract to run the Registry because it was outside of its educational and charitable remit, but they supported us strongly throughout the process.\u00a0"
+        },
+        {
+            "text": "During the bidding process, each supplier had to answer 44 questions, which were marked by a team of 3 evaluators from the Domains team. Nominet - who have operated the .uk domain since 1996, was awarded the contract in November 2023 and a phased migration plan was put into place. This consisted of:"
+        },
+        {
+            "text": "Transitioning a registry is a fairly common activity, but if it goes wrong it could cause significant disruption. We could not let this happen to our stakeholder community of thousands of Public Sector bodies, plus the millions of people that rely on them every day."
+        },
+        {
+            "text": "We wanted to be sure that we had addressed every risk comprehensively, so we asked the Chief Technology Officer\u2019s Council and the Cabinet Office Commercial Information Assurance Team to provide in-depth independent assurance. We also set up a Change Advisory Board (CAB) composed of representatives from across the Public Sector. This group monitored a set of criteria from all transition-critical areas and had the ultimate decision making power on whether to proceed with the transition."
+        },
+        {
+            "heading": 3,
+            "text": "Transition day - 26 June 2024"
+        },
+        {
+            "text": "Successful digital change often results in a glorious anti-climax. In our case, the months of data cleaning, testing and risk mitigation planning resulted in an uneventful call with members of the CAB, the outgoing provider and the incoming provider.\u00a0"
+        },
+        {
+            "text": "Instructions were given out to make technical DNS changes, which were monitored step-by-step.\u00a0"
+        },
+        {
+            "text": "User experience of DNS changes do not happen immediately. Your laptop, phone and even your ISP has a cache of its recent DNS queries, so you won\u2019t experience any changes until these caches expire and you run a new DNS lookup. This caching exists at every level across the internet, and the cache expiry times can range from a few seconds to a few days."
+        },
+        {
+            "text": "What this meant was that we could not immediately confirm that the transition was successful. We had to wait, and that is what we did."
+        },
+        {
+            "text": "By lunchtime we had confirmation that the new registry\u2019s 4 primary name servers were responding to DNS queries from across the world, and by mid afternoon, we had confirmation that the new registry\u2019s 4 secondary name servers were also responding."
+        },
+        {
+            "text": "The transition had been a complete success, and - most importantly - no one had noticed that it had happened."
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "Our work does not end with the migration. The team is continuing to improve the operation of the .gov.uk registry by introducing technical checks and increasing the governance of the Registrar channel.\u00a0"
+        },
+        {
+            "text": "If you need any more information you can contact support@domains.gov.uk."
+        }
+    ]
+}

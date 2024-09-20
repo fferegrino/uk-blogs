@@ -1,0 +1,124 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2024/09/20/how-loosely-coupled-autonomous-teams-are-improving-mojs-hosting-estate/",
+    "title": "How loosely coupled, autonomous teams are improving MOJ\u2019s hosting\u00a0estate",
+    "authors": [
+        "Hosting Platforms Team"
+    ],
+    "categories": [
+        "Agile",
+        "Digital Innovation",
+        "Innovation",
+        "Our services",
+        "Platform Product Management"
+    ],
+    "pub_date": "2024-09-20T11:29:10+01:00",
+    "content": [
+        {
+            "text": "At the Ministry of Justice (MOJ), we have hundreds of different systems. Over the last six years, we\u2019ve saved tens of millions of pounds on hosting them. In order to do that, we had to change our organisation structure."
+        },
+        {
+            "heading": 3,
+            "text": "Most services had their own unique hosting environment"
+        },
+        {
+            "text": "When we started on this journey six years ago, MOJ had dozens of teams responsible for the infrastructure underlying our services.\u00a0"
+        },
+        {
+            "text": "Some of these teams were staffed by MOJ employees, but the majority of infrastructure for the MOJ was managed by suppliers and related to just one or a few services.\u00a0"
+        },
+        {
+            "text": "MOJ had to pay each supplier for the hosting and the people to support it. Because each environment was unique, MOJ couldn\u2019t benefit from consolidation, or economies of scale."
+        },
+        {
+            "text": "In addition, very few of MOJ\u2019s services used public cloud hosting. Many systems could only be released every six months, making releases expensive and error prone."
+        },
+        {
+            "heading": 3,
+            "text": "We predicted we could reduce our costs by 60%"
+        },
+        {
+            "text": "In 2017, we pitched to our then-CTO to build a team to manage hosting for the MOJ. We predicted that we could reduce MOJ\u2019s overall hosting costs by 60%, whilst improving MOJ\u2019s ability to deliver modern, user-centred software at pace.\u00a0"
+        },
+        {
+            "text": "We described our strategy on the MOJ Digital blog in 2018, a year into the process."
+        },
+        {
+            "heading": 3,
+            "text": "Principles for a strategic team structure"
+        },
+        {
+            "text": "As outlined in that strategy, we had three types of infrastructure:\u00a0"
+        },
+        {
+            "text": "In order to deliver the strategy, we needed teams to work on each of these areas, and there were some key principles:"
+        },
+        {
+            "text": "Each team should be able to work iteratively and independently of the other teams, so that teams using the platforms were able to deliver their work without being blocked by work in other teams. This is similar to how we architect software to be loosely coupled, so that one system can be changed without breaking another."
+        },
+        {
+            "text": "At this stage we didn\u2019t know how many retirement environments we would need to close down, so we needed to be able to add new work without derailing existing teams. This meant we needed to be able to grow our capacity, without affecting other work: adding or combining teams where needed. This is similar to the software design principle of modularity, where we design software such that its components are able to be separated and recombined flexibly."
+        },
+        {
+            "text": "We also wanted to ensure that each sub-team was solving a whole problem for their users, so they had a clear vision for their area that fed into the wider strategy, and the autonomy to deliver it. This is analogous to how we design systems to take account of the separation of concerns, where each component of the system is autonomously responsible for its area of concern."
+        },
+        {
+            "text": "In summary, we needed to design a team structure like a well-architected software system, where:"
+        },
+        {
+            "heading": 3,
+            "text": "We built the Cloud Platform to support new services that needed infrastructure"
+        },
+        {
+            "text": "In order to stem the tide of new services setting up new infrastructure, weI re-focused one of our in-house teams on building a new, cloud native hosting platform: the MOJ Cloud Platform. This platform is now the default hosting environment for the MOJ."
+        },
+        {
+            "text": "This is a mature, evergreen product built to offer an excellent developer experience to the teams responsible for over 400 production systems. The Cloud Platform handles more than 200 million requests a day, and the platform and the systems that run on it are changed more than 5000 times a day."
+        },
+        {
+            "heading": 3,
+            "text": "We built the Modernisation Platform for services that can\u2019t yet be Cloud Native"
+        },
+        {
+            "text": "Many of MOJ\u2019s legacy systems weren\u2019t likely to become cloud native in the near future.\u00a0"
+        },
+        {
+            "text": "To allow us to support more of these services while improving their ability to be changed and operated, we built the MOJ Modernisation Platform and migrated services onto it. These services now get the benefits of being on the cloud and we can operate their fundamental infrastructure at scale rather than having duplicated teams for each system."
+        },
+        {
+            "text": "The Modernisation Platform now hosts the majority of MOJ\u2019s largest, most sensitive and complex services, used across the justice system."
+        },
+        {
+            "heading": 3,
+            "text": "We set up an Operations Engineering team to improve shared services"
+        },
+        {
+            "text": "Many shared services like our GitHub organisation or Domain Name System (DNS) were being looked after by a small number of busy people, and were often reliant on things only they knew, so we couldn\u2019t improve how we used them.\u00a0"
+        },
+        {
+            "text": "To tackle this, we set up the Operations Engineering team, whose mission is to manage shared services and identify opportunities to improve our developers\u2019 experience by buying, building, or otherwise solving common problems."
+        },
+        {
+            "heading": 3,
+            "text": "We also got involved in governance"
+        },
+        {
+            "text": "We also started supporting MOJ\u2019s spend controls process. Many projects don\u2019t look like they involve hosting but a lot of government work ultimately involves running a website or a piece of software somewhere. We work with those project teams to use our strategic solutions, making sure they\u2019re getting the best value for money and are aligned to our hosting strategy."
+        },
+        {
+            "text": "By doing this, we have been able to save time and money for many systems, as well as giving them a better outcome than they expected."
+        },
+        {
+            "heading": 3,
+            "text": "We have reduced costs by nearly 50% so far"
+        },
+        {
+            "text": "We\u2019ve already saved tens of millions of pounds by turning off older systems and environments and by making newer systems more efficient by moving them onto our Cloud Platform and Modernisation Platform."
+        },
+        {
+            "text": "All of our hosting teams improve their systems multiple times a day, and work to improve the experience of the developers who use their systems. Solving hosting issues once, for all of MOJ, means more of us can focus on meeting users\u2019 needs."
+        },
+        {
+            "text": "There\u2019s still more to do: we\u2019re migrating all of our remaining prison, probation, and legal aid systems to our platforms over the next year. All of our teams can focus on delivering the best experiences for users and we know that the team structure we\u2019ve built allows us to continue to make the most efficient use of public money."
+        }
+    ]
+}
