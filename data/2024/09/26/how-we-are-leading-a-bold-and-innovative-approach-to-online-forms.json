@@ -1,0 +1,117 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/09/26/how-we-are-leading-a-bold-and-innovative-approach-to-online-forms/",
+    "title": "How we are leading a bold and innovative approach to online forms",
+    "authors": [
+        "Jenny Taylor"
+    ],
+    "categories": [
+        "Accessibility",
+        "Defra digital",
+        "Defra service design",
+        "User centred design"
+    ],
+    "pub_date": "2024-09-26T09:36:58+01:00",
+    "content": [
+        {
+            "text": "Jenny Taylor explains how the Defra Forms team has launched a new way to provide accessible online forms that meet a broad range of user needs across the Defra group and ends our ongoing reliance on paper-based forms."
+        },
+        {
+            "text": "At Defra we are implementing our Digital and Data Transformation Strategy, part of which involves developing a better understanding of Defra group's services today and how they are delivered to support Defra's outcomes. We already know that hundreds of paper (document based) forms are published on GOV.UK which handle around 14 million transactions per year. Defra needs to end its ongoing reliance on paper-based forms, as processes involving paper-based forms are costly and there are accessibility issues for users who rely on technology such as screen readers to access content.\u00a0"
+        },
+        {
+            "text": "One of the reasons paper forms are still used is because there isn\u2019t a quick, accessible, and standardised way to create accessible online forms and collect data from our users at Defra. Policy and operational teams routinely engage with our Digital, Data, Technology and Security (DDTS) colleagues to deliver new digital services to replace forms, but this can be costly, time-consuming and often unnecessary for simple processes. "
+        },
+        {
+            "text": "The Defra Forms team is a multidisciplinary team in DDTS, responsible for creating and publishing online forms across the Defra group. We work collaboratively to provide solutions for the whole of Defra."
+        },
+        {
+            "text": "The Defra Forms team has taken an innovative approach to support:"
+        },
+        {
+            "heading": 2,
+            "text": "What we are doing"
+        },
+        {
+            "text": "Firstly, we\u2019re developing a forms builder called Digital Express Toolkit; a tool that can be used to create standardised forms quickly and easily. Forms builders are software that people without coding or design skills can use to ask questions and capture data from users. Forms builders can range from allowing you to ask simple questions, to having more advanced features such as:"
+        },
+        {
+            "text": "Forms builders will accelerate the delivery of our goals by offering a central solution that can be used flexibly to meet a diverse range of needs. This enables us to act fast in supporting teams across Defra to deliver on our five key priorities. Using this approach to delivering a common capability also helps us to save time and money so that we can react quickly to urgent changes in legislation or disease outbreaks that require interaction with members of the public."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding and meeting user needs"
+        },
+        {
+            "text": "Our initial investigations found that many of Defra\u2019s forms could be digitised.\u00a0During the discovery and alpha phases of the project, it became clear several options and solutions would be required, depending on the needs of the users, both within Defra, and externally."
+        },
+        {
+            "text": "We found that a forms builder could offer a flexible range of features, as well as consistency and standardisation."
+        },
+        {
+            "text": "As this is a new way of working within Defra, it\u2019s important that we\u2019re seeking different perspectives throughout the phases of the Defra Forms project. The team has researched and analysed lots of user needs, identifying three key user groups: forms designers, forms subject matter experts (SMEs) and members of the public."
+        },
+        {
+            "text": "The team regularly and actively seeks feedback and conducts testing activities with each of these groups so that we ensure our overall offering is of value to users. For example;"
+        },
+        {
+            "heading": 2,
+            "text": "Flexible solutions to meet user needs"
+        },
+        {
+            "text": "There are lots of forms builders out there already, from Google Forms to Microsoft Forms, to forms builders specific to organisations."
+        },
+        {
+            "text": "GOV.UK has specific style and accessibility requirements, and GOV.UK Forms now exists as a free tool to make forms on the platform. Defra was one of the departments to trial using the tool in private beta and our content design team has already used it to produce several digital forms, including a form used by XL Bully owners to apply for a certificate of exemption for their dog which generated over 60,000 submissions."
+        },
+        {
+            "text": "Defra has quite specific requirements for forms. Which means we need a forms builder to comply not only with government style and accessibility standards, but also with our own Defra and DDTS standards for security, privacy of data and resilience, and the adaptability to link up with our many different existing services and systems. There\u2019s also the issue of additional functionality. When we audited all of Defra\u2019s 579 paper forms in 2023, we classified them for complexity and functionality."
+        },
+        {
+            "text": "We found that, while some of them were straightforward enough to be digitised using the GOV.UK Forms builder, most required additional features not yet available. Whilst Defra Forms is working to meet requirements for new online forms, in response to changing legislation for example, we are also committed to reducing the number of existing paper (document) based forms by at least 20% by 2025 - so we need to be able to transform this backlog of forms quickly."
+        },
+        {
+            "text": "By developing DXT to use in parallel with GOV.UK Forms, we have been able to move faster in offering a suite of solutions to users. For example, some forms require the ability to integrate a payment \u2013 this is a feature provided in GOV.UK Forms. Within DXT, we have delivered a secure file upload feature which allows users to attach files to their form submissions. Each time we design, publish or edit a form we gain valuable insight which helps to further deliver continuous improvement of DXT and prioritisation of the product backlog."
+        },
+        {
+            "text": "We plan on building on the fantastic work done at other government departments to expedite our delivery and allow us to focus our efforts on the features that matter most to Defra. In fact, we have already done this be adopting the code for an existing forms builder, used by the Foreign Commonwealth and Development Office and Home Office, amongst other departments, to provide the foundation of DXT."
+        },
+        {
+            "heading": 2,
+            "text": "More than just a forms builder"
+        },
+        {
+            "text": "We\u2019re going beyond just making a forms builder as a technological solution. We\u2019re working on a new proposition for how Defra can create, manage, and benefit from a consistent approach to online forms and data submitted by members of the public."
+        },
+        {
+            "text": "As we digitise forms, we\u2019re actively seeking opportunities to improve the user journey and exploring how back-end processes could be automated to reduce the manual burden on staff to validate and process data."
+        },
+        {
+            "text": "With over 35 Arm\u2019s length bodies, Defra is complex and broad in its remit. We want to break down existing barriers for releasing new services or forms within Defra whilst providing options for integration with existing Defra technology - so our teams can meet the needs of the public faster, and at a lower cost to taxpayers."
+        },
+        {
+            "text": "Defra Forms is looking at how we can enable more efficient and effective handling of data from users to support these objectives. We hope to help Defra understand the data it holds so we can help it be more data-driven, improving access to data coming from members of the public to project teams."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next for Defra Forms? "
+        },
+        {
+            "text": "We\u2019re currently in the Private Beta phase and the team is busy experimenting will potential new features. We have a tried and tested routine of designing, testing, iterating and redesigning based on user feedback so we are also comfortable with experiencing how some of our ideas fail, or in other words: don\u2019t meet user needs. "
+        },
+        {
+            "text": "It\u2019s exciting to take risks to try new ideas with users and to be able to develop them quickly to be used in published online forms, where we are still able to adapt and make changes to improve the user experience for everyone. For example, we are currently prioritising work to make our Forms Designer (how users design forms within DXT) more intuitive and accessible so that we can expand our user base to other content designers across Defra group."
+        },
+        {
+            "text": "We are also shaping and improving a robust service map for how we can best support policy and operational teams - our Forms SMEs - to realise the benefits of online forms and automation by working in partnership with other teams across DDTS, such as our Digital Robotic Automation Centre of Excellence. We also work closely with the Digital Transformation team and senior leaders across Defra to identify how we can prioritise forms to digitise to best support Defra in achieving its goals."
+        },
+        {
+            "text": "Keep an eye out for future updates from the team, including content designer Alice Wilson\u2019s upcoming blog on her experience of working with the Defra Forms team to create a much more efficient and accessible online version of a PDF form for livestock keepers."
+        },
+        {
+            "text": "Jenny Taylor is a Lead Product Manager at Defra."
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow."
+        }
+    ]
+}
