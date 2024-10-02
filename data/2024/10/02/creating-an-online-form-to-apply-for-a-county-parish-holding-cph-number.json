@@ -1,0 +1,150 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/10/02/creating-an-online-form-to-apply-for-a-county-parish-holding-cph-number/",
+    "title": "Creating an online form to apply for a county parish holding (CPH) number",
+    "authors": [
+        "Alice Wilson"
+    ],
+    "categories": [
+        "Accessibility",
+        "Defra content design",
+        "Defra digital",
+        "Defra Forms",
+        "Digital transformation",
+        "User centred design"
+    ],
+    "pub_date": "2024-10-02T14:18:08+01:00",
+    "content": [
+        {
+            "text": "Senior content designer Alice Wilson shares how she worked with the Defra Forms team to create a more accessible online version of a PDF form for livestock keepers."
+        },
+        {
+            "text": "Anyone keeping livestock, whether as a hobby or a profession, must get a county parish holding (CPH) number from the Rural Payments Agency (RPA)."
+        },
+        {
+            "text": "Keepers use a CPH number to report livestock movements. It's used to identify animals (for example, on ear tags) and helps trace them to prevent disease."
+        },
+        {
+            "text": "Previously, keepers applied for a CPH number using a PDF form, but this caused some difficulties."
+        },
+        {
+            "text": "About a third of PDF form applications were rejected or required further contact with the customer. Following up applications with customers was an inefficient use of RPA staff time, and caused delays in processing CPH numbers."
+        },
+        {
+            "heading": 2,
+            "text": "Specific problems with the PDF form"
+        },
+        {
+            "text": "Through user research we identified some specific problems with the PDF form. For example, users:"
+        },
+        {
+            "heading": 3,
+            "text": "National Grid field numbers"
+        },
+        {
+            "text": "One of the tasks on the PDF form was for users to find National Grid field numbers for:"
+        },
+        {
+            "text": "But the user journey to find these numbers was not straightforward."
+        },
+        {
+            "text": "The PDF form directed users to a GOV.UK page with guidance on how to use the interactive mapping tool MAGIC maps to find their National Grid field numbers."
+        },
+        {
+            "text": "They then had to go to MAGIC maps to find the numbers while referring back to the instructions in the guidance."
+        },
+        {
+            "text": "When using MAGIC maps, users:"
+        },
+        {
+            "text": "Finally, they had to go back to the PDF form to enter the numbers."
+        },
+        {
+            "heading": 3,
+            "text": "Business details"
+        },
+        {
+            "text": "To create a CPH number, the RPA must set everyone up as a business on the Rural Payments service. This even applies to people keeping livestock as a hobby."
+        },
+        {
+            "text": "But we found hobby livestock keepers did not see themselves as a \u2018business\u2019. As a result, they often did not complete the sections of the form asking for business name and address."
+        },
+        {
+            "heading": 2,
+            "text": "How we fixed these problems"
+        },
+        {
+            "text": "I worked with the Defra Forms team to create an online version of the PDF form using the GOV.UK forms service. This addressed the problems set out earlier."
+        },
+        {
+            "heading": 3,
+            "text": "Validation"
+        },
+        {
+            "text": "The online form uses validation to ensure users answer the mandatory questions in the required format."
+        },
+        {
+            "text": "For example, if a user does not enter their email address correctly, they\u2019ll receive an error message saying, \u2018enter email address in the correct format\u2019."
+        },
+        {
+            "heading": 3,
+            "text": "Hint text"
+        },
+        {
+            "text": "We used hint text in the online form to give more details about questions we know confuse users."
+        },
+        {
+            "text": "For example, when the form asks users for their business name, the hint text:"
+        },
+        {
+            "text": "The form also asks users to select their business type from a list. We changed the order of the options in the PDF version and put the most common business types at the top. These were \u2018hobby livestock keeper\u2019, \u2018professional livestock keeper\u2019 and \u2018farmer\u2019."
+        },
+        {
+            "text": "We also used hint text to explain the difference between \u2018hobby\u2019 and \u2018professional\u2019 livestock keepers."
+        },
+        {
+            "heading": 3,
+            "text": "Additional guidance"
+        },
+        {
+            "text": "We made use of the new \u2018guidance\u2019 feature on the GOV.UK forms service to give users information at the point they need it. This feature let us provide instructions for answering questions and formatting tips."
+        },
+        {
+            "text": "For example, before users are asked for their National Grid field number, they\u2019re given information about what it is and how to find it. There\u2019s a link to MAGIC maps and instructions for how to use it."
+        },
+        {
+            "text": "As a result, users no longer have to switch between the PDF form, GOV.UK guidance page and MAGIC maps."
+        },
+        {
+            "text": "The old form also referred to a \u2018main livestock gathering area\u2019, which users struggled to understand. The new version calls it the \u2018main area where you\u2019ll keep livestock\u2019, with examples of what this might be for different users."
+        },
+        {
+            "heading": 2,
+            "text": "Outcome"
+        },
+        {
+            "text": "When we tested the new online form with users, we found:"
+        },
+        {
+            "text": "Since the new form went live, almost all CPH number applications have been submitted online."
+        },
+        {
+            "text": "There have also been fewer calls to the customer contact centre compared with the same months in previous years."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We\u2019ve now moved the form from GOV.UK Forms to Defra\u2019s own new online form builder, the Digital Express Toolkit (DXT). We\u2019ve made this change as DXT has extra features that help meet user needs. These include:"
+        },
+        {
+            "text": "We\u2019ll continue to review the form\u2019s performance and use this to inform similar projects in the future."
+        },
+        {
+            "text": "Alice Wilson is a senior content designer who previously worked at Defra."
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow."
+        }
+    ]
+}
