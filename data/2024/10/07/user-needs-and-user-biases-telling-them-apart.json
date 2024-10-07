@@ -1,0 +1,61 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/10/07/user-needs-and-user-biases-telling-them-apart/",
+    "title": "User needs and user biases: telling them apart",
+    "authors": [
+        "Elisha Khan, Senior Product Manager"
+    ],
+    "categories": [
+        "Common tools",
+        "Design"
+    ],
+    "pub_date": "2024-10-07T10:21:06+01:00",
+    "content": [
+        {
+            "text": "As I sat through my 10th or so user research interview on the Common Tools as a Service project at the Ministry of Housing, Communities and Local Government (MHCLG), I realised 2 things:\u00a0"
+        },
+        {
+            "text": "In this post, I\u2019m going to discuss those biases, their consequences, and the strategies and techniques we\u2019ve implemented in our user research to counteract them.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Mitigating cognitive biases\u00a0"
+        },
+        {
+            "text": "In user research phases, digital teams spend quite a lot of time thinking about mitigating cognitive biases. We plan for this in the questions we ask \u2013 the number one rule being: never ask the user what they would like as a solution.\u00a0"
+        },
+        {
+            "text": "During user research interviews for the Common Tools as a Service project, users demonstrated heavy emotional attachment to digital tools. Some people loved one operating system; other people really hated it for various reasons and negative experiences. Some people were attached to specific tools because they had used them in their previous workplaces, and there were other software products they also wanted to try.\u00a0\u00a0"
+        },
+        {
+            "text": "This emotional connection to tools can often cloud the true needs of the user and the department.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach to user research interviews\u00a0"
+        },
+        {
+            "text": "What we found was:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The hidden inefficiencies\u00a0"
+        },
+        {
+            "text": "As we investigated further into our research, we uncovered additional layers of complexity in understanding user needs \u2013 the hidden inefficiencies. Often, users have adapted to inefficient processes without realising it. Part of our job is to uncover these hidden inefficiencies that users may not even be aware of.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our new research strategies\u00a0"
+        },
+        {
+            "text": "To address the challenges I discussed above, we implemented several strategies:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Navigating user needs versus user biases\u00a0"
+        },
+        {
+            "text": "In the end, navigating user needs versus user biases is a delicate balancing act. It requires a combination of empathy, critical thinking and methodical research techniques. By focusing on outputs and processes rather than specific tools or solutions, we can cut through biases and uncover the true needs of both users and the organisation.\u00a0"
+        }
+    ]
+}
