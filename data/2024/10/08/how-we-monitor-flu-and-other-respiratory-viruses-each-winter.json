@@ -1,0 +1,68 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2024/10/08/how-we-monitor-flu-and-other-respiratory-viruses-each-winter/",
+    "title": "How we monitor flu and other respiratory viruses each winter",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "flu",
+        "Protecting the country's health"
+    ],
+    "pub_date": "2024-10-08T12:34:29+01:00",
+    "content": [
+        {
+            "text": "As we approach another winter season, UK Health Security Agency (UKHSA) is ramping up its comprehensive surveillance systems to monitor flu and other seasonal respiratory viruses. Here's an overview of how we're working to keep the nation informed and protected."
+        },
+        {
+            "text": "NHS and UKHSA laboratories across England, provide weekly data on major respiratory viruses. Using real-time polymerase chain reaction (RT-PCR) testing, we track not just influenza, but also SARS-CoV-2, rhinovirus, parainfluenza, adenovirus, human metapneumovirus, and respiratory syncytial virus (RSV)."
+        },
+        {
+            "text": "This system allows us to calculate the proportion of samples positive for each virus, what is called a pseudoprevalence indicator. This metric is particularly valuable as it is less prone to fluctuations caused by changes in testing patterns than case counts."
+        },
+        {
+            "text": "2. Primary care surveillance"
+        },
+        {
+            "text": "The Royal College of General Practitioners (RCGP) Weekly Returns Service, operational since 1966, now encompasses around 1,900 GP practices across England. This network provides crucial data on consultation rates for influenza-like illness (ILI), acute bronchitis, pneumonia, and COVID-19-like symptoms."
+        },
+        {
+            "text": "To standardise reporting across the UK, we've adopted the Moving Epidemic Method (MEM), which uses historical data to evaluate the timing and intensity of influenza activity through a series of thresholds. This allows for more meaningful comparisons both within the UK and with other European countries. "
+        },
+        {
+            "text": "3. Secondary care surveillance"
+        },
+        {
+            "text": "Our Severe Acute Respiratory Infection (SARI-Watch) system collects data on laboratory-confirmed influenza, COVID-19, and RSV hospital admissions. Data reported reflects local testing practices within NHS trusts that participate in this surveillance."
+        },
+        {
+            "text": "4. Internet-based surveillance"
+        },
+        {
+            "text": "We employ several cutting-edge methods to detect early signs of outbreaks:"
+        },
+        {
+            "text": "5. Mortality surveillance"
+        },
+        {
+            "text": "We monitor excess all-cause mortality using the EuroMOMO model, allowing for comparison across European countries. Additionally, we continue to use a statistical model that was developed to monitor excess mortality during the COVID-19 pandemic."
+        },
+        {
+            "text": "6. Microbiological surveillance"
+        },
+        {
+            "text": "Our work extends beyond detection. We characterise flu viruses through genome sequencing and compare circulating strains to vaccine strains. We also screen for antiviral resistance and monitor antimicrobial susceptibility in key bacterial pathogens often associated with secondary infections."
+        },
+        {
+            "text": "7. International vigilance"
+        },
+        {
+            "text": "We maintain a global perspective, monitoring the international situation through WHO and ECDC reports, as well as other countries' national surveillance data. This includes keeping a close eye on emerging threats like avian influenza and MERS-CoV."
+        },
+        {
+            "text": "This intricate web of surveillance systems allows UKHSA to provide nuanced, data-driven guidance to healthcare providers, policymakers, and the public. As we face another winter season, our multifaceted approach to disease surveillance is keeping the UK informed and protected."
+        },
+        {
+            "text": "If you\u2019re interested in diving deeper into our surveillance methods and findings, we\u2019d encourage you to explore our weekly national flu and COVID-19 surveillance reports and the UKHSA data dashboard."
+        }
+    ]
+}

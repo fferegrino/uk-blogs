@@ -1,0 +1,99 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/10/08/scalability-challenges-in-privacy-preserving-federated-learning/",
+    "title": "Scalability Challenges in Privacy-Preserving Federated Learning",
+    "authors": [
+        "Joe Near",
+        "David Darais",
+        "Mark Durkee"
+    ],
+    "categories": [
+        "Data",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-10-08T11:28:46+01:00",
+    "content": [
+        {
+            "text": "This post is part of a series on privacy-preserving federated learning. The series is a collaboration between the Responsible Technology Adoption Unit (RTA) and the US National Institute of Standards and Technology (NIST). Learn more and read all the posts published to date on our blog or at NIST\u2019s Privacy Engineering Collaboration Space\u00a0"
+        },
+        {
+            "text": "In this post, we talk with Dr. Xiaowei Huang and Dr. Yi Dong (University of Liverpool), Dr. Mat Weldon (Office of National Statistics (ONS)), and Sikha Pentyala (University of Washington Tacoma), who were winners in the UK-US PETs Prize Challenges. We discuss scalability challenges and solutions in privacy-preserving federated learning (PPFL). Traditional federated learning enables scaling to extremely large training datasets by leveraging distributed computing power; adding privacy-preserving techniques can introduce new scalability challenges specific to PPFL.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenges of Scaling Up\u00a0"
+        },
+        {
+            "text": "A major challenge of scaling PPFL systems to large datasets and many clients comes from the computational challenges of the cryptography used to implement PPFL defenses. Techniques like fully-homomorphic encryption (FHE) and multiparty computation (MPC) can protect sensitive computations, but often introduce significant performance overhead. In addition, practical PPFL systems often need to work with heterogeneous clients that have different data and computational abilities. The UK-US Prize Challenges were designed to not only test whether solutions offered a strong level of privacy, but also to establish whether they could achieve performance that was practical in real world applications at scale. We asked some of the winners about the scalability challenges that they had to address, and about how the way data is distributed impacts the solutions.\u00a0"
+        },
+        {
+            "text": "Authors: How does the distribution of data affect the ability of PPFL systems to scale up?\u00a0"
+        },
+        {
+            "text": "Sikha Pentyala, team PPMLHuskies: One of the biggest gaps is developing general defense techniques for FL with arbitrary data distribution scenarios. This includes data that is horizontally distributed, such as data across different hospitals who each have their own patients, as well as data that is vertically distributed such as in scenarios where a patient's data is distributed across multiple entities (hospitals, companies, labs, etc.). While current literature primarily focuses on horizontal distribution scenarios, less focus has been on vertical or arbitrary distributions. Solutions based on cryptography, such as Secure Multi-Party Computation and Homomorphic Encryption, do work for arbitrary partitions but incur significant computational costs. Developing more efficient algorithms, protocols and tools capable of handling large-scale datasets and complex models is crucial for practical applications with arbitrary partitions.\u00a0"
+        },
+        {
+            "text": "Authors: How do differences between clients impact the performance of PPFL systems?\u00a0"
+        },
+        {
+            "text": "Sikha Pentyala, team PPMLHuskies: FL in a heterogeneous cross-device setting can bring additional engineering challenges, in terms of model versioning and synchronization. Client selection sampling algorithms would require access to device configurations, which makes achieving both private and fair sampling of clients challenging.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenges of Scaling Down\u00a0"
+        },
+        {
+            "text": "Our discussions with winning teams from the UK-US PETs Prize Challenges also highlighted a second challenge of adding privacy-preserving technologies to federated learning systems: PPFL systems often perform better when they have access to more data.\u00a0\u00a0"
+        },
+        {
+            "text": "Authors: Are there additional challenges in the context of deploying PPFL systems on smaller datasets or federations?\u00a0"
+        },
+        {
+            "text": "Dr. Mat Weldon, ONS:\u00a0 Federated learning has a reverse scalability challenge: there are methods that work well enough on large chunks of data, that don\u2019t scale well to smaller data. Differential privacy is one such example, An active area of research is how to achieve performant \u2018local\u2019 differential privacy at the level of a single record. \u00a0"
+        },
+        {
+            "text": "Currently the dominant output privacy method for machine learning is Differentially Private Stochastic Gradient Descent (DP-SGD). However, DP-SGD is very inefficient, in the sense that it blurs model updates (gradients) so much that very large quantities of data are needed to achieve a satisfactory level of performance.\u00a0\u00a0"
+        },
+        {
+            "text": "Dr. Xiaowei Huang and Dr. Yi Dong, University of Liverpool: In our previous FL experiments, we observed a trade-off between the number of clients and the final accuracy of the trained models. This trade-off varies depending on the model being trained and the dataset used. It's not a straightforward case where increasing the number of participants always leads to better results, nor does reducing them necessarily improve outcomes. There appears to be an optimal point in terms of the number of parties involved in the training process, which maximises the training accuracy. However, it is not easy to find such an optimal point.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenges of Data Coordination and Data Quality\u00a0"
+        },
+        {
+            "text": "Finally, a specific challenge of PPFL is the fact that no single participant has access to all of the data, so it is not possible to perform a global evaluation of the quality and properties of the data. For example, some participants may contribute low-quality data to the training process, or may use a different data format than the other participants. Since PPFL systems are designed to protect the data, it\u2019s not easy to discover these kinds of problems before training begins.\u00a0"
+        },
+        {
+            "text": "Authors: Are there data quality and coordination challenges specific to PPFL systems?\u00a0"
+        },
+        {
+            "text": "Dr. Xiaowei Huang and Dr. Yi Dong, University of Liverpool: The second challenge is the accurate detection of potential attackers. Due to the privacy-friendly nature of PPFL and the limited information available about the users' data due to federated learning, distinguishing between malicious attacks and poor updates becomes difficult. It's challenging to identify and understand the user behind the data, making it hard to efficiently exclude potential attackers from the learning process.\u00a0"
+        },
+        {
+            "text": "Dr. Mat Weldon, ONS: In federated learning, the need for privacy leads to data quality challenges around aligning data specifications and definitions. If the federated learning architecture were designed at the same time as the data collection this wouldn\u2019t be such an issue. But in most cases the data will have been collected by different owners, possibly to different specifications. In these applications, the biggest obstacle to data quality will be aligning data specifications and definitions in an eyes-off setting, without being able to manually troubleshoot problems.\u00a0\u00a0"
+        },
+        {
+            "text": "For vertical federated learning applications, such as financial fraud detection, data specification alignment issues such as this will have an especially large impact on the accuracy of record matching, making robust privacy-preserving record linkage (PPRL) methods even more important.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Meeting the Challenge\u00a0"
+        },
+        {
+            "text": "Winning solutions in the UK-US PETs Prize Challenges highlighted recent developments in PPFL research that can help to address all three challenges described earlier. For example, to address the scalability challenges of PPML on vertically-partitioned data, the Scarlet Pets solution combined a Bloom filter with lightweight cryptography for aggregation (as described in our earlier post) to produce a system that scaled to many clients in the context of vertically-distributed data. In the context of horizontally-distributed data, deployments like Google\u2019s have demonstrated the feasibility of current techniques across thousands of devices.\u00a0"
+        },
+        {
+            "text": "To address the challenge of model accuracy under PPFL, ongoing research in the field of differential privacy is investigating methods for reducing the impact of noise on trained models. For example, pre-training on public data is now common in centralized machine learning, though it was not used in the UK-US PETs Prize Challenges; future PPFL systems can likely improve accuracy significantly by leveraging this idea.\u00a0"
+        },
+        {
+            "text": "To address the challenge of data coordination, recent research has begun to explore approaches for secure input validation and data valuation. These techniques can help ensure that all participants provide data with the right format and sufficient quality to help improve the trained model, without revealing the data. Examples include cryptography for input validation and new defenses to protect against Byzantine participants (who may perform arbitrary malicious actions at any point).\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Coming up next\u00a0"
+        },
+        {
+            "text": "Our next post will focus on the practical challenges associated with the entire data pipeline required to deploy a PPFL solution.\u00a0"
+        }
+    ]
+}
