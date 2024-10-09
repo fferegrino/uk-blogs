@@ -1,0 +1,147 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2024/10/09/the-value-of-parametric-insurance-in-the-event-of-climate-disasters/",
+    "title": "The value of parametric insurance in the event of climate disasters",
+    "authors": [
+        "Nam Le - Actuary"
+    ],
+    "categories": [
+        "Analysis",
+        "Climate change"
+    ],
+    "pub_date": "2024-10-09T16:21:49+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "How the African Risk Capacity (ARC) helps protect African countries following extreme weather events."
+        },
+        {
+            "text": "This year marks the 10th anniversary of ARC Group, a specialised agency of the African Union. It provides technical assistance and rapid prearranged finance following an extreme weather event, such as drought, tropical cyclone and soon fluvial flood, to various African countries through its regional risk insurance pool."
+        },
+        {
+            "text": "It provides both sovereign insurance to African governments as well as insurance to other humanitarian and development actors, such as the Start Network, UNHCR and World Food Programme. By 2023, ARC had grown to cover over 25 million people."
+        },
+        {
+            "text": "At GAD we work with ARC as well as other institutions to support those offering disaster risk finance to countries across the world. In this blog we describe the value of disaster risk finance and the use of parametric insurance to deliver support to the most vulnerable areas of the world."
+        },
+        {
+            "text": "When a country is hit by an extreme weather event, it is crucial to act swiftly and ensure payments reach affected households as quickly as possible to avoid long-term welfare impacts. "
+        },
+        {
+            "text": "For example, if a farming household has their crops ruined by drought, they may soon be faced with redistributing or exhausting their finances if they do not receive timely help. In order to survive, they may be forced to make long-lasting decisions such as selling land and cattle or taking their children out of school."
+        },
+        {
+            "text": "ARC also provide policies that cover the conditions across an entire country, which can include some of the most fragile and conflict affected areas on the planet. "
+        },
+        {
+            "text": "To provide payments as quickly as possible across large geographic areas, ARC uses parametric insurance to structure its products."
+        },
+        {
+            "heading": 2,
+            "text": "What is parametric insurance?"
+        },
+        {
+            "text": "The typical insurance product which we imagine, e.g. home insurance, is a non-parametric insurance product also known as indemnity insurance. Here, payment is made only after the following: "
+        },
+        {
+            "text": "As a result, significant time may elapse between the event occurring and agreeing payments. If also done over the scale required for sovereign-level products, it would add unsustainable delays in the supply of needed funds to individuals."
+        },
+        {
+            "text": "Therefore, it\u2019s important to find a way to pay the insured quicker, which parametric insurance aims to do. Parametric insurance pays the policyholder a fixed amount when a pre-defined directly measurable event happens at a certain intensity and location. "
+        },
+        {
+            "text": "As an example, a hurricane parametric product could trigger a payout if wind speed exceeds a pre-specified threshold. Payment would be made immediately upon the wind speeds passing the threshold, allowing finance to be accessed quicker for those whose lives have been impacted."
+        },
+        {
+            "text": "Furthermore, by using hydrological satellite measures, parametric insurance products can be set up to cover entire countries at scale without the need to establish expensive ground-based infrastructure."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges of parametric insurance"
+        },
+        {
+            "text": "It is worth considering that both the trigger event and the amount paid are set in advance and may not always exactly match the specific needs of those facing the disaster. "
+        },
+        {
+            "text": "If the payment amount is set too low based on the trigger event, then the payouts may not be enough to protect the livelihoods of the insured. Conversely, if the payments are set too high, it may make the insurance prohibitively expensive. "
+        },
+        {
+            "text": "Similarly, setting the trigger events may be difficult. If the threshold is set too severely, then those insured may not receive any financial assistance until it is too late or none at all following an extreme weather event. "
+        },
+        {
+            "text": "The thresholds are based on satellite data which often doesn\u2019t reach far back enough to give an understanding on what threshold would correspond to a 1 in 10 year event, the level that nations will often want to insure at. "
+        },
+        {
+            "text": "Furthermore, there are risks around factoring in underlying trends driven by global weather systems such as El Ni\u00f1o/La Ni\u00f1a and broader climate change.In order to set these parameters appropriately, it is important to critically examine the data and modelling used, to reduce the risk that the insurance payout is insufficient for the need."
+        },
+        {
+            "text": "However, even though parametric insurance can help countries in the more extreme events, it is important to recognise that these countries may also still require financial aid and assistance on a near annual basis."
+        },
+        {
+            "heading": 2,
+            "text": "Modelling drought"
+        },
+        {
+            "text": "When droughts occur, these affect wide areas and have a slow onset, making it difficult to observe. "
+        },
+        {
+            "text": "Satellites are often used to identify drought situations, especially where drought episodes can be localised, using a measure called Normalised Difference Vegetation Index (NDVI)."
+        },
+        {
+            "text": "Insurers can then use this measure as a trigger point to create a parametric insurance product, which can be used by organisations like ARC. For instance, a threshold for NDVI can be set which corresponds to the climate conditions of a particular crop failure in a given region and sowing window. "
+        },
+        {
+            "text": "However, care needs to be taken when setting the payout thresholds as it may not provide appropriate levels of cover. Building on the earlier example, the NDVI may be calibrated for a particular crop which could mean that if a different crop fails, it might not trigger a payout."
+        },
+        {
+            "heading": 2,
+            "text": "Modelling flood"
+        },
+        {
+            "text": "ARC and other risk pools rely on satellite data to monitor wider areas, but it can be difficult to effectively monitor and model floods using satellite data solely. In recent years, significant investment has been made in technology to increase timeliness and access to information, which improves the financial products that can be offered to cover flood risk. "
+        },
+        {
+            "text": "Flood-monitoring tools now exist which combine satellite data with on-the-ground observations and hydrological models to improve the performance and accuracy of flood predictions. Using this data, a trigger can be set based on the number of people expected to be affected by a flood of a given depth as estimated by flood-monitoring tools."
+        },
+        {
+            "heading": 2,
+            "text": "Parametric insurance in risk pools across the world: ARC, CCRIF SPC, SEADRIF, PCRIC"
+        },
+        {
+            "text": "Similar to how ARC exists as a risk pool providing parametric insurance solutions for African governments, there are other risk pools providing similar coverage for other disaster-prone regions: "
+        },
+        {
+            "text": "These products are sold at a country level (i.e. taken out by governments on behalf of their citizens). This is often because cover may be unaffordable or unavailable to individuals, and because extreme weather events often result in extensive damage across a region. "
+        },
+        {
+            "text": "There are also reasons why governments from the same continent pool together and form risk pools instead of managing the disaster from their own budgets This may help obtain cover at more competitive rates, as well as diversify risk. "
+        },
+        {
+            "text": "For example, some countries may want to insure against drought whereas others in the pool may want to insure against excess rainfall, which are unlikely to occur in the same region at the same time. Pooling may also make it easier to access donor financing from countries such as the UK, US, Germany, or Canada."
+        },
+        {
+            "heading": 2,
+            "text": "Future of parametric insurance"
+        },
+        {
+            "text": "As extreme weather events are occurring with greater frequency and intensity, the value of parametric insurance will continue to grow. "
+        },
+        {
+            "text": "As the world is also becoming increasingly data-driven, we will expect to see more data being incorporated into models which can run more accurate simulations on identifying the expected severity of extreme weather events as well as the expected damages of them."
+        },
+        {
+            "text": "For instance, local Mexican governments have recently used parametric insurance products to cover tropical cyclones and hurricanes in the Gulf of Mexico . As this form of insurance continues to evolve, we recognise its increasing value to the UK for how we insure against our own climate risk."
+        },
+        {
+            "text": "Furthermore, as the models and forecasts become increasingly accurate, we are starting to be able to recognise climate disasters before they arise, allowing payments to be made in advance of them. "
+        },
+        {
+            "text": "This is known as anticipatory action insurance schemes and are a new form of parametric insurance which pay out before damages occur based on early warnings and has already been piloted in Fiji."
+        },
+        {
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
