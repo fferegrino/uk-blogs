@@ -1,0 +1,77 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/10/11/a-new-approach-to-export-support-on-great-gov-uk/",
+    "title": "A new approach to export support on great.gov.uk\u00a0",
+    "authors": [
+        "Tom Ha, Product Manager"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2024-10-11T11:26:53+01:00",
+    "content": [
+        {
+            "heading": 4,
+            "text": "Tom Ha"
+        },
+        {
+            "heading": 3,
+            "text": "Enabling businesses to self-serve export support on great.gov.uk\u00a0\u00a0"
+        },
+        {
+            "text": "Great.gov.uk is the government\u2019s platform to help educate and promote the benefits of exporting for UK businesses through the provision of expert guidance, tools and services. We have been increasing and improving our export support offer on great.gov.uk, so that we can support more businesses by supplementing the in-person support from the department. Great.gov.uk is helping more businesses every year, with a 16% increase in users between 2021 and 2022, and a 30% increase between 2022 and 2023. In Q4 2023/2024, 153k users came to great.gov.uk, out of a total pool of potential exporters to be estimated at around 700k. We\u2019re proud of our growing reach.\u00a0\u00a0"
+        },
+        {
+            "text": "We released our first iteration of an export support triage system in September 2023. It is now even easier for users to find export support on great.gov.uk and we have reduced enquiries for routine information like finding your EORI number. However, a research report showed that while our triage system has made it easier to answer simple questions, it is sometimes still hard to locate answers to complex questions. This can be a frustrating experience, and those experiencing this can\u2019t take the next step in their exporting journey. My team was tasked with building the next iteration of our export support triaging system and overcoming this challenge.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Aligning on and off line services\u00a0"
+        },
+        {
+            "text": "For this work, our team collaborated with the Export Digital Enquiry Service (EDES). As the team who manages online export enquiries, they have a great understanding of the problems that exporters face. Together, we produced a list of 120 export tasks which contains the activities that an exporter could be doing to export their product or service. An example of a task would be \u2018get your commodity code\u2019. The tasks were grouped into 8 categories, each containing multiple subcategories. As an example, the \u2018get your commodity code\u2019 task sits within the \u2018how to make a customs declaration\u2019 sub-category of the \u2018customs, taxes and declarations\u2019 category.\u00a0\u00a0"
+        },
+        {
+            "text": "The task list was the output produced after 9 workshops over 11 hours between the digital team and EDES. However, the task list is a live document and may change in the future as we develop our understanding of what exporters are trying to do. EDES will now tag incoming enquiries with tasks. The digital team will continue to work with EDES and stakeholders through a monthly advisory group to maintain this collaboration between online and offline export support teams.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Journeys through great.gov.uk and the wider system in place to support exporters\u00a0"
+        },
+        {
+            "text": "We know that there is a broad system available to help exporters, beyond government. We wanted to make sure that we strengthened our signposting onto the wider system as part of these improvements. Participants responded well to the use of the task list to organise our export support in user research, as the site now has a shared language with exporters. Users also found export support organised by category, sub-category and task easy to navigate whoever provides the support. This updated export support triage system is now available on great.gov.uk.\u00a0"
+        },
+        {
+            "text": "We will soon release further improvements to adapt the journey to each user\u2019s particular exporting situation. We will ask what the user is exporting, where they are exporting to, and the task they want to resolve. We ask the questions progressively rather than all at once, and after each user input we surface relevant and specific information based on the input. As the user gives us more information we can refine what is returned until we give the user what they are looking for. This will allow users to self-serve quicker and easier as the information shown is tailored to their specific circumstances, and irrelevant information is hidden.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Driven by insight\u00a0"
+        },
+        {
+            "text": "The idea of using a user\u2019s product and market to offer relevant support was received well in both a live experiment on great.gov.uk and user research. The live experiment put a very stripped-back version of the guided journey onto the great.gov.uk homepage. We asked users what product or service they were intending to export and which market they had in mind. As the user provided each input, we presented a very limited selection of results through the journey. We managed to develop this live experiment in just two weeks. In just a month we saw that 97% of users who completed the journey had a product and 70% had a market. We also saw a 60% increase in sign-ups from the homepage banner while the experiment was live. This gave us an indication that a journey that appears tailored to the user could lead to greater engagement and drive sign-ups to the site. This in turn gives us greater insight into businesses looking to export, and, if they consent, the opportunity to contact them proactively to support their exporting journey.\u00a0\u00a0"
+        },
+        {
+            "text": "The insights gained in the live experiment were further developed and refined through user research to create the guided journey that will be going live. Users told us that asking for their product and market makes sense, and they expected us to be able to provide a more relevant answer through this information. The users appreciated the feeling of the site listening to them, and felt such a journey would make it easier to find their answer.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How this will make a difference\u00a0"
+        },
+        {
+            "text": "With this work, we will further strengthen the self-serve experience on great.gov.uk. Then we can continue to support larger numbers of businesses to keep growing and exporting, and in turn contributing to the UK economy. Our work makes it easier for users to navigate the site and find answers at the appropriate level of specificity.\u00a0 We will also further reduce enquiries for routine information that can be self-served online. This will allow our in-person export support teams to focus their efforts on the highest value businesses while ensuring all businesses are supported through great.gov.uk.\u00a0"
+        },
+        {
+            "text": "We will also develop a stronger view of what export support businesses are seeking. Because this task-level data is granular, we will know exactly why every business is using great.gov.uk . By also tagging offline enquiries, we can have a unified view of export support across the department. This data will allow us to see trends or changes over time, which will help us inform our future policy, programmes and our online offer.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Future goals\u00a0\u00a0"
+        },
+        {
+            "text": "There is still more that could be done to iterate on our work and to create a more joined up export support system. Some of the questions the team are currently thinking about are:\u00a0"
+        },
+        {
+            "text": "\nReady to grow your business by exporting? Visit Great.gov.uk for expert guidance, tools and services.\n"
+        }
+    ]
+}
