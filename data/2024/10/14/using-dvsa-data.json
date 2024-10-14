@@ -1,0 +1,95 @@
+{
+    "url": "https://movingon.blog.gov.uk/2024/10/14/using-dvsa-data/",
+    "title": "Using DVSA Data\u00a0",
+    "authors": [
+        "Danny Charles"
+    ],
+    "categories": [
+        "Guides and reports"
+    ],
+    "pub_date": "2024-10-14T12:51:40+01:00",
+    "content": [
+        {
+            "text": "As part of DVSA\u2019s routine work we collect data \u2013 for example from the annual test or MOT.\u00a0"
+        },
+        {
+            "text": "In line with wider government policy, we make as much of that data available publicly or to the customers who have a direct interest in it.\u00a0"
+        },
+        {
+            "text": "Our experiences of making our data available in different ways, is that customers can get a lot of value from it \u2013 whether that be helping you operate your fleets better or helping you to inform purchasing decisions.\u00a0\u00a0"
+        },
+        {
+            "text": "This blog sets out some of the ways our data is available and encourages you to let us know what other ways it could be helpful to provide DVSA data.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Data by Vehicle Operator\u00a0"
+        },
+        {
+            "text": "For licensed vehicle operators, we provide you with \u2018reports\u2019 of data. This consists of data relevant to the operator in question \u2013 so for vehicles that are notified to the \u2018VOL\u2019 system. This data includes vehicle test data, roadside encounters, prohibitions and the \u2018operator compliance risk score\u2019 (OCRS) that we use to help target our enforcement work.\u00a0\u00a0"
+        },
+        {
+            "text": "Operator Compliance Risk Score (OCRS) is calculated over a 3-year rolling period, it can change after inspections, tests or prosecutions. You can view your OCRS, monitor the MOT pass rates for your vehicles, identify causes for test failures and view information about when your drivers or vehicles are checked by a DVSA Enforcement Examiner through this service. This is all key data that helps you manage how your vehicles and drivers are being seen by us \u2013 and hopefully enables you to improve where things go wrong.\u00a0\u00a0"
+        },
+        {
+            "text": "As a reminder, we do annually publish enforcement data by operator \u2013 so the results of our checks, by operator are in the public domain. This is done once a year \u2013 so we will be publishing soon for 2023 \u2013 so it is good practice for you to be on top of managing your data in real time \u2013 it gives a good response to any queries you get from your customers on this data when it is out in the public. The 2022 data is published at Vehicle operators who committed road safety offences in 2022 - GOV.UK (www.gov.uk).\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Annual Test Data\u00a0"
+        },
+        {
+            "text": "One of our most popular services is the MOT History Service \u2013 the same service is used for private cars and commercial vehicles. This data can be beneficial for fleet users or maintainers when needing to track test failures, but also the trends in the wider vehicle parc that can be mined from this data can be helpful when, for example, collating information on different vehicle types. We also see this data used by insurers to help them make informed decisions \u2013 including whether vehicles have a current MOT.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How to view and use this information\u00a0"
+        },
+        {
+            "text": "The data is available in two main ways \u2013 as a web-service, checking vehicle by vehicle by entering the vehicle registration number on-line, or as an Application Programming Interface (API). For those not familiar with an API, this is a way of allowing separate applications to access and share data. For fleet operators or others who want to look at the data across a wide number of vehicles this can be a useful way of doing that. All the technical details of how this works are published on-line at MOT History API.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Recalls data\u00a0"
+        },
+        {
+            "text": "The guide to maintaining roadworthiness sets out the responsibility that a vehicle operator needs to have a system for making sure they know about, and act upon, vehicle safety recalls.\u00a0\u00a0"
+        },
+        {
+            "text": "We publish data about recalls in two ways. When a new safety recall is added, we add it to a list of all recalls on-line, and this can be searched for by vehicle type. However, we do know that for commercial vehicles in particular, vehicle type can be hard to narrow down \u2013 and that it still only tells you if the type has had a safety recall, it will not tell you if your individual vehicle or vehicles have had any recalls either outstanding or dealt with.\u00a0\u00a0"
+        },
+        {
+            "text": "To try and help, we have started working with vehicle manufacturers for them to share their data with DVSA on outstanding recalls for individual vehicles. Where we have that data \u2013 we share it on the MOT History Service, and for some manufacturers (at the time of writing this blog, MAN Trucks plus Ford, Mercedes and VW vans are the only commercial vehicle producers that currently share their safety recall data with DVSA in this way) it is available via the MOT History API.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "\u2018Statistical Data Sets\u2019\u00a0"
+        },
+        {
+            "text": "As well as the vehicle specific data set out above, we also publish some \u2018trend\u2019 data on our national work \u2013 across testing (both commercial vehicle and light vehicle MOT) and commercial vehicle enforcement. Unlike the web and API this data isn\u2019t updated in real time \u2013 so it is looking backwards. And whilst updated quarterly, it does take time to be presented in this way, so will be a bit behind. \u00a0"
+        },
+        {
+            "text": "This trend data can help you when you compare it against your own data. We also see it being used to support maintenance workshop training \u2013 if you understand others\u2019 common errors, it can help you avoid them.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Reminders of when MOTs are due\u00a0"
+        },
+        {
+            "text": "Reminders of when an annual test (MOT) is due are freely available at MOT Reminder Service.\u00a0"
+        },
+        {
+            "text": "When you sign up, you\u2019ll get free reminders by text message or email when your MOT is due. For lorries, buses, coaches or large trailers we\u2019ll send you a timely reminder 2 month before your MOT is due.\u00a0"
+        },
+        {
+            "text": "This service was originally designed for light vehicle MOT, but we have found some heavy commercial vehicle users do find it helpful \u2013 particularly those with smaller fleets or for those vehicle types that are used privately.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Looking Ahead\u00a0"
+        },
+        {
+            "text": "Our digital development team on the Commercial Vehicle Service (CVS) are always looking for ways of improving the digital and data service offering to our customers. That includes how we share data \u2013 and how it can help our customers. As always, it\u2019d be great to get some feedback through this blog on what other things would be helpful \u2013 we can\u2019t promise we\u2019ll do it straight away, but we\u2019ll get to it!\u00a0"
+        }
+    ]
+}
