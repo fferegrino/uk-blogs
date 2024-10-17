@@ -1,0 +1,83 @@
+{
+    "url": "https://space.blog.gov.uk/2024/10/17/microwaves-on-the-moon/",
+    "title": "Microwaves on the Moon",
+    "authors": [
+        "UK Space Agency"
+    ],
+    "categories": [
+        "Applications",
+        "Funding",
+        "Space science"
+    ],
+    "pub_date": "2024-10-17T15:58:40+01:00",
+    "content": [
+        {
+            "text": "As our nearest neighbour, the Moon is the first stepping stone for space exploration. As humanity sets its sights on establishing a sustained presence in deeper space, a long-term lunar base is expected to provide crucial support for extended missions."
+        },
+        {
+            "text": "Such missions will require habitats with substantial shielding from radiation and micrometeorites, as well as fuel and a reliable supply of water and oxygen for life support. Transporting all necessary resources from Earth is neither sustainable nor cost-effective."
+        },
+        {
+            "text": "Therefore, the focus shifts towards in-situ resource utilisation (ISRU), extracting and processing resources directly from the Moon itself."
+        },
+        {
+            "heading": 2,
+            "text": "What can the Moon offer space explorers?"
+        },
+        {
+            "text": "The Moon is a desolate landscape."
+        },
+        {
+            "text": "There is no substantial lunar atmosphere to speak of, and despite having regions called the Ocean of Storms and Sea of Clouds, there is no liquid water to be found."
+        },
+        {
+            "text": "The Moon\u2019s surface is covered by lunar regolith, which is a grey layer of loose, fragmented material made from silicon, iron, and metal oxides. Resources like oxygen can be extracted or the regolith can be processed into building materials."
+        },
+        {
+            "text": "This involves technology that can perform complex processes and will need to work reliably in harsh and variable lunar conditions."
+        },
+        {
+            "text": "Supported by the UK Space Agency, the Open University led an ambitious project that contributed a novel solution to this challenge, alongside a consortium which included Added Value Solutions UK Ltd., and VIPER RF."
+        },
+        {
+            "text": "The development focused on increasing the technology readiness level of a Microwave Heating Demonstrator (MHD) payload."
+        },
+        {
+            "text": "The concept is familiar to anyone that has used a kitchen-top microwave oven, but the principles can be applied to more than last night\u2019s dinner."
+        },
+        {
+            "text": "Microwave radiation can be used to heat material by vibrating its constituent components, which creates thermal energy through dielectric heating. Heating the regolith in the presence of hydrogen can also liberate oxygen from the mineral constituents, which is fundamental for human survival on the Moon."
+        },
+        {
+            "text": "What\u2019s more, by reacting hydrogen with the liberated oxygen, the project demonstrated producing H2O \u2013 water \u2013 from material that simulated lunar regolith."
+        },
+        {
+            "text": "The project also investigated melting regolith and then cooling to create new materials that could be used for building infrastructure on the Moon."
+        },
+        {
+            "text": "The project team published their research in a group of journals that described the properties of microwave-heated lunar simulants under air [1] and vacuum [2] conditions. The study found that the microwaved material has a much higher strength than concrete."
+        },
+        {
+            "text": "These are promising results for the use of microwaved lunar regolith for building protective walls on the Moon, or lunar structures could be 3D-printed directly from molten material."
+        },
+        {
+            "text": "The project team successfully designed, manufactured, and tested a prototype 250W S-band Microwave Generator, and developed a microwave cavity prototype."
+        },
+        {
+            "heading": 2,
+            "text": "UK Space Agency support"
+        },
+        {
+            "text": "This activity was supported by the UK Space Agency as part of the Enabling Space Exploration funding call. The MHD project not only advanced lunar resource technology but also identified potential spin-offs for applications on Earth. For instance, the microwave heating technology could be used to build artificial coral reefs under water and shelter in desert areas."
+        },
+        {
+            "text": "This technology is also being pioneered at The Open University for mining waste management, potentially extracting valuable resources that were previously discarded."
+        },
+        {
+            "text": "The MHD project team creatively approaches one of the difficult problems posed by space and demonstrates the expertise necessary to make their solution viable."
+        },
+        {
+            "text": "The UK Space Agency\u2019s investment in this pioneering project underscores its commitment to advancing space technology, as MHD and others march towards a sustainable future in space."
+        }
+    ]
+}

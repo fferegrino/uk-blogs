@@ -1,0 +1,103 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/10/17/empowering-voters-behind-the-scenes-of-the-choose-my-pcc-service/",
+    "title": "Empowering voters: behind the scenes of the Choose My PCC service\u00a0",
+    "authors": [
+        "Leah Clinch, Operational Service Delivery Manager",
+        "Warren Keith, Software Developer",
+        "Gurpal Virdee, Business Analyst"
+    ],
+    "categories": [
+        "Elections"
+    ],
+    "pub_date": "2024-10-17T13:37:31+01:00",
+    "content": [
+        {
+            "text": "We are a multidisciplinary team embedded within the MHCLG\u2019s Elections Directorate, which builds and runs government digital services related to elections. This includes Apply for a photo ID to vote and Register to vote, which are 2 of the many vital government services that citizens use throughout their lives.\u00a0"
+        },
+        {
+            "text": "Police (Fire) and Crime Commissioners (PCCs) are elected by the general public to oversee how crime is tackled in each police force area. Their aim is to cut crime and to ensure the police force is effective. \u00a0"
+        },
+        {
+            "text": "Their role involves setting priorities for local policing, managing budgets, and holding chief constables to account. PCCs are elected every 4 years in England and Wales, excluding a few large cities where such powers are held by combined authority mayors. May 2024 marked the fourth round of elections since the role was first introduced in 2012.\u00a0\u00a0"
+        },
+        {
+            "text": "With the latest PCC elections now behind us, it\u2019s time to reflect on the lessons identified from May 2024 for the Choose My PCC service \u2013 the official website where voters can access information about PCC candidates \u2013 and where we\u2019re headed.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The Choose My PCC digital service\u00a0\u00a0"
+        },
+        {
+            "text": "The Choose My PCC service has been vital since the role of PCCs was created, as no literature is automatically distributed to households for these elections. The website is the only place for many electors to access full information about who is standing in their area. Printed and accessible versions are made available to order on the site.\u00a0\u00a0"
+        },
+        {
+            "text": "The service has been around for a while and we knew there were improvements we could make to give people a better experience. In preparation for May\u2019s election, our team worked hard to improve the Choose My PCC service, by focusing on ensuring that Police Area Returning Officers (PAROs, the people responsible for running PCC elections within local government) could upload candidate information to the website easily.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Reflecting on the 2024 election \u00a0"
+        },
+        {
+            "text": "Looking back at the lead-up to the 2024 election, it\u2019s safe to say the pressure was on. The Elections Digital Team had inherited a system that had changed hands multiple times since its inception. In fact, Choose My PCC has been a bit of an unsung hero \u2013 required by legislation but not enhanced in some time, as it is a smaller, more niche service.\u00a0\u00a0"
+        },
+        {
+            "text": "When our small team started on the project, we were faced with an unfamiliar service and an immovable deadline. Despite these challenges, our multidisciplinary team pulled together and brought about a significant enhancement.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Introducing the content uploader tool\u00a0"
+        },
+        {
+            "text": "The main improvement our team made was the introduction of the content uploader tool, which gave PAROs the ability to digitally upload their PCC candidate information, such as their contact details, photos, party emblems and a short statement, within a cyber secure area. In previous elections, it was more of a manual process, where the content had to go through a central point in the government\u2019s Elections team.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Improving the content uploader\u00a0"
+        },
+        {
+            "text": "One of our biggest hurdles was the fact that the content uploader tool was developed by a third party, without any input from the PAROs \u2013 its primary users. They did not even see it until it was nearly complete, which meant they did not have as many opportunities to test it and suggest improvements as we would have wanted in a perfect world. And yet, the tool had to be ready to use in the weeks leading up to the election in May.\u00a0\u00a0"
+        },
+        {
+            "text": "We knew it needed some improvements and input from users before it went live ahead of the election. We worked with the PAROs as much as we could in the short time we had before the election to get their feedback and ideas for the tool. We introduced form validation on key bits of candidate data, ensuring the data being input was checked to reduce errors. Where needed, we also added prompts directly on the uploader tool to ensure the PARO was reminded of what information is legally required for a PCC candidate election address.\u00a0"
+        },
+        {
+            "text": "Collaborative workshops, expedited quality-of-life improvements and targeted support helped get PAROs comfortable with the system in time for the election. The team\u2019s dedication meant the system was ready for election day.\u00a0\u00a0"
+        },
+        {
+            "text": "Having said that, we now have ideas for how the system can be further improved. We learned a lot during the process, and now we have the time to apply those lessons.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next: a focus on the future\u00a0\u00a0"
+        },
+        {
+            "text": "Now that the dust has settled from the 2024 election, we\u2019re looking ahead with a renewed sense of purpose. The next PCC elections may be 4 years away, but that gives us a luxury we did not have this time around \u2013 time. Time to work with users, time to make meaningful improvements, and time to ensure that the Choose My PCC service is polished and ready.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ve already recruited a small group of users \u2013 PAROs and other key stakeholders \u2013 who are eager to help us shape the future of the service. We envision simplifying the service right down to make it as streamlined and intuitive as possible, for both electors and administrators in local government.\u00a0\u00a0"
+        },
+        {
+            "text": "By engaging with the PAROs, we learnt a lot about the pressures they face day to day as well as all the offline work they do during the nomination process with candidates. Their input will be instrumental as we rework and refine the product that they trust and rely on, not just for the next election but for many cycles to come.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A unique challenge: no other service like it\u00a0\u00a0"
+        },
+        {
+            "text": "One thing that makes Choose My PCC particularly unique is that there\u2019s no other central government-published website for election candidate information like it. While crowdsourced options exist, Choose My PCC is the official source. This gives us an added responsibility to get it right \u2013 not just for the next election, but for every election.\u00a0\u00a0"
+        },
+        {
+            "text": "Despite its high importance, the service has not been a focus for development. But that\u2019s changing. With the lessons of 2024 behind us, we\u2019re committed to making Choose My PCC a service that not only meets expectations but exceeds them.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Preparing for the next election\u00a0\u00a0"
+        },
+        {
+            "text": "The 2024 PCC elections were a learning experience. We put the system onto a more efficient footing, but we know we can do even better. It is essential to make improvements behind the scenes to this service so that electors have a consistent and dependable experience.\u00a0\u00a0"
+        },
+        {
+            "text": "As we work towards future elections, we\u2019re excited to further develop a product that voters and administrators alike can trust. The next election might be 4 years away, but we\u2019re already laying the groundwork to make sure it\u2019s our best yet. And if any by-elections pop up before then? We\u2019ll be ready for that too.\u00a0\u00a0"
+        }
+    ]
+}

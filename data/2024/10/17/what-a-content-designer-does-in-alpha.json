@@ -1,0 +1,130 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/10/17/what-a-content-designer-does-in-alpha/",
+    "title": "What a content designer does in alpha",
+    "authors": [
+        "Kaitlin D'Avella"
+    ],
+    "categories": [
+        "Accessibility",
+        "Defra content design",
+        "Defra digital",
+        "Defra services",
+        "User centred design"
+    ],
+    "pub_date": "2024-10-17T11:15:46+01:00",
+    "content": [
+        {
+            "text": "Following our two-part post on what content designers do in discovery, Kaitlin D'Avella covers what content designers do in the next stage of a project: alpha."
+        },
+        {
+            "heading": 2,
+            "text": "What the alpha phase is"
+        },
+        {
+            "text": "Alpha is the second phase of the service delivery process. It\u2019s the phase where you try out different solutions to the problems you uncovered in discovery."
+        },
+        {
+            "text": "During the alpha phase, you will:"
+        },
+        {
+            "heading": 2,
+            "text": "What the focus is"
+        },
+        {
+            "text": "Rather than testing things that are a given, in alpha you will explore areas of your service that are uncertain. You should start with whichever assumptions are the riskiest. These are things that could hinder the user from completing actions in the service."
+        },
+        {
+            "text": "For example, take a service that requires users to enter a UK-based phone number. It\u2019s a risky assumption that every user of the service has a phone number based in the UK. This team will need to understand more about their users and technical requirements."
+        },
+        {
+            "heading": 2,
+            "text": "What a content designer does in alpha"
+        },
+        {
+            "text": "As a content designer, you\u2019ll play a huge role in determining what to test in alpha. You\u2019ll act as an advocate for user needs, analysing evidence to distinguish what\u2019s true about your service and what\u2019s assumed. You might run riskiest assumption testing (RAT), which helps surface uncertainty about your service, users or delivery plan."
+        },
+        {
+            "text": "Content designers also take a closer look at the language of the service. This could be testing how users interact with the service based on the words that describe different actions."
+        },
+        {
+            "text": "For example, you\u2019ll research which labels and calls to action work best for your users. You\u2019ll also help name features of the service from the start, helping the team and stakeholders speak the same language. This avoids miscommunication internally and confusion for users."
+        },
+        {
+            "heading": 2,
+            "text": "How content designers collaborate"
+        },
+        {
+            "text": "Alpha phase is when design thinking really shines. Content designers play an important part in scoping and refining the needs of the service, along with prototyping and iterating designs."
+        },
+        {
+            "text": "As a content designer, you\u2019ll work with your team to:"
+        },
+        {
+            "heading": 2,
+            "text": "Specific tasks content designers will do"
+        },
+        {
+            "text": "Alpha phase is a busy time filled with prototyping and testing. A few tasks you\u2019ll own include to:"
+        },
+        {
+            "text": "Content designers also take a close look at user language during the alpha phase. You\u2019ll:"
+        },
+        {
+            "heading": 2,
+            "text": "Tips for working through alpha"
+        },
+        {
+            "text": "Expect to learn a lot about your service and your users during alpha phase. You\u2019ll likely end up with a very different view of how the service should work \u2013 and that\u2019s a good thing. Here are a few lessons I learned during my last alpha phase."
+        },
+        {
+            "heading": 3,
+            "text": "1. Don\u2019t aim for perfection"
+        },
+        {
+            "text": "Alpha isn\u2019t the time for high-fidelity prototyping. Instead, keep things lean. My team started with pen-and-paper sketches and Word documents. We put these in front of users as a sounding board to understand their needs. This helped us get clearer feedback from subject matter experts, and stopped them from latching on to designs that we might not move forward with. We only started using the GOV.UK Prototyping Kit once we had a higher level of confidence about the direction of our service."
+        },
+        {
+            "heading": 3,
+            "text": "2. Show the thing"
+        },
+        {
+            "text": "Alpha comes with a lot of uncertainty \u2013 so it\u2019s important to work out in the open. Host show and tells for your policymakers and subject matter experts. Show them your work-in-progress. You\u2019ll get clearer feedback and move faster. It\u2019s important to keep a record of this feedback and what changes you made afterward. Documenting each iteration will help you trace design decisions."
+        },
+        {
+            "heading": 3,
+            "text": "3. Keep accessibility at the forefront"
+        },
+        {
+            "text": "As designers, we should always be thinking about how to make our services accessible. Although you\u2019ll run accessibility testing in beta phase, it\u2019s important to work with guidelines in mind during alpha too. For example, do not design a component that will not work for a screen reader, or use language that could exclude some users \u2013 even if you\u2019re just trying it out for a test."
+        },
+        {
+            "heading": 3,
+            "text": "4. It\u2019s ok to stop the work"
+        },
+        {
+            "text": "Your team might decide during alpha phase that it\u2019s not worth it to progress to beta. That\u2019s ok! Part of alpha is understanding the constraints and limits to your service. It\u2019s a good use of time and resources to come to this decision. In fact, testing things out and pivoting is the whole point of alpha."
+        },
+        {
+            "heading": 2,
+            "text": "Finishing alpha phase"
+        },
+        {
+            "text": "Alpha phase is meant to last about 8 to 10 weeks \u2013 but often takes much longer. Towards the end, you\u2019ll have a service assessment hosted by peers and leaders to review your progress. This is an opportunity to show how you tested your assumptions and everything you learned about your service and users."
+        },
+        {
+            "text": "As a content designer, you\u2019ll play a supporting role in preparing the team for assessment. This could include:"
+        },
+        {
+            "text": "It\u2019s a good idea to share information with the assessors ahead of time. This allows more space for valuable discussion during the assessment and can give you some helpful recommendations from a design perspective. This might include assessment pre-meetings and sharing the prototype or presentation."
+        },
+        {
+            "text": "You might be expected to talk at your service assessment, but you shouldn\u2019t write a script or over-prepare. Your assessment planning is a good chance to reflect and review the decisions you made throughout alpha. And with any luck, you\u2019ll have made sure the content in your service is in the best possible position to move on to the beta phase."
+        },
+        {
+            "text": "Kaitlin is a senior content designer in the trade department at Defra. She works on a service related to animal welfare."
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow."
+        }
+    ]
+}
