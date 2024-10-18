@@ -1,0 +1,64 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/10/18/using-data-design-to-transform-the-planning-application-process-get-involved/",
+    "title": "Using data design to transform the planning application process: get involved",
+    "authors": [
+        "Colm Britton, Service Designer and Team Lead",
+        "Mike Rose, Data, Licensing and Intellectual Property SME"
+    ],
+    "categories": [
+        "Digital Planning"
+    ],
+    "pub_date": "2024-10-18T11:14:07+01:00",
+    "content": [
+        {
+            "text": "The planning application process, known as development management, is integral to new developments coming forward so it is essential the system works as smoothly and efficiently as possible."
+        },
+        {
+            "text": "At the heart of this process is the data and information collected when a planning application is made. Developing robust, effective data specifications will ensure that what is submitted is consistent and compatible with the different digital systems used by local planning authorities (LPAs) and the new tools and services, such as digital site notices, which are currently being developed to transform the system."
+        },
+        {
+            "text": "Data and data standardisation is at the heart of the Digital Planning team\u2019s mission to modernise England's planning system. We have been working hard to collect planning and housing data from LPAs and make it consistent across England for the planning data platform."
+        },
+        {
+            "text": "We are now turning our attention to developing data specifications for planning applications to make the whole process smoother, faster and more efficient."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ll be doing"
+        },
+        {
+            "text": "Over the next few months, we plan to get a clearer picture of everything involved in planning applications. We\u2019ll look into where specifications are required, and define them clearly, taking into account how this data will be used by the planning community. This will build on the work that we have already started, such as the draft specifications for planning applications and decisions, and planning conditions.\u00a0"
+        },
+        {
+            "text": "We are now kicking off the next stage of this work (which will be our main focus for the next few months) on a specification for planning application submissions.\u00a0"
+        },
+        {
+            "text": "We already know that this is the key specification for creating, reviewing, and making decisions on applications. Having clear data standards will enable the smooth flow of data between systems used by applicants and planning officers."
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019ll work"
+        },
+        {
+            "text": "We want to work collaboratively and openly with people across the planning community, from both public and private sectors."
+        },
+        {
+            "text": "We know that there has been a lot of work done already by different organisations in this space over the past few years. This work provides a great base that will help us as we progress. In the first instance, we will take a step back and focus on building the core foundations that will help us create robust, effective specifications that the whole community can adopt.\u00a0"
+        },
+        {
+            "text": "Our approach will be open, based on basic principles and led by legislation. This will provide a solid base for the specifications."
+        },
+        {
+            "text": "We are already working on developing a \u2018starter\u2019 data specification for the community to agree on. We plan to set up a working group shortly and will share regular updates on a dedicated discussion page on GitHub, (a web-based platform which facilitates collaborative development of software projects) where people can join the discussions, as well as on design.planning.gov.uk."
+        },
+        {
+            "text": "Because our data specifications (data standards) are agreements, it is important we use the collective knowledge of the planning community to create specifications that work for everyone."
+        },
+        {
+            "text": "This work is fundamental if we want to ensure the right data is available in the right format. Once we have that we can get the system flowing more quickly, adopt new digital tools and services and unlock the data for everyone to see and use.\u00a0"
+        },
+        {
+            "text": "Find our more about the Digital Planning programme."
+        }
+    ]
+}
