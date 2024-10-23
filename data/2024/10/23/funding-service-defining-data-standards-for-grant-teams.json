@@ -1,0 +1,94 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/10/23/funding-service-defining-data-standards-for-grant-teams/",
+    "title": "Funding Service: Defining data standards for grant teams",
+    "authors": [
+        "Wayne Busby, Technical Architect"
+    ],
+    "categories": [
+        "Data",
+        "Funding Service"
+    ],
+    "pub_date": "2024-10-23T12:56:22+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Creating reusable standards to improve grant delivery"
+        },
+        {
+            "text": "Data collection in funding is complex, with no two funds collecting the same data in the same way.\u00a0This causes problems with data consistency and increases the burden on grant recipients who report data for monitoring purposes."
+        },
+        {
+            "text": "As part of the Ministry of Housing, Communities and Local Government (MHCLG)\u2019s work to simplify the funding landscape, the Funding Service is creating reusable data standards for grant teams."
+        },
+        {
+            "text": "By establishing data standards for grant funding, our aim is to:"
+        },
+        {
+            "text": "We believe that standardising funding data will both benefit grant teams and improve the quality and efficiency of grant delivery across the whole department."
+        },
+        {
+            "heading": 2,
+            "text": "What we set out to do"
+        },
+        {
+            "text": "To help us achieve consistency for grant funding data, we embarked on an 8-week project to:"
+        },
+        {
+            "text": "In this blog post, you can find out about the approach we\u2019ve taken and our progress to date."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding data needs"
+        },
+        {
+            "text": "Before defining any data standards, we first needed to understand grant funding data needs across the department and beyond. We looked at:"
+        },
+        {
+            "text": "This involved speaking to business and grant funding teams in MHCLG, including 10 different teams on finance alone. We then looked at any standards already being used within those teams, wider government departments and across the subject matter in general.\u00a0"
+        },
+        {
+            "text": "The approach allowed us to compare the data needs against standards already in use and identify any data gaps. It also allowed us to pick the most suitable starting point for the Funding Service\u2019s data standards which could be modified to meet those needs."
+        },
+        {
+            "heading": 2,
+            "text": "Prioritising \u2018risk\u2019, \u2018organisation\u2019 and \u2018financial\u2019 data standards"
+        },
+        {
+            "text": "We identified three standards to prioritise: risk, organisation and financial data. These were chosen deliberately:"
+        },
+        {
+            "heading": 2,
+            "text": "Our data standards design process"
+        },
+        {
+            "text": "Taking a user-centred design approach, we created a blueprint to define the data standards. The cycle include:"
+        },
+        {
+            "text": "The cycle will continue to recur as we test and iterate the grant data standards once they are in use across the department."
+        },
+        {
+            "heading": 2,
+            "text": "Working on the data standards together"
+        },
+        {
+            "text": "Defining data standards is not an individual or even a team activity. For the grant funding data standards to succeed, there needs to be an ongoing collaborative effort between business and policy teams, subject matter experts, and operational and delivery teams. These differing viewpoints help to us give a 360-degree view of data and how it is used within MHCLG. They also provide a level of assurance and confidence that the data standard is well defined."
+        },
+        {
+            "text": "Similarly, we\u2019ve begun work with data colleagues throughout MHCLG, including the Deputy Prime Minister\u2019s Data Unit and the Chief Data Office, on how we introduce ownership and governance controls into the standards."
+        },
+        {
+            "heading": 2,
+            "text": "What's next and how to get in touch"
+        },
+        {
+            "text": "As we pass through the mid-way point of the project and progress with the definition of our three initial data standards for grant funding, we\u2019re beginning to think about what standards we want to produce next. We will also be putting forward recommendations on how we successfully implement the standards within MHCLG\u2019s digital services."
+        },
+        {
+            "heading": 3,
+            "text": "Note for grant funds delivered by MHCLG"
+        },
+        {
+            "text": "All new and redesigned government funds delivered by MHCLG must use the Funding Service, unless an exemption is agreed when your business case is approved.\u00a0If you are designing or delivering a fund via MHCLG and are not yet talking to the team about onboarding arrangements, please get in touch at the email address above."
+        }
+    ]
+}

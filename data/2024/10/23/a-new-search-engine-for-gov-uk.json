@@ -1,0 +1,86 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/10/23/a-new-search-engine-for-gov-uk/",
+    "title": "A new search engine for GOV.UK",
+    "authors": [
+        "Catriona Fraser, Product Manager, Search, GOV.UK",
+        "Christian Sutter, Technical Lead, Search, GOV.UK",
+        "Tara Stockford, Senior Performance Analyst at GOV.UK, GDS"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2024-10-23T10:31:51+01:00",
+    "content": [
+        {
+            "text": "Site search is one of the main ways that people find information on GOV.UK. It is used more than 4 million times a month. Last year we made improving site search one of the priorities in our strategy for growth."
+        },
+        {
+            "text": "Since GOV.UK was launched in 2012, site search has been powered by an open source search engine which we customised to suit our needs. Over the years, we\u2019ve worked hard on this customisation, experimenting with different ways to improve the relevance of results."
+        },
+        {
+            "text": "This work did improve results for users, but not as much as we would have liked. It also added complexity to our technology infrastructure, increasing the amount of maintenance work required."
+        },
+        {
+            "text": "In recent years, search technology has evolved rapidly. There have been significant improvements in semantic search: the ability for search engines to \u2018understand\u2019 a user\u2019s intent when they search for something, and return relevant results."
+        },
+        {
+            "text": "So last year we started a piece of work to investigate whether there were search products available that could significantly improve the relevance of our search results, while also being simpler and more efficient to run."
+        },
+        {
+            "text": "We've now launched a new search engine for GOV.UK site search, which is making it easier for users to find what they need on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Choosing a new search engine"
+        },
+        {
+            "text": "To make sure our new search engine would deliver the best experience for users, we started by running a thorough review of search products on the market. Once initial research was completed, we built working prototypes of different search engines to understand the search engine features that would be most effective in helping us improve outcomes for users, and make it simplest to integrate with our existing technology infrastructure."
+        },
+        {
+            "text": "We ran search queries on these prototypes and used judgement lists (sets of ratings for how relevant results are for a given search query) to review the quality of results. For further feedback, we also built a tool that let colleagues review and rate the prototypes\u2019 search results."
+        },
+        {
+            "text": "It was clear from this research that the latest generation of semantic search products, particularly those that use large language models, were able to provide significant improvements in search relevance at scale. We chose Google\u2019s Vertex AI Search as the product that would best meet user needs both for relevance and ease of integration."
+        },
+        {
+            "heading": 2,
+            "text": "Integrating a new search engine"
+        },
+        {
+            "text": "We developed a new backend application within our publishing platform to update the data in the search engine whenever content is changed, as well as an interface (API) that allows our existing systems to integrate with it. This was also an opportunity to simplify how we collect and process content from across GOV.UK for searching, since the new application has less complicated logic which is easier to understand and maintain."
+        },
+        {
+            "text": "Finally, we connected the search engine to anonymous data on how users are interacting with search (from users who have consented to analytics tracking). This allows it to improve search results over time, by learning which results are useful for which queries, based on what users are clicking on."
+        },
+        {
+            "heading": 2,
+            "text": "Testing the new search engine"
+        },
+        {
+            "text": "While building the new search backend systems, we continued to improve our testing approach to make sure that our new search engine would meet users\u2019 needs. We extended and improved our judgement lists, built automated tests, and built a new tool to let colleagues rate results and report queries with result quality problems."
+        },
+        {
+            "text": "Once we were confident in the quality of results, we started an A/B test on the live site. This test meant a random sample of GOV.UK users were shown results from the new search engine so we could compare its performance against the old search engine. We gradually ramped this test up to 50% of users (who had consented to analytics tracking) while closely monitoring the reliability of the system."
+        },
+        {
+            "text": "We tracked a range of behavioural metrics over the A/B test, such as clickthrough (does the user click on a search result, and how high up is the result they click on?) and refinement (does the user change their search because they did not get the results they expected?)."
+        },
+        {
+            "text": "We found that with the new search engine there was:"
+        },
+        {
+            "text": "All of these were indicators that users were finding what they needed more easily."
+        },
+        {
+            "heading": 2,
+            "text": "Launching the new search engine"
+        },
+        {
+            "text": "We went live with the new search engine at the end of February. We\u2019re really pleased with the results we\u2019ve seen so far, which represent a significant improvement in the search experience for GOV.UK users. We are closely monitoring metrics and user feedback to make sure that we meet our goal of helping all users find the information they need."
+        },
+        {
+            "text": "We\u2019re committed to continuing to improve the new search engine, and we\u2019ll be blogging again soon about changes we\u2019ve made to the user interface of search on GOV.UK. You can subscribe to Inside GOV.UK using the link below to read the next post as soon as it\u2019s published. If you have feedback to share about the changes we\u2019ve made to search on GOV.UK please email govuk-site-search@digital.cabinet-office.gov.uk."
+        }
+    ]
+}
