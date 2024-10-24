@@ -1,0 +1,60 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2024/10/24/what-we-mean-when-we-say-digital-identity-and-attributes/",
+    "title": "What we mean when we say \u201cdigital identity and attributes\u201d",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2024-10-24T09:00:56+01:00",
+    "content": [
+        {
+            "text": "The last time I tried to get into a nightclub, I got asked for ID."
+        },
+        {
+            "text": "To prove my age, I handed over my driving license to the person on the door. They looked at it, then scanned it to keep a digital copy of it."
+        },
+        {
+            "text": "In handing over my driving licence, I exposed my full name, my full date of birth, my home address, my sex, and my signature. Not only had I handed this information over to a complete stranger, but there is now an electronic copy of my driving licence and all my personal data stored on someone else\u2019s IT system (hopefully securely)."
+        },
+        {
+            "text": "It doesn\u2019t need to be this way."
+        },
+        {
+            "text": "The venue staff only needed to confirm one attribute of my identity; that I was over 18."
+        },
+        {
+            "text": "If I was able to use a digital identity, that could have been all they were given access to. Using a digital identity service \u2013 like an app on my phone \u2013 would likely have been a safer and more privacy-preserving way to prove who I am."
+        },
+        {
+            "heading": 2,
+            "text": "Not just about proving your age"
+        },
+        {
+            "text": "This is something that happens to me less often than it used to as I get older, but it\u2019s something that happens to huge numbers of people every week. It\u2019s not just about nightclubs, and it\u2019s not just about proving how old you are."
+        },
+        {
+            "text": "Experiences like this one happen to all of us, all the time. Think about the last time you picked up a parcel, took out a mobile phone contract, applied for something on credit or registered with a local GP."
+        },
+        {
+            "text": "To pass through the many and varied identity and eligibility checks we all do from time to time, we hand over driving licences, passports, bank statements, utility bills and more. In many cases, these documents are copied and stored for months or years on end as proof that checks were carried out."
+        },
+        {
+            "text": "These processes can feel really invasive, and they\u2019re a gold-mine for fraudsters and criminals if they ever managed to get hold of all that data. These are problems that digital identities can help to avoid."
+        },
+        {
+            "heading": 2,
+            "text": "Digital identities help you to prove things about you"
+        },
+        {
+            "text": "A \u201cdigital identity\u201d, then, is just a way to prove who you are, things about you and things you might be eligible for. Individual pieces of information about you, that together make up your identity, are what we call \u201cattributes\u201d."
+        },
+        {
+            "text": "Using a digital identity service from a trusted provider can give you more control over what attributes of your identity you share with others compared to the pieces of paper and plastic we use today.\u00a0And that control includes whether or not you use a digital identity service at all \u2013 if you\u2019d prefer to rely on your existing paper documents, government isn\u2019t taking those away."
+        },
+        {
+            "text": "Our work to create clear standards for digital identities and attributes in the UK means that there are now over 50 companies offering privacy-protecting, safe and secure services in the UK. And it\u2019s now easier to know which services you can trust. We\u2019ve published a list of certified digital identity services on GOV.UK."
+        }
+    ]
+}
