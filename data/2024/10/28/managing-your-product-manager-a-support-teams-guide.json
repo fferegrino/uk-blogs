@@ -1,0 +1,82 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/10/28/managing-your-product-manager-a-support-teams-guide/",
+    "title": "Managing your product manager- a support team's guide",
+    "authors": [
+        "Agnes Coaker, Senior Data Analyst"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2024-10-28T12:25:40+00:00",
+    "content": [
+        {
+            "text": "Agnes Coaker"
+        },
+        {
+            "text": "Do you work as part of a support team? Or maybe in a product team? Here in DBT, we\u2019ve been trialling a new approach, working more closely together to better understand and solve user problems. Read on for some of the context and a guide to using the same approach yourself."
+        },
+        {
+            "text": "In product development, a lot of work is aimed at trying to understand what needs users have and how the product can best meet them. But sometimes the wrong things are developed, sometimes even, things are developed that make situations worse. Depending on the product, this can have a variety of negative effects. In some situations, it can be devastating for people."
+        },
+        {
+            "text": "I am not a product manager, or even a user researcher: I\u2019m a data analyst. So, what is my interest in this problem? I work as part of the support team for DBT\u2019s data platform, Data Workspace. I provide users with the support they need to be able to use and analyse our data. I get to work on a variety of data and analyses so every day is different. I love my job."
+        },
+        {
+            "text": "That said, like any support team, we can get the short end of the stick when it comes to our users and their feedback. When something breaks, or when they cannot do something that they need to, we hear about it first. We try to communicate bigger issues and themes to the product team. But saying something doesn\u2019t necessarily provide enough information for them to truly get a handle on it and prioritise/fix it."
+        },
+        {
+            "text": "In an effort to communicate these bigger issues to the team, we came up with a fun format that we thought could be applied in a lot of places and is worth sharing. In summary: become the user. I know it sounds too pithy to actually be useful, but stick with me!"
+        },
+        {
+            "text": "When someone joins a product team, as a developer/user researcher/product manager, they are normally asked to have a play around with that product as part of their onboarding. Later, when testing a feature, they might use the front-end to look at a particular feature This is all great, but it doesn't remove the core problem: the product team aren't actually users."
+        },
+        {
+            "text": "In my example, our developer is not going to use the platform to create dashboards every day. Our product manager does not need to use the platform to find data very often. They sometimes play around with these things to test functionality, but that gives a very different feeling to using the platform every day to do your job. That is not a criticism \u2013 it's just not their job to do that."
+        },
+        {
+            "text": "Luckily, there is a team between these 2 ends of the spectrum: the team providing the platform\u2019s support. My team! We use the platform every day to recreate issues that users are having and to do things on behalf of users. We know what is broken, but also how the users feel about it. We have a clear idea of what needs to be fixed and why. Sometimes, without being too solution-oriented, we have an idea about how things can be fixed."
+        },
+        {
+            "text": "The best way my team has found to share that knowledge is by making the product team pretend to be users. We take something that we know is causing problems, or proving particularly frustrating to users, and we give our product team a related scenario with tasks to complete. We design it so that the tasks will lead them to those problems. We provide them with live support, like we do for users, but otherwise don\u2019t give them any extra help or white glove treatment. It sounds deceptively simple, but the format has gotten fantastic feedback."
+        },
+        {
+            "text": "Let me give a specific example. My team knew that our users struggled to publish a certain type of dashboard. This has been the case for years, but it never actually prevented people from publishing things, so it was never flagged as urgent. We created some example dashboards for the product team to use and asked them to publish them. The next 2 hours were filled with lots of support messages, requests for guidance and frustration."
+        },
+        {
+            "text": "At the end of the 2 hours, only 5 of the 8 people in the product team had managed to publish a dashboard. They fed back that being told that users were frustrated was very different to feeling that frustration for themselves. They discussed how the process could have been made simpler and what they would have found helpful when going through the journey."
+        },
+        {
+            "text": "Since then, we have run several of these challenges. We now aim to run one whenever the team begins a new piece of work on a front-end feature. We have learnt a few things along the way; for example, I started out with the dashboard publication challenge because it was one of my biggest frustrations. The team understood the problem better by the end, but its priority didn\u2019t change. This meant that it was a great learning experience but had no outcomes for them. Now we create scenarios for the challenges which are directly relevant to what is a priority or about to be worked on."
+        },
+        {
+            "text": "We also try to be stricter in how we support people as they go through the challenges. It is very easy for people completing the challenge to message and ask for help. This is unrealistic, if actual users start to message individual support team members for help, we steer them back towards the main support channel. So, we re-create that and make all requests for help go through the same support channels that our users have. We also treat those support requests in the same way that we treat \u2018real\u2019 ones. If you ask for help but don\u2019t give a link to the page you mean, you get the: \u201cI\u2019m sorry but don\u2019t know what you\u2019re talking about, please send me a link\u201d response."
+        },
+        {
+            "text": "Now, this might not be relevant for everyone, but we also sometimes challenge the product team to use the back end, such as to provide the support. The scenarios include (fake) users needing help, and the product team need to deliver that support. This is helpful for the product team to understand how providing the support itself works, which in turn is sometimes a frustration for users (and support teams)."
+        },
+        {
+            "text": "To put this experience into some easy to follow steps:"
+        },
+        {
+            "text": "1. Identify a problem that you are about to try and solve, such as a journey that has a lot of users not completing it."
+        },
+        {
+            "text": "2. The support team puts together some scenarios with tasks that would require the product team to complete that journey. These can be bare bones written scenarios or can involve back stories and other support team members role-playing a cast of relevant characters. The latter helps to replicate the fact that sometimes \u2013 users don\u2019t necessarily know what they need help with, they just know the context that they are working in."
+        },
+        {
+            "text": "3. Book out some dedicated time for the product team to complete the scenarios (either independently or as a team). Have the support team plan to provide dedicated support to the product team during that time. If you have booked in an hour but have a 5 day Service Level Agreement, then this might over-run! This is not realistic, so we always raise it to remind product teams that they\u2019re receiving faster responses."
+        },
+        {
+            "text": "4. At the end of the session, have everyone come together to discuss what was frustrating and what worked well. The support team can enrich the conversation by providing real examples of users who had the problem and what they had to do to support them."
+        },
+        {
+            "text": "5. Leave with a shared understanding of how problems are manifesting and what the user experience is. Go forth and solve them."
+        },
+        {
+            "text": "Now, this is not a solution to everything. Like I said earlier, product teams are not users. They will understand some things in a worse way. For example, a developer is not a data scientist and will not understand the same terminology. Others will understand in a better way. A product manager knows the steps of a journey without having to look it up in guidance. However, this is a great puzzle piece to add on top of user research. It helps understand users a little bit better in a time and cost-efficient way. It also has helped our product and support teams to feel more connected. Both teams feel more confident that we can use our skills and experience to help resolve problems."
+        },
+        {
+            "text": "I hope this has been a useful explainer of a format that my team has developed and become fond of."
+        }
+    ]
+}
