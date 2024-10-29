@@ -1,0 +1,78 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/10/29/accessibility-and-inclusive-design-manual-blog/",
+    "title": "Accessibility and inclusive design manual blog",
+    "authors": [
+        "Andy Jones, Head of Design, Department for Education",
+        "Jake Lloyd, Senior Accessibility Specialist, Department for Education",
+        "Kerry Lyons, Senior Content Designer, Department for Education"
+    ],
+    "categories": [
+        "Accessibility",
+        "Community",
+        "Content",
+        "Design"
+    ],
+    "pub_date": "2024-10-29T14:20:32+00:00",
+    "content": [
+        {
+            "text": "In the Department for Education (DfE), we knew that most people in Digital, Data and Technology (DDaT) roles had an awareness of the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (accessibility regulations) and how to consider making things accessible. But there were things we saw happening across projects that made us want to explore this space, to see if we, as the DesignOps team, could further support service teams with accessibility and inclusive design practices."
+        },
+        {
+            "text": "The DesignOps team plays a crucial role in identifying ways to empower service teams with the right tools, advice, and support. We strive to ensure that everyone has access to services, regardless of their abilities or circumstances. Accessibility and inclusivity aren\u2019t just about meeting legal requirements - they\u2019re about ensuring our services reflect the diversity of our users and are genuinely usable by everyone."
+        },
+        {
+            "text": "We decided to run a discovery to explore perceived challenges concerning the accessibility of DfE services. Our goal was to uncover areas where improvements could be made and identify where gaps in knowledge or practice existed. Through this research, we discovered that while teams were aware of accessibility requirements, many had limited experience with essential activities like commissioning accessibility audits, conducting internal testing, and writing accurate accessibility statements."
+        },
+        {
+            "text": "As part of this research, we shared a survey across professions and leadership in DDaT in DfE to find out:"
+        },
+        {
+            "text": "The responses highlighted several opportunities where we could step in to improve knowledge and provide more practical, actionable support. It also presented a clear design challenge: how could we help teams deepen their understanding and awareness of accessibility, and how could we create a proactive, rather than reactive, approach to accessibility and inclusive design in the service delivery lifecycle?"
+        },
+        {
+            "heading": 2,
+            "text": "Evidence-driven design"
+        },
+        {
+            "text": "We analysed the survey results, feedback from the DfE Accessibility Awareness month (which happened in May), accessibility audits that have been performed on DfE products and services and feedback from the DfE Business Engagement and Accessibility team to establish service teams\u2019 knowledge and experience around accessibility."
+        },
+        {
+            "text": "We also spoke to cross-government colleagues, including NHS Digital and HMRC, and the New Zealand Government accessibility team. We also engaged with private sector organisations to discuss and learn about their accessibility guidance and practices."
+        },
+        {
+            "text": "This research, combined with the survey data and our discovery helped to inform a bank of user needs and business requirements for accessibility and inclusive design."
+        },
+        {
+            "text": "These needs became the starting point for considering what people need and how best we could deliver it."
+        },
+        {
+            "heading": 2,
+            "text": "Designing the accessibility and inclusive design manual"
+        },
+        {
+            "text": "We already had some accessibility guidance in our DfE Design Manual, which teams were using and feeding back on. However, the audience was mainly designers, when we knew guidance was needed for other professions such as product and technical"
+        },
+        {
+            "text": "roles. We took this as a starting point to build out a singular accessibility manual based on our established user needs."
+        },
+        {
+            "text": "We drafted the information architecture (IA) based on what people told us would be most useful. Things like accessibility audits and statements, online training and the How many people tool, which we brought over from the Design Manual. We then shared a draft of the IA across the different professional communities; to refine it and make sure the content was in the place people most expect to find it."
+        },
+        {
+            "text": "We also acknowledged that some of the user needs identified, will be better answered in ways other than a manual. Things like cultural changes, or different levels and types of training. This is all documented in our accessibility project GitHub space for future iterations."
+        },
+        {
+            "text": "The first release of the Accessibility and inclusive design manual was published in September. We\u2019ve already had over 100 people complete the high-level accessibility training and we\u2019re monitoring feedback to help iterate the second release."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "We\u2019re working on the second release of the manual, with content including role-specific guidance for inclusive and accessible design. Starting with interaction design, we\u2019re working with the interaction design community to develop this content."
+        },
+        {
+            "text": "There was a strong need from across professions, about how to understand accessibility testing tools and how to use them. So alongside tool-specific guidance, we\u2019re also creating a selection of short training videos to demonstrate how to use testing tools on some of our digital products.As always, we\u2019re committed to working in the open. You can follow our progress in developing the manual through our accessibility and inclusive design design histories and make use of any of our work from our public GitHub repository. We welcome feedback, and if you would like to discuss the project further or provide input, you can contact the DfE DesignOps team."
+        }
+    ]
+}
