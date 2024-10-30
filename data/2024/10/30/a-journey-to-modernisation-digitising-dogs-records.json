@@ -1,0 +1,105 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2024/10/30/a-journey-to-modernisation-digitising-dogs-records/",
+    "title": "A journey to modernisation: Digitising dogs records",
+    "authors": [
+        "Chris Hodson"
+    ],
+    "categories": [
+        "Digital Innovation",
+        "digital services",
+        "digital solution",
+        "Our services",
+        "Prisons",
+        "Technology"
+    ],
+    "pub_date": "2024-10-30T13:19:47+01:00",
+    "content": [
+        {
+            "text": "In the rapidly evolving world of digital transformation, the MoJ has embraced a modern strategy, one that centres around flexibility, data-driven decisions, and user-led services. This approach is aimed at delivering justice that\u2019s faster, simpler, and better for all."
+        },
+        {
+            "text": "Recently, our team had the privilege of applying these principles to an important project:\u00a0digitising the records of dogs in the service of HMPPS. This blog offers a behind-the-scenes look at the work involved, the challenges faced, and the solutions crafted along the way, ultimately leading to a successful and innovative outcome for the Dogs Unit and their users. There are currently 946 dogs in service across HMPPS and over 800 dog handlers, the dogs perform various tasks from patrolling areas and ensuring security to searching for and detecting contraband."
+        },
+        {
+            "heading": 3,
+            "text": "From paper to cloud"
+        },
+        {
+            "text": "Historically, all records for each dog were kept in paper-based system which caused significant pain for the unit as they grew; Printing costs were high, physical records wore badly over time or were lost entirely, access to information within records was limited, auditing was a logistical nightmare, investigations had bottle necks, essential training could not be tracked effectively etc. The MoJ\u2019s broader 2025 digital strategy, focused on eliminating legacy systems, called for a solution that was not only modern and secure but also flexible enough to meet the unit\u2019s dynamic requirements."
+        },
+        {
+            "text": "The answer lay in a software solution hosted in Azure and accessed via the internet."
+        },
+        {
+            "text": "We aimed to create a secure, resilient, and scalable platform that could adapt to future needs. The Dogs Unit\u2019s onboarding was more than just an upgrade, it was another step toward achieving MoJ\u2019s long-term strategic goals of efficiency and accessibility for all users."
+        },
+        {
+            "heading": 3,
+            "text": "Navigating procurement"
+        },
+        {
+            "text": "One crucial part of the HMPPS Dogs Unit\u2019s transition to Azure was working closely with our commercial team. Given the need to onboard external suppliers and ensure the correct resources were available, we collaborated with the Dogs Unit\u2019s team to secure the necessary technology and services to enable the project to not only succeed, but to thrive."
+        },
+        {
+            "text": "Working as a unified team, we coordinated across multiple departments ensuring that software suppliers were fully aligned with both the Dogs Unit\u2019s operational needs and the Ministry of Justice\u2019s compliance standards. This collaborative approach ensured that every aspect of procurement (via the G-Cloud framework), from contracting to delivery, was open and honest."
+        },
+        {
+            "heading": 3,
+            "text": "Collaborative efforts and technical expertise"
+        },
+        {
+            "text": "Transformation of this magnitude does not happen overnight. The onboarding of the HMPPS Dogs Unit to Azure required a well-coordinated, multi-disciplinary approach, starting with establishing the Azure infrastructure. This was the responsibility of our Azure Landing Zone (ALZ) team of engineers who worked tirelessly to ensure that every requirement was accounted for within our\u00a0Small Services Space."
+        },
+        {
+            "text": "Once the core infrastructure was in place, we moved to the next phase; Configuring the virtual machines (VMs) that would power the Dogs Unit\u2019s operations. For this, we worked closely with the supplier. We navigated the complexities of networking changes, system specifications and organisational security requirements around secure systems and access for 3rd parties. We provided technical setup details and collaborated at every step to ensure the VMs met what was needed."
+        },
+        {
+            "text": "Throughout the process, our teams remained in close communication with the supplier and the Dogs Unit. Regular feedback loops allowed us to fine-tune configurations, validate the VMs, and ensure everything was production-ready before the final handoff."
+        },
+        {
+            "heading": 3,
+            "text": "Overcoming roadblocks"
+        },
+        {
+            "text": "As with any large-scale migration, there were bumps along the way. One of the most significant challenges arose when we discovered a firewall separating our development (DEV) and production (PROD) environments. Our original plan to deploy test Virtual Machines (VMs) in the DEV environment so that Dogs unit users could be trained in a totally safe place where no cross contamination of data to prod was a risk. The firewall made this unworkable, users simply couldn\u2019t access the Test VMs due to the firewall restrictions."
+        },
+        {
+            "text": "Quick thinking and flexibility came to the fore."
+        },
+        {
+            "text": "Rather than allowing this obstacle to derail the project, the team pivoted. Our solution was to set up staging VMs in the production environment instead and to implement guard rails that would protect any test data reaching prod. There was close coordination and adherence to MoJ processes as we migrated the resources we had already created from the DEV to PROD environment."
+        },
+        {
+            "text": "Additional work was needed to ensure everything ran smoothly. Working with colleagues in Platforms & Architecture and Networks was crucial as we navigated DNS updates, certificate changes and firewall routing. The end result is an environment users can use with complete confidence that whatever they do won't impact prod. This did impact on the overall timeline but thanks to our honesty and transparency, training date and roll out plans were accommodated for. "
+        },
+        {
+            "heading": 3,
+            "text": "Success through user focus"
+        },
+        {
+            "text": "The challenges we faced underscored one of our greatest strengths: User Focus. Our close working with the Dog's unit team meant we quickly adapted when user impacting issues arose. Thanks to our Agile ways of working, the team could quickly reprioritise and refine work to ensure as little impact to the project as possible.\u00a0"
+        },
+        {
+            "text": "By the end of the project, the HMPPS Dogs Unit were in a position to begin national rollout. This will fully transition from an outdated, legacy, paper-based system to a cloud-native Azure environment. Over 800 users will be able to access services in a more flexible and efficient way than ever before. The new system isn't just an upgrade, it represents a complete transformation, providing seamless access, improved functionality, and better security."
+        },
+        {
+            "heading": 3,
+            "text": "Why it matters: the bigger picture"
+        },
+        {
+            "text": "This project wasn\u2019t just about solving technical issues or migrating services; It was about demonstrating the true value of a modern, cloud based solution. Even in the face of challenges, the Azure Landing Zone proved to be not only scalable but also adaptable to the complex needs of the Dogs Unit and the MoJ at large."
+        },
+        {
+            "text": "The project highlighted how flexibility - both in the technology we use and the way we approach challenges - can lead to better outcomes. The ability to pivot without disrupting other processes ensured that the Dogs Unit\u2019s onboarding stayed on track and that users received the benefits of the new Chronicle Dogs as soon as they were able."
+        },
+        {
+            "text": "In addition to solving user pain, the Dogs Unit are also running their solution in the most cost effective way possible thanks to the ALZ teams innovative\u00a0Small Services Space. The cost of hosting with Small Services is significantly cheaper than hosting with a supplier. By doing this we have saved the Dogs Unit in the region of \u00a339,000 a year. The dogs unit also get to communicate with an inhouse team for any 1st, 2nd or 3rd line support issues with their hosting rather than going out to a supplier."
+        },
+        {
+            "text": "We believe this work showcases how the ALZ and HMPPS teams lives the Justice Digital strategy of faster, simpler, and better for all. We couldn't be prouder."
+        },
+        {
+            "text": "Thanks to all the teams we collaborated with along this journey including (but not limited to):"
+        }
+    ]
+}
