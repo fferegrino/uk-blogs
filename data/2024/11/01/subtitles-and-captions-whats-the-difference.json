@@ -1,0 +1,73 @@
+{
+    "url": "https://design102.blog.gov.uk/2024/11/01/subtitles-and-captions-whats-the-difference/",
+    "title": "Subtitles and captions: What\u2019s the difference?",
+    "authors": [
+        "Design102 team"
+    ],
+    "categories": [
+        "Accessibility",
+        "Advice",
+        "Creative",
+        "Video"
+    ],
+    "pub_date": "2024-11-01T12:37:35+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What\u2019s the difference?"
+        },
+        {
+            "text": "Often, the words \u2018subtitles\u2019 and \u2018captions\u2019 are used to mean the same thing, but they serve different purposes. Subtitles translate dialogue from a different language. Captions provide a text transcription of both dialogue and any important sounds within the video, such as laughter, ringing phones or animal noises. Captions offer a fuller experience, especially for deaf people or those who are hard of hearing. "
+        },
+        {
+            "text": "You may have also heard the term \u2018closed captions\u2019. Closed captions are captions that can be turned on, off, or customised to suit the viewer. These are the opposite of \u2018open captions\u2019 which are permanently embedded onto a video. If you\u2019re given the option between closed and open captions, always choose closed because this gives the viewer control over how they look."
+        },
+        {
+            "heading": 2,
+            "text": "Why captions matter"
+        },
+        {
+            "text": "All videos and animations should be accompanied by captions. Captions are essential for people with hearing loss, while people with autism, or learning or cognitive disabilities, may use captions to help them understand and focus on content."
+        },
+        {
+            "text": "Closed captions are digital so they can be used to automatically create transcripts, which can later be interpreted by assistive technologies such as screen readers. Closed captions can also be displayed using different styling preferences to suit individual user's needs. For example, you could use high-contrast colours for users with limited vision or a different typeface such as comic sans for users with learning difficulties."
+        },
+        {
+            "text": "Many people use captions out of choice for clarity or in situations where having audible sound isn't suitable or practical for their environment, such as watching videos without the sound during their morning commute. Captions also help people understand information when a speaker has an accent they\u2019re not familiar with, or if they\u2019re talking too fast. Netflix revealed that in 2022, 40% of their viewers watch with captions on all the time."
+        },
+        {
+            "text": "So, now we know what captions are and why they\u2019re important, let\u2019s consider some of the basics to think about when creating captions or subtitles."
+        },
+        {
+            "heading": 2,
+            "text": "What to consider when adding captions to your videos"
+        },
+        {
+            "text": "Feel free to use auto transcription services, such as those available on sites like YouTube. However, you should always sense check captions against the original video as the software might not pick up on things like:"
+        },
+        {
+            "text": "At Design102, we often use Adobe Premiere Pro to auto-generate captions and then our copy team carefully checks them against the original video and script."
+        },
+        {
+            "text": "Be faithful to the dialogue.\u00a0Make sure you keep the meaning and style of the audio, but remove any unnecessary utterances, hesitations or repetitions that could be distracting for viewers."
+        },
+        {
+            "text": "Think about spacing. If a caption is longer than 42 characters, break it into two lines and keep the two lines as similar in length as possible.\u00a0People and place names, or names of departments, should be kept in one frame, not split across two. It's worth noting that on average, it takes a person four seconds to read 12 words."
+        },
+        {
+            "text": "Consider how people are watching your content. Not everyone watches videos on a laptop; some view them on phones and some government content might be shown on social media platforms. Plan for different screen sizes by using appropriate exclusion zones and line breaks."
+        },
+        {
+            "text": "Account for competing text. If there is on-screen text, such as a name card, you may not need to caption what is being spoken, as the visual text already conveys that information. Be mindful of any other text that captions could overlap with or obscure."
+        },
+        {
+            "text": "Remember, creating captions for government content may differ from doing so for entertainment or commercial content. Always tailor your approach to the context and audience."
+        },
+        {
+            "text": "At Design102, we have a strong focus on accessibility. So, if you need help adding subtitles or captions to one of your videos, or if you need to chat through how we can help bring a project to life, contact us at hello@design102.co.uk."
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
