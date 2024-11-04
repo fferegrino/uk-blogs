@@ -1,0 +1,98 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2023/12/19/going-underground-developing-and-testing-an-international-standard-for-subsurface-data/",
+    "title": "Going underground: developing and testing an international standard for subsurface data",
+    "authors": [
+        "Neil Brammall, NUAR Technical Product Owner, Geospatial Commission"
+    ],
+    "categories": [
+        "Data",
+        "Data Standards"
+    ],
+    "pub_date": "2023-12-19T08:00:17+00:00",
+    "content": [
+        {
+            "text": "The Open Geospatial Consortium (OGC) organised and ran an Open Standards \u201ccode sprint\u201d event at the Geovation Hub in London between 30 October and 1 November 2023. Dr Neil Brammall, NUAR Technical Product Owner, led a Geospatial Commission team at the event and here reveals his key learnings, including why it was useful for developing the National Underground Asset Register service."
+        },
+        {
+            "text": "These events allow participants (typically technical experts and software developers) to evaluate and improve standards by producing prototypes and demonstrators which test and illustrate them and accelerate the development of those standards and their ultimate implementation in software products."
+        },
+        {
+            "text": "The standards covered in the sprint included a number of OGC API, data model and encoding standards, and also the \u201cGEOINT Imagery Media for ISR\u201d (GIMI) profile of the ISO Base Media File Format (ISOBMFF) and the High-Efficiency Image Format (HEIF).\u00a0"
+        },
+        {
+            "text": "Attendees from all across the world attended, both in person and online, representing nearly 100 organisations and institutions. The Engineering Report which describes and summarises the findings of the whole event can be found on the OGC website."
+        },
+        {
+            "heading": 2,
+            "text": "MUDDI"
+        },
+        {
+            "text": "Of particular interest to me, of course, was the thread focusing on the OGC Model for Underground Data Definition and Integration (MUDDI). The Geospatial Commission has been closely involved in the development of this standard through its National Underground Asset Register (NUAR) programme. The NUAR data model is the first implementation of the MUDDI model (effectively representing the UK excavation profile, of it) and it is exciting to see the standard moving towards publication and adoption, initially as a high-level conceptual model."
+        },
+        {
+            "text": "The Geospatial Commission actively supported the code sprint, by sending attendees along for all three days of the event, but also ahead of time by making available a range of sample source data (with permission of course) from utilities and local authorities participating in NUAR in several formats, including Esri File Geodatabase, Shapefiles and GeoPackage. We also provided various artefacts related to the NUAR data model, including an encoding in Geography Markup Language (GML) format, as well as in a database format which is used in the implementation of the NUAR platform."
+        },
+        {
+            "text": "It was really important for us to support this event and to share the NUAR data model, as the widespread communication, understanding and adoption of a standardised data model across UK utilities and local authorities will be a massive step forward in improving the interoperability of data and ultimately the improvement of data quality across the sector. This is one of the key elements of the NUAR programme."
+        },
+        {
+            "text": "Lots of dedicated domain experts and software developers attended the code sprint, in order to get their hands on the MUDDI model to see what they could do with it."
+        },
+        {
+            "text": "A team from Ordnance Survey worked on a database implementation of a simple version of the MUDDI model, populated this with data and visualised that data on the last day of the event."
+        },
+        {
+            "text": "Some participants investigated the creation of a JSON-FG (OGC Features and Geometries JSON - JavaScript Object Notation) version of the MUDDI Conceptual Model \u2013 I explain below why this could be important, particularly in the UK."
+        },
+        {
+            "text": "One participant attempted to generate a GML file compliant with the NUAR data model and another carried out some analysis of the sample source data to attempt automatic identification of attributes with common semantic meaning across different datasets."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons learnt"
+        },
+        {
+            "text": "We learned a lot over those three days and across all of these activities!"
+        },
+        {
+            "text": "The good news is that, as recorded in the engineering report:"
+        },
+        {
+            "text": "\u201c\u2026the MUDDI conceptual model is implementable and could easily be used as the basis for a logical model that can be encoded in a variety of formats\u2026\u201d"
+        },
+        {
+            "text": "In addition:"
+        },
+        {
+            "text": "\u201c\u2026due to the evident increase in adoption across the developer community, there is an increasing need to offer validators so that developers can check for compliance more easily.\u201d"
+        },
+        {
+            "text": "So far so good, but there were plenty of challenges as well, arising from people coming with fresh eyes to MUDDI and the NUAR data model. We had deliberately kept the supporting documentation quite minimal to see how easy the concepts in the standard were to pick up for those who were not familiar with it."
+        },
+        {
+            "text": "The key learnings that we took away can be summarised as follows:"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "So overall, there was lots of positive feedback and also some constructive criticism to take away from this great event. We have already started work on some of the learnings that we took away, both in the MUDDI Standards Working Group and in the Geospatial Commission NUAR team."
+        },
+        {
+            "text": "The key message is that both MUDDI and the NUAR data model need clear, simple documentation and artefacts to go alongside them to make sure that some of the more complex structures and concepts are easily understood."
+        },
+        {
+            "text": "We have very much taken this to heart and are working on what this supporting documentation should look like, and how it can be targeted at organisations and individuals with different levels of experience and \u201cdata maturity\u201d, as well as businesses that provide data services to these organisations."
+        },
+        {
+            "text": "The subsurface is crucial to all our futures in terms of extending our infrastructure to deliver complex needs and to adapt to climate change. The standardisation and interoperability of the data, which describes the subsurface, is going to be the key to efficient and collaborative progress in this space, and the opportunities presented by the MUDDI standard and the NUAR implementation of it are extremely exciting."
+        },
+        {
+            "text": "We are looking forward to carrying on this important work based on the feedback that the participants in the OGC code sprint gave us, so watch this space."
+        },
+        {
+            "text": "You can also\u00a0sign up\u00a0to get an email notification every time we publish a new blog post. For more information about this and other news see our\u00a0website, or follow us on Twitter/X\u00a0and\u00a0LinkedIn."
+        }
+    ]
+}
