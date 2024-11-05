@@ -1,0 +1,168 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2024/11/05/unlocking-accessibility-content-designers-share-their-experience-and-advice/",
+    "title": "Unlocking Accessibility: Content designers share their experience and advice",
+    "authors": [
+        "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services",
+        "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+    ],
+    "categories": [
+        "Unlocking Accessibility"
+    ],
+    "pub_date": "2024-11-05T08:12:43+00:00",
+    "content": [
+        {
+            "text": "Image courtesy of Government Digital Services."
+        },
+        {
+            "text": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility."
+        },
+        {
+            "text": "In the first instalment of this series, we asked content designers from various government departments how they initially learned about accessibility and what they wished others would consider when creating accessible content."
+        },
+        {
+            "text": "Traditionally, Content designers make things easier for people to understand and use. This can involve working on a single piece of content or on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. Accessibility plays a pivotal role in their every day role."
+        },
+        {
+            "heading": 2,
+            "text": "Question 1 - How did you first learn about accessibility?"
+        },
+        {
+            "heading": 3,
+            "text": "Anonymous, Government Digital Services (GDS)"
+        },
+        {
+            "text": "\u201cWhen I first joined GDS, I attended the accessibility course and that\u2019s when I started to get interested in accessibility. I then joined the accessibility team working on helping government publishers meet the accessibility regulations deadline which is where my interest became an obsession!\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Kerry Lyons, Senior Content Designer, Department for Education (DfE)"
+        },
+        {
+            "text": "\u201cI\u2019d heard through a friend about the work being done to create GOV.UK, so I was having a bit of a snoop. I remember reading something by Tom Loosemoore. He talked about GDS wanting to create the most easy-to-use government website. One that worked for everyone. This, combined with seeing GDS slides (or it might have been the Home Office posters) describing how people could have a temporary, situational or permanent disability was a real lightbulb moment for me. I\u2019d come from a publishing background, where accessibility just wasn\u2019t considered. The idea of giving people what they need, when they need it, and in a way that\u2019s accessible to everyone was a space I knew I wanted to work in. This led me into content design.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Viktoria Westphalen, Junior Content Designer, HM Courts and Tribunals Service (HMCTS)"
+        },
+        {
+            "text": "\u201cI knew some basics already but only learned more about accessibility, especially digital accessibility, when I joined the civil service about 5 years ago. I started working for the Government Digital Service and was able to attend a few introductory courses on digital accessibility and accessible design, even though I was not working in a design role at the time. During a restructure of my team, I ended up moving to the accessibility capability team which really allowed me to learn about accessibility in more depth \u2013 every day was a learning day!\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Charlotte Brewer, Senior content designer and Accessibility lead, Ofsted"
+        },
+        {
+            "text": "\u201cI first learnt about accessibility when I got a job at the University of Bath, 10 years ago. Previously I had created a lot of content, however this was my first 'content design' job."
+        },
+        {
+            "text": "\u201cAccessibility was baked into this team. Our boss was an ex GDS lead and we worked to AAA standards. It was never questioned and I realised how easily you can exclude so many people."
+        },
+        {
+            "text": "\u201cWhen I left that team, I joined others thinking accessibility was standard. However, that wasn't the case. In those teams I took the opportunity to increase my knowledge and share it with everyone I could.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Georgie Bullen, Senior Content Designer, Home Office"
+        },
+        {
+            "text": "\u201cI have a rare eye condition which has meant I\u2019ve been registered as blind since I was 7. So, although I did not always understand what accessibility meant, I knew from a young age that some things were harder for me to use or access."
+        },
+        {
+            "text": "\u201cHowever, my awareness grew significantly when I became a Content Manager at a disability charity. Since then, I\u2019ve made it a personal mission to learn all I can about designing accessible content.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Helen Nickols, Senior Content Designer, Ministry of Justice - working on the MOJ Design System"
+        },
+        {
+            "text": "\u201cI\u2019ve had a few memorable encounters with accessibility.\u00a0"
+        },
+        {
+            "text": "\u201cA friend\u2019s parents were deaf and communicated using Irish Sign Language. She explained that she\u2019d never owned a handbag or carried shopping bags because she needed her hands free to communicate. I\u2019d never thought about this need before or how it\u2019d work on a practical level."
+        },
+        {
+            "text": "\u201cOn a personal level, I was once given a hurried diagnosis for tendonitis in both arms following weeks of pain. The GP told me I should not use my hands or arms whilst I waited for physio. I waited at the door on my way out. \u2018Anything else?\u2019 he asked. I couldn\u2019t even open the door to leave the room with the advice I\u2019d been given.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Nikki Hoar, Junior Content Designer, Digital Prison Services, Ministry of Justice"
+        },
+        {
+            "text": "\u201cI first became aware of accessibility when working in a role where I had to include images in blog posts. I knew screen assistive technology existed, but wasn\u2019t aware of how it worked, or how important Alt Text was. After further research I realised there were more steps I could take to make accessible content. Going forward I labelled images, removed emojis and shortened paragraph lengths. These practices helped shape my approach to creating accessible content. I\u2019ve since built on these principles, and I'm committed to discover how to create accessible content for our users.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "Question 2 - What is one thing you wish everyone included when designing accessible content?"
+        },
+        {
+            "heading": 3,
+            "text": "Anonymous, Government Digital Services (GDS)"
+        },
+        {
+            "text": "\u201cInclusive design and accessibility make the product better for everyone regardless of impairment or disability. Accessibility should be at the core of any design. I wish that everyone would start with accessibility.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Kerry Lyons, Senior Content Designer, Department for Education (DfE)"
+        },
+        {
+            "text": "\u201cOne thing? That\u2019s hard. I think writing in plain language. Writing about things in government can sometimes be complex but that doesn\u2019t mean that we cannot write in an accessible way. If we must use certain terms, explain them using language that people understand. And test it - with real people in real-life situations. Can people do the thing they need to do? If they can, it\u2019s plain language, if they cannot, it\u2019s not. As well as being a legal requirement, producing accessible content and services can save time, money and effort, it\u2019s a win for everyone.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Viktoria Westphalen, Junior Content Designer, HM Courts and Tribunals Service (HMCTS)"
+        },
+        {
+            "text": "\u201cWriting in plain language can be difficult when you\u2019re dealing with specialist terminology or legal jargon. Every content designer has probably worked with stakeholders who do not understand or appreciate the value of plain language. I\u2019ve been told my content would not work for (and might even offend) judges and solicitors because it\u2019s \u201ctoo simple\u201d."
+        },
+        {
+            "text": "\u201cIt can be hard to push back on, but accessible content benefits everyone. Using plain language helps avoid misinterpretation and users making mistakes because they do not understand something. The legal system should be accessible to everyone \u2013 good content is a big part of that.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Charlotte Brewer, Senior content designer and Accessibility lead, Ofsted"
+        },
+        {
+            "text": "\u201cAs a designer, I wish more people understood that there is an art to writing good, accessible content. A lot of people work hard crafting policy documents, or guidance but accidentally make things hard for their users."
+        },
+        {
+            "text": "\u201cBreaking up text, not making sentences too long, using simpler language is good. This isn't 'dumbing down'. Senior leaders also want easy to read content, especially if they need to read it under pressure."
+        },
+        {
+            "text": "\u201cOh and a pet peeve is when headings aren't marked up as headings."
+        },
+        {
+            "text": "\u201cPersonally, I struggle to read graphs and charts, so I love data tables, or explanatory paragraphs.\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Georgie Bullen, Senior Content Designer, Home Office"
+        },
+        {
+            "text": "\u201cA core thing that\u2019s often overlooked is what I\u2019d describe as \u2018soft accessibility skills\u2019. By this, I mean things that will not fail in an automated accessibility test - but can make a huge difference in how easy it is to absorb content. This includes things like:"
+        },
+        {
+            "text": "...I could go on! "
+        },
+        {
+            "text": "It is easy to slip into a trap of thinking if something is technically accessible, the job is done - there is so much more to consider.''"
+        },
+        {
+            "heading": 3,
+            "text": "Helen Nickols, Senior Content Designer, Ministry of Justice - working on the MOJ Design System"
+        },
+        {
+            "text": "\u201cAlt text, alt text, alt text! The amount of \u2018UX leaders\u2019 who post about design whilst failing to add alt text to images is staggering. To me, it\u2019s tantamount to saying that you don\u2019t care about blind and visually impaired people.\u00a0"
+        },
+        {
+            "text": "\u201cAlt text enables people to understand what an image is conveying. It can also help people with slow internet or technical issues. What\u2019s not to like?\u201d"
+        },
+        {
+            "heading": 3,
+            "text": "Nikki Hoar, Junior Content Designer, Digital Prison Services, Ministry of Justice"
+        },
+        {
+            "text": "\u201cClear and concise content is often the first step in creating accessible experiences. If people feel intimidated by content or don\u2019t understand what it is asking them to do, they won\u2019t engage with it. With government services this could have serious consequences. Users may not access something essential for themselves or for someone in their care. Being mindful about the words we use and how we present content on the page will make our products more accessible to users.\u201d"
+        }
+    ]
+}

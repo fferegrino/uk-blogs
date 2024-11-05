@@ -1,0 +1,56 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/11/05/gov-uk-chat-understanding-and-addressing-jailbreaking-in-our-generative-ai-experiment/",
+    "title": "GOV.UK Chat: Understanding and addressing jailbreaking in our generative AI experiment",
+    "authors": [
+        "The GOV.UK AI Team"
+    ],
+    "categories": [
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2024-11-05T09:47:34+00:00",
+    "content": [
+        {
+            "text": "As the Government Digital Service (GDS) launches an experimental pilot of GOV.UK Chat this month, we want to share our thinking about a complex topic: the potential for Artificial Intelligence (AI) systems to be manipulated to produce unintended and sometimes harmful outputs, often referred to as \u201cjailbreaking\u201d."
+        },
+        {
+            "text": "GDS is committed to enhancing the digital experience on GOV.UK, so that people\u2019s experience of interacting with government becomes more convenient and timesaving."
+        },
+        {
+            "text": "One way GDS is doing this is through experimenting to see if and how generative AI can improve the user experience of GOV.UK. But while we\u2019re excited about the potential of AI to make it easier for people to access government information and give them time back, it\u2019s crucial to acknowledge both the opportunities and the challenges this technology presents."
+        },
+        {
+            "heading": 2,
+            "text": "What is jailbreaking?"
+        },
+        {
+            "text": "\u201cJailbreaking\u201d is deliberately pursuing ways to manipulate Large Language Models (LLMs) into producing inappropriate or harmful content, often for malicious purposes. No LLM model is immune to this risk - and GOV.UK Chat, as an LLM-based application, is no exception. We\u2019re not shying away from this reality. We've already encountered this ourselves during rigorous internal testing."
+        },
+        {
+            "text": "But it is important to note that a typical user of the tool is highly unlikely to see that type of output. Users do not have to be concerned that they will see any harmful content by interacting with GOV.UK Chat in everyday ways. These responses will only be produced by people who want to make the technology misbehave, by forcing these results."
+        },
+        {
+            "heading": 2,
+            "text": "Minimising the risk"
+        },
+        {
+            "text": "We are taking clear steps to address this concern. We\u2019ve invested heavily in safeguards to minimise the risk of harmful outputs, including:"
+        },
+        {
+            "text": "We\u2019ll continue to refine these measures based on real-world usage. Our aim is to balance utility with safety, and we are working with colleagues at the AI Safety Institute - which, like GDS, is part of the Department for Science, Innovation and Technology - to help us get this balance right."
+        },
+        {
+            "text": "Even with these measures in place, however, we acknowledge that jailbreaking GOV.UK Chat remains a possibility."
+        },
+        {
+            "heading": 2,
+            "text": "The value of testing with real users"
+        },
+        {
+            "text": "Ultimately, testing GOV.UK Chat is about learning, improving and understanding how people interact with AI in real-life scenarios. We think this is the best way to prove and develop a new technology that could make it easier and quicker for people to navigate complex information about government."
+        },
+        {
+            "text": "As we highlighted earlier, we cannot totally prevent deliberate malicious activity - but please be reassured that this will not affect your ability to try a tool we hope you will find useful as a way of accessing the information and services you need. By testing it in the open, with your help, we can better identify and address any limitations or vulnerabilities, creating a more robust and safer AI tool for everyone to use."
+        }
+    ]
+}

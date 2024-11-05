@@ -1,0 +1,90 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/",
+    "title": "We\u2019re running a private beta of GOV.UK Chat",
+    "authors": [
+        "Sam Dub, Product Lead on GOV.UK, GDS",
+        "Josh Davey, Senior Product Manager"
+    ],
+    "categories": [
+        "What we're working on"
+    ],
+    "pub_date": "2024-11-05T09:45:09+00:00",
+    "content": [
+        {
+            "text": "This month we\u2019re beginning an experimental pilot of GOV.UK Chat, our AI-powered chatbot that allows users, for the first time, to get quick, personalised answers to their questions based on GOV.UK guidance."
+        },
+        {
+            "text": "Earlier this year we explained how we think generative AI could make it easier for people to find answers from the 700,000+ pages of GOV.UK, and shared our early findings. This test represents our next step in understanding how we can use AI to provide simple, helpful tools that save people time. This work is being led by the GOV.UK AI team, a multidisciplinary group of civil servants that includes data scientists alongside developers, user researchers and designers."
+        },
+        {
+            "text": "The team is testing and scaling GOV.UK Chat in stages. When we first tested the tool with hundreds of invited users in late 2023, our results showed nearly 70% of users found the chatbot\u2019s responses were useful, and just under 65% were satisfied with the experience. These findings demonstrated the positive impact this technology could have for users looking to access government information and services."
+        },
+        {
+            "text": "The 2023 test also found answers did not reach the highest level of accuracy demanded for a site like GOV.UK. We\u2019ve made a number of changes since then, with our latest evaluations showing a consistent improvement in accuracy and other key performance metrics."
+        },
+        {
+            "text": "For this pilot we\u2019re now looking to test with users who rely on GOV.UK as part of running a business. Our aim is to get a better understanding of where GOV.UK Chat provides value and also identify areas for further improvement."
+        },
+        {
+            "text": "Here\u2019s what we\u2019ve been up to since we last blogged about GOV.UK Chat, and what\u2019s happening now."
+        },
+        {
+            "heading": 2,
+            "text": "Making improvements and addressing risks"
+        },
+        {
+            "text": "The team has improved GOV.UK Chat significantly since our last update."
+        },
+        {
+            "text": "Some of the new changes include:"
+        },
+        {
+            "text": "While we\u2019ve been able to steadily improve accuracy, there are still risks we need to manage when working with generative AI at this relatively early stage. Industry-wide, no one has been able to reach 100% accuracy when generating answers. This means managing the risk of \u2018hallucinations\u2019 \u2013 where the system generates responses containing incorrect information presented as fact \u2013 is part of working with this technology right now."
+        },
+        {
+            "text": "To reduce the risks of inaccurate answers, we:"
+        },
+        {
+            "text": "In addition to reducing inaccuracies, we\u2019ve also focused on the risk to generative AI systems of their safety mechanisms being compromised in order to deliberately generate potentially harmful responses."
+        },
+        {
+            "text": "While we accept that no technological system can be made 100% secure against this type of activity, we\u2019ve taken extensive measures to minimise the risk of harmful outputs. For example, throughout the development of GOV.UK Chat we\u2019ve carried out \u201cred teaming\u201d exercises. This is where colleagues from across government have tried their hardest to \u201cjailbreak\u201d the system or make it not behave as intended."
+        },
+        {
+            "text": "These exercises have allowed us to identify and address potential risks to help ensure a safe and secure experience for users interacting with GOV.UK Chat for its intended purpose of supporting citizens with business queries. Unfortunately, we can\u2019t eliminate all possibility of an individual generating an inappropriate response; you can read more about how we\u2019re understanding and addressing the risk of jailbreaking AI in our blog post on the subject."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019re doing now"
+        },
+        {
+            "text": "For this pilot \u2013 known as a private beta test \u2013 a link to try GOV.UK Chat will appear on selected business pages on GOV.UK, and we\u2019ll be rolling out access using a waiting list as capacity allows. We\u2019re looking to gather a strong dataset about how GOV.UK Chat is used in real-world scenarios, which we estimate will take 4 weeks."
+        },
+        {
+            "text": "We will be monitoring the pilot closely, reviewing usage data and collecting feedback in a survey. In parallel, we\u2019ll be running in-depth user research to understand what works for people and what doesn\u2019t. Together these findings will help us make further improvements to GOV.UK Chat and inform what we do next."
+        },
+        {
+            "heading": 2,
+            "text": "How GOV.UK Chat works"
+        },
+        {
+            "text": "GOV.UK Chat allows users to have short conversations with an AI chatbot. It can provide an answer to any business-related question that can be answered using pages published on GOV.UK."
+        },
+        {
+            "text": "GOV.UK Chat uses a method called Retrieval-Augmented Generation (RAG) to provide answers, which works like this:"
+        },
+        {
+            "text": "GOV.UK Chat uses some of the same technology behind ChatGPT (OpenAI\u2019s GPT-4o and GPT-4o mini), but unlike ChatGPT, GOV.UK Chat is designed to draw on GOV.UK as the source of its answers. This means we can ensure it\u2019s always using the most up-to-date guidance, and users can trust the answer comes from government."
+        },
+        {
+            "text": "We\u2019ve designed GOV.UK Chat so that no personal data is required to use it, and the service makes it clear that users shouldn\u2019t provide personal data in their questions. Just in case, GOV.UK Chat detects common forms of personal data such as phone numbers, as it prevents them from being entered as part of users\u2019 questions."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019ll be sharing the outcomes of the test on this blog once we\u2019ve had time to analyse them. You can subscribe using the link below to stay up to date and read about our findings as soon as they\u2019re published."
+        }
+    ]
+}
