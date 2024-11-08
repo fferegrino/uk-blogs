@@ -1,0 +1,105 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/11/08/from-manual-to-automated-enhancing-reporting-for-the-homelessness-and-rough-sleeping-team/",
+    "title": "From manual to automated: enhancing reporting for the Homelessness and Rough Sleeping team\u00a0",
+    "authors": [
+        "Evan Dowling, Senior Agile Delivery Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital process improvement"
+    ],
+    "pub_date": "2024-11-08T09:40:03+00:00",
+    "content": [
+        {
+            "text": "The Digital Process Improvement team in MHCLG is a diverse, multidisciplinary team dedicated to making internal processes more efficient. We work closely with users to develop solutions that elevate MHCLG\u2019s services, supporting teams to maximise their use of digital tools and promote a culture of ongoing improvements.\u00a0"
+        },
+        {
+            "text": "We achieve this primarily by leveraging existing tools, such as the Microsoft PowerPlatform and SharePoint, to streamline tasks and to reduce the number of manual tasks that our colleagues need to perform. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Supporting the most vulnerable people in our society\u00a0"
+        },
+        {
+            "text": "We recently worked with the Homelessness and Rough Sleeping (HRS) Accommodation team to improve efficiency around their reporting to their senior leadership team.\u00a0We automated a process and created a dashboard\u00a0that saved up to 7 days of manual effort per month, allowing the team to focus on some of their more value-adding activities.\u00a0"
+        },
+        {
+            "text": "The HRS Accommodation team\u2019s purpose is to provide much needed homes for some of the most vulnerable people in our society. They work closely with partners in local authorities and the wider homelessness and housing sector to try and make sure that everyone who has experienced or is at risk of homelessness or rough sleeping has access to the accommodation and support they need to rebuild their lives.\u00a0"
+        },
+        {
+            "text": "As part of this work, MHCLG provides grants for local authorities and social landlords\u00a0to facilitate the purchase of housing with the aim to provide long-term accommodation and support for people who have slept rough.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Working with users to improve reporting efficiency\u00a0"
+        },
+        {
+            "text": "We always kick off a project with a mini-discovery to capture user needs, process maps and user groups. We aim to build the best possible picture of the different stakeholders\u2019 needs to inform our development.\u00a0\u00a0"
+        },
+        {
+            "text": "In this project, we worked with our stakeholders throughout the development process. Using a weekly playback session to gather feedback and validate assumptions enabled a rapid delivery model that kept stakeholders engaged in the process.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The challenges\u00a0"
+        },
+        {
+            "text": "Before we started the project, the HRS Accommodation team relied heavily on a manual process for reporting the success of the programme to their senior leadership team. There were 4 main challenges the team was facing:\u00a0\u00a0"
+        },
+        {
+            "text": "Our task was to figure out how to enable the team to spend less time on creating reports so that they have more time for decision-making.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we delivered\u00a0\u00a0"
+        },
+        {
+            "text": "In our collaborative effort with the HRS Accommodation team, we looked at different options between existing third-party tooling, custom Power App solutions and more simple SharePoint solutions.\u00a0"
+        },
+        {
+            "text": "In the end, we implemented a tailored reporting solution by establishing a centralised dashboard with real-time data, supported by automated workflows. Here are some benefits of the new approach.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Centralised database \u00a0"
+        },
+        {
+            "text": "By establishing a centralised database, all relevant data is now consolidated in one location, eliminating the need for manual data gathering from multiple sources. This has significantly reduced the time spent on data collection and ensured data integrity. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Real-time dashboard and on-demand reporting\u00a0"
+        },
+        {
+            "text": "The introduction of a real-time dashboard has provided the team with instant access to critical metrics and insights. This has helped eliminate the manual copy and paste processes and provided more visibility into key performance indicators to help with decision-making and allow the team to respond to emerging trends.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Automated workflows\u00a0"
+        },
+        {
+            "text": "Automating workflows has streamlined repetitive tasks, freeing up valuable time for team members to focus on more strategic tasks. This has also reduced the chances of errors and accelerated the overall reporting cycle.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Version control\u00a0"
+        },
+        {
+            "text": "Version control capabilities have brought clarity and traceability to the reporting process. Team members can use the data management Power App to track changes, update unit numbers if needed, and maintain a structured approach to document management, enhancing accountability and accuracy.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Re-usability for other similar projects\u00a0"
+        },
+        {
+            "text": "The solution implemented for the HRS Accommodation team is designed for reusability across similar projects within the department, which offers value for money and promotes consistency and standardisation in reporting practices.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve achieved \u00a0"
+        },
+        {
+            "text": "Delivering large-scale capital programmes for people who have slept rough is extremely challenging. The automated process and real-time dashboard have removed up to 7 days of manual effort per month, allowing the team to focus on some of their more value-adding activities. It also enabled teams to track delivery better, including monitoring where challenges are arising and better manage issues at a local level. Overall, the improvement translated into significant efficiencies for the department.\u00a0\u00a0"
+        }
+    ]
+}
