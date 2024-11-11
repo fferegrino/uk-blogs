@@ -1,0 +1,84 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/11/11/data-pipeline-challenges-of-privacy-preserving-federated-learning/",
+    "title": "Data Pipeline Challenges of Privacy-Preserving Federated Learning",
+    "authors": [
+        "Joe Near",
+        "David Darais",
+        "Mark Durkee"
+    ],
+    "categories": [
+        "Data",
+        "Data collection",
+        "Data-driven technology",
+        "Data-sharing",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-11-11T15:23:59+00:00",
+    "content": [
+        {
+            "text": "This post is part of a series on privacy-preserving federated learning. The series is a collaboration between the Responsible Technology Adoption Unit (RTA) and the US National Institute of Standards and Technology (NIST). Learn more and read all the posts published to date on our blog or at NIST\u2019s Privacy Engineering Collaboration Space"
+        },
+        {
+            "heading": 1,
+            "text": "Introduction"
+        },
+        {
+            "text": "In this post, we talk with Dr. Xiaowei Huang and Dr. Yi Dong (University of Liverpool) and Sikha Pentyala (University of Washington Tacoma), who were winners in the UK-US PETs Prize Challenges. We discuss real-world data pipeline challenges associated with privacy-preserving federated learning (PPFL) and explore upcoming solutions. Unlike traditional centralized or federated learning, PPFL solutions prevent the organization training the model from looking at the training data. This means it\u2019s impossible for that organization to assess the quality of the training data \u2013 or even know if it has the right format. This issue can lead to several important challenges in PPFL deployments."
+        },
+        {
+            "heading": 1,
+            "text": "Data Preprocessing and Consistency Challenges"
+        },
+        {
+            "text": "In centralized machine learning, training data quality issues are often handled in a preprocessing step before training. Research solutions for PPFL tend to ignore this step, and focus only on training."
+        },
+        {
+            "text": "The UK-US PETs Prize Challenges involved realistic data, but ensured that the datasets were clean, consistent, and ready to use for training. We asked some of the winners about associated challenges that might arise in real deployments, where this assumption of clean data might be violated."
+        },
+        {
+            "text": "Authors: Does PPFL introduce new challenges associated with data formatting and quality?"
+        },
+        {
+            "text": "Sikha Pentyala (University of Washington, Tacoma): Current algorithms for FL are almost entirely focused on the model training step. Model training is however only a small part of the machine learning workflow. In practice, data scientists spend a lot of time on data preparation and cleaning, handling missing values, feature construction and selection etc. Research on how to carry out these crucial steps in a federated setting, where a data scientist at one site (client) is not able to peek into the data at another site, is very limited."
+        },
+        {
+            "text": "Dr Xiaowei Huang and Dr. Yi Dong (University of Liverpool): There are challenges that may result from differences in the nature of local data and from inconsistent data pre-processing methods across different local agents. These are sources of potential issues that may lead to unexpected failures in deployment."
+        },
+        {
+            "heading": 1,
+            "text": "Participant Trustworthiness and Data Quality"
+        },
+        {
+            "text": "An additional challenge associated with data quality in PPFL is that it\u2019s difficult to detect when something goes wrong. In some deployments, it\u2019s possible that some of the participants may submit poor-quality or maliciously-crafted data to intentionally reduce the quality of the trained model \u2013 and the privacy protections provided by PPFL systems can make these actions difficult to detect."
+        },
+        {
+            "text": "Furthermore, developing automated solutions for detecting malicious participants without harming the privacy of honest participants is extremely challenging, because there\u2019s often no observable difference between a malicious participant and an honest one with poor-quality data. We asked some of the UK-US PETs Prize Challenge winners about these issues."
+        },
+        {
+            "text": "Authors: How do PPFL systems complicate the detection of malicious participants and poor-quality data?"
+        },
+        {
+            "text": "Dr Xiaowei Huang and Dr. Yi Dong (University of Liverpool):\u00a0 One challenge is the accurate detection of potential attackers. Due to the privacy-friendly nature of PPFL and the limited information available about the users' data due to federated learning, distinguishing between malicious attacks and poor updates becomes difficult. It's challenging to identify and understand the user behind the data,[A(1]\u00a0 making it hard to efficiently exclude potential attackers from the learning process."
+        },
+        {
+            "text": "Another challenge revolves around the lack of effective means to evaluate users' trustworthiness, as there's no benchmark for comparison. Most scenarios in PPFL involve users with non-identical, independently distributed datasets. Since users are unaware of the overall distribution of raw data, the global model is significantly influenced by the varied data contributed by different users. This variation can lead to divergence or difficulty in converging towards a global optimum. Moreover, without knowing the correct answer themselves, central servers or federated learning systems are easily misled by targeted attacks that feed misleading information, potentially biasing the global model in a wrong direction."
+        },
+        {
+            "heading": 1,
+            "text": "Meeting the Challenge"
+        },
+        {
+            "text": "The challenges outlined in this post were mostly excluded from the UK-US PETs Prize Challenges. Data was distributed identically and independently among participants, followed a pre-agreed format, and did not include invalid or poisoned data. Some solutions were robust against certain kinds of malicious behavior by the participants, but the challenges did not require solutions to be robust to Byzantine failures \u2013 situations where one or more participants may deviate arbitrarily from the protocol (e.g. by dropping out, by faking communication information or impersonating another party, or by submitting poisoned data)."
+        },
+        {
+            "text": "Recent research is beginning to address all of these challenges. As mentioned in the last post, secure input validation techniques can help to prevent data poisoning. Existing work on data poisoning defenses (in non-private federated learning) is being adapted into defenses for privacy-preserving federated learning, like FLTrust and EIFFeL. These techniques can help ensure that data contributed by participants is in the right format and helps \u2013 rather than harms \u2013 the model training process, without requiring direct access to the data itself. Much of this research is not yet implemented in practical libraries for PPFL, but we can expect these results to move from research into practice in the next few years."
+        },
+        {
+            "heading": 1,
+            "text": "Coming Up Next"
+        },
+        {
+            "text": "Our next post will feature reflections from the ICO Innovation Hub on ways to manage privacy challenges when working with federated learning."
+        }
+    ]
+}

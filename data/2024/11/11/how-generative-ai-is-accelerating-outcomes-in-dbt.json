@@ -1,0 +1,92 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2024/11/11/how-generative-ai-is-accelerating-outcomes-in-dbt/",
+    "title": "How generative AI is accelerating outcomes in DBT",
+    "authors": [
+        "Jamie Laing - Service Owner for Export Promotion",
+        "Alfie Dennen, Digital Senior Product Manager in AI Enablement"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2024-11-11T10:43:57+00:00",
+    "content": [
+        {
+            "text": "Jamie Laing"
+        },
+        {
+            "text": "In an era where technology can redefine how we work, the Department for Business and Trade (DBT) is embracing generative AI to enhance our operations to better serve UK businesses. We have been building on our instance of Redbox, an AI-powered tool. It was originally developed and made open source by the Incubator AI team (I.AI) in the Department for Science, Innovation and Technology (DSIT)."
+        },
+        {
+            "text": "This blog outlines the promising early outcomes from using Redbox, how it has streamlined processes for participants in our initial rollout and what we will do next."
+        },
+        {
+            "text": "Context and importance of AI in governmentWith the UK government under pressure to achieve significant efficiency savings\u2014amounting to \u00a35.5 billion across departments this year alone\u2014leveraging technology like Redbox is an area where investigation should be focused."
+        },
+        {
+            "text": "Many studies and private sector voices highlight the potential of AI, but perhaps less of these caution against assuming universal efficiencies. Our approach is carefully measured, ensuring we can understand whether technological advancements genuinely translate into increased productivity or gains in efficiency."
+        },
+        {
+            "text": "To bring this tension to life a little bit, consider this recent macroeconomic paper focused on the impact of AI from Massachusetts Institute of Technology academic Daran Acemoglu. He finds that there is a substantial opportunity to streamline processes and cut costs. However, the paper also acknowledges the inherent challenges, particularly in relation to more complex tasks, where productivity and efficiency gains are anticipated to be significantly lower."
+        },
+        {
+            "text": "A big part of the work we are doing at DBT is to understand how large language models might help in streamlining our operations. We are carefully measuring and evaluating where and whether our users are experiencing gains in efficiency or productivity when using Redbox."
+        },
+        {
+            "text": "The importance of cross-departmental collaboration"
+        },
+        {
+            "text": "At DBT, we understand the importance of collaboration in harnessing the full potential of AI technologies and so we are working closely with colleagues in other departments. This allows us to create genuine product development cost savings by not re-inventing things other departments have already done."
+        },
+        {
+            "text": "Redbox is a fantastic example of this. Through joint workshops, employee secondment, bi-weekly collaboration sessions and code-sharing with the I.AI team, DBT\u2019s AI Enablement team managed to get Redbox up and running in our own environments in just a month. This was only possible through the UK Government\u2019s open-source approach to software."
+        },
+        {
+            "text": "We publish our code openly and regularly collaborate with other departments to share knowledge. \u00a0We remain committed to joining up with other  departments\u2019 efforts in AI development, so that we can be as efficient as possible."
+        },
+        {
+            "text": "Alfie Dennen"
+        },
+        {
+            "text": "Redbox in action: accelerating outcomes for policy advisors"
+        },
+        {
+            "text": "At DBT, we have now completed an initial 3 month trial of Redbox. We had 15 participants from our Permanent Secretary\u2019s Office, the Chief Scientific Advisor\u2019s office, Digital Secretariat, the Investment Policy Team and others. It is early days, but we are beginning to see indicators of how generative AI can lead to improvements in ways of working."
+        },
+        {
+            "text": "A notable case comes from a policy advisor working on aspects of company law:"
+        },
+        {
+            "text": "\u00a0'Using Redbox revealed themes I might have overlooked due to my professional biases. When I used Redbox for this exercise, a theme I was looking for was \u2018changes in the nature of the labour market\u2019, and this was not one of the themes that Redbox identified\u2014it came up with a whole set of other themes which were valid.\u2019"
+        },
+        {
+            "text": "\u2018In particular, the summarisation feature has been invaluable, aiding in quick comprehension. It is\u00a0certainly time saving, but also provides perspectives that might have been skewed or not picked up on. Overall, Redbox functions like having a conversation with subject specialists in the room, enriching my understanding and improving my responses to stakeholder feedback.\u2019"
+        },
+        {
+            "text": "These insights from a Redbox user highlight how generative AI may not only accelerate the core analysis, but potentially deepens\u00a0the insights derived from complex data."
+        },
+        {
+            "text": "Using Redbox, a video explainer: creating a summary of AI guidance"
+        },
+        {
+            "text": "You can see how we use AI to interact with Official level documents from your own document set in this video."
+        },
+        {
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "The early Redbox rollout data indicates that indeed there may be nuanced ways to aid civil servants in their work through tools which lean into advanced large language models. A Redbox user working in Policy shared their feedback:"
+        },
+        {
+            "text": "'I think the thing about tools like this is - it does help if you have a degree of subject matter knowledge, otherwise you might not get the best use out of it.'"
+        },
+        {
+            "text": "The Redbox Team at DBT aims to foster a strategic approach which combines AI capabilities with existing subject matter expertise. This measurable approach will potentially enable our teams to unlock efficiencies and enhance our capacity to serve the public effectively. We look forward to continuing our work in this area over the next 6 months by:"
+        },
+        {
+            "text": "We hope you enjoyed this post. We will continue to work in the open and report back soon!"
+        },
+        {
+            "text": "AI disclaimer: Please be aware that Artificial Intelligence has been used to support the generation of this content."
+        }
+    ]
+}
