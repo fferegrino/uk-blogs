@@ -1,0 +1,296 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2024/11/14/how-can-we-test-our-designs-with-welsh-speaking-users/",
+    "title": "How can we test our designs with Welsh-speaking users?",
+    "authors": [
+        "Al Robinson \u2013 Interaction Designer, formerly Valuation Office Agency, HMRC"
+    ],
+    "categories": [
+        "Experimental",
+        "Interaction Design",
+        "Prototype kit"
+    ],
+    "pub_date": "2024-11-14T13:11:59+00:00",
+    "content": [
+        {
+            "text": "Darllenwch y blog hwn yn Gymraeg / Read this blog post in Welsh."
+        },
+        {
+            "text": "I worked in a team supporting the Welsh Government\u2019s Council Tax reform programme alongside Abbie Foxton, who wrote about our approach to designing the content for the service bilingually in their blog post \u201cHow we\u2019re designing a bilingual service for Wales, from the start.\u201d This blog post complements Abbie\u2019s, focusing on the interaction design part of the process and the key question: \u201cHow can we test our designs with Welsh-speaking users?\u201d."
+        },
+        {
+            "text": "Until now, public services have typically been designed and tested only in English, excluding Welsh. Services are usually designed in English and then translated to Welsh just before going live. The Welsh user experience isn\u2019t considered until the end of the process, making it an afterthought. We can change this."
+        },
+        {
+            "text": "The ability to test our designs bilingually lies within the functionality of the GOV.UK Prototype Kit. This is groundbreaking because, as far as I know, it hasn't been done before. Through this work Welsh speakers can now participate in user research during the design process, ensuring inclusivity for an often underserved demographic. First, let\u2019s explore why it's important to include Welsh speakers in testing..."
+        },
+        {
+            "heading": 2,
+            "text": "We aren\u2019t meeting the language needs of people in Wales"
+        },
+        {
+            "text": "At the 2022 National Eisteddfod of Wales, the Centre for Digital Public Services (CDPS) shared research on how Welsh speakers use services in Welsh. Joanna Goodwin, Head of User-centred Design at CDPS, wrote about this in the Trio Writing handbook:"
+        },
+        {
+            "text": "\u201cThe research found that people could not trust or rely on services that are provided in Welsh.\u201d"
+        },
+        {
+            "text": "\u201cWhen people cannot easily understand our services and the content does not meet their needs, they are often forced to contact us, or just give up. This results in a bad experience \u2013 and may negatively impact the quality of life of the person trying to access the service. It is also more expensive for us to operate services when users contact us when they shouldn\u2019t need to.\u201d"
+        },
+        {
+            "text": "What could we be doing better?"
+        },
+        {
+            "text": "The Digital Service Standards for Wales set out what\u2019s expected from public sector organisations:"
+        },
+        {
+            "text": "\u201cMake Welsh language content central to the development of your service from the start. Do not start to consider Welsh language aspects of the service after the design process. Test Welsh language content with users as early as you can. The Welsh you use, and the way users access a Welsh language service, need to form part of your usability test plan.\u201d"
+        },
+        {
+            "text": "So, how can we do this?"
+        },
+        {
+            "heading": 2,
+            "text": "Inclusive Prototypes: Integrating bilingual functionality for user research"
+        },
+        {
+            "text": "During usability testing, users navigate a prototype that replicates the live service, providing realistic experiences for meaningful feedback. Prototypes must allow users to easily toggle between English and Welsh to ensure an inclusive, and realistic experience. But how can this functionality be incorporated into a prototype?"
+        },
+        {
+            "heading": 2,
+            "text": "A more inclusive Welsh language toggle"
+        },
+        {
+            "text": "Most public body service prototypes are built using the GOV.UK Prototype Kit, usually by an interaction designer. There are Welsh language toggles available on various government design systems, but to my knowledge, they have not been used in research with Welsh-speaking users, they are included in prototype journeys without functionality."
+        },
+        {
+            "text": "I identified that the way current toggles have been designed could cause issues during usability testing and are difficult to iterate and maintain. The prototype would need separate journeys for English and Welsh, leading to navigation problems and duplicating efforts during iterations."
+        },
+        {
+            "text": "To overcome this, with support from colleagues and the HMRC Design System team, came up with a simple yet effective way to build prototypes. It lets users easily toggle between English and Welsh during usability testing. Each page displays both languages, showing the chosen one and hiding the other. This approach solves navigation issues and makes it much easier to iterate the prototypes."
+        },
+        {
+            "heading": 2,
+            "text": "The impact of the new Welsh language toggle"
+        },
+        {
+            "text": "This toggle allows Welsh-speaking users to take part in usability testing during the design phase. We can design content in both English and Welsh using Trio writing and test how users experience it with this toggle."
+        },
+        {
+            "text": "If you're reading this and can influence a design team currently creating journeys only in English, please share this blog post with them. It's straightforward to enable prototypes to be designed in both English and Welsh, and it significantly improves accessibility for Welsh speakers."
+        },
+        {
+            "heading": 2,
+            "text": "Instructions on how to implement the toggle into your prototype"
+        },
+        {
+            "text": "In the example below, I want the toggle to display on the page called toggle.html"
+        },
+        {
+            "text": "{% block beforeContent %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0 {{"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 hmrcLanguageSelect({"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 language: 'cy' if data['languagePreference'] === 'cy' else 'en',"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 en: { href: '?languagePreference=en' },"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 cy: { href: '?languagePreference=cy' }"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 })"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0 }}"
+        },
+        {
+            "text": "{% endblock %}"
+        },
+        {
+            "text": "like this:"
+        },
+        {
+            "text": "4. To enable users to switch between English and Welsh, wrap the content you want to toggle in an if statement. Place the English text inside the first set of <p> tags and the Welsh text inside the second set. Copy and paste this code snippet into the area of your code where you want the content to switch between languages."
+        },
+        {
+            "text": "{% if data['languagePreference'] == \"en\" %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <p>English content to go here.</p>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 {% else %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <p>Welsh content to go here.</p>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 {% endif %}"
+        },
+        {
+            "text": "5. Repeat this process wherever you want the content to switch between languages."
+        },
+        {
+            "heading": 1,
+            "text": "Sut gallwn brofi ein dyluniadau gyda defnyddwyr Cymraeg?"
+        },
+        {
+            "text": "Al Robinson, dylunydd cynnwys rhyngweithiol, gynt yn rhan o Asiantaeth y Swyddfa Brisio, CThEF"
+        },
+        {
+            "text": "Darllenwch y blog hwn yn Saesneg / Read this blog post in English."
+        },
+        {
+            "text": "Gweithiais mewn t\u00eem yn cynorthwyo rhaglen ddiwygio Treth Gyngor Llywodraeth Cymru ar y cyd ag Abbie Foxton, a oedd wedi ysgrifennu am ein dull o ddylunio\u2019r cynnwys ar gyfer y gwasanaeth yn ddwyieithog yn ei blog \u201cSut rydyn ni\u2019n dylunio gwasanaeth dwyieithog i Gymru, o\u2019r cychwyn cyntaf.\u201d Mae\u2019r blog hwn yn ategu un Abbie, gan ganolbwyntio ar ran o\u2019r broses sy\u2019n ymwneud \u00e2 dylunio cynnwys rhyngweithiol a\u2019r cwestiwn allweddol: \u201cSut gallwn brofi ein dyluniadau gyda defnyddwyr Cymraeg?\u201d."
+        },
+        {
+            "text": "Hyd yma, dim ond dylunio a phrofi gwasanaethau cyhoeddus yn Saesneg sy\u2019n nodweddiadol o ddigwydd, gan eithrio\u2019r Gymraeg. Fel arfer, mae gwasanaethau\u2019n cael eu dylunio yn Saesneg, ac wedyn, c\u00e2n nhw eu cyfieithu i\u2019r Gymraeg yn union cyn mynd yn fyw. Dyw profiad y defnyddiwr Cymraeg ddim yn cael ei ystyried tan ddiwedd y broses, sy\u2019n troi\u2019r cyfan yn \u00f4l-ystyriaeth. Gallwn newid hyn."
+        },
+        {
+            "text": "Mae\u2019r gallu i brofi ein dyluniadau yn y ddwy iaith yno yn swyddogaeth Pecyn Prototeip GOV.UK. Mae hyn yn torri tir newydd oherwydd, hyd y gwn i, does neb wedi gwneud hyn o\u2019r blaen. Drwy\u2019r gwaith hwn, gall siaradwyr Cymraeg nawr gymryd rhan mewn gwaith ymchwil defnyddwyr yn ystod y broses ddylunio, gan sicrhau cynhwysiant i ddemograffeg sydd yn aml heb wasanaeth digonol. Yn gyntaf, gadewch i ni archwilio pam mae\u2019n bwysig cynnwys siaradwyr Cymraeg yn ystod gwaith profi..."
+        },
+        {
+            "heading": 2,
+            "text": "Dydyn ni ddim yn bodloni anghenion pobl yng Nghymru o ran iaith"
+        },
+        {
+            "text": "Yn Eisteddfod Genedlaethol Cymru 2022, gwnaeth y Ganolfan dros Wasanaethau Cyhoeddus Digidol (CDPS) rannu ymchwil i sut yr oedd siaradwyr Cymraeg yn defnyddio gwasanaethau drwy gyfrwng y Gymraeg. Ysgrifennodd Joanna Goodwin, Pennaeth Dylunio gan ganolbwyntio ar y defnyddiwr yn CDPS, am hyn yn y llawlyfr Ysgrifennu Triawd:"
+        },
+        {
+            "text": "Roedd y gwaith ymchwil wedi darganfod na allai pobl ymddiried na dibynnu ar wasanaethau sydd wedi\u2019u darparu yn y Gymraeg."
+        },
+        {
+            "text": "Pan na all pobl ddeall ein gwasanaethau\u2019n hawdd ac nid yw\u2019r cynnwys yn bodloni eu hanghenion, gan amlaf byddant yn gorfod cysylltu \u00e2 ni neu\u2019n rhoi\u2019r gorau i\u2019r hyn maent yn ei wneud. Mae hyn yn arwain at brofiad gwael \u2013 ac efallai y bydd yn cael effaith negyddol ar safon bywyd y person sy\u2019n ceisio cael mynediad at y gwasanaeth. Mae hefyd yn ddrutach i ni weithredu gwasanaethau pryd y bydd defnyddwyr yn cysylltu \u00e2 ni pan nad oes angen iddynt wneud hynny."
+        },
+        {
+            "text": "Beth allen ni fod yn ei wneud yn well?"
+        },
+        {
+            "text": "Mae\u2019r Safonau Gwasanaethau Digidol i Gymru yn nodi beth i\u2019w ddisgwyl gan sefydliadau\u2019r sector cyhoeddus:"
+        },
+        {
+            "text": "\u201cGwnewch gynnwys Cymraeg yn ganolog i ddatblygu\u2019ch gwasanaeth o\u2019r dechrau. Peidiwch \u00e2 dechrau ystyried agweddau Cymraeg ar y gwasanaeth ar \u00f4l y broses ddylunio. Profwch gynnwys Cymraeg gyda defnyddwyr cyn gynted ag y gallwch. Mae angen i\u2019r Gymraeg a ddefnyddiwch, a\u2019r ffordd y mae defnyddwyr yn defnyddio gwasanaeth Cymraeg, ffurfio rhan o\u2019ch cynllun profi defnyddioldeb.\u201d"
+        },
+        {
+            "text": "Felly, sut allwn ni wneud hyn?"
+        },
+        {
+            "heading": 2,
+            "text": "Prototeipiau cynhwysol: Gwreiddio swyddogaeth ddwyieithog ar gyfer ymchwil defnyddwyr"
+        },
+        {
+            "text": "Yn ystod profi defnyddioldeb, mae defnyddwyr yn gwe-lywio prototeip sy\u2019n efelychu\u2019r gwasanaeth byw, gan roi profiadau realistig er mwyn cael adborth arwyddocaol. Mae\u2019n rhaid i brototeipiau alluogi defnyddwyr i newid rhwng y Gymraeg a\u2019r Saesneg yn hawdd i sicrhau cynhwysiant a phrofiad realistig. Ond, sut gall y swyddogaeth hon gael ei chynnwys mewn prototeip?"
+        },
+        {
+            "heading": 2,
+            "text": "Togl iaith Gymraeg mwy cynhwysol"
+        },
+        {
+            "text": "Mae rhan fwyaf o brototeipiau gwasanaeth corff cyhoeddus yn cael eu hadeiladu gan ddefnyddio Pecyn Prototeip GOV.UK, fel arfer gan ddylunydd cynnwys rhyngweithiol. Mae toglau iaith Gymraeg ar gael ar amrywiaeth o systemau dylunio\u2019r llywodraeth, ond hyd y deallaf i, dydyn nhw ddim yn cael eu defnyddio yn ystod ymchwil defnyddwyr gyda defnyddwyr iaith Gymraeg, c\u00e2n nhw eu cynnwys mewn teithiau prototeip heb y swyddogaeth."
+        },
+        {
+            "text": "Gwnes i ganfod y gallai\u2019r ffordd bresennol o ddylunio toglau achosi problemau yn ystod y cam o brofi defnyddioldeb, a\u2019u bod yn anodd eu hailadrodd a\u2019u cynnal. Byddai angen teithiau ar wah\u00e2n ar y prototeip ar gyfer y Gymraeg a\u2019r Saesneg, gan arwain at broblemau gwe-lywio a dyblygu\u2019r ymdrechion wrth ailadrodd."
+        },
+        {
+            "text": "I ddatrys hyn, gyda chymorth gan gydweithwyr a\u2019r t\u00eem Systemau Dylunio CThEF, wnaethom ddyfeisio ffordd syml, ac eto, effeithiol o adeiladu prototeipiau. Mae\u2019n galluogi defnyddwyr i newid rhwng y Gymraeg a\u2019r Saesneg yn ystod y cam o brofi defnyddioldeb. Mae pob tudalen yn arddangos y ddwy iaith, gan ddangos yr iaith o\u2019ch dewis a chan guddio\u2019r iaith arall. Mae\u2019r dull hwn yn datrys y problemau gwe-lywio ac yn ei gwneud hi\u2019n llawer haws i ailadrodd prototeipiau."
+        },
+        {
+            "heading": 2,
+            "text": "Effaith y togl iaith Gymraeg newydd"
+        },
+        {
+            "text": "Mae\u2019r togl hwn yn galluogi defnyddwyr iaith Gymraeg i gymryd rhan mewn profi defnyddioldeb yn ystod y cam dylunio. Gallwn ddylunio cynnwys yn y Gymraeg a\u2019r Saesneg gan ddefnyddio ysgrifennu triawd a phrofi profiad defnyddwyr gyda\u2019r togl hwn."
+        },
+        {
+            "text": "Os ydych yn darllen hwn a gallwch ddylanwadu ar d\u00eem dylunio sydd ond yn creu teithiau yn Saesneg ar hyn o bryd, rhannwch y blog hwn \u00e2 nhw. Mae\u2019n rhwydd galluogi dylunio prototeipiau yn y Gymraeg a\u2019r Saesneg, ac mae\u2019n gwella hygyrchedd i siaradwyr Cymraeg yn sylweddol."
+        },
+        {
+            "heading": 2,
+            "text": "Cyfarwyddiadau ar sut i roi\u2019r togl ar waith yn eich prototeip"
+        },
+        {
+            "text": "Yn yr enghraifft isod, hoffwn i\u2019r togl ddangos ar y dudalen o\u2019r enw toggle.html"
+        },
+        {
+            "text": "{% block beforeContent %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0 {{"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 hmrcLanguageSelect({"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 language: 'cy' if data['languagePreference'] === 'cy' else 'en',"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 en: { href: '?languagePreference=en' },"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 cy: { href: '?languagePreference=cy' }"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 })"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0 }}"
+        },
+        {
+            "text": "{% endblock %}"
+        },
+        {
+            "text": "fel hyn:"
+        },
+        {
+            "text": "4. I alluogi defnyddwyr i newid rhwng y Gymraeg a\u2019r Saesneg, amlapiwch y cynnwys rydych chi eisiau toglo mewn datganiad \u2018if\u2019. Gosodwch y testun Saesneg y tu fewn i\u2019r set gyntaf o dagiau <p> a\u2019r Gymraeg y tu fewn i\u2019r ail set. Cop\u00efwch a gludo\u2019r darn hwn o god i\u2019r maes, yn eich cod chi, lle\u2019r hoffech i\u2019r cynnwys newid rhwng y ddwy iaith."
+        },
+        {
+            "text": "{% if data['languagePreference'] == \"en\" %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <p>Cynnwys Saesneg i fynd fan hyn.[CG1]\u00a0</p>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 {% else %}"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 <p>Cynnwys Cymraeg i fynd fan hyn.[CG2]\u00a0</p>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </div>"
+        },
+        {
+            "text": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 {% endif %}"
+        },
+        {
+            "text": "5. Ailadroddwch y broses hon lle bynnag yr hoffech i\u2019r cynnwys newid rhwng y ddwy iaith."
+        }
+    ]
+}

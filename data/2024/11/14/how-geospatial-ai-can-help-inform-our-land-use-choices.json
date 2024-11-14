@@ -1,0 +1,95 @@
+{
+    "url": "https://geospatialcommission.blog.gov.uk/2024/11/14/how-geospatial-ai-can-help-inform-our-land-use-choices/",
+    "title": "How geospatial AI can help inform our land use choices\u00a0",
+    "authors": [
+        "Mehul Doshi, Head of Land Use Programme, Geospatial Commission"
+    ],
+    "categories": [
+        "AI",
+        "Data",
+        "Technology"
+    ],
+    "pub_date": "2024-11-14T07:10:34+00:00",
+    "content": [
+        {
+            "text": "Mehul Doshi, Head of Land Use Programme, explains the role geospatial AI   is playing  in helping to address land use challenges."
+        },
+        {
+            "text": "The UK has finite land that is under increasing pressure.\u00a0 To meet our energy, housing, and food security needs, decision makers across the country will need to make significant choices about how we use our land. These choices need to be supported by the best possible evidence \u2013 underpinned by great geospatial data and analysis.\u00a0"
+        },
+        {
+            "text": "Over the past three years the Geospatial Commission has been looking at how we can use geospatial data and technology to help address land use challenges through our National Land Data Programme.\u00a0\u00a0"
+        },
+        {
+            "text": "This blog showcases one of our collaborative projects that has brought together experts, users and policy makers to develop a local land decision tool. Together we have tested how cutting-edge data science, earth observation (EO) data and advances in artificial intelligence (AI) are opening new possibilities for how we make these difficult decisions.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Collaborating across multiple disciplines\u00a0"
+        },
+        {
+            "text": "Since November 2022, the Geospatial Commission has been working with the Alan Turing Institute and Newcastle City Council to develop a new approach to managing trade-offs about what should go where using data science and AI.\u00a0 Newcastle is bound by the River Tyne and Green Belt, so every land use choice for one policy priority has an impact on another.\u00a0 The Council wanted to find a new way to optimise the use of land in the city to ensure they could meet the needs and aspiration of current and future generations.\u00a0\u00a0"
+        },
+        {
+            "text": "In the first phase of the work, data scientists and researchers from the Alan Turing Institute developed a prototype tool called DemoLand that suggests land use scenarios to meet different policy priorities. The tool has a user-friendly chatbot interface, making it easy for non-tech users to use. In the second phase, they investigated using satellite images and AI to enhance land use modelling. "
+        },
+        {
+            "text": "The enhanced DemoLand tool was launched in March 2024, and is open source so others can learn from the work they have done. The Alan Turing Institute has documented their findings in an independent report, outlining the lessons they learned from the technical development of the tool and their extensive engagement with the land use modelling community on the potential for geospatial AI. It focuses on the role of satellite derived earth observation data and development of large language models (LLMs)."
+        },
+        {
+            "text": "The DemoLand tool with the addition of the chatbot interface\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The impact of low-resolution satellite data\u00a0"
+        },
+        {
+            "text": "Satellite derived earth observation data, even at low resolution, is incredibly powerful for land use modelling. With more data being generated and better tools to analyse it, the project demonstrated how we can make smarter land use decisions faster.\u00a0"
+        },
+        {
+            "text": "Land use planners often struggle with outdated information since key datasets, like the national census and travel surveys, are updated infrequently. This makes it hard to get a current picture of land use. Modern earth observation satellites offer a solution by providing frequent, clear images of the Earth. These images help us understand cities, showing how they grow, use land, and impact the environment.\u00a0"
+        },
+        {
+            "text": "Advanced AI models have changed how we analyse these satellite derived earth observation images. By training on large datasets, these models can perform tasks like detecting objects and classifying images without needing pre-existing labels. This speeds up the analysis process and can even predict social and environmental issues.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Breaking down barriers\u00a0"
+        },
+        {
+            "text": "Non-technical users typically ask questions in natural language and need answers in the same format. Analysts or data scientists usually handle this translation, but they are often stretched and not always available in smaller organisations.\u00a0"
+        },
+        {
+            "text": "Graphical user interfaces, such as those developed in DemoLand, help bridge this gap by allowing users to query models and receive answers as interactive charts, graphs, and maps. In addition, Generative AI and LLMs let users ask questions and receive plain text answers, increasing tool accessibility and helping solve complex land use policy problems more effectively. While this is an improvement, results still need to be translated into policy-ready insights.\u00a0"
+        },
+        {
+            "text": "The report argues that developing an open-source library of such tools with a wide community of partners could have huge potential to accelerate the deployment of LLMs in land use planning and other geospatial applications.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making Geospatial AI safe and useable for all\u00a0"
+        },
+        {
+            "text": "AI is at the heart of the government\u2019s agenda to deliver change, sustained economic growth and improved public services.\u00a0\u00a0"
+        },
+        {
+            "text": "The report sets out some strategic, operational and technical considerations to maximising the use of Geospatial AI. This ranges from ensuring models are designed with as broad a range of users in mind to overcoming the high computational and infrastructure costs associated with the use of foundational models that can prohibit use.\u00a0"
+        },
+        {
+            "text": "The report argues that focus needs to be maintained on ensuring cross-discipline knowledge and skills transfer keep building capacity and capability across the field.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What next?\u00a0"
+        },
+        {
+            "text": "Knowledge sharing, collaboration and innovation have been at the heart of this project. As this phase of work wraps up, there is lots more ahead to build on what we have learnt. Highlights include:\u00a0\u00a0"
+        },
+        {
+            "text": "In the meantime, I hope you have found this blog and DemoLand useful and thought-provoking. We look forward to continuing the conversation on all things geospatial and AI, so please stay in touch via our social media channels or by email at geospatialcommission@dsit.gov.uk.\u00a0\u00a0"
+        },
+        {
+            "text": "You can also\u202f sign up\u202fto get an email notification every time we publish a new blog post. For more information about this and other news see our\u202f website, or follow us on\u202f LinkedIn\u202f and\u202f X\u202f(formerly Twitter).\u00a0"
+        }
+    ]
+}
