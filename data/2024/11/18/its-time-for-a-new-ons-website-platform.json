@@ -1,0 +1,80 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2024/11/18/its-time-for-a-new-ons-website-platform/",
+    "title": "It\u2019s time for a new ONS website platform",
+    "authors": [
+        "Martin O'Brian"
+    ],
+    "categories": [
+        "Content design",
+        "Technology",
+        "Website"
+    ],
+    "pub_date": "2024-11-18T12:45:15+00:00",
+    "content": [
+        {
+            "text": "ONS.GOV.UK\u00a0has a vast website estate. There are nearly 4 million pages and downloadable files covering an enormous range of information and statistics related to the economy, population, and society at national, regional, and local levels \u2013 all published to deliver our mission: statistics for the public good. "
+        },
+        {
+            "text": "With around 2 million page views a month, our website is the primary platform for us to deliver high quality data to inform the UK, improve lives and build for the future. Therefore, it\u2019s essential that our website is performant, reliable, and gives our users the information they need, when they need it and in the way they want it.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Website problems"
+        },
+        {
+            "text": "Last year, we started to experience problems with the performance of our website, particularly when releasing our popular market sensitive releases at 7am. Moving to online only publication meant we were seeing unprecedented demand from so many people accessing the website at the same time."
+        },
+        {
+            "text": "Some websites such as on-line ticketing services and National Savings and Investments use queuing mechanisms to manage peak website demand (for example, when a popular event goes on sale or premium bond winners are announced). However, the code of practice for statistics requires that \u201cstatistics should be available to all users at the same time\u201d so we must ensure our website can meet demand.\u00a0 "
+        },
+        {
+            "text": "The teams responsible for the ONS.GOV.UK platform have been working incredibly hard to improve our website\u2019s performance and reliability and we\u2019ve seen significant improvements this year. However, to further improve performance and reliability and to make sure we have a platform best placed to meet user needs, it\u2019s time to look at replacing the current website platform."
+        },
+        {
+            "heading": 2,
+            "text": "The current website platform"
+        },
+        {
+            "text": "For its millions of users, ONS.GOV.UK appears as a single website, where people can move seamlessly from one page to another. However, behind the scenes, ONS.GOV.UK is made up of many applications that work together to produce the public-facing website \u2013 we call this the \u201cplatform\u201d. "
+        },
+        {
+            "text": "Most of our content is created with our in-house content management system (CMS) which is used by our colleagues to upload, manage, and amend content.\u00a0 The applications are bespoke and were written for the website re-launch in 2016. Advances in technology provide new productivity, performance, reliability, and capability features, and we should embrace the opportunities already available products provide."
+        },
+        {
+            "heading": 2,
+            "text": "A new website platform"
+        },
+        {
+            "text": "Most other government departments must use GOV.UK for their news, announcements, services, and general information, but using it for the ONS would mean that we\u2019d restrict how we communicate our unique statistical content to users."
+        },
+        {
+            "text": "When selecting a new platform, the Technology Code of Practice that guides all government technology decisions states that \u201cyour plans must show you\u2019ve considered using open source\u201d.\u00a0 (Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used, and changed by anyone.\u00a0 The benefits of using open-source software can include solving common problems with readily available technology and saving time and resources.) "
+        },
+        {
+            "text": "We learned that NHS.UK uses an open source product called Wagtail and upon further investigation found that websites of the National Archives, NASA, Google and Irish Government also use Wagtail.\u00a0 So, we thought it would be a good choice to see it could also meet the needs of the ONS and our users."
+        },
+        {
+            "heading": 2,
+            "text": "What we've done"
+        },
+        {
+            "text": "We set up a team to help us decide whether Wagtail was a viable product to use for the ONS website and completed an \u201cAlpha\u201d phase, testing all of the things required in a statistical release and answering questions such as:"
+        },
+        {
+            "text": "We found that Wagtail could meet the needs of the ONS and are now building and configuring the new platform to host ONS.GOV.UK content.\u00a0 Maintaining the performance and reliability of our website particularly during the peak demands of our key economic releases is a priority,\u00a0 so these will be amongst the first things we\u2019ll move to the new platform.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "Building a new platform is just as important as making sure our content meets user needs more effectively. To get much valued external user feedback on new content, we\u2019re publishing a preview release in a new style alongside the existing release (the official release will go ahead at 7am and the new style release will be published later that day using the already public information).\u00a0\u00a0The preview published this Friday (22nd of November) will be Retail Sales; Great Britain: October 2024."
+        },
+        {
+            "text": "We\u2019ve been busy getting feedback from our users and will continue to do so as the work progresses and feedback from the preview will directly inform new content on the new platform."
+        },
+        {
+            "text": "We'll provide further updates here as the work proceeds."
+        }
+    ]
+}
