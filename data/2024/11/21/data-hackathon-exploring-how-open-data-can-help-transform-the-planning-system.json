@@ -1,0 +1,95 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2024/11/21/data-hackathon-exploring-how-open-data-can-help-transform-the-planning-system/",
+    "title": "Data Hackathon: Exploring how open data can help transform the planning system",
+    "authors": [
+        "Paris Dharam-Peat, Service Designer in the Digital Planning Programme"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2024-11-21T10:43:14+00:00",
+    "content": [
+        {
+            "text": "\u2018Housing Heroes\u2019 was the team name an Artificial Intelligence (AI) tool generated for us at a recent hackathon - a type of problem-solving workshop. Although the name felt like a bold suggestion at first, it perfectly captured our goal for the day - to explore how combining open data sets could help transform the planning system to support home-building targets.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "As part of the Planning Data team in Digital Planning, our role is to modernise the planning system and make it fit for the 21st century by creating an open, national index of planning data and enable cutting-edge software tools to speed up planning decisions. We were one of many data teams which took part in a recent Government Data Hackathon.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What was the aim of the hackathon event\u00a0"
+        },
+        {
+            "text": "At this event,\u202fparticipating departments were given the opportunity to work with open data sets to develop a solution to solve specific challenges and scenarios and explore data-driven transformation across the public sector.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Before the day\u00a0"
+        },
+        {
+            "text": "Before we got started, our team - which also included Gordon, Owen, Feba and Stanley - completed some training on the data sharing platform being used, which allows you to access data from multiple sources and build an application to explore them.\u00a0\u00a0"
+        },
+        {
+            "text": "During the training, I began thinking about how we could make the most of the day and identify a problem we could solve. The government\u2019s brownfield-first approach, which prioritises the redevelopment of previously developed land, and the aim to build 1.5 million homes in the next 5 years has been on my mind a lot. Could we create a tool to inform the viability of brownfield sites, speeding up this part of the planning process? Could this be a way of showing the impact and power of having standardised data indexed in one central location?\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "On the day \u00a0"
+        },
+        {
+            "text": "After a lovely autumnal walk, I arrived, and all the teams were warmly welcomed.\u00a0 It was wonderful to spend the day with other data teams, each tackling their own challenges and using data to find solutions. There was representation from Office for National Statistics, Department for Science Innovation and Technology, Department for Work and Pensions, Westminster City Council, Cabinet Office, and the NHS.\u00a0"
+        },
+        {
+            "text": "After introductions, all the teams presented the problem they were looking to solve. I enjoyed seeing the variety of innovative ideas from examining the correlation between air quality and life expectancy, highlighting areas of triple deprivation, to exploring the link between connectivity and levels of employment.\u00a0\u00a0"
+        },
+        {
+            "text": "After presentations from each team, we began exploring our own ideas and building out how we could solve the problem we selected. We arrived at the following aim:\u00a0"
+        },
+        {
+            "text": "To build an app that could identify the factors affecting the development potential of brownfield land. To achieve this, we planned to use nine of our own datasets including brownfield land, flood risk zones and conservation areas, and other datasets around the location of community infrastructure such as schools and hospitals.\u00a0\u00a0"
+        },
+        {
+            "text": "We hypothesised that combining these datasets could begin to indicate viable sites and provide decision makers with the ability to rank brownfield land based on environmental, historical, and regulatory factors and infrastructure. We know that there are more factors to consider when selecting a site, however due to the time constraints of a hack day, we focused on one idea which was to create an indicative tool.\u00a0\u00a0"
+        },
+        {
+            "text": "Now the \u2018hack\u2019 was on, and we made strides towards our minimum viable product (MVP)"
+        },
+        {
+            "text": "Time flew by, and we soon arrived at our MVP. This was an indicative map which started to show where the most viable brownfield land was located, based on the data we had provided. As with any hack day, time was limited so we loaded a selection of our chosen datasets to illustrate the idea.\u00a0\u00a0"
+        },
+        {
+            "text": "We were mindful that there were limitations of our MVP because not all the datasets on the Planning Data platform currently have national coverage, and our model did not include all factors which impact site selection. However, it was exciting to see our idea come to life and consider how further iterations could realise the potential of combining the selected datasets.\u00a0"
+        },
+        {
+            "text": "The final presentations to the judging panel were fantastic and full of energy even after everyone had worked extremely hard throughout the day. It was incredible to see what all the teams could achieve in just one day.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we demonstrated\u00a0"
+        },
+        {
+            "text": "We already know that organisations providing data to the Planning Data platform is important to modernise the planning system, speed up planning decisions and enable local planning authorities to make decisions.\u00a0\u00a0"
+        },
+        {
+            "text": "Participating in the hackathon enabled us to showcase the serious advantages of bringing data together in one location for analysis and for those developing modern planning software. It also encouraged us to consider how the data could be applied and what that might look like.\u00a0\u00a0"
+        },
+        {
+            "text": "Additionally, we created an example of using software to combine data from two sources that we wouldn\u2019t have been able to do otherwise. This demonstrates how modern software tools can use data to start solving problems quickly, including supporting the delivery of central government policy.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Some final reflections\u00a0\u00a0"
+        },
+        {
+            "text": "The hackathon day was truly inspiring. There was a strong sense of community, and it was exciting to witness the innovation that data sharing and collaboration can achieve in such a short space of time. I was also thrilled to see how our open datasets could be combined, and how modern software tools can use this data to solve problems.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to find out more\u00a0"
+        },
+        {
+            "text": "To learn more about the Planning Data team in Digital Planning and how you can get involved:\u00a0"
+        }
+    ]
+}

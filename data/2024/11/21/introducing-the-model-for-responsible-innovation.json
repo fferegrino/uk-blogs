@@ -1,0 +1,89 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/11/21/introducing-the-model-for-responsible-innovation/",
+    "title": "Introducing the Model for Responsible Innovation",
+    "authors": [
+        "Ben Kelly",
+        "Joy Aston",
+        "Charlie Grossman"
+    ],
+    "categories": [
+        "Algorithms",
+        "Responsible innovation",
+        "Trustworthy innovation"
+    ],
+    "pub_date": "2024-11-21T10:37:12+00:00",
+    "content": [
+        {
+            "text": "Last week, the Responsible Tech Adoption Unit (RTA) published our Model for Responsible Innovation, a practical framework for addressing the ethical risks associated with developing and deploying projects that use AI or data-driven technology."
+        },
+        {
+            "text": "The Model sets out a vision for what responsible innovation in AI looks like, and the component Fundamentals and Conditions required to build trustworthy AI. It also operates as a practical tool that public sector teams can use to rapidly identify the potential risks associated with the development and deployment of AI, and understand how to mitigate them."
+        },
+        {
+            "text": "We first built the Model back in 2021 (as the Centre for Data Ethics and Innovation) by synthesising leading data ethics principles and guidance, such as the OECD\u2019s AI principles, and adding our experiences from working with teams across Government on their data projects. Over the following years, we tested and iterated the Model to ensure its relevance to as wide a set of uses of data driven tech as possible. The result is a comprehensive framework that sets out every element that public sector teams need to think about to innovate responsibly."
+        },
+        {
+            "text": "Since we first developed the Model back in 2021, we\u2019ve used it in to run red-teaming workshops with public sector teams. These workshops dig into the details of the data-driven tools they want to build or deploy, and make sure that teams are considering all the elements of responsible innovation practices. We\u2019ve used the model on policy areas from education to justice to defence, and always found that it uncovers interesting and valuable insights about how to make our data projects better."
+        },
+        {
+            "text": "If you are a public sector team working with data or AI and would like to speak to us, reach out at rta@dsit.gov.uk"
+        },
+        {
+            "text": "Breaking down the Model"
+        },
+        {
+            "text": "Aiming for trustworthiness"
+        },
+        {
+            "text": "The Model places trustworthiness as its central objective, given the vital importance of trust in ensuring the wide acceptance and successful uptake of new technologies. Without full confidence that a system is being rolled out responsibly, it can be incredibly difficult to get stakeholders on board with a project and realise its full potential."
+        },
+        {
+            "text": "Fundamentals as the scaffolding for trust"
+        },
+        {
+            "text": "To foster trustworthiness, the Model outlines eight fundamental principles that teams should strive to exhibit when developing and implementing their systems. Located on the outer ring of the Model, these range from more technical requirements such as safety and security to broader social factors like fairness and societal well-being. By assessing a project against each Fundamental, we can identify where the greatest threats to trustworthiness lie, whether that\u2019s from poor accountability practices or the risk of unfair outcomes."
+        },
+        {
+            "text": "Conditions required to meet the Fundamentals"
+        },
+        {
+            "text": "Underlying the Fundamentals on the inner ring of the Model are the Conditions. These are the technical, organisational and environmental factors that must be satisfied in order to meet the Fundamentals. These six categories capture the different types of measures that teams can take to mitigate the ethical risks present in their projects, whether that\u2019s conducting meaningful engagement with stakeholders to uphold transparency or using representative and up-to-date training data to ensure fairness in the decision-making process."
+        },
+        {
+            "text": "Both the inner and outer rings of the Model are designed to work together to help teams achieve trustworthiness and innovate responsibly, and a more detailed brochure for the Model is available on gov.uk [link]."
+        },
+        {
+            "text": "Sign up to a Model Workshop"
+        },
+        {
+            "text": "Run by RTA experts, these workshop sessions will help teams identify the biggest threats to trustworthiness in their current use cases and provide a short report with tailored recommendations for how they can be effectively addressed."
+        },
+        {
+            "text": "These workshops can help you if you are a public sector team delivering a project which contains some element of data-driven technology or AI, or you are a private sector team building an AI or data-driven tool which you plan to use for a public sector purpose, or has a significant societal footprint."
+        },
+        {
+            "text": "If you are developing or implementing a data-driven or AI tool, and looking to ensure that it is ethically robust, reach out to us at RTA and register your interest in a Model workshop at rta@dsit.gov.uk"
+        },
+        {
+            "text": "Workshop testimonies"
+        },
+        {
+            "text": "We\u2019ve already run ethical red-teaming sessions with teams across the public and private sectors. Development teams who have run through the model have already found it to be a valuable exercise for their projects."
+        },
+        {
+            "text": "Adrian Davis, DESNZ Project Delivery Frameworks and Standards Lead, said:"
+        },
+        {
+            "text": "\"I cannot overstate the importance of independent assurance when managing an AI project. The Model for Responsible Innovation Red Teaming service has been instrumental in supporting our assurance efforts. As independent experts, they provide us with an honest, evidence-based view of our project."
+        },
+        {
+            "text": "By following government best practices on managing an AI Project and utilising this service, I\u2019m confident we can manage our risks proactively and ensure our project delivers a solution that uses AI responsibly. I highly recommend this service to any colleagues embarking on an AI project.\""
+        },
+        {
+            "text": "Haitao He, TransHumanity, said:"
+        },
+        {
+            "text": "\"The workshop using the Model for Responsible Innovation was pivotal in aligning our efforts with our vision to prioritise ethics in AI use within the public sector. The Model provided valuable guidance in identifying potential risks and areas for improvement, particularly around transparency and accountability. This session refined our approach, reinforcing our commitment to developing technology that not only meets technical standards but also upholds our core values of fairness and societal wellbeing.\""
+        }
+    ]
+}
