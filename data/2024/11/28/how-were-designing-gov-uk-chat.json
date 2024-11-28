@@ -1,0 +1,92 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/11/28/how-were-designing-gov-uk-chat/",
+    "title": "How we\u2019re designing GOV.UK Chat",
+    "authors": [
+        "Kuba Bartwicki, Lead Designer, GDS",
+        "Sharon McDonald, Lead User Researcher, GDS",
+        "Lucy McArthur, Interaction Designer, GDS",
+        "Aisling Sweeney, Content Designer, GDS",
+        "Robert Sewell, Senior User Researcher, GDS"
+    ],
+    "categories": [
+        "How we work",
+        "User insights",
+        "What we're working on"
+    ],
+    "pub_date": "2024-11-28T12:14:16+00:00",
+    "content": [
+        {
+            "text": "GOV.UK is the digital home of government information and services. More than 11 million people visit us every week and, according to the most recent YouGov polling, GOV.UK is the most-recognised digital service in the UK. Users can find the information and services they need in a number of ways: some people use the menu or homepage elements and browse through pages, some use our internal search and others come from external search engines like Google."
+        },
+        {
+            "text": "But we know we can do more to make interacting with GOV.UK easier. In our strategy for growth, we\u2019ve made a priority of exploring whether emerging technologies can enhance the experience for our users. Earlier this month, we blogged about the latest stage of our experiments with a generative AI chatbot, GOV.UK Chat."
+        },
+        {
+            "text": "In this post, we explain in more detail how we\u2019re designing GOV.UK Chat, why our approach to this element of the work is so important, and the reasons behind some of the decisions we\u2019ve made so far."
+        },
+        {
+            "heading": 2,
+            "text": "What it looks like"
+        },
+        {
+            "text": "One of the first things you\u2019ll see is that GOV.UK Chat looks different from the GOV.UK website. We use an avatar, it\u2019s described as \u2018experimental\u2019, things animate and there\u2019s an emoji in the welcome message. All of this is very deliberate, and it helps us to communicate that GOV.UK Chat is:"
+        },
+        {
+            "text": "As we mentioned earlier, GOV.UK is a very well-recognised brand, with a visual identity \u2013 including language, the typeface, the crown logo, colours and design components \u2013 that maintains trust and assures users they\u2019re seeing the official source of government information. To arrive at a design that communicated the nature of GOV.UK Chat while protecting the GOV.UK brand, we had to try different approaches. We asked ourselves questions like:"
+        },
+        {
+            "text": "We iterated the design over a few months, with multiple rounds of user testing. We even included some deliberately provocative designs \u2013 for example, using different logos or styles for displaying questions and answers \u2013 to understand which elements were important to users. Some of the things we found out with this approach were that:"
+        },
+        {
+            "text": "We also played with many different avatars. We wanted to avoid relying on visual references to magic and robots, which can obscure from users how this technology works, and instead explored giving the technology a friendly face and very clearly explaining how it works."
+        },
+        {
+            "text": "All of this iteration and testing led us to GOV.UK Chat\u2019s current design. We\u2019ll continue iterating as we learn more about user behaviour, expectations and emerging mental models when using generative AI chatbots."
+        },
+        {
+            "heading": 2,
+            "text": "Check this answer"
+        },
+        {
+            "text": "Any AI product built on the current generation of models carries the risk of hallucination. This is when the system generates a response that contains incorrect information, but presents it as fact. On GOV.UK Chat, one of the ways we\u2019re minimising the impact of hallucination on users is through our \u2018check this answer\u2019 component."
+        },
+        {
+            "text": "In this feature, we give users links to official GOV.UK guidance, which they can use to \u2018fact check\u2019 their AI-generated answer before acting on it. These links are to the pages that GOV.UK Chat has used to create the answer, so it should be clear if there are any major differences."
+        },
+        {
+            "text": "Another benefit of this feature is that it helps users to continue their journey on GOV.UK. For example, if they need to use a service or do more reading around a certain topic, these links can quickly point them in the right direction."
+        },
+        {
+            "text": "This pattern has evolved a lot since the early days of GOV.UK Chat. In the very beginning, we included a list of sources as a way for the team to see which pages GOV.UK Chat had deemed relevant. When we began testing, we found that these sources were important to users too. For example, when they wanted to delve deeper into a topic or wanted reassurance, we\u2019d see users following these links to GOV.UK. It became clear that these pages were a marker of credibility and trustworthiness."
+        },
+        {
+            "text": "Overall, we know that this pattern makes it easier for users to check answers and improves the experience of using GOV.UK Chat. It prevents dead ends, links journeys up across channels and, importantly, gives users control. We\u2019re excited to continue exploring improvements to this pattern."
+        },
+        {
+            "heading": 2,
+            "text": "Managing trust and expectations"
+        },
+        {
+            "text": "In order to use AI to help meet users\u2019 needs, we need to be able to help them place the right level of trust in our products. This is because the technology is new, complicated, and not always reliable. With GOV.UK Chat, we\u2019ve done this in a few different ways."
+        },
+        {
+            "text": "First, we needed to make sure that users both saw and understood warnings about the potential for inaccurate information in GOV.UK Chat\u2019s answers. Our earlier versions included some concise content on the start page, then a dedicated \u2018before you start\u2019 page, but neither were effective enough. After multiple rounds of testing and iteration, we now display this through a series of timed in-chat messages when a user first accesses the tool, a process known as \u2018onboarding\u2019. This allows us to progressively disclose important warnings and context, meaning users can read each message before the next one appears. We\u2019ve also introduced a meaningful decision point \u2013 the choice of clicking \u2018I understand\u2019 or \u2018tell me more\u2019. This extra step benefits users by giving them more control over their onboarding."
+        },
+        {
+            "text": "Our research also showed there were some misunderstandings among users about how generative AI works. For example, some users believed that:"
+        },
+        {
+            "text": "To tackle this, we\u2019ve taken an educational approach to explaining the risks of generative AI. We explain the concept of hallucination and the use of training data during the onboarding journey, as well as highlighting that incorrect information could still be presented confidently. Importantly, we talk about these risks as inherent and universal limitations of generative AI to prevent users from interpreting them as specific to GOV.UK Chat."
+        },
+        {
+            "text": "In past testing, we often found that some users overestimated GOV.UK Chat\u2019s accuracy because of its connection to the trusted GOV.UK brand. Following these improvements, just under 80% of research participants understood that GOV.UK Chat can contain inaccurate information. This was a lot higher than in previous testing, when we asked users about their understanding in a slightly different way. Testing with users has also shown that, despite the challenges, GOV.UK Chat has the potential to both help reduce the burden of navigation and summarise complex information on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We\u2019re really excited to see how the private beta goes and how the insights can help us make the product even better. We also know that AI is a fast-moving technology and the kinds of things we can do with it will continue to evolve, so we want to continue exploring new possibilities and design patterns."
+        }
+    ]
+}

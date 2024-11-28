@@ -1,0 +1,95 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/11/28/data-protection-considerations-for-implementing-federated-learning-a-regulators-perspective/",
+    "title": "Data protection considerations for implementing federated learning \u2013 a regulator\u2019s perspective",
+    "authors": [
+        "Nick Patterson, ICO Innovation Hub"
+    ],
+    "categories": [
+        "Data",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-11-28T11:30:00+00:00",
+    "content": [
+        {
+            "text": "This post is part of a series on privacy-preserving federated learning. The series is a collaboration between the Responsible Technology Adoption Unit (RTA) and the US National Institute of Standards and Technology (NIST). Learn more and read all the posts published to date on our blog or at NIST\u2019s Privacy Engineering Collaboration Space\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Introduction"
+        },
+        {
+            "text": "This guest post features reflections from the UK\u2019s Information Commissioner\u2019s Office (ICO). The ICO is the UK regulator of data protection\u202fand other information rights legislation.\u00a0 During the UK-US PETs Prize Challenges, the ICO Innovation Hub mentored participating UK teams, assisting them with understanding how their solutions might interact with UK data protection regulations if applied to real data.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Key Considerations for Implementing Federated Learning\u00a0"
+        },
+        {
+            "text": "Privacy enhancing technologies (PETs) like federated learning can help your organisation minimise the amount of personal information you use, protect personal information and demonstrate that you are embedding data protection by design and by default.\u00a0\u00a0"
+        },
+        {
+            "text": "PETs also open unprecedented opportunities to harness the power of personal information through innovative and trustworthy applications. For example, by allowing the sharing, linking and analysis of people\u2019s personal information without having to access it.\u00a0"
+        },
+        {
+            "text": "But these technologies are not a silver bullet, and security and privacy risks can remain. Most PETs involve processing personal information. Your processing still needs to be lawful, fair and transparent and you must ensure that PETs you use are implemented appropriately.\u00a0\u00a0"
+        },
+        {
+            "text": "The ICO\u2019s PETs guidance sets out factors that organisations should consider when deploying these technologies. You\u202fshould\u202fconsider implementing PETs at the design phase of your project, particularly for projects that involve large volumes of information, especially special category information.\u00a0"
+        },
+        {
+            "text": "Three key themes emerged from our engagement with participants during the UK-US PETs Prize Challenges:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Data protection impact assessments (DPIAs) can help you to determine whether PETs can mitigate the risks to people\u00a0\u00a0"
+        },
+        {
+            "text": "Processing activities involving artificial intelligence may require you to complete a DPIA. A DPIA will help you to identify risks to people\u2019s personal information, determine their likelihood and severity, and consequently decide which PETs can mitigate them to an acceptable level. You can use or adapt the ICO\u2019s sample DPIA template to carry out a DPIA, or create your own.\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Federated learning does not prevent personal information from being shared through the output. However, it can be combined with output privacy approaches such as differential privacy to hide the use of people's personal information in training tasks.\u00a0\u00a0"
+        },
+        {
+            "text": "You should assess the risks of federated learning indirectly exposing identifiable information used for local training of the machine learning model, and during the training process between multiple parties. For example, you should assess the risk of an attacker:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Combine federated learning with other PETs\u00a0\u00a0"
+        },
+        {
+            "text": "Information shared as part of federated learning may indirectly expose identifiable information used for training machine learning models. If you identify this risk in your risk assessment, such as a DPIA, you should combine federated learning with other PETs.\u00a0\u00a0"
+        },
+        {
+            "text": "Risks of failing to combine federated learning with other PETs include local machine learning models continuing to use personal information.\u00a0\u00a0"
+        },
+        {
+            "text": "Combining federated learning with other PETs in order to mitigate the risks you identify will help you meet the data protection by design obligation under the accountability principle of the UK GDPR, which requires the protection of information across the entire solution lifecycle.\u00a0\u00a0"
+        },
+        {
+            "text": "When considering other PETs to combine with federated learning, you should think about your aims and the maturity, scalability and cost of the technology. PETs you could use include:\u00a0"
+        },
+        {
+            "text": "The ICO\u2019s PETs guidance discusses these PETs in more detail and is a great resource to demonstrate how PETs can help with data protection compliance.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3. Assess the identifiability risk\u00a0"
+        },
+        {
+            "text": "You should assess the risk of identifying people at each stage of the data lifecycle using a motivated intruder test. Consider the means all parties involved could use to identify people from the training data or during the model training stage. You should consider using appropriate input privacy PETs to mitigate this risk.\u00a0"
+        },
+        {
+            "text": "If your aim is for your output to be effectively anonymised, differential privacy can be used to mitigate the risk of re-identification by anonymising outputs. Differential privacy can be used to add noise and hide the use of a particular person\u2019s information in a training task, provided an appropriate amount of noise is added and the privacy budget is tuned effectively. However, you shouldn\u2019t automatically assume that it will.\u00a0"
+        },
+        {
+            "text": "The ICO\u2019s Innovation Services provide free support to organisations ranging from start-ups to large organisations who are running new and novel projects using personal information. If you\u2019re interested in working with one of our Innovation Services, you can find contact details on our website.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Coming Up Next\u202f\u00a0"
+        },
+        {
+            "text": "The next post in this DSIT-NIST blog series will conclude this series, with a look ahead at future opportunities around working with PPFL.\u00a0"
+        }
+    ]
+}
