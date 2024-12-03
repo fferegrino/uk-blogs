@@ -1,0 +1,105 @@
+{
+    "url": "https://gds.blog.gov.uk/2024/12/03/gov-uk-forms-through-the-ages/",
+    "title": "GOV.UK Forms through the ages",
+    "authors": [
+        "David Biddle - Senior Frontend Developer for GOV.UK Forms, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Forms"
+    ],
+    "pub_date": "2024-12-03T12:43:38+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Early developments"
+        },
+        {
+            "text": "GOV.UK has thousands of forms which exist as PDFs or other document formats. Users have historically had to download, fill out, and send them back to the department which owns them.\u00a0"
+        },
+        {
+            "text": "Since the start of the COVID-19 pandemic most are now submitted as email attachments. We want to see fewer document-based forms on GOV.UK because we think that online HTML forms are better for users. Some of the benefits of online forms include:"
+        },
+        {
+            "text": "In 2017, GDS started looking at this problem with a project called GOV.UK Submit. While this didn\u2019t progress past the alpha stage, it did inspire a number of form-building platforms across government. Then in 2020, the cross-government form building community was founded to connect people working on form building solutions."
+        },
+        {
+            "heading": 2,
+            "text": "The \u2018Collecting Information from Users\u2019 Discovery"
+        },
+        {
+            "text": "The number of document-based forms continued to increase, so in January 2021 we started looking at this problem again in a new discovery. Our aim was to understand how document-based forms end up being published on GOV.UK, and identify ways to help civil servants make simple and accessible online versions instead."
+        },
+        {
+            "text": "We wanted to find out whether the existing form-building solutions would work for the teams creating these forms, so we assessed the cost and accessibility of existing platforms. We conducted approximately 30 in-depth interviews with people working across local and central government departments to find out more about their needs and the barriers to making online forms."
+        },
+        {
+            "text": "We audited a sample of document-based forms on GOV.UK and found that 68% of them received fewer than 10,000 submissions a year. The teams who manage these forms can\u2019t justify the cost of a multidisciplinary digital team and we found they weren\u2019t being adequately served by existing form building platforms either.\u00a0"
+        },
+        {
+            "text": "To address this and support teams across government, we decided to build our own self-service form-building platform. We designed it to enable people with little or no digital experience to make their own online forms without needing help from digital teams."
+        },
+        {
+            "text": "We hypothesised that this would allow them to deliver quick improvements for their users, while digital teams continue to focus on converting higher-volume document-based forms. This in turn would enable a wider move to online forms across government.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Alpha (July 2021 to March 2022)"
+        },
+        {
+            "text": "Before spending public money on building a new platform, we wanted to validate some of our assumptions, so in our alpha phase we wanted to answer these questions:"
+        },
+        {
+            "text": "To answer these questions we worked with 50 people across central government, carrying out interviews and experiments with form builders, which gave us confidence that our form building platform was viable."
+        },
+        {
+            "text": "We put together a proposed service journey and a roadmap for private beta and started assembling our team."
+        },
+        {
+            "heading": 2,
+            "text": "Private beta (March 2022 to November 2024)"
+        },
+        {
+            "text": "We moved into private beta and started building the product in March 2022. Our aims in this phase were to deliver enough features to drive adoption, and test the platform with a small number of partner departments to validate our designs."
+        },
+        {
+            "text": "Throughout this phase we tested regularly to make sure our platform worked for everyone. We spoke with civil servants and members of the public, including people with different levels of digital confidence and users with access needs.\u00a0"
+        },
+        {
+            "text": "We published our first form in September 2022, the Insolvency Service\u2019s Amend my claim for holiday pay accrued form. Shortly afterwards, the Maritime and Coastguard Agency used our platform for their Apply to be a Volunteer Coastguard Rescue Officer form, which has helped to recruit almost 500 volunteer coastguards since it was launched."
+        },
+        {
+            "text": "To help us scale up we opened up our platform for early access in November 2023. This is an unusual step, but it meant that while we focused on developing new features and building forms with our partner departments, users from across government could sign up to try our platform. Within two months more than 500 new users had set up accounts."
+        },
+        {
+            "text": "Around the same time we took on a high-profile form - Defra\u2019s Apply for a Certificate of Exemption to keep an XL Bully dog. Our platform enabled Defra to set up this new service quickly and easily, and it received more than 60,000 submissions in 3 months."
+        },
+        {
+            "text": "After receiving feedback from early and prospective users, we made changes to allow departments to assign forms to groups and manage access to those groups, giving departments more control over their ways of working.\u00a0"
+        },
+        {
+            "text": "Other major features we added during private beta included:"
+        },
+        {
+            "text": "You can see a full list of features on our product page."
+        },
+        {
+            "text": "At the end of private beta we had 87 published forms from 52 partner organisations. Those forms have received more than 165,000 submissions which we estimate has saved form processors over 3 years\u2019 worth of time."
+        },
+        {
+            "heading": 2,
+            "text": "The future"
+        },
+        {
+            "text": "On 4 November 2024, we moved into public beta. You can read about it in our announcement blog post and watch our animation video. This means that users in most central government departments can start building forms and publish them on GOV.UK."
+        },
+        {
+            "text": "We\u2019ve started work on some new features, including branching and exit pages to enable more complex forms, and select from a long list of answers. You can see our GOV.UK Forms Forthcoming Features page for more details."
+        },
+        {
+            "text": "We're starting our next chapter, and you can be part of it. Visit our product page to start building your own accessible online forms and sign up to stay informed on the latest features and developments."
+        },
+        {
+            "text": "We\u2019re also looking for help testing and improving the platform - if you\u2019re a civil servant and you\u2019d like to help us make the platform work as well as possible for users, you can sign up to take part in user research."
+        }
+    ]
+}
