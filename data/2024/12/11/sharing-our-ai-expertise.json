@@ -1,0 +1,29 @@
+{
+    "url": "https://giaa.blog.gov.uk/2024/12/11/sharing-our-ai-expertise/",
+    "title": "Sharing our AI expertise",
+    "authors": [
+        "Katy Morgan"
+    ],
+    "categories": [
+        "Innovation",
+        "Internal Audit"
+    ],
+    "pub_date": "2024-12-11T15:17:15+00:00",
+    "content": [
+        {
+            "text": "As a data analytics specialist working for the Government Internal Audit Agency, I think my experience of attending the Chartered IIA (Institute of Internal Auditors) conference back in September is probably the nearest I\u2019ve got to feeling like a rock star. Joking aside, there was a real buzz and people were actually queuing up at our GIAA information stand, wanting to know more about our GIAA \u201cEfficiency Engines\u201d. I was there to help demonstrate and explain our three star turns. Our Insights, Writing and Risk Engines are web applications that we developed ourselves, using Artificial Intelligence (AI) and Natural Language Processing (NLP) to enable our colleagues to work more efficiently and creatively."
+        },
+        {
+            "text": "The excitement about our apps all stemmed from a presentation that our director of Innovation and Development, Iain McGregor had given early on at the conference \u2013 demonstrating the versatility of our Engines. He had shown how our Risk Engine helps users to explore potential risks associated with a user-input business objective, and how our Writing Engine can be used to draft a document, as well as for extracting and summarising information from text. (Since the conference, there has been continued interest in our work across the world and you can read more on our GOV.UK page about Iain\u2019s recent invite to present for the Cypriot counterpart of the IIA.) People were clearly impressed, and we were soon inundated with queries."
+        },
+        {
+            "text": "Visitors to our stand told me that they liked the user-friendly interface of the Risk Engine. They were keen to try it out with their own business objectives and were delighted when it suggested a broad range of potential risks that were both creative and directly applicable to their organisation. They were keen to understand more about how the Risk Engine worked behind the scenes and asked technical questions to understand how the GPT3.5 Large Language Model (LLM) is being used to generate responses."
+        },
+        {
+            "text": "The Writing Engine\u2019s potential for dramatically reducing the time spent reading and drafting text was a big attraction and people wanted to know how they could use prompts to get more targeted results and whether the Engine could extract and articulate information in specific formats. There was real excitement about the Writing Engine\u2019s ability to help with a wide range of tasks, including summarising meeting notes and transcripts, drafting reports, extracting specific information from long documents, and comparing documents."
+        },
+        {
+            "text": "Several people had questions about the data privacy risks associated with using AI tools to process confidential text. They were reassured that text data input into GIAA\u2019s Engines is deleted within 30 days of Microsoft's automated abuse monitoring process and is not retained for training purposes.The conference had delegates from across all sectors and I spoke to many colleagues working in local authorities who were very eager to tap into our technology and we look forward to working with them in future. There was also a lot of interest from those working in the private sector who were inspired to explore building similar tools themselves. It was a great couple of days, and I felt proud to representing the Agency and sharing the innovative progress that we\u2019re making in the public sector."
+        }
+    ]
+}
