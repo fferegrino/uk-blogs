@@ -1,0 +1,53 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2024/12/12/magic-maps-change-to-service-platform/",
+    "title": "Magic Maps: change to service platform\u00a0\u00a0",
+    "authors": [
+        "Natural England"
+    ],
+    "categories": [
+        "Evidence",
+        "Mapping",
+        "Monitoring",
+        "Natural England",
+        "Science and evidence"
+    ],
+    "pub_date": "2024-12-12T12:18:11+00:00",
+    "content": [
+        {
+            "text": "What is MAGIC?\u00a0"
+        },
+        {
+            "text": "The \u2018Multi-Agency Geographic Information for the Countryside\u2019 (MAGIC) service has been around since 2002. The MAGIC website provides geographic information about the natural environment from across government. The information covers rural, urban, coastal and marine environments across Great Britain. It is presented in an interactive map in a web browser which can be explored using various mapping tools that are included.\u00a0\u00a0"
+        },
+        {
+            "text": "MAGIC is used as a method for publishing data that can be viewed easily and is available to the general public. The data is varied and includes statutory data published by Natural England, such as Sites of Special Scientific Interest (SSSI) and Local Nature Reserves but also has data from all kinds of sources. These sources include other major governmental bodies such as the Environment Agency and the Department for Environment, Food and Rural Affairs (Defra) but we also include datasets from smaller bodies such as charities and other agencies.\u00a0"
+        },
+        {
+            "text": "MAGIC is important to NE and Defra because it allows us to make data available to a huge number of people with a wide range of interests, from hobbyists to farmers to civil planners. It\u2019s a great space for not just publishing and sharing our own data, but all kinds of habitat and geographic data, allowing users to make evidenced informed decisions.\u00a0"
+        },
+        {
+            "text": "What is changing?\u00a0\u00a0"
+        },
+        {
+            "text": "Some users may remember that significant work was done in 2012 and 2013 to re-develop the website and bring it up to date. Once again, we\u2019ve been working on the website in the background to bring it up to date and ensure it works correctly. We\u2019re carrying out a change to the website that will update it from JavaScript version 3 to JavaScript version 4. This is an important change that will ensure it continues to function well into the future and is a more secure website.\u00a0\u00a0"
+        },
+        {
+            "text": "MAGIC will look and feel different post-update. It will have a different user interface, a different appearance to the table of contents and the tools and buttons will have moved to different positions. Performance might slightly decrease on older devices as well due to RAM (Random Access Memory) but should still be entirely usable. We are also working to improve the printing facility in version 4, which will be available in coming months. For now, users will need to continue to use the JavaScript version 3\u2019s printing functionality. \u00a0\u00a0"
+        },
+        {
+            "text": "Below are two screenshots to show the difference between the versions. The first is current MAGIC on JavaScript 3, the second the new version on JavaScript 4 for comparison.\u00a0"
+        },
+        {
+            "text": "This release gives ample opportunity for users to test the new platform alongside the existing version 3, until it is decommissioned next year. \u00a0Alongside the new release, we have provided a customer survey that users can access to provide feedback. This will allow us to listen and respond to user experiences, making any necessary changes.\u00a0"
+        },
+        {
+            "text": "As ever, Defra and NE are committed to improving the service. We are seeking to take the service forward and improve accessibility, making the platform usable for all.\u00a0"
+        },
+        {
+            "text": "Find out more here: \u00a0"
+        },
+        {
+            "text": "https://magicjs4.landmarkcloud.co.uk/"
+        }
+    ]
+}

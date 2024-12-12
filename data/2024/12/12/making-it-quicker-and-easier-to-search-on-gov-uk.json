@@ -1,0 +1,85 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2024/12/12/making-it-quicker-and-easier-to-search-on-gov-uk/",
+    "title": "Making it quicker and easier to search on GOV.UK",
+    "authors": [
+        "Catriona Fraser, Product Manager, Search, GOV.UK",
+        "Monica Crusellas, Senior Interaction Designer, GOV.UK"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2024-12-12T15:54:26+00:00",
+    "content": [
+        {
+            "text": "GOV.UK site search is one of the main ways people find information on GOV.UK. It\u2019s used more than 4 million times a month. In our strategy for growth, we said we wanted to improve site search to help make it quicker and easier for users to access government information and services."
+        },
+        {
+            "text": "In October we blogged about how we chose, integrated and launched a new search engine to power site search. Building on that foundation, we\u2019ve now made several changes to GOV.UK\u2019s search interface (where users enter, filter and read search results) to create a simpler, more user-friendly experience."
+        },
+        {
+            "text": "These updates include a new autocomplete feature, a streamlined design for filters and sorting, and improved readability of search results. This blog post explains these changes and what they mean for GOV.UK users."
+        },
+        {
+            "heading": 2,
+            "text": "Autocomplete"
+        },
+        {
+            "text": "The biggest change we\u2019ve made is adding autocomplete to the search bar across the site. Autocomplete predicts search terms as users type, helping them find the information they need faster and with fewer keystrokes."
+        },
+        {
+            "text": "Our goal with autocomplete is to make searching on GOV.UK quicker and more intuitive, particularly for users who may not know the exact terms to look for."
+        },
+        {
+            "text": "The data model behind our autocomplete feature is powered by Google Vertex AI Search, the search product we launched on GOV.UK in February. This model is trained on anonymised user search queries (from people who have consented to analytics tracking), which Google processes and refines to provide relevant autocomplete suggestions."
+        },
+        {
+            "text": "On the user interface side, we adapted the accessible autocomplete Javascript component - managed by the GOV.UK Design System team - to handle the displaying of suggestions and user interactions."
+        },
+        {
+            "text": "We made a number of design choices to ensure autocomplete supports users effectively. These include:"
+        },
+        {
+            "heading": 2,
+            "text": "Filters and sorting"
+        },
+        {
+            "text": "In the past, search filters appeared on the left side of the page, while sorting options were above the search results. After reviewing analytics data, we found that only a small minority of people selected filters, so we decided to simplify the design to improve usability."
+        },
+        {
+            "text": "Now, both filters and sorting are in a single panel above the search results. This central location keeps the layout clean and reduces visual noise, allowing users to focus on search results, while still having easy access to filters and sorting if they choose to use them."
+        },
+        {
+            "text": "We\u2019ve also made changes to improve the usability of the filters themselves. These include:"
+        },
+        {
+            "text": "To make the search results clearer and more consistent with the rest of GOV.UK, we introduced several design changes. We:"
+        },
+        {
+            "heading": 2,
+            "text": "User research and testing"
+        },
+        {
+            "text": "Before launching these updates, we did usability testing to validate that the new features were intuitive and easy to use. We also did a round of user research with the Digital Accessibility Centre (DAC) to ensure that the changes work effectively for users with accessibility needs, and those who use assistive technologies."
+        },
+        {
+            "text": "For autocomplete, we ran an A/B test on the live site, where we showed an equal proportion of users search with autocomplete and search without autocomplete, so that we could see how search behaviour changed when users had autocomplete suggestions."
+        },
+        {
+            "text": "We found that:"
+        },
+        {
+            "text": "These figures provided a clear indication that autocomplete was valuable for users."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "Now the changes to the user interface of search are live, we will continue to closely monitor performance data and user feedback to make sure these improvements are working well for users."
+        },
+        {
+            "text": "If you have feedback to share about the changes we\u2019ve made to search on GOV.UK please leave a comment or email govuk-site-search@digital.cabinet-office.gov.uk."
+        }
+    ]
+}

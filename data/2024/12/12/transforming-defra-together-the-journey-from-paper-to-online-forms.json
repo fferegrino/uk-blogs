@@ -1,0 +1,114 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2024/12/12/transforming-defra-together-the-journey-from-paper-to-online-forms/",
+    "title": "Transforming Defra together: the journey from paper to online forms",
+    "authors": [
+        "Jenny Taylor",
+        "Anna Scott"
+    ],
+    "categories": [
+        "Accessibility",
+        "Defra content design",
+        "Defra Forms"
+    ],
+    "pub_date": "2024-12-12T08:00:00+00:00",
+    "content": [
+        {
+            "text": "It\u2019s been a busy year for Defra Forms. Lead Product Manager Jenny Taylor and Senior Content Designer Anna Scott reflect on the story so far, lessons learnt and reaching the exciting step of rolling out forms guidance and tools access to more users within Defra Group"
+        },
+        {
+            "text": "The Defra Forms project aims to tackle Defra Group\u2019s reliance on paper-based forms. By transitioning to online forms, we want to enhance user experience, streamline processes, and improve overall efficiency. Our vision is to make it easier, quicker, and simpler for users to send information to Defra."
+        },
+        {
+            "text": "Last year, we explored whether we could deliver one solution for many problems \u2013 could we deliver tech capability to complement GOV.UK Forms, that could work across multiple applications and systems across Defra Group, and meet Defra-specific needs?"
+        },
+        {
+            "text": "Since then, we\u2019ve developed a tool that can be used to create forms quickly and easily: the Digital Express Toolkit (DXT). Alongside this, we\u2019ve adopted GOV.UK Forms for forms that don\u2019t require the Defra-specific features that DXT accommodates. Together, these tools help us meet a wide range of user needs across Defra, which is a broad and complex department."
+        },
+        {
+            "heading": 2,
+            "text": "Part of Defra\u2019s digital transformation strategy"
+        },
+        {
+            "text": "The Defra Forms project is an integral part of Defra\u2019s Digital and Data Transformation Strategy. The strategy reflects:"
+        },
+        {
+            "text": "\u201cour collective ambition for people to interact with us with greater confidence and ease, whenever and wherever they engage with Defra Group, and to access seamless, better, more integrated services\u201d."
+        },
+        {
+            "text": "The Defra Forms project has the remit not only to provide the technology but also the potential operating model for delivering online forms without always needing a team of digital specialists."
+        },
+        {
+            "heading": 2,
+            "text": "Where we\u2019re up to with DXT"
+        },
+        {
+            "text": "During Private Beta, we\u2019ve tested and iterated DXT with Defra content designers. We\u2019ve also been using the tool ourselves to digitise complex forms with partners across Defra Group."
+        },
+        {
+            "text": "In doing so, we\u2019ve been able to publish online forms on GOV.UK that meet our legal and government standards and are much more accessible to users than the existing paper (document based) forms. \u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Using the tools ourselves to digitise forms: an unscalable solution"
+        },
+        {
+            "text": "Alongside designing and developing DXT, we have been functioning as a small forms consultancy, using DXT and GOV.UK Forms to digitise forms from across Defra Group. Obviously, it\u2019s been a challenge to do this while the tech was still in development, but being \u2018super users\u2019 has given us good insights. As we have analysed our own process and outputs, we\u2019ve found that this set up is unscalable for a few reasons:"
+        },
+        {
+            "text": "It was always our plan to roll out the use of our tools beyond our own small team. However, these insights are really helpful for us as we begin to trial this, and think about what DXT and GOV.UK Forms user groups may look like across Defra Group, and the support they\u2019d need."
+        },
+        {
+            "heading": 4,
+            "text": "Onboarding our first users"
+        },
+        {
+            "text": "We\u2019re excited to have recently given DXT access to its first users outside of our team. Colleagues in the APHA Apps and Permissions service team \u2013 a content designer, interaction designer and service designer \u2013 used DXT to create a form themselves, with some support from our team. We gave them an initial demo of the tool, and answered a few questions along the way."
+        },
+        {
+            "text": "This increased our confidence in rolling the tool out to its next internal users, once we\u2019ve taken our next steps: to improve the user interface and develop supporting guidance."
+        },
+        {
+            "text": "Improving the user interface"
+        },
+        {
+            "text": "We\u2019re in the process of updating the front-end of DXT, which will make it a lot more user friendly and accessible. These changes are informed by several rounds of usability testing as well as an accessibility audit."
+        },
+        {
+            "heading": 4,
+            "text": "Developing guidance"
+        },
+        {
+            "text": "We\u2019re also developing guidance for DXT users. We have run a survey with content designers across government to understand their preferred learning styles for this kind of software. We\u2019ve also conducted a card-sort and tree test to understand how our guidance topics could best be grouped."
+        },
+        {
+            "heading": 2,
+            "text": "Delivering benefits"
+        },
+        {
+            "heading": 4,
+            "text": "Better ways to handle and process data"
+        },
+        {
+            "text": "With form validation, embedded guidance and conditional routing, we\u2019re ensuring that information submitted by members of the public is standardised, formatted consistently and accurate. This saves time for users, and time for Defra teams. But we have bigger ambitions: we want to go much further to help Defra handle and process data more efficiently."
+        },
+        {
+            "text": "There\u2019s clear demand for data submitted in forms to be consumed by other systems within Defra and in other formats. We plan to research and design what this could look like."
+        },
+        {
+            "heading": 4,
+            "text": "Improving user experience and Defra processes"
+        },
+        {
+            "text": "In a recent blog, Content Designer Alice Wilson says how impactful our service has been for the \u201cApply for a County Parish Holding Number\u201d service. This was great to hear because, as well as giving the public a better user experience, we want to give users within Defra a better experience in establishing digital services \u2013 they don\u2019t necessarily need a full delivery team or a lengthy business case to get started, we\u2019re making it faster and easier to establish digital channels with users."
+        },
+        {
+            "text": "We\u2019ll update soon on the progress Defra Forms is making to strengthening the partnerships we have with other directorates and Arm\u2019s Length Bodies (ALBs) across Defra group and how we are thinking differently about measuring success."
+        },
+        {
+            "text": "Follow Jenny Taylor, Anna Scott and Defra Digital, Data, Technology and Security on LinkedIn"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
