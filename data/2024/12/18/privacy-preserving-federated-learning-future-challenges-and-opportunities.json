@@ -1,0 +1,80 @@
+{
+    "url": "https://rtau.blog.gov.uk/2024/12/18/privacy-preserving-federated-learning-future-challenges-and-opportunities/",
+    "title": "Privacy-Preserving Federated Learning \u2013 Future Challenges and Opportunities\u00a0",
+    "authors": [
+        "Sue Anie",
+        "Gary Howarth"
+    ],
+    "categories": [
+        "Data",
+        "PETs Blogs"
+    ],
+    "pub_date": "2024-12-18T16:04:33+00:00",
+    "content": [
+        {
+            "text": "This post is the final blog in a series on privacy-preserving federated learning. The series is a collaboration between the Responsible Technology Adoption Unit (RTA) and the US National Institute of Standards and Technology (NIST). Learn more and read all the posts published to date on our blog or at NIST\u2019s Privacy Engineering Collaboration Space."
+        },
+        {
+            "heading": 2,
+            "text": "Reflections and wider considerations"
+        },
+        {
+            "text": "This is the final post in the series that began from reflections and learnings from the first US-UK collaboration in working with Privacy Enhancing Technologies (PETs). Since the PETs Prize Challenges (July 2022 \u2013 2023), the ecosystem around these technologies has continued to develop, with a shift from more theoretical and academic conversations to greater uptake and consideration of PETs."
+        },
+        {
+            "text": "Since our first post in December 2023, this series has explored a variety of practical considerations relevant to working with Privacy-Preserving Federated Learning (PPFL), ranging from understanding different types of privacy attacks and ways to protect data from them, to exploring the importance of input and output privacy"
+        },
+        {
+            "text": "Through recent posts, we have also heard from guest contributors who were winners and judges in the UK-US PETs Prize Challenges with thoughts and considerations for scalability, implementation and data pipeline challenges and more."
+        },
+        {
+            "text": "The scope of this blog series reflects the breadth of insights and considerations that emerged from the PETs prize challenges, but there are further aspects of working with PPFL that the challenges \u2013 and this series \u2013 have not addressed. This includes considerations for working with real data across multiple jurisdictions. While PPFL removes the need to transfer, store or process real data centrally, additional considerations may apply when working with real data."
+        },
+        {
+            "heading": 2,
+            "text": "Future collaboration"
+        },
+        {
+            "text": "As a relatively novel and emerging approach to working with data in a privacy-centric way, PPFL has the potential to support greater innovation and foster collaboration in the future."
+        },
+        {
+            "text": "The UK and US have agreed to work together in further collaborative initiatives on privacy enhancing technologies. Building on this commitment, and on insights from our previous collaboration, The National Disease Registration Service and the US National Cancer Institute are working together over the next few months to explore how PETs can drive innovative research into rare paediatric cancers, through secure, privacy-preserving data collaboration between national disease registries. By using PETs, researchers can do cross-border data analysis without the need for data transfer or direct access; they can gain deeper insights without compromising data privacy. This activity is being supported by DSIT, the White House's Office for Science and Technology Policy, NIST, and the US Department of Energy, and coordinated with the National Science Foundation."
+        },
+        {
+            "text": "Collaboration using PETs, such as PPFL, will enable researchers to work around challenges that arise from the scarcity of data in individual countries. Using a federated approach as a mechanism for querying and/or modelling data will allow researchers to analyse data on rare paediatric cancers in a privacy-preserving way. This will allow researchers to analyse information in ways that were previously not possible due to the limited availability of data (at present, no single jurisdiction has access to a large enough dataset encompassing ultra-rare tumour types to conduct such analysis on their own)."
+        },
+        {
+            "text": "This approach also offers potential to scale research in the longer term, to include additional data from other jurisdictions in the analysis. Scaling to more countries could support a broader global initiative to foster collaboration on paediatric cancer."
+        },
+        {
+            "heading": 2,
+            "text": "Wider opportunities"
+        },
+        {
+            "text": "The wider ecosystem around PPFL is continuing to develop, with the establishment of more arenas for discussion and more opportunities for policy makers and researchers to align and collaborate on the horizon."
+        },
+        {
+            "text": "An example of this is the OECD\u2019s valuable work in fostering collaboration around PETs. The OECD is progressing this work to help realise the potential of PETs, including PPFL, for the near future, and to explore challenges and opportunities surrounding these technologies."
+        },
+        {
+            "text": "In May this year, the first OECD Workshop on Privacy Enhancing Technologies took place in London, co-hosted by the UK and Estonia. A second workshop followed in July, in Singapore, with more opportunities to build the ecosystem to follow. This will help to foster an international community around PETs with the potential to better align and co-ordinate discussion and development on policy across the ecosystem."
+        },
+        {
+            "heading": 2,
+            "text": "Additional information"
+        },
+        {
+            "text": "As an emerging approach for working with data, there is still much to learn and explore about PPFL, and PETs more broadly, in theory and practice. The links below provide further information on this, including examples of real-world use cases:"
+        },
+        {
+            "text": "If you would like to share feedback or additional ideas, please get in touch at:"
+        },
+        {
+            "heading": 2,
+            "text": "Acknowledgements"
+        },
+        {
+            "text": "With thanks to colleagues in NIST, DSIT, PETs Prize Challenge participants and data partners for the challenge."
+        }
+    ]
+}

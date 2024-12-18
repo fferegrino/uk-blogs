@@ -1,0 +1,115 @@
+{
+    "url": "https://defraenvironment.blog.gov.uk/2024/12/18/living-england-a-national-habitat-map-for-everyone/",
+    "title": "Living England: a national habitat map for everyone\u00a0",
+    "authors": [
+        "Amy Woodget"
+    ],
+    "categories": [
+        "Nature",
+        "NCEA programme",
+        "Research and data analysis",
+        "Wildlife"
+    ],
+    "pub_date": "2024-12-18T08:48:43+00:00",
+    "content": [
+        {
+            "text": "Living England is a national scale habitat map, freely available to everyone."
+        },
+        {
+            "text": "While more detailed maps exist for specific habitats and local areas, Living England is distinctive in its geographic coverage, offering a basis for mapping where localised data is lacking."
+        },
+        {
+            "text": "The Living England team have just published a major update, meaning that the map is more reliable and user-friendly than ever before."
+        },
+        {
+            "text": "I'm Amy Woodget, the Communications and Engagement Lead for the Living England project. In this post, I'm going to introduce the latest release of Natural England\u2019s \u2018Living England\u2019 dataset \u2013 a digital map providing information on England\u2019s broad habitats."
+        },
+        {
+            "text": "The map has been developed by Natural England through the Natural Capital and Ecosystem Assessment (NCEA) programme and partially funded by the Environmental Land Management schemes."
+        },
+        {
+            "text": "The NCEA is Defra\u2019s largest research and development programme, undertaking a nationwide survey of England\u2019s land, coast and sea. It aims to build a \u2018whole system\u2019 picture of the state of our natural environment, and Living England forms a key part of this endeavour, as we\u2019ll explain in this post."
+        },
+        {
+            "text": "For more information on the NCEA programme, please read our previous blog post."
+        },
+        {
+            "text": "The Living England map shows how habitats vary across England"
+        },
+        {
+            "text": "The latest version of Living England shows the extent and distribution of 16 different habitats across England for 2022-23. The bespoke habitat types we map are aligned with the UK Biodiversity Action Plan\u2019s broad habitat classification scheme."
+        },
+        {
+            "text": "From Living England, you can see that arable and horticultural land is the most common habitat, covering an estimated 38% of the country."
+        },
+        {
+            "text": "Types of grasslands, and built-up areas and gardens, also cover large swathes of England (29% and 11%, respectively). Coastal sand dunes and areas of bare sand cover the smallest areas, at less than 1% each."
+        },
+        {
+            "text": "Future versions of the map will aim to show us where habitats are growing or diminishing in size, in response to changes in the climate or land use. We\u2019re aiming to release the next update in 2026."
+        },
+        {
+            "text": "Living England is used widely for environmental policy and monitoring"
+        },
+        {
+            "text": "The map is already being used within and beyond Defra for environmental monitoring, conservation and land use planning. For example, it feeds into Natural England\u2019s Priority Habitats Inventory, Green Infrastructure mapping, Local Nature Recovery Strategies and the England Peat Map."
+        },
+        {
+            "text": "It provides essential data for assessing the quantity, quality and connectivity of England\u2019s habitats for the Environmental Improvement Plan. And it\u2019s helping to inform the spatial prioritisation of agricultural schemes by Defra\u2019s Environmental Land Management teams."
+        },
+        {
+            "text": "Elsewhere, Living England makes an important contribution to JNCC\u2019s\u00a0NCEA Landscape Evaluation project.\u00a0This\u00a0project produces and analyses satellite imagery to help assess how habitats are changing over time. It aims to help non-specialists identify substantial changes in habitat condition, for example from vegetation removal or\u00a0burning,\u00a0and\u00a0more\u00a0gradual\u00a0changes like the impacts of habitat restoration activities.\u00a0"
+        },
+        {
+            "text": "Living England provides important baseline data\u00a0on the expected location and classification of habitats,\u00a0so that habitat changes observed from satellite imagery can be more easily interpreted.\u00a0"
+        },
+        {
+            "text": "JNCC\u2019s Landscape Evaluation project\u00a0has great potential as a decision-support tool, helping to reduce costs by enabling more effective targeting of environmental surveys and management actions.\u00a0"
+        },
+        {
+            "text": "The Living England map is also being used outside of government \u2013 something made possible by its free availability under Open Government Licence."
+        },
+        {
+            "text": "Some private sector organisations are using it within tools designed to help landowners meet the government\u2019s new Biodiversity Net Gain requirements."
+        },
+        {
+            "text": "For example, Map Impact use it to help create their \u2018BiodiversityView\u2019 product, which assigns biodiversity scores to different habitats. Verna Earth Ltd use it within their \u2018ForestFounder\u2019 app to help identify suitable locations for tree planting, to offset biodiversity loss caused by developments."
+        },
+        {
+            "text": "Earth observation imagery, geospatial data and field surveys are essential inputs to Living England"
+        },
+        {
+            "text": "Living England uses a machine learning model (an artificial intelligence tool) to map England\u2019s habitats. For this to work well, we need to collect:"
+        },
+        {
+            "text": "Once we have this information, we teach the model to make connections between the known habitat type (established by field survey) and the satellite imagery and geographical data for the same location."
+        },
+        {
+            "text": "Essentially, the model learns what each habitat looks like in the data. The model can then use this knowledge to predict which habitat types are present even where we don\u2019t have field data."
+        },
+        {
+            "text": "Importantly, we also spot-check the predicted habitats with some of the field data to check that the model is getting things right."
+        },
+        {
+            "text": "Living England 2022-23 features a range of important updates"
+        },
+        {
+            "text": "The latest release of Living England is produced using a new method. The improvements we\u2019ve made include:"
+        },
+        {
+            "text": "Find out more"
+        },
+        {
+            "text": "If you\u2019re interested in using the habitat maps, these can be downloaded at data.gov.uk and will soon be available on MAGIC too."
+        },
+        {
+            "text": "For more information on the cutting-edge methods we use to create Living England or how we decide how reliable our habitat areas are, check out our Technical User Guide. You can read our latest case studies in the recent Natural England Chief Scientist\u2019s Report."
+        },
+        {
+            "text": "And for any enquiries, please email the team at livingenglandenquiries@naturalengland.org.uk."
+        },
+        {
+            "text": "With thanks to Anne Stefaniak (Living England Project Manager & Change Detection Lead, Natural England), Elizabeth Mitchell (Senior Engagement and Impact Officer for NCEA, Natural England) and the wider NCEA and Living England teams."
+        }
+    ]
+}
