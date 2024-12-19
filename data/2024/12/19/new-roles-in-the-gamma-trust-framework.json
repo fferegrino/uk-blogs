@@ -1,0 +1,76 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2024/12/19/new-roles-in-the-gamma-trust-framework/",
+    "title": "New Roles in the Gamma Trust Framework\u00a0\u00a0",
+    "authors": [
+        "Charlie Smith",
+        "Victoria Baines"
+    ],
+    "categories": [
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2024-12-19T13:16:08+00:00",
+    "content": [
+        {
+            "text": "Last month, we pre-released the gamma (0.4) publication of the trust framework. One of the main changes in this publication is the introduction of two new roles: the holder service provider and component service provider.\u00a0\u00a0"
+        },
+        {
+            "text": "This blog post takes a closer look at what these new roles do, why we introduced them, and how they support providers looking to get certified against this new publication.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Roles in the trust framework\u00a0"
+        },
+        {
+            "text": "To be certified against the trust framework, a service must fulfil at least one of the high-level \u2018roles\u2019 that OfDIA has defined. The range of roles reflects the diversity of products and services in the digital identity market, and providers need only demonstrate that their services follow the rules that apply to the role or roles that they fulfil.\u00a0\u00a0"
+        },
+        {
+            "text": "This flexibility helps the trust framework support innovative approaches while remaining outcomes-focused and technology-agnostic.\u00a0"
+        },
+        {
+            "text": "In the gamma trust framework, there are now five different roles:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Better reflecting the shape of the market\u00a0"
+        },
+        {
+            "text": "In previous versions of the trust framework, only the first three of these roles existed. Services offering holder and component functions were still accommodated, but as sub-types of the old IDSP role, which was more broadly defined.\u00a0\u00a0"
+        },
+        {
+            "text": "However, given the breadth of the old IDSP role, we heard it was not always clear which rules applied to some kinds of providers.\u00a0\u00a0"
+        },
+        {
+            "text": "For instance, requirements around managing users\u2019 accounts didn\u2019t make sense for IDSPs offering a \u2018one and done\u2019 service. Similarly, certification as IDSPs didn\u2019t suit providers that offered only component parts of a wider service, such as a specialist fraud monitoring function.\u00a0\u00a0"
+        },
+        {
+            "text": "By splitting-out the holder and component service provider roles in the gamma publication, our primary aim was to provide greater clarity for these kinds of providers. This should make it easier to ensure that services are meeting the right certification requirements.\u00a0\u00a0"
+        },
+        {
+            "text": "The CSP role, in particular, should also help increase supply chain transparency. Many end-to-end services already contain elements sourced from specialist third-party providers, like the fraud checks and face scans mentioned above.\u00a0\u00a0"
+        },
+        {
+            "text": "And, while there will be no need for every one of those parts to be certified under the gamma trust framework, end-to-end services that work with certified CSPs may find it easier and cheaper to prove compliance during their own certifications, as these parts will already have met the trust framework\u2019s standards.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Certification and multiple roles\u00a0\u00a0"
+        },
+        {
+            "text": "Services will still be able to be certified against multiple roles under the trust framework, as they always have done. The gamma publication just makes the distinctions clearer. For example, a digital wallet that derives a new attribute from identity information it was holding, such as a user\u2019s age from their date of birth, would be both an ASP and HSP.\u00a0\u00a0"
+        },
+        {
+            "text": "Where an end-to-end service like this fulfils multiple roles, it will continue to need to be certified against all requirements for those roles.\u00a0\u00a0"
+        },
+        {
+            "text": "Conformity Assessment Bodies will work with providers to understand the scope of the evaluations they need to perform, including which role(s) a provider is fulfilling. Certificates from Conformity Assessment Bodies will also continue to specify which role(s) a service has been certified against, so that relying parties and users can be sure exactly what services providers offer.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Do you have questions or feedback?\u00a0"
+        },
+        {
+            "text": "The introduction of these two new roles is a big step for the trust framework, and we want to know what you think. If you any have feedback or questions, please get in touch.\u00a0"
+        }
+    ]
+}
