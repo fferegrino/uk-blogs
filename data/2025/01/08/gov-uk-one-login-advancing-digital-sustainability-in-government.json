@@ -1,0 +1,92 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/01/08/gov-uk-one-login-advancing-digital-sustainability-in-government/",
+    "title": "GOV.UK One Login: Advancing digital sustainability in government",
+    "authors": [
+        "Jennifer Marks, Head of Digital Sustainability, GDS"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2025-01-08T14:26:48+00:00",
+    "content": [
+        {
+            "text": "In our last digital sustainability post, we wrote about our ambition to make GOV.UK One Login one of the most sustainable government digital services in operation. We discussed how we had begun this journey into digital sustainability; defining a digital service and the challenge of calculating our emissions. It took us nearly four months to develop a baseline and since then, things have moved very quickly."
+        },
+        {
+            "text": "The response to the last blog post was incredible \u2014\u00a0 it was inspiring to receive so many messages of interest, support and encouragement from so many across private and public sectors. If you reached out, thank you. If it spurred you on to address the emissions in your digital services \u2014 amazing! Keep going! (And please do share your experience.)"
+        },
+        {
+            "text": "Speeding up of another kind has also been happening, with the news coming out of COP29 that the irreversible tipping point of 1.5C has been passed. That means we\u2019ve now reached the level of global warming at which Earth systems are at risk of entering a dangerous zone. This will trigger critical changes with cascading consequences for economies and societies including intensifying wildfires, droughts, floods, invasive species, vector-borne diseases, crop failure, economic hardship and more. It makes for intensely sombre reading. It emphasises how important the work we\u2019re doing is right now and how important it is to keep going."
+        },
+        {
+            "heading": 2,
+            "text": "So what have we been doing?"
+        },
+        {
+            "text": "After we measured the baseline of GOV.UK One Login we knew we had to start considering how to reduce the emissions \u2014 after all what good is the baseline if we are not going to do something about it?"
+        },
+        {
+            "text": "We took the time to research and identify the actions we could take to actively reduce One Login\u2019s carbon emissions, but we needed to understand and work out if these actions would keep emissions down, especially as the system continued to develop and onboard more and more government services (now exceeding 50!) meaning more emissions. We also needed to consider increasing digital emissions against the emissions produced by alternative user journeys like driving to a Post Office. Our goal is to make digital as sustainable as it can be and this involves making sustainable solutions scalable so the emissions savings accumulate."
+        },
+        {
+            "text": "There were some easy wins, including changing processor architecture to get an average 72% reduction in power consumption with our processors. This had some impact but we realised that even implementing these best practice interventions had a limited effect. So we had to go deeper\u2026.. Where to look next?"
+        },
+        {
+            "text": "We decided to partner with Greenpixie\u00a0 to explore in more detail the connection between FinOps and GreenOps. Greenpixie took our AWS cost and usage data to measure\u00a0 One Login's cloud emissions. From that they were able to provide a comprehensive emissions profile, including energy and water consumption, for every cloud service used."
+        },
+        {
+            "heading": 2,
+            "text": "What did we find? \u00a0"
+        },
+        {
+            "text": "We found our emissions had gone up at the beginning of the year as we increased services and therefore more users. However,\u00a0 from February to June the data showed a reduction of cloud emissions by approximately 40 tonnes of CO2e per month \u2014 our optimisations were having an impact!"
+        },
+        {
+            "text": "These dashboards are now able to monitor changes at a system or team level and really start to zero in on the impact of improvements from the start. It also means that any increase could be identified and addressed early. But crucially the dashboards show us a critical point of view: emissions against cost.\u00a0"
+        },
+        {
+            "text": "We can now prove that making sustainable decisions is not just nice for the planet, but that\u00a0 those decisions will actively reduce cost.\u00a0 So work is now underway with the One Login team to demonstrate this. But these are not small tweaks \u2014 this is major improvement work involving the breadth of the One Login team  and this takes time to implement and time to measure."
+        },
+        {
+            "heading": 2,
+            "text": "Turn and face the change"
+        },
+        {
+            "text": "As with all our changes, we have a significant responsibility to ensure that any changes we make are both sustainable and practical \u2014 that in our efforts to be sustainable we continue to ensure that we strike a fine balance between user needs, performance AND sustainability."
+        },
+        {
+            "text": "Now improvements and dashboards to monitor them are very important. They demonstrate the wealth of opportunities available to reduce our emissions and make One Login more efficient and more sustainable. But if we want to really make One Login a truly sustainable digital service we need to embed sustainability principles and practises throughout the whole team.\u00a0 Focusing on building digital resiliency would have a greater and longer lasting impact than just efforts to decarbonise. Ultimately, we want digital sustainability to be as important a consideration in building and developing digital services in government as accessibility is."
+        },
+        {
+            "text": "Digital sustainability is still a developing area \u2014 people understand the challenge but are unclear how they, as digital professionals, can help, can really make a difference.\u00a0"
+        },
+        {
+            "text": "We developed Digital Sustainability 101 Training and at the time of publishing this has been delivered to over 250 One Login Team members and more. Teams who were always interested in sustainability, but did not necessarily know how to enact change are now informed and empowered to consider sustainability in their decision making. We are now looking to extend and tailor the training so we can support other teams build their own sustainability capability.\u00a0"
+        },
+        {
+            "text": "Beyond our own teams, we are working with the Home Office and their Law Enforcement Data Service to measure their emissions and offer training and support the building of their own sustainability capability. (I did say we have been very busy!)"
+        },
+        {
+            "heading": 2,
+            "text": "But what now\u2026..? "
+        },
+        {
+            "text": "Well, the rest of GDS services beckon and we will be re-measuring GOV.UK with an enhanced methodology; as well as measuring Pay, Notify and Forms and our ambition is to embed digital sustainability across all GDS services.\u00a0"
+        },
+        {
+            "text": "We continue to work closely with the DEFRA led Digital Sustainability X-Government Group to address key issues around policies, standards and frameworks in critical areas including procurement, emissions measurement, learning & development\u00a0 and more.\u00a0 At the start I mentioned the heartwarming response to our last blog post, but seeing government departments unite, collaborate and support each other to develop solutions on this most mammoth of challenges is both enlightening and gives me hope that we can make a difference, that we can address climate change in one of the fastest growing emissions areas \u2014 technology!\u00a0"
+        },
+        {
+            "text": "We need to act and we need to act now. We need to speed up the green transition. We need to act and empower change at all levels. Everyone has a role to play and everyone can make a difference. There is lots we can and must do \u2014 small changes done by the many can have a big impact .\u00a0"
+        },
+        {
+            "text": "For example, you can make a change right now. Change the digital device you are reading this on to Low Power Mode. Low Power Mode reduces energy use by reducing the amount of power a device uses by among many others; shutting off apps activity not being used and reducing the brightness of the display  which is incredibly power consuming. Low Power Mode also helps to preserve a device's battery health by regulating its temperature and preventing it from becoming too hot, and thus can help extend the lifespan of a device."
+        },
+        {
+            "text": "It is a small change that will make a big difference\u2026especially if everyone activates it on all their devices."
+        },
+        {
+            "text": "If you\u2019re out there and you\u2019re reading this and you\u2019ve done work in this area and have tips, tools, how-to-guides or ideas about how to help please do get in touch with the GDS Digital Sustainability Team so we can share ideas and move forwards together.\u00a0"
+        }
+    ]
+}
