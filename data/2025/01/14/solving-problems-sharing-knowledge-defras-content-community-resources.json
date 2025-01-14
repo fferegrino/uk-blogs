@@ -1,0 +1,167 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/01/14/solving-problems-sharing-knowledge-defras-content-community-resources/",
+    "title": "Solving problems, sharing knowledge: Defra's content community resources",
+    "authors": [
+        "Ayesha Tinsley"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "User centred design"
+    ],
+    "pub_date": "2025-01-14T10:00:25+00:00",
+    "content": [
+        {
+            "text": "Ayesha Tinsley explains how her team improved the content community's resources board, in the last in our series on Defra content community projects."
+        },
+        {
+            "text": "How do I\u2026? Is there\u2026? What is\u2026?"
+        },
+        {
+            "text": "In our Defra content community, when you had a question like this, you used to be able to look to the 'resources Trello board' to find an answer."
+        },
+        {
+            "text": "This resources board had developed over time, with years of contributions from many authors. It was a useful way to share knowledge, information, how-tos and tips with the community. We recorded it all on a board using the project management tool Trello. Everyone in the content community could add to and use this shared resource."
+        },
+        {
+            "heading": 2,
+            "text": "Time to change"
+        },
+        {
+            "text": "Problems started to develop with our resources board. In May 2024, Trello changed to a paid-for version for workspaces of more than 10 people. This meant our resources board was now read-only, and community members could no longer edit it."
+        },
+        {
+            "text": "Our content community was also growing, and new members didn't have access to the board at all. It was important to solve these problems as soon as we could."
+        },
+        {
+            "heading": 2,
+            "text": "Finding a new home"
+        },
+        {
+            "text": "The solution was to find an alternative platform to host our resources. To do this, we set up a content community project. Nine of us from across the community signed up to work together on this."
+        },
+        {
+            "text": "The aims of the project were to:"
+        },
+        {
+            "heading": 2,
+            "text": "What the content community needed"
+        },
+        {
+            "text": "We knew who our users were, but we had to find out their needs. So we wrote a message on Slack to the whole content community asking them to tell us:"
+        },
+        {
+            "text": "Examples of the responses included:"
+        },
+        {
+            "text": "\u201cThe board is packed with golden nuggets.\u201d"
+        },
+        {
+            "text": "\u201cIt has resources to use if we're asked questions like \u2018but why won\u2019t you publish my frequently asked questions?!\u2019\u201d"
+        },
+        {
+            "text": "\u201cThere are best practice templates to send to SMEs (subject matter experts).\u201d"
+        },
+        {
+            "text": "With this feedback we understood our user needs, so we could list the requirements for the new platform and the problems it would need to solve."
+        },
+        {
+            "text": "For example:"
+        },
+        {
+            "text": "As a member of the Defra content community"
+        },
+        {
+            "text": "I need resources on the board to be kept up to date"
+        },
+        {
+            "text": "So I don't waste time looking at outdated or old resources"
+        },
+        {
+            "heading": 2,
+            "text": "Finding a technical solution"
+        },
+        {
+            "text": "Next, we explored possible options for the new platform and rated their pros and cons. Some examples included Microsoft Planner, SharePoint and Mural."
+        },
+        {
+            "text": "Microsoft Planner:"
+        },
+        {
+            "text": "SharePoint:"
+        },
+        {
+            "text": "Mural:"
+        },
+        {
+            "text": "After reviewing possible technical solutions and user needs, we were able to decide on the new platform. The location that stood out as being the most suitable was the content team SharePoint site."
+        },
+        {
+            "heading": 2,
+            "text": "Making the move"
+        },
+        {
+            "text": "The resources board had a lot on it. Our next step was to do an audit, recording everything on the board on an Excel spreadsheet."
+        },
+        {
+            "text": "From here, we could decide what content to move over and what to archive. For example, we kept resources that were current and helpful, and archived those that were out of date and no longer useful. This allowed us to map out ideas for the new information architecture using Mural."
+        },
+        {
+            "text": "After we\u2019d done this, we were ready to start moving the information from the Trello board to the SharePoint site."
+        },
+        {
+            "heading": 2,
+            "text": "Testing the new information architecture"
+        },
+        {
+            "text": "Once everything was on the SharePoint site, our next step was to test it with our content community. We asked for volunteers and hosted user research sessions where we asked people to find different information. This tested the effectiveness of the new information architecture and allowed us to gather more feedback."
+        },
+        {
+            "text": "Users mentioned the button titles and page links were unclear, so we revised them for clarity and improved navigation. Users also felt some resources weren\u2019t where they would expect to find them, so we made improvements to the information architecture too."
+        },
+        {
+            "heading": 2,
+            "text": "Naming the resources board"
+        },
+        {
+            "text": "Now the \u2018resources board\u2019 had a new home, it needed a new name. It was no longer a board, and there were already quite a few folders on SharePoint called \u2018resources\u2019."
+        },
+        {
+            "text": "We pulled together a list of options on Mural so we could discuss them."
+        },
+        {
+            "text": "Comments included:"
+        },
+        {
+            "text": "\u201cTeam toolkit \u2013 too specific, would you look for learning and development content in a toolkit?\u201d"
+        },
+        {
+            "text": "\u201cKnowledge base \u2013 knowledge is a likeable word, and it covers many bases\u201d"
+        },
+        {
+            "text": "\u201cCommunity hub \u2013 sounds like a social platform\u201d"
+        },
+        {
+            "text": "Once we had a list of names, we asked the community to vote for their favourite. The winner was 'community resources'."
+        },
+        {
+            "heading": 2,
+            "text": "Planning future improvements"
+        },
+        {
+            "text": "Our minimum viable product was ready. We had a limited period to deliver on this project, so our last task was to outline our recommendations for future improvements."
+        },
+        {
+            "text": "These included:"
+        },
+        {
+            "text": "The community resources now have a new home on the SharePoint site, but this is not the end of their story. The community will need to collaboratively iterate the resources over time, adding knowledge, information, how-tos and tips to grow our shared resources on their new platform."
+        },
+        {
+            "text": "We will not be alone in needing to maintain a shared resource. We'd love to hear from other content communities across government about what they've done or are doing to solve this problem. Let us know in the comments!"
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow."
+        }
+    ]
+}

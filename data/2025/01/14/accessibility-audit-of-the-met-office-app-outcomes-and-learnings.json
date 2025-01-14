@@ -1,0 +1,122 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2025/01/14/accessibility-audit-of-the-met-office-app-outcomes-and-learnings/",
+    "title": "Accessibility audit of the Met Office app: outcomes and learnings",
+    "authors": [
+        "Andrew Hick, Senior Accessibility Specialist, Government Digital Service",
+        "Eu-Hyung Han, Senior Accessibility Specialist, Government Digital Service",
+        "Sophie Yeomans-Smith, Digital Product Manager, Met Office"
+    ],
+    "categories": [
+        "Accessibility",
+        "Accessibility Monitoring"
+    ],
+    "pub_date": "2025-01-14T08:53:45+00:00",
+    "content": [
+        {
+            "text": "The Accessibility Monitoring team at Government Digital Service (GDS) audits public sector websites and mobile applications (apps) to see if they meet The Public Sector Bodies (Website and Mobile Applications) (No.2) Accessibility Regulations 2018 (\u201cthe accessibility regulations\u201d)."
+        },
+        {
+            "text": "The accessibility regulations require public sector websites and mobile apps to:"
+        },
+        {
+            "text": "Our work in monitoring compliance has a direct impact on enabling access to public services for anyone with access needs which often improves the experience for all. We inform organisations when they are not meeting their legal obligations, but this provides an important opportunity for growth and improvement for everyone involved."
+        },
+        {
+            "text": "It\u2019s important to recognise the hard work that takes place across the public sector, particularly when organisations go above and beyond legal requirements."
+        },
+        {
+            "text": "One such organisation is the Met Office. Their Met Office weather app has over 5 million downloads on Android, and is the top ranking weather app in the UK on iOS."
+        },
+        {
+            "heading": 2,
+            "text": "How we tested"
+        },
+        {
+            "text": "We explored tandem testing for this audit, which involved two accessibility specialists sharing the test. We split the testing by device, one person tested on Android and the other on iOS."
+        },
+        {
+            "text": "At first tandem testing felt a little slower. Schedules needed to be aligned, the testing order needed to be agreed upon, and there were lots of discussions about our findings, such as \u201cDid you find this issue?\u201d, \u201cWhich success criteria should we record this issue under?\u201d, \u201cShould we flag this issue under best practice?\u201d"
+        },
+        {
+            "text": "However, there were several advantages:"
+        },
+        {
+            "text": "So despite the initial time investment, the tandem approach kept us sharp, motivated and confident in our test output."
+        },
+        {
+            "heading": 2,
+            "text": "How the Met Office responded"
+        },
+        {
+            "text": "The Met Office\u2019s were positive from the outset, showing a genuine commitment to engage with the process.\u00a0"
+        },
+        {
+            "text": "Within the first week, they had reviewed the report and were raising questions to better understand the issues.\u00a0"
+        },
+        {
+            "text": "Our report also included \u201cbest practice\" suggestions which are accessibility issues we find that go beyond the legislative requirement. The Met Office acknowledged these suggestions and took steps to resolve them."
+        },
+        {
+            "text": "The suppliers, Calvium and Made Tech, who are private companies, were fully supportive of the monitoring process and had even proposed changes to the app to improve its accessibility.\u00a0"
+        },
+        {
+            "text": "By the end of our process, all accessibility issues identified in our report were fixed, and the accessibility statements for both apps were fully compliant."
+        },
+        {
+            "heading": 2,
+            "text": "Productive discussions"
+        },
+        {
+            "text": "Throughout the process, we engaged in numerous discussions with both our team and the Met Office's team to ensure everybody had the same understanding. We were able to help them resolve issues and in turn they helped us to learn more about mobile app functionality."
+        },
+        {
+            "heading": 3,
+            "text": "Android roles"
+        },
+        {
+            "text": "One issue we raised was that on Android, the screen reader was not accurately relaying the role of every component on screen. Based on our discussions and a blog post from Graeme Coleman about Android roles, we learnt that it is sufficient for some interactive elements to be presented to TalkBack users with the text \u201cdouble-tap to activate\u201d."
+        },
+        {
+            "heading": 3,
+            "text": "Keyboard shortcuts"
+        },
+        {
+            "text": "We test apps using an external keyboard but we know that apps are not always optimised for keyboard use. Our discussions with the app team helped to highlight the following shortcuts on Android:"
+        },
+        {
+            "heading": 3,
+            "text": "In-app advertisements"
+        },
+        {
+            "text": "As the Met Office app is supported by advertisements, we needed to make sure these did not interfere with the rest of the page, for example, by having distracting animations that cannot be paused. The app team addressed this by building an additional accessible button to dismiss adverts, ensuring it works for both keyboard and screen reader users."
+        },
+        {
+            "heading": 2,
+            "text": "What good looks like"
+        },
+        {
+            "text": "We are keen to highlight the positives where we can, and the Met Office\u2019s team have demonstrated \u201cwhat good looks like\u201d by going beyond legal compliance to make many accessibility improvements to the app.\u00a0"
+        },
+        {
+            "text": "Here are examples of improvements the Met Office made to adhere to the regulations:"
+        },
+        {
+            "text": "Here are examples of improvements the Met Office made beyond regulatory requirements:"
+        },
+        {
+            "text": "Thank you to Sophie Yeomans-Smith from the Met Office who coordinated the fixes and said:"
+        },
+        {
+            "text": "\u201cI am just so grateful for the hard work of the GDS accessibility monitoring team in identifying and helping us overcome the issues.\u00a0"
+        },
+        {
+            "text": "\u201cOur purpose as an organisation is to help people make better decisions to stay safe and thrive, so it is very important to us that the information in our mobile app is accessible to everyone."
+        },
+        {
+            "text": "\u201cIt is often tricky to find something that works with all the different types of devices and operating systems that the mobile app can be run on. We also need to make sure we are efficient with what we implement, utilising the technologies available within the device software rather than building our own from scratch. The Web Content Accessibility Guidelines are a good guide for website development but there are often grey areas with its application to mobile apps."
+        },
+        {
+            "text": "\u201cIt was really great to have the help and advice from your team so we could feel confident in providing a better experience for our users, and keep building and improving on our working practices.\u201d"
+        }
+    ]
+}
