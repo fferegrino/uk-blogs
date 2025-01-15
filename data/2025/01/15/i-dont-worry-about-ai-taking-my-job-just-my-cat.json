@@ -1,0 +1,91 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/01/15/i-dont-worry-about-ai-taking-my-job-just-my-cat/",
+    "title": "I don\u2019t worry about AI taking my job \u2013 just my cat",
+    "authors": [
+        "Michaela Hoffmannova, Data Scientist"
+    ],
+    "categories": [
+        "Careers",
+        "Data",
+        "Innovation"
+    ],
+    "pub_date": "2025-01-15T12:19:12+00:00",
+    "content": [
+        {
+            "text": "\u201cAm I better at my job than my cat?\u201d That\u2019s a question I had to ponder when my cat managed to book a meeting with me while I was away from my desk making a cup of tea (true story).\u00a0\u00a0"
+        },
+        {
+            "text": "The thing is, I wouldn\u2019t have been so sure about this when I first started my job as a data scientist at the Ministry of Housing, Communities and Local Government (MHCLG). A complete change of career and unfamiliarity with the Civil Service left me a little disoriented.\u00a0\u00a0"
+        },
+        {
+            "text": "My cat was, probably, more capawble (sorry) at the time. But that\u2019s certainly not the case anymore, thanks to the fantastic, supportive team I work in \u2013 MHCLG\u2019s Data Unit.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What do we actually do?\u00a0"
+        },
+        {
+            "text": "To put it plainly, we are a very data-centric unit (as you might have guessed from the name). The Data Unit boasts a strong team of data specialists, engineers, scientists, and plenty of other roles that I can\u2019t summarise by putting \u2018data\u2019 in front of it.\u00a0\u00a0"
+        },
+        {
+            "text": "The team is focused on helping the department achieve its priorities. MHCLG has a broad remit, from housing, homelessness and rough sleeping to community cohesion and local government. One way we deliver ministerial and departmental missions is by exploiting innovative data science techniques to bring rapid place-based insights via modelling, geospatial analysis and visualisations.\u00a0"
+        },
+        {
+            "text": "As a team, we enable decision-making by providing data, infrastructure and tools that benefit the wider department (for example, with our data explorer tool Atlas).\u00a0\u00a0"
+        },
+        {
+            "text": "Another of our priorities is improving the department\u2019s data maturity so all teams in the department can better manage and use our data, improve our own skills and the systems we use to work with data.\u00a0"
+        },
+        {
+            "text": "We also work with local partners and the Office for National Statistics (ONS) to support English devolution. This involves supporting data-sharing and access across government, as outlined in the English Devolution White Paper.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where do I fit into all this?\u00a0"
+        },
+        {
+            "text": "One focus of my work is to support the local growth agenda through evaluation of interventions at a local level. We need to know what types of interventions work in different areas to make best use of public funds.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "As a data scientist, I support this work by summoning tech magic to find solutions to complex problems. For example, I needed to categorise the intervention projects into themes so that we could separately evaluate the impact of each intervention type. The issue was that the data was like one large kitchen cabinet full of mismatched Tupperware, lost spoons and forgotten corkscrews.\u00a0\u00a0"
+        },
+        {
+            "text": "Not every project had explicit information on the theme, and the formatting varied greatly. Instead of manually looking over thousands of words to tidy this \u2018cabinet\u2019, I researched different Natural Language Processing techniques for a smarter solution. I built a machine learning model to analyse text and identify word patterns. And ta-da \u2013 we had interventions quickly and painlessly sorted into categories. I can only wonder how my cat would\u2019ve done it\u2026\u00a0\u00a0"
+        },
+        {
+            "text": "I managed to get plenty of other experiences under my belt in the last year \u2013 having worked on 5 different projects and dabbling in data engineering and software development roles.\u00a0"
+        },
+        {
+            "text": "I helped build a rapid automated pipeline to instantly produce statistical analysis packs in just minutes instead of weeks. I worked on a dashboard enabling easy access to crucial information for another team, directing their efforts where most needed. I also have a hand in the geospatial data explorer tool Atlas, bringing in new data and implementing a layering feature.\u00a0"
+        },
+        {
+            "text": "I love that in this team, I am encouraged to voice my interests and hold the steering wheel on where I want to develop further. There are many open doors.\u00a0\u00a0"
+        },
+        {
+            "text": "For the time being, I know that I want to remain in a technical role. I enjoy programming and solving problems \u2013 it\u2019s like sudoku and jigsaws all day long, except with a tangible public benefit. The question is \u2013 should I carry on being a data scientist, or move towards engineering or software development? Fortunately, there are opportunities for me to experience these roles and make the best decision about my future.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our culture"
+        },
+        {
+            "text": "Despite being based all over the country, the Data Unit is a vibrant, social and supportive place. We like to collaborate and regularly share what\u2019s happening in each of our workstreams. I have to say, I was inspired with everyone\u2019s hard work and eagerness to help \u2013 and I wanted to give a little back. So, these are some ways in which I support the culture and development of our team.\u00a0"
+        },
+        {
+            "text": "We hold weekly demos (online events) for our team, which I help organise. The purpose of these is to showcase work and share knowledge, inviting speakers from inside and outside of government.\u00a0\u00a0If you are interested in presenting your work at one of our events, fill out this form. "
+        },
+        {
+            "text": "I also joined our social team conjuring fun, team-building activities, both around regular away days and in the normal working week. As part of this, I set up a coffee roulette which prompts our team to take a short break over an informal coffee chat. This small action helps break down silos by getting to know colleagues we wouldn\u2019t normally work with better, forging stronger team bonds and sparking collaboration opportunities."
+        },
+        {
+            "heading": 2,
+            "text": "Reflections\u00a0"
+        },
+        {
+            "text": "You might be surprised to hear that I\u2019ve only been on this career path for a year. Previously a biomedical scientist, I didn\u2019t have much experience in this field. I was able to step in and upskill so quickly by applying via the ONS Data Science Graduate Programme, where, alongside my day job, I attend monthly teaching sessions to learn about the foundations of data science. The programme is now sadly discontinued, but there are lots of different avenues available to get into a range of Civil Service roles, such as apprenticeships.\u00a0\u00a0"
+        },
+        {
+            "text": "Although I originally wanted to stay in the healthcare domain, I feel really lucky that I landed in this team, right in this role. I think our team's success comes from collaboration, innovation and the passion of my colleagues to serve the public good. This is a passion I now share too, so I\u2019m afraid my cat is going to have to retire.\u00a0"
+        }
+    ]
+}
