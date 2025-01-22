@@ -1,0 +1,111 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/01/22/how-we-delivered-more-than-1500-digital-export-journeys/",
+    "title": "How we delivered more than 1,500 digital export journeys",
+    "authors": [
+        "Liam Bancroft"
+    ],
+    "categories": [
+        "Defra interaction",
+        "Defra service design",
+        "Defra services"
+    ],
+    "pub_date": "2025-01-22T17:02:49+00:00",
+    "content": [
+        {
+            "text": "Liam Bancroft, a Product Owner in the Animal & Plant Health Agency (APHA) Borders and Trade team, shares his insights into the work he has been leading to develop a digital service for those seeking to export animals and animal products."
+        },
+        {
+            "text": "The Export Health Certificates Online service launched five years ago and enabled a digital journey for exporters of animals and animal products to get an export health certificate (EHC). Since launch, the service has processed more than 1.8 million certificates, helping to support the UK\u2019s vital agri-food export trade, with \u00a323.6 billion exported annually to the EU alone."
+        },
+        {
+            "heading": 2,
+            "text": "Building for flexibility and maintainability"
+        },
+        {
+            "text": "One of the unique challenges of exporting is the broad range of rules and regulations that goods must adhere to, depending on where they\u2019re being sent. For us, this means needing to cater for thousands of different EHCs, including \u201cSheepskin to China\u201d and \u201cDairy to Australia\u201d, each requiring a different set of information. Furthermore, these certificates are updated regularly, as importing country requirements change."
+        },
+        {
+            "text": "As a result, when designing EHC Online, we knew configurability would be key to delivering the volume of digital journeys required, and to enable us to respond rapidly to change. So, rather than developing each journey through bespoke code, we developed a form-builder, which empowered Animal & Plant Health Agency (APHA) staff to configure, iterate and publish digital journeys themselves."
+        },
+        {
+            "heading": 2,
+            "text": "Setting user-centred foundations"
+        },
+        {
+            "text": "EHC Online was designed in a user-centred way, and our user researchers continually validated our assumptions with real users to inform development. This input highlighted that it wouldn\u2019t be enough to design the form-builder well \u2013 the content configured by form administrators would need to be user-centred too."
+        },
+        {
+            "text": "We started by embedding a content designer and interaction designer into the form-building team, to produce initial form designs ready to test. We carried out usability testing on a selection of configured forms, to understand how users would interact with the content, and then used these to iterate our designs."
+        },
+        {
+            "text": "But we knew the approaches we took for the first few forms would need to consistently scale-up to cater for the thousands of forms that would be configured. So, we created a set of design principles to guide those configuring the forms on how to frame page titles consistently, and how to order content and pages. We put together a content library \u2013 a spreadsheet of usability-tested content \u2013 which promoted reuse and enabled consistency across content."
+        },
+        {
+            "text": "Lastly, we knew user research would be key to ensuring we were meeting users\u2019 needs, but it wouldn\u2019t be feasible to do multiple rounds of usability testing on each of the 1,500-plus journeys. So, we adopted a risk-based approach by segmenting user groups, the types of goods they work with and the countries they were exporting to. We invested more research time into higher volume journeys, non-standard journeys or where a new segment hadn\u2019t been encountered before. Over time we were able to gradually scale down the level of user research, to a point where it would only be required by exception \u2013 when a new pattern, concept or user group was encountered for the first time."
+        },
+        {
+            "heading": 2,
+            "text": "Embracing agility"
+        },
+        {
+            "text": "The form administration team in APHA wanted to deliver value to users continuously, working from the most impactful and highest-volume journeys first, before tackling the lower-volume journeys. They also needed the flexibility to respond to change, withdrawing or altering existing journeys as new importing country requirements come into force."
+        },
+        {
+            "text": "Prior to adopting agile practices, the team\u2019s process was a tangle of spreadsheets and post-its which resulted in slow production, cumbersomely manual quality checks and journeys which weren\u2019t coherent in their language, layout or flow."
+        },
+        {
+            "text": "The team then adopted an agile approach to form configuration, based on Kanban. The team visualised their work on a Kanban board, which had the added benefit of highlighting any bottlenecks or blockers. Our design principles ensured each form the team designed had the same flow, with content written in a consistent voice.\u00a0 If any design issues arose, the team had a set of guiding principles to fall back on which really aided problem solving."
+        },
+        {
+            "text": "Over time, this enabled the team to optimise their effort to increase the flow of work and streamline the delivery of value."
+        },
+        {
+            "text": "For example, in the initial process, form administrators would prototype their ideas in Microsoft PowerPoint before configuring them on the system. But over time, they identified this step took longer than simply configuring the form on the system and making any required adjustments there. So, they adjusted their process accordingly, which increased throughput and reduced the average turnaround time."
+        },
+        {
+            "heading": 2,
+            "text": "Quality-focus"
+        },
+        {
+            "text": "In the same way software programming requires manual effort and interpretation of requirements, so does form configuration. We recognised that where manual human configuration takes place, issues will always occur."
+        },
+        {
+            "text": "Borrowing from software development processes, the team built peer review and acceptance testing steps into the process to ensure any issues were captured before the forms were made live to users. Over time, as common problems were encountered, the team amended their quality assurance checklists, and the number of issues identified reduced."
+        },
+        {
+            "text": "These checklists enabled all issues to be captured in the initial stages, and no content or design issues would be uncovered in the second stage of \u201cacceptance testing\u201d. This offered another opportunity to simplify and streamline the process, so the quality assurance steps of the process were brought together into a single step, further increasing throughput."
+        },
+        {
+            "text": "The team built feedback loops into their process to ensure they had visibility on any issues with the forms they published. Over time, they were able to build up evidence to demonstrate the quality of their outputs. They used this evidence to agree a delegated authority for the team to publish new form journeys themselves without requiring external approval, which removed 1to 3 days from the average turnaround time."
+        },
+        {
+            "heading": 2,
+            "text": "Optimising over time"
+        },
+        {
+            "text": "APHA\u2019s form administration team have been able to provide a valuable insight into how form-building tools should work. Through feedback from this team, we understood the importance of being able to \u201ctest\u201d forms before publishing them for production use."
+        },
+        {
+            "text": "Without an ability to publish a form for testing, the form administration team would need to configure their forms on a non-production environment for testing. The scope for manual error in replicating this configuration on 2 environments would impact quality and in turn slow down throughput. So, EHC Online\u2019s development team extended the form-building capability to provide this feature, in turn reducing form administration effort and speeding up throughput."
+        },
+        {
+            "heading": 2,
+            "text": "Leveraging the investment"
+        },
+        {
+            "text": "As we reflect on 5 years of form administration, we are proud of what EHC Online has achieved so far. It has been recognised by the Central Digital & Data Office as a \u2018Top 75\u2019 government service, forming a key part of the 2025 roadmap for digital and data. Its success was only possible because we built a scalable platform and set up an effective form-building operation. To date, we have delivered more than 1,500 digital journeys to users, while achieving 93% customer satisfaction."
+        },
+        {
+            "text": "Over this time, EHC Online\u2019s form-building tool has been re-used to accelerate the delivery of other digital trade journeys, including the Plant Health Export Service and Northern Ireland Retail Movement Scheme."
+        },
+        {
+            "text": "It\u2019s clear form-building platforms are here to stay, evidenced by the uptake of platforms such as GOV.UK Forms. We were happy to have been able to feed our experiences into the Defra Forms team, and excited to see their work progress as they pave the way for the next generation of digital form-building tools for Defra."
+        },
+        {
+            "text": "Liam Bancroft is a Product Owner in the Animal & Plant Health Agency (APHA) Borders and Trade team."
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow."
+        }
+    ]
+}
