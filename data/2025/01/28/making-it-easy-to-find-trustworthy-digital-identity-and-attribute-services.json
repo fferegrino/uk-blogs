@@ -1,0 +1,68 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/01/28/making-it-easy-to-find-trustworthy-digital-identity-and-attribute-services/",
+    "title": "Making it easy to find trustworthy digital identity and attribute services",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Register of digital identity and attribute services",
+        "Trust mark"
+    ],
+    "pub_date": "2025-01-28T12:26:56+00:00",
+    "content": [
+        {
+            "text": "You shouldn\u2019t have to be an expert in trust frameworks and certification to be able to identify a trustworthy digital identity service. And we\u2019re doing two things to mean you don\u2019t have to be:"
+        },
+        {
+            "text": "Together, the register and the trust mark will make it easy to know whether a digital identity and attributes service is good enough, or it isn\u2019t."
+        },
+        {
+            "heading": 2,
+            "text": "We already maintain a register"
+        },
+        {
+            "text": "When the government published its response to the digital identity and attributes consultation, we said that we would create a publicly available register so that organisations and end users could verify if the service they are interacting with was certified against the UK digital identity and attributes trust framework and supplementary codes."
+        },
+        {
+            "text": "We already operate a proof of concept for the register. Today, the register is very simple: a spreadsheet, hosted on GOV.UK. That spreadsheet contains the name of the company running the service, some basic information about its certification, and where you can go to get more information about that service."
+        },
+        {
+            "text": "Whilst conformity assessment bodies maintain their own registries, having a single place to find this information simplifies the task of finding a suitable service and we know that presence on this list impacts purchasing decisions for businesses looking to use digital identity services."
+        },
+        {
+            "text": "We are currently building a new digital service to replace this spreadsheet, that will be entering public beta very soon. Our product manager, Laura Dias, has written about some of the improvements that will be happening as part of our \u201cpublic beta\u201d which starts next month."
+        },
+        {
+            "heading": 2,
+            "text": "A trust mark will be introduced soon"
+        },
+        {
+            "text": "We also said in the consultation that we would issue a government trust mark to services that are on the register. You\u2019ll be familiar with trust marks from lots of other places;\u00a0symbols like the Red Tractor for food, Gas Safe for gas engineers and UKCA for things like toys, lifts and phones."
+        },
+        {
+            "text": "After the Data (Use and Access) Bill becomes an Act of Parliament, once services have been certified against a version of the trust framework recognised in law and they join our register on the basis of their certification, we will begin issuing the trust marks."
+        },
+        {
+            "text": "We\u2019re not quite ready to show you the trust mark yet; but we\u2019re designing the register and the trust mark, from the outset, to work together."
+        },
+        {
+            "text": "Every trust mark we issue will have a six-digit number attached to it. Users will be able to enter that number into our register in the future and check who it belongs to, to verify its authenticity. This should make it easier to spot when someone is fraudulently using a trust mark on their service or website; the numbers won\u2019t lie!"
+        },
+        {
+            "text": "We\u2019re also looking at how we can allow relying parties to use wider trust mark branding as an \u2018acceptance mark\u2019. We think this will make it easier for consumers to know where and when they can use reusable digital identities in the future; like for alcohol purchases in retail settings."
+        },
+        {
+            "text": "It\u2019s critically important that the trust mark itself is trusted. In part, this means ensuring it is only ever used by those authorised to use it. And so, in parallel with issuing the trust mark we will also establish a set of legal protections and safeguards that mean we are able to take swift action against any abuse."
+        },
+        {
+            "heading": 2,
+            "text": "Building the foundations"
+        },
+        {
+            "text": "The trust framework, certification process, register and trust mark are the foundations of trust in this new technology-agnostic, standards-based digital identity ecosystem. The cornerstones we\u2019ve already put in place are enabling the growing adoption of digital identity services across the economy."
+        },
+        {
+            "text": "We want to go even further though; through a new \u2018information gateway\u2019 and opening up new ways and places to use digital identity services. We\u2019ll be blogging more about those, soon."
+        }
+    ]
+}
