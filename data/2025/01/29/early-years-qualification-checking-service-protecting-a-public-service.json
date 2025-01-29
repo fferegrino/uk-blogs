@@ -1,0 +1,76 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2025/01/29/early-years-qualification-checking-service-protecting-a-public-service/",
+    "title": "Early years qualification checking service: Protecting a public service",
+    "authors": [
+        "Robert Gammon"
+    ],
+    "categories": [
+        "Collaboration",
+        "Content design",
+        "design",
+        "multidisciplinary teams",
+        "Service design",
+        "Service standard",
+        "User-centred design"
+    ],
+    "pub_date": "2025-01-29T10:00:00+00:00",
+    "content": [
+        {
+            "text": "Robert Gammon is the Technical Architect on the Early years qualification checking service, currently in the private beta stage of development."
+        },
+        {
+            "heading": 3,
+            "text": "Protecting a public service: how and why\u00a0"
+        },
+        {
+            "text": "When developing a new digital public service, you might wonder why it requires protection. Isn\u2019t a public service meant to be open to everyone? Yes, but only after its official launch."
+        },
+        {
+            "text": "During the development phase, which may span several months, it's crucial to prevent search engines from indexing and restrict public access. This is especially important if it involves complex government policies that need to be correct and complete before going live."
+        },
+        {
+            "text": "Multiple versions of the service might exist. Such as development or test versions with unapproved features. We don\u2019t want these non-public versions accessed by someone outside the team."
+        },
+        {
+            "heading": 3,
+            "text": "Our solution\u00a0"
+        },
+        {
+            "text": "Our team at the Department for Education (DfE) came up with a simple, user-friendly solution that is easily removed when the service is ready for public access."
+        },
+        {
+            "text": "This focus ensured a secure, user-friendly, and future-proofed implementation."
+        },
+        {
+            "text": "We implemented a simple guard page that asks for a password. If the correct password is entered, the user can access the service. Otherwise, they are redirected back to the guard page. This setup allows different passwords for different environments and includes an 'on-off' switch to disable the guard page in production."
+        },
+        {
+            "text": "When we sent invitations to Early Years managers who volunteered to take part in the service\u2019s pilot phase, we included the service address and a password, with a request not to share it. This approach has been successful and easy to manage. When the pilot ended, we simply changed the password to revoke access."
+        },
+        {
+            "heading": 3,
+            "text": "Other options considered"
+        },
+        {
+            "heading": 4,
+            "text": "1. Formal login"
+        },
+        {
+            "text": "We considered requiring users to create an account, which would allow us to verify who was accessing the service. However, we dismissed this possibility because:"
+        },
+        {
+            "heading": 4,
+            "text": "2. IP address allow-list"
+        },
+        {
+            "text": "We also considered restricting access to certain computers based on IP addresses. However, we dismissed this possibility because:"
+        },
+        {
+            "heading": 3,
+            "text": "Conclusion"
+        },
+        {
+            "text": "Instead of using complex solutions that are costly or hard to configure, like user management systems, or only allowing users to access the service from specific computers, we focused on our specific requirements and found a simpler, more user-friendly solution."
+        }
+    ]
+}
