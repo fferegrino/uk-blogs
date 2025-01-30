@@ -1,0 +1,101 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/01/30/dbt-data-challenge-drives-innovation/",
+    "title": "DBT Data Challenge drives innovation",
+    "authors": [
+        "Sian Thomas, Chief Data Officer"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2025-01-30T13:30:23+00:00",
+    "content": [
+        {
+            "text": "Launched around the same time as this year\u2019s One Big Thing, a civil service-wide focus on innovation, DBT\u2019s own Data Challenge was also an open invite for fresh ideas."
+        },
+        {
+            "text": "We put a call out across the department for teams to highlight challenges, which might have a data solution. From the interesting proposals we received we selected 5 to progress into week-long challenge projects, pairing an analyst with each project."
+        },
+        {
+            "text": "Those who put forward the proposals also had to agree to contribute 50 per cent of their time to the challenge in that week. This created valuable opportunities to understand each other\u2019s ways of working, building collaboration with policy leads and trade sector teams. Many thanks to Sally Mohamed and Agnes Coaker from the Data Enabling team for organising the Data Challenge."
+        },
+        {
+            "heading": 3,
+            "text": "Five challenges"
+        },
+        {
+            "text": "Our chosen Data Challenges cut across key DDaT areas of expertise, providing case studies in how we can support efficiency and innovation."
+        },
+        {
+            "heading": 4,
+            "text": "Time saving automation"
+        },
+        {
+            "text": "Significant productivity gains were the pay-off of a collaboration between our Employment Rights Directorate and data engineers on Trade Union (TU) data. Historically TU ballots data was manually collated by searching published documents and populating spreadsheets."
+        },
+        {
+            "text": "The challenge team used programming language to find a robust, automated way to draw in the data. It was a timely win, during the live passage of the Employment Rights Bill. This meant the new approach was used to develop the Bill\u2019s impact assessment."
+        },
+        {
+            "heading": 4,
+            "text": "Predictive models"
+        },
+        {
+            "text": "Being able to map where businesses are looking to grow through expansion projects \u2013 such as increasing exports \u2013 means DBT can offer more support."
+        },
+        {
+            "text": "Analysing investment data, and identifying common characteristics of expansion projects, could create a model to predict these opportunities. Although this project had some issues with data access, the team persevered. Their discovery work and initial data analysis highlights opportunities to use more advanced data science techniques in the future. We\u2019ll be following up."
+        },
+        {
+            "heading": 4,
+            "text": "Data visualisation"
+        },
+        {
+            "text": "DBT offers hundreds of opportunities for businesses of all sizes to make connections with new markets and trade opportunities. At these events attendees build their networks and give us feedback, but we want to know even more about the impact."
+        },
+        {
+            "text": "This project used \u2018network analysis\u2019, an important developing technique for the department and something I\u2019d like us to use more, to show the relationships between networks."
+        },
+        {
+            "text": "This enabled new insight on which types of events generated the most opportunities, and to \u2018match\u2019 businesses wanting to export with market leaders \u2013 using event attendance data. The range of analytical techniques involved made this my technical highlight. Can we use this more to help businesses to find people? It will be tricky, but it could have great results."
+        },
+        {
+            "heading": 4,
+            "text": "Big data analytics"
+        },
+        {
+            "text": "DBT\u2019s Data Hub records interactions with businesses for the department, reaching 4 million in 2024! Human-led research, such as lead generation within Data Hub, can be difficult due to the size of the data sets."
+        },
+        {
+            "text": "One of the 5 projects asked how technology could be used to better identify growth opportunities? Exploring this highlighted some of the day-to-day problems the data team, and data owners in the business, grapple with, such as balancing access to data with the protection of personal information."
+        },
+        {
+            "text": "One of the elements examined was export quantification, shared by HMRC, which can help DBT to target resources to businesses having the biggest impact. This was difficult in terms of data wrangling and meant the outcome of the challenge was constrained, but it certainly highlighted potential for the future."
+        },
+        {
+            "heading": 4,
+            "text": "High-performance dashboards"
+        },
+        {
+            "text": "The final challenge was around creating an automated performance dashboard for the healthcare sector team.\u00a0 This replaced a lengthy PowerPoint deck, reducing colleagues\u2019 administrative burden and offering a live view of performance between reporting periods."
+        },
+        {
+            "text": "The transferability of the work is what set this project apart from the others \u2013 it could benefit all of the sector teams.\u00a0 It has everything: quantifiable efficiency savings; improved timeliness and better data-informed decision making."
+        },
+        {
+            "heading": 3,
+            "text": "One winner"
+        },
+        {
+            "text": "At the close of the challenge\u2019s experimentation week, I was joined by Jane Naylor, our Chief Statistician, and Eoin Parker, director for Company Law and Governance (and senior sponsor of One Big Thing) to decide the winner."
+        },
+        {
+            "text": "We all brought our personal perspectives, but quickly agreed that the project automating the collection of Trade Union data really shone. It got the kudos of coming first."
+        },
+        {
+            "text": "By carving out the time and space to innovate, the department has made many \u2018wins\u2019. We\u2019ll be supporting ongoing conversations with teams about the 4 other projects and how we can build the learning into business as usual."
+        },
+        {
+            "text": "Read more about One Big Thing 2024 ."
+        }
+    ]
+}
