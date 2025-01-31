@@ -1,0 +1,84 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2025/01/31/rolling-out-simpler-ways-to-navigate-gov-uks-topic-pages/",
+    "title": "Rolling out simpler ways to navigate GOV.UK\u2019s topic pages",
+    "authors": [
+        "Jen Richardson, Senior Product Manager, GOV.UK Navigation"
+    ],
+    "categories": [
+        "Finding things",
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2025-01-31T12:49:36+00:00",
+    "content": [
+        {
+            "text": "Millions of people visit GOV.UK every week to complete essential and often complex tasks. It\u2019s crucial that we help users find what they need, and quickly."
+        },
+        {
+            "text": "As the newly-published blueprint for a modern digital government sets out, reducing the \u2018time tax\u2019 on people using public services is one of our top priorities. Making people\u2019s lives easier, by cutting down the time and energy it takes to access public services, is one of the 5 outcomes we - and others across the expanded Government Digital Service - are striving towards."
+        },
+        {
+            "text": "One way we can enable this is by focusing on the user journey experience - the way people navigate around the pages on GOV.UK to find what they\u2019re looking for."
+        },
+        {
+            "text": "Over the last couple of years we\u2019ve done a lot of work to improve how people navigate GOV.UK. We redesigned our topic pages to make them more accessible, we simplified the sub-topic pages to make them easier to use, and we made significant updates to the GOV.UK homepage."
+        },
+        {
+            "text": "The topic pages aim to help people find the GOV.UK guidance or service they require. These pages include things like driving and transport and money and tax."
+        },
+        {
+            "text": "We\u2019ve recently returned to the topic pages to make 2 improvements:"
+        },
+        {
+            "heading": 2,
+            "text": "Keeping it simple from a grid to a list"
+        },
+        {
+            "text": "The design layout of the page is a really important part of helping to navigate to the right information. Have you ever noticed that some websites display information in a grid format, while others use a list? As a general rule, lists are better for text-based content, like the information you\u2019ll find on GOV.UK. Lists are easier to scan and our eyes naturally follow a list format, making it more intuitive to navigate. To test this theory we ran an A/B test where half of our users were shown a grid design of the page, and the other half saw a list design. This allowed us to compare how people responded to the 2 layouts."
+        },
+        {
+            "text": "We found that:"
+        },
+        {
+            "text": "These results informed our decision to change the design from a grid to a list to make the page more intuitive to navigate."
+        },
+        {
+            "heading": 2,
+            "text": "Getting the links right through testing"
+        },
+        {
+            "text": "Our aim with the \u2018Most viewed\u2019 section is to save people\u2019s time by providing them with a shortcut to the highest-traffic pages."
+        },
+        {
+            "text": "We carried out usability testing to help us understand how people perceive and use links positioned at the top of the page. We asked participants to complete tasks on the topic pages and varied the number of links they were shown."
+        },
+        {
+            "text": "We learned that:"
+        },
+        {
+            "text": "We also observed that people were scanning for keywords when presented with the page. They weren\u2019t necessarily reading the heading title or paying attention to how the page was structured, they were just keen to find words that related to the task they had in mind."
+        },
+        {
+            "text": "We conducted multivariate tests (MVT) to evaluate 3 different options:"
+        },
+        {
+            "text": "The tests gave us valuable data to help us understand how people engaged differently with the links we presented them."
+        },
+        {
+            "text": "We found that:"
+        },
+        {
+            "text": "The most efficient solution proved to be the test that showed \u2018most viewed content\u2019 in each topic. We've now rolled out the new links, based on this option, to all 16 topic pages."
+        },
+        {
+            "text": "During testing, the new section of links was named \u2018Popular tasks\u2019. Based on feedback from our user research, we changed this to \u2018Most viewed\u2019. We did this to ensure the title of the section was informative and helped people understand why these links were being suggested to them."
+        },
+        {
+            "heading": 2,
+            "text": "Iterating and improving"
+        },
+        {
+            "text": "Our work to introduce \u2018Most viewed\u2019 links and the new list design demonstrates how we constantly iterate GOV.UK to make it easier for people to navigate to the information they need. We\u2019re now looking for more areas where we can improve navigation using data and insights, as well as continuing to monitor the impact of the most recent changes."
+        }
+    ]
+}
