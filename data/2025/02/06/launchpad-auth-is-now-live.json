@@ -1,0 +1,113 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/02/06/launchpad-auth-is-now-live/",
+    "title": "Launchpad Auth is now live",
+    "authors": [
+        "Jane Stead"
+    ],
+    "categories": [
+        "Content",
+        "Content design",
+        "digital services",
+        "Launchpad",
+        "Our services"
+    ],
+    "pub_date": "2025-02-06T11:27:05+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What is Launchpad Auth?\u00a0"
+        },
+        {
+            "text": "First of all, what is Launchpad? In brief, Launchpad is an innovative HMPPS in-cell tech programme that gives prisoners secure laptops with digital services in their cells to support their rehabilitation.\u00a0"
+        },
+        {
+            "text": "Many teams work within this programme, but the Launchpad product delivery team works to create a modern and intuitive digital platform that can be used to offer information, rehabilitation content and distraction to empower prisoners on the inside, to live better lives on the outside. The first iteration of this was the Content Hub and Virtual Campus 2 on the laptops. Now we are progressing to bigger things."
+        },
+        {
+            "text": "To do that, we needed to build a more mature home page and single sign-in to allow for more complex future builds and the right level of software access. In effect, we needed to futureproof the in-cell tech platform in order to build more progressively on it."
+        },
+        {
+            "text": "Launchpad Auth is how prisoners now sign into their personalised digital services and access Launchpad Home.\u00a0"
+        },
+        {
+            "text": "Prisoners only need to sign in once to their laptops, with the password they currently use, in order to be able to access personalised content on every service in the future developed by digital or 3rd party suppliers. Launchpad Auth provides both authentication which allows prisoners to access services, and also authorisation which ensures that prisoners and services only have the permissions relevant to them."
+        },
+        {
+            "heading": 2,
+            "text": "Why not buy it in?"
+        },
+        {
+            "text": "When we knew an Auth service was required for securing and protecting prisoner data, we looked into options like GOV.UK One Login or buying a component in."
+        },
+        {
+            "text": "But services that provide personalised content need to identify the prisoner.We also wanted to reuse existing capabilities as much as we could, hide the complexities of existing systems, and not give prisoners another set of usernames and passwords. So the Launchpad team realised it would be cheaper and easier to custom-build the solution. Which we did."
+        },
+        {
+            "heading": 2,
+            "text": "Protecting prisoner data"
+        },
+        {
+            "text": "Our main two challenges were to provide a fast and easy way for services developed internally, and by third parties, to provide personalised content using our existing systems. Alongside that, to assure prisoners that all external services approved by HMPPS are secure and will not misuse their data."
+        },
+        {
+            "text": "We created an all-round solution so Launchpad Auth integrates with our existing systems which both gives control to prisoners and allows us to control the data that individual services are able to access or manipulate."
+        },
+        {
+            "heading": 2,
+            "text": "Designed to be highly secure, but user-friendly"
+        },
+        {
+            "heading": 3,
+            "text": "We designed with security in mind so it can:"
+        },
+        {
+            "heading": 3,
+            "text": "We designed with prisoners in mind because:"
+        },
+        {
+            "text": "One password is enough to remember - many prisoners have low levels of basic and digital literacy. Research shows they can be under intense stress, be suffering with depression or an undiagnosed head injury, alongside a range of other reasons why memory is impaired."
+        },
+        {
+            "heading": 2,
+            "text": "How it empowers prisoners"
+        },
+        {
+            "text": "Launchpad Auth gives prisoners control over who can access their data and what kind of data they can access."
+        },
+        {
+            "text": "Research has shown prisoners to be suspicious about sharing any personal information at all with anyone. So this gives prisoners a sense of dignity, respect and digital transparency. Prisoners can deny access altogether, or revoke access at any time - even after approval."
+        },
+        {
+            "text": "It's important to give prisoners a way to easily control who sees their data."
+        },
+        {
+            "text": "It also introduces them to concepts they will constantly face in the outside world."
+        },
+        {
+            "heading": 2,
+            "text": "Blockers building Launchpad Auth"
+        },
+        {
+            "text": "Building Launchpad Auth was not only time-consuming, but very complicated."
+        },
+        {
+            "text": "Firstly, because the future prisoner-facing services we will need to support with Auth aren't actually built yet.\u00a0"
+        },
+        {
+            "text": "And secondly, because we can't test any of our software builds unless we are on a prisoner laptop on the prisoner network. We currently do not have access to this, due to technical constraints."
+        },
+        {
+            "text": "To test products, we ask a prison digital communications manager (DCM) to try out pages on a prisoner's laptop. Teams that build software services for use outside of prisons or on staff systems can be tested quickly and regularly, but ours takes much longer. We learned patience and to take strong, small steps."
+        },
+        {
+            "text": "Other technical, software and security blockers with regard to working inside prisons meant we needed to outsource the Auth and Home IT Health Checks (ITHC) to the British Standards Institute (BSI). We also worked closely with Tech Ops to carry out an internal application security test."
+        },
+        {
+            "heading": 2,
+            "text": "Benefits summary of Launchpad Auth"
+        },
+        {
+            "text": "If you have any thoughts or questions, please contact the Launchpad Product Delivery team or jane.stead@digital.justice.gov.uk"
+        }
+    ]
+}
