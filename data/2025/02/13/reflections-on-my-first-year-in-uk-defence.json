@@ -1,0 +1,129 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2025/02/13/reflections-on-my-first-year-in-uk-defence/",
+    "title": "Reflections on my first year in UK Defence",
+    "authors": [
+        "Mivy James"
+    ],
+    "categories": [
+        "Digital Innovation",
+        "Digital Transformation",
+        "Uncategorized"
+    ],
+    "pub_date": "2025-02-13T09:47:43+00:00",
+    "content": [
+        {
+            "text": "As we begin 2025, I am grateful for the opportunity to reflect on my first year as the Chief Technology Officer for UK Defence. This year has been an incredible journey marked by innovation, collaboration, and significant achievements. I joined MOD in late February 2024 to an extraordinarily warm welcome from my team, peers within Defence Digital, and the wider MOD.\u202f\u00a0"
+        },
+        {
+            "text": "Shortly after joining, I summarised our CTO priorities into a \"simple\" set of three things and I\u2019m pleased with the progress made against all of these areas.\u00a0"
+        },
+        {
+            "text": "1. Bringing the Technology Aspects of the Digital Backbone to Life\u00a0"
+        },
+        {
+            "text": "The digital backbone isn\u2019t just our infrastructure, or some behind-the-scenes network\u2014it\u2019s the foundation of how we do Defence. It powers everything: from soldiers and vehicles to aircraft, ships, satellites, and drones. Think of it as our \"true cloud,\" working seamlessly across classifications and connectivity modes. It ensures data and digital services are available wherever and whenever they\u2019re needed, enabling edge computing and rapid decision-making.\u00a0"
+        },
+        {
+            "text": "The digital backbone is a living, reusable architecture that drives efficiency and interoperability. By reducing duplication and embracing APIs, we\u2019re creating a more open and agile system that adapts to operational needs.\u00a0"
+        },
+        {
+            "text": "Key progress in 2024:\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Significant enhancements and new content created for our reference architecture across all technology architecture domains, too many to list!\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Defence Digital Services (D2S) matured to support SECRET workloads, setting the stage for advanced AI capabilities.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The Defence Data Analytics Platform (DDAP) expanded to support operations across classifications and is being prepared for wider industry use.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Delivered our first end-to-end, code-low, deploy-high capability, transforming delivery speed and scale.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Developed Digital Roadmaps, aligning the backbone with long-term goals, and launched early Reference Architectures, already shaping key procurements like the Secret Community Cloud.\u00a0"
+        },
+        {
+            "text": "\u202f\u00a0"
+        },
+        {
+            "text": "2. Working in Denied and Degraded Connectivity Environments\u00a0"
+        },
+        {
+            "text": "This started as focusing on SECRET and Above environments, but has now been expanded to include any environment without a stable internet connection, i.e. SECRET+ and the deployed space.\u00a0"
+        },
+        {
+            "text": "Creating a modern digital ecosystem is straightforward when connectivity and access to \"classic cloud\" are available. It\u2019s much harder when they\u2019re not, which can widen the digital divide in both capability development and user experience. To address this, we\u2019ve focused on architectures that work across classifications and security models in less network-centric ways. This ensures frontline commands can focus on their unique digital capabilities without being held back by connectivity issues.\u00a0"
+        },
+        {
+            "text": "Key progress in 2024:\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 A new CTO Council formed to collaboratively tackle shared connectivity and technology challenges across Defence.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The Hackathon Success highlighted the talent within Defence teams, driving innovative solutions to connectivity issues.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Delivered a fast SofS digital dashboard, leveraging existing digital and data foundations for quick deployment even in constrained environments.\u00a0"
+        },
+        {
+            "text": "\u202f\u00a0"
+        },
+        {
+            "text": "Tackling Technology Obsolescence\u202f\u00a0"
+        },
+        {
+            "text": "Technology obsolescence feels like the unwanted party guest\u2014it\u2019s always there, but no one want to talk about it. Meanwhile, AI is stealing the spotlight.\u00a0"
+        },
+        {
+            "text": "Technology obsolescence ties up effort and budget in full-stack silos and point-to-point integrations that duplicate layers without adding value. We urgently need to rationalise and mitigate these risks. If we can free up the sunk costs tied to outdated systems, we\u2019ll deliver more, faster, within the same budget.\u202f\u00a0"
+        },
+        {
+            "text": "\u202fKey progress in 2024:\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Launched the Technology Reference Model (TRM) to govern digital spend, reduce duplication, and identify capability gaps.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dashboards tracking outdated systems across Defence were introduced, with the RAF and Defence Digital leading in reporting.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The Foundry Team reduced duplication by delivering a shared ecosystem of interdependent services, streamlining early-stage programmes, and advancing the Defence Learning Environment.\u00a0"
+        },
+        {
+            "text": "There\u2019s still a lot to do, and it can feel daunting. But the foundations laid in 2024 ensure we\u2019re well-positioned to continue this critical work in 2025 and beyond.\u00a0"
+        },
+        {
+            "text": "What Does 2025 Hold for Us?\u202f\u00a0"
+        },
+        {
+            "text": "Our three core technology themes remain pivotal in shaping transformation for Defence. Here\u2019s what we\u2019re focused on:\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Defence Reform: Strengthen governance to oversee the entire digital spend, maximise ROI through reusing backbone services, and strategically focus resources on closing capability gaps and harnessing emerging technologies.\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Obsolescence Management: Implement a consistent, Defence-wide approach to manage obsolescence risks and free up budget and resources to modernise capabilities.\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Accelerating the Digital Backbone: Deliver enhanced digital and data services to empower our war fighters and decision-makers.\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Leveraging Alliances: Double down on investments in NATO, AUKUS, and FVEY to reuse proven solutions and accelerate delivery within our own systems.\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Ecosystem Services: Sharpen our understanding of opportunities and risks in this space to remain agile, connected and innovative.\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Reimagining Innovation: Normalise innovation as problem-solving, prioritising success metrics, and focusing on paths with clear potential for exploitation.\u202f\u00a0"
+        },
+        {
+            "text": "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Driving Productivity and Efficiency: Make better use of existing resources by fostering a supportive culture, optimising processes, and ensuring data is central.\u202f\u00a0"
+        },
+        {
+            "text": "As we step into 2025, I\u2019m filled with a profound sense of excitement and determination. Building on the remarkable work already accomplished, my priority is to ensure our digital backbone remains not just resilient but transformative\u2014ready to adapt and excel in meeting the fast-changing demands of Defence.\u202f\u00a0"
+        }
+    ]
+}
