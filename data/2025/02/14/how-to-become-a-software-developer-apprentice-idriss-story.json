@@ -1,0 +1,53 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/02/14/how-to-become-a-software-developer-apprentice-idriss-story/",
+    "title": "How to become a software developer apprentice: Idris's story",
+    "authors": [
+        "Idris Abdirizak - Junior Software Developer, Government Digital Service"
+    ],
+    "categories": [
+        "People and skills"
+    ],
+    "pub_date": "2025-02-14T16:59:27+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Starting from zero"
+        },
+        {
+            "text": "I started work at GDS in February 2022, joining the GOV.UK Pay team. I initially came in and met the team for a week and then I went away to Makers Academy. There I learned to code from zero; from the ground up. It was a very intensive experience."
+        },
+        {
+            "text": "Before that I did a lot of different things, like biomedical science. After that I worked for a bit in a lab but I didn't really like it. And then lockdown happened. That's when I really started getting interested in coding."
+        },
+        {
+            "text": "At first I was considering a bootcamp, but then a friend of mine told me about Civil Service Jobs. I came across the GDS apprenticeship, which offered much better opportunities for me than anything else I could have done.\u00a0"
+        },
+        {
+            "text": "For the first 2 months I was just doing specific things that were earmarked for me. After that I needed to take on a project. It was creating a task list for onboarding with one of our payment providers. The team came together and thought, \"this would be something good for you to work on\", to enable me to get the experience I needed. Before that I'd been doing a mix of front-end and back-end work, but mainly front-end."
+        },
+        {
+            "heading": 2,
+            "text": "Time for learning"
+        },
+        {
+            "text": "I had every Friday for my own independent learning, supported by my line manager who knew exactly what I needed to help me. He gave me a few independent tasks, so that I could do work on something I was struggling with, for example Cypress testing. I then used Mountebank, which we use in combination with Cypress. I'd been struggling with those 2 technologies and he got me to make 2 applications; microservices that talk together. Then I was able to work on the task list properly."
+        },
+        {
+            "heading": 2,
+            "text": "Apprenticeship project"
+        },
+        {
+            "text": "I carried on with my apprenticeship, doing some complex infrastructure work. Then I started working on an apprenticeship project. As part of a GDS apprenticeship you get to work on a project that has a business need \u2014 something that the team is going to use. And one thing we needed was a button in an internal tool we use called Toolbox that would allow us to reverse refunds."
+        },
+        {
+            "heading": 2,
+            "text": "Challenge and progress"
+        },
+        {
+            "text": "Later a position came up in GDS for a junior developer role, which I applied and successfully interviewed for."
+        },
+        {
+            "text": "The experience has been really, really good. It was very challenging to begin with because I came from a non-coding background. But I had a lot of support. I was quite lucky with the team I was placed in as they helped me a lot and made it\u00a0a very good experience: challenging but definitely enjoyable."
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2025/02/14/how-weve-enhanced-our-digital-services/",
+    "title": "How we've enhanced our digital services",
+    "authors": [
+        "Matthew Thomas, Digital Registration Service Product Manager"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2025-02-14T10:34:05+00:00",
+    "content": [
+        {
+            "text": "We have made a number of key improvements to our digital services over the last year. HM Land Registry became \u2018Digital by default\u2019 in November 2022 and, drawing on feedback from customers, we continue to adapt our services to more closely meet their needs.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "Since July 2024 there have been approximately 8,000 daily portal users, collectively making a total of 2,100,000 visits, and just over 750,000 applications were submitted through our Digital Registration Service (DRS). In the last 6 months just under 1,300 customers have used the Business Gateway service \u2013 Business Gateway is software connected to our services through APIs (application programming interfaces) \u2013 and submitted more than 515,000 applications. "
+        },
+        {
+            "text": "A total of 88% of our applications were made digitally between July and December 2024, amounting to more than 1.9m applications in total. The move to digital is a crucial part of our efforts to provide a faster registration service.\u00a0\u00a0"
+        },
+        {
+            "text": "We made a number of enhancements to DRS during the second half of 2024."
+        },
+        {
+            "heading": 2,
+            "text": "View Applications"
+        },
+        {
+            "text": "View Applications, which is available to all portal users, enables customers to manage their portal applications and correspondence in one place. In July we enhanced the accuracy of the Estimated Completion Date to ensure greater clarity and understanding of when a submitted application will be completed and made improvements to the filters for requisitions and warnings of cancellations within View Applications.\u00a0"
+        },
+        {
+            "text": "To add further transparency to the application journey and to reflect the collaborative way many of our customers work,\u00a0in November 2024 we launched a new feature which allow portal users to see requisitions responses and additional documentation which they or a colleague has submitted using the reply to requisitions feature.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Adding additional parties to digital applications\u00a0"
+        },
+        {
+            "text": "Previously many customers found it hard to add an additional party,\u00a0 for example when a proprietor died or a guardian was acting. In response to this we made it easier to add additional parties to DRS applications.\u00a0 So for those applying to transfer of whole, a transfer of part, or a transfer of charge, they are now able to add parties such as additional trustee, trustee in partnerships and various other parties. These changes mean you can review and amend the transferor fields until you are confident that all the names in your application match the register and deeds, and that everyone is accounted for. It will also reduce the need for many requisitions for name discrepancies, improving the speed at which we can complete your applications.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Building a new registration service for Business Gateway\u00a0"
+        },
+        {
+            "text": "All efforts have been on building a new registration service for Business Gateway users through a suite of new APIs to replace our existing e-DRS service (the way customers submit applications, sometimes called the e-AP1). APIs are a series of digital \u2018connectors\u2019 that link third party (or in-house) software with our services. We are building these new services using a more up-to-date and \u2018lightweight\u2019 API \u2013 moving from SOAP to REST \u2013 to ensure a better experience for both the technology developers and service users in the future.\u00a0\u00a0"
+        },
+        {
+            "text": "The new registration service will create a new standard for when we accept applications, validating much of the data to identify administrative errors that will need to be resolved before acceptance onto the day list. Customers who use DRS within the portal are informed of potential errors or omissions within their applications, and the new registration service will build on that to create parity for our customers and provide a single service available across both our web channel (DRS) and through our API platform to Business Gateway integrators."
+        },
+        {
+            "text": "We\u2019ve been working closely with those software integrators to understand their technical needs, and expect to start testing this with some early adopters from April. We will then look to roll this out to all Business Gateway customers from October 2025.\u00a0\u00a0"
+        }
+    ]
+}
