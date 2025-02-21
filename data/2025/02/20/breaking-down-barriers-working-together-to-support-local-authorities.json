@@ -1,0 +1,97 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/02/20/breaking-down-barriers-working-together-to-support-local-authorities/",
+    "title": "Breaking down barriers: working together to support local authorities",
+    "authors": [
+        "Mike Rose, Data, Licensing and Intellectual Property SME",
+        "Kieran Wint, Business Analyst"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning",
+        "Ways of working"
+    ],
+    "pub_date": "2025-02-20T15:23:01+00:00",
+    "content": [
+        {
+            "text": "The Digital Planning team is constantly looking for ways to make and enhance land and housing data available on the planning data platform \u2013 where it can be easy for everyone to find, use and trust. A recent focus has been on data for listed buildings, which are subject to specific planning requirements. For the planning process it's important to know early on if a property is listed.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Understanding listed building data"
+        },
+        {
+            "text": "Over the past year, we have been exploring how to make all of the required listed building data available on the planning data platform.\u00a0\u00a0"
+        },
+        {
+            "text": "The requirements for listed building data varies between organisations. The Secretary of State for Culture, Media and Sport lists buildings on the advice of Historic England, who maintain the statutory list (producing a digital version via the National Heritage List for England) identifying listed buildings for use in planning decision-making.\u00a0\u00a0"
+        },
+        {
+            "text": "HM Land Registry (HMLR) requires precise information about which properties are impacted by that listing for conveyancing purposes and this is recorded in the statutory Local Land Charge (LLC) Register that they maintain, which is currently being populated.\u00a0\u00a0"
+        },
+        {
+            "text": "For users who work in planning and therefore use the planning data platform for work, extra information is sometimes needed, particularly to inform decisions involving the curtilage of a listed building (the land and structures surrounding a listed building that form part of the statutory listing under UK law (the Planning (Listed Buildings and Conservation Areas) Act 1990))\u00a0"
+        },
+        {
+            "text": "The biggest challenge has been understanding and deciding on an approach to mapping curtilage. In short, for certain planning purposes, we need to identify absolutely everything affected by a listing including buildings, land, and other structures. This information supports LPAs in making informed planning decisions relating to listed buildings.\u00a0"
+        },
+        {
+            "text": "In order to do this, we must link data from Historic England and Local Planning Authorities (LPAs). But this is harder than you might think.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach\u00a0"
+        },
+        {
+            "text": "Through discussions in a working group with local planning authorities \u2014the bodies responsible for producing this data\u2014we found that defining the curtilage for planning purposes (from the Historic England Advice Note 10) for each listing is reliant on expert judgement, based on accepted legal tests, for the individual listing and its environment. Accurately mapping all the listed building curtilage proactively would potentially require significant time and resources.\u00a0"
+        },
+        {
+            "text": "The LPA working group agreed that the most practical approach would be to align the planning requirements for curtilage with HMLR\u2019s guidance on producing listed building boundary data for the LLC register. While acknowledging that this isn\u2019t a perfect solution, it represents the best available data when combined with the Historic England data.\u00a0\u00a0"
+        },
+        {
+            "text": "To ensure appropriate use of the data for planning uses, the working group recommended that the data when shared by the Ministry of Housing, Communities and Local Government (MHCLG) should be clearly marked as indicative rather than definitive and the relevant LPA should still be consulted.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Collaborating with HMLR\u00a0"
+        },
+        {
+            "text": "As we identified that this would be the best approach, we began engaging with HMLR about their programme for data collection for the LLC register. We found that their programme of work is more advanced than ours and we have collaborated with them to align our work to minimise the data burden on LPAs.\u00a0"
+        },
+        {
+            "text": "We\u2019ve done this by matching our data specification with HMLR's LLC data schema so that the data provided satisfies both the planning data platform\u2019s needs and HMLR's requirements for the LLC register.\u00a0"
+        },
+        {
+            "text": "We will soon be producing guidance that explains how our requirements fit together so that from an LPA\u2019s perspective there is a single data ask to meet both MHCLG and HMLR requirements.\u00a0"
+        },
+        {
+            "text": "At the end of last year, we jointly held 3 workshops with HMLR to engage with local authorities on both the planning and LLC programmes and to explain our approach. The feedback was overwhelmingly positive, particularly around the co-ordinated approach to data requirements, which is helping to minimise the burden on the local authorities.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How Local Planning Authorities can share data\u00a0"
+        },
+        {
+            "text": "Local authorities can choose from two methods to provide their data to the planning data platform and HMLR\u2019s register. This aims to simplify the process, reduce duplication, and ensure accurate and consistent listed building data across both platforms.\u00a0"
+        },
+        {
+            "text": "They can:\u00a0"
+        },
+        {
+            "text": "For the planning data platform, the data will still need to be:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps\u00a0"
+        },
+        {
+            "text": "We have a few more steps before we can confirm the planning data specification and finalise the composite approach described above. We need to test the data already captured and consult on and publish guidance on its use. We are aiming to launch this approach in March 2025.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Get involved\u00a0"
+        }
+    ]
+}
