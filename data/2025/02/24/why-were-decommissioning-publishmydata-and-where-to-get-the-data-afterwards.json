@@ -1,0 +1,41 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2025/02/24/why-were-decommissioning-publishmydata-and-where-to-get-the-data-afterwards/",
+    "title": "Why we're decommissioning PublishMyData and where to get the data afterwards",
+    "authors": [
+        "Bobby Harrop"
+    ],
+    "categories": [
+        "APIs",
+        "Data"
+    ],
+    "pub_date": "2025-02-24T12:14:16+00:00",
+    "content": [
+        {
+            "text": "As part of ongoing work to improve and consolidate the digital products and services we offer, we are decommissioning PublishMyData. "
+        },
+        {
+            "text": "This beta service, (an API served by a prototype data explorer interface that has allowed users to search for and query ONS datasets) has reached the end of its service."
+        },
+        {
+            "heading": 2,
+            "text": "Links to original data"
+        },
+        {
+            "text": "Datasets have been hosted from a range of ONS initiatives including ONS Geography, Explore Local Statistics, Climate Change and Trade portals. The data will remain available from their original sources and we have provided the links below."
+        },
+        {
+            "heading": 2,
+            "text": "Key dates"
+        },
+        {
+            "text": "We are taking a phased approach to the retirement of PublishMyData:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why we're decommissioning"
+        },
+        {
+            "text": "Retiring this API is part of a larger suite of work to improve our API services.  A new Data API is being developed by our teams to better meet the needs of our users."
+        }
+    ]
+}
