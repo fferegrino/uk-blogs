@@ -1,0 +1,88 @@
+{
+    "url": "https://gott.blog.gov.uk/2025/02/25/meet-the-trailblazer-puja-myles/",
+    "title": "Meet the Trailblazer: Puja Myles",
+    "authors": [
+        "avneetkaur"
+    ],
+    "categories": [
+        "Uncategorized"
+    ],
+    "pub_date": "2025-02-25T10:05:04+00:00",
+    "content": [
+        {
+            "text": "by Puja Myles "
+        },
+        {
+            "heading": 2,
+            "text": "Tell us about a Knowledge Asset innovative project you\u2019re proud of and why?\u00a0"
+        },
+        {
+            "text": "I am very proud of the work I have done with MHRA colleagues, on the generation of high-fidelity synthetic data. Synthetic data is created using an algorithmic process, and \u2018high-fidelity\u2019 means that it is indistinguishable from real data."
+        },
+        {
+            "text": "When we started exploring synthetic data generation (SDG) methods, there was very little work done in this area, and it was mainly used as a privacy enhancing technology (PET). We wanted to go beyond this to use synthetic data to enhance \u2018real\u2019 data by addressing biases. "
+        },
+        {
+            "text": "In the early stages of the project, we only had a vision and no idea of how we would get there- this was both terrifying and exciting, all at once; we felt like true pioneers, venturing where no one had gone before. To look back now after nearly seven years and see how far we have come in achieving that vision, is just incredible!"
+        },
+        {
+            "heading": 2,
+            "text": "At what point and why did you realise you wanted to take this project forward?"
+        },
+        {
+            "text": "We started this work due to the \u00a0HealthTech sector\u2019s need for high quality data that could be used for \u00a0training and testing of AI algorithms used in medical devices. At one stakeholder workshop, someone asked if synthetic data could be an option when sourcing \u2018real\u2019 data was not feasible. "
+        },
+        {
+            "text": "At that point, this was a hypothetical question, and we sought funding from the Regulators\u2019 Pioneer Fund (RPF) to explore the feasibility of generating high-fidelity synthetic data that would meet regulatory requirements. "
+        },
+        {
+            "text": "As fate would have it, we were pleasantly surprised to find that we had discovered a way to generate high-fidelity synthetic data. After this, there was no going back, and we continued refining and validating our SDG method as well as test various applications of high-fidelity synthetic data."
+        },
+        {
+            "heading": 2,
+            "text": "How has the support from GOTT made a difference to your project?\u00a0"
+        },
+        {
+            "text": "We were at a crossroads with where we wanted to go next with the project, as synthetic data generation is not our core remit. However, we wanted our work to make a lasting difference beyond just publication in a few academic journals. "
+        },
+        {
+            "text": "This is where the support provided by GOTT advisors was invaluable, as they helped us think through the value generation options for our work, including commercialisation strategies. "
+        },
+        {
+            "text": "They encouraged us to apply for the Knowledge Asset Grant Fund, initially for some market research and then, based on the commercialisation potential and market demand findings from this, a follow-up grant to develop a self-service synthetic data generation (SDG) platform that could be licenced. "
+        },
+        {
+            "text": "We now have a marketable offering and are working through the commercialisation plan with GOTT advisors."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s been the biggest challenge to date?"
+        },
+        {
+            "text": "Our biggest challenge was establishing wider buy-in for applications of high-fidelity synthetic data beyond being a privacy solution from the potential market. "
+        },
+        {
+            "text": "While our endeavours in the synthetic data domain were driven by a need expressed by the HealthTech sector, I have learned that need doesn\u2019t immediately translate into demand and willingness to pay when it comes to innovative products. "
+        },
+        {
+            "text": "This is why we then spent a lot of time demonstrating the applications and value of synthetic data- from its use to train and test AI algorithms, to augmenting real data where there may be biases due to underrepresentation of certain population subgroups."
+        },
+        {
+            "heading": 2,
+            "text": "What one piece of advice would you give to budding trailblazers in the public sector?\u00a0"
+        },
+        {
+            "text": "If you are considering how best to generate value from your research and development (R&D), reach out to GOTT advisors and join GOTT\u2019s Knowledge Assets Network (KAN) which will give you access to others with an interest and experience in this space, across public sector organisations."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s the best part of your job?\u00a0"
+        },
+        {
+            "text": "My current unit, the Clinical Practice Research Datalink (CPRD) is a real-world data research service that has a mission to benefit public health by facilitating healthcare research. We are constantly developing value-added data products and services. "
+        },
+        {
+            "text": "The best part of my job is that CPRD\u2019s healthcare data services have directly impacted public health for the better, whether by informing public health policy, clinical guidelines, medicines discovery, monitoring medical product safety or providing supporting evidence to help bring innovative medical products to patients sooner."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2025/02/25/creating-the-gov-uk-publishing-design-guide/",
+    "title": "Creating the GOV.UK Publishing Design Guide",
+    "authors": [
+        "Christine Wuerth, Senior Service Designer, GOV.UK",
+        "Nikin Nagewadia, Senior Interaction Designer, GOV.UK"
+    ],
+    "categories": [
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2025-02-25T11:57:16+00:00",
+    "content": [
+        {
+            "text": "At GOV.UK we\u2019ve just set up a new design resource \u2013 the GOV.UK Publishing Design Guide. This guide is an extension of the GOV.UK Design System and is aimed at people working in the GOV.UK programme at the Government Digital Service (GDS). It contains information about components, patterns and frontend templates - essentially the building blocks that we use to design pages that help users find information and services on GOV.UK."
+        },
+        {
+            "text": "Components are reusable parts of a user interface, like a button."
+        },
+        {
+            "text": "Patterns are best practice design solutions for specific user-focused tasks, such as a search filter. These patterns are often made up of several components."
+        },
+        {
+            "text": "A frontend template defines a specific type of page, its layout and the components, patterns, and content it comprises."
+        },
+        {
+            "heading": 2,
+            "text": "Why did we make this?"
+        },
+        {
+            "text": "You may be wondering why we built this if we already have the GOV.UK Design System."
+        },
+        {
+            "text": "The GOV.UK Design System is available to help teams across government create services that are consistent with GOV.UK. But GOV.UK also hosts guidance, as well as information on government activities, which GDS content teams write and update. The design of these pages isn\u2019t covered in the Design System."
+        },
+        {
+            "text": "We identified the need for a single repository documenting these designs, giving a clear starting point for anyone wanting to understand the make-up of GOV.UK and how its building blocks should be used and perform for users. Doing this meant bringing together information from internal wikis, the GOV.UK Component Guide and internal documents, as well as capturing individual designers\u2019 knowledge and experience."
+        },
+        {
+            "text": "This helps to reduce duplication of effort and improve collaboration across disciplines. Rather than recreating existing design solutions, we can efficiently work with what already exists to better focus on delivering immediate value to end-users and create a more consistent, efficient and user-friendly GOV.UK website."
+        },
+        {
+            "text": "It also brings more context to design decisions \u2013 by explaining why things are the way they are, and how they perform in different contexts \u2013 and makes it easier to onboard designers to the GOV.UK programme and familiarise them with GOV.UK\u2019s design approach."
+        },
+        {
+            "heading": 2,
+            "text": "What did we set out to do?"
+        },
+        {
+            "text": "We set out to deliver 2 things:"
+        },
+        {
+            "text": "Firstly, creating a single repository housing design-related documentation for the GOV.UK programme, which includes things like advice on:"
+        },
+        {
+            "text": "Secondly, ensuring that the repository is used, maintained collaboratively and will grow over time, which includes:"
+        },
+        {
+            "text": "The context and processes are important as a way of making sure the documentation is complete and up to date, and so is consistently reliable and used. We identified possible blockers and made a plan for how to overcome them."
+        },
+        {
+            "heading": 2,
+            "text": "What was our process?"
+        },
+        {
+            "text": "While we were a team of 2 (an Interaction Designer and Service Designer) leading this work, we were fortunate to be supported by the design community, as well as an array of disciplines from the project\u2019s inception to its creation."
+        },
+        {
+            "text": "The design community helped us identify the information that benefits designers, such as insights on how well a design performs for users, past design decisions and any known issues. In order to gather as much information as possible, we needed to overcome knowledge silos and collaborate across disciplines to create documentation that reflects the interdisciplinary nature of our teams and the work we do. This meant thinking beyond designers as the main users and contributors. This led to further work to explore how this guide would serve, and be contributed to by, other disciplines."
+        },
+        {
+            "text": "A next round of workshops focused on enabling contribution, using Google Docs as an initial prototype, and iteratively designing a format and prompts that make the documenting process easy for anyone to contribute."
+        },
+        {
+            "text": "Once we were happy with the structure of the documentation, we needed a platform that is scalable, can be easily maintained, and that can allow anyone to contribute. Inspired by how many government departments have published their own online design systems, such as the Ministry of Justice, Home Office, and the Ministry of Defence, we built the GOV.UK Publishing Design Guide."
+        },
+        {
+            "text": "To build the site we used X-GOV\u2019s Eleventy plugin, a static site generator, which also uses GOV.UK stylings. All documents are created using markdown. To make it easy for anyone to add to the documentation, we created templates with instructions for each datapoint that then renders as a full-fledged webpage on the Publishing Design Guide."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "This work is far from finished. In fact, we are thinking of this more as the starting point. While we are planning additional features, such as including design files and live examples directly on each page of the guide, our focus has shifted more towards fine tuning processes that enable the community to contribute to this work and remove any barriers to participation, which we are currently testing and implementing."
+        }
+    ]
+}
