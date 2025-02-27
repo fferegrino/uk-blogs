@@ -1,0 +1,64 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/02/27/using-data-to-improve-inclusion-in-certified-digital-identity-services/",
+    "title": "Using data to improve inclusion in certified digital identity services",
+    "authors": [
+        "Katie Sunley"
+    ],
+    "categories": [
+        "Inclusion",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2025-02-27T09:56:34+00:00",
+    "content": [
+        {
+            "text": "We recently launched the second year of the inclusion monitoring report survey for certified digital verification services. It is compulsory for services certified against the UK digital identity and attributes trust framework to complete the survey.\u00a0\u00a0"
+        },
+        {
+            "text": "The purpose of the inclusion monitoring report is to build a picture of how inclusive the digital identity market in the UK is. The data gathered is anonymised and used to tell us in OfDIA what changes might need to be made to increase inclusion \u2013 for example by changing the trust framework.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "2024 results: what changes have we made to the trust framework\u00a0"
+        },
+        {
+            "text": "You can read our blog post that summarises the key findings from the 2024 report or read the full report on GOV.UK.\u00a0\u00a0"
+        },
+        {
+            "text": "The data from the 2024 surveys informed our approach to a few key areas:\u00a0\u00a0"
+        },
+        {
+            "text": "54% of certified services reported that they adhered to the Web Content Accessibility Guidelines (WCAG) 2.0 (AA) or higher. However, 27% of services answered that they did not know if their service met this standard.\u00a0\u00a0"
+        },
+        {
+            "text": "Along with other feedback gathered by the team, this finding informed the decision to strengthen accessibility requirements in the latest version of the trust framework (0.4) to ensure that more certified services are meeting these, or equivalent, standards.\u00a0"
+        },
+        {
+            "text": "Vouching is when a person confirms the identity of another person in a formal declaration. This is typically used as a method for proving identity when the person doesn\u2019t have traditional identity documents (e.g. for a child getting their first passport). Vouching can therefore offer an important potential route to improve identity inclusion for those without these documents. Two certified services reported that they currently support vouching as a means of proving identity.\u00a0\u00a0"
+        },
+        {
+            "text": "We are reviewing the vouching guidance to look at how it can better accommodate digital identity verification with the aim that more services may be able to offer this route in future.\u00a0"
+        },
+        {
+            "text": "The 2024 data showed that certified services are inconsistent in how they assess potential bias in the biometric technologies they use.\u00a0"
+        },
+        {
+            "text": "To address this, we have introduced more specific requirements about the types of testing for biometric technologies in the latest trust framework (0.4) to ensure that all certified services undergo robust testing. This decision was also supported by feedback on the trust framework 0.3.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Improving the survey for 2025\u00a0"
+        },
+        {
+            "text": "Last year we made some changes to the inclusion monitoring report survey to improve the range and quality of data collected and we are continuing with this new format.\u00a0\u00a0"
+        },
+        {
+            "text": "This year\u2019s survey is broadly similar to last year\u2019s to ensure we have consistent data points to compare year on year. However, based on feedback from services and our analysis of last year's results we\u2019ve made a number of small improvements:\u00a0"
+        },
+        {
+            "text": "We\u2019ve also introduced a way for providers to download a copy of their answers to enable better record-keeping if providers wish to review or track their own performance each year.\u00a0"
+        },
+        {
+            "text": "The 2025 inclusion monitoring report survey has been sent to certified providers and the deadline for completing is 3 March. We will publish a report on the results once the analysis is complete.\u00a0"
+        }
+    ]
+}
