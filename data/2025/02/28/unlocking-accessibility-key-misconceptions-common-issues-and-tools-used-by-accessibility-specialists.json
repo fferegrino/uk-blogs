@@ -1,0 +1,251 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2025/02/28/unlocking-accessibility-key-misconceptions-common-issues-and-tools-used-by-accessibility-specialists/",
+    "title": "Unlocking Accessibility: Key misconceptions, common issues, and tools used by Accessibility Specialists",
+    "authors": [
+        "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services",
+        "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+    ],
+    "categories": [
+        "Unlocking Accessibility"
+    ],
+    "pub_date": "2025-02-28T08:18:45+00:00",
+    "content": [
+        {
+            "text": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility."
+        },
+        {
+            "text": "In the next instalment of this series, we asked accessibility specialists from various government departments and public sector organisations about what are the key misconceptions and common issues they encounter in accessibility, and what tools they use during audits."
+        },
+        {
+            "text": "Traditionally, accessibility specialists provide support, advice and guidance to other roles in the Government Digital and Data profession about how to create accessible digital services."
+        },
+        {
+            "heading": 2,
+            "text": "Question 1 - What are some of the most common misconceptions about accessibility that you encounter, and how do you address them?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Gaskell, Senior Accessibility Specialist, Scottish Government"
+        },
+        {
+            "text": "A common misconception is that making your website or mobile app accessible will\u00a0be expensive and time consuming. This could be the case if you only think about\u00a0accessibility after developing your product. However, if you incorporate accessibility\u00a0best practices right from the beginning in the design stages, many issues can be\u00a0resolved before they become a problem."
+        },
+        {
+            "text": "For example, heading structures, colour contrast and text alternatives for images can all be incorporated into the designs. This will reduce the number of accessibility\u00a0issues when the website or app goes live, saving both time and money."
+        },
+        {
+            "heading": 3,
+            "text": "Andrew Hick, Senior Accessibility Specialist, Government Digital Service"
+        },
+        {
+            "text": "I think the most harmful one I\u2019ve heard is \u201cNone of our users are disabled\u201d but nearly 1 in 4 people has a disability in the UK. Not all disabilities are visible, or disclosed. And even if you don\u2019t identify as disabled, you might use accessibility features - like silently watching a video with captions while your baby naps."
+        },
+        {
+            "text": "Another is \u201can accessible website can\u2019t look pretty\u201d. And while websites shouldn\u2019t distract, being well laid out and working properly is more attractive than autoplaying videos and unreadable text. I recommend\u00a0 \u201cAccessibility drives aesthetics\u201d by Alex Chen."
+        },
+        {
+            "heading": 3,
+            "text": "Jon O\u2019Donnell, Senior Accessibility Specialist, Department for Work and Pensions"
+        },
+        {
+            "text": "As the DWP Lead for digital document accessibility for the past two years, I've often noticed that document accessibility is often confused with providing Alternative Formats. While alternative formats are crucial, they differ significantly from digital accessibility in terms of delivery. Another common misconception is that some people believe providing a plain text version of the original document fulfils the obligations of authors or content creators to deliver accessible content. Additionally, some think that authors or content creators only have to provide accessible content if a request is made or if there is a disabled person in the audience."
+        },
+        {
+            "heading": 3,
+            "text": "Marianne Glover, Accessibility Specialist, His Majesty\u2019s Land Registry"
+        },
+        {
+            "text": "Looking internally, what I tend to find is that staff are not aware that they should be creating accessible content. Most of the time they don\u2019t know how or what they should be doing. Once they know, they are often embarrassed and do their best to follow the advice and do the right thing. I'm happy to report that I've only ever heard someone say once, \"We don't have any deaf or blind people, so why do we need to make it accessible?\""
+        },
+        {
+            "heading": 3,
+            "text": "Lori Thomson, Accessibility Standards Manager, Student Loans Company"
+        },
+        {
+            "text": "The most common misconceptions that I hear often are that accessibility is extra effort, extra time and extra money to do. It\u2019s usually the opposite. If accessibility is properly considered right from the start of doing something, be that an idea, a project, a new system or service, then good practices can be included right from the beginning."
+        },
+        {
+            "text": "Added effort and costs usually happen when accessibility is an afterthought or not done at all. If accessibility testing is done too late, or not included at all and complaints are received, then trying to fix things can often involve significant rework - which could be avoided if issues were found earlier."
+        },
+        {
+            "heading": 3,
+            "text": "Will Cooper, Senior Accessibility Specialist, NHS Business Services Authority"
+        },
+        {
+            "text": "Something I\u2019ve heard people say over the years is that \u2018we don\u2019t have any users with accessibility needs\u2019."
+        },
+        {
+            "text": "This is clearly wrong, and I\u2019ve been working on closing that knowledge\u00a0gap. This involves hosting monthly \u2018introduction to accessibility\u2019 sessions, improving our documentation and communication channels, encouraging\u00a0colleagues to attend user research sessions and making sure to celebrateour successes in different events and showcases."
+        },
+        {
+            "text": "It also shows we need a cultural shift to think of accessibility as a\u00a0standard that should be embedded from the beginning. Not hurriedly\u00a0added as an afterthought, or shoehorned in before a service assessment.\u00a0I\u2019m working with our governance team to add inaccessible services to\u00a0our risk register to improve visibility and accountability at senior levels."
+        },
+        {
+            "heading": 3,
+            "text": "Matt Proctor-Leake, Accessibility Specialist, Ministry of Justice"
+        },
+        {
+            "text": "For me, the most common misconception with accessibility is thinking specifically about the here and now and not realising that accessibility is a journey that will impact all of us at some point in life. I have heard phrases like, \"We don't have any users with access needs in our team.\" or \"Everyone uses a PC or a large screen.\" or \"This is for internal use only, so do we need to consider accessibility?\". By not making accessibility one of the core features of our discovery, design and development we are denying anyone with access needs from being recruited. Also, what if a current user gains an injury and now can't do their job because accessibility wasn't a consideration? Accessibility benefits everyone, always.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Question 2 - What are the most common accessibility issues you encounter during audits, and how do you address them?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Gaskell, Senior Accessibility Specialist, Scottish Government"
+        },
+        {
+            "text": "A common issue which I encounter on various websites is low contrast of text. All\u00a0regular-sized text must have a colour contrast ratio of 4.5:1 according to the Web\u00a0Content Accessibility Guidelines. This also applies when text within interactive\u00a0elements receive keyboard focus, or mouse hover."
+        },
+        {
+            "text": "As well, keyboard focus indicators must have a contrast of 3:1. If a focus indicator is\u00a0difficult to perceive, keyboard users may struggle to determine where they are on thepage."
+        },
+        {
+            "text": "This can all be fixed by adjusting the colours to achieve a better contrast. Ideally aim\u00a0for a contrast of at least 7:1."
+        },
+        {
+            "heading": 3,
+            "text": "Andrew Hick, Senior Accessibility Specialist, Government Digital Service"
+        },
+        {
+            "text": "Keyboard access is a massive indicator of accessibility. If you tab through a web page and can\u2019t see the focus, that\u2019s a big red flag. Using design systems based on standard HTML is the ideal, but if you manually test keyboard access from the start you\u2019ll eliminate many accessibility issues."
+        },
+        {
+            "text": "Also there\u2019s so much low contrast text. If you\u2019re thinking \u201cthat contrast might be a bit low\u201d, it probably is. The ideal is that your brand colours are accessible by default, but a tool like Axe or Wave can find many common issues."
+        },
+        {
+            "heading": 3,
+            "text": "Jon O\u2019Donnell, Senior Accessibility Specialist, Department for Work and Pensions"
+        },
+        {
+            "text": "During my time leading document accessibility at DWP, I've noted various accessibility issues. The top three problems include missing, inaccurate, or auto-generated alternative text that hasn't been verified by the author. Other common mistakes involve a lack of proper heading structure or semantically incorrect headings, which can create significant navigation challenges in documents. There's also a frequent failure to use automated checking tools before publishing content."
+        },
+        {
+            "heading": 3,
+            "text": "Marianne Glover, Accessibility Specialist, His Majesty\u2019s Land Registry"
+        },
+        {
+            "text": "One of the most common accessibility issues I encounter is colour contrast. Our corporate branding does not have good colour contrast as it uses light green on white. However, I do lots of training on this and I am planning something specific for National colour blindness day later in the year.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Lori Thomson, Accessibility Standards Manager, Student Loans Company"
+        },
+        {
+            "text": "The most common accessibility issue I come across is incorrectly implemented form fields, for example questions and answers not properly grouped together in code so that assistive technology, like screen readers can understand the full context."
+        },
+        {
+            "text": "An example of this could be a question which asks, \u201cAre you happy today?\u201d with two radio buttons to allow the user to select yes or no. If not properly implemented some screenreader users might navigate to the page and only hear the yes/no answers without the question being conveyed to them. This is usually an easy fix and aligning to the GOV.UK Design System components for questions can help resolve this."
+        },
+        {
+            "text": "Some issues I come across go beyond failures of the Web Content Accessibility Guidelines though, just because something can technically pass an audit doesn\u2019t mean its usable for everyone so sharing feedback from real users with lived experience of disability or neurodiversity is important to consider as well as audit findings."
+        },
+        {
+            "heading": 3,
+            "text": "Will Cooper, Senior Accessibility Specialist, NHS Business Services Authority"
+        },
+        {
+            "text": "Some common issues that crop up consistently when I\u2019m reviewing\u00a0services and products:"
+        },
+        {
+            "text": "When I\u2019ve identified the issue, I\u2019ll provide a report with a WCAG failure\u00a0description, explanation of how it impacts users and a code snippet\u00a0showing how to fix it. To try and stop the issue arising we\u2019ve included\u00a0related checks in our manual testing checklists. I\u2019m also looking to\u00a0provide regular newsletters to our delivery teams with common\u00a0accessibility errors and how to avoid them, and provide guidance so\u00a0people can quickly test for these issues themselves."
+        },
+        {
+            "heading": 3,
+            "text": "Matt Proctor-Leake, Accessibility Specialist, Ministry of Justice"
+        },
+        {
+            "text": "Building on the, \"Everyone uses a PC or large screen\" point, I have come across certain components that are not responsive. The most common of these are data tables with more than 4 columns. At 400% zoom, some columns can disappear from view. In these cases, I provide reasoning for why we need it to be responsive (for users that rely on screen magnification), but I also provide a solution. I try not to come across as being too critical when I flag an accessibility concern (again, using the term \"concern\" rather than \"issue\") and I will always provide a solution (or two) for the team to consider. Positivity is a must!"
+        },
+        {
+            "heading": 2,
+            "text": "Question 3 - What tools do you rely on for accessibility testing, and how do you determine which ones are the best for specific use cases?"
+        },
+        {
+            "heading": 3,
+            "text": "Jamie Gaskell, Senior Accessibility Specialist, Scottish Government"
+        },
+        {
+            "text": "I think the most reliable tools I use are the internet browser developer tools, a keyboard and a screen reader such as JAWS. There are lots of automated tools\u00a0available, however not all accessibility issues can be found using automated solutions."
+        },
+        {
+            "text": "For example, an automated accessibility scan can be useful to highlight interactive\u00a0elements on the page and determine if they have accessible names. However, a\u00a0manual check would then be required to determine that the accessible name is\u00a0suitable. This is best done through either using the browser developer tools or\u00a0checking with a screen reader."
+        },
+        {
+            "heading": 3,
+            "text": "Andrew Hick, Senior Accessibility Specialist, Government Digital Service"
+        },
+        {
+            "text": "I use Axe and Wave a lot, but agree they can only detect 30-40% of issues. They\u2019re particularly useful to find issues with code and labels, and some contrast issues."
+        },
+        {
+            "text": "Using a screen reader often alerts me to issues before I inspect code - I like to gauge the likely impact to users before the theoretical quality of the code."
+        },
+        {
+            "text": "Finally, while artificial intelligence (AI) tools have the potential to speed up testing, I think they\u2019re a long way from detecting everything. For example, AI can detect or suggest alternative text, but won\u2019t know why the author added the image."
+        },
+        {
+            "heading": 3,
+            "text": "Jon O\u2019Donnell, Senior Accessibility Specialist, Department for Work and Pensions"
+        },
+        {
+            "text": "To help content creators, DWP has launched a dedicated page for document accessibility training. This includes resources like checklists to help content creators incorporate accessibility from the beginning of their projects."
+        },
+        {
+            "text": "In July 2024, I published a new DWP policy, the Digital Document Accessibility Policy, and delivered awareness sessions for all Intranet and SharePoint publishers to ensure that checks are performed on all newly uploaded content. Over the past two years, I've led more than one hundred consultations and presented at over ten all-colleague calls, reaching hundreds of colleagues to raise awareness."
+        },
+        {
+            "text": "When we consider audits in terms of documents, it requires a completely different approach than what we would use for websites. Audits focus on official documents or those that are downloaded in high volumes. The process always starts with an automated check."
+        },
+        {
+            "text": "My long-term strategy has always focused on enhancing skill levels through education and support. With millions of documents on our servers, it's simply not possible to audit them all. We need to tackle accessibility issues right at the source, where most errors happen and where it is cheapest to correct. This is why we direct our resources primarily towards authors and content creators."
+        },
+        {
+            "text": "A crucial aspect of addressing skill gaps within the organisation is to improve the offer by adding new eLearning. It's impractical for me and a small team to train over 87,000 colleagues through individual consultations and calls. Therefore, in partnership with the Cabinet Office, I am developing three new courses for Word, PowerPoint, and Excel for Civil Service Learning. The first course, Creating Accessible Word Documents, was published in August last year (2024), and the next one, Creating Accessible PowerPoint Presentations, is currently in its final accessibility testing phase, with hopes for publication in April 2025. The Excel course is still in development and is expected to launch in Autumn 2025. The good news is there is no need for an alternative accessible version; these courses are designed to be universally accessible for everyone and specific instructions are provided in multiple ways such as Mouse, Keyboard and Voice."
+        },
+        {
+            "heading": 3,
+            "text": "Marianne Glover, Accessibility Specialist, His Majesty\u2019s Land Registry"
+        },
+        {
+            "text": "Most of our testing is done by professional testers. I am currently testing internal documents and Sharepoint sites. I use the in-built Microsoft Checker then scan by eye. I tend to use the in-built checkers to help encourage colleagues to do the same when they are creating and editing their content.\u00a0"
+        },
+        {
+            "text": "When testing web content. I use the WAVE and AXE checkers to get a good overall picture of the accessibility of the content. I also test using just my keyboard, Voiceover, NVDA and Read and Write. I run a phase system, most people start on phase 1 and focus on getting the automated checker issues cleared. Next I encourage colleagues to review their content, looking specifically at the wording. I often emphasise the importance of this by discussing the statistics on colour blindness, average reading age and I show how I used to write as a dyslexic child.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Lori Thomson, Accessibility Standards Manager, Student Loans Company"
+        },
+        {
+            "text": "I use a mix of automated testing, manual testing and assistive technology to test with and keep up to date with the guidance for testing for accessibility on the GOV.UK Service Manual."
+        },
+        {
+            "text": "I have a few that I use as basics for example NVDA (free screenreader), Dragon (paid for speech recognition), keyboard only testing and I also use WAVE and ARC Toolkit which are browser plugins. There are lots of different plugins available for free and Windows, Android and Apple devices all have accessibility features built in which can be used to get an idea of how accessible something is."
+        },
+        {
+            "text": "Depending on the user base of the thing I\u2019m testing, I might change the tools I use, for example if I\u2019m testing a public facing website, I\u2019d use a wide range of tools and devices, but if I\u2019m testing an internal system that is only available to access through certain browsers or devices, I\u2019d only test with those."
+        },
+        {
+            "heading": 3,
+            "text": "Will Cooper, Senior Accessibility Specialist, NHS Business Services Authority"
+        },
+        {
+            "text": "I try to get as much testing coverage as possible by testing with a range of assistive technologies recommended by GOV.UK, browser plugins like\u00a0Wave, Axe and Accessibility Insights for Web, and manual tests like\u00a0keyboard only navigation."
+        },
+        {
+            "text": "We\u2019ve had a lot of good collaboration between different areas in the\u00a0organisation to produce manual accessibility testing checklists for web\u00a0pages, documents and data visualisations."
+        },
+        {
+            "text": "The type of testing I conduct is usually determined by deadlines, the\u00a0number of pages in a user journey, or a specific user need. We recently\u00a0invested in adding JAWS to our accessibility testing package. We have\u00a0colleagues who are JAWS users, we develop internal services, and it just\u00a0makes sense to test with the same technologies that our users are using."
+        },
+        {
+            "heading": 3,
+            "text": "Matt Proctor-Leake, Accessibility Specialist, Ministry of Justice"
+        },
+        {
+            "text": "For testing I use a combination of automated tools, a manual checklist and Assistive Technology. As useful as the automated tools are, it is vitally important not to rely on these as the only source of testing. I use various extensions such as 'Wave' and 'HMRC Pattern checker', which tend to catch errors such as low colour contrast, incomplete page titles and missing form labels. The aim of the manual checklist is to scan for concerns that the automated tools cannot find, such as keyboard navigation and checking that errors make sense. I finish with an Assistive Technology check (mainly VoiceOver and Voice Control, being a Mac user), which is surveying for many things including descriptive links and hidden text. These three types of testing aim to catch as many accessibility concerns as possible."
+        }
+    ]
+}
