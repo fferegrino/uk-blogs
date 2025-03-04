@@ -1,0 +1,118 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/03/04/dbts-machinery-of-government-an-insight-into-the-teams-behind-the-single-it-platform-migration-project-part-1/",
+    "title": "DBT's Machinery of Government: an insight into the teams behind the Single IT Platform migration project (part 1)",
+    "authors": [
+        "Charlotte Saxby, Engagement Manager",
+        "Gerry Alegieuno, Senior Delivery Manager",
+        "Margaret Philipson, Project Manager, Knowledge and Information Management"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2025-03-04T09:57:33+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Charlotte Saxby"
+        },
+        {
+            "text": "In 2023, A Machinery of Government (MoG) (the restructuring of government departments) initiative set out to reshape the Department for Business, Energy and Industrial Strategy (BEIS) into 3 new entities:"
+        },
+        {
+            "text": "This transformation brought together colleagues from former BEIS (fBEIS) and the former Department for International Trade (fDIT) to form the new Department for Business and Trade (DBT). You can read more about this in the blog from the GOV.UK content team."
+        },
+        {
+            "text": "This merger created a need for colleagues to access systems and tools on one Single DBT IT platform. This was a massive change, involving the migration of almost 2,000 colleagues from the fBEIS platform to DBT."
+        },
+        {
+            "text": "The migration process was divided into 4 key stages: \u00a0"
+        },
+        {
+            "text": "The MoG Programme Team was comprised of colleagues from the Digital, Data and Technology (DDaT) directorate and the Knowledge and Information Management (KIM) team. The teams worked tirelessly across several workstreams to ensure the success of DBT\u2019s Single IT Migration. \u00a0"
+        },
+        {
+            "text": "This is the first of a 2-blog series exploring how we delivered one of the fastest and most cost-efficient migration programmes of this scale ever executed within government!"
+        },
+        {
+            "heading": 3,
+            "text": "Gerry Alegieuno"
+        },
+        {
+            "text": "I was responsible for 2 key workstreams in the MoG Programme for DDaT:"
+        },
+        {
+            "text": "These 2 workstreams are closely linked. Once both activities are complete, colleagues are moved onto DBT\u2019s Single IT Platform, and their BEIS licenses can be closed."
+        },
+        {
+            "text": "Working in the PDM and Device Rollout workstreams requires close interaction with other workstreams in the programme, including SharePoint (Shared online libraries where colleagues can store, organise and work on documents together with their teams), Applications, and particularly the Change, Communications and Engagement workstream (CCE). This joined-up approach helps our workstreams align migration timelines for each cohort. \u00a0These are supported through interactions with Migration Champions and individual colleagues.\u00a0"
+        },
+        {
+            "text": "One major challenge we faced in PDM was the change of external supplier carrying out the data migrations in the middle of the delivery timeline due to the contract ending. This required a downtime period while we worked to onboard a new supplier."
+        },
+        {
+            "text": "Additionally, challenges arose around securing user data when software or hardware issues prevented successful data migration."
+        },
+        {
+            "text": "I am proud that despite these hurdles we managed to protect the delivery timelines, working around delays and managing communications to set expectations. Risks were also reduced by direct early communication with affected colleagues and prompt issue identification."
+        },
+        {
+            "text": "On the Device Rollout side, the biggest challenge has been engagement with colleagues and ensuring high attendance levels. We continuously carried out user research to identify parts of the process that needed improvement. We have now built a streamlined communications and engagement model to optimise interaction and turnout from colleagues. We'll talk about the approach we used to engage colleagues in more detail in our second blog, so keep an eye out for that coming in April. "
+        },
+        {
+            "text": "\u201cI experienced clear communication from the team throughout the migration. They attended our directorate calls and kept us informed through each step. I knew where to go for support, and the device changeover was much simpler than I expected!\u201d - User Feedback"
+        },
+        {
+            "text": "The key takeaways for future projects include:"
+        },
+        {
+            "heading": 2,
+            "text": "SharePoint migration"
+        },
+        {
+            "heading": 3,
+            "text": "Margaret Philipson"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "The KIM team, part of Corporate Services within DBT, governs the process of creating, sharing, using and managing information in a compliant manner."
+        },
+        {
+            "text": "Our team, along with our external contractor, formed the SharePoint workstream to ensure that all SharePoint (SP) records were transferred securely from fBEIS into DBT."
+        },
+        {
+            "text": "To achieve this, we mapped the SP sites for each migration group, engaged with the Information Managers (IMs) for their sites and explained the migration process.\u00a0The IMs were key to the success of the SharePoint migration."
+        },
+        {
+            "text": "We checked if the sites should be moved to DBT, rather than DSIT or DESNZ, before migrating the SP sites using an approved tool (ShareGate). Once migrated, the sites were validated by the IMs and moved to business-as-usual support.\u00a0"
+        },
+        {
+            "text": "The SharePoint workstream collaborated with a lot of other workstreams on the MoG. Particularly as SharePoint was one of the first steps in the digital migration experience. Our early engagement meant that any issues raised could then be passed onto other workstreams for awareness."
+        },
+        {
+            "text": "We regularly interacted with the Device Rollout workstream to share ideas and collaborated with CCE for early engagement with Sponsors and Migration Champions. User Research gathered feedback from colleagues on their SP migration experience which enabled us to continually improve our processes as the programme developed. We also led initial engagement with Partner Organisations, anything raised by them was also passed onto the Applications and Power BI teams. We regularly updated the Project Management Office (PMO) about our progress and any programme-wide changes."
+        },
+        {
+            "text": "Being part of a complex programme with many moving parts and teams relying on each other has been challenging. Navigating the department, working out where teams and Partner Organisations sat within directorates, and dealing with constantly changing business needs were also challenges. We learned that although this was a tech project, it was most importantly about people."
+        },
+        {
+            "text": "We adapted our plans to take account of changes with Director General areas and across DBT. We made continuous improvements to adapt to colleagues, such as making mapping exercises more user-friendly and introducing worked examples to our presentations."
+        },
+        {
+            "text": "The SharePoint migration ensured that everyone could continue working through the technical move between fBEIS and DBT. Our primary goal was to make this as smooth as possible."
+        },
+        {
+            "text": "As part of the MoG, we reviewed 735 SharePoint sites containing over 27 Terrabytes of data.\u00a0"
+        },
+        {
+            "text": "Fun fact: If we were to print off all the data, it would cover approximately 28,311,552 pages. Stacked together this would be 9400m (taller than Mt Everest)!"
+        },
+        {
+            "text": "This is just a snapshot of some of the work which has gone into this monumental project within the last 2 years. ! Even though we\u2019re nearing the end of this major project, there has been a huge amount of learning. We are capturing it to share with colleagues across government and for the future. "
+        },
+        {
+            "text": "Look out for part 2 in this blog series to find out more!"
+        }
+    ]
+}
