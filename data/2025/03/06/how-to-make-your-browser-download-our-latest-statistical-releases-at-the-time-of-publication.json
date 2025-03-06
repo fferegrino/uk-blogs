@@ -1,0 +1,88 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2025/03/06/how-to-make-your-browser-download-our-latest-statistical-releases-at-the-time-of-publication/",
+    "title": "How to make your browser download our latest statistical releases at the time of publication",
+    "authors": [
+        "Tanya Vaughan"
+    ],
+    "categories": [
+        "Technology",
+        "Website"
+    ],
+    "pub_date": "2025-03-06T09:54:10+00:00",
+    "content": [
+        {
+            "text": "With around 2 million page views a month, our website is the primary platform for us to deliver high quality data to inform the UK, improve lives and build for the future. Therefore, it\u2019s essential that our website is performant, reliable, and gives our users the information they need, when they need it and in the way they want it."
+        },
+        {
+            "text": "Our busiest time is at 7am when we publish our popular market sensitive releases \u2013 we usually see about 50,000 hits a minute. The code of practice for statistics requires that \u201cstatistics should be available to all users at the same time\u201d so we must ensure our website can meet demand. To do this, we cache our website content and explain here why we do it, the different types of caching and how to make sure your browser downloads our releases at the time of publication."
+        },
+        {
+            "heading": 2,
+            "text": "The different types of cache"
+        },
+        {
+            "text": "Caching our website content ensures that all users can get the latest release as close to the publication time as possible.\u00a0 A round trip to our servers for the release would reduce the response time and introduce unnecessary server requests \u2013 once published, the release content is static, so we use a Content Delivery Network (CDN) to take a copy of the content and serve it to browsers."
+        },
+        {
+            "text": "By using a CDN, our content is cached closer to our end users on geographically distributed servers, allowing quicker download of the release and the files which make up the web pages. Browsers on end user devices also use caching.\u00a0 Every time a user visits a webpage, the browser downloads everything on that webpage - HTML, JavaScript, stylesheets, images etc.\u00a0 To speed up the time it takes to display the page again, the browser caches everything it downloads by saving a copy of the files on the device.\u00a0 Browsers store these files until their time to live (TTL) expires or users manually clear their browser cache (TTL tells the browser how long to cache the content before downloading it again)."
+        },
+        {
+            "heading": 2,
+            "text": "At the time of release"
+        },
+        {
+            "text": "We can only update the CDN at the point of release and until then, the CDN will have a copy of the pre-release page.\u00a0 To do this we need to clear the CDN cache to force it to load the new release page.\u00a0 This is currently done manually, and we\u2019ll soon be introducing an automated clear to further reduce the time taken."
+        },
+        {
+            "text": "To make sure you get the content promptly, forcing your browser to refresh the cache it holds for the page will make sure it downloads and displays our latest release.\u00a0 Here\u2019s how to do it."
+        },
+        {
+            "heading": 2,
+            "text": "How to clear local browser cache"
+        },
+        {
+            "heading": 3,
+            "text": "Clear  cache for current page"
+        },
+        {
+            "heading": 4,
+            "text": "Windows:"
+        },
+        {
+            "heading": 4,
+            "text": "Mac OS:"
+        },
+        {
+            "heading": 3,
+            "text": "Clear all browser cache (not just current page)"
+        },
+        {
+            "heading": 4,
+            "text": "Windows (Chrome, Edge)"
+        },
+        {
+            "heading": 4,
+            "text": "Windows (Firefox)"
+        },
+        {
+            "heading": 4,
+            "text": "Mac OS (Chrome)"
+        },
+        {
+            "heading": 4,
+            "text": "Mac OS (Firefox)"
+        },
+        {
+            "heading": 3,
+            "text": "Clear cache on mobile devices"
+        },
+        {
+            "heading": 4,
+            "text": "iOS (Safari)"
+        },
+        {
+            "heading": 4,
+            "text": "Android (Chrome)"
+        }
+    ]
+}
