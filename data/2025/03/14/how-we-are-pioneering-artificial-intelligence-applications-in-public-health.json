@@ -1,0 +1,59 @@
+{
+    "url": "https://ukhsa.blog.gov.uk/2025/03/14/how-we-are-pioneering-artificial-intelligence-applications-in-public-health/",
+    "title": "How we are pioneering artificial intelligence applications in public health\u00a0",
+    "authors": [
+        "Blog Editor"
+    ],
+    "categories": [
+        "UKHSA science"
+    ],
+    "pub_date": "2025-03-14T10:38:11+01:00",
+    "content": [
+        {
+            "text": "The UK Health Security Agency (UKHSA) is harnessing the power of artificial intelligence (AI) to address health security challenges. Here are 3 examples of projects that demonstrate how we're using cutting-edge AI technology to protect and improve public health.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Using AI to understand patient experiences"
+        },
+        {
+            "text": "Understanding patients' lived experiences is crucial for improving healthcare services. Traditionally, analysing qualitative survey data has been time-consuming and resource-intensive. We're now using Large Language Models (LLMs) to accelerate this process.\u00a0"
+        },
+        {
+            "text": "In a recent project analysing responses from the Positive Voices 2022 survey of people living with HIV, our AI system successfully identified key themes from over 1,600 responses about the U=U (Undetectable = Untransmissible) concept. The AI-driven approach is currently undergoing human validation, but demonstrates the potential for AI to dramatically speed up the use of qualitative analysis in public health research.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Using AI to detect food-borne illness outbreaks\u00a0"
+        },
+        {
+            "text": "Food-borne gastrointestinal illness represents a significant health burden in the UK, affecting millions annually, yet most cases remain undiagnosed through traditional surveillance. Our tech experts and scientists evaluated various LLMs for their ability to analyse thousands of online reviews, screening for key terms related to gastrointestinal symptoms - such as diarrhoea, vomiting and abdominal pain - alongside mentions of specific food types like meat and fish."
+        },
+        {
+            "text": "While previous research has explored similar approaches, UKHSA's study is more comprehensive, examining a much more detailed list of terms and language patterns that could help identify illness outbreaks. The research has highlighted important challenges that must be addressed before widespread implementation, particularly regarding data access and quality."
+        },
+        {
+            "text": "With further work, this approach could potentially become a routine part of public health surveillance, capturing cases that currently slip through existing monitoring systems while providing critical insights into possible sources of outbreaks."
+        },
+        {
+            "heading": 3,
+            "text": "Making public health guidance more consistent\u00a0"
+        },
+        {
+            "text": "Clear, consistent guidance is essential during health emergencies. UKHSA maintains hundreds of guidance documents for members of the public and professionals, and consistency is important to reduce the risk from health hazards. Manual reviews of guidance documents are time consuming and challenging. A recent project uses secure LLMs on UKHSA\u2019s computing clusters to automatically detect potential conflicts between public health guidance recommendations. The system lets users upload a piece of guidance in development and automatically retrieves existing, relevant sections of UKHSA guidance, then flags any potential conflicts between them. This is currently being user-tested internally, and is showing promising early results, with over 90% accuracy rates in both retrieving relevant text and identifying discrepancies in recommendations."
+        },
+        {
+            "text": "This tool could help ensure public health messaging remains clear and consistent, particularly during fast-moving health emergencies."
+        },
+        {
+            "heading": 3,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "With AI still in its infancy, we can only imagine the potential advantages it could bring to public health provision in the future. "
+        },
+        {
+            "text": "Dr Nick Watkins, Deputy Director Data Science & Geospatial and Chief Data Scientist at UKHSA said:"
+        }
+    ]
+}

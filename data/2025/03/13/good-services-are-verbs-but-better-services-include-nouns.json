@@ -1,0 +1,119 @@
+{
+    "url": "https://publicpolicydesign.blog.gov.uk/2025/03/13/good-services-are-verbs-but-better-services-include-nouns/",
+    "title": "Good services are verbs, but better services include nouns",
+    "authors": [
+        "Toby Squire",
+        "Rhiannon Long"
+    ],
+    "categories": [
+        "Case study",
+        "PublicPolicyDesign"
+    ],
+    "pub_date": "2025-03-13T12:00:00+00:00",
+    "content": [
+        {
+            "text": "When you think of a kitchen, what words come to mind? What about when you think of a classroom? Or a game of football?"
+        },
+        {
+            "text": "Chances are, the words you think of are nouns. Objects \u2013 like sink, food, freezer. Whiteboard, desks. Ball, goalposts, pitch."
+        },
+        {
+            "text": "As humans, we naturally turn to objects to help orient ourselves in the world. When we look through a shop window, it\u2019s the objects we see inside which tell us whether that shop sells pet food or DIY supplies."
+        },
+        {
+            "text": "That\u2019s the philosophy behind object-oriented user experience, or OOUX. Humans think in objects. And we need tangible, recognisable objects to help make sense of the physical spaces we\u2019re in."
+        },
+        {
+            "text": "That\u2019s true for digital spaces, too."
+        },
+        {
+            "heading": 2,
+            "text": "Citizens struggle to find what they need"
+        },
+        {
+            "text": "Department for Environment, Food & Rural Affairs\u2019 policy design lab works on the farming programme, trialling innovative, experimental methods to tackle complex policy and delivery challenges. A few months ago, we turned our attention to the digital services and\u00a0information we\u2019re offering to farmers."
+        },
+        {
+            "text": "We deal with a lot of objects. We support farmers to carry out sustainable initiatives on their farms, offering funding and grants to help them buy equipment, build stores, repair buildings, care for livestock, and carry out environmentally friendly agricultural practices."
+        },
+        {
+            "text": "When it comes to representing all these things in a digital space, it can get busy."
+        },
+        {
+            "text": "Farmers have told us our content can be hard to find and understand. They\u2019ve said that sometimes, it\u2019s hard to know if they\u2019ve found everything they need. They\u2019re not always sure how farming rules, or funding schemes, apply to their personal situations. As a result, interacting with digital services from government can get frustrating, and take up precious time."
+        },
+        {
+            "heading": 2,
+            "text": "An object-oriented approach to services"
+        },
+        {
+            "text": "Designers in government have lived by the mantra that good services are verbs, bad services are nouns. This is a design principle that\u2019s enshrined in the government\u2019s Service Manual."
+        },
+        {
+            "text": "The reality is that citizens are still confused by the name of some public services \u2013 including some which are verb-led."
+        },
+        {
+            "text": "For a citizen searching the internet, the significant hook in Apply for a provisional driving licence is not \u2018apply\u2019. And nor is it \u2018driving licence\u2019. It\u2019s both."
+        },
+        {
+            "text": "I might need to \u2018do\u2019 lots of things when it comes to my driving licence \u2013 renew it, apply for it, return it."
+        },
+        {
+            "text": "But I\u2019ll probably also need to use those verbs to \u2018do\u2019 other things too. I might renew my passport. Apply for a visa. Return a tax form."
+        },
+        {
+            "text": "In this example, neither noun nor verb are doing the heavy lifting \u2013 they\u2019re both important. But it\u2019s easy to get caught up in the naming of things \u2013 and worry about which is \u2018correct\u2019. Ultimately, if we don\u2019t know how the user perceives the world \u2013 or describes the actions they need to do on objects \u2013 then we won\u2019t be able to design something that meets their needs."
+        },
+        {
+            "text": "So in this project, before we even began thinking about interactions with government, we started by mapping farmers\u2019 physical world, from their perspective."
+        },
+        {
+            "heading": 2,
+            "text": "What matters to farmers"
+        },
+        {
+            "text": "As a policy lab, we started exploring how we could make this complex digital landscape simpler, and more intuitive, for farmers. That\u2019s where OOUX came in."
+        },
+        {
+            "text": "We imagined how our digital offer might look if we framed it through the lens of objects \u2013 through the core concepts which matter to our users. If a farmer comes to us looking for the rules on storing slurry, or the funding they could get for building a new slurry store, or guidance on using a slurry separator, then they\u2019ll need to go to 3 separate places. But what would happen if all that information could be found in one, connected place?\u00a0That\u2019s what we set out to investigate."
+        },
+        {
+            "heading": 2,
+            "text": "More strategic, user-focused information"
+        },
+        {
+            "text": "Through a series of 3 workshops, we stress-tested the OOUX method on colleagues in the farming programme, to understand how it might work for different policy teams, and whether colleagues saw value in the approach."
+        },
+        {
+            "text": "Together, we developed an object map\u00a0\u2013 a diagram of some of the objects which hold real-life value to the farmers accessing our information. We mapped out how those objects relate to each other, and the actions users need to take on those objects in the digital space. We also considered what key pieces of information users need to know about these objects, in order to meet their goals."
+        },
+        {
+            "text": "We sketched-out what our content might look like if it were framed through the objects on the map. As we did this, we interrogated \u2013 what difference does that make? How could this framing reduce duplication? Does it make things more intuitive for users? And how feasible would it be to develop content this way, going forward?"
+        },
+        {
+            "text": "We started to get a sense of some of the ways this object-oriented approach might make things more intuitive to farmers. Some workshop participants thought this was a more strategic, user-focused way of displaying our information. Some thought it could make our internal processes more efficient and joined-up."
+        },
+        {
+            "heading": 2,
+            "text": "Continuous iteration"
+        },
+        {
+            "text": "We were still left with questions... How would we feasibly map out all the objects important to farmers? How could something so huge be usable? How do we make such a fundamental change to the way we conceive of our digital offering?"
+        },
+        {
+            "text": "This project was a successful way of quickly interrogating a method, putting it into practice and seeing what came out. While we started to see the value of OOUX, we still need more evidence before we can quantify the value it will have for farmers accessing our digital information."
+        },
+        {
+            "text": "Those will be the next steps \u2013 testing further, quantifying the value, and understanding the real impact this method has on making our information easier to find and use."
+        },
+        {
+            "text": "Since this project, the farming programme\u2019s content improvement team are further exploring the OOUX approach. Working with the behavioural insights team, they\u2019ve produced new drafts of some of our regulatory farming information, using an object-oriented approach. They\u2019re in the process of testing these drafts, to get an evidence-based understanding of what difference OOUX could make to our farming information."
+        },
+        {
+            "text": "Go to the OOUX website to learn more about the object-oriented approach. "
+        },
+        {
+            "text": "What do you think? We'd love to hear from you.\u2026leave your comments below!"
+        }
+    ]
+}
