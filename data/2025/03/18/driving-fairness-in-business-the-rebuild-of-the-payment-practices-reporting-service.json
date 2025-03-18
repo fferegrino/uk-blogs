@@ -1,0 +1,110 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/03/18/driving-fairness-in-business-the-rebuild-of-the-payment-practices-reporting-service/",
+    "title": "Driving Fairness in Business: The rebuild of the Payment Practices Reporting Service",
+    "authors": [
+        "Tracey Wilson, Deputy Service Owner"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-03-18T10:13:05+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Tracey Wilson"
+        },
+        {
+            "text": "Imagine the challenges small businesses face when waiting weeks\u2014or even months\u2014for large companies to pay their invoices. Late payments can create serious cash flow problems, making it difficult for businesses to pay suppliers, invest in growth, or even stay afloat. Tackling these delays is central to the Department for Business and Trade\u2019s (DBT) mission to support small business growth and build a resilient economy. As a key ministerial priority for DBT, the Payment Practices Reporting Service plays a vital role in developing a fairer and more sustainable business environment."
+        },
+        {
+            "text": "Originally launched in 2017 by the Department for Business, Energy & Industrial Strategy (BEIS), the service helps ensure that large businesses report their payment practices transparently. Following the merger of BEIS with the Department for International Trade (DIT) into DBT, a decision was made to rebuild the service.\u00a0 This meant it would meet modern technology and design standards and prepare for new regulatory requirements taking effect on 1 January 2025.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Why a rebuild was needed: Addressing challenges and new reporting requirements \u00a0"
+        },
+        {
+            "text": "Limited support made the original service hard to maintain and update, hindering adaptation for new reporting requirements, especially in the construction sector.\u00a0\u00a0"
+        },
+        {
+            "text": "However, rebuilding the service wasn\u2019t just about regulatory compliance\u2014it was an opportunity to create a scalable, user-centred service that meets the needs of businesses and policy teams alike.\u00a0\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Meeting new reporting requirements\u00a0"
+        },
+        {
+            "text": "Rebuilding the service allows us to be much more responsive to future policy and legal changes. Since January 2025, large businesses now need to report on:\u00a0\u00a0"
+        },
+        {
+            "text": "To address these changes, a content designer analysed the regulations and drafted updates, verified with policy and legal teams. The interaction designer used Figma \u2014a design tool\u2014to prototype and test layouts with users.\u00a0\u00a0 With the help of a user researcher, the prototypes underwent 2 rounds of usability testing. These sessions offered valuable insights into how users interacted with the proposed changes. Further testing is planned to ensure the service is as user-friendly and effective as possible."
+        },
+        {
+            "heading": 4,
+            "text": "Accessibility"
+        },
+        {
+            "text": "An audit by the Digital Accessibility Centre (DAC) highlighted key issues in the legacy service, which was built before public sector accessibility regulations. The rebuild addressed many of these issues using modern GOV.UK components and updated development practices.\u00a0\u00a0"
+        },
+        {
+            "text": "An accessibility statement has been published, detailing remaining issues and outlining plans to resolve them."
+        },
+        {
+            "heading": 3,
+            "text": "The technical transformation\u00a0"
+        },
+        {
+            "text": "The rebuild began in June 2024, focusing on replicating all legacy features to ensure a seamless transition for users. Accessibility and usability improvements were prioritised where possible without disrupting core functionality. To ensure reliability, the team created automated end-to-end tests using Behave and Playwright, to confirm that the rebuilt service matched all the features of the original."
+        },
+        {
+            "heading": 3,
+            "text": "Data Migration challenges"
+        },
+        {
+            "text": "Data migration involved updating legacy data to work with Django, a web development tool, cleaning outdated entries, and ensuring it fit the new platform."
+        },
+        {
+            "heading": 3,
+            "text": "Post-launch enhancements"
+        },
+        {
+            "text": "Since the relaunch on 6 December 2024, the team has improved functionality and reliability through several key enhancements. These include a fully functional archive system, enhanced data validation, streamlined updates and proactive monitoring to ensure reliable performance."
+        },
+        {
+            "heading": 3,
+            "text": "Driving impact: Benefits for users"
+        },
+        {
+            "text": "The improved Payment Practices Reporting Service benefits a wide range of stakeholders:\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What's next: Supporting Live Service and continuous improvement\u00a0"
+        },
+        {
+            "text": "The rebuilt service is now supported by a dedicated live services team that focuses on:\u00a0\u00a0"
+        },
+        {
+            "text": "This team will also manage other live services within the Trade and Regulatory Services portfolio in DDaT, scaling resources as needed."
+        },
+        {
+            "heading": 3,
+            "text": "Conclusion: A step forward for small businesses"
+        },
+        {
+            "text": "Rebuilding the Payment Practices Reporting Service has been a journey of collaboration, innovation, and user-centred design. The new service not only meets updated reporting requirements but also provides a scalable foundation for future enhancements.\u00a0"
+        },
+        {
+            "text": "\u201cWe are grateful to the DDaT team for their exceptional work on this rebuild. The rebuilt payment reporting service is a crucial foundation for our wider upcoming work on tackling late payments and long payment terms to help UK businesses get paid quickly and fairly,\u201d\u00a0said the policy team."
+        },
+        {
+            "text": "For small businesses, the service marks a significant step toward greater transparency and accountability, ensuring that large companies pay their invoices quickly and fairly. "
+        },
+        {
+            "text": "For DBT, it exemplifies the value of agile methodologies and teamwork in delivering impactful digital services.\u00a0As we look ahead, the focus remains on continuous improvement, ensuring this service and others like it, adapt to the evolving needs of businesses and policymakers.\u00a0"
+        },
+        {
+            "text": "Explore the rebuilt service, and visit our guidance page for more on the reporting requirements."
+        }
+    ]
+}
