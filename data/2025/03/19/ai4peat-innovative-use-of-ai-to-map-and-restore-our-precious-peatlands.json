@@ -1,0 +1,126 @@
+{
+    "url": "https://naturalengland.blog.gov.uk/2025/03/19/ai4peat-innovative-use-of-ai-to-map-and-restore-our-precious-peatlands/",
+    "title": "AI4Peat - Innovative use of AI to map and restore our precious peatlands",
+    "authors": [
+        "Anne Williams",
+        "Martha Tabor"
+    ],
+    "categories": [
+        "Climate change",
+        "Evidence",
+        "Landscapes",
+        "Mapping",
+        "Monitoring",
+        "Nature",
+        "Peat",
+        "Science and evidence"
+    ],
+    "pub_date": "2025-03-19T14:30:28+00:00",
+    "content": [
+        {
+            "heading": 4,
+            "text": "Restoring Peatlands"
+        },
+        {
+            "text": "Peatlands are among the UK's most valuable ecosystems, playing a crucial role in carbon storage, water regulation, and biodiversity."
+        },
+        {
+            "text": "However, many peatland areas have been degraded by historical drainage, erosion, and land-use changes."
+        },
+        {
+            "text": "Natural England is a key deliverer of the England Peat Action Plan, which sets out the government\u2019s long-term vision for the management, protection, and restoration of our peatlands, so that they provide a wide range of benefits to wildlife, people and the planet. Restoring these landscapes is vital for meeting the UK's climate and environmental goals, but to do so effectively, we need accurate and up-to-date maps of peatland condition."
+        },
+        {
+            "text": "Traditionally, mapping peatland features such as grips (artificial drainage channels), gullies (natural drainage features) and haggs (steep eroded peat edges), required field visits or manual digitisation, an approach that is both time-consuming and inconsistent across large areas."
+        },
+        {
+            "heading": 4,
+            "text": "The AI4Peat Project"
+        },
+        {
+            "text": "To address this challenge, the AI4Peat project has used artificial intelligence (AI) to map peatland surface features across the uplands of England. "
+        },
+        {
+            "text": "The project won the Civil Service Data Challenge in 2021 with a proposal to leverage deep learning models and aerial imagery to create this map, representing a step change in how we monitor and manage the natural environment. "
+        },
+        {
+            "heading": 4,
+            "text": "Using Computer Vision for Peatland Mapping"
+        },
+        {
+            "text": "Our approach harnesses two types of deep learning models to automate this process:"
+        },
+        {
+            "text": "These models were trained using existing digitised data, enabling them to detect subtle landscape features in high-resolution aerial imagery (12.5 cm resolution Aerial Photography for Great Britain) and LiDAR terrain data."
+        },
+        {
+            "text": "The trained models were then deployed over all areas of England\u2019s upland peatland, producing a national scale map of peatland surface features. This provides a comprehensive and repeatable method for monitoring peatland damage and restoration over time, allowing land managers and policymakers to assess changes and target restoration efforts more effectively."
+        },
+        {
+            "text": "An example of the outputs for an area in the Yorkshire Dales is shown below:"
+        },
+        {
+            "text": "The mapped features support field workers by clearly indicating their locations on the ground."
+        },
+        {
+            "text": "The image below shows an area of hagged peat and gullies in the Peak District, with the features mapped by the models above and the corresponding features on the ground shown below:"
+        },
+        {
+            "heading": 4,
+            "text": "Project Partners"
+        },
+        {
+            "text": "Restoration is a time, labour, and cost-intensive process and these datasets will free up time currently spent on mapping, allowing restoration projects to focus their efforts on the actual maintenance and restoration. Through collaboration with the peatland community, we have gathered valuable feedback to refine the datasets to best help restoration teams."
+        },
+        {
+            "text": "Training AI models requires a substantial amount of labelled data to allow the models to identify features across diverse peatland environments. Peatland partnerships such as Moors for the Future, the Yorkshire Peat Partnership and the National Trust, contributed large volumes of training data. "
+        },
+        {
+            "text": "Collaboration with the England Peat Map team, who coordinated this collection, was essential to the success of the model training, enhancing the quality and accuracy of the features in the final data output.\u00a0"
+        },
+        {
+            "text": "The project is being supported by Microsoft and Databricks on Defra\u2019s new MS Azure cloud computing platform, which allows complex computation to be done much faster than on a regular computer \u2013 an essential requirement for a project dealing with such large datasets. This also makes it possible to easily repeat the process when new aerial imagery becomes available, allowing changes, for example new restoration, to be tracked over time."
+        },
+        {
+            "text": "The project is also working with the Alan Turing Institute to establish trustworthy assurance and ethics processes for environmental AI projects."
+        },
+        {
+            "heading": 4,
+            "text": "England Peat Map"
+        },
+        {
+            "text": "AI4Peat\u2019s outputs will be published as part of Natural England\u2019s England Peat Map, due to launch in spring 2025. This will be the most up-to-date, complete and useable map of England\u2019s peat available. "
+        },
+        {
+            "text": "As well as the peatland drainage and erosion features documented by AI4Peat, the wider map will also show the extent, depth, and vegetation coverage of peat and peaty soils across England."
+        },
+        {
+            "heading": 4,
+            "text": "Future Potential"
+        },
+        {
+            "text": "This project aligns with the UK government\u2019s AI Opportunities Action Plan, which promotes the responsible use of AI to improve public services and decision-making."
+        },
+        {
+            "text": "In particular, the success of this approach demonstrates how AI can be used to improve the efficiency of environmental monitoring. These types of techniques can be replicated, for example to detect or count animal species of interest, or to track changes in land use or monitor coastal erosion, providing vital insight into how our natural environment is changing and whether policy interventions are working as expected. "
+        },
+        {
+            "text": "The skills, experience and data pipelines built during the AI4Peat project can therefore be used on other use-cases across Defra Group and government to accelerate similar AI projects."
+        },
+        {
+            "text": "Integrating similar AI techniques with other remote sensing data, such as satellite imagery or drone imagery, could further improve accuracy and extend monitoring capabilities across the UK and beyond."
+        },
+        {
+            "text": "If you have any questions about the project or want to learn more, please contact the AI4Peat team."
+        },
+        {
+            "text": "Anne Williams \u2013 Senior Project Manager \u2013 anne.williams@naturalengland.org.uk"
+        },
+        {
+            "text": "Michelle Johnson \u2013 Senior Data Scientist - Michelle.Johnson@naturalengland.org.uk"
+        },
+        {
+            "text": "Martha Tabor \u2013 Senior Data Scientist - martha.tabor@defra.gov.uk"
+        }
+    ]
+}

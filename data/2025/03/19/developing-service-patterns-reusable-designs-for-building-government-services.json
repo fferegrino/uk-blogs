@@ -1,0 +1,102 @@
+{
+    "url": "https://services.blog.gov.uk/2025/03/19/developing-service-patterns-reusable-designs-for-building-government-services/",
+    "title": "Developing service patterns - reusable designs for building government services",
+    "authors": [
+        "Martin Ford-Downes - Lead Service Designer, MOJ",
+        "Lindsay Stephens - Lead Service Designer, DWP",
+        "Gareth Thomas - Senior Interaction Designer, Defra"
+    ],
+    "categories": [
+        "Service design",
+        "Service transformation",
+        "Tools, methods and techniques"
+    ],
+    "pub_date": "2025-03-19T09:58:08+00:00",
+    "content": [
+        {
+            "text": "Over the past year a working group has developed a \u2018service pattern\u2019 that could be applied across all government departments. It contains recommendations on how to build a user-focused service that involves \u2018applying\u2019 for something. This blog post describes what a service pattern is, how this one was made, how we think it could help design better services, and what we\u2019d like to do next."
+        },
+        {
+            "heading": 2,
+            "text": "What are service patterns?"
+        },
+        {
+            "text": "Designers in government are already familiar with the use of patterns to create digital experiences. Components and patterns usually specify things like the design of a button, a date picker, or multi-page experiences like signing into an account. Using the same patterns in multiple government services can bring many benefits including efficiency, scalability, user experience consistency and improved accessibility.\u00a0"
+        },
+        {
+            "text": "\u2018Service patterns\u2019 take this idea a step further by describing replicable pieces of services that can be combined to build or shape end-to-end services. For example patterns for \u2018apply for something\u2019 and \u2018book an appointment\u2019 could be used to create services to receive a new benefits payment, get a new passport, and many others. A library of service patterns would act as design guides to build services in repeatable and consistent ways."
+        },
+        {
+            "text": "Work to create service patterns in government started independently in different departments before the working group came together to consider a cross-government approach. The Ministry of Justice (MOJ) have previously blogged about their experiences. Below we\u2019ve described the work done at the Department for Work and Pensions (DWP) and the Department for Environment, Food and Rural Affairs (Defra). We\u2019ll then describe the cross-government work to test how we create service patterns."
+        },
+        {
+            "heading": 2,
+            "text": "Service patterns at the Department for Work and Pensions"
+        },
+        {
+            "heading": 3,
+            "text": "Lindsay Stephens"
+        },
+        {
+            "text": "In 2022, as part of its broader service design strategy, the DWP User-Centred Design Practice set a goal to define service patterns. Our aim was to help design common services which meet user and business needs and provide better policy outcomes.\u00a0\u00a0"
+        },
+        {
+            "text": "A year later, we had the opportunity to run a discovery in partnership with an external partner, who previously helped Essex County Council to define service patterns. Their method involved analysing as-is service maps to understand common aspects and define patterns. \u200bWe quickly realised that would not be feasible due to the scale of DWP, so we looked at available evidence and decided to derive patterns from common user needs."
+        },
+        {
+            "text": "In early workshops, we created high-level service patterns and iterated these with colleagues from multiple disciplines. Through understanding further user needs and filling pattern gaps, we went on to design a 3-level service pattern framework in a visual map which traced to public needs.\u00a0"
+        },
+        {
+            "text": "Feedback was very positive, so we expanded the team to include colleagues from business architecture, the DWP Design System, user research and another external partner.\u00a0\u00a0"
+        },
+        {
+            "text": "We explored the service patterns in depth, testing with DWP\u2019s user-centred design community and expanding \u2018Apply\u2019 and \u2018Appointment\u2019 patterns. To support the \u2018front-to-back\u2019 of service design, we synthesised a wide range of user need evidence, designed service patterns for colleague users, mapped to various components, channels, policy information and organisation goals. We also investigated how service patterns might be published in the DWP Design System."
+        },
+        {
+            "heading": 2,
+            "text": "Service patterns at the Department for Environment, Food and Rural Affairs"
+        },
+        {
+            "heading": 3,
+            "text": "Gareth Thomas"
+        },
+        {
+            "text": "We\u2019d read about the work done by DWP on service patterns and were keen to explore how this might work at Defra, in line with our Digital and Data Transformation Strategy. We joined the working group to learn more."
+        },
+        {
+            "text": "At Defra we started small. We reviewed a handful of services in the farming programme to understand the value service patterns could bring. Through this we identified issues that could limit our ability to deliver consistent whole services. This gave us confidence in continuing to explore service patterns."
+        },
+        {
+            "text": "Within the farming programme we\u2019ve identified the common service and sub-service patterns that exist. We're starting to align teams around how to use these patterns. We\u2019ve also engaged with our design community of practice in farming on the approach. This helped us understand potential blockers individuals may encounter when applying service patterns."
+        },
+        {
+            "text": "During recent working group sessions we\u2019ve shared some of Defra\u2019s common needs for the \u2018Apply\u2019 service pattern. It\u2019s great to contribute to the wider departmental view and help deliver a more consistent experience for users in this journey phase."
+        },
+        {
+            "heading": 2,
+            "text": "Service patterns across government"
+        },
+        {
+            "text": "Alongside MOJ, DWP and Defra, designers at the Department for Education and Home Office have also been thinking about service patterns. A working group was formed to share experiences. Whilst slightly different approaches were being taken, it was apparent that the names of the patterns themselves (things like \u2018apply for something\u2019 and \u2018book an appointment\u2019) were largely consistent across departments.\u00a0"
+        },
+        {
+            "text": "In order to validate this a workshop was held to compare and contrast our pattern names which included representatives from 5 departments. The workshop proved that most departments shared the same pattern needs. We also agreed that the type of content we expected to find in a service pattern library was largely similar. Five patterns stood out as having the greatest potential for shared needs - \u2018apply\u2019, \u2018appointments\u2019, \u2018get a decision\u2019, \u2018pay\u2019 and \u2018evaluate\u2019.\u00a0"
+        },
+        {
+            "text": "A second workshop was held to identify what type of content could be reusable across departments, using \u2018apply\u2019 as a test case for a service pattern. Participants mapped their service pattern needs against each other\u2019s to identify similarities and variations. The outcome of that workshop is now available as a prototype for review and feedback. The prototype includes user needs, internal business needs, journey stages and steps, and typical user scenarios. We expect a full pattern library to contain other types of information such as recommended digital components and patterns, case studies, and any relevant accessibility concerns.\u00a0\u00a0"
+        },
+        {
+            "text": "We do not believe service patterns replace the need for design. Different departments and services will have their own unique challenges and opportunities to address. However by providing a shared starting point, we hope they can enable more efficient, consistent, and scalable designs.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What next?"
+        },
+        {
+            "text": "We\u2019d love your feedback on our prototype to inform the next stages of our work. You can do that by completing the apply pattern prototype survey by the end of April 2025. If you are in UK Government Digital on Slack, join our channel #service-patterns. You can also email questions or comments to servicepatterns@justice.gov.uk\u00a0"
+        },
+        {
+            "text": "We are also hosting sessions during Services Week 2025"
+        }
+    ]
+}
