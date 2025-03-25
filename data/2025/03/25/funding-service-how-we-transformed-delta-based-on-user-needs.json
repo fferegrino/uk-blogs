@@ -1,0 +1,68 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/03/25/funding-service-how-we-transformed-delta-based-on-user-needs/",
+    "title": "Funding Service: How we transformed Delta based on user needs\u202f\u00a0",
+    "authors": [
+        "Susanna Winstanley, Senior Content Designer"
+    ],
+    "categories": [
+        "Funding Service"
+    ],
+    "pub_date": "2025-03-25T14:14:20+00:00",
+    "content": [
+        {
+            "text": "Delta is the main platform the Ministry of Housing, Communities and Local Government (MHCLG) uses to collect data and make payments. Part of the department\u2019s Funding Service, it helps the department make policy decisions, release national statistics and process payments to local authorities.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "Last year, Delta handled:\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Listening to users: the need for change"
+        },
+        {
+            "text": "Delta has served the department since 2017, when it was built to replace its predecessor LOGASNet. Over the past 8 years, it has become a widely used and important system. We have consistently worked on Delta, introducing a case level approach to data collections, improving site navigation and accessibility, and making updates based on user needs."
+        },
+        {
+            "text": "While these improvements were valuable, we knew there was room for a more fundamental transformation and our users agreed too."
+        },
+        {
+            "text": "In 2024, we surveyed more than 700 external users and 30 internal users to understand their experience of Delta. Almost 50% found the system unnecessarily complex and more than 30% struggled with navigation. This was summed up by one user who said: \u201cThe system is clunky and not easy to navigate or search for the data that you want.\u201d\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Enter Delta 2.0\u202f\u00a0"
+        },
+        {
+            "text": "We developed Delta 2.0 to directly address this user feedback. The aim of the new version was to improve and simplify the interface and improve the technical build.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "We introduced GOV.UK design patterns to make the new interface easier to use and more accessible. We improved navigation, summary information and how data is shown, and introduced clear signposting for data submission. These changes went through rigorous user testing, to make sure the designs met user needs.\u202f\u00a0"
+        },
+        {
+            "text": "We also improved the way Delta functions technically, making the infrastructure less complicated and more secure, removing bugs, and reducing the hosting costs from \u00a31.3 million to \u00a30.4 million \u2013 a 70% saving. \u202f\u00a0"
+        },
+        {
+            "text": "On 4 December 2024, we successfully launched Delta 2.0, with no service downtime and no issues.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Impact and next steps\u202f\u00a0"
+        },
+        {
+            "text": "The initial response to Delta 2.0 has been positive, with users rating the changes 4.15 out of 5 in terms of satisfaction \u2013 an impressive score! \u202f\u00a0"
+        },
+        {
+            "text": "Users have shared encouraging feedback, including:\u202f\u00a0"
+        },
+        {
+            "text": "Looking ahead, we\u2019ll be making changes for internal users, building on what we\u2019ve learnt from this work to improve the Submissions Dashboard.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Find out more\u00a0"
+        },
+        {
+            "text": "To find out more about Delta, or for information on the wider work of the service, contact FundingService@communities.gov.uk. Follow our progress by\u202fsubscribing to the MHCLG Digital blog\u202fand reading our latest blog posts.\u00a0"
+        }
+    ]
+}
