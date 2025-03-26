@@ -1,0 +1,99 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/03/26/using-generative-ai-to-help-users-resolve-trade-barriers/",
+    "title": "Using Generative AI to help users resolve Trade Barriers",
+    "authors": [
+        "Susie Friedman, Senior Product Manager",
+        "Feroze Rub, Senior Developer"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-03-26T09:26:03+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Susie Friedman"
+        },
+        {
+            "heading": 3,
+            "text": "Feroze Rub"
+        },
+        {
+            "text": "This blog post explores how we increased collaboration and knowledge sharing among distributed policy teams through an innovative approach."
+        },
+        {
+            "text": "The Department for Business and Trade (DBT) is committed to removing barriers to trading and investing abroad for United Kingdom businesses. When businesses report barriers they face, there is a cross-government effort to resolve the barrier quickly and efficiently. The Digital Market Access Service (DMAS) facilitates the management of trade barriers. We recently introduced a Large Language Model (LLM) feature to improve knowledge sharing across global teams."
+        },
+        {
+            "heading": 3,
+            "text": "User Research: A team sport"
+        },
+        {
+            "text": "We often discuss involving the whole team in user research to improve user empathy. However, ensuring everyone participates in the entire process - from deciding what to learn, attending sessions, and analysing insights - also increases the likelihood of identifying more diverse user problems."
+        },
+        {
+            "text": "Several rounds of user research revealed these themes:"
+        },
+        {
+            "text": "On DMAS, much barrier detail is held in free-text descriptions rather than structured fields. This meant traditional search engines could not effectively mine the 'semantic' meaning of a barrier. One user provided an example of a monthly task. After downloading the dataset of over 3,000 barriers, they would have to run through a complex search of over 50 keywords to find all relevant barriers. "
+        },
+        {
+            "heading": 3,
+            "text": "An innovative solution"
+        },
+        {
+            "text": "Improving search and data quality are common goals for case management systems, but our developers saw a different solution. We could turn the barrier into a large summary incorporating both free text and structured data, then compare it on a multi-dimensional level."
+        },
+        {
+            "heading": 3,
+            "text": "From lean prototype to 'truly revolutionary' deployment"
+        },
+        {
+            "text": "DBT has quarterly 'firebreaks' where employees can work on a problem outside their day job for a week to drive good outcomes for the department. Our team built a testable prototype using a sentence transformer model to encode our content onto a neural network. This generated similarity scores for the thousands of barriers the department is working on."
+        },
+        {
+            "text": "With a testable prototype, Adela Iliescu, a DBT Data Scientist, advised on the accuracy and efficiency of different foundational models, further refining the feature ahead of approval processes."
+        },
+        {
+            "text": "Once approved for 'real data' use, we granted super-users\u2019 early access to the new \u2018Related Barriers\u2019 feature, fine-tuning the similarity parameters based on their expertise."
+        },
+        {
+            "text": "Early adopters provided incredibly positive feedback. They described \"seeing some barriers [they] would never have found otherwise\" and \"reaching out to [another] team to learn more [about a similar barrier] because I think we can resolve it together.\""
+        },
+        {
+            "heading": 3,
+            "text": "Demystifying AI"
+        },
+        {
+            "text": "The Alan Turing Institute paper which underscores DBT's approach to Artificial Intelligence (AI) requires that any AI be explainable to users who interact with it. Discovery and usability testing taught us that users assumed the 'similarity score' would be generated based on finding similar words like \"Whiskey\" and \"Whisky\" in the title and description. (This is closer to a 'bag of words' approach)."
+        },
+        {
+            "text": "The algorithm does not read text the same way people do. Instead, it ingests the title and description, understands the context, and generates a 'new' object which it compares to create a score. We tested a couple of explanations with users, settling on :"
+        },
+        {
+            "text": "\u2018To calculate how related the barriers are, we use a neural-network-based algorithm which understands the context of the title and summary and compares it to other barriers."
+        },
+        {
+            "text": "It does this by comparing the entire text at once for similarities, rather than picking out the context of each individual word. So, the algorithm focuses more on the pattern or shape of the content."
+        },
+        {
+            "text": "A good way to think of this is how you might compare different types of shapes. For example, the model might understand one barrier as a yellow labrador. Potential duplicate barriers might look like a black labrador or a golden retriever. Whereas barriers which are poor matches might look like a Staffordshire terrier\u00a0. While they are all dogs, labradors and retrievers are much more similar than a Staffordshire terrier, and the technology can understand this nuance.'"
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "Related Barriers has been live since January 2025 making it part of the growing number of AI proof of concepts making it into production. A growing number of internal users have been interacting with it and finding relevant barriers on the service."
+        },
+        {
+            "text": "The DMAS team is continuing to explore AI solutions for user and business problems. We are currently running experiments to understand if Generative AI can produce high-quality titles and summaries for businesses to see. We are also exploring whether Generative AI can summarise company interactions across DBT products.\u00a0 This could assist teams by providing greater context and identifying opportunities for resolved barriers. "
+        },
+        {
+            "text": "Broadly, DBT is currently building the infrastructure to self-host Large Language Models. It will allow product teams and data professionals to safely use AI to solve user needs with sensitive data. Our AI governance is being evolved to encourage innovation and experimentation while enabling secure and ethical use."
+        },
+        {
+            "text": "Read more about\u00a0how our governance framework is enabling the responsible use of AI\u00a0here."
+        }
+    ]
+}

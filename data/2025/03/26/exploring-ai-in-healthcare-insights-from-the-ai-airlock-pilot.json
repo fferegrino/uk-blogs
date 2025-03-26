@@ -1,0 +1,81 @@
+{
+    "url": "https://medregs.blog.gov.uk/2025/03/26/exploring-ai-in-healthcare-insights-from-the-ai-airlock-pilot/",
+    "title": "Exploring AI in Healthcare: Insights from the AI Airlock Pilot",
+    "authors": [
+        "Jincy Robin"
+    ],
+    "categories": [
+        "AI Airlock",
+        "Medical Devices"
+    ],
+    "pub_date": "2025-03-26T14:40:59+00:00",
+    "content": [
+        {
+            "text": "The AI Airlock is a pilot programme designed to help test and improve the rules for AI-powered medical devices to ensure they reach patients quickly, safely and effectively."
+        },
+        {
+            "text": "Since we announced the pilot cohort in early December, the AI Airlock team has been busy onboarding the successful candidates and working with them to design and implement bespoke testing plans. AI medical devices have the potential to radically transform healthcare if implemented safely. However, it can be difficult to evaluate and ensure the safety, accuracy and explainability of these products, which requires an agile regulatory framework. The AI Airlock pilot cohort highlight four cutting-edge projects addressing some of these challenges, each focused on advancing the role of AI while meeting critical safety standards."
+        },
+        {
+            "heading": 2,
+            "text": "More about our pilot cohort"
+        },
+        {
+            "text": "SmartGuideline by Automedica, aims to improve accuracy and trust in AI-driven clinical decision support systems. It explores the use of TAG-RAG technology, a novel approach to overcoming regulatory concerns associated with the use of Large Language Models (LLMs) in healthcare. Their Airlock case study seeks to determine what constitutes sufficient clinical evidence of safety while assessing SmartGuideline\u2019s ability to minimise hallucinations, improve knowledge retrieval, and ensure more preordained responses."
+        },
+        {
+            "text": "OncoFlow by UMA, focuses on the explainability of AI in oncology. Since LLMs are often criticised for their lack of transparency, OncoFlow is designed to provide clear, comprehensible, and consistent justifications for its outputs, ensuring that clinicians and specialists can trust its recommendations. The study compares different AI models to evaluate their performance, explainability, and clinical utility in processing unstructured oncology data."
+        },
+        {
+            "text": "In the field of radiology, PACS Radiology Auto Impression by Phillips Medical Systems is pioneering efforts to validate AI-generated radiology reports using synthetic data. The study hypothesises that there should be no significant difference between synthetically generated summaries and real data in terms of quality. A key objective for this case study is to understand the parameters that define high-quality synthetic data, the challenges of using LLMs to generate such data, and how AI can be leveraged for validation."
+        },
+        {
+            "text": "Beyond clinical workflows and data validation, the use of AI is also being explored for real-time monitoring of AI powered medical devices. Federated AI Monitoring Service (FAMOS) by Newton\u2019s Tree is designed to enhance the safety and performance of third-party AI medical devices. By identifying performance variations and safety issues in real-time, FAMOS aims to improve risk management and regulatory compliance. This case study will investigate the use of real-time monitoring systems for identifying performance variations and safety issues within a product\u2019s post market surveillance and safety monitoring of AI as a medical device."
+        },
+        {
+            "text": "Unfortunately, Lenus Stratify, had to withdraw from the pilot and is no longer participating in the study. While this is a setback, the remaining projects continue to drive forward the AI Airlock pilot studies."
+        },
+        {
+            "text": "By addressing key concerns around safety, explainability, and validation, AI Airlock aims to lay the groundwork for safer and broader AI adoption in clinical settings. As AI continues to evolve in the medical field, initiatives like these will play a crucial role in shaping its future, ensuring that technological advancements meet the highest standards of reliability and trust."
+        },
+        {
+            "heading": 2,
+            "text": "Some proud moments to share..."
+        },
+        {
+            "text": "The team has recently participated in various national and international events as presenters and panellists, sharing the sandbox model and early insights from AI Airlock."
+        },
+        {
+            "text": "We held AI Airlock: Connect, an in-person event to bring together the pilot cohort and expert stakeholders who have been instrumental to the success of the pilot so far. Baroness Merron, the Parliament Under-Secretary of State for Patient Safety, Women\u2019s Health and Mental Health opened the event with an inspiring speech and our Chief Executive Dr June Raine provided a keynote speech and her very valuable inputs during the session. \u00a0"
+        },
+        {
+            "text": "At the event, we discussed how, together, we're gaining insights into the challenges of regulating AI for medical devices for effectiveness and patient safety. Each candidate gave detailed presentations about the regulatory challenge and some early insights from testing so far. In the afternoon the group discussed the future of the Airlock programme and captured all important lessons to be learned. This will help us create guidance and support for companies bringing new and transformative AI technologies to the health system."
+        },
+        {
+            "text": "Some of the fascinating early comments that we received were:"
+        },
+        {
+            "text": "\u201cYesterday's AI Airlock event was one of the best innovation events I've ever attended\u2026 a perfect opportunity to collaborate with a range of specialists on health innovation topics and to have those all-important 1-2-1 conversations\u201d"
+        },
+        {
+            "text": "\u201cI thought it was a great day, and some fascinating discussions.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s upcoming for AI Airlock?"
+        },
+        {
+            "text": "The pilot candidates are working towards completing their sandbox testing, exploring the challenges identified by each case study and outlined above whilst working towards making their products safer. We have now completed the Simulation Airlock testing - roundtable workshops involving open discussions and brainstorming exercises. These sessions brought together technology and regulatory stakeholders to address focussed questions and provide critical insights from their areas of expertise. The next steps include drafting outputs based on insights from the simulations and virtual testing. Over the summer, an extensive AI Airlock programme report will be prepared including learning from each pilot project as well as key insights from the overarching programme evaluation. We will also be aiming to hold a public webinar to mark the final step in the pilot programme."
+        },
+        {
+            "text": "As the testing phase progresses, these projects will provide key learnings that will shape the future regulatory framework for AI as a medical device. The insights gained will not only inform regulatory guidance but also help develop safer, more effective AI solutions that can be trusted by clinicians, patients, and regulatory bodies alike."
+        },
+        {
+            "heading": 2,
+            "text": "The next big step"
+        },
+        {
+            "text": "We were pleased that the second phase of AI Airlock was confirmed in the government's Regulation Action Plan published on 17 March. We'll be working with our partners to plan the next phase of AI Airlock which will aim to further explore the AI as a Medical Device regulatory landscape. We look forward to announcing further details in due course."
+        }
+    ]
+}
