@@ -1,0 +1,110 @@
+{
+    "url": "https://cddo.blog.gov.uk/2025/03/27/gdss-user-research-on-ai-in-government/",
+    "title": "GDS\u2019s user research on AI in government",
+    "authors": [
+        "Louise Petre - Head of User Research, GDS",
+        "Johanna Kollmann - Senior User Researcher for AI Capabilities, GDS",
+        "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, GDS"
+    ],
+    "categories": [
+        "AI",
+        "Digital transformation",
+        "Government Digital and Data"
+    ],
+    "pub_date": "2025-03-27T15:21:09+00:00",
+    "content": [
+        {
+            "text": "Earlier this year, the AI Opportunities Action Plan was published, outlining that effective AI adoption across the UK will boost economic growth, provide jobs for the future and improve people's everyday lives.\u00a0"
+        },
+        {
+            "text": "To help ramp up AI adoption within government and the wider public sector, we\u2019ve done some user research to understand what colleagues need to use AI safely, confidently and effectively. We explored their current behaviour, attitudes, fears and activities.\u00a0"
+        },
+        {
+            "text": "We used what we\u2019ve learnt from this user research to inform the Generative AI Framework, the new AI Playbook for the UK Government, new learning resources on AI, as well as to understand if there are skills and roles missing from the Capability Framework that we need to add to support the use of AI."
+        },
+        {
+            "heading": 3,
+            "text": "What we did"
+        },
+        {
+            "text": "We ran two surveys and several rounds of interviews, across the public sector, over a six month period between 2023 and 2024. These involved over 150 participants from more than 20 government departments. Running the survey twice helped us to understand how things were changing.\u00a0"
+        },
+        {
+            "text": "To get a deeper understanding we interviewed colleagues in a variety of roles and departments including people already working on or leading AI and machine learning projects."
+        },
+        {
+            "text": "When developing our findings we brought together our research data with industry analysis and conversations with subject matter experts from different parts of government."
+        },
+        {
+            "heading": 3,
+            "text": "What we learned"
+        },
+        {
+            "text": "People want to understand what AI is, what it can and cannot achieve, how it can be applied in government and how they can gain the skills and knowledge necessary to use AI safely, managing the associated risks."
+        },
+        {
+            "heading": 4,
+            "text": "People have misconceptions of what AI is and what it might achieve"
+        },
+        {
+            "text": "Understanding of AI technology in government is evolving. Over the six month period dividing our user research studies, the civil servants\u2019 awareness of AI has increased and people have become more familiar with tools like chatbots. However, the way they conceptualise AI has been shaped by the prominence of generative AI tools, with some participants associating AI primarily with generative AI."
+        },
+        {
+            "text": "The misconception that AI means large language models and chatbots can make managing stakeholders\u2019 expectations complicated. Generative AI tools are not the solution to every problem and present issues of accuracy, potential bias, and, in some cases, sustainability. It is important that people implementing AI services demystify AI for their stakeholders, making sure that they understand the potential and limitations of different AI technologies when considering if AI is the right tool for the job."
+        },
+        {
+            "text": "A partial understanding of AI can lead someone to think that AI can be successfully applied to most use cases, or, conversely, to worry about risks and block usage of AI tools. Both these attitudes may impact civil servants who want the opportunity to experiment and learn what AI can do for them safely, with guardrails in place.\u00a0"
+        },
+        {
+            "text": "While AI is not new, there\u2019s still work to be done to help people get a realistic understanding of AI, its capabilities, applications and limitations. User research suggests that, in addition to training and guidance, sometimes a single example or case study can help demystify AI and change people\u2019s attitude. During interviews several people mentioned a specific presentation, conversation, or case study that got them excited about AI and prompted them to learn more."
+        },
+        {
+            "heading": 4,
+            "text": "The emergence of AI provides government with an opportunity to rethink its approach to governing services"
+        },
+        {
+            "text": "Survey respondents showed a good understanding of potential risks of AI. Their concerns broadly mirrored conversations about AI outside of government. Respondents were keen to understand how they should deal with things like privacy, bias, ethics, concerns around plagiarism, security, and potential for misuse.\u00a0"
+        },
+        {
+            "text": "Civil servants are aware that there are additional complications and responsibilities when using AI in government, due to the nature of the data used and the reach and impact of government services.\u00a0"
+        },
+        {
+            "text": "Departments are implementing guidelines and the Government Digital Service (GDS) regularly reviews guidance on AI. However, teams who work on live AI services acknowledge that they need to regularly be kept informed on new guidance and good practice to build, test and monitor AI solutions. Currently, to make sure that AI services operate as expected, teams rely on existing frameworks and governance processes for assessing and monitoring data products.\u00a0"
+        },
+        {
+            "text": "Across government, we are still learning what the impact of AI models is for service governance processes. With many teams exploring ways to validate, monitor and measure AI services, there's an opportunity to combine cross-government lessons learned into guidance that would be useful for anyone working in AI."
+        },
+        {
+            "heading": 4,
+            "text": "How might we enable more public servants to make the most of AI\u00a0\u00a0"
+        },
+        {
+            "text": "AI changes the way we interact with technology, and the way we build digital products. This change can be scary: it might change how frontline staff deliver their services, what digital and data roles do or how they collaborate."
+        },
+        {
+            "text": "A big part of change management is providing relevant, real examples, and opportunities to experiment with AI:"
+        },
+        {
+            "text": "In our research we uncovered a need for relevant examples and opportunities to share knowledge. Evolving capability, changes in attitude and more mature AI services are making this possible. Showcasing government use cases can help build awareness and inform good practice.\u00a0"
+        },
+        {
+            "text": "Participants also expressed a need to connect with others who are doing innovative work with AI to be inspired, avoid duplicating work and learn from each other. Networks such as the Artificial intelligence community of practice play a key role in this process, offering opportunities to share knowledge and make connections.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "There\u2019s work going on to address what we\u2019ve learnt in our user research."
+        },
+        {
+            "text": "GDS has just published the AI Playbook for UK Government. The Playbook offers an introduction to AI technologies for government, an exploration of their capabilities and limitations, and guidance on how to buy, implement and use AI safely and responsibly. This also includes sections on governance, quality assurance of AI products and how to build AI teams. This Playbook will be regularly reviewed and updated."
+        },
+        {
+            "text": "If you are interested in gaining AI skills, you can also take free e-learning courses on Civil Service Learning and access off-the-shelf training on Government Campus via the learning frameworks. These courses range from short introductions to AI topics to detailed online courses on technical aspects of AI technologies and products."
+        },
+        {
+            "text": "To understand how other departments are using AI and connect with the relevant teams, you can attend the monthly events organised by the AI Community of Practice. Moreover, you can review the projects presented in the Algorithmic Transparency Recording Standards (ATRS), which lists all the algorithmic tools deployed in decision making processes by public sector bodies."
+        }
+    ]
+}
