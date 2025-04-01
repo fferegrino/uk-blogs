@@ -1,0 +1,85 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/04/01/creating-interactive-design-documentation-for-gov-uk-one-login/",
+    "title": "Creating interactive design documentation for GOV.UK One Login",
+    "authors": [
+        "Arindra Das, Lead Designer (GDS)",
+        "Matthew Ashton, Senior Interaction Designer (GDS)"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2025-04-01T16:06:17+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Background"
+        },
+        {
+            "text": "GOV.UK One Login lets users sign in and prove their identity so they can access government services quickly and easily. User-centred design (UCD) is at the core of our work, ensuring we meet real user needs while tackling complex inclusion and accessibility challenges.\u00a0"
+        },
+        {
+            "text": "To help government services integrate with GOV.UK One Login, their service teams need to understand how it works. This can be challenging, as our service isn\u2019t a single, linear journey but a multi-channel journey that involves a collection of triage pages and interrupted journeys. It also evolves constantly, with frequent updates to meet diverse user and service needs. This pace of change can make it challenging for other government department service teams to stay up to date and understand what they need to integrate with."
+        },
+        {
+            "heading": 2,
+            "text": "Challenge"
+        },
+        {
+            "text": "Our challenge was to maintain a single source of truth that offered enough detail to guide our service teams. While we share user journeys through tools like Figma and presentation slides, these can be difficult to follow for those unfamiliar with our service. Keeping them updated also takes considerable effort, meaning they don\u2019t always reflect the latest version."
+        },
+        {
+            "text": "Service teams can explore GOV.UK One Login in our integration environment, but this requires technical expertise and includes field-level validation, making it difficult to navigate quickly. Internal tools like Mural and our staging environment offered some support but faced similar challenges with usability and maintenance. Additionally, teams\u2014including those who directly support users\u2014need a clear understanding of the journey."
+        },
+        {
+            "text": "To address this, we needed a solution that was easy to explore, kept pace with our evolving service, and provided teams with a clear, up-to-date view of user journeys\u2014helping them stay aligned with minimal effort."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "Our goal was to make our service visible and help service teams and our internal teams interact with it.\u00a0\u00a0"
+        },
+        {
+            "text": "To guide the work and keep a holistic perspective, we started with 3 principles:"
+        },
+        {
+            "text": "Make it realistic - create an experience that looks and behaves like the real thing."
+        },
+        {
+            "text": "Keep it simple - make it straightforward to use and update, so it\u2019s accessible to everyone."
+        },
+        {
+            "text": "Start small and iterate - begin with key features and improve gradually as the service evolves."
+        },
+        {
+            "text": "Based on these principles, we decided to build an HTML prototype using the GOV.UK Prototype Kit. This approach offered several benefits:"
+        },
+        {
+            "text": "We started by building the primary user journey through the service and gathering feedback. This helped us add secondary journeys and make incremental improvements as the service evolved. To make sure the prototype was effective and easy to work with, we:"
+        },
+        {
+            "heading": 2,
+            "text": "Designing the solution"
+        },
+        {
+            "text": "This wasn\u2019t just about building a prototype. We wanted others to explore and understand how the service works without confusion about what is and isn\u2019t part of the live journey."
+        },
+        {
+            "text": "We approached this by:"
+        },
+        {
+            "text": "To keep it up to date, we set up a simple maintenance process. Teams can report issues via a feedback form, and updates follow a federated model, allowing anyone with prototyping skills to contribute. Changes are reviewed through pull requests, guided by a runbook. We have used GitHub not only to host the prototype but also to serve as living documentation through release notes, making it easy for anyone to track the evolution of the service."
+        },
+        {
+            "heading": 2,
+            "text": "Delivering value\u00a0"
+        },
+        {
+            "text": "The tool has soon become an essential resource not only for external service teams but also internally for our user-centred design colleagues, product teams and most importantly, our Contact Centre. For example:"
+        },
+        {
+            "text": "The tool has evolved into a vital resource for delivering a joined-up user experience and as GOV.UK One Login continues to grow and change, the tool will evolve alongside it \u2014 adapting to meet the needs of teams across government."
+        }
+    ]
+}
