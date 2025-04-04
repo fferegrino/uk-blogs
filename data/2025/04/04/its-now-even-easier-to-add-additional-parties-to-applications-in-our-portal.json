@@ -1,0 +1,54 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2025/04/04/its-now-even-easier-to-add-additional-parties-to-applications-in-our-portal/",
+    "title": "It's now even easier to add additional parties to applications in our portal",
+    "authors": [
+        "Jonathan Leach, Associate Product Manager, HM Land Registry Customer and Strategy"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2025-04-04T14:37:39+01:00",
+    "content": [
+        {
+            "text": "From 31 March, customers are now able to add landlord and tenant details as additional parties to applications via our Digital Registration Service."
+        },
+        {
+            "text": "This update builds on last year's work which made it much easier for users to add additional parties to Digital Registration Service applications. All of these improvements were made with the help of conveyancers, legal professionals, and Digital Registration Service users, who continue to provide us with valuable insights and real life scenarios of how they use the service and where further enhancements could be considered to improve their experiences."
+        },
+        {
+            "text": "These developments came from users' comments that identified they found it difficult to enter additional parties to applications, such as when a proprietor has died or a guardian is acting. Our research has shown that this results in requisitions because parties are not accounted for in panel 13 of the e-AP1."
+        },
+        {
+            "text": "HM Land Registry processes more than 1.5 million applications each year through the Digital Registration Service, launched in 2021. Digital applications are crucial for helping HM Land Registry deliver faster registration services and automating more of our work, which minimises the risk of human error."
+        },
+        {
+            "heading": 2,
+            "text": "Adding additional parties, landlord and tenants"
+        },
+        {
+            "text": "In addition to customers now being able to add landlord and tenant details, they can also select the capacity in which the parties are acting. It is also now possible to add representation, verify the party\u2019s identity when prompted, and provide evidence to support an amendment, removal or addition."
+        },
+        {
+            "text": "All this information will populate the appropriate panels of the e-AP1."
+        },
+        {
+            "text": "Our changes ensure that names are entered correctly and allow customers to verify that names match across all the documents submitted with an application. Customers will also receive prompts to attach all necessary evidence. These enhancements should result in fewer errors and, consequently, reduce requisitions."
+        },
+        {
+            "text": "We\u2019d like to thank everyone who participated in the user research and testing that helped us develop the second part of this feature."
+        },
+        {
+            "heading": 2,
+            "text": "Surfacing restrictions, lender restrictions"
+        },
+        {
+            "text": "As part of HM Land Registry\u2019s ongoing efforts to prevent avoidable requisitions, we are developing functionality that will help ensure that when applying through the Digital Registration Service, users are alerted if there is a restriction on the title that may affect their application. To further prevent requisitions, customers will also be prompted to upload evidence of compliance with their application \u2013 in the \u2018attach documents\u2019 screen \u2013 if it is necessary."
+        },
+        {
+            "text": "We are constantly evaluating the service and trying to enhance it to improve efficiency for both customers and HM Land Registry. Please continue to give feedback and tell us if you are having difficulty using the service in any way."
+        },
+        {
+            "text": "Towards the end of February, we also added the ability for users to see where an application may be impacted by a lender\u2019s restriction on the title. You can also stay up to date with the work we are doing to enhance the portal, the Digital Registration Service and Business Gateway by checking our digital services roadmap where we list recent changes, projects we are actively working on and ideas we are exploring for the future."
+        }
+    ]
+}

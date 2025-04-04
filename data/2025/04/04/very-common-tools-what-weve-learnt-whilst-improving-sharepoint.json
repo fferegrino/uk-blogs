@@ -1,0 +1,100 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/04/04/very-common-tools-what-weve-learnt-whilst-improving-sharepoint/",
+    "title": "Very common tools: what we\u2019ve learnt whilst improving SharePoint",
+    "authors": [
+        "Dominic Berry, Senior User Researcher, Common Tools as a Service team",
+        "Sian Goodwin, Senior Content Designer",
+        "Nadia Armstrong, Service Manager"
+    ],
+    "categories": [
+        "Common tools"
+    ],
+    "pub_date": "2025-04-04T09:46:18+01:00",
+    "content": [
+        {
+            "text": "The Common Tools as a Service (CTaaS) team is responsible for building standardised, reliable and reusable tools and platforms for everyone in MHCLG. We help teams to be more efficient, deliver quickly and reduce operational costs. In this post, we share what we're doing to make MHCLG SharePoint pages easier to navigate and more accessible.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making SharePoint work for users\u00a0"
+        },
+        {
+            "text": "Most people reading this will have had to access and navigate a SharePoint site at some point in their working life, because it is widely used in the public sector. But for those who haven\u2019t, SharePoint is similar to Dropbox and Google Drive, except you can also use it to create web pages around your files. This is why it can function in ways similar to Wikipedia, while also being a folder system.\u00a0"
+        },
+        {
+            "text": "SharePoint has become ubiquitous, but our experiences with it vary wildly, from the frustrating and labyrinthine to the intuitive and slick. This is where user researchers and content designers can make a difference. We are sharing our findings because we think they can be useful for anyone responsible for a SharePoint. If you can take command of your filing and informational resources, you can not only make them more accessible and usable, but you can also change the ways people think about the services available to them. Doing so is a key part of CTaaS\u2019s agenda, and it advances MHCLG\u2019s Digital Strategy by enhancing our operational excellence.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The problems\u00a0\u00a0"
+        },
+        {
+            "text": "In their work creating guidelines for MHCLG SharePoint sites, our department\u2019s content design team had already identified some key problems, including:\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "As for our specific project, the primary feedback from users had been that information was difficult to find among the few hundred pages which made up the content we were looking at.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "In addition to user feedback, we had access to SharePoint analytics. This is a fairly limited tool; the most useful metric was number of page views. From that, we could get an idea of the most popular pages, though it was not easy to know if this was because the content was useful and easy to navigate, or because they had become necessary passage points to complete a task.\u00a0\u00a0"
+        },
+        {
+            "text": "The limitations of these analytics meant that while it was harder to differentiate the important pages from the middling ones, it was at least always clear that if a page had a high number of views, it had probably earnt them, especially if it was somewhat buried. In the context of SharePoint, \u2018buried\u2019 can mean:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt\u00a0\u00a0"
+        },
+        {
+            "text": "Most users preferred to scroll and click around SharePoint rather than search. We can only speculate as to why, but it seems likely that by clicking around, users expect to learn more about the site and therefore improve their chances of finding other things in the future. Meanwhile, searching (a behaviour adopted by a minority) was more efficient than scrolling and clicking around, as was using the site\u2019s A to Z library. There were times, though, where searching was less effective, such as when searching for words that can have a wide variety of meanings.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "We also learnt that users saw the site as providing two fundamentally distinct kinds of information \u2013 one set to do with MHCLG business processes, and the other set to do with their own professional learning and development. In its current form, the SharePoint does already have a page for learning, but it does not stand out as distinct from the rest of the site.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "In general, a suboptimal arrangement of the content on the site led to friction in user experience, something that was particularly clear when looking at page names and trying to distinguish one from the other. In many cases, users would have expected to click around through a list of possibly relevant pages, even when searching, to find the one they needed.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our recommendations\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Assess the content and define its key \u2018kinds\u2019\u00a0\u00a0"
+        },
+        {
+            "text": "First, assess the content on your site and see if any obvious \u2018kinds of content\u2019 emerge, beyond simply the categories originally implemented. We found 3 distinct kinds of content:\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "As you can see, this reflects what users told us about there being two kinds of pages, as explained earlier in this post. It also recognises that some of the content on SharePoint is significant because it is in a different format, such as a downloadable template.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "If you are refreshing SharePoint pages, ask yourself \u2018What kind of content is this?\u2019 before considering what improvements to make.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Assign a distinctive format to each kind of content, and then stick to it\u00a0\u00a0"
+        },
+        {
+            "text": "Once we knew the kinds of content that we were working with, we could make more specific recommendations about the best ways to format each.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "When creating pages to describe specific departmental processes, we recommended:\u00a0\u00a0"
+        },
+        {
+            "text": "When creating resource materials, we recommended:\u00a0\u00a0"
+        },
+        {
+            "text": "When creating learning and development materials, we recommended:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next\u00a0"
+        },
+        {
+            "text": "We of course made many more recommendations, which we cannot include in this blog post without it becoming much too long! If you have worked on improving SharePoint pages in your department, feel free to get in touch, as we\u2019re keen to share learnings with others doing similar work in government.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "As part of our work in Common Tools as a Service, we are currently developing a number of live services, which are at different stages of development. We are looking forward to sharing more insights from each of these projects in the near future.\u00a0\u00a0\u00a0"
+        }
+    ]
+}
