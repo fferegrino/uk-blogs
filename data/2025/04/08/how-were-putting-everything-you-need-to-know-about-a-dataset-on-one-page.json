@@ -1,0 +1,56 @@
+{
+    "url": "https://onsdigital.blog.gov.uk/2025/04/08/how-were-putting-everything-you-need-to-know-about-a-dataset-on-one-page/",
+    "title": "How we\u2019re putting everything you need to know about a dataset on one page",
+    "authors": [
+        "Gareth Young"
+    ],
+    "categories": [
+        "Data",
+        "Website"
+    ],
+    "pub_date": "2025-04-08T10:33:26+01:00",
+    "content": [
+        {
+            "text": "We previously shared the work we\u2019re doing to update and improve the ONS website, and we have recently released a preview of a new page type to give our users a first look at our wider plans for data dissemination.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The dataset overview page"
+        },
+        {
+            "text": "The \"Dataset Overview\" page does pretty much what it says on the tin.\u00a0 It gives you an overview of a published dataset; collecting everything you need to know about that dataset onto the one page. With each data download, we will also show how it relates to other publications, any limitations on its use and who to speak to should there be any queries.\u00a0"
+        },
+        {
+            "text": "Every dataset published on our new platform will have one of these pages dynamically generated based on the dataset and its accompanying metadata (which describes the data download).\u00a0It\u2019s part of our ongoing work to give our users the information they need, when they need it and in the way they want it."
+        },
+        {
+            "text": "The new design provides a user experience that's consistent with the new website design principles - making our web pages to be easier to use, read and navigate.\u00a0 The new preview can be viewed here, and we\u2019d really appreciate your feedback \u2013 just use the link on the page."
+        },
+        {
+            "heading": 2,
+            "text": "Further previews"
+        },
+        {
+            "text": "For this first preview we've chosen to go with a simple example - a single edition of the Consumer Price Inflation tables; with only 1 published version, available in a single format."
+        },
+        {
+            "text": "\u00a0Over the coming weeks we\u2019ll share further previews which will include:"
+        },
+        {
+            "text": "These public previews allow us to conduct user research and collect feedback, which we then be use to refine and enhance the pages before they go live."
+        },
+        {
+            "text": "The new Dataset Overview pages are part of a bigger schedule of work that we refer to as Discoverable Datasets, where we want to make it as easy as possible for data consumers to find and access ONS datasets; whether those consumers are large economic institutions, other government departments, academics or members of the general public."
+        },
+        {
+            "heading": 2,
+            "text": "Improving speed and reliability"
+        },
+        {
+            "text": "Whilst pages like the one we're previewing today are the most visible part of our work, the programme also includes significant behind-the-scenes work to improve the speed and reliability when we publish a dataset.\u00a0 This work is also setting the foundations for a new data dissemination API."
+        },
+        {
+            "text": "Over time, we'll migrate historic datasets onto the new platform and continue to enhance the capabilities of that API, creating a one-stop-shop for all ONS-published datasets."
+        }
+    ]
+}
