@@ -1,0 +1,88 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2025/04/10/how-information-architects-are-helping-to-build-gov-uks-future/",
+    "title": "How information architects are helping to build GOV.UK\u2019s future",
+    "authors": [
+        "Becky Ashley, Lead Information Architect, GOV.UK",
+        "Sally Creasey, Senior Information Architect, GOV.UK",
+        "Rik Williams, Senior Information Architect, GOV.UK"
+    ],
+    "categories": [
+        "Content",
+        "Events",
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2025-04-10T11:31:15+01:00",
+    "content": [
+        {
+            "text": "GOV.UK is expanding beyond the existing website to embrace new channels, including a GOV.UK App which is set to be released this summer. As part of a wide range of work across the Government Digital Service (GDS), this will help to realise the vision set out in the blueprint for a modern digital government. The blueprint paves the way for a future where it takes less time for UK citizens to access public services, and where personalised services will come to users, not the other way round."
+        },
+        {
+            "text": "To deliver these goals, we need to adapt the way GOV.UK\u2019s information, guidance and services - its content - is structured so it can be used across different contexts and platforms."
+        },
+        {
+            "text": "As information architects, we\u2019re part of a team that\u2019s focusing on content modelling - organising content into the smallest reasonable pieces, for flexible use across GOV.UK channels."
+        },
+        {
+            "text": "We\u2019ve just hosted at GDS the London event for World Information Architecture Day (WIAD), contributing to activities that took place in multiple locations across the world. In this blog post we\u2019re going to reflect on what we learned from the event, as well as explaining more about our roles and how we will support GOV.UK\u2019s future."
+        },
+        {
+            "heading": 2,
+            "text": "From content types to smaller blocks of information"
+        },
+        {
+            "text": "More than a decade ago, when GOV.UK replaced nearly 2,000 government websites, we used content types. These formed a structural skeleton for online government. Each type represents a reusable, repeatable container with a shared purpose and common characteristics - for example, a press release, travel advice or a guide."
+        },
+        {
+            "text": "This approach has worked well, but as we expand into new channels and optimise for AI, we need more granular chunks of information, rich in metadata. Why? Well, structured content and meaning-rich metadata help to serve relevant, summarised content on platforms such as mobile apps. It also supports outcomes and accuracy when content is used to inform AI-generated responses."
+        },
+        {
+            "text": "As we explained last year in a blog post on Inside GOV.UK, content modelling is one of the main ways we\u2019re doing this. By modelling smaller blocks of information, we are enabling GOV.UK content to be used in places other than traditional web pages in the most efficient way. Think Lego - reassembling to meet different needs."
+        },
+        {
+            "heading": 2,
+            "text": "Life as an information architect"
+        },
+        {
+            "text": "Information architects have a really wide-ranging role, which extends from shaping entirely new information environments to building the fundamentals of finding things. Information is often a messy world, and we\u2019re here to bring user-centred order to it."
+        },
+        {
+            "text": "Put simply, information architecture is about making the complex clear, whether for end users, product teams or machines across government. This supports everyone to access the right information at the right time, when it matters most."
+        },
+        {
+            "text": "No two days are the same for us. Along with our work on content modelling, we design workshops, conduct audits and inventories, create process flows and site maps, and build controlled vocabularies - standardised terms to describe content, that help when it comes to retrieving data."
+        },
+        {
+            "text": "This represents new ground for government, and requires fresh ways to collaborate. It\u2019s a very rewarding profession."
+        },
+        {
+            "heading": 2,
+            "text": "Bringing people together for World Information Architecture Day"
+        },
+        {
+            "text": "We hosted the London event for WIAD 2025, celebrating the role of information architecture in our digital world."
+        },
+        {
+            "text": "WIAD is part of the World IA Association, which supports local communities and leaders, sharing a common goal of teaching, learning and shaping the future of information architecture."
+        },
+        {
+            "text": "The London event happened at GDS\u2019s office at the White Chapel Building and was a real success, with all places selling out. The room was packed with around 80 people who came to hear talks and take part in valuable conversations."
+        },
+        {
+            "text": "The theme of \u201cChallenges of change: adapting information in an evolving world\u201d led to fascinating discussions about how we can help people to navigate and make sense of the rapid digital changes happening around us."
+        },
+        {
+            "text": "For example, by organising and connecting content and metadata in non-hierarchical ways - without a rigid, top-down structure - we can enable new and dynamic user-driven experiences across different channels like mobile apps and chat tools."
+        },
+        {
+            "text": "Talks explored intelligent navigation systems to help people access services more efficiently, the intersections between IA and AI, and mapping stories with knowledge graphs (a method which could generate rich metadata so that users can explore content in innovative ways). We also focused on the process of learning and applying information architecture as a student."
+        },
+        {
+            "heading": 2,
+            "text": "Capability building"
+        },
+        {
+            "text": "The role of an information architect is an emerging capability in GDS. It\u2019s an exciting time, and we\u2019re committed to supporting and developing IA practice. We are continuously learning and would love to discuss techniques, skills development and architectural capabilities both inside or outside government. Please email gds-ia@digital.cabinet-office.gov.uk if you would like to connect with us."
+        }
+    ]
+}
