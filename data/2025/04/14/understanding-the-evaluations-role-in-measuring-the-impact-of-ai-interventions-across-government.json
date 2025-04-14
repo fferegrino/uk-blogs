@@ -1,0 +1,139 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/04/14/understanding-the-evaluations-role-in-measuring-the-impact-of-ai-interventions-across-government/",
+    "title": "Understanding the evaluations role in measuring the impact of AI interventions across Government",
+    "authors": [
+        "Natalie Chivite-Matthews, Head of DDaT Evaluation and Performance Analysis Strategy and Delivery Team",
+        "Arianna Rossi, Economic Advisor",
+        "Giulia Torella, Monitoring and Evaluation Lead for Trade and Regulatory Services, Data and Employee Experience Services",
+        "Karina Sacuiu, Social Researcher",
+        "Joe Justice, Research Officer",
+        "Roseanna Morrall, Statistician",
+        "Daisy Thomas, Statistician"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2025-04-14T14:38:01+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Natalie Chivite-Matthews"
+        },
+        {
+            "heading": 3,
+            "text": "Arianna Rossi"
+        },
+        {
+            "heading": 3,
+            "text": "Giulia Torella"
+        },
+        {
+            "heading": 3,
+            "text": "Karina Sacuiu"
+        },
+        {
+            "heading": 2,
+            "text": "AI in Government"
+        },
+        {
+            "text": "The UK Government launched an AI Opportunities Action Plan in early 2025 to accelerate AI adoption nationwide. Before that, the government has embarked on an ambitious journey to establish itself as a leader in Artificial Intelligence (AI) through its 2022 National AI Strategy. This plan aims to increase investment in innovation while fostering public trust in AI applications."
+        },
+        {
+            "text": "Generative Artificial Intelligence is a revolutionary branch of AI that not only mimics human intelligence but also seeks to surpass it. Although these developments have captured public interest, concerns remain about their effectiveness, risks and potential costs, especially in government applications."
+        },
+        {
+            "text": "As government departments start introducing a new type of AI by using Large Language Models (LLMs), it is important to:"
+        },
+        {
+            "heading": 2,
+            "text": "Evaluation's role within an AI project"
+        },
+        {
+            "text": "In DBT, we have a dedicated Digital Evaluation function where Social Researchers, Statisticians, Performance Analysts and Economists work together. They shine a light on the impact of our digital services, assess the processes behind them, and secure continuous improvement. We design and evaluate AI tools in accordance with specific guidance:"
+        },
+        {
+            "text": "M&E is involved in all stages of an AI project life cycle. This has been aligned with the government\u2019s project cycle from the Green Book:"
+        },
+        {
+            "text": "Evaluation is key for the development and deployment stages."
+        },
+        {
+            "text": "Evaluators identify the right performance indicators for this phase. Important factors include accuracy, speed, fairness, security, and the cost of errors. Testing at this stage is done by reflecting real-world use cases and evaluating models from multiple perspectives."
+        },
+        {
+            "text": "Evaluators focus on understanding the social and economic impacts of the AI tool. Critical questions include: Is the AI tool more effective than inaction? Can we approach this as an experiment? Can we identify a robust comparison group? Is it possible to compare with the existing delivery models? What is the error rate? What overall effects will it have on the population and are there any unforeseen consequences? What kind of monitoring will we need for this AI tool long term?"
+        },
+        {
+            "text": "Robust M&E of AI systems are crucial for learning and accountability. For learning, evaluations provide valuable evidence that can help manage risks and uncertainties. They also inform decisions about whether to continue, improve, or discontinue an approach."
+        },
+        {
+            "text": "For accountability, evaluations shed light on the outcomes and value-for-money of government initiatives. They provide evidence of policy effectiveness used during Spending Reviews and in response to public scrutiny. The M&E of AI are also tracking whether the Government Digital Service (GDS) goals and principles are being met."
+        },
+        {
+            "heading": 2,
+            "text": "Evaluation techniques"
+        },
+        {
+            "heading": 3,
+            "text": "Joe Justice"
+        },
+        {
+            "text": "Wherever feasible in DBT, we apply multiple methods to evaluate the impact of AI interventions. A comprehensive evaluation may include:"
+        },
+        {
+            "heading": 3,
+            "text": "What this means for us"
+        },
+        {
+            "text": "In the Digital Data and Technology (DDaT) M&E team in DBT, we are currently in the process of evaluating 2 AI tools: \u2018M365 Copilot\u2019 and the internally developed \u2018Redbox\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "M365 Copilot"
+        },
+        {
+            "heading": 3,
+            "text": "Daisy Thomas"
+        },
+        {
+            "text": "Between October and December 2024, a sample of M365 Copilot licences were distributed across DBT for a trial period. The results are currently being used to assess the impacts across the department, how and why people use the tool and for whom the risks or benefits are most noticeable."
+        },
+        {
+            "text": "To answer these questions, we are using multiple methods, with 4 main components:"
+        },
+        {
+            "heading": 2,
+            "text": "Redbox evaluation"
+        },
+        {
+            "heading": 3,
+            "text": "Roseanna Morrall"
+        },
+        {
+            "text": "Redbox is an internal AI tool that was being developed by the Incubator of Artificial Intelligence (i.AI) from Cabinet Office to be used across government to develop public services. DBT have been developing this code base further, by building additional features sets into the tool to support departmental needs. This iteration of Redbox has been deployed to staff in DBT to trial until March 2025. Please check out this blog post on early outcomes from using Redbox in DBT."
+        },
+        {
+            "text": "The first evaluation phase is an exploratory one which involves the majority of Redbox users.\u00a0 It will deploy the following evaluation methods:"
+        },
+        {
+            "text": "The second phase will be comparative analysis, bringing M365 Copilot and Redbox evaluation findings together. It will include a sample of cross-over users with access to both Redbox and M365 Copilot, who will be assessed through both diaries and qualitative interviews. These methods will be used to understand how the capabilities of the 2 tools differ. They will also identify the use cases and user groups each tool delivers greatest value for in DBT. They will be supported by cost-effectiveness analysis."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons learned"
+        },
+        {
+            "text": "Our time working on the evaluations of M365 Copilot and Redbox has taught us some valuable lessons regarding the AI system evaluation including:"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "AI tools hold the potential to transform our ways of working but equally pose a range of new challenges and uncertainties. By working collaboratively across disciplines and incorporating multiple methods into our approach, we hope to produce robust evaluations allowing DBT to confidently move forwards."
+        },
+        {
+            "text": "Read about the insights gained at DBT's first AI conference."
+        }
+    ]
+}
