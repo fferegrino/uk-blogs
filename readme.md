@@ -1,6 +1,8 @@
 UK Blogs Web Scraper
 ====================
 
+**Here from the August '23 PyData Meetup? <a href="https://drive.google.com/file/d/1UwtsExk5FBBoki_MeYBEndcQktfVhJof/view?usp=sharing" target="_blank">download the slides from here<a>.**
+
 View the latest version of the repo here: [Latest version](https://github.com/fferegrino/uk-blogs)
 
 ## Set up your environment
