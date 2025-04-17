@@ -1,0 +1,135 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/04/17/digital-planning-get-involved-validating-the-baseline-planning-application-data-specifications/",
+    "title": "Digital Planning: Get involved validating the baseline planning application data specifications",
+    "authors": [
+        "Mike Rose, Data, Licensing and Intellectual Property SME",
+        "Colm Britton, Service Designer and Team Lead",
+        "Liz Whiting, Senior Delivery Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2025-04-17T10:14:13+01:00",
+    "content": [
+        {
+            "text": "At the end of last year we started work on data standards for planning applications. We have been looking to create a set of planning application data specifications to make the whole process for local planning authorities and software companies work more efficiently.\u00a0"
+        },
+        {
+            "text": "In our last blog post we set out how we were working in the open to achieve this.\u00a0"
+        },
+        {
+            "text": "We have now drafted these specifications with the help of over 40 organisations and we want your feedback to make sure they work well.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why this work matters\u00a0"
+        },
+        {
+            "text": "This work is at the heart of the Digital Planning programme\u2019s mission to modernise England\u2019s planning system and make it fit for the 21st century.\u00a0"
+        },
+        {
+            "text": "Standardising how planning application data is structured and exchanged, reduces duplication, confusion, effort and inconsistency across local authority systems.\u202f\u00a0"
+        },
+        {
+            "text": "These standards will enable interoperability and help create better services, smarter tools, and joined-up decision-making, unlocking the potential for innovation across the whole planning system.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where we started\u00a0"
+        },
+        {
+            "text": "We began by looking at the current national planning application forms. We identified what information they collect and the rules behind them. Rather than redesigning the forms, we focused on turning them into structured data:\u202f\u00a0"
+        },
+        {
+            "text": "We developed \u2018information models\u2019\u2014descriptions of each part of an application form, such as applicant details, proposal descriptions, or site information.\u00a0"
+        },
+        {
+            "text": "Earlier this year, we shared those models and started creating draft specifications based on them. A specification, in this case, is a structured guide about how the data should be organised and submitted\u2014what information is required, what format it takes, and how it relates to other information.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve done\u00a0"
+        },
+        {
+            "text": "Since January, we\u2019ve been developing these specifications in the open by:\u00a0"
+        },
+        {
+            "text": "All of this work has been shaped by feedback from the community and tracked in the planning application specification GitHub repository.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s included in the baseline\u00a0"
+        },
+        {
+            "text": "So far, the draft baseline includes:\u00a0"
+        },
+        {
+            "text": "To avoid disrupting current processes, we\u2019ve tried to keep the specifications as close as possible to existing forms. We plan to make improvements\u2014like rationalising components\u2014in future iterations.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How feedback has helped to shape the work\u202f\u00a0"
+        },
+        {
+            "text": "Our progress has been driven by feedback from the community. We\u2019ve logged 74 issues, of which:\u00a0"
+        },
+        {
+            "text": "Every part of the specification is open for feedback. Each component and codelist has a corresponding discussion thread in GitHub. This is helping us track where things need clarification, change, or further thought.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What the specifications look like\u00a0"
+        },
+        {
+            "text": "Each compiled specification begins with a description of the application type and a list of required components and codelists.\u00a0"
+        },
+        {
+            "text": "It includes:\u00a0"
+        },
+        {
+            "text": "We\u2019ve also set out a clear format to make the specifications readable:\u00a0"
+        },
+        {
+            "text": "All the specifications are available to view on our planning application data specification discussion page on GitHub. You can navigate by application type or explore individual components.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How you can help now\u00a0"
+        },
+        {
+            "text": "We\u2019re inviting anyone involved in planning\u2014whether you work in a local authority, build planning systems, or regularly submit applications\u2014to review the baseline specifications.\u00a0"
+        },
+        {
+            "text": "We want to use the collective knowledge of the planning community to create specifications that work for everyone. We want your feedback on:\u00a0"
+        },
+        {
+            "text": "If something doesn\u2019t make sense or seems broken, please tell us!\u202f\u00a0"
+        },
+        {
+            "text": "Suggestions for improvements and rationalisation are also welcome, and we\u2019ll log those for future iterations.\u00a0"
+        },
+        {
+            "text": "To get involved please join the conversation by visiting our GitHub validation discussion page to share your thoughts. You'll need to set up a free GitHub account to comment, which also ensures you receive all future updates about this project."
+        },
+        {
+            "text": "Your feedback will help us move from a basic standard to something better\u2014by testing, using, and evolving the specifications in the open.\u00a0"
+        },
+        {
+            "text": "This work is fundamental to creating data in the right format, so that it works well for everyone."
+        },
+        {
+            "heading": 2,
+            "text": "Keeping up to date"
+        },
+        {
+            "text": "You can find information, updates and relevant links about this work on the planning data design advisory group project homepage."
+        },
+        {
+            "text": "Meanwhile you can keep up to date on our Digital Planning programme, by\u00a0following us on LinkedIn and\u202fsubscribe to our newsletter."
+        },
+        {
+            "text": "For an overview of the Digital Planning programme you can also\u00a0look at this previous MHCLG Digital blog post. The programme is one of the case studies bringing to life\u00a0MHCLG Digital\u2019s objectives and guiding principles.\u00a0"
+        }
+    ]
+}
