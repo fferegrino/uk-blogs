@@ -1,0 +1,92 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2025/04/25/keeping-services-alive/",
+    "title": "Keeping services alive",
+    "authors": [
+        "Sarah Wickstead - Senior User Researcher, HMCTS",
+        "Juliette Poggi - Senior Service Designer, HMCTS"
+    ],
+    "categories": [
+        "Design",
+        "International"
+    ],
+    "pub_date": "2025-04-25T14:38:29+01:00",
+    "content": [
+        {
+            "text": "What happens after services go live? What happens once large scale digital transformation programmes end?\u202f\u00a0\u00a0"
+        },
+        {
+            "text": "We work on live services at HM Courts and Tribunals Service (HMCTS), as part of a multidisciplinary UCD (user-centred design) squad which includes a service designer, user researcher, content designer and interaction designer.\u00a0\u00a0"
+        },
+        {
+            "text": "Others have reflected on how continuous improvement for services varies across government once services are live. At HMCTS, we have one UCD squad per jurisdiction: civil, family, tribunals and crime. Each jurisdiction contains multiple live services, for example family includes services like adoption, divorce, probate, family public law, so we work with multiple digital delivery teams, and service managers in a collaboration model.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ve been working this way on live services for almost 2 years, and have learned a lot about what works well in our context, as well as from some of our challenges.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "We shared experiences recently with designers from the International Design in Government Community at the 2024 Helsinki Conference.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Challenges and complexities of working on live services\u00a0"
+        },
+        {
+            "text": "A \u2018live\u2019 service is never finished, it must adapt to changes in policy or law, and design for new user needs. The services we work on are complex, and operational. We see variation in how processes work across services and sites, and an immense range of users whose needs differ and change, from members of the public to staff, professional users and judges.\u00a0\u00a0"
+        },
+        {
+            "text": "We pick up work that multiple teams have worked on over years, part of what Kara Kane and Martin Jordan describe as the \u2018long slog of design in government\u2019. We\u2019re working on services which often do not have an up to date map of the end to end journey and changes released since the service went live.\u00a0"
+        },
+        {
+            "text": "We have some dependable tools when we tackle a project on a live service including the Service Standard and the double diamond. However, we reflected on the gap in guidance available for design in government on maintaining services compared to standards and guidance for building services.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learned through our work and from others\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Using data to prioritise based on what users need is important\u00a0"
+        },
+        {
+            "text": "We work on problems that will have the biggest impact. To understand this we need to collect data with help from other teams such as Google Analytics and in page survey feedback. We also analyse contact data by listening to calls and analysing emails, which can tell us where the service isn\u2019t meeting users\u2019 needs. We help teams look at their service data with a \u201cqualitative eye\u201d and make sense of it to prioritise service improvements.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "We need space and time to explore problems\u00a0"
+        },
+        {
+            "text": "Discoveries don\u2019t become surplus to requirements once a service is live. We still need time to explore and understand problems fully. Skipping discovery research can be risky. We end up sticking plasters instead of solving real issues. Inevitably we miss things we have to pick up later.\u00a0\u00a0"
+        },
+        {
+            "text": "We recently had to re-design a part of the journey where multiple applicants need to agree on a piece of information. Our discovery involved speaking with other government departments that have the same challenge, as well as involving policy at the earliest stages to understand what would be possible to change. The result of these conversations is a strong yet simple journey which our users can confidently complete.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The map of the end to end service is our guide\u00a0"
+        },
+        {
+            "text": "We need a map of the live service to guide us. This map includes any screens themselves and information about changes which have taken place and when. We need to see it all to understand the journey and address issues where they matter.\u00a0"
+        },
+        {
+            "text": "We created an end-to-end map of the Probate online application service to understand the user experience. This map was initially just for our UCD team but quickly became a reference for the service team as well as developers. No one in the team had had a visual overview of the journey and all the possible branching within the single application journey.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Having design capacity alongside delivery can be a winning formula\u00a0"
+        },
+        {
+            "text": "We are embedded in live service delivery, working hand in hand with service managers, delivery managers, business analysts and developers who build our designs into the live environment. This means, even in discovery, small design changes to address problems can be developed and released without waiting for the project to go into alpha.\u00a0"
+        },
+        {
+            "text": "Given all this complexity, we try to work on only one service at once!\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned discussing this topic with international colleagues"
+        },
+        {
+            "heading": 3,
+            "text": "Considerations for this work in the future\u00a0\u00a0"
+        }
+    ]
+}

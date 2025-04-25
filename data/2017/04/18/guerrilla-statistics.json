@@ -1,0 +1,47 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2017/04/18/guerrilla-statistics/",
+    "title": "Guerrilla statistics",
+    "authors": [
+        "David Lee"
+    ],
+    "categories": [
+        "Data Transformation",
+        "Defra digital",
+        "Digital transformation",
+        "Open data",
+        "Software tools"
+    ],
+    "pub_date": "2017-04-18T12:29:57+01:00",
+    "content": [
+        {
+            "text": "Last year I was lucky enough to get on to the GDS Data Science Accelerator. On this scheme participants offer their enthusiasm to learn data science and their time to work on a project of potential value to their departments. In return they get a shiny unlocked MacBook, a mentor to guide them, and the chance to work one day a week at a \u2018hub\u2019 (at the GDS headquarters in London or others around the country) and support each other as they develop their skills. My project was around analysing overseas trade data on food and drink \u2013 promoting exports is a big priority for Defra."
+        },
+        {
+            "text": "The Accelerator experience was brilliant \u2013 if you\u2019re eligible, what are you waiting for? Apply! From a standing start, I learned loads. It reinvigorated me and opened my eyes to what is possible. Once I had \u2018graduated\u2019, I returned to my day job fired up to take my work forward and committed to using my new skills in other areas of my work."
+        },
+        {
+            "text": "However, I had to return that shiny MacBook and go back to my more restricted Defra laptop. Most of the open source software I\u2019d used to build my project was unavailable to me. Of course corporate IT has to be secure, robust and resilient, we all understand that. But access to analytical\u00a0 software tools that are out-of-the-ordinary is still a source of frustration in many Whitehall departments."
+        },
+        {
+            "text": "I was lucky \u2013 trade data is mostly public and open, and I didn\u2019t need to worry about the security of personal or sensitive data. So last Christmas I decided to start on my \u2018guerrilla statistics\u2019 project. I would develop my project using a Defra laptop, just not on a Defra platform. I really didn\u2019t need a formal IT project."
+        },
+        {
+            "text": "I signed up for Amazon Web Services and figured out how to make a virtual server in the cloud. Then a cloud database. Then I figured out how to install R, RStudio server, Shiny server, and Nginx with a reverse proxy so that I could access them via Defra\u2019s standard Internet Explorer install. I rebuilt my Accelerator project with a new focus \u2013 not data science this time, but a simple interactive visualisation of trade data."
+        },
+        {
+            "text": "Once I had that I was able to show it to a friendly face in our Data Programme. He generously allowed me to have access to Defra\u2019s AWS account. Finally I could stop paying for this myself! I did it all again and ported it over."
+        },
+        {
+            "text": "So, finally, this is it: my trade data explorer. The idea was to make something which would allow policy and other customers to explore the data on their own. We get so many daily requests for, eg top 10 countries, top 10 markets, trade in (seemingly) random products like lettuce, that I think this would allow people to answer around 60% of them for themselves. But my customers can sometimes make incorrect conclusions from even simple datasets, so it had to be safe for them to use. Hence millions of records are aggregated into user-friendly categories."
+        },
+        {
+            "text": "If everyone reading this clicks on the link at once, it will overwhelm and break the server . It is not a finished product. It is slow, and there are a million trade visualisations out there which are more polished. It's fragile, and will disappear if I delete the server in AWS. But: it\u2019s mine and I can do what I want with it. I can develop and adapt it to meet user needs. I built it without having to go through internal IT project processes. And the server costs Defra maybe \u00a320 per month."
+        },
+        {
+            "text": "I did this under the radar \u2013 hence, it\u2019s guerrilla statistics. Defra has a deserved reputation as a Whitehall leader in publishing open datasets, but we are definitely have some way to go in terms of analysis to get the most insight for policymakers. There is immense enthusiasm among statisticians in Defra to do things like this. However, others may not be able to follow my example because their data is sensitive or personal. The cloud is not necessarily for them."
+        },
+        {
+            "text": "But I hope I have helped to show one way forward. The more of us there are \u2013 making, sharing and learning without asking for permission but but hopefully gaining trust by doing the right thing \u2013 the more we will build our capacity, our community, our collective skills, and a policy customer base who expect these things and will lend their weight to ensure we can get wider and better access to these tools. My work is not a complete solution, but it does work. Show the thing, right?"
+        }
+    ]
+}

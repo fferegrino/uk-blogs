@@ -1,0 +1,91 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/04/25/platform-based-delivery-with-defras-core-delivery-platform/",
+    "title": "Platform-based delivery with DEFRA\u2019s Core Delivery Platform",
+    "authors": [
+        "Katherine Bhambra, Senior Content Designer, GDS"
+    ],
+    "categories": [
+        "Transformation"
+    ],
+    "pub_date": "2025-04-25T15:15:39+01:00",
+    "content": [
+        {
+            "text": "Digital services within the government are traditionally developed through DevOps practices. This approach combines Delivery and Operations teams working together to automate processes through Continuous Integration and Continuous Delivery (CI/CD) pipelines, which results in rapid deployments all the way through to production."
+        },
+        {
+            "text": "However, these processes can be time-consuming, costly and impractical, especially when there is a need to rapidly create services in response to national emergencies such as disease outbreaks and urgent new legislation."
+        },
+        {
+            "text": "The recently-published State of Digital Government Review highlights these issues, and the blueprint for modern digital government outlines a plan to move away from legacy processes, siloed teams and lack of digitisation."
+        },
+        {
+            "text": "In the Department of Environment, Food and Rural Affairs (DEFRA), we created the Core Delivery Platform (CDP) to meet many of these needs."
+        },
+        {
+            "heading": 3,
+            "text": "Identifying the problem"
+        },
+        {
+            "text": "The DevOps approach is widely used across modern organisations and works well with individual projects. But when applied to multiple, overlapping, time-sensitive projects, it can lead to a continual need to recreate standard sets of infrastructure."
+        },
+        {
+            "text": "Common issues found within typical DevOps environments include:\u00a0"
+        },
+        {
+            "text": "With these issues in mind, we considered a platform engineering approach."
+        },
+        {
+            "text": "Platform engineering has become a popular pattern used by many organisations. This solution works particularly well when applications within projects follow repeatable patterns."
+        },
+        {
+            "text": "For DEFRA, a delivery platform would eliminate much of the need for repetitive infrastructure building and strengthen overall governance and security requirements. It would reduce the\u00a0 long term cost and tech debt of projects, which is the build-up of future work due to time constraints. Most importantly, a delivery platform would allow project teams to focus on the business and public value add of their services."
+        },
+        {
+            "heading": 3,
+            "text": "Creating the CDP"
+        },
+        {
+            "text": "To create the CDP, we looked at best practices across governmental and industry sectors. The examples we found shaped the core principles of the CDP, which were then adapted to fit DEFRA\u2019s specific technology stack needs, accommodate its existing proven approaches, and align to its technical strategy."
+        },
+        {
+            "text": "We began by defining a set of supported technologies and deciding upon the guardrail constraints of the platform. At this stage, we also found it important to define what the hosted services should expect from the future platform.\u00a0"
+        },
+        {
+            "text": "Once the discovery stage was complete, the CDP took shape as a cloud-hosted platform. As a result, teams do not need to build or understand the underlying cloud infrastructure that hosts the CDP, whether that might be AWS, Azure or Google Cloud Platform (GCP). Instead, they only need to build their service for the CDP itself, where users are provided with a set of common patterns to assure adherence to development standards."
+        },
+        {
+            "text": "Key to this is the CDP Portal. This web-based service can also run on the CDP itself and provides a suite of tools and information such as:\u00a0"
+        },
+        {
+            "text": "The CDP Portal will be continually updated with new features and tools to ensure that it remains up to date with development and industry standards."
+        },
+        {
+            "text": "While certain bespoke services may still require existing DevOp processes, the CDP approach represents the most effective technical delivery choice for project teams, as many services within DEFRA follow similar patterns."
+        },
+        {
+            "heading": 3,
+            "text": "Measuring the impact"
+        },
+        {
+            "text": "While the CDP is a new service, initial DevOps Research and Assessment (DORA) framework metrics already show improvement.\u00a0"
+        },
+        {
+            "text": "Deployment frequency used to be either weekly or monthly depending on complexity. With the CDP\u2019s self-service and on-demand deployments, this has been replaced with daily or even hourly deployments."
+        },
+        {
+            "text": "First releases, which would originally take between 3 to 6 months have been reduced to hours."
+        },
+        {
+            "text": "Changes which used to take between 1 to 6 weeks are completed in hours or days."
+        },
+        {
+            "text": "Service failure recovery has fallen from up to a week to less than an hour due to the CDP\u2019s self-healing and roll back capabilities."
+        },
+        {
+            "text": "In conclusion, these early metrics have already proven the delivery platform\u2019s business value. The increased speed and reliability of releases is a major benefit to not only the platform\u2019s users but also for senior leaders and decision makers."
+        },
+        {
+            "text": "It is hoped that DEFRA\u2019s CDP represents a move away from heavy governance and change management processes towards more efficient development and greater autonomy for those teams working on its services across government departments.For more detailed technical information about the CDP, visit DEFRA\u2019s github."
+        }
+    ]
+}

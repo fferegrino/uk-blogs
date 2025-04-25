@@ -1,0 +1,191 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2025/04/25/unlocking-accessibility-frontend-developers-discuss-semantic-html-and-accessible-code/",
+    "title": "Unlocking Accessibility: Frontend developers discuss semantic HTML and accessible code",
+    "authors": [
+        "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services",
+        "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+    ],
+    "categories": [
+        "Unlocking Accessibility"
+    ],
+    "pub_date": "2025-04-25T08:58:20+01:00",
+    "content": [
+        {
+            "text": "Image courtesy of Government Digital Services."
+        },
+        {
+            "text": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility."
+        },
+        {
+            "text": "In the next instalment of this series, we asked frontend developers from various government departments and public sector organisations about the importance of semantic HTML, how they ensure accessibility from the start without over-relying on additional tools or plugins, and their approach to making dynamic content accessible for keyboard and screen reader users."
+        },
+        {
+            "text": "Traditionally, frontend developers design, build, and improve websites, ensuring they are accessible to all users, including those with disabilities."
+        },
+        {
+            "heading": 2,
+            "text": "Question 1 - What is 'semantic HTML,' and why is it important for accessibility?"
+        },
+        {
+            "heading": 3,
+            "text": "Dilwoar Hussain, Lead Frontend Developer, Ministry of Housing, Communities and Local Government"
+        },
+        {
+            "text": "Websites use special building blocks called HTML. HTML has two types of elements: generic ones like <div> and <span>, and specific ones like <img>, <nav>, and <button>. Using specific elements correctly is called semantic HTML."
+        },
+        {
+            "text": "Choosing the right elements helps computers and screen readers understand the page structure. For example, a <button> should be a button, not just text. This ensures assistive technologies can properly navigate the page. Using the correct tags also helps search engines and makes websites better for everyone."
+        },
+        {
+            "heading": 3,
+            "text": "James Gordon, Senior Frontend Developer, Department for Work and Pensions"
+        },
+        {
+            "text": "When is a link not a link? When it\u2019s an image with a javascript click event that mimics the behaviour of a link. To most users, it works fine, the creator even added some visual cues to indicate it\u2019s clickable, but to a screen reader or other assistive tech, that\u2019s reading the underlying HTML, it\u2019s just an image. To make it \u2018accessible\u2019 you could add alt text to the image so screen readers can read out a description of a clickable link, you could add a role tag to indicate it\u2019s a link, or you could just use the semantic html for a link <a>. The issue with not using semantic html is you can\u2019t be 100% sure the assistive tech that is being used on your site is going to interpret your code as intended."
+        },
+        {
+            "text": "The current state of modern web development is a hangover of shoring up the gaps in HTMLs interactivity with JS and, in doing so, losing the meaning of the underlying HTML. By writing your HTML semantically and enhancing it later with JS as desired you can serve a more diverse user group from the start of development instead of at the end."
+        },
+        {
+            "heading": 3,
+            "text": "Michael Cheung, Senior Front-end Developer, NHS England"
+        },
+        {
+            "text": "Semantic HTML means using the right HTML elements for their intended purpose or meaning. For example, use the <a> element for links, or the <header>, <nav>, <main> or <footer> elements to structure a page instead of generic elements like <span> and <div>."
+        },
+        {
+            "text": "Using semantic HTML gives you accessibility for free. It helps assistive technologies to understand the type of content it comes across, making it easier to navigate and interact with when using screen readers, speech recognition software or a keyboard. This benefits everyone."
+        },
+        {
+            "heading": 3,
+            "text": "Holly Blues, Front-end Developer, Department for Work and Pensions Digital"
+        },
+        {
+            "text": "Semantic HTML describes the content of a web page in a meaningful way by using HTML tags such as a <header> or <footer> to describe page content, rather than using non-descriptive tags such as a <div> or <span>."
+        },
+        {
+            "text": "These semantically named elements imply both the structure and content of the page which aids keyboard navigation for screen reader users."
+        },
+        {
+            "heading": 3,
+            "text": "David Biddle, Frontend Developer, Government Digital Services"
+        },
+        {
+            "text": "Semantic HTML is made up of HTML elements with meaning attached to them - so your tags describe the meaning of your document rather than just the way it looks. Most HTML elements have some meaning attached."
+        },
+        {
+            "text": "The information this provides about the document can help users of assistive technologies use the page. For example, the <ul> and <li> elements allow screen readers to tell the user that a particular bit of text is a part of a list, or the <button> element makes it easy for a user of voice control software to interact by saying 'Click the button'."
+        },
+        {
+            "heading": 2,
+            "text": "Question 2 - How do you make sure your code is accessible from the start, without relying too much on extra tools or plugins?"
+        },
+        {
+            "heading": 3,
+            "text": "Dilwoar Hussain, Lead Frontend Developer, Ministry of Housing, Communities and Local Government"
+        },
+        {
+            "text": "Making a page accessible is more challenging if you don\u2019t consider accessibility from the start. That\u2019s why I follow best practices early on. I use clear headings, meaningful alt text, and ensure colour contrast meets WCAG standards. I also test with a keyboard and screen reader during development."
+        },
+        {
+            "text": "I work with designers and content writers early to flag potential issues that could impact users. Using well-tested patterns, like the GOV.UK Design System, helps ensure accessibility. This lets me focus on creating the best user experience while knowing each component meets high accessibility standards."
+        },
+        {
+            "heading": 3,
+            "text": "James Gordon, Senior Frontend Developer, Department for Work and Pensions"
+        },
+        {
+            "text": "Keep it simple stupid, is a principle I code by. It starts with working with designers to ensure we aren\u2019t creating something untenable, then implementing it in the simplest way possible with semantic html. Sticking to well tested patterns developed by experts, such as the GDS and DWP design systems helps us know we are starting on the right foot too."
+        },
+        {
+            "heading": 3,
+            "text": "Michael Cheung, Senior Front-end Developer, NHS England"
+        },
+        {
+            "text": "I try keeping things as simple as possible. That always starts with hand-coding semantic HTML and using the appropriate HTML elements. I\u2019ll have an idea of how the code should be but will often reference official HTML specifications and accessibility guidelines to ensure, for example, correct use of attributes and behaviours."
+        },
+        {
+            "text": "Making use of a browser\u2019s inbuilt tools is very helpful. For example, looking at the accessibility tree within DevTools to see what assistive technologies see, zooming in and resizing text, or just using the keyboard to navigate, are all simple ways of testing code without relying on anything else."
+        },
+        {
+            "heading": 3,
+            "text": "Holly Blues, Front-end Developer, Department for Work and Pensions Digital"
+        },
+        {
+            "text": "As a team we're all responsible for accessibility so from the Product Owner to Quality Assurance, and everyone in-between. This helps to keep accessibility at the forefront of our processes. The Government Design System components have been developed to give us a good starting point for creating accessible websites, with research and accessibility considered during their creation. This gives us a great start and provides consistent user journeys across our services, another win for accessible design and development. Before development starts we're looking out for components or features that might usually rely on client-side JavaScript and cause accessibility issues, such as filtering or paging controls, to see if there is an accessible pattern or component we can re-use."
+        },
+        {
+            "heading": 3,
+            "text": "David Biddle, Frontend Developer, Government Digital Services"
+        },
+        {
+            "text": "I find it helpful to think about the accessibility as early as possible - for example the design stage think about how the feature should work in different assistive technologies and what you expect the service to be like for different users."
+        },
+        {
+            "text": "I'd then think about that when marking up the structure of the HTML, using the right semantic elements will provide a lot of cues to assistive technology, and browsers will provide some useful behaviour as well - for example, interactive elements will be focusable by default."
+        },
+        {
+            "heading": 2,
+            "text": "Question 3 - How do you approach making dynamic content (like modals, carousels, and forms) and interactive elements (like buttons and forms) accessible for keyboard and screen reader users?"
+        },
+        {
+            "heading": 3,
+            "text": "Dilwoar Hussain, Lead Frontend Developer, Ministry of Housing, Communities and Local Government"
+        },
+        {
+            "text": "I make pop-ups and buttons accessible by using proper HTML, ARIA attributes, and keyboard-friendly functionality. Collapsible elements, like dropdowns and accordions, are a great example since they let users expand and hide content as needed."
+        },
+        {
+            "text": "For collapsible elements, I ensure they can be controlled entirely with a keyboard. Users should be able to navigate to the trigger button with the Tab key and use Enter or Space to toggle the section. I use aria-expanded=\"true\" when the content is visible and aria-expanded=\"false\" when it is hidden. This lets screen readers announce whether the section is open or closed, providing clear feedback. I also use aria-controls to link the button to the content it affects, so assistive technologies can describe the relationship accurately."
+        },
+        {
+            "text": "A critical approach to accessibility is progressive enhancement, a development technique that ensures core functionality works in all situations, with additional features enhancing the experience when supported by the browser. This is particularly important for accessibility when JavaScript is unavailable. For collapsible elements, the non-JavaScript version typically displays all content while hiding interactive controls like buttons. This ensures that users can still access the information even if scripts do not load."
+        },
+        {
+            "text": "The GOV.UK Accordion component is a well-tested example of an accessible collapsible element, designed to work smoothly for both keyboard and screen reader users."
+        },
+        {
+            "heading": 3,
+            "text": "James Gordon, Senior Frontend Developer, Department for Work and Pensions"
+        },
+        {
+            "text": "When creating something new it\u2019s important to start with the simplest version, one with little to no javascript enhancements. This enables you to write as much of it as semantic as possible.\u00a0 Making interactive content accessible requires analysing all the times the content changes or wrestles control away from the user and flagging it up with aria live events as appropriate."
+        },
+        {
+            "text": "The only real way to know if what you have done will work is doing a prodigious amount of manual testing across different devices and technologies."
+        },
+        {
+            "heading": 3,
+            "text": "Michael Cheung, Senior Front-end Developer, NHS England"
+        },
+        {
+            "text": "Rather than starting from scratch, I\u2019ll check the NHS design system to see if it has what I need. It contains styles, components, and patterns that we use in the NHS and have been tested for accessibility."
+        },
+        {
+            "text": "If it isn\u2019t in our design system, I\u2019ll check someone else\u2019s like those from other government departments. Another resource is the WAI Aria Authoring Practices Guide which has many accessible examples."
+        },
+        {
+            "text": "I\u2019ll adapt what I find to my requirements and then test in our Accessibility Lab, which I help manage. It has a range of devices and assistive technology for testing."
+        },
+        {
+            "heading": 3,
+            "text": "Holly Blues, Front-end Developer, Department for Work and Pensions Digital"
+        },
+        {
+            "text": "During development we keep the Document Object Model (DOM) in mind. The HTML has a hierarchy, so we ensure our code uses semantic HTML and follows the correct ordering. It's also important to produce clean HTML that the browser understands and can render without errors, for example by ensuring HTML tags are opened and closed."
+        },
+        {
+            "text": "Any dynamic content would have to adhere to the WCAG 2.2 accessibility standards. Using a combination of semantic html and appropriate ARIA attributes, we would ensure that keyboard or screen reader navigation would clearly highlight and focus on the navigable element and make announcements whenever the content changes."
+        },
+        {
+            "heading": 3,
+            "text": "David Biddle, Frontend Developer, Government Digital Services"
+        },
+        {
+            "text": "I'd start by seeing if I can use a semantic element to get some of the functionality I'm looking for - for example, if I was working on a modal I'd look to use <dialog>. I'd also check whether the feature I was building was a pattern with an ARIA widget role - such as a list of tabs."
+        },
+        {
+            "text": "I'd ensure that any interactive elements were properly labelled, and that any interactions involving a mouse were also possible with a keyboard - including any click events, but also making sure that the user could navigate around and that their focus is clearly visible at all times."
+        }
+    ]
+}

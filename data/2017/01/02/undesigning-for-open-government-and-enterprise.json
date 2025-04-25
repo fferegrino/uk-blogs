@@ -1,0 +1,112 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2017/01/02/undesigning-for-open-government-and-enterprise/",
+    "title": "(Un)designing for open government and enterprise",
+    "authors": [
+        "Clare Moriarty, Permanent Secretary, Defra"
+    ],
+    "categories": [
+        "Data Transformation",
+        "Defra digital",
+        "Defra services",
+        "Open data"
+    ],
+    "pub_date": "2017-01-02T08:27:11+00:00",
+    "content": [
+        {
+            "text": "At the Open Data Institute's annual Summit at the BFI Southbank in London in November, Defra's Permanent Secretary, Clare Moriarty, spoke about open ways of working, open culture and open data."
+        },
+        {
+            "text": "This is what she had to say about the role data and openness are playing in delivering better outcomes across Defra group."
+        },
+        {
+            "text": "MrMikeRose took this video, which we've transcribed below for your convenience"
+        },
+        {
+            "text": "I\u2019ve just got the one slide \u2013 I\u2019m going to leave it up there; it means I can put this thing [slide contoller] down on the floor."
+        },
+        {
+            "text": "I\u2019m here as the second of the government speakers today, and I\u2019m from Defra. Defra is a government department, but we also talk increasingly about the Defra group, and that\u2019s a group of over 30 organisations, who in combination do all the central government functions in the areas of Environment, Food and Rural Affairs."
+        },
+        {
+            "text": "What you can see on the slide is some of the things that we do across organisations like the Environment Agency, Natural England, the Forestry Commission, Rural Payments Agency, as well as the central Department."
+        },
+        {
+            "text": "We are, in total, 22,000 people, and 80% of all the people in Defra group are delivering services directly to customers. Quite a lot of our customers deal with multiple organisations within the group, so if you\u2019re a farmer, you\u2019ll be dealing with the Rural Payments Agency, you may also be dealing with the Animal and Plant Health Agency, you may also be dealing with the Environment Agency \u2013 and we know that, for some of our customers, the experience of dealing with our multiple instances isn\u2019t necessarily the best; it can feel a bit duplicative, and overlapped. So, one of the things we\u2019ve been doing over the last year, is really trying to understand how we can improve that service for customers; how can we organise ourselves and our work better, to give them a better experience; by joining up, by standardising, by streamlining the processes."
+        },
+        {
+            "text": "I was very much taken by the existence of the word design in the title of this session. In government, we like design: we like to plan; we like structure; we like order \u2013 personally, I\u2019m a mathematician; I like patterns\u2026so I like this stuff. So when we started thinking about how we could make ourselves better, we started with design principles \u2013 and we came up with five design principles, which are:"
+        },
+        {
+            "text": "And I\u2019ll come back to those, at the end."
+        },
+        {
+            "text": "But one of the things that we found, when I was talking to my team abut what I might say today, was what came to mind were things that were substantially in the non-design end of the design spectrum. So I just want to tell you a couple of stories about those and then come back to the question of designing for open government."
+        },
+        {
+            "text": "So, I\u2019ll start with Defra\u2019s 8000 datasets."
+        },
+        {
+            "text": "Just after the last election in May 2015, Liz Truss, who was then the Environment Secretary, stood up in front of a group of people and said, \u201cDefra is going to publish 8000 datasets by the end of June 2016\u201d. Now, there was no particular magic to the 8000 number; it wasn\u2019t something that was the product of lots and lots of very careful calculations by loads of civil servants; we didn\u2019t have reams of explanation about what exactly a dataset was and wasn\u2019t; it was just something that was put out there. In short, it wasn\u2019t a particularly designed process that we went into. But it worked. What it did, was to galvanise teams across Defra to see what we could put out there in the way of data."
+        },
+        {
+            "text": "People didn\u2019t game the target \u2013 they didn\u2019t try to see what was the smallest possible dataset they could put out so they could claim the maximum number of datasets in order to be able to say, \u2018we\u2019ve hit the 8000,\u2019 \u2013 they looked for data that we currently held ourselves and which we could put out there for other people to use."
+        },
+        {
+            "text": "And, in fact, we beat the target, so we published not just 8000 but over 10,000 datasets by the end of June; and we\u2019ve gone on publishing, so if you go on data.gov.uk, you will find over 13,000 Defra datasets on that website, and some of them are massive, massive datasets."
+        },
+        {
+            "text": "Because, even more importantly than just putting out the data, is the stuff that other people have been able to do with it."
+        },
+        {
+            "text": "People have built digital tools and services. So things like the gaugemap API, which allows apps from the Red Cross, from Facebook, from all sorts of places to access Environment Agency data and use that to inform people about flood risk. And the work that John Murray\u2019s done with LiDAR data; taking several layers of LiDAR data, putting it together to tell you things abut the heights of buildings, gutters, trees, of things which have got practical application, for example, in the insurance industry."
+        },
+        {
+            "text": "So, our quite undesigned process is giving people space to innovate."
+        },
+        {
+            "text": "And maybe that is a bit of design. If you go back to the Steve Jobs principle, that the first decision in design is actually what not to do; in a sense, we\u2019ve got out of the space to allow other people to do things in it."
+        },
+        {
+            "text": "Now, I think open government is about more than open data. Data doesn\u2019t have a monopoly on \u2018open\u2019. But, for some reason, they seem to go together."
+        },
+        {
+            "text": "So here\u2019s my second story:"
+        },
+        {
+            "text": "On Good Friday, I was sitting in the car with my family on the way to a ferry. The traffic was terrible. I thought we were going to miss the ferry. So, as a bit of a distraction activity, I started scanning Twitter."
+        },
+        {
+            "text": "I found a blog about \u201910 ways which policy can learn from product\u2019, and I tweeted it on to my colleagues in opendefra to see how much of this stuff are we doing already. That prompted a lot of discussion, leading to an open document, which lots of people then contributed to, called #ifiwasthegaffer, about people telling me what they would do if they had my job. All sorts of things have followed on from that. I\u2019ve had great conversations with my data team, through social media \u2013 occasionally I even get them to come in the room and talk to me, but we have more conversations on Twitter. We\u2019ve got our own hashtags, #defraselfie \u2013 which I\u2019ll come back to \u2013 and #defranauts. I\u2019ve given explicit permission and trust to my data team to do things, and they have in return given me help, Lego, cake and egg timers."
+        },
+        {
+            "text": "But, underlying this is a different way of working. It\u2019s given me a window into a much more non-hierarchical way of working, which is relatively uncommon for government. A bit less structure, a bit less design, but more collaboration and more open culture. And that is something that, although it\u2019s come quite substantially from the data team, who tend to be more up for this than other people, has rubbed off more generally on the whole of the Defra group. So, now as a group, we have unconferences, where we bring people together in a slightly less designed way, to explore issues of mutual interest."
+        },
+        {
+            "text": "I\u2019m just going to give a plug here to the #DefraDataFunction Unconference on 29 November. It is open \u2013 we have certainly some places for friends of Defra, so if you\u2019re interested in that, tweet @opendefra and they will get back to you."
+        },
+        {
+            "text": "The common factor in those two stories is not about conscious design for open government. But neither is it about chaos. I think it\u2019s about creating the conditions where openness can happen. Not trying to create a rigid framework for something which by definition doesn\u2019t want to go in a rigid framework."
+        },
+        {
+            "text": "Maybe that\u2019s the point about designing for open government. There\u2019s an important place for plans and structure, but we also need space for fluidity, for curiosity, and willingness to try something new."
+        },
+        {
+            "text": "So I\u2019m just going to finish by going back to our Defra design principles: Act together; Make it simpler; Avoid duplication; Maximise impact; and Embrace data and digital."
+        },
+        {
+            "text": "Now, the last one of those is obviously the one with the \u2018data\u2019 tag attached to it, but actually everything we do in the open data, open government space aligns with the design principles. When we\u2019re collaborating, within and outside the Defra group, we\u2019re \u2018\u2019acting together; when we\u2019re communicating straightforwardly, we\u2019re \u2018making it simpler\u2019. When we\u2019re trying to break out of silos, we\u2019re \u2018avoiding duplication\u2019; and when we\u2019re creating space for others to innovate, that\u2019s when we\u2019re really \u2018maximising impact\u2019 \u2013 because the most valuable thing we can do is create a space where the maximum number of people can get involved in what\u2019s really important, which is delivering outcomes."
+        },
+        {
+            "text": "The outcomes that we want to deliver are about having a healthy environment, about having a world-leading food and farming industry, about having a thriving rural economy, and a nation better-protected against natural threats and hazards. And open data, open ways of working, and open culture are things that can really make that happen for us."
+        },
+        {
+            "text": "I\u2019m going to finish there, but there\u2019s one thing that I need to crave your indulgence on \u2013 because I talked about #defraselfie, and my data team have challenged me to do a #defraselfie from the stage."
+        },
+        {
+            "text": "So, I\u2019m hoping ( \u2013 thankyou very much Martin \u2013 ) that with the aid of my trusty phone, I can produce a defraselfie, and it will be real."
+        },
+        {
+            "text": "Thank you very much indeed."
+        }
+    ]
+}
