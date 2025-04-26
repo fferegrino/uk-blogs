@@ -1,0 +1,79 @@
+{
+    "url": "https://dftdigital.blog.gov.uk/2018/08/30/teaching-computers-to-read/",
+    "title": "Teaching computers to read",
+    "authors": [
+        "Will Bowditch, Data Scientist, Data Science Team, Department for Transport"
+    ],
+    "categories": [
+        "Data Science",
+        "Digital",
+        "Open Data"
+    ],
+    "pub_date": "2018-08-30T09:40:49+01:00",
+    "content": [
+        {
+            "text": "Transport is a key part of most people\u2019s day and so it inevitably ends up in the news. Much of this news appears in local papers, which make up the majority of the 700+ news outlets in the UK. For some policymakers, these news stories are a useful and informal input to the policy development process."
+        },
+        {
+            "text": "As human readers who understand how the English language works and what the Department for Transport (DfT) does, we can quickly identify if a piece of news is relevant to our policymakers. Yet, despite our suitability to the task, there is simply too much news generated each day to keep up with. This got the Data Science team thinking: could we teach a computer to do this for us?"
+        },
+        {
+            "heading": 2,
+            "text": "The problem with keywords"
+        },
+        {
+            "text": "A common approach to solving this is to come up with a list of keywords you\u2019re interested in and search the news media each day for articles that contain these words. But as these news results with the word \u2018car\u2019 in the headline show, this approach quickly runs into problems:"
+        },
+        {
+            "text": "\u201cPranksters put HALF a Mini car at top of the 'Nuneaton nipple' - but why?\u201d\nCoventry Live"
+        },
+        {
+            "text": "\u201cDrivers are angry at queues of 'more than two hours' to get out of St David's car park in Cardiff\u201d\nWales Online"
+        },
+        {
+            "text": "\u201cHighly charged: complaints as electric car points block city pavements\u201d\nThe Guardian"
+        },
+        {
+            "heading": 6,
+            "text": "The Nuneaton Nipple source. The UK\u2019s No. 1 Landmark"
+        },
+        {
+            "text": "What has been placed atop the \u2018Nuneaton nipple\u2019 is probably of little interest to colleagues at DfT, but the other 2 articles may be of interest. So to refine the results, we need to use keywords in a smarter way."
+        },
+        {
+            "text": "One way could be to write more complex rules to filter the news. For example, the Plug-in Vehicle Infrastructure team could receive articles that contain the words \u2018car\u2019 and \u2018electric\u2019 or \u2018car\u2019 and \u2018charging\u2019. But this doesn\u2019t get to the root of the issue - there are a vast amount of niche topics that different teams are interested in, and manually programing the right filters would be a mammoth task. Plus, the programmers don\u2019t have the subject matter expertise to come up with sensible filters."
+        },
+        {
+            "text": "Our solution is to outsource the subject expertise to the teams themselves. This gives them an easy way to train the computer to know which articles are relevant today, based on what was relevant in the past. And using machine learning algorithms to transfer the heavy processing to the computer."
+        },
+        {
+            "heading": 2,
+            "text": "The prototype"
+        },
+        {
+            "text": "Our current prototype addresses the core problem. We used 300 articles that we already knew were relevant to aviation policy to teach the model to identify new aviation articles correctly."
+        },
+        {
+            "text": "Computers aren\u2019t equipped to deal with language, but they can process increasingly vast amounts of numbers. To convert text into something a computer can digest we convert sentences into a matrix of word counts, referred to as a \u2018bag of words\u2019. If we do this for a selection of the words featured in the car headline results, we can begin to spot patterns in the data. For example, the Guardian article headline features the words \u2018car\u2019 and \u2018electric\u2019 but not \u2018park\u2019 or \u2018queues\u2019."
+        },
+        {
+            "text": "If we have a selection of articles that we know are of interest to a particular team, we can use the word counts of these articles to train a model, such as a Naive Bayes classifier (PDF 326KB), to make predictions."
+        },
+        {
+            "text": "Without going into detail, the process involves calculating the probability that a word, for example \u2018park\u2019 will appear in documents we\u2019ve tagged as belonging to a team. And using those probabilities, it can calculate the most likely category for new documents. We can see from the word counts table the probability that articles with the word \u2018park\u2019 belong to the Parking category is much higher than the probability for the word \u2018electric\u2019.\u00a0 In reality, we apply this process to thousands of words and hundreds of articles."
+        },
+        {
+            "text": "Once the model has identified relevant articles, we use natural language processing to select the most important keywords from the article and the most important sentence. We include this in a daily email and send it to the relevant team. In this way, we hope the recipient gets a summary of what the article is about without having to open the link (just in case the headline is not accurate)."
+        },
+        {
+            "text": "In the long term, we want to make the tool self-sufficient, by allowing recipients to improve the predictions with each email by voting whether the selected article was relevant or not. Doing so will provide the model with more data which in turn will improve the accuracy of predictions."
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch"
+        },
+        {
+            "text": "We are also exploring other ways we can use this data - at present we have 40,000 articles that contain transport related keywords. If this project is of interest to you - or you\u2019re interested in other text processing get in touch at Data.Science@dft.gov.uk"
+        }
+    ]
+}

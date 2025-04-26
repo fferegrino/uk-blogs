@@ -1,0 +1,127 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2019/01/15/help-us-start-a-data-revolution-for-government/",
+    "title": "Help us start a data revolution for government",
+    "authors": [
+        "Kit Collingwood - Deputy director, DWP Digital",
+        "Robin Linacre - Data scientist, Ministry of Justice"
+    ],
+    "categories": [
+        "Data insights",
+        "Data literacy",
+        "Open data",
+        "People and Skills"
+    ],
+    "pub_date": "2019-01-15T13:06:24+00:00",
+    "content": [
+        {
+            "text": "We\u2019re both passionate about how data can improve how government works, and we want to start a data revolution focusing on service delivery and improving human experience."
+        },
+        {
+            "text": "We believe government is hugely underestimating the need to shift how we create, use and share data. We want to start a wider conversation about data and build a cross-sector, diverse and inclusive community of interest and practice about data in the public sector."
+        },
+        {
+            "heading": 2,
+            "text": "The problem to be solved"
+        },
+        {
+            "text": "Good quality, user-focused data is fundamental to good decision making, and data can be used to transform the experience of everyone who interacts with government. It forms a part of the government transformation strategy\u00a0and the centralisation of data policy at DCMS is a strong sign that data is finally being taken seriously."
+        },
+        {
+            "text": "Although initiatives such as the Data Science Accelerator are welcome and there are some cross-government data and analysis communities forming, there\u2019s a real opportunity to do more. There is not yet a strong practical movement in central government focusing on the applied experience of data for better services - the intersection between digital, data and technology work."
+        },
+        {
+            "text": "To solve this we want to share experience and move strategy and intent into practical delivery. This will help us make government more efficient and effective, and offer better services to the millions we serve every day."
+        },
+        {
+            "heading": 2,
+            "text": "What is the data revolution?"
+        },
+        {
+            "text": "We think a data revolution across government should:"
+        },
+        {
+            "text": "Before we get to that point there are 5 things we need to do:"
+        },
+        {
+            "heading": 3,
+            "text": "1. Fix the plumbing"
+        },
+        {
+            "text": "We need to treat data like a precious commodity for our sector, as necessary to government\u2019s success as water is to life. And as with water, we should:"
+        },
+        {
+            "text": "We should rebalance our efforts to prioritise access to source systems data, to untapped sources like PDFs, free text, voice and others. We should invest in APIs over large systems, in better tagging and metadata, in the basics of interoperability and in making data accessible to the huge range of users who would potentially benefit."
+        },
+        {
+            "heading": 3,
+            "text": "2. Get the right skills"
+        },
+        {
+            "text": "Recruitment efforts are already being made to address the data skills gap in government, but we believe we should take the opportunity to invest in our own people and offer them opportunities to build modern data skills, as well as bringing new expertise in from outside."
+        },
+        {
+            "text": "We should offer transitions which allow public servants such as analysts to move between professions and use their skill sets to become data specialists. We\u2019ve got thousands of budding data scientists - we just need to invest in them."
+        },
+        {
+            "text": "Equally important are data leadership skills. We need to train our leaders in open-mindedness and data literacy in the technology age. We need leaders who are able to ask incisive and challenging questions about data projects and teams who are empowered by a clear vision and the right skills and ways of working to make it happen."
+        },
+        {
+            "heading": 3,
+            "text": "3. Fund teams to work across boundaries"
+        },
+        {
+            "text": "This can yield incredible results - the incredible work of the race disparity audit is one example of this."
+        },
+        {
+            "text": "While perhaps not the most glamorous, it\u2019s important we continue to focus funding on things like getting away from Excel as the default front end (and often backend!) for our data."
+        },
+        {
+            "text": "We need to escape binding contractual arrangements which mean we cannot get access to our own data and building APIs off legacy systems which will allow an explosion in the potential for better decisions."
+        },
+        {
+            "text": "Delivery of these unglamorous data fundamentals is time consuming and difficult, and we do not yet have all the solutions. A strong community, funded correctly to focus on sharing and enriching data, can help build understanding of where the real value is, iterate our delivery approach and ultimately direct investment more effectively."
+        },
+        {
+            "text": "We need to fund more data projects that cut across and ignore organisational boundaries that are outcome-driven, not driven by the needs of a single department or system."
+        },
+        {
+            "heading": 3,
+            "text": "4. Build guide rails"
+        },
+        {
+            "text": "We need to find a way for the distributed network of data custodians, publishers and users to work together in a loosely coupled but co-ordinated way both within and across government departments. One way to work towards this is through shared standards, guidance and patterns."
+        },
+        {
+            "text": "However, there's currently no equivalent in the world of data for the brilliant government Service Standard (though many of its principles equally apply to data) - meaning there\u2019s no guidance available across our sector for how to do data well."
+        },
+        {
+            "text": "The Government Digital Service has done by far the best work in getting us as far as we\u2019ve come, via open standards, guidance on APIs and more. But in our experience these are at best applied patchily and at worst ignored. We need to work harder to create and join up great standards with people able to implement them."
+        },
+        {
+            "heading": 3,
+            "text": "5. Collaborate and share our data"
+        },
+        {
+            "text": "A single organisation could never hope to have all the data we need to make the best decisions about the people we serve, so we need to share with and learn from others."
+        },
+        {
+            "text": "Opening up government data can be scary. We correctly prioritise protecting people\u2019s personal information and after all, it\u2019s easier not to share than to share. But this is not good enough anymore, when we\u2019ve collectively got data which could hugely improve service delivery and efficiency."
+        },
+        {
+            "text": "We have a responsibility to share more and create common goals and funding models which allow that to happen."
+        },
+        {
+            "text": "And \u2018we\u2019 is not just central government. The true potential for more efficient and effective public services will only be realised when we work across sector boundaries too - with local authorities, charities, think tank and academia. We need to build marketplaces for our data, where data sets and insights can be combined, shared and enriched."
+        },
+        {
+            "text": "There's already excellent work in this field, including the Open Data Institute, the Office for National Statistics and many others. We want to amplify that and to persuade government to invest far more heavily in opening up our data."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We\u2019d love this post to kick off the beginning of an open, diverse and inclusive, human-centred community of practice around data in the public sector. We\u2019d love your thoughts on:"
+        }
+    ]
+}
