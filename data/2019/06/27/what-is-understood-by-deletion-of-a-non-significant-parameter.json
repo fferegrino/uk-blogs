@@ -1,0 +1,43 @@
+{
+    "url": "https://medregs.blog.gov.uk/2019/06/27/what-is-understood-by-deletion-of-a-non-significant-parameter/",
+    "title": "What is understood by 'deletion of a non-significant parameter'?",
+    "authors": [
+        "Paul Cottingham"
+    ],
+    "categories": [
+        "Variations"
+    ],
+    "pub_date": "2019-06-27T11:24:57+01:00",
+    "content": [
+        {
+            "text": "The Variation Classification guidelines list approximately 350 different types of variation change codes and classification sub-categories. These variations fall under three possible procedure types: TIA, TIB or TII and cover the active substance and finished product, devices and safety, efficacy, and pharmacovigilance changes. Further details of the procedure types can be found on our website."
+        },
+        {
+            "text": "Taking the possible number of changes into account, when submitting a variation to a product licence, there is always going to be a change code which can cause confusion with regards to its meaning and assessor expectation. Deletion of a \u2018non-significant\u2019 parameter is an example of one of these change codes and the following article will define and explain what a deletion of a \u2018non-significant\u2019 and \u2018significant\u2019 parameter is."
+        },
+        {
+            "text": "Specification parameter is defined by the Variation Classification guidelines as meaning \u201cthe quality attribute for which a test procedure and limits are set e.g. assay, identity, water content.\u201d"
+        },
+        {
+            "text": "In the classification guideline, several categories refer to the deletion of a non-significant parameter and these include changes to both the active substance (B.I.b.1.d) and finished product (B.II.d.1.d)."
+        },
+        {
+            "text": "The \u2018deletion of a specification parameter which may have a significant impact or effect on the overall quality of the active substance\u2019 or finished product should be submitted as a TII variation under the relevant change code. However, it is possible, if the deletion does not meet the relevant Type IA requirements and can be demonstrated by the Marketing Authorisation Holder (MAH) not to significantly impact the overall quality of the product, to submit the change as a TIB, z) (other variation) sub-category. This reasoning should be clearly explained and submitted as a justification and included in the variation submission."
+        },
+        {
+            "text": "As mentioned, there has been some confusion about what is classed as a non-significant parameter, with some deletions being submitted as a Type IA procedure and being refused. An example of this is where the deletion of finished product specification (FPS) parameters are submitted simply because they are controlled in-process during manufacture. This is not classed as a non-significant parameter."
+        },
+        {
+            "text": "As defined above, \u2018specification parameter\u2019 means the \u201cquality attribute for which a test procedure and limits are set\u2026..\u201d, therefore, the deletion of a specification parameter applies only to its complete removal from the specification and not the removal of a certain part or element of a particular control. For example, a change to related substance limits which would fall under changes outside the approved specification limits."
+        },
+        {
+            "text": "The deletion of a 'non-significant' specification parameter as a Type IA notification should be limited to situations like the removal of outdated (obsolete) tests and not a critical parameter. An example of obsolete tests includes drug substance organoleptic properties e.g. odour, where the test is no longer required in accordance with current requirements and does not serve any particular purpose."
+        },
+        {
+            "text": "It should not be an opportunity to try and delete any possible parameter or limit. Attention should always be given to the background of why the test was included in the first place and consequently the implication of the deletion, which in most cases will require assessment."
+        },
+        {
+            "text": "The above points should be considered when planning to delete any specification parameter. If you have any questions about the 'deletion of a non-significant parameter', please contact the Regulatory Information Service (RIS) at variationqueries@mhra.gov.uk to discuss before submission of the variation application."
+        }
+    ]
+}
