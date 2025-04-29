@@ -1,0 +1,101 @@
+{
+    "url": "https://gds.blog.gov.uk/2020/06/11/introducing-the-gov-uk-data-labs/",
+    "title": "Introducing the GOV.UK Data Labs",
+    "authors": [
+        "Ganesh Senthi - Lead Product Manager for GOV.UK Data Labs, Government Digital Service",
+        "Mat Gregory - Lead Data Scientist for GOV.UK, Government Digital Service"
+    ],
+    "categories": [
+        "Data",
+        "GOV.UK"
+    ],
+    "pub_date": "2020-06-11T12:27:56+01:00",
+    "content": [
+        {
+            "text": "The digital world is rapidly changing, and with it, our users\u2019 expectations of how they should be interacting with government services and information. Last year, Head of GOV.UK Jen Allum set out the GOV.UK vision on how we will meet these expectations and she recently posted on the future of GOV.UK. At the heart of this vision is transforming the way we use data on GOV.UK."
+        },
+        {
+            "text": "We have always used data to develop and improve our products and services across GOV.UK. This includes:"
+        },
+        {
+            "text": "Our use of both qualitative and quantitative data underpins the Government Design Principles."
+        },
+        {
+            "text": "More recently we have worked across government to understand user experiences more widely, which means understanding how people move across content and services at scale. This will enable us to better understand our users in order to improve their journeys and interactions with government."
+        },
+        {
+            "text": "Anonymised data enables us to make informed decisions, so that we can focus on solving the most important problems. Working with data can be complex but the benefits are substantial. In order to do this properly, we have brought our data science and user-centred design disciplines together into the GOV.UK Data Labs."
+        },
+        {
+            "text": "This focused effort helps us work out what problems to solve, identify what things we can automate for us and for the public, and help us understand trends and peak periods of demand for certain services. And it\u2019s about doing all of these things at scale across the whole GOV.UK domain."
+        },
+        {
+            "text": "The goals of the GOV.UK Data Labs, then, are to:"
+        },
+        {
+            "heading": 2,
+            "text": "What are we working on?"
+        },
+        {
+            "heading": 3,
+            "text": "GOV.UK Intent and Feedback Explorer Tool (GIFT)"
+        },
+        {
+            "text": "During the COVID-19 crisis, GOV.UK has received an unprecedented amount of feedback from users who need to interact with government. On average we have seen 1,000 comments per day on everything from food deliveries to furlough schemes to the easing of lockdown. These comments, together with our analytics, can provide a valuable indicator of potential user needs for product teams, and evidence for possible policy changes."
+        },
+        {
+            "text": "However, the time-consuming nature of manual tagging and analysis, and its lack of scalability, means that it cannot be used with enough regularity to improve services on GOV.UK."
+        },
+        {
+            "text": "This was where GOV.UK Data Labs came in."
+        },
+        {
+            "text": "We built the GOV.UK Intent and Feedback Explorer Tool as a way to bring together the various disparate qualitative and quantitative sources of feedback into one place, using Natural Language Processing (NLP) and machine learning to categorise, theme, and present trends in feedback over time for a page, service, group of services, or a topic like Brexit or COVID-19."
+        },
+        {
+            "text": "Currently, we are looking at journeys and data associated within the primary GOV.UK domain (www.gov.uk) but we want to bring in external data sources like Google Trends, or data from other government departments and public bodies.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "govGraph - our \u2018knowledge graph\u2019"
+        },
+        {
+            "text": "After the success of the related links work that we introduced in 2019 (scaling our provision of related links on key content items), we continued to explore graph technology and its potential uses on GOV.UK."
+        },
+        {
+            "text": "A 'knowledge graph' is a representation of real-world entities and their relationships to one another: things, not strings. Graph representations enable us to infer new relationships and patterns within our data that we might not have spotted otherwise, ultimately leveraging our data to help users. "
+        },
+        {
+            "text": "We brought together different data sources and ran some quick experiments to determine where value lay. An example was opening the knowledge graph up to content designers to use it as a way to ask questions of our content and users, such as \u201cgive me all the content that mentions [date], [department] or [thing]\u201d. This has been invaluable during COVID-19 as our content colleagues can self-serve answers to tricky questions like, \u201cgive me all the COVID-19 content published by the Cabinet Office after 1st March\u201d, for example."
+        },
+        {
+            "text": "We\u2019ve identified many opportunities where this technology could be applied, including question answering, supporting GOV.UK content with search engines and other third parties, cross-platform sharing of our content, and as an analytical tool for disciplines like content and service design across government."
+        },
+        {
+            "text": "But there is still much work that needs to happen before govGraph is a full knowledge base. Our goal for it this year is to have a dynamic representation of our content, augmented with metadata (entities, supertaxons), structured data and content, and cross-domain service analytics data and content."
+        },
+        {
+            "heading": 3,
+            "text": "Enriching and structuring content on GOV.UK"
+        },
+        {
+            "text": "One thing that the GOV.UK knowledge graph (\u2018govGraph\u2019) relies on, is having rich and structured content on GOV.UK. There are many uses for structured content, but from Data Labs\u2019 perspective, this is vital."
+        },
+        {
+            "text": "Currently, the graph contains content attributes including page-level HTML, the topic a content item is tagged to, the publishing organisation, document type, and dates, but we need to be more granular and detailed. Attributes like things (such as passports), people (like ministers), places (such as Ireland) and eligibility criteria (like costs and age) need to be identified and added to our content for the graph to be really valuable for government."
+        },
+        {
+            "text": "We\u2019re looking at adding attributes to around 450,000 bits of content on GOV.UK, but this is not something we can do manually. Instead, we are using an AI process called Natural Language Processing, specifically entity extraction and information extraction. Through these processes, GOV.UK content is reviewed and any mentions of things like people, places, objects and costs, or services like 'renewing your passport', are automatically tagged with relevant descriptors. Our goal is to develop a corpus of government terms and to develop a semantic graph that can be added to govGraph, and can be used more widely across GOV.UK and government."
+        },
+        {
+            "heading": 2,
+            "text": "The future of Data Labs"
+        },
+        {
+            "text": "In 2019, we saw data science thrive in GOV.UK. We began experimenting with, and then fully automating, a recommendation engine to automate related links on content pages.\u00a0\u00a0"
+        },
+        {
+            "text": "In 2020, we aim to:"
+        }
+    ]
+}
