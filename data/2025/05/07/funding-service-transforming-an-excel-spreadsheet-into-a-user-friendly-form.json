@@ -1,0 +1,172 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/05/07/funding-service-transforming-an-excel-spreadsheet-into-a-user-friendly-form/",
+    "title": "Funding Service: Transforming an Excel spreadsheet into a user-friendly form",
+    "authors": [
+        "Jenny Tong, Content Designer"
+    ],
+    "categories": [
+        "Funding Service"
+    ],
+    "pub_date": "2025-05-07T13:42:03+01:00",
+    "content": [
+        {
+            "text": "The Funding Service helps grant teams deliver funding quickly and consistently to local councils and communities, saving time and money. As a multi-disciplinary team within the Ministry of Housing, Communities and Local Government (MHCLG), we provide digital and specialist support from the design and launch of grants through to delivery, working closely with policy teams to ensure our users are at the heart of everything we do.\u00a0\u00a0"
+        },
+        {
+            "text": "In this blog post, find out how we transformed a complex monitoring spreadsheet into a user-friendly digital form, helping both local authorities and policy colleagues in MHCLG.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Picture this:\u00a0"
+        },
+        {
+            "text": "You\u2019re a local authority who receives funding to deliver specific outputs and outcomes.\u00a0"
+        },
+        {
+            "text": "You know you need to report these outputs and outcomes back to the government as part of monitoring and evaluation.\u00a0"
+        },
+        {
+            "text": "You\u2019ve collected all the data you know you\u2019ll need.\u00a0"
+        },
+        {
+            "text": "It\u2019s time to report on your progress and you\u2019re given a complex, multi-tab spreadsheet to complete and a separate guidance document to navigate.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Aims\u00a0"
+        },
+        {
+            "text": "As a content designer within the Funding Service, my goal was to transform a monitoring spreadsheet for the Community Cohesion and Resilience Programme (CCRP) so that we could:\u00a0"
+        },
+        {
+            "text": "As part of our mission to help simplify the funding landscape for local authorities and reduce unnecessary monitoring burden, monitoring activities are done through our Delta platform. This means that all grant recipients submitting monitoring data to MHCLG can expect a consistent user journey and experience.\u00a0"
+        },
+        {
+            "text": "Read more about how we transformed Delta based on user needs.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Opportunities for improvement\u00a0"
+        },
+        {
+            "text": "When reviewing the original spreadsheet, I approached it from the perspective of 2 different users:\u00a0"
+        },
+        {
+            "text": "I identified several opportunities to make improvements for each user group, based on some pain points identified:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Local authorities:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The policy team:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "My approach\u00a0\u00a0"
+        },
+        {
+            "text": "I tackled this project by:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Using prototypes\u00a0"
+        },
+        {
+            "text": "This project required collaborative working with multidisciplinary teams, including the policy team, the form developer and an interaction designer.\u00a0\u00a0"
+        },
+        {
+            "text": "To streamline the review and editing process and reduce the need for back and forth, I created a prototype of the form. This allowed everyone to visualise what the end product would look like and proved very effective, enabling everyone to collaborate in one place and add ideas directly into the questions within the form.\u00a0\u00a0"
+        },
+        {
+            "text": "These screenshots show examples of the prototype I created. The prototype clearly shows the user journey through the form, displaying questions, hint text and answer fields. This fostered a collaborative working environment between teams as it allowed them to comment and ask questions directly on the design of the form.\u00a0"
+        },
+        {
+            "text": "Prototyping was also helpful to display more complicated journeys, for example forms which used conditional logic, as shown in the image below. Guidance and a key were added to help colleagues use the prototype.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Transforming the content\u00a0\u00a0"
+        },
+        {
+            "text": "Designing content for this form was a challenge. I always tried to look at it from local authority users' perspective and visualise the easiest way for them to complete it. This meant:\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Adding conditional logic to the form\u00a0"
+        },
+        {
+            "text": "In the original spreadsheet, it wasn\u2019t clear which questions and sections were relevant for each local authority. Users might struggle to know which tabs or columns they should complete, potentially resulting in incomplete submissions.\u00a0\u00a0"
+        },
+        {
+            "text": "The screenshot below shows an example of several data categories that the policy team were asking for: aggregated, disaggregated by gender, disaggregated by protected characteristic 1, disaggregated by protected characteristic 2, and so on.\u00a0"
+        },
+        {
+            "text": "What isn\u2019t clear is whether all local authorities had to complete each section, or which ones were relevant to them.\u00a0\u00a0"
+        },
+        {
+            "text": "To simplify this, we added a question into the form so that the journey could be tailored for each local authority and would show only questions that were relevant to them. For example, the screenshot below shows how we added a question about the key protected characteristics (aligned with the key characteristics published on GOV.UK) that were relevant to their project:\u00a0"
+        },
+        {
+            "text": "Subsequent questions would then be tailored to show only what they selected, removing unnecessary burden by incorporating conditional logic into the form.\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Removing confusing guidance by adding hint text\u00a0"
+        },
+        {
+            "text": "While guidance can support users completing forms, it needs to come at the right time and in an easily digestible format. Previously, a separate guidance document was sent to local authorities, who would have had to read it in tandem with completing the spreadsheet.\u00a0\u00a0"
+        },
+        {
+            "text": "To simplify the process, I added hint text directly to the relevant question in the form, where needed. This allowed users to stay in one place when filling in the form, without needing to refer to another document.\u00a0\u00a0"
+        },
+        {
+            "text": "The screenshot below shows the previous guidance about how to complete one of the tabs for other local outcomes and outputs:\u00a0"
+        },
+        {
+            "text": "In the previous journey, users would:\u00a0"
+        },
+        {
+            "text": "To simplify this, we added a question to ask whether they wanted to report on another outcome or output, using active language with hint text as a prompt.\u00a0\u00a0"
+        },
+        {
+            "text": "Users simply answered 'yes' or 'no', which would then take them to relevant follow-up questions based on their response. This screenshot shows the final question in the form:\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Using clearly defined fields\u00a0"
+        },
+        {
+            "text": "The screenshot below shows the original spreadsheet format, which wasn\u2019t accessible nor particularly user-friendly. It was also unclear exactly what format local authorities should submit the data in, for example:\u00a0"
+        },
+        {
+            "text": "To improve the content, I transformed the layout and followed GOV.UK design components where possible. This provided users with components they may have seen across other digital government services (for example, date input) so their experience was consistent and easier to follow.\u00a0\u00a0"
+        },
+        {
+            "text": "We also added validations to prevent data errors, such as making sure that percentages totalled 100%. This helped to improve the quality of data we received.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The result\u00a0"
+        },
+        {
+            "text": "By thinking about our users and their needs, we were able to transform the spreadsheet into a more user-friendly form.\u00a0\u00a0"
+        },
+        {
+            "text": "The benefits for users are:\u00a0"
+        },
+        {
+            "text": "We also received some positive feedback from the policy team:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Get involved\u00a0"
+        },
+        {
+            "text": "We\u2019re always looking for ways that we can improve our service and make things easier for our users. This includes conducting user research and testing to ensure our service is user-friendly and accessible for everyone.\u00a0\u00a0"
+        },
+        {
+            "text": "If you\u2019d like to get involved in user research or testing, or hear more about our work, you can:\u00a0"
+        }
+    ]
+}
