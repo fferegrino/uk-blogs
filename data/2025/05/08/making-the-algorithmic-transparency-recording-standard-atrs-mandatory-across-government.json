@@ -1,0 +1,101 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2025/05/08/making-the-algorithmic-transparency-recording-standard-atrs-mandatory-across-government/",
+    "title": "Making the Algorithmic Transparency Recording Standard (ATRS) mandatory across government",
+    "authors": [
+        "Elena Hess-Rheingans, Data Ethics Lead, GDS",
+        "Alexander Hart, Data Ethics Lead, GDS",
+        "Sarah Handyside, Algorithmic Transparency Lead, GDS",
+        "Selina Beaugrand, Policy Advisor, GDS"
+    ],
+    "categories": [
+        "agile",
+        "Beneficial Ownership",
+        "Data Engineering",
+        "Data Ethics",
+        "Data insights",
+        "Data Standards",
+        "Data Strategy",
+        "Performance Analysis",
+        "Personal Data Exchange"
+    ],
+    "pub_date": "2025-05-08T10:52:44+01:00",
+    "content": [
+        {
+            "text": "The Algorithmic Transparency Recording Standard (ATRS) is one of the world\u2019s first interventions for transparency on the use of algorithmic tools in government decision-making, and is internationally renowned as best practice. "
+        },
+        {
+            "text": "Algorithmic tools increasingly support high-impact decisions affecting individuals, for example helping public servants assess eligibility for government programmes or benefits. Open and transparent communication about where, how and why these tools are being used is key to maintaining public trust and to sharing innovation across the public sector. "
+        },
+        {
+            "text": "The ATRS was developed to address this issue, by establishing a standardised way for public sector organisations to publish information proactively and openly about how and why they are using algorithmic tools."
+        },
+        {
+            "text": "Last year, use of the ATRS was made mandatory across central government, and over the last 12 months we have added 53 new records to the ATRS repository on GOV.UK, taking the total number of published records to 59 at the time of writing. More ATRS records are added each month."
+        },
+        {
+            "text": "Within the Blueprint for digital government we committed to being open and transparent about the AI tools that are being used in government and \u2018harness the power of AI for the public good\u2019. "
+        },
+        {
+            "text": "The ATRS team has now merged with Central Digital and Data Office (CDDO) colleagues within the new Government Digital Service - the digital centre of government, part of the Department for Science, Innovation and Technology (DSIT).\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Examples of algorithmic tools on the ATRS repository"
+        },
+        {
+            "text": "We are excited to showcase the results of the hard work from all the people involved in this process. Over the last few months we have published 26 records from central government departments and their arm\u2019s-length bodies (ALBs), and 10 records from devolved administrations and local government."
+        },
+        {
+            "text": "Among the records we have published are:"
+        },
+        {
+            "heading": 3,
+            "text": "Making the ATRS mandatory across government\u00a0"
+        },
+        {
+            "text": "The team has been working to roll out mandatory use of the ATRS in government departments in phases, beginning in March 2024. "
+        },
+        {
+            "text": "Each organisation has been asked to map all algorithmic tools across their organisation which fall within the mandatory scope and exemptions policy, that is tools, which either have a significant influence on a decision-making process with public effect, or which directly interact with the general public."
+        },
+        {
+            "text": " For each of the identified in-scope tools, they are then required to complete and publish ATRS records for those tools."
+        },
+        {
+            "text": "Over time, this work is building a valuable picture of how algorithmic tools are used across the public sector, while helping departments and ALBs be more transparent about how these tools affect members of the public."
+        },
+        {
+            "heading": 3,
+            "text": "A new version of the ATRS"
+        },
+        {
+            "text": "First published in November 2021, the ATRS is based on an extensive process of external engagement, including with members of the public, and has been piloted, refined, and updated based on feedback from the pilot phase. "
+        },
+        {
+            "text": "The Open Standards Board reviewed the ATRS it, and the Data Standards Authority (DSA) endorsed it for central government, with scope and implementation approved by Permanent Secretaries. As part of the DSA scrutiny process, representatives from across the public sector reviewed it and confirmed the standards\u2019 suitability for wider use."
+        },
+        {
+            "text": "Having now published over 50 records, we have learned a lot from users about their experience of using the ATRS and where clearer guidance is needed. We are excited to release an updated version of the ATRS (version 4) this month, which reflects this feedback. In this update, we refined the prompts for each field of the standard, aiming to streamline and improve the clarity of the template. "
+        },
+        {
+            "text": "This change should help teams to draft ATRS records with greater ease, requiring less time spent on iteration. Moreover, the data section has been reorganised, allowing users to clearly distinguish between data used during development of a model and operational data. "
+        },
+        {
+            "text": "Through these improvements and some deliberate design, the template is now better equipped for use with pre-trained models (like LLMs) and off-the-shelf tools."
+        },
+        {
+            "heading": 3,
+            "text": "Next steps for the ATRS team"
+        },
+        {
+            "text": "At the start of this year, the combined CDDO and DSIT ATRS team was brought together as one team in the newly expanded Government Digital Service. Over the next year we aim to:"
+        },
+        {
+            "heading": 3,
+            "text": "Get in touch"
+        },
+        {
+            "text": "Give us feedback on the repository of published records as it grows and complete our survey. If you are building, procuring or deploying a tool you believe may fall within mandatory scope of the ATRS - or if you simply want to publish information about a tool, please contact the team on algorithmic-transparency@dsit.gov.uk.\u00a0"
+        }
+    ]
+}
