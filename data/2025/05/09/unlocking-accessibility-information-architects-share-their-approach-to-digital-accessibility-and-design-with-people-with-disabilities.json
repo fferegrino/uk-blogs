@@ -1,0 +1,165 @@
+{
+    "url": "https://accessibility.blog.gov.uk/2025/05/09/unlocking-accessibility-information-architects-share-their-approach-to-digital-accessibility-and-design-with-people-with-disabilities/",
+    "title": "Unlocking Accessibility: Information Architects share their approach to digital accessibility and design with people with disabilities",
+    "authors": [
+        "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services",
+        "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+    ],
+    "categories": [
+        "Unlocking Accessibility"
+    ],
+    "pub_date": "2025-05-09T07:50:09+01:00",
+    "content": [
+        {
+            "text": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility."
+        },
+        {
+            "text": "In the next instalment of this series, we asked information architects from Government Digital Services (GDS) about their role in making digital services accessible, designing with people with access needs and sharing best practices for integrating accessibility into the information architecture process."
+        },
+        {
+            "text": "Traditionally, information architects plan, design, and carry out research activities with users to help teams gain a deep understanding of the people who use public services."
+        },
+        {
+            "heading": 2,
+            "text": "Question 1 - What advice would you give to an organisation just starting to prioritise accessibility in their information architecture?"
+        },
+        {
+            "heading": 3,
+            "text": "Becky Ashley, Lead Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Embed accessibility into the organisation at every level and across every skillset. This can include awareness and education alongside more structured integration in internal workflows. A collective mindset and a clear process help to support intuitive,\u00a0 and inclusive architectural design."
+        },
+        {
+            "heading": 3,
+            "text": "Sally Creasey, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Build advocacy amongst stakeholders and the people you work with from the start. This comes from sharing what you\u2019re planning or doing and involving people in the process, so they understand and feel confident in talking about accessibility in information architecture.\u00a0"
+        },
+        {
+            "text": "Creating sitemaps, ontologies, and other types of knowledge organisation systems is all well and good, but if you don\u2019t take colleagues, stakeholders, and end users along with you, then you risk missing the mark and not meeting the needs of all users."
+        },
+        {
+            "heading": 3,
+            "text": "Rik Williams, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Prioritising accessibility in information architecture means focusing on deliberate user-centred design in ontology (what the information is), taxonomy (how it\u2019s organised), and choreography (how users interact with it across time, channels, and contexts).\u00a0"
+        },
+        {
+            "text": "Accessible ontologies use clear, consistent concepts and connections, aiding those with cognitive disabilities, learning differences or limited domain knowledge. Whereas inclusive taxonomies use predictable, clear, and logical structures, helping screen reader and mobility-impaired users. Choreographies, meanwhile, connect these to accessible flow and interaction, creating logical sequences which create logical tabbing order for keyboard users, clear indication of focus, consistent navigation patterns, and understandable calls to action for everyone."
+        },
+        {
+            "text": "Looking at these three pillars of information architecture, individually and cohesively, creates deeply usable systems - and the deeply usable is fundamentally accessible."
+        },
+        {
+            "heading": 2,
+            "text": "Question 2 - How do you educate other team members (designers, developers, content creators) about the importance of accessibility in the information architecture process?"
+        },
+        {
+            "heading": 3,
+            "text": "Becky Ashley, Lead Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Find a shared language across disciplines. Using shared frameworks outside of a specific skill-set can encourage a sense of collaboration and accountability. Think about how the POUR principles, which stand for Perceivable, Operable, Understandable, and Robust, could apply to your workstream:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Sally Creasey, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "You need to be the change you want to see. Championing accessibility and users in all areas of practice. I emphasise the importance of intuitive and consistent labelling to support wayfinding in expected and understandable ways. The logical organisation of concepts that map to users\u2019 mental models, and contextually meaningful metadata to enable more tailored experiences."
+        },
+        {
+            "text": "We need to think of frontend and backend users with disabilities, continuing to involve users throughout the process of creating multi-channel experiences and publishing products. Being able to use a Content Management System (CMS) or tag content from a taxonomy is as important as navigating a website."
+        },
+        {
+            "heading": 3,
+            "text": "Rik Williams, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Design teams can easily become distant from users and create services that are hard to understand, unpleasant to use, or don\u2019t create the right information."
+        },
+        {
+            "text": "This is especially true when designing for users with diverse abilities and contexts. Direct contact with these users is ideal, but if not possible, simulations can help bridge the gap between designers and reality. Uncovering issues with information architecture affecting things like process and task completion, clarity in relationships, consistency, and organisation of content.\u00a0"
+        },
+        {
+            "text": "Although simulations, like using vision-impairing glasses, motor control limiting gloves or playing games like empathy balloons, can be valuable, they also have limitations and should be used carefully."
+        },
+        {
+            "heading": 2,
+            "text": "Question 3 - What are some common accessibility pitfalls in information architecture, and how do you avoid them?"
+        },
+        {
+            "heading": 3,
+            "text": "Becky Ashley, Lead Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Architecting or re-architecting information and thinking you\u2019ve finished. We need to be cognisant, empathetic and constantly aware of what we can do to continuously improve and iterate information flows to meet emerging user needs. Your information system (in any form it takes) must be able to adapt.\u00a0"
+        },
+        {
+            "text": "Think about the labels that contain your code and content. These labels can perform the role of accessible metadata. Constructing a continuous feedback loop between user needs and data ensuring code and content can flex to changing user needs."
+        },
+        {
+            "heading": 3,
+            "text": "Sally Creasey, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Common accessibility pitfalls in information architecture, I\u2019d say organising your information structure solely around stakeholder and organisational needs, rather than user needs. Allowing delivery pressures to squeeze your user research time, so you don\u2019t test with a range of users.\u00a0\u00a0"
+        },
+        {
+            "text": "Using jargon in labelling or creating sections with very similar purposes that the user finds hard to decipher (the paradox of choice!) Not creating a controlled vocabulary that ensures consistency in language and naming, so you have slightly different names for the same things.\u00a0"
+        },
+        {
+            "text": "All these things add unnecessary mental load to users, and particularly users with additional needs or disabilities."
+        },
+        {
+            "heading": 3,
+            "text": "Rik Williams, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Information Architects design understanding, making the unclear clear to users. This has a direct link to cognitive accessibility. For example, information architectures design structures that ensure services are usable by people with limits to their ability to focus, maintain attention, process, or sequence information. Perhaps because of a congenital condition, like dyslexia, a medical condition like dementia or a lifestyle context that overwhelms thinking.\u00a0"
+        },
+        {
+            "text": "Including people with these needs underpins effective design through choreographing information architecture that works within cognitive limits. So things like the hierarchy of steps in a service flow, progressive disclosure of data capture, clear orientation and the ability to provide more than one way to meet needs.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Question 4 - What tools and processes do you use to ensure that the information architecture you design is accessible to users with disabilities?"
+        },
+        {
+            "heading": 3,
+            "text": "Becky Ashley, Lead Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Tools and processes need to adapt to user needs. I try to balance between standards as part of the process and future tooling for contextual relevance.\u00a0"
+        },
+        {
+            "text": "Applying the principle of universality to process via standards really helps. Web founder Tim Berners-Lee emphasises \u201cthe power of the web is in its universality\u201d founding the World Wide Web Consortium and creating the web accessibility initiative to support access for everyone.\u00a0"
+        },
+        {
+            "text": "Industry awards like Tech4Good are a great source of insight and inspiration for integrating emergent technology with access needs."
+        },
+        {
+            "heading": 3,
+            "text": "Sally Creasey, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "I always start with users. You can\u2019t create a sitemap or a taxonomy in isolation. You have to think about who\u2019ll be using it. What are their access needs? What language and terminology do they understand? How much information is too much?"
+        },
+        {
+            "text": "Techniques like progressive disclosure help reveal content at the right pace for users. Noun and verb foraging, card sorting and tree testing can show how users speak and what matters to them. With AI advances and investment in metadata, we can explore how to serve highly relevant content to users with access needs via their preferred channel."
+        },
+        {
+            "heading": 3,
+            "text": "Rik Williams, Senior Information Architect, Government Digital Service"
+        },
+        {
+            "text": "Information architecture requires designing structures and interactions that are understandable, usable, and enjoyable. This is based on human diversity and varying abilities. Contextual, field-based research reveals how people interact with products and services, and their workarounds to overcome accessibility barriers.\u00a0"
+        },
+        {
+            "text": "Object-Oriented Design (OOD) can create information environments built around tangible things and standardise attributes. OOD also connects information architecture and accessibility and creates consistency. It ensures accessible text structure, personalisation and broadens accessibility guidelines to more technologies."
+        }
+    ]
+}
