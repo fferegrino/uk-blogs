@@ -1,0 +1,155 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/05/12/delivering-seamless-migrations-and-a-future-ready-platform/",
+    "title": "Delivering seamless migrations and a future-ready platform",
+    "authors": [
+        "Aleksandra Wiatr, PaaS Migration Programme Manager"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-05-12T10:03:20+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Aleksandra Wiatr"
+        },
+        {
+            "text": "When the closure of GOV.UK Platform as a Service (PaaS)\u00a0was announced in July 2022, our department faced a significant challenge: how to migrate 41 critical digital services without disruption while ensuring long-term sustainability. As a Programme Manager, my role is to oversee the migration process. I have ensured it is incident-free and delivered on time, while also focusing on the successful onboarding of service teams onto a new platform designed for the future."
+        },
+        {
+            "text": "From the outset, this was not the easiest task. Service teams always have pressing commitments to their users and colleagues. Therefore, engaging them in the migration process required significant collaborative effort to schedule, ensure codebase readiness, test performance and migrate data. Additionally, given the tight deadline, we were developing the platform while simultaneously onboarding the first services. "
+        },
+        {
+            "text": "As a result, these early migrations were particularly challenging, providing many learning opportunities to mature the service thanks to considerable efforts from all involved. Understandably, the platform\u2019s performance in its early days wasn\u2019t comparable to GOV.UK PaaS, which had been developed and maintained by a dedicated team for years. It took multiple iterations, significant improvements, and \u2014 most importantly \u2014 the patience and feedback of our users to get things right."
+        },
+        {
+            "heading": 3,
+            "text": "Prioritising user needs in platform development"
+        },
+        {
+            "text": "We engaged closely with service teams to understand their requirements, pain points, and aspirations for the new platform. We knew that migrating services was only one part of the challenge. The real success would be measured by how easily the teams could onboard, operate, and innovate on the new platform."
+        },
+        {
+            "text": "To achieve this, we quickly discovered that the platform needed to:"
+        },
+        {
+            "text": "- be intuitive and developer-friendly, reducing the learning curve for service teams"
+        },
+        {
+            "text": "- enable self-service capabilities, allowing teams to deploy and manage their services with minimal friction"
+        },
+        {
+            "text": "- be optimised for migration processes, ensuring services were transferred efficiently and securely"
+        },
+        {
+            "text": "- maintain high levels of security and compliance, aligning with government standards"
+        },
+        {
+            "text": "\u201cMigrating a complex digital service such as ours inevitably involves managing uncertainty. If we had any worries about that, our platform migration team helped put our minds at rest. Their knowledge, experience and approach ensured a safe and successfully migrated platform. We\u2019re very happy that our new platform performs as we\u2019d hoped and offers a great deal more besides!\u201d\u00a0 Paul Pepper, Software Engineer (Tariff Application Platform)"
+        },
+        {
+            "heading": 3,
+            "text": "Ensuring incident-free migrations at scale"
+        },
+        {
+            "text": "Migrating critical services without unexpected downtime required careful planning, rigorous testing, and close collaboration with service teams. Given the evolving nature of the platform, we had to work through unforeseen challenges in real time. A structured migration framework helped us move services seamlessly while identifying and resolving issues early."
+        },
+        {
+            "text": "We focused on:"
+        },
+        {
+            "text": "- extensive requirement gathering and comprehensive acceptance criteria with relevant stakeholders to ensure all migration risks were mitigated or accepted"
+        },
+        {
+            "text": "- automated migration tooling to accelerate service transitions and reduce manual effort wherever possible"
+        },
+        {
+            "text": "- dedicated support channels to provide real-time assistance during and after migrations with a timeline for moving to standard support model"
+        },
+        {
+            "text": "- continuous feedback loops, allowing us to refine processes as we progressed"
+        },
+        {
+            "text": "As a result, we began to embed migration engineers within the most complex services to bolster teams' capacity and allow engineers to detect unforeseen challenges and blockers early."
+        },
+        {
+            "text": "\u201cWe began by migrating internal tools to reduce risk and safeguard public-facing services. Every migration was an opportunity to refine our approach for subsequent services. By iterating and learning throughout, we scaled up to more complex services successfully, and we have not had to roll any service back to GOV.UK PaaS.\u201d \u2013 Lawrence Goldstien, Lead Migration Engineer"
+        },
+        {
+            "heading": 3,
+            "text": "Orchestrating the cutover process"
+        },
+        {
+            "text": "One of the most critical moments in each migration was the cutover process \u2014 the actual switch from PaaS to our platform. This required meticulous co-ordination, with dedicated bridge calls bringing together engineers and delivery managers to oversee the transition in real time. For some services, this took place outside of working hours to minimise disruption. Each person on the call had a defined role, executing actions allocated to them as part of the orchestrated migration plan, while reporting live progress."
+        },
+        {
+            "text": "\u00a0\u201cThis was my first experience of watching from the \u2018bridge\u2019 which made me really appreciate the high stakes and slightly nerve-wracking nature of this kind of work. It\u2019s testament to the team\u2019s preparation and skill that such a complex task has been completed with minimal disruption to our internal and external users.\u201d Madeline Lasko, Chief Digital Officer, Trade and Regulatory Services. "
+        },
+        {
+            "text": "Our confidence grew with each migration. The process evolved into a symphony of calm confidence, full focus, and careful step-by-step execution. While each migration presented unique challenges and involved different teams, our structured approach ensured consistency and success."
+        },
+        {
+            "heading": 3,
+            "text": "Designing a future-ready platform"
+        },
+        {
+            "text": "Beyond just migrating services, we took the opportunity to design a modern, scalable platform that would serve as the foundation for future innovation. Rather than relying on third-party solutions with predefined constraints, we built an internal cloud platform leveraging Amazon Web Services. This provided us with full control over security, scalability, and cost efficiency."
+        },
+        {
+            "text": "Key features of our platform include:"
+        },
+        {
+            "text": "- serverless compute for auto-scaling and cost-effectiveness"
+        },
+        {
+            "text": "- robust security controls, including advanced authentication and encryption"
+        },
+        {
+            "text": "- automated infrastructure management, reducing maintenance overhead"
+        },
+        {
+            "text": "- flexible governance policies, ensuring compliance without limiting agility"
+        },
+        {
+            "text": "- streamlined access to a whole suite of Cloud SaaS products for our development teams\u00a0"
+        },
+        {
+            "text": "\u201cThis isn\u2019t just about replacing Gov.UK PaaS, it\u2019s about creating a best-in-class platform that enables teams to build, innovate and deliver faster. Achieving this level of maturity takes collaboration, iteration and user input.\u201d James Colhoun, DBT Chief Architect."
+        },
+        {
+            "heading": 3,
+            "text": "Lessons learned and the path ahead"
+        },
+        {
+            "text": "Through this journey, we\u2019ve reinforced the importance of:"
+        },
+        {
+            "text": "- meaningful engagement at all levels\u2014service teams, architects, engineers, and leadership"
+        },
+        {
+            "text": "- empowering teams with self-service tools to speed up delivery and reduce reliance on centralised support"
+        },
+        {
+            "text": "- balancing speed with security, ensuring that rapid deployment does not come at the cost of resilience "
+        },
+        {
+            "text": "- continuous improvement, using feedback from teams to refine and enhance the platform"
+        },
+        {
+            "text": "\u201cThe platform today is the result of a collective effort \u2014 we listened, adapted, and improved based on real-world use. It\u2019s a testament to the value and importance of collaboration.\u201d  \u2013 Mark Adams-Wright, Chief Technology Officer"
+        },
+        {
+            "text": "As we move forward, we remain committed to evolving the platform, refining our migration processes, and ensuring that service teams have everything they need to succeed. If your department is facing similar challenges, we\u2019d love to share insights and collaborate on best practices."
+        },
+        {
+            "text": "By building with purpose, listening to our users, and optimising for speed and efficiency, we\u2019ve not only delivered seamless migrations.\u00a0 We have laid the groundwork for the future of government digital services."
+        },
+        {
+            "heading": 3,
+            "text": "Ready to join us?"
+        },
+        {
+            "text": "Digital, Data, and Technology are always looking for a wide range of skills. Explore\u00a0current opportunities\u00a0and discover how you can make a difference."
+        }
+    ]
+}
