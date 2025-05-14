@@ -1,0 +1,82 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/05/14/gov-uk-wallet-building-momentum-working-in-partnership/",
+    "title": "GOV.UK Wallet: Building momentum, working in partnership\u00a0",
+    "authors": [
+        "Natalie Jones OBE - Director of Digital Identity, Government Digital Service"
+    ],
+    "categories": [
+        "GOV.UK Wallet"
+    ],
+    "pub_date": "2025-05-14T16:31:58+01:00",
+    "content": [
+        {
+            "text": "In January, our Secretary of State, Peter Kyle set out a vision for a modern digital government focussed on improving people\u2019s experiences when accessing the public services they need, and making Government work better.\u00a0"
+        },
+        {
+            "text": "GOV.UK Wallet is one of the 5 kickstarters delivering against the Blueprint which sets out a vision for modern digital government to deliver on 5 outcomes for the public:\u00a0"
+        },
+        {
+            "text": "2. Faster growth: helping businesses start and scale by delivering services that work as well as they do for citizens."
+        },
+        {
+            "text": "3. Firmer foundations: securing public services so they are trustworthy and resilient.\u00a0"
+        },
+        {
+            "text": "4. Smarter organisations: changing how delivery is done to embed the right ways of working, moving at the same pace that people\u2019s lives do, and working as agile, user-centred, multidisciplinary teams by default."
+        },
+        {
+            "text": "5. Higher productivity and efficiency: saving public money, delivering outstanding public services at a price we can afford, and enabling front-line workers to focus on delivery."
+        },
+        {
+            "text": "The announcement generated significant interest in how the GOV.UK Wallet could work, where it could be used, and how we'd make good on the government\u2019s commitment to work with industry. Top of mind has been how we can meet such an ambitious timeline - to build and make usable a digital wallet for government along with an early set of credentials in a single calendar year.\u00a0"
+        },
+        {
+            "text": "Today marks the start of our formal engagement with the technology sector, with an event unveiling the working principles of the GOV.UK Wallet we\u2019ve been developing until now. The aim of this event was to give private sector identity providers an update on the government's proposals and help them prepare for the critical role we want them to play in this work.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our challenge to technology providers\u00a0"
+        },
+        {
+            "text": "At the event, we set a challenge to the private sector identity providers in the room. The GOV.UK Wallet opens the door to two clear use cases for the private sector to innovate."
+        },
+        {
+            "text": "To create an orchestration service to facilitate data sharing: This means simply orchestrating the data flow between the information in your GOV.UK Wallet, and the retailer trying to check you are eligible to buy an age restricted product or service. This is about providing information from digital credentials stored in the GOV.UK Wallet to the people who need to see them in a secure and reliable way. It\u2019s similar to how card payment services connect your bank account to retailers and facilitate the information exchange which lets you buy things. End users might see this model if using their digital driving licence to prove their age in a shop.\u00a0"
+        },
+        {
+            "text": "Identity or holder services: Just as identity services can take information from scans or photos of physical documents as the basis to offer a range of products, they\u2019ll be able to take this information from digital credentials in the GOV.UK Wallet if the user chooses to share them.\u00a0"
+        },
+        {
+            "text": "These private sector services can then add value, for instance attaching other information. They might also create a reusable \u2018derived credential,\u2019 which is a new credential that would allow users to prove things about themselves, without going back to the GOV.UK Wallet.\u00a0\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Building on strong foundations"
+        },
+        {
+            "text": "We\u2019re building on strong foundations, using the already established GOV.UK One Login, which allows users to safely and securely confirm their identity. This technology means only the user of the GOV.UK Wallet will be able to store, access and use the digital documents within it, reducing fraud.\u00a0"
+        },
+        {
+            "text": "We\u2019re kicking off engagement with the technology sector to build on our established\u00a0 foundations, enabling future collaboration as we change the way users can prove information about themselves. And it\u2019s no small task. We\u2019re building the UK\u2019s first government digital wallet, enabling multiple private sector organisations to build the technology to check and share information from it."
+        },
+        {
+            "text": "Important to remember is that we're following in the footsteps of some fantastic examples. We're applying learnings from Australia, Estonia, Ukraine and some states in the USA who have all rolled out digital wallets to improve the access and convenience of digital services.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next? "
+        },
+        {
+            "text": "Our ambition is to see the first credential in the GOV.UK Wallet live this summer with the launch of the digital veterans card in partnership with the Office of Veterans\u2019 Affairs and Ministry of Defence. Later in the year, we will begin the initial roll out of the digital driving licence which in time could be used for everything your physical one can do - with the benefit of quick access to your government credentials in your pocket. Importantly, this is not about replacing paper documents - it\u2019s about allowing people the choice to use digitised credentials where it works better for them.\u00a0"
+        },
+        {
+            "text": "Alongside the build of the GOV.UK Wallet and preparing for the first two credentials, our team is engaging across government to identify more potential credentials from other government departments as part of our Blueprint commitment to require services to issue a digital verified credential alongside any paper or card based credential or proof of entitlement eligibility by the end of 2027. This is opening the door to a world where an array of government-issued documents can be easily stored in your phone, in one place.\u00a0"
+        },
+        {
+            "text": "Digital Verification Services can use our technical documentation to find out about the open standards we are working to, and provide feedback. We will add further documentation to GOV.UK as the product develops.\u00a0"
+        },
+        {
+            "text": "This is the first step, and we are starting further collaboration opportunities. Providers will be able to take part in a technical engagement, as we work to understand their needs and how we can make the GOV.UK Wallet a success together. It marks the something truly transformative, and we\u2019re proud to be a part of it."
+        }
+    ]
+}
