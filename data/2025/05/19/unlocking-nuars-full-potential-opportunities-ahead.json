@@ -1,0 +1,154 @@
+{
+    "url": "https://gdsgeospatial.blog.gov.uk/2025/05/19/unlocking-nuars-full-potential-opportunities-ahead/",
+    "title": "Unlocking NUAR's full potential: opportunities ahead\u00a0",
+    "authors": [
+        "Richard Duffield, NUAR Discovery Project Lead"
+    ],
+    "categories": [
+        "Data",
+        "Technology"
+    ],
+    "pub_date": "2025-05-19T10:59:57+01:00",
+    "content": [
+        {
+            "text": "Richard Duffield, NUAR Discovery Project Lead, shares insights on the next phase of his project, exploring expanded access to NUAR data for new user groups and use cases, aiming to unlock significant economic and social value while ensuring robust security measures.\u00a0"
+        },
+        {
+            "text": "The National Underground Asset Register (NUAR) is envisaged to deliver over \u00a3400 million per year of economic growth through increased efficiency, reduced asset strikes and reduced disruptions for the public and businesses. However, extensive feedback and responses to our 2022 public consultation suggest that the full value of NUAR data could be even greater.\u00a0"
+        },
+        {
+            "text": "We are pleased to share that the NUAR team is now moving into the next phase of exploring if and how additional benefits can be delivered by securely expanding access to NUAR data. Embarking on this next phase marks an important milestone in our journey to understand the maximum possible value that could be achieved from this important national geospatial data asset.\u00a0"
+        },
+        {
+            "text": "To explore this in November 2023 the Government Digital Service geospatial team (formerly Geospatial Commission) launched an exciting new discovery project. During the discovery phase, we focused on understanding views from a wide range of stakeholders, including potential users, asset owners, security stakeholders and industry bodies. Over 200 individuals from over 150 different organisations participated with representation from across the UK and beyond, covering a wide range of industries in both the private and public sectors. Through interviews, workshops and research, we have gained valuable insights into the potential opportunities, constraints and risks associated with making NUAR:\u202f\u00a0\u00a0"
+        },
+        {
+            "text": "Following this extensive, open and fruitful period of stakeholder engagement, in November 2024 we announced that discovery research had concluded. We have now considered the evidence gathered, held further dialogue with key stakeholders, including our security partners, and are able to share the findings and communicate our next steps.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "During the discovery phase, we set out to explore the three key opportunities set out above.\u00a0\u00a0"
+        },
+        {
+            "text": "We said that we would explore making NUAR available to other user groups for safe digging purposes. Our research highlighted:\u00a0\u00a0"
+        },
+        {
+            "text": "We said we would explore making NUAR available to support other use cases. Our research with stakeholders across the public and private sectors, as well as from data providers and the research community, captured:\u00a0"
+        },
+        {
+            "text": "The NUAR service today exists to meet a single, critical need for planning and carrying out safe excavations \u2014and that alone justifies its value. However, expanding access to support these new user groups could unlock similarly transformational benefits across society and the economy. From housing and infrastructure to decarbonisation, climate adaptation, resilience, and emergency response, the potential for innovation and cross-sector collaboration is significant.\u00a0"
+        },
+        {
+            "text": "We said that we would explore making NUAR data accessible via third party intermediaries / APIs, rather than solely via the NUAR user interface. We found:\u00a0\u00a0"
+        },
+        {
+            "text": "What would providing NUAR data via intermediaries mean for safe digging users? If intermediaries can securely access the data within NUAR they can build smarter services, aligned to the unique business needs and personal preferences of specific users. As well as benefitting from comprehensive, standardised national data, users could benefit from greater choice and tailored digital experiences. \u00a0"
+        },
+        {
+            "text": "Looking beyond safe digging, the recent research suggests this could help stimulate innovation and accelerate digital transformation across sectors\u2014ultimately leading to improved services that better meet user needs and deliver benefits at scale. For example, a local authority could use the API to combine NUAR data with environmental datasets to identify areas at higher risk of flooding.\u00a0"
+        },
+        {
+            "text": "In summary: the evidence collected in the discovery project identified that enabling access to NUAR data for a broader range of users and use cases, as well as via APIs and intermediaries, could unlock significant additional economic and social value. This has the potential to support critical government priorities, including:\u00a0"
+        },
+        {
+            "text": "By broadening access in a secure and purposeful way, we can help maximise the value of the data\u2014ensuring it delivers benefits across sectors and society.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Asset owner sentiment "
+        },
+        {
+            "text": "We heard strong support from asset owners for enabling broader access to their data, provided that appropriate safeguards and controls are in place. Many saw clear benefits in expanding the range of users and use cases\u2014particularly where it could support greater collaboration with the public sector, academia and other data providers. There was also interest from potential commercial users, who indicated a willingness to pay for access for certain use cases, which could help offset asset owners\u2019 operational costs and thus support the financial sustainability of the service.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Security"
+        },
+        {
+            "text": "Our security partners told us that while widening access does require a rigorous review of the security model, they support the idea in principle providing appropriate security measures are in place. This is likely to be in the form of differing levels of data / access depending on who is accessing the data, what for and how they access it.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Seven potential enhancements to the NUAR service\u00a0"
+        },
+        {
+            "text": "Based on the evidence collected through the extensive discovery work, and our follow-up work, we have identified seven opportunities. We believe that these are technically feasible, of value, in the public interest and would have the support of asset owners, which we are now keen to test further.\u00a0"
+        },
+        {
+            "text": "These are making NUAR data securely available:\u00a0\u00a0"
+        },
+        {
+            "text": "These potential enhancements are intended to deliver additional economic and social benefit while balancing user needs, asset owner support, security risks and technical feasibility.\u202f\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Security"
+        },
+        {
+            "text": "Security is at the heart of everything we do on NUAR and it is critical that the benefits of wider access are balanced with the need to keep data safe and ensure it is accessed and used appropriately. We have worked closely with the National Protective Security Authority to develop guidance on securing underground asset data. This outlines a security minded approach detailing measures and principles which when \u201capplied in an appropriate and proportionate manner ... aim to encourage responsible access to and use of infrastructure information\u201d. We are now working closely with them to develop a security access model, which shows how these measures and principles could be applied to the proposed enhanced NUAR service (outlined above) to ensure responsible access and use, while achieving additional benefits. \u00a0"
+        },
+        {
+            "text": "While this model is still in development, one option being explored is that safe digging users outside of the asset owner and supply chain community may only be able to access low-detail or static, read only data for a limited number of searches, and / or may need to go through rigorous onboarding and identity verification processes.\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Another possibility is that for a site selection use case, access may be restricted to aggregated data summarising asset density on a standardised hex grid.\u00a0\u00a0"
+        },
+        {
+            "text": "A Trusted Research Environment (TRE) may be required to provide access to detailed data for larger areas for research purposes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "The Government Digital Service (GDS) recognises and values the high levels of engagement we receive from industry and wider stakeholders (including asset owners and the national security community) and this has played a critical role throughout the development of NUAR.\u202f\u202f\u202f\u00a0"
+        },
+        {
+            "text": "We are now ready to move into the next phase of the project \u2013 the NUAR enhancements testing phase. During this phase we will further validate the feasibility of unlocking additional social and economic value\u2014while ensuring that robust security measures are in place and any associated risks are carefully managed.\u00a0"
+        },
+        {
+            "text": "Working closely with data providers, users and intermediaries, we will explore these seven proposed enhancements in more detail. This includes further assessing the benefits, understanding constraints and evaluating the technical feasibility of possible solutions, such as secure access controls and APIs.\u00a0"
+        },
+        {
+            "text": "In partnership with AtkinsR\u00e9alis, we will be running a series of engagement activities from May to July, including:\u00a0\u00a0"
+        },
+        {
+            "text": "The NUAR team at GDS is working with Scottish Roadworks Commissioner to test making NUAR data available for safe digging via Scottish Roadworks Register, which houses Scotland\u2019s own national infrastructure map (Vault).\u00a0"
+        },
+        {
+            "text": "Feedback from this phase will help build a clearer picture of the opportunities, challenges and technical options surrounding improved access to the data. This evidence will support a decision by the end of 2025 on which, if any, of these enhancements should be taken forward.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Legislation"
+        },
+        {
+            "text": "Measures tabled in the Data (Use and Access) Bill seek to update the existing legislation and contain provisions that would make it possible for NUAR data to be securely accessed for purposes other than safe digging (such as those outlined above) should they prove feasible and of high value. We intend to continue our engagement with stakeholders, and will consult with industry in due course, including the street works sector, in the development of any regulations, to ensure they are aligned with the sector\u2019s needs and enable NUAR to realise its projected, and potentially additional, benefits.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Stay involved"
+        },
+        {
+            "text": "If you participated in the discovery project, we will contact you to let you know how you can take part in this exciting next phase.\u00a0"
+        },
+        {
+            "text": "If you have not yet participated and would like to get involved, then please contact NUARContact@atkinsrealis.com\u00a0"
+        },
+        {
+            "text": "If you wish to contact GDS directly then please email any questions to the NUAR team at GDS by emailing geospatial@dsit.gov.uk. \u202fPlease email any questions and queries regarding the current NUAR service to support@nuar.uk\u202f\u00a0"
+        },
+        {
+            "text": "Look out for future updates on the NUAR page on GOV.UK, for the latest news on this exciting work as it progresses.\u00a0"
+        },
+        {
+            "text": "You can also\u202f\u00a0sign up\u202fto get an email notification every time we publish a new blog post. For more information about this and other news see our\u202f website, or follow us on\u202f\u00a0LinkedIn\u202f"
+        },
+        {
+            "text": "Footnotes:"
+        }
+    ]
+}
