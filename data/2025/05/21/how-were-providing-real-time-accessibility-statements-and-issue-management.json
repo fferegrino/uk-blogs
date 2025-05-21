@@ -1,0 +1,75 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2025/05/21/how-were-providing-real-time-accessibility-statements-and-issue-management/",
+    "title": "How we\u2019re providing real-time accessibility statements and issue management",
+    "authors": [
+        "Andy Jones",
+        "Jake Lloyd",
+        "Kerry Lyons",
+        "Adam Dumbell"
+    ],
+    "categories": [
+        "Accessibility",
+        "Cross-government",
+        "design"
+    ],
+    "pub_date": "2025-05-21T10:00:00+01:00",
+    "content": [
+        {
+            "text": "In late 2023, the Department for Education (DfE) DesignOps team noticed a recurring problem across the services DfE provided to users. Many of our digital services did not have accessibility statements, or had out-of-date, or incorrect statements. This issue made it difficult for users to understand how accessible our services were, and we lacked the data needed to identify common accessibility issues or track progress.\u00a0"
+        },
+        {
+            "text": "Identifying the challenge\u00a0"
+        },
+        {
+            "text": "We recognised the challenge \u2013 teams struggled to provide or keep accessibility statements accurate and compliant with the Public Sector Accessibility Regulations 2018. Without a central way to manage these statements, it was impossible to consistently identify accessibility risks or track fixes effectively.\u00a0"
+        },
+        {
+            "text": "Setting our objectives\u00a0"
+        },
+        {
+            "text": "We set ourselves the task of creating a service that could manage accessibility statements and issues centrally. In January 2024, we recruited a senior accessibility specialist who guided us in aligning our approach with best practices and legal standards. They were instrumental in developing learning and training tools in the department, working with digital teams in understanding accessibility requirements, and supporting them with audits, troubleshooting, advice, and recommendations.\u00a0"
+        },
+        {
+            "text": "Throughout 2024, we also involved a group of T-Level students from Bury College who were with us as part of a work placement. They joined us one day each week, mapping user journeys, researching user needs, and identifying the crucial data points needed to capture accessibility issues to support the wider goal of automating accessibility statement generation.\u00a0\u00a0"
+        },
+        {
+            "text": "Taking practical steps\u00a0"
+        },
+        {
+            "text": "By early 2025, with the students completing their placement, the DesignOps team took their valuable work forward.\u00a0"
+        },
+        {
+            "text": "In April 2025, we launched a private beta involving several key DfE services to understand if it improved the management of issues and accessibility statements for teams. This beta allows teams to:\u00a0"
+        },
+        {
+            "text": "We also built our product to support multi-tenant use, meaning arms-length bodies and partner agencies can use it with their own branding on their statements.\u00a0"
+        },
+        {
+            "text": "Positive early outcomes\u00a0"
+        },
+        {
+            "text": "The initial feedback from our private beta is very positive. Teams now have clearer visibility of accessibility issues, enabling them to act quickly and keep statements accurate and compliant. Users benefit from up-to-date accessibility statements, better support, and clearer information.\u00a0"
+        },
+        {
+            "text": "We\u2019ve also identified several future features:\u00a0"
+        },
+        {
+            "text": "Additional ideas include integrating automated accessibility checks into continuous integration processes and enabling automatic onboarding from service registers for departments\u00a0"
+        },
+        {
+            "text": "Cross-government show and tell\u00a0"
+        },
+        {
+            "text": "We held a cross-government show and tell on 13 May, where we demoed the product. Questions and feedback were forthcoming and it\u2019s clear there is a need for a product like this in other departments. As we work in the open, the code for the product is freely available to use and with a little configuration, could be used by anyone to track issues and provide real-time accessibility statements.\u00a0\u00a0"
+        },
+        {
+            "text": "Our next steps\u00a0"
+        },
+        {
+            "text": "Over the coming months, we\u2019ll:\u00a0"
+        },
+        {
+            "text": "By bringing together issue management, dynamic accessibility statements, and targeted guidance, we aim to significantly improve digital accessibility across government services.\u00a0"
+        }
+    ]
+}
