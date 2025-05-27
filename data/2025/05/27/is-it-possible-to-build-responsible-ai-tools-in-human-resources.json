@@ -1,0 +1,91 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2025/05/27/is-it-possible-to-build-responsible-ai-tools-in-human-resources/",
+    "title": "Is it possible to build responsible AI tools in human resources?",
+    "authors": [
+        "Piers Walker, Senior Data Scientist, GDS",
+        "Jos\u00e9 Orjales, Senior Data Scientist, GDS"
+    ],
+    "categories": [
+        "agile",
+        "Data Ethics",
+        "People and Skills",
+        "Performance Analysis"
+    ],
+    "pub_date": "2025-05-27T11:17:26+01:00",
+    "content": [
+        {
+            "text": "In an era where Artificial Intelligence (AI) is increasingly assisting people in the workplace, it is essential that any new technology is introduced in an ethical and responsible manner. This includes being mindful of the risks of biased outputs and ensuring that human judgement remains central to critical decision-making processes."
+        },
+        {
+            "text": "The IDEA Unit, part of the Data Directorate in the Government Digital Service (GDS), is actively identifying opportunities to embed AI and automation tools across other teams within GDS. This initiative aims to equip public servants with enhanced tools to support their work, in line with the six-point plan of the Blueprint for modern digital government.\u00a0"
+        },
+        {
+            "text": "In 2024, we were approached by GDS\u2019 Capability Team seeking assistance in how they collected and managed their project data, as well as exploring whether AI could be employed to streamline a time-consuming search task. "
+        },
+        {
+            "text": "This team leads career development conversations for Senior Civil Servants (SCS) in the digital and data profession throughout government and collaborates with their line managers to assist in shaping career development pathways. "
+        },
+        {
+            "text": "Our team recognises the challenges associated with handling sensitive data, particularly in Human Resource (HR), and has contributed to the AI Playbook for the UK Government to share guidance on the responsible use of AI. "
+        },
+        {
+            "text": "In December 2024 we published an Algorithmic Transparency Recording Standard (ATRS) record outlining the AI solution we had built.\u00a0"
+        },
+        {
+            "text": "In this blog, we demonstrate that prioritising the risks associated with AI during data science development and testing allowed the creation of a useful and responsible tool using a Large Language Model (LLM), even in a business area as sensitive as HR."
+        },
+        {
+            "heading": 3,
+            "text": "Identifying the need for change\u00a0\u00a0"
+        },
+        {
+            "text": "We reviewed the existing manual processes for how career data on SCS was being collected and used to assess people\u2019s suitability for vacant digital roles, so they could be informed of potential career development opportunities. This analysis revealed an opportunity for us to assist our Capability colleagues in achieving significant efficiency savings.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Responsible development"
+        },
+        {
+            "text": "Principle 4 of the AI Playbook addresses decision-making and emphasises the importance of maintaining \u2018meaningful human control at the right stages\u2019. To uphold this principle, we committed to the following:"
+        },
+        {
+            "text": "To address other ethical considerations we ensured that:"
+        },
+        {
+            "heading": 3,
+            "text": "Succession Select: AI that supports rather than replaces\u00a0"
+        },
+        {
+            "text": "The team developed a tool called Succession Select, utilising a LLM in a multi-step process. Here\u2019s how it works:\u00a0"
+        },
+        {
+            "text": "This streamlined process helps the team to now focus their efforts on assessing candidate suitability, rather than sifting through data to find matching keywords. Additionally, by using a systematic data-driven process, Succession Select promotes a more impartial and unbiased method for internal candidate suggestions."
+        },
+        {
+            "text": "One user highlighted the transformative impact of the tool: \"AI is transforming our internal processes by moving us from manual searching to strategic engagement with the best-fit talent. It enables faster identification of internal candidates by using data on skills, experience, and aspirations - giving us more time to focus on career development and decision-making.\""
+        },
+        {
+            "heading": 3,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "The improved data pipeline we have established is now fully integrated into the customer\u2019s workflow. The Succession Select search tool is regularly used to identify individuals across government to support important career conversations. "
+        },
+        {
+            "text": "The IDEA unit continues to manage the tool, with plans to enhance the user experience by making it more intuitive and streamlined. Additionally, there are plans to expand the dataset to include more detailed career information, which will improve the accuracy of its suggestions."
+        },
+        {
+            "heading": 3,
+            "text": "Empowering government digital reform"
+        },
+        {
+            "text": "The introduction of Succession Select illustrates that, by understanding the associated risks, AI can be successfully integrated into business workflows in a manner that supports rather than replaces human input. This approach ensures that the incorporation of AI is both responsible and transparent, enhancing productivity while maintaining essential human oversight."
+        },
+        {
+            "text": "Read more about Succession Select via its Algorithmic Transparency Recording Standard (ATRS) record. There you will also find the ATRS record for our other AI tool, a chatbot called AskOps."
+        },
+        {
+            "text": "Read the AI Playbook for the UK Government to see the framework and principles which guide safe, responsible and effective use of AI in government organisations.Join the Artificial Intelligence community of practice to connect with people interested in AI across government, attend the monthly meet-ups and receive newsletters with all the latest AI news from across government."
+        }
+    ]
+}
