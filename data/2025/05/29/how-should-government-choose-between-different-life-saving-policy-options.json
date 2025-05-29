@@ -1,0 +1,55 @@
+{
+    "url": "https://rpc.blog.gov.uk/2025/05/29/how-should-government-choose-between-different-life-saving-policy-options/",
+    "title": "How should Government choose between different life-saving policy options?",
+    "authors": [
+        "Stephen Gibson",
+        "Caroline Elliott"
+    ],
+    "categories": [
+        "Better regulation",
+        "Evaluation",
+        "Independent scrutiny"
+    ],
+    "pub_date": "2025-05-29T08:03:27+01:00",
+    "content": [
+        {
+            "text": "These and other difficult questions are ones that governments needs to address when considering public policy questions about healthcare expenditure, transport investments, how to regulate tobacco or alcohol and many other decisions."
+        },
+        {
+            "text": "Given that the Government has a long list of competing priorities and a limited budget, it uses Quality Adjusted Life Years (QALYs \u2013 pronounced \u201cKwaal-eez\u201d) to help decide between different regulatory or spending options. QALYs are defined as: \u201cA measure of the state of health of a person or group in which the benefits, in terms of length of life, are adjusted to reflect the quality of life. One quality-adjusted life year (QALY) is equal to 1 year of life in perfect health.\u201d[1]"
+        },
+        {
+            "text": "QALYs combine two things:"
+        },
+        {
+            "text": "So a policy that increases 2 people\u2019s lives by one year of 50% quality of life is worth 1 QALY. "
+        },
+        {
+            "text": "They are used in cost-effectiveness analysis to see which policy or intervention gives the highest health benefit per pound."
+        },
+        {
+            "text": "For example in November 2024, when deciding whether to raise the legal age of sale for tobacco products, the DHSC valued the health benefits from the reduction in the number of people taking up smoking at \u00a3417m based on the Green Book value of \u00a370,000 per QALY (2020/21 prices)[2]. This allowed it to compare the costs and benefits of the proposed policy against the alternative of maintaining the current rules on tobacco sales."
+        },
+        {
+            "text": "However QALYs are not without controversy and have been subject to a number of challenges:"
+        },
+        {
+            "text": "It is also complicated where different QALY values are used in different circumstances \u2013 for example NICE uses a value of \u00a320,000-30,000 per QALY for general assessments, but uses a higher value for ultra-rare diseases; while the DfT uses the Green Book value of \u00a370,000 per QALY."
+        },
+        {
+            "text": "Alternative tools for cost-effectiveness analysis have been developed. The Value of a Prevented Fatality (FPF) provides an estimate of the societal value of a small change in the probability of a fatality. Statistical Life Years (SLYs) consider the value to society of a small change to life expectancy. Disability-Adjusted Life Years (DALYs) reflect years of life lost because of premature death and years lived with disability. All of these measures (together with QALYs) are estimated by averaging values from surveys across representative population samples."
+        },
+        {
+            "text": "Conclusion"
+        },
+        {
+            "text": "QALYs are one of the ways the Government tries to make policy decisions fair, transparent and evidence-based. They are not a perfect tool, but they can help to make decisions that support more equitable and consistent outcomes."
+        },
+        {
+            "text": "[1] National Institute of Clinical Excellence https://www.nice.org.uk/Glossary"
+        },
+        {
+            "text": "[2] https://publications.parliament.uk/pa/bills/cbill/59-01/0121/impactassessment.pdf"
+        }
+    ]
+}
