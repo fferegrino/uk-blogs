@@ -1,0 +1,78 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/05/30/connecting-the-dbt-intranet/",
+    "title": "Connecting the DBT Intranet",
+    "authors": [
+        "Paul O'Neill, Senior Interaction Designer"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2025-05-30T10:04:48+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Paul O'Neill"
+        },
+        {
+            "text": "At the Department for Business and Trade (DBT), the staff intranet is used by over 6,000 employees. They come for different reasons, with many looking for information and guidance to help complete the routine tasks of being an employee in DBT."
+        },
+        {
+            "text": "Line managers and new starters come especially to get accurate policies and explanations around HR, travel, annual leave, pay, performance, relocation and lots of other organisational processes. The intranet is also used to find and connect with other teams. Using a staff directory search, called People Finder, teams across DBT can browse the organisation hierarchy, and search for teams and people."
+        },
+        {
+            "text": "There are hundreds of publishers from different parts of the organisation who create the intranet pages, working under a \"devolved publishing model\". This means there are often hundreds of pages covering a wide range of topics; some are very niche, but lots overlap."
+        },
+        {
+            "text": "Here\u2019s an illustration of the range of topics and content types:"
+        },
+        {
+            "text": "Lots of useful content, but it is dispersed across different sections of the site and very little of it is joined together. For example, engaging news stories about someone\u2019s personal journey of working with a disability is not linked to the staff Disability Network, to the workplace adjustment and leave policies, or even to that person\u2019s profile."
+        },
+        {
+            "text": "People Finder hosts a vast array of teams and people, but the initiatives and projects they\u2019re associated with are not joined up. There are many examples of content which could be linked together, but isn\u2019t. Under the devolved publishing model, editors create content unaware that what they\u2019ve written is potentially related to other content. Users lose out on discovering what\u2019s relevant for them."
+        },
+        {
+            "heading": 2,
+            "text": "How to connect the intranet together"
+        },
+        {
+            "text": "Spotting this gap, we knew we could come up with a way to link the content together. If every page had a few tags listing the topics covered, then we could use this metadata to join up pages which had never been joined before. The challenge for a busy team was to find the time to do this retrospectively across many hundreds of pages."
+        },
+        {
+            "text": "We did not want to create an open-ended list of tags to manage in the system, known as a folksonomy. Folksonomies are notoriously difficult to work with because they lack standardisation or control. This leads to ambiguity and inconsistent tagging. If the tags are untidy, then they become difficult to reuse and develop new features from. So, we needed to devise a way to create an ordered list of tags based on categories or taxonomies we\u2019ve set. First we needed to audit as much content as possible, allowing us to see and interpret the common categories and tag types."
+        },
+        {
+            "heading": 2,
+            "text": "Tagathon \u2013 marathon not a sprint"
+        },
+        {
+            "text": "We set aside a morning for the whole team to focus on tagging the content, using one spreadsheet listing every page on the site. Dividing up all 1,600 pages amongst the 15 team members meant we could get a lot tagged in one go. Each person marked the pages they did and noted anything strange or pages for deletion. We built in validation in our tagging spreadsheet so that no-one could create 2 identical tags. This was a big time saver. "
+        },
+        {
+            "text": "Some guidance was shared on what is relevant to tag on a page. Our goal was to always think 'what would make this page more useful if it was linked to other pages?' This inspired some good reflections within the team on what makes a worthy tag and what content should be linked together and why. We quickly discovered lots of privacy policies were siloed and we spotted opportunities for news stories to link to the staff networks."
+        },
+        {
+            "text": "On the day, we managed to tag nearly 40% of all the content, which was an incredible team effort. It felt satisfying for the team to finally categorise what was, for so long, an unordered heap. We\u2019ll keep the spreadsheet going for a few more weeks and continue tagging in the background."
+        },
+        {
+            "heading": 2,
+            "text": "Auto-suggesting tags - doing the hard work so users don\u2019t have to"
+        },
+        {
+            "text": "The Tagathon created a rich dataset of over 1,600 unique tags, covering various topics, people, places, and concepts, with more added weekly. This list can now serve as a reference for interpreting intranet content in data analysis work."
+        },
+        {
+            "text": "The ultimate goal will be to create functionality in the intranet\u2019s content management system to reliably suggest tags to a content publisher. There are now accessible and powerful language processing tools available which can review a whole body of text efficiently. We can use this technology to scan the intranet. Our large tag dataset can be used to guide this technology to create a coherent predefined list of tags for publishers to choose."
+        },
+        {
+            "text": "We will work on this in stages and plan to have an autosuggest tagging installed soon. Once this easy tagging is in place, we\u2019ll have the powerful ingredients to start creating intranet pages which link content that was previously trapped in separate silos. This will achieve an intranet that is joined together."
+        },
+        {
+            "heading": 2,
+            "text": "Interested in joining the team?"
+        },
+        {
+            "text": "Digital, Data, and Technology are always looking for a wide range of skills. Explore\u00a0current opportunities\u00a0and discover how you can make a difference."
+        }
+    ]
+}
