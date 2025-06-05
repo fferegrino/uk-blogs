@@ -1,0 +1,108 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/06/05/principles-to-practice-launching-the-ministry-of-justice-ai-and-data-science-ethics-framework/",
+    "title": "Principles to Practice: Launching the Ministry of Justice AI and Data Science Ethics Framework",
+    "authors": [
+        "Alessandra Fassio"
+    ],
+    "categories": [
+        "AI",
+        "AI and Data Science Ethics Framework",
+        "Data",
+        "Our services"
+    ],
+    "pub_date": "2025-06-05T11:53:34+01:00",
+    "content": [
+        {
+            "text": "The use of data-driven technologies within the criminal justice system raises a host of challenging ethical issues, such as how to ensure automated decisions are explainable, or how to design governance processes to promote ethical principles such as sustainability, accountability, and fairness."
+        },
+        {
+            "text": "Working in collaboration with The Alan Turing Institute\u2019s Public Policy Programme, we have co-produced an ethical framework and toolkit that helps MoJ colleagues understand what is required to enable the responsible use of AI and data science within the criminal justice system."
+        },
+        {
+            "text": "The UK government\u2019s recently announced AI Opportunities Action Plan highlights the importance of safe and responsible AI adoption to help improve public services and drive innovation. The MoJ AI and Data Science Ethics Framework provides our data science and AI teams with the assurance that they are innovating safely, responsibly and fairly across the MoJ data science project lifecycle."
+        },
+        {
+            "heading": 2,
+            "text": "What it is"
+        },
+        {
+            "text": "The MoJ AI and Data Science Ethics Framework is a collection of processes, tools and guidance designed to support a responsible ecosystem for the research and development of data-driven technologies."
+        },
+        {
+            "text": "It is built around a typical MoJ AI or data science project lifecycle model and includes various activities and questionnaires for each of the main phases: project design, model development and system deployment. The tools within the framework encourage teams to facilitate discussions and foster a collaborative approach to identifying and mitigating ethical risks."
+        },
+        {
+            "text": "This framework is crucial for our teams as it ensures that our work is aligned with ethical principles and societal values. It provides a robust foundation for the responsible use of AI and data science, promoting transparency, fairness, and accountability in all our projects. We are grateful to the Alan Turing Institute for partnering with us and providing their expertise which has enabled the MoJ to uphold the highest standards of ethical practice in the rapidly evolving field of AI and data science."
+        },
+        {
+            "text": "Sapna Sanghvi, Chief Data Scientist, Data Directorate"
+        },
+        {
+            "text": "Ethical use of Data Science and AI is really important to me. I\u2019ve been involved in the development of this framework and building our relationship with the Alan Turing Institute over the last four or five years. I think this gives us a great framework to innovate and push the boundaries of how we can use AI and data science across MoJ while staying ethical, true to our values, and making a positive impact on society."
+        },
+        {
+            "text": "Jon Roberts, Director & Chief Data Officer, Data Directorate"
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "Working alongside experts from the Alan Turing Institute, colleagues from across MoJ, including frontline staff, senior stakeholders and our Data Ethics Champions, attended multiple workshops and creative sessions to help shape an ethical framework that makes sense in the MoJ context."
+        },
+        {
+            "text": "Our work builds on The Government Digital Service (GDS) and the Office for Artificial Intelligence\u2019s (OAI) joint guidance on how to build and use artificial intelligence (AI) in the public sector. The AI ethics component of this guidance, Understanding artificial intelligence ethics and safety in the public sector,\u00a0 was directly shaped by the MoJ-Turing Institute collaboration on data ethics."
+        },
+        {
+            "text": "In 2018, researchers from the Turing began working closely with the MoJ to explore the ethical values and practical principles that should scaffold a national guidance on public sector AI ethics and safety. This included interviews with staff from across the MoJ and close consultation with MoJ management. The results of these engagements, together with desk research and further consultation by Turing researchers, yielded the SUM values and the SAFE-D principles."
+        },
+        {
+            "text": "Further MoJ-Turing engagement explored how to take these value and principles and put them into practice through a Process-Based Governance Framework. Ultimately, this collaboration has help to produce both the MoJ AI and Data Science Ethics Framework and the Turing Institute\u2019s AI Ethics and Governance in Practice Programme, an eight module expansion of the GDS-OAI public sector AI ethics guidance that was mandated by the UK\u2019s National AI Strategy. The theoretical foundation for this project is a practically-oriented framework of ethical values and principles that grounds the development and use of data science and AI, and supports an end-to-end, procedural approach to the governance of data-driven technologies that aims to promote responsible research and innovation."
+        },
+        {
+            "text": "The main aim of this project was to co-produce an ethical framework and toolkit that can help stakeholders, developers, policy-makers, and decision-makers understand what is required to enable responsible research and innovation\u00a0for the use of AI and data science\u00a0within the criminal justice system."
+        },
+        {
+            "text": "This multi-year collaboration between the Ministry of Justice and the Alan Turing Institute has been a true model of the importance of long-term knowledge exchange partnerships between government departments and research institutions. We have learned so much in our interaction with the top-notch civil servants at MoJ and are thrilled to see the data ethics framework come to fruition at this critical juncture in the history of AI."
+        },
+        {
+            "text": "Professor David Leslie, Director of Ethics and Responsible Innovation Research at the Alan Turing Institute"
+        },
+        {
+            "heading": 2,
+            "text": "Principles in practice"
+        },
+        {
+            "text": "We have started to test the framework cross several projects, including the Violence in Prisons Estimator."
+        },
+        {
+            "text": "For each offender in custody, the tool provides an estimate of the number of violent incidents that they are at risk of being involved in over the next year. The tool is part of a suite of information that helps to support decision making and managing safety in prisons."
+        },
+        {
+            "text": "The MoJ AI & Data Science Ethics Framework gave us a structured approach to evaluating the full range of ethical considerations related to the Violence in Prisons Estimator. By completing and documenting our reviews through this process, we were able to both provide assurance to our partners and develop monitoring plans to ensure the tool remains ethically robust throughout its lifecycle."
+        },
+        {
+            "text": "Will Miller, Lead Data Scientist, Prison Safety, Data Directorate"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "\u00a0Some of our key learnings from setting out to create an ethical framework:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We are delighted to have published the MoJ AI and Data Science Ethics Framework on GOV.UK so that others can use and adapt our tools to their specific needs. We hope you enjoy working through the various activity books and find the practical tools and guidance a useful starting point in embedding ethical reflection into your own work!"
+        },
+        {
+            "text": "We will be looking to expand our framework offering beyond our data and digital teams, thinking about how we can tailor specific tools to other parts of the data lifecycle and to other areas where AI might be used, such as in procurement."
+        },
+        {
+            "text": "The framework was initially designed to support ethical creation of data technologies in a criminal justice context but we will continue to iterate it to support data ethics across the justice system.\u00a0"
+        }
+    ]
+}
