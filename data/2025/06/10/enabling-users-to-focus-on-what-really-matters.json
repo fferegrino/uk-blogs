@@ -1,0 +1,73 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/06/10/enabling-users-to-focus-on-what-really-matters/",
+    "title": "Enabling users to focus on what really matters",
+    "authors": [
+        "Weylan Kiam-Laine, Delivery Manager",
+        "Carly Moran, Head of Strategic Financial Reporting"
+    ],
+    "categories": [
+        "People",
+        "Products"
+    ],
+    "pub_date": "2025-06-10T10:15:10+01:00",
+    "content": [
+        {
+            "text": "Weylan Kiam-Laine"
+        },
+        {
+            "text": "Carly Moran"
+        },
+        {
+            "text": "The Department for Business and Trade (DBT) has developed a new digital Financial Forecasting Tool (FFT) which represents a significant leap forward in operational efficiency. Harnessing data from the Oracle Database, managed by UKSBS, this tool allows users to create accurate forecasts of payroll and non-payroll expenditure for their cost centres. This enables more detailed budgeting and reporting to take place.\u00a0\u00a0"
+        },
+        {
+            "text": "It's already delivering substantial time and cost savings across the department while fostering greater engagement with financial processes. This allows users to focus on what really matters instead of being bogged down by the process of using the tool. This achievement is a direct result of the exemplary collaboration between the Finance and Digital Data and Technology (DDAT) teams, embodying a truly unified approach. Here's how this transformation was accomplished.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Out with the old, in with the new"
+        },
+        {
+            "text": "In the past, our financial forecasting and reporting process was guilty of some inconsistencies. Month-end procedures varied significantly from team to team, often relying heavily on manual tasks and individual knowledge. This led to inefficiencies and placed undue pressure on significant single points of failure. A major headache for users was juggling multiple tools to create forecasts each month.\u00a0"
+        },
+        {
+            "text": "Thankfully, those days are behind us.\u00a0 DBT's financial system landscape has been significantly improved through enhanced integration. With the launch of the Month-End Project (MEP), the aims are to:\u00a0"
+        },
+        {
+            "text": "The crucial first step was ensuring users had the right tooling. The goal was to streamline forecasting activities into one cohesive system to make life a whole lot easier for everyone involved come month-end. To achieve this, support was needed, and thus a vital partnership was formed between DBT\u2019s Finance and DDaT teams."
+        },
+        {
+            "heading": 2,
+            "text": "From vision to reality: Our journey to develop the FFT"
+        },
+        {
+            "text": "The project to develop the FFT found a home with the Employee Experience team within DDaT, and we hit the ground running. Our mission was clear: to truly understand Finance's needs and swiftly map out key deliverables and milestones. With a tight deadline looming, we wasted no time."
+        },
+        {
+            "text": "Working hand-in-hand with our dedicated subject matter experts from the Finance team, we maintained constant, clear communication, allowing us to quickly pinpoint the core requirements. This allowed us to focus on delivering the greatest impact in our short timeframe. Some guiding Agile principles throughout this intensive period were customer collaboration and building working software. These ensured we consistently delivered value at pace by developing the right features and smoothing out any potential bumps along the way."
+        },
+        {
+            "text": "We also knew this was a significant shift for end-users. For many, it meant moving away from the legacy Admin Tool they knew intimately, to rely solely on FFT for their forecasting needs. With Admin Tool being discontinued on FFT\u2019s launch, we needed to get it right first time, and so we gathered crucial feedback throughout the development process. By holding regular demonstrations, we ensured everyone was prepared for the change and had a voice in how the tool was developed."
+        },
+        {
+            "heading": 2,
+            "text": "FFT today and tomorrow"
+        },
+        {
+            "text": "The launch of the FFT has now been successfully completed with a full-scale run-through held at the end of April. Feedback so far has been overwhelmingly positive:"
+        },
+        {
+            "text": "\"The new financial forecasting tool feels like a definite upgrade from Admin Tool. While the core functionality remains familiar, it's far less clunky and much more intuitive to user's needs. Features like being able to 'find a person's name' makes tasks such as checking vacancies and pay details quicker and easier, avoiding the need to scroll endlessly. Overall, it feels fresh, reliable, modern and well-branded and responsive to what users actually need.\u201d - Sara Bibby, Business Manager (EUS)"
+        },
+        {
+            "text": "Our work is far from over though. To ensure a successful launch, daily drop-in sessions have been taking place each month to guide users through any queries that they may have. A big focus for us since launch has been hypercare, ensuring that any bugs or issues that arise are swiftly resolved. We're also continuing to evolve the tool beyond its initial Minimal Viable Product (MVP), all while staying true to our Agile principles and building on our strong relationship. The next objectives are to develop a robust multi-year forecasting capability and streamline the process for bringing in new data from Oracle. We will also be working on other improvements across the tool, so reach out to financial.analysis@businessandtrade.gov.uk if you are interested to know more."
+        },
+        {
+            "heading": 2,
+            "text": "The secret ingredient"
+        },
+        {
+            "text": "The journey of the Financial Forecasting Tool stands as a testament to what dedicated collaboration can achieve. Through clear communication and a shared understanding of user needs, we were able to deliver significant time and cost savings. We also reduced tedious processes, enabling users to focus on higher-value work. All of this would not have been possible either, without plenty of feedback from users. By engaging with them throughout the process, we were able to see how different users were interacting with the tool. This significantly helped us to understand what features and functionality were useful or not. However, this was just an MVP. The Financial Forecasting Tool will continue to evolve, with collaboration at its foundation, so watch this space."
+        }
+    ]
+}
