@@ -1,0 +1,178 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/06/12/extract-using-ai-to-unlock-historic-planning-data/",
+    "title": "Extract: Using AI to unlock historic planning data\u00a0",
+    "authors": [
+        "Jenny Colebourn, Senior Product Manager (Planning Data & AI)",
+        "Steve Messer, Product and Design Strategist",
+        "Gavin Edwards, Principal AI Engineer, Incubator for Artificial Intelligence"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2025-06-12T08:57:41+01:00",
+    "content": [
+        {
+            "text": "This isn\u2019t going to be a story about artificial intelligence (AI) revolutionising the planning system, solving all our problems in one fell swoop.\u00a0"
+        },
+        {
+            "text": "It\u2019s a story about applying research, development and real tools to a critical problem: turning mountains of old paper maps, PDFs, and scanned documents into usable data for modern planning systems.\u00a0"
+        },
+        {
+            "text": "And yes, even after the AI does its part, there\u2019s going to be more work for people to do. Hard, transformative work. But that\u2019s okay. That is where the real value lies.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "So what\u2019s the story?\u00a0"
+        },
+        {
+            "text": "Back in November 2024, we (the Planning Data team in MHCLG\u2019s Digital Planning programme) started chatting with the Incubator for Artificial Intelligence (i.AI)  (a team within the Department for Science, Innovation, and Technology that builds AI tools for use across the public sector) about ways AI might help with making the planning system fit for the 21st Century. After a few conversations and some brainstorming, i.\u200cAI came back with a list of over 20 potential approaches.\u202f\u00a0"
+        },
+        {
+            "text": "One stood out: the problem of manually converting historical planning documents into structured data. Data that\u2019s needed for modern digital workflows.\u00a0"
+        },
+        {
+            "text": "Across England, decades of essential planning information \u2013 site boundaries, policy zones, conservation areas \u2013 are trapped in paper maps, scanned PDFs, and legacy microfiche. This creates a fundamental barrier to modernising our planning system, with councils holding years' worth of valuable records that cannot be easily accessed or used.\u00a0"
+        },
+        {
+            "text": "To tackle this challenge our two teams have developed an innovative solution called Extract. This AI-powered tool transforms complex geospatial information from static documents into digital, structured formats \u2013 significantly faster, more consistently, and at lower cost than traditional manual methods.\u00a0\u00a0"
+        },
+        {
+            "text": "And we\u2019re thrilled that this week, at London Tech Week, the Prime Minister Keir Starmer officially launched our tool and committed to rolling it out across England.\u00a0\u00a0"
+        },
+        {
+            "text": "So, we have some exciting work to do, continuing to develop and test Extract in alpha (an initial, internal testing phase) with more local authorities. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why this matters\u00a0"
+        },
+        {
+            "text": "Extract is a crucial step towards our vision of a planning system that is fast, data-driven and transparent, truly serving communities across England in the 21st century.\u00a0"
+        },
+        {
+            "text": "So far, MHCLG\u2019s funding and training has helped 64 councils to publish accessible, reliable data in consistent formats on our Planning Data platform. These datasets will power the next generation of planning software tools like PlanX \u2013 that need high-quality data to function effectively \u2013 and provide the information we need to train future planning AI tools on.\u00a0\u00a0"
+        },
+        {
+            "text": "Extract will make it easier, faster and cheaper for councils to digitise their historic documents and maps, moving key records out of the filing cabinets in the basement and PDFs on file and into the hands of planners, developers, software providers, policy-makers and the public to unlock development and build more homes.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The experiment\u00a0"
+        },
+        {
+            "text": "i.\u200cAI has used their expertise with frontier AI models and the latest machine learning techniques to develop Extract. \u00a0"
+        },
+        {
+            "text": "Specifically, the team started looking at models like Meta\u2019s Segment Anything Model (SAM) and vision language models (VLMs), which are designed to handle both text and images.\u00a0\u00a0"
+        },
+        {
+            "text": "The team set out to achieve a few objectives:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The approach\u00a0"
+        },
+        {
+            "text": "Developing AI solutions requires rigorous evaluations. Evaluations enable us to quickly test and learn. Rather than aiming for a single, magical solution, i.AI set clear, measurable objectives from the start. Every line of code and every model tested, was evaluated for accuracy and speed. This \u2018evaluation-driven development\u2019 meant we always knew if we were on the right track.\u00a0"
+        },
+        {
+            "text": "To make this possible, we built a detailed evaluation set of planning documents from around the country. It was varied enough to test the edge cases, but small enough to allow us to iterate quickly. The evaluation set paired old planning documents with their modern data equivalent.\u00a0"
+        },
+        {
+            "text": "We then broke the core problem down into a two-pronged attack: one for the text, and one for the maps.\u00a0"
+        },
+        {
+            "text": "Extracting textual data:\u00a0\u00a0"
+        },
+        {
+            "text": "First, we tackled the textual information. A planning document is full of vital data, but it\u2019s locked in scanned images of text and unstructured sentences. To solve this, LLMs were used to extract key information \u2013 dates, locations, decisions. The model reads the document, understands the context, finds the information, and structures it into Digital Planning's modern data format that a modern computer system can instantly use. By using a trick known as \u2018structured outputs\u2019 we can guarantee the LLM will always adhere to the expected format.\u00a0"
+        },
+        {
+            "text": "We knew what the correct answers should be so we were able to confidently assess if the LLM was capable of finding the correct information.\u00a0"
+        },
+        {
+            "text": "Image segmentation:\u00a0\u00a0"
+        },
+        {
+            "text": "The second, and far harder challenge, was extracting the geospatial data. Standard LLMs are masters of language and words, but they can't natively 'read' a map and produce precise shapes of boundary areas. This is where the novel part of our method comes in. We built a multi-stage pipeline that chains together several specialised AI models \u2013 combining VLMs with tools like OpenCV and SAM, to trace boundaries drawn on maps. These are tools that act like highly precise digital scalpels. They can meticulously trace the boundary, creating a clean digital outline known as a polygon.\u00a0"
+        },
+        {
+            "text": "Placing the shape on a real-world map \u2013 georeferencing:\u00a0\u00a0"
+        },
+        {
+            "text": "A traced shape is useless until it\u2019s accurately geolocated onto a modern map. This process, called georeferencing, was our biggest hurdle.\u00a0\u00a0"
+        },
+        {
+            "text": "Our innovation was to automate the search for Ground Control Points (GCPs). Think of these as digital anchors \u2013 identical features like road junctions or building corners that appear on both the old, scanned map and a modern geolocated map. Our system automatically finds these matching points, allowing it to stretch, rotate, and lock the polygon into its precise real-world coordinates.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The results"
+        },
+        {
+            "text": "So, after an intense 8-week experiment did our approach work?\u00a0"
+        },
+        {
+            "text": "The answer is a resounding yes. We successfully proved it\u2019s possible to automatically extract both textual and geospatial data from historical planning documents with remarkable accuracy.\u00a0"
+        },
+        {
+            "text": "We quickly solved the text extraction task, but the polygon extraction and geospatial location was a stubborn problem that had no prior solutions. After focusing all our efforts on it and extending the experiment by an additional 4-weeks, we had a final breakthrough.\u00a0"
+        },
+        {
+            "text": "Our final approach, tested against the evaluation set of real-world documents, exceeded our initial success criteria:\u00a0"
+        },
+        {
+            "text": "What this means in practice is a revolution in efficiency. A task that takes a trained officer 1-2 hours of manual work could now be completed by our AI, in under three minutes for about 10p.\u00a0"
+        },
+        {
+            "text": "This isn\u2019t just an incremental improvement. For a local authority with thousands of historical documents, the impact could be transformative. Whilst we focussed originally on a subset of documents, the approach we\u2019ve invented could be applied to a wide variety of planning documents.\u00a0\u00a0"
+        },
+        {
+            "text": "By combining these two pipelines for text and maps, we managed to create a single, seamless workflow to turn a messy, complex planning document into structured, usable geospatial data.\u00a0"
+        },
+        {
+            "text": "The approach we invented combines the very latest capabilities of AI. It effectively creates a team of AI \u2018agents\u2019. These are AI\u2019s that are specialised with instructions (prompts) and given tools needed to do their job. They all work together to extract different information, understanding the context of the entire document and adapting to the wide variety of map and document styles.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What it enables\u00a0"
+        },
+        {
+            "text": "Extract is more than a tool \u2013 it\u2019s a breakthrough that helps unlock one of the most persistent challenges in modernising our planning system. By unlocking decades of trapped data, we\u2019re not only saving time and resources but fundamentally changing what\u2019s possible in planning.\u00a0\u00a0"
+        },
+        {
+            "text": "Extract is a key part of the digital planning programme\u2019s wider ambition: to turn a system that is manual, fragmented and opaque into one that is fast, modern and built on high-quality data."
+        },
+        {
+            "heading": 2,
+            "text": "What happens next\u00a0"
+        },
+        {
+            "text": "There is still a lot of work ahead to make Extract into a production ready system. Our incubation period answered the biggest uncertainties and solved the hardest research problems. Now, we need to face the hard engineering problems. Over the coming months we will be making Extract more robust, reliable and scalable so it can be used by local planning authorities.\u00a0\u00a0"
+        },
+        {
+            "text": "Our roadmap:\u00a0"
+        },
+        {
+            "text": "As we continue to develop Extract from alpha to a fully deployed service, we\u2019re excited to see how this technology will help create a planning system that works well for communities, developers and local authorities alike. We\u2019ll continue to evolve the Planning Data Platform \u2013 prioritising data types and formats based on user needs and helping councils maximise their data contributions, to make the system more transparent, efficient and responsive.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "And for more information"
+        },
+        {
+            "text": "Watch the Prime Minister\u2019s announcement at London Tech Week\u00a0\u00a0"
+        },
+        {
+            "text": "More information about Extract\u00a0"
+        },
+        {
+            "text": "Extract uses Google DeepMind's Gemini model. Check out Google\u2019s blog post."
+        },
+        {
+            "text": "Keep up to date with the Digital Planning programme, by\u202ffollowing us on LinkedIn\u202fand\u202fsubscribing to our newsletter.\u00a0"
+        }
+    ]
+}
