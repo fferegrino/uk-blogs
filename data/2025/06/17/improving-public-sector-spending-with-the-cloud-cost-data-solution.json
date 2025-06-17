@@ -1,0 +1,76 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/06/17/improving-public-sector-spending-with-the-cloud-cost-data-solution/",
+    "title": "Improving public sector spending with the cloud cost data solution",
+    "authors": [
+        "Katherine Bhambra, Senior Content Designer, GDS"
+    ],
+    "categories": [
+        "APIs",
+        "Cloud",
+        "Data",
+        "GOV.UK"
+    ],
+    "pub_date": "2025-06-17T10:44:17+01:00",
+    "content": [
+        {
+            "text": "Cloud services have proved immensely beneficial to the public sector by allowing organisations to develop products faster, maintain higher levels of security and to move away from legacy systems."
+        },
+        {
+            "text": "However, hyperscale cloud services, which are scalable infrastructures which adapt in response to demand, can be costly. The state of digital government review notes that the UK public sector currently spends more than \u00a31 billion each year on cloud solutions, and this figure is only expected to increase as more organisations embrace this technology."
+        },
+        {
+            "text": "While the many benefits of cloud systems are clear, there is also a growing need for accurate, accessible cloud consumption data to meet the aims of the blueprint for modern digital government, which was published earlier this year. The blueprint sets out improvements to spending on digital services and the procurement of third-party services, of which cloud services currently make up a large proportion.\u00a0"
+        },
+        {
+            "text": "The Government Digital Service (GDS) Cloud and Platforms team has been working on a cloud cost data solution, and we\u2019re keen to showcase some positive early results which will be key to reducing costs without reducing function in the future."
+        },
+        {
+            "heading": 3,
+            "text": "Designing the cloud cost data dashboard"
+        },
+        {
+            "text": "The eventual aim of the cloud cost data solution is to get a central picture of the total usage and a breakdown of spend on cloud services across the public sector. This is so that future cloud services will be able to be procured and provisioned in the most cost efficient manner. This can only be achieved by creating a baseline against which these services are measured.\u00a0"
+        },
+        {
+            "text": "With a consolidated dataset on cloud spend, we will be able to enter into future negotiations with cloud service providers from a position of greater knowledge. Most importantly, this will help ensure that taxpayer money is spent wisely on our most critical technology services.\u00a0\u00a0"
+        },
+        {
+            "text": "Our first challenge was to understand the organisations which make up the public sector. GDS is now part of the Department for Science, Innovation and Technology (DSIT), so it has a whole public sector remit. For the purposes of this activity, we used the Office for National Statistics\u2019 (ONS) Public sector or private sector: How the ONS decides \u2013 and why it matters. The public sector classification guide and forward work plan was our baseline scope."
+        },
+        {
+            "text": "It became vital to get access to cloud cost data in a common format that we could clearly visualise in near real time. This was no small task as there are thousands of organisations using a variety of cloud providers and an even wider variety of FinOps (combined financial and operations approach-based) products.\u00a0"
+        },
+        {
+            "text": "We set out 4 ambitious key objectives for the first 12 week period of the project, and were extremely pleased to have met them all. These were:"
+        },
+        {
+            "text": "During the pilot, we managed to onboard 4 organisations, with another 8 in progress. Additionally we\u2019ve got the first version of the dashboard up and running, which allows those using the platform to visualise and access their data in real time."
+        },
+        {
+            "text": "Our original goal was to onboard 6 organisations within the first 12 weeks. While we didn\u2019t manage to achieve this, if we hadn't set that ambitious objective, we almost certainly wouldn\u2019t have such a strong backlog of interested organisations. It\u2019s also worth noting that our code-based deployment system has proven much more successful than expected as, in a few cases, onboarding took less than 15 minutes."
+        },
+        {
+            "heading": 3,
+            "text": "Planning for the future of the service"
+        },
+        {
+            "text": "We have big plans for the next stages of the project - we\u2019re now working with a variety of different personas to understand use cases and to ensure that we continue to develop the dashboard according to those needs.\u00a0"
+        },
+        {
+            "text": "Another goal is to expand the scope of our pilot to additional cloud service providers. Similarly, we have the potential to use cost data from Software as a Service (SaaS) products which align with the FOCUS standard, including Microsoft 365 license data."
+        },
+        {
+            "heading": 3,
+            "text": "Lessons learned\u00a0"
+        },
+        {
+            "text": "As our solution matures and we develop our dashboard reporting, we will be able to more clearly identify the specific benefits of data sharing. The power of this combined data will also be able to better inform our commercial colleagues in negotiating future strategic procurements with cloud service providers, including software as a service."
+        },
+        {
+            "text": "We\u2019re only at the very beginning of this journey, and we\u2019re really excited to discover new ways to collectively use this data to improve government digital services."
+        },
+        {
+            "text": "We\u2019ll also be onboarding more organisations. While there is a lot of work to do to get to full coverage, we\u2019re actively working to increase our number of participating organisations and are eager to get as many others as possible involved to help build this solution. If your organisation has not yet engaged, you can reach out to us at cloud-strategy@digital.cabinet-office.gov.uk.\u00a0We have also recently launched the government FinOps community, which can be found on the #finops Slack channel. The aim of this group is to bring together individuals from across the public sector who are responsible for or involved with FinOps practices, and new members are welcome to join."
+        }
+    ]
+}
