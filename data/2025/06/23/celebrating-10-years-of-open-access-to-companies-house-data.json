@@ -1,0 +1,77 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2025/06/23/celebrating-10-years-of-open-access-to-companies-house-data/",
+    "title": "Celebrating 10 years of open access to Companies House data",
+    "authors": [
+        "Charlie Boundy - Chief Data Officer",
+        "Robert McNeil - Director of Transformation Delivery"
+    ],
+    "categories": [
+        "Companies House transformation",
+        "Digital transformation"
+    ],
+    "pub_date": "2025-06-23T08:46:28+01:00",
+    "content": [
+        {
+            "text": "As we reach the 10 year anniversary of making the Companies House register freely accessible, Charlie Boundy and Robert McNeil reflect on this landmark decision."
+        },
+        {
+            "heading": 2,
+            "text": "Robert McNeil: The case for open data\u00a0"
+        },
+        {
+            "text": "In June 2015, Companies House made it free to search the UK companies register. This groundbreaking decision has increased corporate transparency and supported economic growth.\u00a0\u00a0"
+        },
+        {
+            "text": "When I started at Companies House in the 1980s, I was welcomed by the CEO at the time for an introductory chat. A simple core statement from that conversation has stayed with me throughout my career. It summed up our mission, the reason Companies House exists.\u00a0"
+        },
+        {
+            "text": "Put simply, companies get the protection of limited liability, allowing them the freedom to operate without fear of personal ruin and, in exchange, information about them is made available to the wider business community and the public.\u00a0This is as true today as it was back then.\u00a0"
+        },
+        {
+            "text": "This \u2018deal\u2019 is worth nothing if people can\u2019t access and use the register data. The data is worthless if it\u2019s just sitting in a system somewhere. It needs to be out there, free to be seen, analysed and used.\u00a0"
+        },
+        {
+            "text": "The whole trajectory of development at Companies House has been dedicated to driving the value of that data; whether it's in the ease and accuracy of submission or removing barriers to its accessibility and use.\u00a0"
+        },
+        {
+            "text": "Initially this change was evolutionary. But as we faced the law of diminishing returns, we started to think more radically - could we make the whole data set free, removing all barriers and maximising its value by maximising its use?\u00a0\u00a0"
+        },
+        {
+            "text": "Evidence from other countries showed that accessibility leads to greater transparency and increased opportunities for innovation and growth.\u00a0"
+        },
+        {
+            "text": "On 22 June 2015, we launched the Find and update company information service on GOV.UK.\u00a0\u00a0"
+        },
+        {
+            "text": "Using GDS Digital by Default Service Standards helped us to address accessibility and usability barriers. "
+        },
+        {
+            "text": "And by making the same RESTful API that underpinned our new web service available to third party developers, we made sure they could incorporate the same functionality into their own services and increase the use of the data across the business sector.\u00a0"
+        },
+        {
+            "text": "Making it free to access, providing a new, easy-to-use service and leveraging the use of the API across the sector, has \u2018freed up\u2019 the data.\u00a0\u00a0"
+        },
+        {
+            "text": "The total number of times free register data was accessed grew from 1.3 billion between 2015 and 2016 to over 16 billion between 2023 and 2024.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Charlie Boundy: The value of high-quality open data\u00a0"
+        },
+        {
+            "text": "Removing barriers to access Companies House data has also had a big economic impact. Research has shown that its worth an estimated \u00a31 billion to \u00a33 billion per year to users.\u00a0"
+        },
+        {
+            "text": "The register is used every day by:\u00a0\u00a0"
+        },
+        {
+            "text": "It's also a trusted source for:\u00a0"
+        },
+        {
+            "text": "It's important to reflect on how much progress we've made, but we know there's more to do. We're continually striving to improve, innovate and modernise our technology based on user feedback and data, technological advancements, and legislative requirements.\u00a0"
+        },
+        {
+            "text": "By continuing to implement the changes to UK company law under the Economic Crime and Corporate Transparency (ECCT) Act, we are improving the integrity and accuracy of data on our register, making it even more valuable to users and further supporting economic growth.\u00a0"
+        }
+    ]
+}
