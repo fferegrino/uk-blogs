@@ -1,0 +1,63 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/06/25/testing-welsh-content-without-a-welsh-speaker/",
+    "title": "Testing Welsh content without a Welsh speaker",
+    "authors": [
+        "Rory Sharkey",
+        "Ed Marshall"
+    ],
+    "categories": [
+        "Our services",
+        "user needs",
+        "User research",
+        "user testing",
+        "Welsh content"
+    ],
+    "pub_date": "2025-06-25T14:36:27+01:00",
+    "content": [
+        {
+            "text": "The prison visits team has been working on the Welsh language version of a new public service. Find out how we tested Welsh content as a team without a Welsh speaker."
+        },
+        {
+            "heading": 2,
+            "text": "Getting Welsh language support"
+        },
+        {
+            "text": "Visit someone in prison is an online service that lets family and friends book a visit with a loved one in prison. We are currently in the early stages of developing a new service that will give people instant confirmation of their booking. We decided that this was the correct time to start on the Welsh translation. We didn\u2019t want the Welsh version to be an afterthought. This has allowed any issues found during testing to be addressed in both the English and Welsh versions before the service becomes available to the public."
+        },
+        {
+            "text": "As we don\u2019t have a Welsh speaker in the team, we knew we needed to work closely with our translators from the HMCTS Welsh Language Unit (WLU). We also benefitted from the WLU\u2019s experience translating government services, including supporting the Modernising Lasting Powers of Attorney team."
+        },
+        {
+            "text": "While the content being tested was in Welsh, our user research sessions were conducted in English. We still wanted participants to suggest amendments to the content in Welsh, so each session was recorded. This approach allowed us to share the suggestions with our translators from the WLU and use this feedback in Welsh to help us improve the content."
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt"
+        },
+        {
+            "text": "We used two research methods, usability and highlighter testing, to find out how well the Welsh content met the needs of people when booking a prison visit."
+        },
+        {
+            "text": "Usability testing is not focused on interrogating the meaning of every word on a page. It\u2019s about observing how participants use a service and if they can complete a task. We found that while there were words and sentences that some users found unclear, they could successfully make a booking."
+        },
+        {
+            "text": "Using highlighter testing, we asked participants to pinpoint anything in the translation that they thought was unclear. We also asked participants to summarise the translation. When this summary differed from the translation\u2019s intended meaning, participants were provided with the English version. This approach enabled them to suggest alternatives for one or both language versions. It also helped identify parts of the service where participants were missing out on some details, as the exact meaning in Welsh was unclear or different to the English."
+        },
+        {
+            "text": "An issue we discovered through the highlighter testing was with the use of \u2018archeb\u2019. The equivalent word in the English version is \u2018booking\u2019. Some participants said \u2018archeb\u2019 was closer in meaning to \u2018order\u2019 and was something they\u2019d expect to read when buying an item online. We used this feedback to discuss the issue with the WLU and change the wording to \u2018ymweliad\u2019 to refer to the \u2018visit\u2019 that is being booked. This feedback showed the challenge of translating services as language is contextual. It also reinforced the value of testing translations to support improvements."
+        },
+        {
+            "text": "During the sessions, we also noted that participants had different levels of confidence in the Welsh language. All participants were Welsh speakers, but some used it every day and others spoke it more intermittently. It is important to be aware of this variance. Participants who are less confident could worry that their language ability was being assessed. To counter this, it was even more of a priority than normal to put participants at ease and take the time to stress that we were testing the content and not participants\u2019 language skills."
+        },
+        {
+            "heading": 2,
+            "text": "Why this approach matters"
+        },
+        {
+            "text": "Something that really shone through the user research sessions was participants\u2019 passion for the Welsh language. They said how important it was for services to be available in Welsh. They mentioned inadequate, but frustratingly frequent, experiences of using websites with poor translations that they felt were autogenerated. Participants were overwhelmingly positive about the quality of the translation provided by the WLU, and the opportunity to help make it even more accessible to Welsh language users."
+        },
+        {
+            "text": "Our experience has shown that this approach is something that teams without a Welsh speaker can deliver. If your team is developing a service in Welsh and you\u2019d like to hear more about our approach to designing and testing Welsh content, you can contact Ed at ed.marshall@justice.gov.uk and Rory at rory.sharkey@justice.gov.uk."
+        }
+    ]
+}
