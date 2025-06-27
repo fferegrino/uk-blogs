@@ -1,0 +1,126 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/06/27/common-tools-building-a-performance-dashboard-that-meets-user-needs/",
+    "title": "Common Tools: building a performance dashboard that meets user needs\u00a0\u00a0",
+    "authors": [
+        "Dominic Berry, Senior User Researcher, Common Tools as a Service team"
+    ],
+    "categories": [
+        "Common tools"
+    ],
+    "pub_date": "2025-06-27T09:41:20+01:00",
+    "content": [
+        {
+            "text": "The Common Tools as a Service (CTaaS) team is responsible for building standardised, reliable and reusable tools and platforms for everyone in MHCLG. We help teams to be more efficient, deliver quickly and reduce operational costs.\u00a0\u00a0"
+        },
+        {
+            "text": "In the past 2 months, we have been working on one of the most conceptually complex challenges we have faced so far \u2013 building an effective real-time dashboard to support senior civil servants when assessing our department\u2019s delivery performance.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Performance reports are a perfect example of a common problem across all departments and indeed across any major organisation. We all need to be able to track progress, but it can be difficult to get a dashboard right. \u00a0\u00a0"
+        },
+        {
+            "text": "This task is complex because there are lots of different ways to measure the department\u2019s work. Senior leaders often have their own preferences as to what information they like to see in a report, how they use it, and what they think may be important. \u00a0\u00a0"
+        },
+        {
+            "text": "In this blog post, I talk about the research we\u2019ve done so far with our users, as part of our work to make performance reports more fit for purpose, ultimately enhancing the decision-making process for leaders. I will also discuss what we\u2019ve learnt in the process so far and what we\u2019re doing next. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The problem\u00a0\u00a0"
+        },
+        {
+            "text": "Currently, some reports rely on a significant amount of explanatory material (usually text, which takes a long time to read) rather than the actual data underpinning those explanations. While they do provide a snapshot of a given moment, it can be difficult to understand change over time. This can also make it difficult to pick out the most significant points for discussion, which can limit senior civil servants\u2019 ability to make informed decisions. \u00a0\u00a0"
+        },
+        {
+            "text": "These problems arise because the relevant data is kept in numerous places. But equally significant, these practices are historical. It is simply how some of the main delivery reports have always been done.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "There is therefore ample opportunity to innovate and build something more fit for purpose, which requires less time to produce, freeing-up staff resource to focus on delivery itself. \u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we did\u00a0\u00a0"
+        },
+        {
+            "text": "As any good user researcher will tell you, you can\u2019t get much done without directly engaging users themselves. In the case of this project, however, that was going to prove more difficult than usual, because senior civil servants are always stretched for time. Their diaries can fluctuate a lot as they are required to adapt to rapidly changing circumstances.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Observing primary users\u00a0\u00a0"
+        },
+        {
+            "text": "Early on, it was agreed I could attend one of the main monthly delivery management meetings, so that I could observe the existing reports being used in action.\u00a0"
+        },
+        {
+            "text": "I then wrote up what I observed as a short ethnographic account, focusing on the kinds of interests senior civil servants had in the reports they were discussing, and the aspects of delivery management that they seemed to focus on.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "From here, we could begin to draw out the main user needs and the main concepts, which \u2013 if validated \u2013 could define the design goals of our dashboard.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Interviews with secondary users\u00a0\u00a0"
+        },
+        {
+            "text": "Opportunities for meetings with senior civil servants were limited due to time constraints, so we also arranged interviews with people who:\u00a0\u00a0"
+        },
+        {
+            "text": "We can think of these people as secondary users. As yet, nothing said about our primary user group (senior civil servants) has been contradicted by secondary users.\u00a0 The secondary users have proven a brilliant resource for painting a picture of good delivery performance management.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Focusing on the things that matter\u00a0"
+        },
+        {
+            "text": "Generally, senior leaders do not want to spend time discussing \u2018business as usual\u2019. They do not just want reassurance about the department being on track for X, Y, or Z.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Some secondary users we spoke to felt that existing reports spend too much time recognising achievements. Instead, and many other research participants agreed, senior civil servants primarily want to know where their interventions might be required.\u00a0"
+        },
+        {
+            "text": "We ended up capturing this finding as focussing on the \u2018reds\u2019. This refers to the common RAG rating methodology (recording statuses of activities as either red, amber or green).\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "There are lots of other ways to measure and track the status of activities, but \u2018reds\u2019 has become our catchall term for when things are looking like they are going wrong or are in danger of going wrong.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Senior leaders are also primarily interested in projects and programmes that matter the most for the ministerial objectives. Managing by exception, on the most exceptional activities. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Get to know your data model\u00a0\u00a0"
+        },
+        {
+            "text": "The main reason that the Common Tools team took on this project is because we are responsible for the \u2018Delivery and Risk Manager\u2019 (DRM).\u00a0"
+        },
+        {
+            "text": "The DRM is a powerful new tool, built on Microsoft Power Apps, which our team is refining to centralise and streamline how MHCLG manages projects, programmes, portfolios and risks. It acts as a single data-entry point for all our priority projects, eliminating the need for multiple reporting systems and reducing repetitive manual processes. \u00a0\u00a0"
+        },
+        {
+            "text": "With built-in functionality for tracking milestones, schedules, risks, issues and tasks, it provides a complete view of delivery progress in real time.\u202f\u202fThe existence of the DRM opens up opportunities for new kinds of reporting. The trick, in our project, was to find how to draw out the most significant data, and to present it to users in the most effective way, to achieve their goals. \u00a0"
+        },
+        {
+            "text": "We therefore needed to keep the technical constraints of the DRM in mind at all times so that we could:\u00a0\u00a0"
+        },
+        {
+            "text": "Our collaboration was enabled by building a shared understanding of the DRM\u2019s \u2018data model\u2019, which describes all of the fields in the DRM and how they relate to one another.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "We also layered on top of this model the actual user interface of the DRM, so we could see not just the names of data points but also how they are added by DRM users. From there, it was a matter of picking out the fields which could matter most, so we knew what visualisations might be worth making.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next\u00a0\u00a0"
+        },
+        {
+            "text": "We are now preparing to bring a beta prototype dashboard, in Power BI, to some upcoming delivery performance management meetings. We\u2019re keen to watch our users use the new report in Power BI and get feedback on that. We are also arranging interviews with some of our secondary users to talk through the most recent designs and see if there are any gaps in what we\u2019re doing. \u00a0"
+        },
+        {
+            "text": "The work of our team contributes to delivering our departmental digital strategy, notably through enhancing operational excellence. Learn more about our digital strategy\u2019s objectives and principles.\u00a0"
+        }
+    ]
+}
