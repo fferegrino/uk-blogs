@@ -1,0 +1,195 @@
+{
+    "url": "https://sustainableict.blog.gov.uk/2025/07/01/why-bother-to-baseline/",
+    "title": "Why bother to baseline?\u00a0",
+    "authors": [
+        "Ewen Anderson",
+        "Mark Butcher"
+    ],
+    "categories": [
+        "GDSA",
+        "Sustainable ICT"
+    ],
+    "pub_date": "2025-07-01T11:22:20+01:00",
+    "content": [
+        {
+            "text": "Ewen Anderson is CEO of P2zero and Mark Butcher is CEO of Posetiv.\u00a0\u00a0"
+        },
+        {
+            "text": "Ewen and Mark are co-chairs of the Government Digital Sustainability Alliance Scope 3 working group. The views in this post represent their own and not the UK government\u2019s.\u00a0"
+        },
+        {
+            "text": "For any public sector organisation with a net zero commitment, establishing a carbon emissions baseline is the first meaningful step.\u00a0\u00a0"
+        },
+        {
+            "text": "It\u2019s the foundation for understanding your current position, setting targets and planning effective reductions. Yet, despite its importance, many organisations struggle to prioritise it. Concerns about time, cost, complexity and lack of clarity often delay progress.\u00a0"
+        },
+        {
+            "text": "In this post, we set out what a baseline involves, why it matters, what to include and how to address the most common objections. We also introduce work underway within the Government Digital Sustainability Alliance (GDSA) Scope 3 working group to help organisations get started and move forward with confidence.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s an emissions baseline?\u00a0"
+        },
+        {
+            "text": "An emissions baseline measures your organisation\u2019s greenhouse gas emissions over a defined period, typically one year. It provides a fixed reference point for tracking progress. Most organisations calculate emissions across:\u00a0"
+        },
+        {
+            "text": "Baselines are often aligned with either the calendar year or financial year. Emissions are typically reported in absolute terms, as total tonnes of CO\u2082e, and normalised using ratios such as per employee, per square metre, or per million pounds of revenue. CO\u2082e (carbon dioxide equivalent) is a standard unit that expresses the total impact of all greenhouse gases by converting them into the amount of CO\u2082 that would cause the same level of warming. This makes it easier to compare and track emissions across different sources and activities.\u00a0"
+        },
+        {
+            "text": "Normalising emissions in this way helps account for business growth, restructuring, or operational changes, ensuring that year-on-year comparisons remain meaningful and credible.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Why create a baseline?\u00a0"
+        },
+        {
+            "text": "A net zero strategy without a baseline is meaningless. You cannot track progress, evaluate decisions, or demonstrate outcomes without first knowing your starting point. Having a detailed baseline enables you to:\u00a0"
+        },
+        {
+            "text": "It also fulfils external expectations. For example, under the Science Based Targets initiative (SBTi), all future reduction targets must be measured against a defined base year. Whether you're aiming for near-term reductions or long-term net zero status, the baseline underpins the entire plan.\u00a0"
+        },
+        {
+            "text": "Baselining is not just about compliance. It informs day-to-day decisions across IT, estates, procurement and operations. It helps determine which suppliers need to be engaged, which systems are inefficient and which interventions offer the best return. Without it, sustainability becomes reactive and fragmented.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What should be included?\u00a0"
+        },
+        {
+            "text": "The short answer is: as much as is materially relevant. All credible baselines should include full coverage of scope 1 and 2 emissions. These are usually easier to measure and, in many cases, are already required for mandatory reporting frameworks like Government Greening Commitments (GGCs), Policy Procurement Notes (PPNs), Streamlined Energy & Carbon Reporting (SECR) or the Energy Savings Opportunities Scheme (ESOS).\u00a0\u00a0"
+        },
+        {
+            "text": "Scope 3 coverage is more complex, but also more important. In most organisations, scope 3 represents most emissions. It typically includes:\u00a0"
+        },
+        {
+            "text": "The SBTi allows for some exclusions but sets clear boundaries. No more than 5% of total emissions can be excluded from the scopes 1 and 2 reduction targets. Scope 3 targets must cover at least 67% of total scope 3 emissions for near-term targets and 90% of emissions for long-term targets.\u00a0"
+        },
+        {
+            "text": "While data quality in scope 3 may not be perfect at first, that is not a reason to delay. Getting started however you can and as soon as you can is the most important consideration.\u00a0 In this regard spend-based estimates, vendor averages and standard emissions factors are all acceptable starting points \u2013 as long as you are open and transparent about the figures and assumptions used. You can then look to improve the accuracy and granularity of the data over time (and adjust your baseline figures accordingly) as you will need this level of detail to feed into effective carbon reduction plans and measure your progress.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Why do organisations delay?\u00a0"
+        },
+        {
+            "text": "Even with growing pressure to act, many vendor organisations still hesitate to baseline their emissions. Not because they don\u2019t care, but because it feels difficult, thankless and politically awkward.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Common objections\u00a0"
+        },
+        {
+            "text": "These are the most common objections and what\u2019s behind them:\u00a0"
+        },
+        {
+            "text": "\"We don\u2019t have time.\"\u00a0"
+        },
+        {
+            "text": "Data is fragmented across teams. There\u2019s no clear owner. Sustainability hasn\u2019t made it into anyone\u2019s objectives and business-as-usual pressures always win.\u00a0"
+        },
+        {
+            "text": "\"It\u2019s too expensive.\"\u00a0"
+        },
+        {
+            "text": "There\u2019s no dedicated budget. Pulling together the right people, systems and support feels like a cost centre with no short-term reward.\u00a0"
+        },
+        {
+            "text": "\"It\u2019s too complex.\"\u00a0"
+        },
+        {
+            "text": "Data sits in legacy systems, spreadsheets, supplier platforms or contracts no one\u2019s looked at in years. No one is confident in the numbers and that uncertainty becomes a reason to delay.\u00a0"
+        },
+        {
+            "text": "\"It\u2019s not our role.\"\u00a0"
+        },
+        {
+            "text": "Teams assume someone else is handling it - either central government, ESG leads, or the supply chain. There\u2019s a gap between policy ambition and operational delivery.\u00a0"
+        },
+        {
+            "text": "\"The figures keep changing.\"\u00a0"
+        },
+        {
+            "text": "As soon as someone starts digging, the emissions total goes up. That can feel politically risky, especially if people expect \u201cprogress\u201d from day one.\u00a0"
+        },
+        {
+            "text": "These objections are understandable but not insurmountable. In reality, delaying baselining only increases future cost, reduces available options and undermines the credibility of any public commitment.\u00a0"
+        },
+        {
+            "text": "This has a real impact on government departments, preventing accurate baselining and reporting and more critically slowing down progress on emissions reductions projects and activities.\u00a0"
+        },
+        {
+            "text": "In short, it\u2019s not just about emissions data. It\u2019s about organisational attention, incentives and control. Many teams are keen to act, but feel they lack permission, direction or the tools to do so.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How to respond and move forward\u00a0"
+        },
+        {
+            "text": "If your organisation has a target for carbon reduction or net zero, then establishing a baseline is not optional. The only choice is whether you start now with a manageable scope or defer until the task becomes more urgent and disruptive.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Practical ways to address common concerns\u00a0"
+        },
+        {
+            "text": "Time pressure\u00a0"
+        },
+        {
+            "text": "Start small. Focus on the largest, most material sources. Use existing reports and data.\u00a0"
+        },
+        {
+            "text": "Cost concerns\u00a0"
+        },
+        {
+            "text": "Many data points are already available internally. Free tools and templates can reduce cost.\u00a0"
+        },
+        {
+            "text": "Complexity\u00a0"
+        },
+        {
+            "text": "Follow established methodologies such as the GHG Protocol. Break the process into phases.\u00a0"
+        },
+        {
+            "text": "Ownership gaps\u00a0"
+        },
+        {
+            "text": "Make emissions reduction part of core team responsibilities. Integrate with finance and operations.\u00a0"
+        },
+        {
+            "text": "Changing totals\u00a0"
+        },
+        {
+            "text": "All baselines evolve. Restating is permitted under frameworks like SBTi. What matters is starting.\u00a0"
+        },
+        {
+            "text": "Progress beats perfection. Baselining is rarely flawless, especially in the first year. But a basic, well-documented baseline will provide a firm foundation for improvement.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "GDSA working group: supporting practical action\u00a0"
+        },
+        {
+            "text": "The GDSA Scope 3 working group is currently preparing a practical guidance paper designed to help public sector organisations to work with their key suppliers and move from intention to implementation. It will include:\u00a0"
+        },
+        {
+            "text": "The aim is not to create new complexity, but to share what works. The report will be available later this year and is intended to support both newcomers and those further along their journey.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Final thoughts\u00a0"
+        },
+        {
+            "text": "Baselining should not be viewed as a side task. It\u2019s the first practical step in delivering any emissions reduction plan.\u00a0"
+        },
+        {
+            "text": "If your department is serious about emissions reduction, then defining your starting point is unavoidable. Without it, your targets have no real anchor, your actions have no benchmark and your emissions reduction strategy will struggle to stand up to external scrutiny.\u00a0"
+        },
+        {
+            "text": "Start with what you can measure. Use what data you have. Improve it over time. Most importantly, begin the process before external scrutiny forces it upon you.\u00a0"
+        },
+        {
+            "text": "The longer you wait, the harder the task becomes. Early action identifies opportunities, creates space to plan properly, builds internal capability and avoids the last-minute panic that comes when deadlines and expectations collide.\u00a0\u00a0"
+        }
+    ]
+}
