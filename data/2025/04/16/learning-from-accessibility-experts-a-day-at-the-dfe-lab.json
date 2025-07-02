@@ -1,0 +1,152 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2025/04/16/learning-from-accessibility-experts-a-day-at-the-dfe-lab/",
+    "title": "Learning from Accessibility Experts: A Day at the DfE Lab",
+    "authors": [
+        "Claire McShane",
+        "Sreemoye Roy Chowdhury"
+    ],
+    "categories": [
+        "Accessibility",
+        "design",
+        "Service design",
+        "user research"
+    ],
+    "pub_date": "2025-04-16T10:00:00+01:00",
+    "content": [
+        {
+            "text": "On a crisp spring morning, user researcher Sree and interaction designer Claire travelled to Sheffield to visit the Department for Education\u2019s Accessibility Lab. Their goal was to understand how digital services function for those who navigate the world differently."
+        },
+        {
+            "heading": 2,
+            "text": "Inside the Lab: Where digital barriers become visible"
+        },
+        {
+            "text": "We expected a technical demonstration with a run-through of tools and accessibility best practices. What we got was something much more human: a window into the lived experience of those who rely on assistive technologies daily."
+        },
+        {
+            "text": "Guided by Jane Dickinson, an accessibility specialist at DfE, we explored tools like Dragon, JAWS, ZoomText, and Fusion. Jane not only explained how they work but showed us how easily they can fail when services aren't built with accessibility in mind."
+        },
+        {
+            "heading": 2,
+            "text": "Insights from testing assistive tools"
+        },
+        {
+            "heading": 3,
+            "text": "Dragon: Voice recognition for hands-free navigation"
+        },
+        {
+            "text": "Dragon allows people with mobility impairments to control a computer using voice commands. Jane demonstrated how Dragon struggled with buttons on a DfE service and the BBC homepage because they weren't coded correctly. Highlighting a gap between design and code."
+        },
+        {
+            "heading": 3,
+            "text": "JAWS: Screen reader for non-visual navigation"
+        },
+        {
+            "text": "JAWS relies on well-structured content: proper headings, labelled buttons, and descriptive links. Jane showed how unlabelled links like \u201cRead more\u201d or \u201cDownload\u201d confuse JAWS users. This is due to missing descriptive ARIA labels, making browsing chaotic and frustrating."
+        },
+        {
+            "text": "As Jane put it:"
+        },
+        {
+            "heading": 3,
+            "text": "ZoomText: For low vision users"
+        },
+        {
+            "text": "ZoomText is a magnification tool that helps users navigate visually. However, it requires users to hover or click on links to have them read aloud, unlike JAWS, which reads automatically. At higher magnification, text can become distorted, affecting readability."
+        },
+        {
+            "heading": 3,
+            "text": "Fusion: Combining JAWS and ZoomText"
+        },
+        {
+            "text": "Fusion provides auditory feedback and high-level magnification for individuals with partial vision loss, offering magnification up to 20x with auditory feedback. But Jane showed us that even a 3x zoom can cause layout issues, like pixelation and clipped content, especially when sites don\u2019t reflow properly."
+        },
+        {
+            "heading": 3,
+            "text": "Keyboard-only navigation"
+        },
+        {
+            "text": "Keyboard navigation is essential for users who can\u2019t use a mouse, relying on shortcuts like the Alt key. But inconsistent implementation makes things harder. Jane pointed out unlabelled buttons on the BBC homepage that would leave keyboard users guessing:"
+        },
+        {
+            "heading": 3,
+            "text": "Captions for hearing impairments"
+        },
+        {
+            "text": "Captions aren\u2019t just for deaf users, they help everyone. But live captions often lag, making comprehension harder. Testing BBC video content, we saw captions fall out of sync with speech."
+        },
+        {
+            "heading": 2,
+            "text": "Seeing the world through the eyes of others"
+        },
+        {
+            "text": "During our lab experience, we tested simulation glasses that mimic visual impairments such as cataracts (blurred vision), tunnel vision (loss of peripheral vision), and left-sided hemianopia (half the visual field disappears). It\u2019s humbling to see how much of the digital world becomes difficult to use under these conditions. Highlighting the need for inclusive and thoughtful design."
+        },
+        {
+            "heading": 2,
+            "text": "In conversation with Accessibility Experts"
+        },
+        {
+            "text": "To enhance our understanding of accessibility, we conducted interviews with Jane Dickinson and Jake Lloyd, two prominent accessibility specialists at the Department for Education (DfE). Jane highlighted a significant concern: the tendency to address accessibility only at the final stages of development.\u201cIt\u2019s not enough to test for accessibility. Real users need to shape the design from the beginning.\u201d"
+        },
+        {
+            "text": "Jane highlighted how many users hesitate to disclose their accessibility needs for fear of being seen as difficult. Even when reports are written to improve accessibility, they often go ignored."
+        },
+        {
+            "text": "\u00a0Despite these challenges, Jane celebrated the wins,a blind user who was able to access their payslip independently for the first time:"
+        },
+        {
+            "text": "Even small changes,like properly labelling buttons,can make a service more usable."
+        },
+        {
+            "text": "Jake emphasised the importance of building for keyboard navigation and screen readers from the very start."
+        },
+        {
+            "text": "He highlighted issues like repetitive, unclear links in patterns such as \u201cCheck your answers\u201d:"
+        },
+        {
+            "heading": 2,
+            "text": "A holistic approach to accessibility"
+        },
+        {
+            "text": "The accessibility specialists broke down their layered approach to testing accessibility of services:"
+        },
+        {
+            "text": "As Jake put it, accessibility goes beyond the Web Content Accessibility Guidelines (WCAG) standards:"
+        },
+        {
+            "text": "Jake warned against treating accessibility as an afterthought:"
+        },
+        {
+            "heading": 2,
+            "text": "Not boring. Not optional."
+        },
+        {
+            "text": "A myth Jake wants to debunk is that accessible design equals boring design.\u00a0"
+        },
+        {
+            "text": "Our specialists pointed out that advocacy and awareness are key to changing this mindset:\u00a0"
+        },
+        {
+            "text": "They stressed how one in four people have a disability\u2014can you afford to turn them away with inaccessible services?"
+        },
+        {
+            "heading": 2,
+            "text": "Why accessibility matters for everyone"
+        },
+        {
+            "text": "Jane and Jake made it clear: accessibility isn\u2019t just for disabled users. It benefits all of us. Captions help on a noisy train. Good contrast helps in bright light. And if zooming to 400% breaks your layout,it\u2019s not just low vision users who suffer."
+        },
+        {
+            "heading": 2,
+            "text": "Accessibility isn\u2019t a task\u2014it\u2019s a mindset"
+        },
+        {
+            "text": "\u00a0As user researchers and designers, we focus on how people interact with digital services. In Sheffield, we were learners, not experts. This experience wasn't about merely checking off accessibility guidelines. It was about understanding the impact when those guidelines are not met. Leaving Sheffield, we carried a renewed resolve to champion accessibility. The best accessibility work ensures people don't need to ask for help in the first place."
+        },
+        {
+            "heading": 2,
+            "text": "Useful resources"
+        }
+    ]
+}

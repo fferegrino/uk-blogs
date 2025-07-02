@@ -1,0 +1,83 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/07/02/the-2-terabyte-challenge-information-transfer-for-an-ai-tool/",
+    "title": "The 2 Terabyte Challenge: Information transfer for an AI tool",
+    "authors": [
+        "Tyler Shepherd, Senior M365 Engineer"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2025-07-02T14:06:38+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Tyler Shepherd"
+        },
+        {
+            "heading": 2,
+            "text": "How difficult could it be to transfer 2 terabytes of data?"
+        },
+        {
+            "text": "This blog explores how we tackled a complex migration challenge to support an AI tool that helps review digital records at the Department for Business and Trade (DBT)."
+        },
+        {
+            "heading": 2,
+            "text": "AI, information and me"
+        },
+        {
+            "text": "At the end of 2024, I joined the IT Service Management team. I had recently moved roles from the Knowledge and Information Management (KIM) Team. My role in this team involved managing DBT\u2019s information lifecycle, from creation to deletion. A critical part of this is managing information as it reaches the end of its retention period\u00a0 and ensuring the department is compliant with the Public Records Act. While in the KIM team, I worked on the Machinery of Government (MoG) change. This experience proved useful when colleagues from KIM approached me with a new challenge: transferring 2TB of data to support the review of digital records, including with the use of AI. The request came shortly after we successfully migrated a significant quantity of information in the DBT SharePoint environment.\u00a0"
+        },
+        {
+            "text": "The AI tool needs to be trained on information, and it was necessary to transfer this via encrypted hard drive.\u00a0 This presented a unique challenge, as most migrations are cloud to cloud and never need the information to be downloaded."
+        },
+        {
+            "text": "Like all organisations, DBT faces the problem of adding gigabytes of information to our storage repositories every year. Reviewing this manually before transferring to the National Archives would be virtually impossible. While a single member of staff could review up to 6 paper files a day, an AI tool could support the review of vast quantities of information. It could also identify content duplication, assist in sensitivity review and potentially reduce significantly the amount of time needed to review the records. This demonstrates one of the ways in which DBT is realising the government\u2019s directive to innovate using AI."
+        },
+        {
+            "heading": 2,
+            "text": "Terabytes for transfer"
+        },
+        {
+            "text": "It can be quite easy to underestimate the vastness of information which can be obscured by terms like 'gigabyte' or 'terabyte'. If we were to print out 1TB of information, this would represent approximately 6.5 million pages.\u00a0With any migration or data transfer, there is a misconception that we can just press a button and the information zips from one place to another. The reality is that data must be downloaded, uploaded, read, written and transferred - each step with its own risks and constraints."
+        },
+        {
+            "heading": 2,
+            "text": "The technical challenge"
+        },
+        {
+            "text": "The process to achieve the migration involved several steps and required coordination across teams. Firstly, I worked with the Cyber Team who quickly authorised the opening of USB ports on my laptop to enable the information transfer to the hard drive. "
+        },
+        {
+            "text": "I was initially limited to using the WiFi in Old Admiralty Building, but with help from colleagues in IT Operations, and with the approval of the Government Property Agency (GPA), I received access to a dedicated ethernet line."
+        },
+        {
+            "text": "I quickly realised that I would not be able to download the information directly to the hard drive. I needed a temporary storage repository to store the 2TB of information, downloaded from various online repositories. The Integrated Corporate Services (ICS) team helped to secure storage space within my Virtual Machine, which meant that I didn\u2019t need to store any information locally."
+        },
+        {
+            "text": "To add to the complexity, the encrypted hard drive would lock automatically after a few minutes of inactivity. This meant any interruption in the transfer would stall the entire process."
+        },
+        {
+            "heading": 2,
+            "text": "PowerShelling the way through"
+        },
+        {
+            "text": "It was not technically possible to download the information directly, as the browser crashed under the load. I explored OneDrive sync and e-Discovery/Content Search which were also ruled out as non-viable. ShareGate is a very handy migration tool we can use within VM, so I used this to download information from SharePoint. However, then the information was \u2018stuck\u2019 on the Virtual Machine."
+        },
+        {
+            "text": "When I first tried Robocopy PowerShell command, I found I could move about 15GB on the first day. At that rate, I realised that I\u2019d probably be sending the hard drive as a Christmas present (not ideal in January).Finally, a colleague in Cyber helped me set up a blob storage container in Azure and configured the authentication. I then used the AzCopy PowerShell command to move the information from the VM into blob storage, repeating this to copy the information onto the hard drive. Over the course of several days, and many cups of coffee, I had successfully copied the information onto a hard drive."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons learned"
+        },
+        {
+            "text": "I learnt a lot from this project. Planning for the constraints I might face early on made a difference. Testing solutions before committing to a process helped avoid bigger issues later. Working together with Cyber, IT, Operations and ICS meant we were able to use our collective expertise to overcome a litany of technical barriers. This experience reinforced the value of staying adaptable and the importance of documenting each step for future reference."
+        },
+        {
+            "text": "Despite the challenges, we successfully transferred the data needed and supported the development of an AI tool that will improve how DBT manages its information. This will increase the overall efficiency of the historic review process."
+        },
+        {
+            "text": "Read more about how DBT developed its AI horizons at its second AI conference."
+        }
+    ]
+}
