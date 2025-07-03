@@ -1,0 +1,49 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/07/03/do-i-have-to-use-a-certified-component-in-my-service/",
+    "title": "Do I have to use a certified component in my service?\u00a0",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity"
+    ],
+    "pub_date": "2025-07-03T09:51:38+01:00",
+    "content": [
+        {
+            "text": "Digital identity services are often made up of many different constituent parts and have complex supply chains. Whilst an identity service might build its own app, it might use another company\u2019s service to do things like biometric liveness detection. We call those parts of services \u201ccomponent services\u201d, and they can be certified under the gamma (0.4) publication of the UK digital identities and attributes trust framework.\u00a0"
+        },
+        {
+            "text": "If you are seeking certification and your service includes component services from other companies, you might be wondering:\u00a0"
+        },
+        {
+            "text": "And the answer is no, you don\u2019t \u2013\u00a0but you will probably want to."
+        },
+        {
+            "heading": 2,
+            "text": "Using certified components can make your certification easier"
+        },
+        {
+            "text": "We want people to trust digital identity services, and so we set a high bar for quality through the trust framework. Whilst meeting the rules should be challenging, we don\u2019t want the process of getting certified itself to be difficult. To that end, the certification process that our approved Conformity Assessment Bodies (CABs) follow discourages auditors from re-evaluating things that have already been recently evaluated.\u00a0"
+        },
+        {
+            "text": "If you have a certified component service within your own service, your CAB can rely on the pre-existing certification for that component service as part of the evaluation. This means the CAB may be able to reduce or, in some cases, completely avoid the effort involved in looking at that part of the service; they don\u2019t necessarily need to do a full evaluation, because those parts have already been looked at."
+        },
+        {
+            "text": "For service providers that use components, using a certified component might enable you to reduce the cost and time it takes to obtain certification against the trust framework.\u00a0"
+        },
+        {
+            "text": "For component service providers themselves, you can offer a benefit to your own clients, and avoid the repetitive poking and prodding that comes with being audited as part of the supply chain."
+        },
+        {
+            "heading": 2,
+            "text": "Pick the easier path"
+        },
+        {
+            "text": "The beta and gamma trust frameworks do not require that you exclusively use certified components in your supply chain. There\u2019s nothing stopping you from using any component services from any providers, provided those components meet the rules. Your CAB will check any non-certified components meet with rules as part of your audit.\u00a0\u00a0"
+        },
+        {
+            "text": "So it isn\u2019t mandatory, but it is smart! Using certified services as part of your supply chain means you can take a smoother path to certification."
+        }
+    ]
+}
