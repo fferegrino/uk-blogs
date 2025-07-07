@@ -1,0 +1,43 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2018/10/25/data-and-information/",
+    "title": "It can be difficult to make data from information",
+    "authors": [
+        "Paul Downey"
+    ],
+    "categories": [
+        "Digital land",
+        "Digital land services"
+    ],
+    "pub_date": "2018-10-25T13:24:27+01:00",
+    "content": [
+        {
+            "text": "The Digital Land services team recently ran a discovery in which we researched the barriers our users encounter when trying to find and use housing data. This is the first in a series of posts about those barriers, or what people sometimes call\u00a0\u2018friction\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "Harder than hard work"
+        },
+        {
+            "text": "Much of the data our users need isn\u2019t available as data. Instead it can be found buried in information, which is made by processing data into documents or web pages."
+        },
+        {
+            "text": "The business of extracting data from information can sometimes be quite straightforward, a matter of doing the work to cut and paste numbers from documents or writing software to spider and scrape web pages. "
+        },
+        {
+            "text": "But getting data from information is often more difficult than just doing lots of hard, repetitive work. In many cases you need an expert who understands the subject in order to read prose, interpret columns in tables, or decipher graphs and charts."
+        },
+        {
+            "text": "Sometimes a boundary is only available as an image embedded in a PDF document, rather than as a geospatial shape. Worst of all is when the precise values you need have been combined to form a total or other statistic. "
+        },
+        {
+            "heading": 2,
+            "text": "A metaphor"
+        },
+        {
+            "text": "Extracting data from information can be like trying to get eggs out of a cake. And while cake is ideal for people who want cake, given the raw ingredients we could also have pancakes, Welsh cakes and Yorkshire puddings. "
+        },
+        {
+            "text": "Making data available as data rather than baked into one kind of information gives people the ingredients they need to freely build services, and to better inform people making lots of different kinds of decisions."
+        }
+    ]
+}
