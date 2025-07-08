@@ -1,0 +1,137 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/07/08/standardising-the-planning-application-process-progress-and-next-steps/",
+    "title": "Standardising the planning application process: Progress and next steps",
+    "authors": [
+        "Mike Rose, Data, Licensing and Intellectual Property SME"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2025-07-08T09:01:16+01:00",
+    "content": [
+        {
+            "text": "Since October 2024, our team has been hard at work standardising the planning application process. This is a crucial step in the Digital Planning programme's vision for a more data-rich planning system. We're focused on building the foundational data standards that will enable better services and more informed decision-making for communities across the country.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why standardise?\u00a0"
+        },
+        {
+            "text": "Good quality data standards underpin making consistent data available, which in turn allows for the creation of new services and products. These then empower communities to make better decisions and drive positive change. Our current efforts are concentrated on the very first part of this journey - designing robust data standards that enable the planning permission process.\u00a0\u00a0"
+        },
+        {
+            "text": "Data standards ensure that information is consistent and easily understood across different systems, making it simpler for people to find, use, and trust the data they need. By reducing confusion and errors, they help end users get faster, clearer answers and better services. Without this foundation, creating an efficient and data-driven planning ecosystem is incredibly challenging."
+        },
+        {
+            "text": "We want to make the entire planning application and permission process data rich through standardisation.\u00a0\u00a0"
+        },
+        {
+            "text": "This will then help someone who wants to submit a planning application to build something navigate the process and find out if their plans can go ahead.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our guiding principles\u00a0"
+        },
+        {
+            "text": "Our work has so far been guided by 4 core rules:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we've done so far\u00a0"
+        },
+        {
+            "text": "We've taken the existing application submission standards, which are the forms found on GOV.UK, and meticulously analysed them. These forms outline the legal requirements for making a planning application. We've broken down these forms into their individual component parts, such as applicant name, address, parking, and waste storage.\u00a0"
+        },
+        {
+            "text": "By understanding these individual data elements, we've identified how many there are, what they are, and how they relate. For instance, we've found that \u2018applicant name and address\u2019 appears on all 24 of the template forms for different types of planning permission, while \u2018site address\u2019 appears on 23. Understanding these nuances helps us define the core data elements of the planning application submission system.\u00a0"
+        },
+        {
+            "text": "Defining these individual components allows us to recombine them into data artefacts that mimic current application forms. In the future, this means that instead of relying on static PDF forms, planning applications can be handled as dynamic data. This consistency in data flow through systems, from application service providers to local authority back-office systems, will ensure data is consistent and of a known quality. This data will then underpin the decisions made by local authorities.\u00a0"
+        },
+        {
+            "text": "Crucially, these data specifications also mean that data from individual local authorities can be easily and consistently brought together. This will provide a much clearer national view of planning activity and enable better reporting.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our progress\u00a0"
+        },
+        {
+            "text": "We brought together an advisory group and wider community of planning officers, software providers, policy specialists, and digital teams to create a specification for each component,\u00a0\u00a0"
+        },
+        {
+            "text": "We codified all the component parts and made them available as working draft specifications on GitHub, and then invited everyone to review the baseline specifications. We've also successfully recombined these components to mimic the current PDF application forms.\u00a0"
+        },
+        {
+            "text": "In May, we reached a key deadline for community feedback on these initial working draft specifications. This feedback is vital to move our specifications to a \u2018pilot stage\u2019, where we are much more confident that they are on the right track and that they are ready for systematic testing. We've also been documenting challenging issues and creating a backlog of suggestions for future iterations of the specification.\u00a0"
+        },
+        {
+            "text": "Alongside this we've been collaborating closely with development management and policy colleagues, getting their feedback and beginning to consider the future burden of maintaining a data-rich system compared to the current forms-based approach. We're also working with the Digital Planning Policy team on how to mandate these specifications using the Planning Data powers which were taken through as part of the Levelling-up and Regeneration Act.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What's next?\u00a0\u00a0"
+        },
+        {
+            "text": "Our immediate next steps are focused on making our pilot submission specifications ready to be mandated as national standards, driven by rigorous testing and active community collaboration:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Further testing\u00a0"
+        },
+        {
+            "text": "The specifications aren't ready for mandating until they've undergone more detailed testing. This involves analysing and categorising feedback from early testing and iterating the draft specifications where appropriate. We'll also begin developing and sharing the first version of a declarative model to support this testing.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Expanding our scope\u00a0"
+        },
+        {
+            "text": "It's clear our standards need to apply to the entire planning permission process, not just the submitted applications. We're now kick-starting a research project into application decisions and looking at where we need to develop additional specifications to cover the whole planning permission process.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Local flexibility\u00a0"
+        },
+        {
+            "text": "Our component structure will allow local requirements to be added on top of national standards. A key part of this is developing a draft approach for handling national and local planning requirements, enabling councils to share their specific needs.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Integrating existing data\u00a0"
+        },
+        {
+            "text": "We continue to gather and publish data via the Planning Data Platform on essential inputs to the planning permission process, such as listed buildings, Article 4 directions, conservation areas, and tree preservation orders. In parallel, we'll be drafting and consulting the community we have been working with on useful codelists for critical planning information like application types and tenure types.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Roadmap to mandation\u00a0"
+        },
+        {
+            "text": "We're building a roadmap for the next year, aiming to move from pilot specifications for submissions to candidate status (ie ready for mandating) and then the mandating process. We are aiming for a timeframe of approximately 12 months for mandating from candidate status.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Restarting engagement with the sector\u00a0"
+        },
+        {
+            "text": "Working in the open remains at the heart of our approach which is why we\u2019re excited to relaunch our engagement with the sector. We're updating the terms of reference for our previous advisory and community groups and would like to actively invite new members to join our refreshed data standards community. Over the next 3 months we\u2019ll present specific opportunities for contribution, ensuring community input directly shapes our ongoing work and priorities. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Join our community and get involved\u00a0"
+        },
+        {
+            "text": "The next few months are important for this work. We would like to invite everyone with an interest in data standards to access and contribute to our approach by visiting the component and combined specifications pages, where you can share your thoughts and comments.\u00a0\u00a0"
+        },
+        {
+            "text": "Join our focussed virtual data standards community, which will bring together both existing and new participants with an interest in this work for the whole planning permission process.\u00a0 There are no restrictions on who can join. In the coming weeks we\u2019ll outline how you can help us test these specifications and get involved in shaping the next ones.\u00a0"
+        },
+        {
+            "text": "Visit our webpage (which we are currently redeveloping based on user research) for information about our work to date and our plans for the next few months."
+        },
+        {
+            "text": "Our first online session takes place on Wednesday 23 July from 10.30am-12pm. If you\u2019d like to participate please register."
+        }
+    ]
+}
