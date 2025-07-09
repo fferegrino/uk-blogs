@@ -1,0 +1,71 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/07/09/using-self-hosted-large-language-models-llms-securely-in-government/",
+    "title": "Using self-hosted Large Language Models (LLMs) securely in Government",
+    "authors": [
+        "Emily Lambert, Junior Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-07-09T09:29:34+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Emily Lambert"
+        },
+        {
+            "text": "As a Data Scientist in the Digital, Data and Technology (DDaT) team at the Department for Business and Trade (DBT), I\u2019ve seen firsthand how artificial intelligence - particularly Large Language Models (LLMs) - can open new possibilities in the way government processes and analyses data."
+        },
+        {
+            "text": "LLMs are a type of AI that can understand and generate human-like text based on patterns in vast amounts of written language. Tools like ChatGPT and Claude are based on these models. LLMs are already transforming industry, helping businesses summarise documents, extract insights from unstructured data, or even write code."
+        },
+        {
+            "text": "Government departments routinely handle confidential and personal data. Therefore, using public AI tools that transmit data externally can post significant security and privacy risks. For example, they may inadvertently expose sensitive trade policy negotiations or personal data from businesses.\u00a0 To mitigate these risks and maintain full control over data handling, we\u2019ve taken the important step of self-hosting LLMs within a secure, internal environment."
+        },
+        {
+            "heading": 2,
+            "text": "Why government needs AI"
+        },
+        {
+            "text": "AI, when used responsibly, can help us analyse large amounts of data efficiently, supporting better decision making and improving services. The Government Digital Service (GDS) have highlighted the need for public sector innovation using AI, alongside strict controls and ethical standards. As demand for services rises, government must evolve its digital capabilities to deliver more for less and AI is a key part of that transformation."
+        },
+        {
+            "heading": 2,
+            "text": "Meeting user needs"
+        },
+        {
+            "text": "Through user research, we found a growing demand across DBT for using powerful LLMs for analysis whilst maintaining a high-level of security. Some of the use cases we identified include:"
+        },
+        {
+            "text": "Previously, some teams used open-source models via platforms like Hugging Face, but only with Central Processing Unit (CPU) instances. More powerful models, such as Meta\u2019s Llama or Mistral, require high memory and processing speeds to handle complex language tasks. Therefore, Graphics Processing Unit (GPU)\u00a0infrastructure is essential to support this type of analysis."
+        },
+        {
+            "text": "To meet this user need, we\u2019ve been working to deploy self-hosted LLMs securely on our internal data platform, Data Workspace, using AWS SageMaker.\u00a0 Data Workspace ensures data is contained within our network. It is in isolation from the public internet and restricts access to authorised users to maintain a high-level standard of security. SageMaker uses open-source models, but spins resource within a private VPC (Virtual Private Cloud) as a part of the Data Workspace ecosystem. Deploying LLMs in this way is essential when dealing with sensitive information. SageMaker has enabled GPU usage, unlocking the ability to run advanced models quickly."
+        },
+        {
+            "text": "By engaging with users across multiple projects, we were able to select the most relevant models for a pilot deployment; this has enabled us to share resources among projects, optimising our costs and return on investment."
+        },
+        {
+            "text": "In response to needs identified in user research, we developed an internal python package to help users interact with SageMaker directly within our AWS environment. Our initial trial of 15 users has gone successfully, with no critical issues, strong engagement and positive feedback."
+        },
+        {
+            "text": "We believe DBT is one of the first government departments to deploy self-hosted LLMs in this way.\u00a0 This marks an important step in how government can responsibly adopt cutting-edge AI technologies while maintaining strict control over data."
+        },
+        {
+            "heading": 2,
+            "text": "Ongoing development and responsible scaling"
+        },
+        {
+            "text": "One of the biggest challenges in deploying LLMs is cost. Running these models requires powerful GPU hardware, which can be expensive \u2013 especially as usage increases. However, by deploying LLMs within Data Workspace, we\u2019re able to share infrastructure across multiple teams and projects. This centralised approach significantly reduces duplication and helps to ensure we\u2019re using resources efficiently."
+        },
+        {
+            "text": "We\u2019re taking a holistic approach to self-hosted LLMs \u2013 ensuring models we deploy are both technically appropriate and offer clear value for money. We\u2019re also experimenting with running larger models on smaller instances where possible, assessing the performance trade-offs to maximise efficiency. Additionally, we\u2019re actively monitoring model usage patterns to aid in optimising request flows. These combined efforts will help us scale the use of LLMs responsibly while staying mindful of costs."
+        },
+        {
+            "text": "We\u2019re continuing to work with users to improve the experience, expand access, and further develop the product in line with departmental needs. This is only the beginning, but it's a significant milestone for how AI can be securely and effectively used within government."
+        },
+        {
+            "text": "Learn more about how DBT works with AI by reading this blog about understanding the evaluations role in measuring the impact of AI interventions across Government."
+        }
+    ]
+}
