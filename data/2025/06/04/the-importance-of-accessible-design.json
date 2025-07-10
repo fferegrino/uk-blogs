@@ -1,0 +1,91 @@
+{
+    "url": "https://ukefdigital.blog.gov.uk/2025/06/04/the-importance-of-accessible-design/",
+    "title": "The importance of accessible design",
+    "authors": [
+        "Tim Taylor"
+    ],
+    "categories": [
+        "Accessibility",
+        "User Centred Design"
+    ],
+    "pub_date": "2025-06-04T10:21:37+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Why we build accessible services"
+        },
+        {
+            "text": "When budget holders hear that all our software needs to be accessible, we often get a few common responses:"
+        },
+        {
+            "text": "The usual replies are \u201cit\u2019s the law\u201d and \u201cit depends...\u201d, which, while true, don\u2019t always help build understanding or empathy."
+        },
+        {
+            "heading": 3,
+            "text": "Who benefits from accessible services?"
+        },
+        {
+            "text": "In short, everyone benefits when services are accessible. Accessibility is not just for people with recognised disabilities, but making services easier to use for people in any situation, for example:"
+        },
+        {
+            "text": "All these conditions can create barriers to people using websites and digital services. Disability is the other core reason for ensuring our services are accessible. In 2023/24, 24% of people in the UK reported having a disability. Of those people, 49% feel excluded from society because of their condition or impairment."
+        },
+        {
+            "text": "Accessibility is about anticipating the challenges and barriers people may face and putting in place mitigations to address them."
+        },
+        {
+            "heading": 3,
+            "text": "Understanding the need for accessible services"
+        },
+        {
+            "text": "For the first nine years of my career, I worked in local government. My first experience conducting research with a disabled user was for a social prescribing service we were designing. This service aimed to support the socially isolated and vulnerable in the borough by connecting them with community networks, groups, and support services through community referrals."
+        },
+        {
+            "text": "We had no budget to recruit research participants with digital access needs. Reaching out to local groups, I connected with a blind resident, let\u2019s call him Clive, who ran a local talking newspaper for other visually impaired residents. He agreed to spend some time with us for user research, so off we went."
+        },
+        {
+            "text": "Clive was a lovely guy and greeted us warmly. As I followed him into his living room, I was struck by how dark it was. What followed was a series of mistakes on my part."
+        },
+        {
+            "text": "Firstly, I flicked the light switch on, only to look up and realise there was no bulb in the socket. We were going to do this in the dark. I cringed for not anticipating it. Clive just laughed and sat down on the edge of his sofa. I hadn\u2019t considered that his house would be quite so gloomy. I looked at my colleague for reassurance, couldn\u2019t make out his face, so just sat down next to Clive on the sofa. My colleague looked around for another seat, couldn\u2019t see one, so squeezed up next to me."
+        },
+        {
+            "text": "I started explaining what we wanted to do. I said we wanted to observe him using his usual computer setup while he tried to use our new website. My eyes had adjusted a bit by this point, so I looked around and asked where his computer was. With his foot, he kicked a box next to him on the floor. \u201cIt\u2019s here,\u201d he said. I then realised there was no computer screen in sight. We needed to observe where he was on the website throughout the session, in order to take notes and understand where to make changes. My heart sank as I explained the issue to Clive, asking if he would be free again the following week. He laughed again and said, \u201cI thought you might say that.\u201d From beside the sofa, he pulled out a small monitor. \u201cI haven\u2019t needed to use this in years but thought it might be useful,\u201d he explained. A big sigh of relief, again kicking myself for not anticipating it."
+        },
+        {
+            "text": "As Clive booted up the computer and started navigating to the website, I began to realise how different the experience was for people with visual impairments."
+        },
+        {
+            "text": "Firstly, the screen reading software. It was quiet at first, so Clive turned it up so I could hear it. I couldn\u2019t understand a thing. Clive, like many screen reader users, listens at 300%+ speed, which is completely incomprehensible to the untrained ear. Here is a quick video to show what that sounds like. Thankfully, Clive agreed to slow it down to a more manageable 150% speed for the session."
+        },
+        {
+            "text": "Secondly, navigating a web page. There is no scrolling up or down a page for screen reader users. There\u2019s no use of a mouse to click on things. Clive explained that screen reader users typically navigate a page in one of three ways: through lists of links, buttons, or headers. If you go to a webpage and hit TAB on your keyboard a few times, you will see the focus of your navigation dart around the page. This is how users with screen readers consume web content, with each bit of information being read out as a user tabs through."
+        },
+        {
+            "text": "What followed was an incredibly insightful session. There were issues with the navigation on some pages, the context on some links and buttons, and inconsistencies in header layouts. What really stood out to me, though, was the completely different lived experience Clive had. He expressed how happy he was that we were there testing with him, as the Council website was a nightmare for him to navigate, and he struggled to find basic information that he needed. The reason he started the talking newspaper was to help other visually impaired residents get key local information that they would otherwise be unable to get, partly due to poor consideration of accessibility on the Council\u2019s website."
+        },
+        {
+            "heading": 3,
+            "text": "How much does It cost?"
+        },
+        {
+            "text": "If we incorporate accessibility into our designs from the start, it shouldn\u2019t cost any more to make our service accessible. If we design without accessibility in mind at the start and then need to make remedial changes to fix it, then it will cost more money."
+        },
+        {
+            "text": "Think about a Council laying pavement for a new road. They don\u2019t build the whole pavement, then remove the end blocks so they can drop the kerb and allow wheeled access. Councils understand that a dropped kerb needs to be there at the beginning, and they factor it in from the start, causing no additional cost."
+        },
+        {
+            "text": "It\u2019s a small thing to do, but it has a huge impact on those who need it. Wheelchair users are physically unable to access pavements without a dropped kerb, like how people who use screen readers are unable to navigate or understand web pages if they are not designed properly."
+        },
+        {
+            "text": "Finally, making things accessible doesn\u2019t only benefit those with access needs. If you drop a kerb, it\u2019s not just for people in wheelchairs; it makes it easier to traverse for those with pushchairs or on roller skates. If you create websites that are clearly laid out, in plain English and semantically correct, it doesn\u2019t just help users with screen readers. It makes it easier to understand for those who don\u2019t speak English as a first language, who are neurodiverse, or are trying to get information as quickly as possible."
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s the point?"
+        },
+        {
+            "text": "There are three key points I want to get across:"
+        }
+    ]
+}
