@@ -1,0 +1,144 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/07/14/agile-secure-and-cost-effective-ukefs-open-source-api-shift/",
+    "title": "Agile, secure and cost-effective: UKEF\u2019s open source API shift",
+    "authors": [
+        "Abhi Markan \u2013 Principal software engineer, UKEF"
+    ],
+    "categories": [
+        "APIs"
+    ],
+    "pub_date": "2025-07-14T14:15:30+01:00",
+    "content": [
+        {
+            "text": "At UK Export Finance (UKEF), we have been developing new digital services and enhancing existing platforms in order to provide businesses with seamless and secure experiences as part of UKEF\u2019s digital strategy."
+        },
+        {
+            "text": "An integral step of this journey has been modernising application programming interface (API) management, which involves adopting an open source, cloud-based solution that benefits from being flexible, cost-effective, and scalable.\u00a0"
+        },
+        {
+            "text": "This transition has been led by the UKEF software team, whose goal is to develop digital solutions that empower UKEF to effectively manage and expand its operations while fostering a culture of digital, data, and technology-driven transformation."
+        },
+        {
+            "text": "Our approach necessarily meets the needs of both external and internal users, while also promoting transparency, collaboration, and interoperability. This also aligns with the aims of the blueprint for modern digital government in delivering resilient and future-proof digital services."
+        },
+        {
+            "heading": 3,
+            "text": "Identifying a need"
+        },
+        {
+            "text": "Open source adoption has already proven to be the way forward for modern digital government, with many departments already planning to implement new systems and strategies in order to take advantage of the benefits of open source offerings."
+        },
+        {
+            "text": "Similarly, in UKEF, we knew that we required a reliable, efficient, and secure API gateway and saw this as an opportunity to make the shift towards open source."
+        },
+        {
+            "text": "Business analysis revealed that our existing closed source API wrapper could be improved, as the fragmentary APIs could sometimes cause inefficiencies and inconsistencies in delivering critical services in time. This analysis also suggested that moving to open source would reduce costs, increase functionality, shorten production deployment time and reduce operational inefficiencies."
+        },
+        {
+            "heading": 3,
+            "text": "Building a scalable and secure API infrastructure\u00a0"
+        },
+        {
+            "text": "Our solution was an open and adaptable model that would allow us to innovate more freely, while also ensuring security and reliability."
+        },
+        {
+            "text": "This open source, cloud-native approach used Node.js and Azure API management (APIM) to centralise our API ecosystem, which would reduce our dependence on proprietorial systems, and reduce operating costs and time to production."
+        },
+        {
+            "text": "For a more in-depth look, our model could be broken down into the following components.\u00a0\u00a0"
+        },
+        {
+            "heading": 4,
+            "text": "Open source"
+        },
+        {
+            "text": "We purposely decided to migrate to an open source solution, in this case nest.js, using strict TypeScript and containerisation to ensure portability and swift deployments."
+        },
+        {
+            "heading": 4,
+            "text": "Centralised API management"
+        },
+        {
+            "text": "This streamlined access and governance, as well as reducing complexity and improving consistency across our digital services."
+        },
+        {
+            "heading": 4,
+            "text": "Topology"
+        },
+        {
+            "text": "Our hub-and-spoke topology model uses an Azure API management gateway to centralise API endpoints."
+        },
+        {
+            "heading": 4,
+            "text": "Microservices architecture"
+        },
+        {
+            "text": "Our APIs are now structured into three key service areas to make them more efficient, scalable, and easier to maintain. These areas offer unique endpoints for UKEF\u2019s internal and external use."
+        },
+        {
+            "text": "Critical business endpoints were also integrated in APIM, such as GovNotify, Companies House API, and Ordnance Survey API. This ensured \u2018don\u2019t repeat yourself\u2019 (DRY) code and standardised request bodies and responses."
+        },
+        {
+            "heading": 4,
+            "text": "Automated infrastructure"
+        },
+        {
+            "text": "We used infrastructure as code (IaC) to ensure that our API environment remains reliable, secure, and consistently configured."
+        },
+        {
+            "heading": 4,
+            "text": "Secure by design"
+        },
+        {
+            "text": "We followed best practices to protect our data and services, including private access controls, automated key rotation, and advanced threat mitigation tools."
+        },
+        {
+            "heading": 4,
+            "text": "OpenAPI"
+        },
+        {
+            "text": "Adhering to OpenAPI (Swagger), we constructed and documented our API endpoints, body parameters and expected responses. This allowed for a seamless integration into Azure APIM, improved API documentation for integration and an on-the-fly API portal. Endpoint updates were seamlessly reflected across all the remits."
+        },
+        {
+            "heading": 4,
+            "text": "CI-CD-CM"
+        },
+        {
+            "text": "We ensured continuous integration (CI), continuous deployment (CD) and continuous monitoring (CM) to all of our environments with a series of automated test suites, such as Unit, API, E2E, and Linting. Software composition analysis (SCA) security vulnerability testing and code quality allowed for a robust, well-documented and DRY code deployment."
+        },
+        {
+            "heading": 3,
+            "text": "Agile development for faster delivery"
+        },
+        {
+            "text": "We decided that agile development was the best way to implement our new model. This was because the agile methodology allows for:"
+        },
+        {
+            "heading": 3,
+            "text": "Security and compliance\u00a0"
+        },
+        {
+            "text": "Security was an incredibly important aspect to our transition, so we followed the National Cyber Security Centre\u2019s (NCSC) Secure by Design principles. As a result, we included:"
+        },
+        {
+            "heading": 3,
+            "text": "Delivering measurable benefits"
+        },
+        {
+            "text": "Once implemented, this shift to a cloud-native API ecosystem resulted in significant and measurable improvements. These including:"
+        },
+        {
+            "heading": 3,
+            "text": "A future ready API strategy"
+        },
+        {
+            "text": "Our adoption of modern, open source technologies has allowed us to create a more agile, scalable, and cost-effective API management platform. This will allow UK businesses to access our services easily and reliably."
+        },
+        {
+            "text": "Going forward, we\u2019ll be even more dedicated to innovation and continuous improvement, and in ensuring that our digital infrastructure meets both current and future business needs."
+        },
+        {
+            "text": "To learn about our journey as well as lessons learned, behind-the-scenes stories and the latest updates, visit the UKEF digital, data and technology blog."
+        }
+    ]
+}
