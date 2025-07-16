@@ -1,0 +1,47 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2025/07/15/building-the-future-with-data-homes-englands-data-platform/",
+    "title": "Building the Future with Data: Homes England\u2019s Data Platform",
+    "authors": [
+        "Pippa Harflett \u2013 Senior Data Engineer, Homes England"
+    ],
+    "categories": [
+        "Data Engineering"
+    ],
+    "pub_date": "2025-07-15T23:14:00+01:00",
+    "content": [
+        {
+            "text": "Homes England is an executive non-departmental public body,sponsored by the Ministry of Housing, Communities and LocalGovernment. The mission at Homes England is to accelerate the paceof house building to provide affordable, quality homes that improvepeople\u2019s lives. A team of data engineers are enabling more accurateand timely decision making through building and maintaining a robustdata platform that empowers the entire organisation."
+        },
+        {
+            "heading": 3,
+            "text": "Why Every Great Data Strategy Starts with a Data Engineering Team"
+        },
+        {
+            "text": "A machine learning model required by a data scientist, or a datavisualisation used by a decision maker, has a common denominator \u2013an unsung data engineer! There is no technology nor fancy tool thatcan replace an accurate, timely dataset that has securely been ingestedthrough a reliable and robust data platform. Data engineers are thefoundation building block that enable others to do their job well. Asummary is provided below:"
+        },
+        {
+            "heading": 3,
+            "text": "From Raw Data to Real Impact: What Is Homes England\u2019s Data Platform?"
+        },
+        {
+            "text": "Imagine a user who wants to analyse a dataset. They might log into awebsite, download a file, and then create graphs or run some statisticsto uncover insights. At first glance, this seems like a reasonableapproach. But if they need to repeat this process daily, share the datawith colleagues, or combine it with other datasets, the workflow quicklybecomes time consuming, error prone, and potentiallyinsecure.This is where the power of Homes England\u2019s data platform comes intoplay. It provides a centralised, secure, and scalable environment thatautomatically ingests, processes, and stores data across theorganisation - eliminating repetitive manual tasks and enabling faster, more reliable access to trusted data.The platform currently supports the ingestion of data from a wide rangeof sources, including databases such as SQL Server, PostgreSQL andOracle. In addition to databases, it can also pull data from: Application Programming Interfaces (APIs), Microsoft Dataverse, Microsoft SharePoint sites and Secure File Transfer Protocol (SFTP). The platform is scalable and adaptable to accommodate new data types as needs evolve.Now the data has been ingested, it needs to be stored. Homes Englanduses a cloud based storage solution, which ensures the platformremains scalable as data volumes increase. The data is stored in Deltaformat, a powerful structure that offers several advantages: it supportsefficient querying, simplifies version control through built in delta historytracking, and integrates seamlessly with analytics tools. WithinDatabricks, this data is presented as relational tables, making it easy forusers to explore and work with."
+        },
+        {
+            "text": "This first stage of storage is known as the \u201craw\u201d layer, as it captures thedata exactly as it was received from the source. To prepare this data formeaningful analysis, the data engineering team collaborates closelywith data architects and agile project teams. Together, they transformthe raw data into structured fact and dimension tables, forming what\u2019sknown as the \u201ccurated\u201d layer. This refined layer is optimised for analysisand is what end users interact with to generate insights and drivedecisions. What starts as complex, varied data sources, is transformedinto a consistent, tabular format - clear rows and columns that areintuitive to navigate. This makes the data not only accessible but alsoreliable for analysis and decision making."
+        },
+        {
+            "heading": 3,
+            "text": "Under the Hood: The Tech Powering Homes England\u2019s Data Platform"
+        },
+        {
+            "text": "Homes England leverages a modern suite of technologies to power itsdata platform:"
+        },
+        {
+            "heading": 3,
+            "text": "Looking Ahead: Future Improvements"
+        },
+        {
+            "text": "We\u2019re continuously enhancing our data platform to stay aligned with thelatest technological advancements. One of our upcoming initiatives is topilot asset bundles in Databricks, aiming to streamline and simplify ourdata ingestion processes.If you\u2019re interested in sharing your own data engineering journey, or ifyou have questions about how data engineering can support your team,we\u2019d love to hear from you. Please get in touch at pippa.harflett@homesengland.gov.uk.Our mission is to highlight the vital role of data engineering in deliveringtimely, accurate data that supports the public good. We hope you\u2019ll joinus in spreading that message."
+        }
+    ]
+}
