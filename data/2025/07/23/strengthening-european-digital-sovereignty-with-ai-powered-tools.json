@@ -1,0 +1,96 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/07/23/strengthening-european-digital-sovereignty-with-ai-powered-tools/",
+    "title": "Strengthening European digital sovereignty with AI-powered tools",
+    "authors": [
+        "Natasha Boyse, Senior Data Engineer",
+        "Ledia Luli, Junior Software Developer",
+        "Tom McDonagh, Data Engineer",
+        "Adela Iliescu, Data Scientist",
+        "Richie Bird, Junior Data Scientist"
+    ],
+    "categories": [
+        "People",
+        "Products"
+    ],
+    "pub_date": "2025-07-23T14:13:24+01:00",
+    "content": [
+        {
+            "text": "In AI Cubed, and the wider Digital, Data and Technology (DDaT) portfolio, we explore innovative ways to leverage AI for public sector innovation and digital sovereignty.  Last week marked AI Appreciation Day, and it\u2019s a timely moment to reflect on how our work in Department for Business and Trade (DBT) is helping shape a more transparent, efficient and trustworthy digital future."
+        },
+        {
+            "text": "AI Cubed represents our holistic approach of:"
+        },
+        {
+            "text": "As part of this work, a team of 5 DBT data engineers and data scientists participated in a hackathon hosted by the French government. The goal of the hackathon was to integrate new AI tooling into pre-existing, open-source software developed by the French Government, known as La Suite num\u00e9rique. We created a fact-checking tool, that we prototyped to a panel of judges."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge of misinformation"
+        },
+        {
+            "text": "Our choice of a hackathon project was focused around on the vital issue arising in today\u2019s world - misinformation. It is a growing issue that affects public discourse, and trust in online content. Our team developed a Python package, FactVerifAi, as an AI-driven solution that integrates directly into document editors to fact check user\u2019s statements."
+        },
+        {
+            "heading": 2,
+            "text": "What is FactVerifAI?"
+        },
+        {
+            "text": "We created FactVerifAI to facilitate robust analysis and verification of statements using large language models (LLMs) and web search Application Programme Interfaces (APIs)."
+        },
+        {
+            "text": "It's important to note that LLMs do not contain factual knowledge. Rather, they are trained on vast datasets to generate human-like responses based on patterns in the training data. As such, FactVerifAI does not directly provide facts, but assists in identifying potentially verifiable claims within text and retrieving relevant evidence from web sources to aid verification."
+        },
+        {
+            "text": "The primary workflow is:"
+        },
+        {
+            "text": "The tool supports parallel processing for improved performance. It can integrate locally hosted LLMs via Ollama and OpenAI backends. It is designed to accommodate new data sources or domain/language-specific models, such as Albert which provides generative AI models to French government entities."
+        },
+        {
+            "text": "The key purpose is to augment and accelerate the fact-checking process, while ensuring users can scrutinise the underlying evidence sources and rationale."
+        },
+        {
+            "heading": 2,
+            "text": "Strengthening European digital infrastructure"
+        },
+        {
+            "text": "Our prototype garnered positive feedback from participants and partners like DINUM \u00a0and La Suite.\u00a0 They recognised its potential as a component of trustworthy European digital infrastructure aligned with shared goals like transparency, data protection, and interoperability."
+        },
+        {
+            "heading": 2,
+            "text": "Showcasing AI Cubed and Redbox"
+        },
+        {
+            "text": "During our visit with the DBT France team, we showcased our AI assistant Redbox. We also discussed DBT's approach to the responsible integration of AI systems using the AI cubed model encouraging efficient delivery and transformation."
+        },
+        {
+            "text": "Redbox is our cutting-edge generative AI tool designed to help civil servants efficiently analyse, summarise, and extract insights from unstructured data sources like documents, websites, and databases. \u00a0It also features the capability to leverage multi-agent tool invocation, enabling more complex and parallel processing tasks."
+        },
+        {
+            "text": "The DBT France team were impressed by the tool\u2019s ability to quickly distil complex information into actionable insights. They highlighted Redbox\u2019s potential to streamline research, analysis, and briefing processes for policy teams, particularly for cross-border policy work."
+        },
+        {
+            "text": "The tool\u2019s multilingual capabilities, including fluent French, make it well suited for working internationally, addressing a key requirement for modern digital infrastructure serving diverse global audiences. The feedback reinforced Redbox's distinctive value as a reliable, capable and ethically-aligned AI assistant purposely designed to empower public sector innovation and decision-making. This visit represents an important step in DBT's AI roadmap. By showcasing tools like Redbox to international partners, we aim to facilitate knowledge exchange and identify areas for collaboration.\u00a0 This will contribute to building reliable, interoperable digital infrastructure to serve the wider European tech community."
+        },
+        {
+            "heading": 2,
+            "text": "The road ahead"
+        },
+        {
+            "text": "While FactVerifAi was built purely for the purposes of the hackathon, we can already see ways we can use it in our pre-existing DBT AI products. For example, the tool could be used to verify the citations and evidence Redbox provides, reducing the likelihood of hallucinations taking place."
+        },
+        {
+            "text": "Next steps would include refining the AI model's handling of nuanced language. This would improve the user interface for displaying references and exploring multilingual support to serve international audiences."
+        },
+        {
+            "heading": 2,
+            "text": "Building a sovereign digital future"
+        },
+        {
+            "text": "Initiatives like FactVerifAi and Redbox demonstrate DBT's dedication to harnessing AI's potential while prioritising values of reliability, sovereignty, and public trust. As we navigate an increasingly digital landscape, advancing coordination across borders and building our own open tools is not just a technical endeavour but a strategic one. This is a path toward a more reliable and sovereign digital future for Europe."
+        },
+        {
+            "text": "Want to learn more about DBT's AI successes? Read this blog about how and why DDaT has taken the important step of self-hosting LLMs within a secure, internal environment."
+        }
+    ]
+}
