@@ -1,0 +1,73 @@
+{
+    "url": "https://ukefdigital.blog.gov.uk/2025/05/30/modernising-services-at-ukef-a-business-analysts-perspective/",
+    "title": "Modernising Services at UKEF: A Business Analyst's Perspective",
+    "authors": [
+        "Tinu Nwaokolo"
+    ],
+    "categories": [
+        "Business analysis",
+        "User Centred Design"
+    ],
+    "pub_date": "2025-05-30T12:02:36+01:00",
+    "content": [
+        {
+            "text": "The ability to export with confidence, knowing you\u2019ll get paid for an export contract or potentially recover costs is a key consideration for any business, including small and medium sized businesses (SMEs). Cover for export insurance from market lenders isn\u2019t always available or viable. Lenders may assess that the risk is too high for them to take on, or for exporters, particularly SMEs, the cost of cover may be too high. That\u2019s where UKEF can help by complimenting \u2013 and not competing with - lenders through our Export Insurance Policy (EXIP)."
+        },
+        {
+            "text": "Sounds good so far, right? However, after conducting a service review, we found that it wasn\u2019t as easy to use as it should be for our customers and UKEF staff weren\u2019t confident in promoting the service through our business support network."
+        },
+        {
+            "text": "That\u2019s where, as a Business Analyst, I could help!"
+        },
+        {
+            "heading": 2,
+            "text": "Building back better involves understanding the problem."
+        },
+        {
+            "text": "As part of a multi-discipline team, we had a discovery phase to get real insight into our user needs (direct and indirect users) and the nature of problem that they face. This involved working closely with a User Researcher to define user personas (exporters, brokers, Export Finance Managers (EFMs), underwriters) and conduct user interviews, workshops and surveys. It also involved working with internal stakeholders to understand business constraints, identify potential opportunities and how we would measure success."
+        },
+        {
+            "text": "During alpha, we tested our risky assumptions and worked closely with the internal stakeholders on policy changes. As part of alpha outcomes, I documented user stories, written from the user\u2019s perspective with acceptance criteria that our software developers could use to begin coding in beta. These user stories were used to form the foundation for the service improvement strategy and roadmap"
+        },
+        {
+            "text": "Several findings were identified through research, testing and analysis:"
+        },
+        {
+            "heading": 2,
+            "text": "Discovering business superpowers through collaboration"
+        },
+        {
+            "text": "As a Business Analyst, I must ensure a service delivers the needs of users and are aligned to our business rules, organisational policies and objectives from beginning to end. I also consider the alignment of my service to the whole organisational estate. For this to happen I may need to speak with colleagues about changing processes and procedures, consider emerging technologies, regulatory requirements, industry best practice and market alignment. In this case our insurance policy guidelines were re-written to make it more closely aligned with private market wording."
+        },
+        {
+            "text": "Collaboration with service design and technology colleagues has been vital throughout this journey. By working closely with service designers, developers, and system architects, I could ensure that the suggested functionality and service improvements were accessible, technically feasible and aligned with GOV.UK best practice, resulting in clear deliverables that everyone understood."
+        },
+        {
+            "heading": 2,
+            "text": "Unleashing agile for service delivery"
+        },
+        {
+            "text": "Applying an agile approach has enabled the team to develop iteratively with frequent feedback loops. By breaking down the project into smaller, manageable phases (known as sprints), I can ensure that progress is made while maintaining flexibility to adapt to evolving needs. This allows for early validation of new design concepts and quick adjustments based on user feedback."
+        },
+        {
+            "heading": 2,
+            "text": "Defined Outcomes"
+        },
+        {
+            "text": "Through planning, collaboration with stakeholders and most importantly by meeting both user needs and business objectives, our efforts will provide numerous benefits including:"
+        },
+        {
+            "heading": 2,
+            "text": "Where we are, and what\u2019s next"
+        },
+        {
+            "text": "As we are using an iterative approach, we have delivered the service incrementally by ensuring that each release meets user needs and solves a whole problem for users. The releases delivered so far are as follows:"
+        },
+        {
+            "text": "To limit the potential of the service becoming obsolete, we would be supporting the service within the live service team to manage the product backlog and implement future iterations"
+        },
+        {
+            "text": "As a business analyst at UKEF, I have a direct opportunity to play an important role to refine and streamline our organisational processes and policies as we deliver services that meet the Government Service Standard and to witness the positive impact that these changes have on our service users."
+        }
+    ]
+}
