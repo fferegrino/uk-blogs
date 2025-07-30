@@ -1,0 +1,71 @@
+{
+    "url": "https://space.blog.gov.uk/2025/07/30/nkt-photonics-fibre-lasers-enable-ground-breaking-deep-space-communication/",
+    "title": "NKT Photonics fibre lasers enable ground-breaking deep-space communication",
+    "authors": [
+        "NKT Photonics"
+    ],
+    "categories": [
+        "Delivering Missions and Capabilities"
+    ],
+    "pub_date": "2025-07-30T10:25:23+01:00",
+    "content": [
+        {
+            "heading": 4,
+            "text": "ESA has successfully established Europe\u2019s first deep-space optical communication link using a high-power fibre laser system from NKT Photonics."
+        },
+        {
+            "text": "Recently, the European Space Agency (ESA) successfully established Europe\u2019s first deep-space optical communication link with NASA\u2019s Psyche mission using a high-power fibre laser system from NKT Photonics, who have a base in the UK."
+        },
+        {
+            "text": "This ground-breaking achievement, conducted with NASA/Jet Propulsion Laboratory\u2019s Deep Space Optical Communications (DSOC) demonstrator, marks a significant leap forward in high-data-rate communication across vast interplanetary distances."
+        },
+        {
+            "heading": 2,
+            "text": "Innovators create optical link to space"
+        },
+        {
+            "text": "ESA, NASA/JPL, and a group of top European companies, including NKT Photonics teams in Southampton and Denmark, joined forces to make this breakthrough possible. The technology developed for this project was supported by funding from ESA, delivered through the GSTP programmeat the UK Space Agency."
+        },
+        {
+            "text": "They faced three major technical challenges: building a laser powerful enough to reach across vast distances, developing a pointing system precise enough to aim at a spacecraft, and creating a receiver sensitive enough to catch the faint return signal."
+        },
+        {
+            "text": "Together with Swiss General Atomics Synopta, NKT Photonics delivered the multi-beam high-power fiber laser system and the beam transmission optics. "
+        },
+        {
+            "text": "The laser emits a narrow-linewidth, modulated signal that helps the spacecraft precisely locate and lock onto the ground station, establishing a high-speed optical downlink."
+        },
+        {
+            "heading": 2,
+            "text": "2kW in under 10 microseconds"
+        },
+        {
+            "text": "At the heart of the laser system is NKT Photonics\u2019 proven Koheras single-frequency fibre laser platform. "
+        },
+        {
+            "text": "The base of the system is an ACOUSTIK line card sub-rack that holds the BASIK Y10 seed laser, a BOOSTIK pre-amplifier, and both AOM and EOM line cards for spectral conditioning and high-frequency amplitude modulation. "
+        },
+        {
+            "text": "A splitter sends the signal to five BOOSTIK UHP high-power amplifiers, boosting the output to kilowatt levels \u2013 enough to reach the spacecraft."
+        },
+        {
+            "text": "These custom amplifiers are based on NKT Photonics\u2019 core fibre amplifier technology, also used in their directed energy activities. "
+        },
+        {
+            "text": "For this system, they were specially adapted to allow rapid power modulation from 0 to 2kW in under 10 microseconds. A custom timing module line card synchronizes the full setup, generating precise waveforms for beacon and data uplink modes."
+        },
+        {
+            "heading": 2,
+            "text": "The power of partnership"
+        },
+        {
+            "text": "The beam transmit system can aim with arcsecond precision, allowing it to point directly at the spacecraft. "
+        },
+        {
+            "text": "This enables a beacon for accurate downlink and opens the door for future data uplink, providing a glimpse into the future of deep-space communication."
+        },
+        {
+            "text": "This achievement highlights NKT Photonics\u2019 position at the forefront of laser technology and highlights how strong partnerships between agencies and industry are driving Europe\u2019s leadership in advanced optical technologies."
+        }
+    ]
+}

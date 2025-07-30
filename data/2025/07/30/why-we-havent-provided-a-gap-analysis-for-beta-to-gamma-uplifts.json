@@ -1,0 +1,53 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/07/30/why-we-havent-provided-a-gap-analysis-for-beta-to-gamma-uplifts/",
+    "title": "Why we haven\u2019t provided a gap analysis for beta to gamma uplifts",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2025-07-30T16:41:20+01:00",
+    "content": [
+        {
+            "text": "Providers with services that have been certified against the beta (0.3) of the trust framework need to prepare to uplift their certification to align with the gamma (0.4) publication. To do that, service providers naturally want to know what\u2019s different between the two publications."
+        },
+        {
+            "text": "To help with this, we\u2019ve been asked variously for some kind of document with a gap analysis or assimilation matrix. A quick guide that says \u201cin beta we said this and in gamma we say that now instead\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "There are no shortcuts to gamma uplift"
+        },
+        {
+            "text": "That guide doesn\u2019t exist. We don\u2019t have one internally. The conformity assessment bodies haven\u2019t been given one. We won\u2019t be publishing one for providers either. We\u2019ve intentionally decided not to create that kind of document."
+        },
+        {
+            "text": "We called the beta, \u201cbeta\u201d because that\u2019s exactly what it was. Something in development, with some rough edges that we knew needed to be smoothed out. We spent a long time speaking to businesses and members of the public about how it could be improved."
+        },
+        {
+            "text": "The result is that, in the gamma publication, the entirety of the trust framework and the new supplementary codes were redesigned, restructured, and often completely rewritten. Nearly every section and paragraph is at least slightly different \u2013 and in some cases very different \u2013 from the content that was in the previous publication."
+        },
+        {
+            "text": "So much has changed or moved that, on a practical level, to explain what\u2019s different would mean creating a document almost as lengthy as the trust framework itself."
+        },
+        {
+            "text": "It\u2019s also been three years since we originally published the beta trust framework. With such extensive changes and with that period of time, we think it\u2019s a good idea for service providers to take the opportunity to review their services top-to-bottom and end-to-end against these new rules. Creating a \u201ccheat sheet\u201d for gamma could encourage providers to only focus on the most significant changes and not on the rest of the rules."
+        },
+        {
+            "text": "If you\u2019re a service provider, we think your time could be better spent considering the current trust framework document and whether your service is compliant; not on an adjunct guidance document that has the potential to make things more confusing. So we deliberately haven\u2019t created it."
+        },
+        {
+            "heading": 2,
+            "text": "The next uplift will be smaller"
+        },
+        {
+            "text": "We\u2019ve taken this approach on this occasion because of the context of this uplift. For the next iteration of the trust framework \u2013 what we\u2019re calling 1.0 \u2013 we expect the changes to be smaller. That will enable us to take a more nuanced approach next time."
+        },
+        {
+            "text": "For now, our advice to service providers is to get into the weeds of gamma. Treat this as an opportunity for a spring clean; do a review of your whole service and check your service meets all the rules, not just the new ones."
+        }
+    ]
+}
