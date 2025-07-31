@@ -1,0 +1,114 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2025/03/03/applying-filters-consistently-in-dfe/",
+    "title": "Applying filters consistently in DfE",
+    "authors": [
+        "Casey Hindle",
+        "Steve Milnes",
+        "Joe Gibb",
+        "David Homer"
+    ],
+    "categories": [
+        "Accessibility",
+        "Content design",
+        "design",
+        "Service design",
+        "User-centred design"
+    ],
+    "pub_date": "2025-03-03T13:00:00+00:00",
+    "content": [
+        {
+            "text": "Filters are a common component used in many services across DfE.\u00a0"
+        },
+        {
+            "text": "There are many variations and we as a department have no guidance on how to use filters.\u00a0"
+        },
+        {
+            "text": "There are a lot of differences in filter styling and functionality in the department.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Discovery\u00a0"
+        },
+        {
+            "text": "Our patterns and components working group ran a discovery to look at the different ways teams use filters.\u00a0"
+        },
+        {
+            "text": "We reached out to the GOV.UK design system team to discuss their filter component.\u00a0"
+        },
+        {
+            "text": "Due to prioritisation of other components, it will be a long time before they add it to their design system.\u00a0"
+        },
+        {
+            "text": "We asked designers and user researchers in DfE to share examples of how they use filters on a Lucid board.\u00a0"
+        },
+        {
+            "text": "We documented 14 different services using a filter. This included any insight about user research or accessibility issues.\u00a0"
+        },
+        {
+            "text": "We then reviewed them as a group and found that in most cases:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt\u00a0"
+        },
+        {
+            "text": "During the discovery we found some common problems and areas we need to learn more about.\u00a0"
+        },
+        {
+            "text": "This included:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Mobile design\u00a0"
+        },
+        {
+            "text": "We heard several instances of users missing the \u201cShow filters\u201d button when using a mobile device.\u00a0"
+        },
+        {
+            "text": "We think users may miss this grey secondary action button for a few reasons, including:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Moving the \u201cApply filters\u201d button\u00a0"
+        },
+        {
+            "text": "We heard from several teams that adding an apply filters button at the bottom of a long set of filters was helpful for their users.\u00a0"
+        },
+        {
+            "text": "It stopped users having to scroll down a long list to select required filters, then scroll back up to apply them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Categories with many filter options\u00a0"
+        },
+        {
+            "text": "Filter categories that contain many options can become long and hard to read or navigate.\u00a0"
+        },
+        {
+            "text": "The MoJ design system suggests a few ways to help:\u00a0"
+        },
+        {
+            "text": "However, there can be some issues with some of these options.\u00a0"
+        },
+        {
+            "text": "For example, it can be hard for a person using a mobile device to scroll through a list of filter options accurately.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion\u00a0"
+        },
+        {
+            "text": "We decided that the MoJ filter component is suitable for what most teams need when adding a filter component to their service.\u00a0"
+        },
+        {
+            "text": "We chose not to create our own filter component, but have created some guidance on how to use filters in DfE.\u00a0"
+        },
+        {
+            "text": "We recommend teams use the MoJ filter in most cases. But, be flexible on how you present filters based on the context of the service and user needs.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Share your feedback\u00a0"
+        }
+    ]
+}

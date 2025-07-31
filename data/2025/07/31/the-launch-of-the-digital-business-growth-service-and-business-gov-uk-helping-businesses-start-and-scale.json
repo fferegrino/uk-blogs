@@ -1,0 +1,112 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/07/31/the-launch-of-the-digital-business-growth-service-and-business-gov-uk-helping-businesses-start-and-scale/",
+    "title": "The launch of the Digital Business Growth Service and business.gov.uk: helping businesses start and scale",
+    "authors": [
+        "Anais Reding, Chief Digital Officer - Business Growth",
+        "Carla Isham, Lead Interaction Designer",
+        "Andrew Donaghy - Lead Content Designer",
+        "Richard Baines, Technical Architect",
+        "Becky Leggett, Business Growth Portfolio Delivery Lead"
+    ],
+    "categories": [
+        "Products",
+        "Professions"
+    ],
+    "pub_date": "2025-07-31T14:13:02+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Anais Reding"
+        },
+        {
+            "text": "June 2025 marked the start of a new era in how government supports businesses online. We launched the Digital Business Growth Service, on business.gov.uk. As noted in the Blueprint for a Modern Digital Government, we are on a mission to \u201c[help] businesses start and scale by delivering services that work as well as they do for citizens\u201d."
+        },
+        {
+            "text": "This launch is the first step in meeting this objective. We will continue to share as we progress this support."
+        },
+        {
+            "heading": 2,
+            "text": "Why a Digital Business Growth Service?"
+        },
+        {
+            "text": "The Digital Business Growth Service proposition is clear: we help businesses find what they need, when and where they need it. It is the digital channel for the Business Growth Service which was launched at the same time as the Small Business Strategy. We know that businesses who take up support are more likely to be high growth and productive. Yet, navigating the public, private and third sector support landscape can be overwhelming. Our goal is to simplify that journey: offering businesses the relevant and trustworthy answers they need."
+        },
+        {
+            "heading": 2,
+            "text": "Why business.gov.uk?"
+        },
+        {
+            "text": "To meet this proposition, we renamed our site from great.gov.uk to business.gov.uk. Great.gov.uk began as a marketing platform for the Department for International Trade (DIT). As DIT transitioned into the Department for Business and Trade (DBT), the department's ambitions grew to support anyone looking to start, run or grow a business in the UK. While the GREAT brand continues to be the main one for international audiences, it doesn\u2019t speak in the same way to domestic businesses and we needed to address this."
+        },
+        {
+            "text": "The new site, launched alongside the Digital Business Growth Service and now supports businesses across their full lifecycle, from start up to export and investment. GOV.UK now also signposts from its highest traffic pages to business.gov.uk, bringing compliance and support services closer together. To continue to maximise on the GREAT brand and marketing investments to date, the site continues to use GREAT branding where appropriate and there are redirects in place from the pre-existing great.gov.uk links."
+        },
+        {
+            "text": "We were given the mandate to develop this offer in February and launched in June. It\u2019s been a fast-paced journey, and we\u2019ve learned a lot along the way. In this post, 4 team leads share their reflections on this experience."
+        },
+        {
+            "heading": 3,
+            "text": "Carla Isham- Design Lead"
+        },
+        {
+            "text": "I joined DBT in 2024 when \u2013 alongside a full roadmap of work \u2013 the portfolio was gathering discovery and conceptual work to support businesses more effectively across their whole lifecycle. By January 2025, we had a clear direction. The mandate to launch this service accelerated our plans, prompting a rapid restructure, bringing experts from all professions together to work on this ambition. A huge collaborative effort enabled us to combine our knowledge and deliver a genuine step-change for users."
+        },
+        {
+            "text": "Within Digital, Data and Technology (DDaT), we have a tight-knit team of designers, and a strong User- Centered Design (UCD) community. Building closer relationships with all our support providers, and connecting across teams, professions and portfolios was critical to shaping this first iteration. We rapidly tested ideas and assumptions with existing and potential users using low-fidelity concepts, iterating daily, refining user journeys and bringing them into development. "
+        },
+        {
+            "text": "I am immensely proud of the UCD team\u2019s commitment, enthusiasm, and skill that has shone over the last 4 months. Our colleagues at the Digital Accessibility Centre were incredibly supportive throughout, helping us to find solutions to benefit all users. During its existence, the website had built up a significant amount of legacy code bloat and design inconsistencies. Re-imagining the service helped us address many of these issues, and we continue to work hard to resolve them. Further iterations and design system components are being rolled out in regular cycles, informed by our own testing and insights from the Government Design System team."
+        },
+        {
+            "text": "Crucially, this work has laid the foundation for a more intuitive, effective experience. We have big ambitions, and I\u2019m excited to see the first step on this journey brought to businesses."
+        },
+        {
+            "heading": 3,
+            "text": "Andrew Donaghy - Content Lead"
+        },
+        {
+            "text": "In 2024, content designers worked to improve export support content on great.gov.uk. By analysing hundreds of business enquiries, we found common patterns in the problems businesses described when exporting. For example, they almost always referenced what they sold and where, and the issues they had (paperwork, transportation, etc). This led to a shared understanding between DDaT and Policy teams, and a new approach to structuring information and services to better answer business queries."
+        },
+        {
+            "text": "We launched 100s of new sequential, recyclable snippets and tasks alongside a progressive value exchange guide. That is, a user tells us what they sell, where they sell it or want to sell it. We then produce a page of specific and relevant content that shortcuts the business to the right support in one place. This dynamic, digital self-serve experience helped businesses cut through an often-complex information ecosystem on GOV.UK and elsewhere."
+        },
+        {
+            "text": "The results were clear: a 315% increase in engagement with support content and a 155% increase in direct enquiries. This model became the foundation for business.gov.uk."
+        },
+        {
+            "text": "From February 2025, we worked with DBT teams to understand the needs of businesses at different stages of growth. We built out 3 curated business guides: pre-start, start-up, and established. These guides were shared and shaped with the experts who provide daily support to businesses. This ensured the websites\u2019 self-serve online journeys informed offline interactions with colleagues."
+        },
+        {
+            "text": "The guides successfully launched in July. Collections of accurate and useful content from trusted sources, dynamically adjust based on what a business shares about their location, sector, established date, turnover and exporting experience. Since launch, we\u2019ve already iterated based on user feedback, updating topics such as 'support network\u2019 and \u2018setting up a business\u2019. What\u2019s more, the insights we gather from user behaviour and onward journeys will inform improvement across the GOV.UK platform."
+        },
+        {
+            "heading": 3,
+            "text": "Richard Baines - Technical Lead"
+        },
+        {
+            "text": "Business.gov.uk builds on the technical foundation of great.gov.uk , using the Content Management System (CMS) called Wagtail. Wagtail\u2019s multi-site feature allows for one CMS instance to support multiple sites. This meant we could re-use existing infrastructure and focus on delivering new functionality and the domain change. This aligns with our strategy of reusing where possible or designing for re-use."
+        },
+        {
+            "text": "We scoped the scale of the change and the technical work needed. This involved working across professions to understand the requirements and document the changes needed, ensuring that this did not disrupt the current site. Where possible, we automated processes. The team developed scripts to copy content, update URL structure, and transition references from great.gov.uk to business.gov.uk. These were tested in a pre-production environment before going live."
+        },
+        {
+            "text": "I provided technical input for the team delivering the new functionality for business.gov.uk. This ensured features were designed for re-use and performed well. Before launch we conducted significant load testing to prepare for traffic increase. The reuse-first approach allowed us to deliver the MVP, transition domains, and identify areas for ongoing technical improvement."
+        },
+        {
+            "heading": 3,
+            "text": "Becky Leggett - Delivery Lead"
+        },
+        {
+            "text": "I joined the Portfolio in February 2025, just as the work was gaining momentum.\u00a0 I was pleasantly surprised at how willing the teams were to rally around the work, stepping outside their comfort zones, adapting to new ways of working that took time to optimise, and embracing uncertainty."
+        },
+        {
+            "text": "To make this a success, required support from our colleagues across DDaT.\u00a0 Other teams and portfolios supplied extra people, advice and expertise. The took on parts of the work on our behalf to help us meet the launch deadline."
+        },
+        {
+            "text": "For delivery managers, it was a test of skills to be able to plan with high uncertainty and managing cross-team dependencies and risks. We developed ways to track and monitor progress, and visualise the scale of the work.\u00a0 We successfully supported a large, distributed group, ensuring good working relationships were maintained despite the pace and significant pressures. Our decision-makers played a key role, creating space for fast delivery, even as we created governance mechanisms from scratch. The whole experience was both a well-earned delivery milestone, and an excellent learning opportunity. We gained insights into our product ecosystem, the importance of clearing product debt, and how our catalogue of services and content interlinks. We also learned which delivery practices support fast-paced work, and those which do not. We will apply learnings so that, in the true ethos of continuous improvement, we can continue to achieve great successes like this one.\u00a0"
+        },
+        {
+            "text": "The launch was just the start of our journey. Subscribe to this blog to be notified of the latest progress or reach out to us if you want to keep the discussion going."
+        }
+    ]
+}
