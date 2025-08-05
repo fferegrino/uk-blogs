@@ -1,0 +1,68 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/08/05/standardising-the-planning-application-process-kicking-off-work-on-decisions/",
+    "title": "Standardising the planning application process: Kicking off work on decisions\u00a0",
+    "authors": [
+        "Mike Rose, Data, Licensing and Intellectual Property SME",
+        "Colm Britton, Service Designer and Team Lead",
+        "Liz Whiting, Senior Delivery Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2025-08-05T13:51:05+01:00",
+    "content": [
+        {
+            "text": "Every year thousands of planning decisions are made which shape the future of where we all live, work and visit. They determine which developments are approved and how our places evolve. Yet this crucial data is stored in different ways and in different local authority systems across the country, making it difficult to access and analyse the data, understand patterns, track housing delivery and build new data-driven tools.\u202f\u00a0"
+        },
+        {
+            "text": "That\u2019s why in our last blog post, we set out how we are expanding the scope of our data specification work to cover the whole planning permission process and are beginning to work on standardising planning application decisions. This focuses on the point at which a local planning authority makes a decision, and a decision notice is published.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "This is a crucial next step because it records the outcome of the planning permission process. Aligning submission specifications (input) with decision specifications (output) will encourage a consistent flow of quality data throughout the system.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Key differences in decision specifications\u00a0"
+        },
+        {
+            "text": "While closely aligned with submissions, there are key differences:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why this matters\u00a0"
+        },
+        {
+            "text": "This work matters because standardised decision data serves everyone involved in the planning ecosystem.\u202f\u00a0"
+        },
+        {
+            "text": "It means that:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach\u00a0"
+        },
+        {
+            "text": "We've started by revisiting an early working draft from 2022 and are now drafting a new data model, aligning it with our submission work. Unlike submissions, where we had existing forms to work from, for decisions, we're starting small and only adding elements when a clear need is evidenced.\u00a0"
+        },
+        {
+            "text": "Here are some principles we are following for the decisions specification(s):\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How you can shape this work\u00a0"
+        },
+        {
+            "text": "The benefits of getting this right extend far beyond just having neat and tidy data. Specifications which standardise our decisions data will transform our understanding of how the planning system is working in England and help us all to better understand how our places are changing.\u202f\u00a0"
+        },
+        {
+            "text": "We are kicking off a research project to understand exactly what decision data is needed and how people want to use it. This is where we need your expertise and experience.\u202f Please complete our survey and share your requirements and use cases.\u00a0"
+        },
+        {
+            "text": "We will be discussing the initial findings from the survey in our open data standards community meeting at 10.30am on 20 August. Please register to receive an invite to this session.\u00a0"
+        },
+        {
+            "text": "The best specifications are built with the people who use them, so please keep feeding in your insights \u2013 we're eager to collaborate with you to get this right!\u00a0"
+        }
+    ]
+}
