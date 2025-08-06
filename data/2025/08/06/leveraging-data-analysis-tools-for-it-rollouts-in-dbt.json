@@ -1,0 +1,38 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/08/06/leveraging-data-analysis-tools-for-it-rollouts-in-dbt/",
+    "title": "Leveraging data analysis tools for IT rollouts in DBT",
+    "authors": [
+        "Agnes Coaker, Senior Data Analyst"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-08-06T13:59:16+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Agnes Coaker"
+        },
+        {
+            "text": "Like many other organisations, the Department for Business and Trade (DBT) has been upgrading our laptops to Windows 11, ahead of Microsoft \u2018switching off\u2019 Windows 10 later this year. As part of that project, we needed to replace lots of laptops. If you think that sounds like a funny setup to talk about data analysis tools, you wouldn\u2019t be alone. When I was first asked to help support the project as a data analyst, my first question was \u2018why?\u2019."
+        },
+        {
+            "text": "Well, like many large organisations, we hold lots of data about our staff and the laptops that they have, and some of that data is recorded by hand. For example, when laptops are given out or fixed. Like any manual process, the data that is recorded isn't always perfect. My first job on the project was to help clean it - for example to find the closest office of people who needed a new laptop, so that we could plan the rollout. I also created a dashboard to show the number of laptops replaced each week to help managers to keep track of the project. "
+        },
+        {
+            "text": "We soon found another problem: lots of people didn\u2019t just need (or not need) a new laptop.\u00a0 They had other problems with their laptops, or we weren\u2019t sure whether their laptop needed to be replaced. Things which we couldn\u2019t fix using code, we needed users to tell us. This meant that we couldn\u2019t simply create 2 different email lists and tell one group to get a new laptop and one group not to.\u00a0 Instead, we needed to find a way to get personalised messages to everyone, based on their data."
+        },
+        {
+            "text": "This required looking at their data, identifying if there were any problems, telling them about any of those and whether they needed a new laptop. All without showing them anyone else\u2019s data. Our solution: using the Python Streamlit package to create a dashboard. In particular, we used the get_websocket_headers function to personalise it. This found the identity of whoever viewed the dashboard so that we could filter the data to find theirs and only show them what was relevant."
+        },
+        {
+            "text": "When someone in the department looked at the dashboard, we could find their data, clean it, find any problems and tell them exactly what they needed to know (and nothing else). For example, a user might see a message like:"
+        },
+        {
+            "text": "As any data analyst will tell you, the simpler the result, the harder it is to achieve. That held true here; that simple message belies hundreds of lines of code and complex data manipulation. Although perhaps not a standard application for data analysis tools, our hard work allowed everyone in the department to understand what was required of them with no manual effort by the project team."
+        },
+        {
+            "text": "We will be publishing more about our Windows 11 migration in the coming months."
+        }
+    ]
+}
