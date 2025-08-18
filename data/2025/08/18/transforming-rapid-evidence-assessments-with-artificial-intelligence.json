@@ -1,0 +1,81 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/08/18/transforming-rapid-evidence-assessments-with-artificial-intelligence/",
+    "title": "Transforming Rapid Evidence Assessments with Artificial Intelligence",
+    "authors": [
+        "Alex Lamond, Senior Product Manager",
+        "Adela Iliescu, Data Scientist",
+        "Piotr Pawelek - Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-08-18T13:48:08+01:00",
+    "content": [
+        {
+            "text": "Rapid Evidence Assessments (REAs) are a vital part of decision making in government. They help us validate what we already know and what research is missing on a particular topic. However, DBT found that writing REAs is often resource intensive, costly and time-consuming. This causes delays in policy work and can make it harder to respond quickly to new questions."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge with traditional REAs"
+        },
+        {
+            "text": "The main steps in creating an REA include:"
+        },
+        {
+            "text": "These steps are time-consuming and need specialist skills, so policy teams often can't keep up with demand."
+        },
+        {
+            "heading": 2,
+            "text": "How artificial intelligence is making a difference"
+        },
+        {
+            "text": "We explored how we could use new tools to speed up the process and improve quality. Our efforts centred on the early research phase, which is typically the most time-consuming and offers the greatest potential for efficiency gains. We developed a prototype application capable of searching vast research databases such as OpenAlex."
+        },
+        {
+            "text": "The app uses advanced technology, including Large Language Models (LLMs) to suggest relevant themes, propose a structure for the REA and recommend which academic papers merit closer attention. Users interact with the system by entering a research question and selecting options like date range or whether they prefer open-access sources. The AI identifies and retrieves the most appropriate academic papers. It then provides users with a downloadable table of links and key details to enable the next steps in evidence assessment."
+        },
+        {
+            "heading": 2,
+            "text": "What happens in the background"
+        },
+        {
+            "text": "The prototype operates behind the scenes by searching for research papers that match the entered research question and its generated themes. It refines the results by filtering out any papers that lack an abstract or title and eliminates duplicate entries to streamline the process. Ultimately, it delivers a clear, easy-to-read table that highlights the most relevant research papers for the topic. This entire prototype is hosted on Amazon Web Services (AWS)."
+        },
+        {
+            "heading": 2,
+            "text": "User feedback and future plans"
+        },
+        {
+            "text": "The prototype is currently being tested by selected users in DBT\u2019s Central Analysis Team. The initial feedback has been extremely positive."
+        },
+        {
+            "text": "\u201cThe tool significantly lowers the barrier to running REAs and provides a solid evidence base within minutes.\u201d"
+        },
+        {
+            "text": "Moreover, users were:"
+        },
+        {
+            "text": "\u00a0\u201cvery impressed with the tools ability to drag out the key themes from the question and felt its short summary of what an REA on that subject would look like was always comprehensive and knowledgeable.\u201d "
+        },
+        {
+            "text": "Their feedback will help us decide how to improve the app and whether to roll it out more widely across the department. The aim is to make rapid evidence assessments more accessible for teams, supporting the development of policies informed by the most reliable available evidence."
+        },
+        {
+            "heading": 2,
+            "text": "What this means for you"
+        },
+        {
+            "text": "The delivery of this project marks an important step in using technology to improve public sector work."
+        },
+        {
+            "text": "If you work in research, policy or digital roles, this project may interest you if you:"
+        },
+        {
+            "heading": 2,
+            "text": "Summary"
+        },
+        {
+            "text": "DBT has transformed how we produce Rapid Evidence Assessments. By combining user-friendly digital tools and artificial intelligence, we are helping policy makers and analysts access the evidence they need faster and more efficiently. This work is paving the way for a smarter, more responsive government and we hope it inspires others to join us on this journey."
+        }
+    ]
+}

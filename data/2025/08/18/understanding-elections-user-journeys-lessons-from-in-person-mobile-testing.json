@@ -1,0 +1,80 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/08/18/understanding-elections-user-journeys-lessons-from-in-person-mobile-testing/",
+    "title": "Understanding Elections user journeys: lessons from in-person mobile testing\u00a0",
+    "authors": [
+        "Matt Jefford, User Researcher",
+        "Ellen Murray, User Researcher"
+    ],
+    "categories": [
+        "Elections"
+    ],
+    "pub_date": "2025-08-18T10:51:42+01:00",
+    "content": [
+        {
+            "text": "Since the Covid-19 pandemic, user research in government has largely shifted online. This transition has brought notable benefits, for example in terms of convenience and flexibility, but it has significantly changed the nature of our interactions.\u00a0\u00a0"
+        },
+        {
+            "text": "For our team within Elections Digital, working on initiatives to improve voter registration, the virtual constraints pose specific challenges. Our goal is to assist the estimated 7-8 million UK citizens incorrectly registered to vote, or not registered at all, by making the process simple and accessible. In future, they may be invited to register when using other government digital services. Our statistics show that more than 80% of current users of the GOV.UK Register to Vote service do so on a mobile device. Yet our early usability testing was only conducted remotely, on desktops.\u00a0"
+        },
+        {
+            "text": "We realised that laptop testing restricted our understanding of the mobile-first experience of many citizens interacting with government services. Formatting, accessibility and interaction patterns are missed when viewed through desktop screen sharing. We agreed it was essential to undertake a round of mobile testing for the project.\u00a0"
+        },
+        {
+            "text": "The team initially considered remote mobile testing, where participants shared their phone screens via Microsoft Teams (MS Teams), but we discovered multiple issues:\u00a0"
+        },
+        {
+            "text": "We considered workarounds like tech checks and creating a guide to screen sharing, but ultimately decided the complexity outweighed the benefits. That left the option of in-person testing.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Planning our first in-person usability testing \u00a0"
+        },
+        {
+            "text": "This was the first time anyone in the Elections Directorate had proposed in-person usability testing, and it came with its own risks around logistics, liability and our duty of care to participants.\u00a0"
+        },
+        {
+            "text": "We explored hiring a usability lab \u2013 to access features like eye-tracking and one-way mirrors \u2013 but ultimately opted for MHCLG meeting rooms in Birmingham, which were free and adaptable to our needs. We worked with an external recruiter to enlist participants based on Electoral Commission research into groups least likely to be registered to vote. Recruitment was challenging due to our criteria and a tight 2-week timeline. We scheduled 6 back-to-back sessions on a single day, with alternating facilitators.\u00a0\u00a0"
+        },
+        {
+            "text": "Our designers created prototypes of the communications we would show participants and the service itself, so they could move through with minimal facilitator interference. We created a discussion guide with mobile-specific prompts and contingency plans for technical issues.\u00a0"
+        },
+        {
+            "text": "To reduce technical issues on the day, we decided to use a single personal phone with a proven ability to share to Teams. This allowed us to record sessions and let remote observers watch in real time. We used virtual observer rooms during each test to allow colleagues across the directorate to observe sessions in real time without disrupting the participant (see diagram below).\u00a0\u00a0"
+        },
+        {
+            "text": "Each session involved 2 separate MS Teams meetings: one for the facilitator and participant, and another for observers. A separate, remote facilitator managed both calls, sharing the live session into the observer room, while ensuring observers remained muted and off-camera to minimise distractions."
+        },
+        {
+            "heading": 2,
+            "text": "What happened on testing day \u00a0"
+        },
+        {
+            "text": "On 3 July, we arrived in Birmingham armed with phones, chargers, extension cables and printed materials, ready for all eventualities. We also pre-downloaded the testing materials to laptops in case of wifi issues.\u00a0"
+        },
+        {
+            "text": "Despite a few hiccups with recruitment (always be prepared for late dropouts!) the day ran smoothly. Each session followed a carefully choreographed routine:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned\u00a0"
+        },
+        {
+            "text": "In-person testing offered unique insights into how participants interact with services on mobile:\u00a0"
+        },
+        {
+            "text": "This round of in-person mobile testing reminded us of the value of experimentation and adaptability in user research. Given that most users register to vote on mobile, it felt essential to test the service in that format.\u00a0"
+        },
+        {
+            "text": "In-person testing isn\u2019t a cure-all. It brings logistical complexity and introduces potential biases. Participants may feel compelled to say the \u2018right\u2019 thing to please the interviewer. While we managed to organise this round in 4 weeks, the effort may be too intensive for larger or more geographically diverse studies.\u00a0\u00a0"
+        },
+        {
+            "text": "Similarly, virtual observer rooms offer clear benefits \u2013 such as wider engagement, inclusivity and learning \u2013 but they require additional planning, effort and dedicated facilitation. It\u2019s important to factor in the extra coordination, and people needed to run them effectively.\u00a0"
+        },
+        {
+            "text": "Still, mobile testing of government services is critical to meeting users where they are. Our experience showed the value of reincorporating in-person methods for this testing, alongside the virtual norm. We strongly encourage other researchers to consider how they might once again meet users face-to-face to build more effective services.\u00a0"
+        },
+        {
+            "text": "Follow the progress of the Elections Digital team on the MHCLG Digital blog."
+        }
+    ]
+}

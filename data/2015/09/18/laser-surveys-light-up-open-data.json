@@ -1,0 +1,58 @@
+{
+    "url": "https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-data/",
+    "title": "Laser surveys light up open data",
+    "authors": [
+        "Martin Whitworth"
+    ],
+    "categories": [
+        "agriculture",
+        "Flood",
+        "Waste"
+    ],
+    "pub_date": "2015-09-18T11:05:18+00:00",
+    "content": [
+        {
+            "text": "For the last 17 years the Environment Agency has used lasers to map and scan the English landscape from above to help us carry out work such as flood modelling and tracking changing coastal habitats."
+        },
+        {
+            "text": "This month, for the first time, we are making our LIDAR (Light Detection and Ranging) data available for everyone to use for free. The aim is to help organisations, businesses, and individuals to do everything from manage forests, discover hidden archaeological features, and even create virtual reality worlds for gaming."
+        },
+        {
+            "text": "All 11 terabytes of our LIDAR data (that\u2019s roughly equivalent to 2,750,000 MP3 songs) will eventually be available through our new Open LIDAR portal under an Open Government Licence, allowing it to be used for any purpose."
+        },
+        {
+            "text": "We hope that by giving free access to our data businesses and local communities will develop innovative solutions to benefit the environment, grow our thriving rural economy, and boost our world-leading food and farming industry. The possibilities are endless and we hope that making LIDAR data open will be a catalyst for new ideas and innovation."
+        },
+        {
+            "text": "The Environment Agency Geomatics LIDAR portal has been supplying composite data for the last six years but, with technology moving on and the insatiable appetite for data growing, this was reaching the end of its life. To replace it we had to develop a new way of delivering the data which was completely self service and able to deliver more data to a wider range of people."
+        },
+        {
+            "text": "Behind the scenes we have been working hard on this new service not only to make as much of the data available as rapidly as possible but also to ensure that our system was robust. At 11 terabytes, the total size of our LIDAR datasets made this quite a logistical and technological challenge and, coupled with working to a tight timescale, this has meant rolling out the data in stages."
+        },
+        {
+            "text": "Composite LIDAR data, which is annually updated and brings together all data from the last 17 years, has already been released. Composite data is available at 25cm, 50cm, 1m, and 2m resolutions, which in total covers over 72% of England."
+        },
+        {
+            "text": "The next data to be released will be Tiled LIDAR, which comes from individual dated surveys offering a \u2018snapshot\u2019 of locations at specific times. This will be followed by different data formats in the coming months and finally point cloud data."
+        },
+        {
+            "text": "Our new portal is still a work in progress, and we\u2019re interested in your feedback to see where it is possible to tweak our systems and improve the experience both for existing customers and those who are new to our open data offering."
+        },
+        {
+            "text": "This release comes as part of our wider Open Data plans, and as part of #OpenDefra, in which we are a key part of helping to unlock 8000 datasets across the Defra network. Defra is changing as an organisation; and this is how we will do business in the future."
+        },
+        {
+            "heading": 2,
+            "text": "LIDAR data \u2013 some surprising uses:"
+        },
+        {
+            "text": "You can find further updates through our Twitter or Facebook or contact us at opendata@environment-agency.gov.uk if you have any feedback or suggestions."
+        },
+        {
+            "text": "Martin Whitworth is Deputy Director Data, Mapping, Modelling and Information at the Environment Agency"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
