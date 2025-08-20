@@ -1,0 +1,103 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/08/20/delivering-a-data-standard-to-support-awaabs-law-in-social-housing/",
+    "title": "Delivering a data standard to support Awaab\u2019s Law in social housing\u00a0",
+    "authors": [
+        "The Local Digital team"
+    ],
+    "categories": [
+        "Data",
+        "Local Digital"
+    ],
+    "pub_date": "2025-08-20T13:10:10+01:00",
+    "content": [
+        {
+            "text": "We\u2019re pleased to share a milestone in our social housing data work, the delivery of a new data standard to support Awaab\u2019s Law. In this blog, we explain what we\u2019ve delivered, what we\u2019ve learnt, and how the work will continue with the Housing Associations Charitable Trust (HACT) and Data Futurists. We\u2019ll also share upcoming opportunities for housing associations and councils to explore the standard and its implementation.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The importance of data standards\u00a0"
+        },
+        {
+            "text": "Over the past two years, our research into social housing data has shown how critical data standards are for effective housing services. But also, how a lack of good data standards can make it harder for repairs teams to complete jobs.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Good data means repairs officers have the right information before arriving, such as the materials needed or tenant-specific requirements like hearing impairments. This leads to repairs being completed first time, higher tenant satisfaction, and less costly workarounds.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learnt\u00a0"
+        },
+        {
+            "text": "We\u2019ve found that inefficiencies in data alone can cost housing repairs and allocations an estimated \u00a3400 million every year. This is a conservative figure that excludes other services. Poor data standards can cost large organisations over \u00a31 million when migrating to new systems. According to the Building Research Establishment, the cost of substandard housing is more than \u00a31 billion a year in poor life outcomes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Responding to Awaab\u2019s Law\u00a0"
+        },
+        {
+            "text": "Data standards are not just about efficiency; they are essential for delivering new policy.\u00a0\u00a0"
+        },
+        {
+            "text": "The first phase of Awaab\u2019s Law is expected to come into effect from 27 October. It focuses on tenant-specific vulnerabilities rather than general risk categories. For example, damp and mould are a greater risk to children, the elderly, and people with health conditions like asthma or chronic obstructive pulmonary disease (COPD).\u00a0\u00a0"
+        },
+        {
+            "text": "Many housing providers are finding it difficult to meet the new requirements. Some have chosen to address damp and mould across all properties as a preventative step \u2013 a welcome development. However, these homes will still need future repairs, and it's vital that processes are in place to support Awaab\u2019s Law over the long term. In particular, housing providers must be able to identify and prioritise repair requests that involve vulnerable tenants.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve developed\u00a0"
+        },
+        {
+            "text": "To support this, we worked with HACT to redesign their repair data standards. We developed a new module focused on damp and mould, along with implementation guidance to help housing providers integrate it into their existing systems.\u00a0"
+        },
+        {
+            "text": "The model records key parts of a repair request, including how it is raised, assessed, responded to, escalated, and closed, along with the data collected at each step.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The data model\u00a0"
+        },
+        {
+            "text": "The structure behind the model is shown in an Entity Relationship Diagram, which includes:\u00a0\u00a0"
+        },
+        {
+            "text": "Each part includes data elements that help identify hazards, assess vulnerability, and locate issues.\u00a0"
+        },
+        {
+            "text": "The modular design means housing providers can add components to existing systems, reusing familiar HACT standards for repairs, property, and customer data. This makes it easier to update in future without large system changes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A new approach to policy and data\u00a0"
+        },
+        {
+            "text": "For the first time, a data product has been developed alongside new policy. Our research shows that when legislation is introduced and councils are left to interpret and implement it on their own, it can lead to inefficiencies.\u00a0"
+        },
+        {
+            "text": "Not all housing providers have the data skills to design effective data models. A modular standard that works with existing systems can help avoid workarounds and lead to better results.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Ownership and next steps\u00a0"
+        },
+        {
+            "text": "We\u2019ve worked closely with colleagues at HACT and Data Futurists so they can take this work forward. They manage the existing HACT standards and are best placed to lead the next phase.\u00a0"
+        },
+        {
+            "text": "The current version is a minimum viable product. It is the\u202ffirst working version\u202fof the data standard and includes core features and functionality. HACT and Data Futurists will test and refine the standard with housing providers to make sure it is robust and ready for adoption when Awaab\u2019s Law comes into place. This includes running workshops and putting it through the Data Standard Authority\u2019s endorsement process.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Opportunities to get involved\u00a0"
+        },
+        {
+            "text": "We are planning an in-person workshop in London on 12 September for housing associations and councils. If you'd like to take part, please contact localdigitalpolicy@communities.gov.uk.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ll\u202fallocate places on a first-come basis, making sure there\u2019s a good mix of technical and housing expertise and locations.\u00a0"
+        },
+        {
+            "text": "Follow our channels for the latest updates and opportunities:\u00a0"
+        }
+    ]
+}
