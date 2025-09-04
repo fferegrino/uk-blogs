@@ -1,0 +1,88 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/09/04/what-happens-when-you-apply-to-join-the-register-of-digital-identity-and-attribute-services/",
+    "title": "What happens when you apply to join the register of digital identity and attribute services",
+    "authors": [
+        "John Peart",
+        "Debi Daniels"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity",
+        "Register of digital identity and attribute services"
+    ],
+    "pub_date": "2025-09-04T15:43:24+01:00",
+    "content": [
+        {
+            "text": "Getting onto the\u00a0GOV.UK register of digital identity and attribute services\u00a0is not an automatic process. It can take up to 20 working days for your service to appear on the register. That\u2019s because there are important, human-led review processes that take place after your service is certified. Often those processes aren\u2019t visible to providers who\u2019ve applied to join the register, and that leads to one question:"
+        },
+        {
+            "text": "In this blog post, we\u2019re going to explain how those processes work in practice, why we have them, and how long they take to complete."
+        },
+        {
+            "heading": 2,
+            "text": "Step 1: You get your service certified"
+        },
+        {
+            "text": "Before you join the register, you need to get certified by a conformity assessment body (CAB). We have published a\u00a0list of approved CABs\u00a0that are able to help with that."
+        },
+        {
+            "text": "Your service will be evaluated \u2013 through audits and other testing methods \u2013\u00a0by your CAB against the rules in the\u00a0UK digital identity and attributes trust framework\u00a0and any relevant\u00a0supplementary codes. This process commonly takes around one to two weeks \u2013 though it can be more or less depending on the specifics of your service."
+        },
+        {
+            "text": "After the evaluation is concluded, your CAB will have an internal process to decide whether or not to certify your service. If it decides \u201cyes\u201d, you will be issued with a certificate. You should ask your CAB for an estimate of how long this internal process might take for your service."
+        },
+        {
+            "heading": 2,
+            "text": "Step 2: We validate your certificate"
+        },
+        {
+            "text": "After your CAB has decided to certify your service, it is required to provide a copy of the certificate to OfDIA. It also provides a Certification Feedback Report \u2013 a more detailed record of what is certified and a log of the evidence the CAB used to inform the decision."
+        },
+        {
+            "text": "OfDIA uses this information to validate that the certificate is valid under the certification procedures and to enable you to make an application. If anything looks out of place, OfDIA asks the CAB to double check the certificate and to correct any errors that might have slipped through. This process takes around 5 working days."
+        },
+        {
+            "heading": 2,
+            "text": "Step 3: You make an application"
+        },
+        {
+            "text": "After your certificate has been validated, OfDIA sends an automated email inviting you to apply to have your organisation and service appear on the register.\u00a0"
+        },
+        {
+            "text": "Making an application is fast. You don\u2019t need to input any information: everything is provided to us by your CAB directly when they give us your certificate. All you need to do is review the information that will be published if your application is successful.\u00a0"
+        },
+        {
+            "text": "It takes as little as 60 seconds to review the information and submit the application."
+        },
+        {
+            "text": "If any of your information is wrong, you usually need to contact your CAB, who will update your certificate and resubmit it to us (and we\u2019ll need to review it in OfDIA again).\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Step 4: We review your application"
+        },
+        {
+            "text": "After you have made an application, we in OfDIA review it before you get onto the register. This review is designed to ensure a bad actor doesn\u2019t slip through net and onto the register; jeopardising trust in the ecosystem as a whole. For that reason, two separate members of the OfDIA team are involved in every decision: one to do the initial review and the other to validate it."
+        },
+        {
+            "text": "The review is often very quick \u2013 a matter of hours \u2013\u00a0but we have an internal target of 15 working days within which to complete it."
+        },
+        {
+            "heading": 2,
+            "text": "Step 5: Your service is published on the register"
+        },
+        {
+            "text": "If your application is successful, you will receive an email confirming this. Your service will then be published on the register automatically."
+        },
+        {
+            "heading": 2,
+            "text": "We move as fast as we can"
+        },
+        {
+            "text": "We move as fast as we can once a CAB has issued a certificate for a service and OfDIA has received it, but please allow up to 20 working days before a service is published on the register.\u00a0"
+        },
+        {
+            "text": "If you have any questions about the process, please contact us or your CAB, who will be happy to provide any advice you need."
+        }
+    ]
+}
