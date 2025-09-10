@@ -1,0 +1,66 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/09/10/using-data-brokers-as-authoritative-sources-under-gpg-45/",
+    "title": "Using data brokers as authoritative sources under GPG 45",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2025-09-10T09:00:00+01:00",
+    "content": [
+        {
+            "text": "As part of performing an identity check, digital verification services (DVS) need to verify information that represents the attributes of the person being checked. Often, this is done with reference to an \u201cauthoritative source\u201d. Digital verification services sometimes want to use \u201cdata brokers\u201d for this purpose and we\u2019ve been asked how they should be treated."
+        },
+        {
+            "heading": 2,
+            "text": "What we mean by data broker"
+        },
+        {
+            "text": "A\u00a0data broker\u00a0is an intermediary that\u00a0aggregates data from multiple sources, often including public records, commercial databases, and online activity. In the context of\u00a0digital identity, data brokers may be used to\u00a0verify attributes\u00a0about individuals \u2013\u00a0like their name, address, or financial history \u2013\u00a0by providing access to datasets that support identity checks."
+        },
+        {
+            "text": "Credit reference agencies, identity and fraud analytics companies, and digital verification services themselves are some of the types of companies that can act as data brokers."
+        },
+        {
+            "text": "Data brokers must, of course, comply with UK data protection legislation and so must DVS providers when using them."
+        },
+        {
+            "heading": 2,
+            "text": "A data broker can be used an authoritative source"
+        },
+        {
+            "text": "Whilst lots of organisations could act as a data broker, not all data brokers are authoritative sources."
+        },
+        {
+            "text": "Good Practice Guide (GPG) 45 \u2013 which describes how to prove and verify someone's identity \u2013\u00a0defines what an authoritative source is. It says:"
+        },
+        {
+            "text": "There is nothing in GPG 45 \u2013 or in the trust framework \u2013 that prohibits the use of data brokers as an authoritative source. If a data broker meets the requirements set out in GPG 45, it can be used as an authoritative source."
+        },
+        {
+            "heading": 2,
+            "text": "A single data broker can verify multiple pieces of evidence"
+        },
+        {
+            "text": "Data brokers can usually provide data from multiple places and so a single data broker can act as multiple authoritative sources."
+        },
+        {
+            "text": "For example, a credit reference agency will often have an ability to connect to multiple banks and building societies. If a user had a mortgage with one bank and a credit card with another, and the broker can access that data in a manner that ensures its accuracy and recency, there is no reason why that single broker can\u2019t be used to verify both pieces of information."
+        },
+        {
+            "text": "Additionally, there is no need to make two separate requests of the broker for it to count as multiple authoritative sources. As long as the information is distinct and able to be verified, a broker can provide one, two or dozens of pieces of evidence as part of a single request from an identity service."
+        },
+        {
+            "text": "Whilst data brokers can provide all sorts of data, it\u2019s important for service providers to ensure that only data that is within the scope of GPG 45 is being used for identity checks within a certified service. For example, data brokers can often provide profiling about people based on their internet browsing history; that data can\u2019t be scored as part of GPG 45, so it mustn\u2019t be used for an identity check."
+        },
+        {
+            "heading": 2,
+            "text": "Prepare to justify your approach"
+        },
+        {
+            "text": "When conformity assessment bodies audit services against the UK digital identity and attributes trust framework, they will ask service providers to justify how their service achieves the outcomes it purports to be able to achieve. If they use a data broker, service providers must justify that approach and why they think it\u2019s right. In particular, they\u2019ll need to demonstrate that the information the broker can provide is both accurate and up-to-date."
+        }
+    ]
+}
