@@ -1,0 +1,79 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/09/11/product-managing-the-design-of-sustainable-services-an-odyssey/",
+    "title": "Product managing the design of sustainable services; an odyssey",
+    "authors": [
+        "Lucy Stewart"
+    ],
+    "categories": [
+        "Defra digital",
+        "Digital Sustainability",
+        "Product Management"
+    ],
+    "pub_date": "2025-09-11T14:11:30+01:00",
+    "content": [
+        {
+            "text": "Lucy Stewart is a Product Manager for air quality at Defra. In this blog she reflects on her experience of designing sustainable services, and identifies where product managers can influence how and where we consider environmental impact as we deliver digital products."
+        },
+        {
+            "heading": 2,
+            "text": "Building new air quality services"
+        },
+        {
+            "text": "Since April, I\u2019ve been working as part of Defra\u2019s air quality team. We\u2019re decommissioning UK Air and designing and developing services that are more accessible and which meet user needs. This is important work born out of the tragic death of Ella Adoo-Kissi-Debrah, the first person in the UK to have air pollution listed as a cause of death."
+        },
+        {
+            "text": "Our \u2018Check air quality\u2019 service offers information and guidance to citizens on the quality of ambient (outside) air in locations relevant to them. Our \u2018Get air pollution data\u2019 service enables professionals working in an air quality role to view and download information relating to air pollution."
+        },
+        {
+            "heading": 2,
+            "text": "Air quality, climate change and digital delivery"
+        },
+        {
+            "text": "As the world warms, the quality of our air is further compromised. High temperatures, especially during heat waves, can contribute to increased ground-level ozone and particulate matter. In powering our services, we create emissions and we worsen the quality of our air. While it\u2019s fortunate to be working on a service with direct implications to climate change, it makes the mission of designing a sustainable service no easier or straightforward."
+        },
+        {
+            "text": "Defra is the lead department for digital sustainability and I\u2019ve been working closely with representatives from the Government Digital Sustainability Alliance (GDSA) who work to bring together the UK government, its Information and Communications Technology (ICT), digital supply chain, academics and third sector organisations together to drive progress on the UK governments digital estate."
+        },
+        {
+            "text": "During my time at Defra, I\u2019ve assessed which of the Greener Service Principles are most relevant depending on the stage of delivery. I\u2019ve seen brilliant examples of AI being used to support farmers to find the right funding, understand eligibility, and navigate regulations all while reducing the total environmental impact of the service. I\u2019ve also learned more about the \u2018minimise compute' philosophy which aims to aggressively mitigate carbon emissions by treating compute as a privilege, not a right and I\u2019ve been privy to attempts to incorporate sustainability into the service standard."
+        },
+        {
+            "text": "Hosting and processing are areas in the delivery of digital services with a large environmental impact that teams should seek to reduce. But doing this can feel hard and disempowering as it is largely left up to the companies we commission to store, process and expose data to allow users to use it in the way they need. These entities often obfuscate metrics and collaborating openly remains challenging. Good examples from the likes of GOV.UK (e.g. One Login: Advancing digital sustainability in government case study) highlight the collective effort and time taken to baseline sustainability metrics but demonstrates the huge gains from using a baseline to pinpoint areas of service optimisation that can really drive digital sustainability gains as well as improve efficiency and save money."
+        },
+        {
+            "heading": 2,
+            "text": "How to design sustainable services while gathering metrics for measurement"
+        },
+        {
+            "text": "While it\u2019s useful to gather metrics and influence \u2018slow burn\u2019 opportunities where possible, what other aspects of design can be used to deliver sustainable services in government departments?"
+        },
+        {
+            "heading": 3,
+            "text": "Contracts"
+        },
+        {
+            "text": "Accountability for how we operate and what we consume is a key component of sustainability. Understanding what stage your service is at in its contract can help make delivery more sustainable. At Defra, social value and sustainability metrics are included in the evaluation of new suppliers. Suppliers need to demonstrate how they will reduce carbon in their design and delivery and also adapt their delivery to address emerging climate risks. Suppliers are required to ensure their responses were tailored to the service in question and it\u2019s brilliant that adaptation is a metric at all! Our team have designed contracts to broaden the applicant pool and enable a diverse range of bidders, which I believe will have a positive impact on sustainability reporting."
+        },
+        {
+            "heading": 3,
+            "text": "Budgets"
+        },
+        {
+            "text": "Considering sustainability is a long term, ever weaving exploration, we should prioritise work to embed it. With a new budget cycle in mind, we worked to ensure sustainability was a written line in that budget. The number isn\u2019t huge, and at the moment it's ambiguous as to what it will be spent doing, but it\u2019s there, protected and allocated. Convincing budget holders to keep sustainability as a line even when under financial pressure felt like a big win."
+        },
+        {
+            "heading": 3,
+            "text": "Relationships"
+        },
+        {
+            "text": "There are a lot of impassioned and empowered people looking at sustainability across government and within digital delivery teams. The mission is to find them and work with them. Ask them where there are opportunities to influence design for a more positive environmental impact. At Defra we have a wonderful digital sustainability team who conduct sustainability assessments of services. It\u2019s necessary for all of us to learn from others who have way more technical expertise and experience navigating the entrails of government."
+        },
+        {
+            "heading": 3,
+            "text": "Effort"
+        },
+        {
+            "text": "People gather when you're consistent in showing up. If you're going to make sustainability your mini mission, keep placing time in diaries to talk about it. This isn\u2019t about coming with answers but about asking questions. Importantly these meetings allow me to talk to the team about sustainability and encourage them to come along on the journey. If it\u2019s a product manager's role to take a direction and bring a concept to life, we need to inspire people to care and consider sustainability in their role and work."
+        }
+    ]
+}

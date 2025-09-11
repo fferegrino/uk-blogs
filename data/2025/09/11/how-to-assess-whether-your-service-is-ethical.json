@@ -1,0 +1,77 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/09/11/how-to-assess-whether-your-service-is-ethical/",
+    "title": "How to assess whether your service is ethical",
+    "authors": [
+        "Daniel Guy"
+    ],
+    "categories": [
+        "Our services",
+        "User Centred Design"
+    ],
+    "pub_date": "2025-09-11T11:20:04+01:00",
+    "content": [
+        {
+            "text": "Here at the Ministry of Justice (MoJ), myself and a group of User Centred Design professionals have been exploring how to make ethics a practical part of the design process. As designers our job is to make sure our services meet user needs, solve a whole problem, and make sure everyone can use our services. Now that technology is changing the way we live more than ever, it is important that we develop ways of assessing whether we are designing the right technologies in the right ways.\u202f\u202f\u202f\u202f\u00a0"
+        },
+        {
+            "text": "The MoJ includes a range of bodies and agencies such as HM Prisons & Probation, HM Courts & Tribunals, and Justice Services which covers the Criminal Injuries Compensation Authority, Legal Aid Agency, and Office of the Public Guardian alongside various arms-length bodies and support organisations.\u00a0"
+        },
+        {
+            "text": "These services often support people in vulnerable and challenging circumstances. That is why it\u2019s vital for digital teams to consider not just user needs, but also the physical, emotional, and social contexts in which people interact with our services.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Searching for an Ethics Tool\u00a0"
+        },
+        {
+            "text": "We explored several existing tools, including Spotify\u2019s Ethics Assessment, which prompts teams to consider how their product or service might cause harm. After comparing it with other resources, we adapted it for digital teams at MoJ and across government and follows our standards and principles of re-use. Point 13 of the Service Standard, use and contribute to open standards, common components and patterns encourages us to look beyond government for things that are tried and tested that we can re-use and therefore not duplicate work.\u00a0\u00a0"
+        },
+        {
+            "text": "We tailored the tool to better reflect our context, refining the risk categories and adjusting the scoring system to avoid neutral results. This helps teams focus on what matters most and prevents arbitrary decisions.\u00a0"
+        },
+        {
+            "text": "The tool is similar to consequence scanning but more structured. Instead of open-ended questions, it starts with predefined risks and asks teams to explore how their service might lead to them. It\u2019s designed to surface potential harms and guide mitigation, not replace consequence scanning. Ideally, teams would use both methods at different stages.\u00a0"
+        },
+        {
+            "text": "While consequence scanning fits into agile workflows, the ethics assessment can be run once per phase such as at the start or end of Alpha depending on when it offers the most value.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the Tool Works\u00a0"
+        },
+        {
+            "text": "The assessment is made up of three sections; one section for physical, emotional, societal consequences.\u202f\u00a0"
+        },
+        {
+            "text": "\u202fEach section is split into 6 columns:\u202f\u00a0"
+        },
+        {
+            "text": "The first column is a list of consequences that we want to avoid.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "The second column invites you to consider how your service could lead to that consequence.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "The next three columns are for scoring (a) the chance of that consequence happening, (b) the level of concern about that consequence happening, and (c) an overall \u2018risk score\u2019.\u202f\u00a0"
+        },
+        {
+            "text": "The final column is for writing down actions. This could be a solution that you come up with on the spot, but more realistically it will be to create a task or investigate the issue further. If it\u2019s something with a high-risk score, you might even consider focusing a design sprint on the issue.\u202f\u00a0"
+        },
+        {
+            "text": "\u202f\u00a0The tool can be used in remote sessions, or in person sessions, and can be adapted to meet your team\u2019s needs. The outputs you get are likely to vary significantly depending on what your service does, who uses it, which phase of delivery you are at and how information is stored and used. You might end up grouping issues, coming up with ideas of how to mitigate them, or focusing on one area to improve.\u202f\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Try It Yourself\u00a0"
+        },
+        {
+            "text": "Here is what our MoJ Ethics Assessment tool looks like \u00a0to give you an idea of how to run an assessment, we have trialled it across several MoJ teams and found it valuable for surfacing risks and guiding design decisions."
+        },
+        {
+            "text": "If you\u2019d like to run an ethics assessment in your team, get in touch with me at Daniel.Guy@justice.gov.uk\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Let us know if you are doing something similar, we would love to hear from you.\u00a0"
+        }
+    ]
+}
