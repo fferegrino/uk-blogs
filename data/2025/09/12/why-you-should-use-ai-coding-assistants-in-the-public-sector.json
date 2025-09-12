@@ -1,0 +1,86 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/09/12/why-you-should-use-ai-coding-assistants-in-the-public-sector/",
+    "title": "Why you should use AI coding assistants in the public sector\u00a0",
+    "authors": [
+        "Office of the Chief Technology Officer, GDS"
+    ],
+    "categories": [
+        "News"
+    ],
+    "pub_date": "2025-09-12T10:08:31+01:00",
+    "content": [
+        {
+            "text": "AI coding assistants (AICAs) are designed to support a wide range of tasks, including generative code completion, code improvement suggestions, error detection and correction, and even documentation. They allow developers to focus their time on tasks which require more human oversight and thinking, with previous studies presenting solid evidence to support this, such as the Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers."
+        },
+        {
+            "text": "Amongst the many benefits AICAs offer, their specific use case in the public sector wasn\u2019t fully explored. This is why the Engineering Excellence team at the Government Digital Service (GDS) designed the cross-government AICA trial in order to surface real, measurable metrics that can be applied across the entire public sector and beyond.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The GDS AICA trial"
+        },
+        {
+            "text": "The primary goal of our AICA trial was to develop a robust and unbiased evidence base of the value these tools could bring, and the results have allowed us to discover insights that will be vital in helping government organisations streamline procurement processes, reduce duplication of effort, and improve their overall IT strategy."
+        },
+        {
+            "text": "The trial began in July 2024, when we identified GitHub Copilot and Gemini Code Assist as suitable tools for the purposes of the trial at the time, although there are other, similar coding assistants that now meet the same requirements.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The results"
+        },
+        {
+            "text": "This trial lasted for 3 months, during which we provided support for the deployment, user engagement, and adoption of these tools."
+        },
+        {
+            "text": "In total, we distributed 1900 trial licences across more than 50 UK public sector organisations, and recorded the impact of these AICAs using a combination of surveys and tool usage data. "
+        },
+        {
+            "text": "These metrics included:"
+        },
+        {
+            "text": "As an overview of our results, users reported an average of 56 minutes saved per working day, or 28 working days saved per user annually.\u00a0"
+        },
+        {
+            "text": "Users enjoyed taking part in the trial. One Data Scientist from NHS England reported"
+        },
+        {
+            "text": "For the full write-up of the trial including its methodology and limitations, see the AI Coding Assistant trial in the UK Public Sector. "
+        },
+        {
+            "heading": 3,
+            "text": "Building your business case"
+        },
+        {
+            "text": "Following the trial, our aim is to support the adoption of AI coding assistants across the public sector."
+        },
+        {
+            "text": "Organisations cannot fully invest in tools without understanding return of investment in both resources and value for money, and the evidence we\u2019ve produced from our AICA trial will serve as the backbone of these future business cases. \u00a0"
+        },
+        {
+            "text": "So, how can you create your own business case? Your first step should be to engage with stakeholders and discuss your project to understand where AI coding assistants will best improve productivity. For example, if your developers spend a lot of time creating documentation, you now know that AICAs can assist with this task."
+        },
+        {
+            "text": "Your business case must also clearly outline the return on investment in both resources and costs that an AICA will bring, which will help decision makers to approve your case. See the AI Coding Assistant trial in the UK Public Sector  for an example."
+        },
+        {
+            "text": "For more information, you should refer to the AI Playbook for the UK Government and its section on buying AI which outlines all of the information about building business cases you\u2019ll need to know."
+        },
+        {
+            "text": "The Guidelines for AI Procurement also provides best practise for acquiring AI tools."
+        },
+        {
+            "heading": 3,
+            "text": "Looking forward"
+        },
+        {
+            "text": "One of the key outcomes of this trial will be a comprehensive review of how AICA can fit into government digital strategies, which could lead to an update of central government IT usage policies on AICAs. As these tools have the potential to transform the full software development lifecycle and the profession itself, we aim to support public servants in this change with consistent engagement and guidance on when and how to incorporate AI-powered tools into development processes.\u00a0"
+        },
+        {
+            "text": "In the future, we will be looking at other AICAs available in the market, including open source alternatives to test their use in remediating legacy systems and for training up new developers."
+        },
+        {
+            "text": "If you want to hear more about our project and our work with AICAs, you can contact our team at gdsengineeringexcellence@dsit.gov.uk."
+        }
+    ]
+}
