@@ -1,0 +1,95 @@
+{
+    "url": "https://sustainableict.blog.gov.uk/2025/09/17/ais-thirst-for-water/",
+    "title": "AI\u2019s thirst for water\u00a0",
+    "authors": [
+        "Rich Kenny",
+        "Avinash Lunj",
+        "Alexandra Kis"
+    ],
+    "categories": [
+        "GDSA",
+        "Planetary Impact",
+        "Sustainable ICT"
+    ],
+    "pub_date": "2025-09-17T14:59:06+01:00",
+    "content": [
+        {
+            "text": "Alexandra Kis (Cognizant) and Avinash Lunj (Sopra Steria) are members of the Government Digital Sustainability Alliance (GDSA) Planetary Impact working group, which Rich Kenny (Interact).\u00a0is the co-chair of. \u202f\u00a0"
+        },
+        {
+            "text": "The views in this post represent their own and not the UK government\u2019s.\u202f\u00a0"
+        },
+        {
+            "text": "The rapid growth of artificial intelligence (AI) in recent years has transformed how we work, communicate and access information. While much attention focuses on the electricity consumption of data centres, a less visible but equally significant environmental concern is emerging AI's substantial water usage.\u00a0\u00a0"
+        },
+        {
+            "text": "A recent report from the Government Digital Sustainability Alliance (GDSA) examines in detail the water consumption associated with AI and data centres.\u00a0"
+        },
+        {
+            "text": "The scale of AI's water consumption\u00a0"
+        },
+        {
+            "text": "Every interaction with AI systems requires water to keep the technology running. GPT-3, the large language model (LLM) which was developed and then simplified to create ChatGPT three years ago, used 700,000 litres of water during it\u2019s \u2018pre-training\u2019 phase\u00a0\u00a0"
+        },
+        {
+            "text": "The Government Digital Sustainability Alliance\u2019s (GDSA) report highlights that AI is predicted to lead to an increase in global water usage from 1.1bn to 6.6bn cubic metres by 2027. This is equivalent to more than half of the UK\u2019s total water usage.\u00a0\u00a0"
+        },
+        {
+            "text": "Why AI needs so much water\u00a0"
+        },
+        {
+            "text": "AI systems use water in three main ways:\u00a0"
+        },
+        {
+            "text": "Unfortunately, the water used for cooling cannot easily be reused. Fresh water that doesn't evaporate becomes contaminated with dust, minerals, or chemicals, making it unsuitable to reuse for cooling again.\u00a0\u00a0"
+        },
+        {
+            "text": "However, this wastewater can be treated to meet environmental standards and either released into local bodies of water or reused for irrigation and toilet flushing. In addition, innovative technologies such as liquid immersion cooling and free cooling are addressing the direct water use and help to alleviate the need for fresh water.\u00a0\u00a0"
+        },
+        {
+            "text": "Operational water usage in a data centre (Li et al.)"
+        },
+        {
+            "text": "The environmental challenge"
+        },
+        {
+            "text": "Although water covers 71% of Earth\u2019s surface, only 0.5% is available freshwater. As water demand increases, water scarcity and water stress are becoming an increasing challenge."
+        },
+        {
+            "text": "The World Economic Forum Report on Global Risks identifies \u2018adverse impacts of AI technologies\u2019 and \u2018Biodiversity loss and ecosystem collapse\u2019 as significant risks in the next 10 years."
+        },
+        {
+            "text": "The water demand of AI technologies is likely to threaten global and national water security, especially in areas of existing water stress, which can in turn threaten the biodiversity of local areas and the needs of human populations."
+        },
+        {
+            "text": "Demand for fresh water is expected to exceed supply by 40% by the end of the decade and 55% of global data centres are in river basins with high risk of water pollution, meaning much of the local water may be unsafe for use, increasing the pressure on clean water supplies and worsening the overall water scarcity in the regions."
+        },
+        {
+            "text": "Nearly 68% of data centres are near protected areas or Key Biodiversity Areas which rely on clean water supplies for the health of the ecosystems and communities that depend on them. Without it, these areas face greater risks of habitat loss, species decline, and reduced capacity to support both nature and people."
+        },
+        {
+            "text": "Recent European Union legislation now requires data centres to report their annual freshwater consumption, reflecting the growing awareness of the environmental impacts."
+        },
+        {
+            "text": "Building sustainable AI"
+        },
+        {
+            "text": "To reduce the environmental impacts of AI we can consider mitigation measures which include:"
+        },
+        {
+            "text": "More detail on the above and further mitigation measures are included in the full report."
+        },
+        {
+            "text": "Moving forward"
+        },
+        {
+            "text": "AI has potential to address challenges in healthcare, inequality and climate monitoring. However, these benefits must be weighed against the full environmental impact of building and running AI systems. This requires development of a comprehensive and transparent series of metrics that include, carbon emissions, energy consumption, water usage, biodiversity and social impact. Only by looking at AI through these combined lenses can we ensure it delivers net benefit rather than widening inequality or disproportionately impacting communities and regions."
+        },
+        {
+            "text": "By prioritising sustainable development practises, we can harness AI\u2019s transformative power while protecting the water resources that communities and ecosystems depend on."
+        },
+        {
+            "text": "For more detailed information and guidance, read the full GDSA report on water use in AI and data centres."
+        }
+    ]
+}
