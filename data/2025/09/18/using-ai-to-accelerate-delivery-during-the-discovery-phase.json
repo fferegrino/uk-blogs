@@ -1,0 +1,142 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/09/18/using-ai-to-accelerate-delivery-during-the-discovery-phase/",
+    "title": "Using AI to accelerate delivery during the discovery phase",
+    "authors": [
+        "Jenny Taylor",
+        "Zoe Wilkins",
+        "Chris Leo"
+    ],
+    "categories": [
+        "AI"
+    ],
+    "pub_date": "2025-09-18T10:28:51+01:00",
+    "content": [
+        {
+            "text": "Jenny Taylor, Delivery Group Lead within Digital, Data, Technology and Security (DDTS) at Defra, Zoe Wilkins, Delivery Manager and Chris Leo, Head of User-centred Design Assurance, share how they are making the most of artificial intelligence (AI) to accelerate delivery in their area."
+        },
+        {
+            "text": "We are proud to be part of a group that\u2019s driving digital innovation to support environmental outcomes by exploring how AI tools and practices can help us move faster, without compromising on quality."
+        },
+        {
+            "text": "One of our most recent ventures is a discovery phase within a programme that demands cross-department collaboration bringing policy, legislation, operations, and digital services together in a truly multidisciplinary way."
+        },
+        {
+            "heading": 2,
+            "text": "How AI is supercharging our discovery phase"
+        },
+        {
+            "text": "The digital team are currently in the discovery phase. We've been on an exciting journey as part of a pilot to explore how AI can enable our work."
+        },
+        {
+            "text": "It's been a fascinating six weeks, and we want to share some of our key lessons learned, both the highs and the hurdles, so other teams can benefit from our experience."
+        },
+        {
+            "text": "From the very beginning, we had a strong foundation and clear objectives that included specific AI deliverables, which helped us stay focused. The support from Defra's AI Capability and Enablement (AI CE) team was invaluable. They gave us a solid starting point with sessions on AI ways of working, the AI SDLC and approved tools, and a fantastic prompt masterclass."
+        },
+        {
+            "text": "A real game-changer was having our user centred design lead, Paul, embedded with the AI CE team for a month before our project officially started. This gave us a head start and really jump-started the team's enthusiasm for AI."
+        },
+        {
+            "heading": 2,
+            "text": "Our first foray into AI"
+        },
+        {
+            "text": "In the early weeks, we discovered some incredible uses for AI."
+        },
+        {
+            "heading": 4,
+            "text": "Deep research assistant"
+        },
+        {
+            "text": "AI tools have been amazing at helping us rapidly search public government information to understand complex topics and create initial process flows. This meant we never went to a stakeholder meeting with a blank page, making the most of their valuable time."
+        },
+        {
+            "text": "Our tech lead, Ali, was able to pull out key stats and information in a matter of hours, a task that would have taken days without AI."
+        },
+        {
+            "heading": 4,
+            "text": "Drafting user research materials"
+        },
+        {
+            "text": "For our user-centred design work, AI was a huge help. It let us quickly generate draft user profiles and discussion guides based on prior research, which we are now validating with real users. This saved us a significant amount of time."
+        },
+        {
+            "heading": 2,
+            "text": "The reality check"
+        },
+        {
+            "text": "While AI has been a powerful accelerator, we quickly learned that it's not a silver bullet. It is not suitable (yet) for tasks like stakeholder mapping, planning, or managing risks and issues (RAIDs). It's a great assistant, but it can't replace critical thinking and expertise."
+        },
+        {
+            "text": "We also found that not all AI tools are created equal. While we have access to MS365 CoPilot, we've found that other tools sometimes produce better outputs. Additionally, tools like Google and OpenAI have limitations on the amount of data they can analyse, making them useful for analysing smaller datasets (around 50 records) but not for large-scale analysis. The classification of documents also had an impact on the tools we used\u2013for most tools only documents classified up to \u2018Official\u2019 could be analysed. When using M365 CoPilot, which is accessed through our Defra laptops, we could analyse documents up to and including \u2018official-sensitive\u2019."
+        },
+        {
+            "heading": 2,
+            "text": "Our secret"
+        },
+        {
+            "text": "What really made the difference was our team's way of working."
+        },
+        {
+            "text": "We created a shared prompt library and encouraged everyone to share their learnings. This collaborative approach meant that a great prompt created by our user-centred design guru could be tweaked and reused by our product manager."
+        },
+        {
+            "text": "We also kept a running tally of our AI learnings in a Mural board, capturing prompts, outputs, time saved, and challenges. We shared these insights weekly with the AI enablement team."
+        },
+        {
+            "text": "In our show and tells, we\u2019ve been transparent with our stakeholders, highlighting which items were accelerated by AI and what challenges we faced. This transparency led to stakeholders asking for their own AI tips, so we started including them in our show and tells too!"
+        },
+        {
+            "heading": 2,
+            "text": "A note of caution"
+        },
+        {
+            "text": "Our biggest challenge came from MS Teams transcriptions. We learned the hard way that they're not always accurate. This is why we've made it a rule: always manually check transcriptions for errors before using them with any AI tool. We also make sure we check any AI outputs for accuracy too."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learned"
+        },
+        {
+            "text": "We have been working closely with colleagues in user centred design assurance throughout delivery to ensure we are applying agile methods effectively, and exploring how to integrate AI responsibly. Here are some of the most important lessons we\u2019ve learned."
+        },
+        {
+            "heading": 4,
+            "text": "Pace"
+        },
+        {
+            "text": "AI-enabled teams can only move as quickly as the delivery processes that support them. In our case, the established user research recruitment processes had to adapt to handle new AI-specific artefacts, such as updated consent forms for participants whose data would be processed by AI. This highlights the importance of aligning supporting processes with new ways of working if the benefits of AI are to be realised at pace."
+        },
+        {
+            "heading": 4,
+            "text": "Traceability"
+        },
+        {
+            "text": "We are building clear traceability to show how an AI reaches its conclusions to manage the risk of automation complacency, where automated outputs are accepted without questioning how they were generated."
+        },
+        {
+            "heading": 4,
+            "text": "Efficiency"
+        },
+        {
+            "text": "One emerging observation is that the work is surfacing opportunities to make some of the wider organisational processes more efficient. These learnings could be as valuable as the technology itself in improving delivery outcomes."
+        },
+        {
+            "heading": 4,
+            "text": "Measurement"
+        },
+        {
+            "text": "Ultimately, the success of this AI-assisted approach will be measured not by speed but by whether the findings genuinely reflect the user\u2019s reality. Every insight must be linked back to what a user actually said, ensuring we are amplifying the user\u2019s voice rather than producing an output that only appears accurate."
+        },
+        {
+            "heading": 2,
+            "text": "The big takeaway"
+        },
+        {
+            "text": "Our experience has shown us that AI is an incredible tool for accelerating specific parts of the discovery process, especially research and understanding of the problem space and policy intent. The key is to see it as a powerful assistant, not a replacement for human judgment."
+        },
+        {
+            "text": "By combining the right tools with a collaborative mindset and a strong human-in-the-loop approach, we've been able to make our discovery phase more efficient and effective."
+        }
+    ]
+}

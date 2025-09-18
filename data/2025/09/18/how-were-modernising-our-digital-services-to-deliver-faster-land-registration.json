@@ -1,0 +1,78 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2025/09/18/how-were-modernising-our-digital-services-to-deliver-faster-land-registration/",
+    "title": "How we're modernising our digital services to deliver faster land registration",
+    "authors": [
+        "Sophie Rikards, DDAT Digital Product Team"
+    ],
+    "categories": [
+        "Digital services"
+    ],
+    "pub_date": "2025-09-18T09:55:13+01:00",
+    "content": [
+        {
+            "text": "The recent news that we passed our target for reducing the age of our oldest cases is a major achievement for the organisation. To go further, we're accelerating our digital transformation to give customers faster, more efficient services whilst reducing the age of unprocessed applications.\u00a0"
+        },
+        {
+            "text": "We are working to make land registration more efficient and resilient by using digital tools and improving our processes. From the moment customers start working on an application to the point it's completed by HM Land Registry, we're ironing out inefficiencies to deliver a better, faster service.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Improving our own systems and processes"
+        },
+        {
+            "text": "We've made significant progress in speeding up our services through automation. While speed is our priority, we are also always conscious of the integrity of the register so we are rolling this automation out carefully across different types of application. We've fully automated several types of the simpler applications (e.g. removing a deceased owner\u2019s name from the register) and introduced elements of automation throughout many others. This includes automating 30,000 additional Charge applications in the last financial year.\u00a0\u00a0"
+        },
+        {
+            "text": "We will be expanding our internal automation, bringing more types of application into our Application Processing engine. This not only speeds up those applications but also frees up our caseworkers to focus on other, complex applications like First Registrations or leases. This in turn results in much quicker completion times and reduces the overall age of unprocessed applications.\u00a0"
+        },
+        {
+            "text": "However, to unlock even greater speed improvements, we need to reduce the number of applications that require manual checking due to simple errors. That's why we're implementing mandatory digital checks across all our digital channels.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Adding digital checks to our Registration Service"
+        },
+        {
+            "text": "We've built a new application system that performs digital validation checks on all applications submitted through Business Gateway. These checks are already completed in our web service, DRS, so this change brings parity to our registration service irrespective of the channel used. This technology quickly catches errors before applications are submitted, preventing delays and requisitions that slow down the process. A full list of what these digital checks will be looking for is covered in our online guidance.\u00a0"
+        },
+        {
+            "text": "By 2028 this could save customers an estimated 300,000 hours a year, waiting for an unnecessary, manual, administrative process, and end avoidable requisitions that can be resolved much earlier. This is roughly 150 people, working full time, for a year.\u00a0\u00a0"
+        },
+        {
+            "text": "We're already testing this new Registration Service with early adopters before a wider rollout this autumn/October. Contact your software provider, or in house tech-teams, to discuss when this service will be available for your teams.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making portal easier for customers"
+        },
+        {
+            "text": "We have enhanced the Digital Registration Service (DRS) on our portal, with additional digital checks for Adding Additional Parties (Transferors, Landlords and Tenants), making it easier for customers to submit accurate applications first time, which speeds up processing.\u00a0"
+        },
+        {
+            "text": "We are also enhancing DRS on portal to ensure that all customers can submit digital applications, with new functionality like small scale applications (with 26-199 titles) and additional transaction types\u202fbeing added in the next few months. In talking to customers, we know that DRS hasn\u2019t supported some of the less common application types.\u00a0\u00a0"
+        },
+        {
+            "text": "Once these elements have been added to DRS we will then begin the process of decommissioning our older, legacy application services like eDRS by Spring 2026.\u00a0We will be reaching out to the small group of customers who use the service in the coming months.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s happening with Qualified Electronic Signatures?"
+        },
+        {
+            "text": "Finally, we have also expanded our work on Qualified Electronic Signatures (QES), working with lenders and others in the market to ensure we can process electronically signed deeds. This technology uses long-established, well-regulated technology and promises greater flexibility and simplicity for our customers and their clients.\u00a0\u00a0"
+        },
+        {
+            "text": "We are encouraging customers who are able to use QES now to get in touch and help us manage the initial applications we receive.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Delivering faster service for everyone"
+        },
+        {
+            "text": "I wanted to end by quoting Mark Gray, our Chief Transformation & Technology Officer:"
+        },
+        {
+            "text": "These changes will reduce processing times, improve application quality, and give HM Land Registry greater capacity to handle fluctuations in demand \u2013 ensuring consistent, fast service even during busy periods."
+        }
+    ]
+}
