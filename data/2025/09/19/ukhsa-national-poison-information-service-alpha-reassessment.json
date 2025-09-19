@@ -1,0 +1,390 @@
+{
+    "url": "https://digitalhealth.blog.gov.uk/2025/09/19/ukhsa-national-poison-information-service-alpha-reassessment/",
+    "title": "UKHSA National Poison Information Service\u00a0Alpha Reassessment",
+    "authors": [
+        "Man-Yee Lam"
+    ],
+    "categories": [
+        "Alpha",
+        "Assurance",
+        "Service assessments"
+    ],
+    "pub_date": "2025-09-19T15:45:21+01:00",
+    "content": [
+        {
+            "text": "From:\u00a0DHSCAssessment date:\u00a025/01/2024Reassessment date: 02/05/2024Stage:\u00a0Alpha reassessmentResult:\u00a0Met at reassessmentService provider:\u00a0UKHSA"
+        },
+        {
+            "heading": 2,
+            "text": "Service description\u00a0"
+        },
+        {
+            "text": "The National Poisons Information Service (NPIS) is a 24/7 phoneline that healthcare practitioners can call for bespoke advice on suspected poisoning.\u00a0\u00a0"
+        },
+        {
+            "text": "The Product Data Centre (PDC) is one of an ecosystem of tools and services which support the Specialists in Poison Information (SPIs) who answer the phoneline. The PDC holds information on products and their ingredients, supplied by industry.\u00a0"
+        },
+        {
+            "text": "The focus of this discovery and alpha is the database of over 300,000 household and industrial products and their corresponding safety data sheets which are used by SPIs to identify a product and its ingredients during calls and to support the creation of healthcare guidance.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Service users\u00a0"
+        },
+        {
+            "text": "Service users are Specialists in Poison Information (SPIs) who input data, create guidance and take calls.\u00a0\u00a0"
+        },
+        {
+            "text": "Industry professionals who either wish to, or are mandated to, (in Northern Ireland) supply product ingredient information.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Report contents"
+        },
+        {
+            "heading": 2,
+            "text": "1. Understand users and their needs\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 1 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "2. Solve a whole problem for users\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 2 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "\u00a0Decision\u00a0"
+        },
+        {
+            "text": "The service did not meet point 3 of the Standard.\u00a0"
+        },
+        {
+            "text": "The panel was not able to assess point 3 properly for the following reasons:\u00a0"
+        },
+        {
+            "text": "\nReassessment\nDecision\n\nThe service did meet point 3 of the Standard.What the team has done well\u00a0 The panel was impressed that:\u00a0\nthe team has utilised service design thinking and techniques to investigate and test assumptions around the interoperability of the service within the existing ecosystem, and have iterated the MVP to reflect their findings\u00a0\nthe team has engaged with wider comms teams to develop onboarding comms, and have been testing and iterating the content\u00a0\nthe team has identified an assisted digital route for the service\u00a0\u00a0\u00a0\n\n"
+        },
+        {
+            "heading": 2,
+            "text": "4. Make the service simple to use\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 4 of the Standard.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service did not meet point 5 of the Standard.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before moving into private beta the team needs to:\u00a0"
+        },
+        {
+            "text": "\n\nReassessment Decision\u00a0The service met point 5 of the Standard.\u00a0What the team has done well\u00a0The panel was impressed that:\u00a0\nthe team has developed an ambitious plan for testing with a wide range of users prior to private beta\u00a0\nthe team has undertaken some user research with individuals with English as a second language (ESL), albeit proxy users \u00a0\u00a0What the team needs to explore\u00a0Before their next assessment, the team needs to:\u00a0\nconduct significantly more user research with users with low digital literacy, ESL, accessibility needs. Having the plan is great but you must stick to it to ensure the service is meeting user needs and to support team success at beta assessment\u00a0\nstrive to include individuals with accessibility needs, ESL and low digital literacy in every round of user research where possible. Your proposed plan appears to give a relatively short period of time to focusing on these individuals, they should feature throughout all your research and be a constant consideration in recruitment\u00a0\namend your research plan considering pre-election period\u00a0\ninform the DHSC digital assurance team to help with designing a more realistic plan if you feel that you cannot deliver against your user research plan in the timeframe stated\u00a0\u00a0\nensure that you are aware of, and working to confirm or disprove, your riskiest assumptions about your user group and the service you are creating\u00a0\u00a0\u00a0\nensure that the service you are creating caters to the needs of a broad range of users. It may appear that the user group is highly digitally literate at present, but this is not a certainty, nor will it necessarily be the case for all future users. The service should be designed for those with the most complex needs with regards to literacy, ESL, accessibility. If the service meets the needs of these users, it will meet the needs of the average user\u00a0\nkeep in mind that an individual's self-assessment of their digital literacy is not an accurate measure of their actual ability\nmake use of recruitment approaches beyond agencies, particularly if this route is delaying your research. There was a mention of using charities to recruit individuals with accessibility needs, this can often be a very fruitful approach and would be worth exploring. Ensure that you can show the panel at the beta assessment that you are doing all you can to recruit appropriate participants\n\n"
+        },
+        {
+            "heading": 2,
+            "text": "6. Have a multidisciplinary team\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 6 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "7. Use agile ways of working\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 7 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "8. Iterate and improve frequently\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 8 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "9. Create a secure service which protects users\u2019 privacy\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 9 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "10. Define what success looks like and publish performance data\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 10 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "11. Choose the right tools and technology\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 11 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "12. Make new source code open\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 12 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "13. Use and contribute to open standards, common components and patterns\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 13 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed that:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "14. Operate a reliable service"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0"
+        },
+        {
+            "text": "The service met point 14 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team has done well\u00a0"
+        },
+        {
+            "text": "The panel was impressed with:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What the team needs to explore\u00a0"
+        },
+        {
+            "text": "Before their next assessment, the team needs to:\u00a0"
+        }
+    ]
+}
