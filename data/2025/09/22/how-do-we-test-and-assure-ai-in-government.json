@@ -1,0 +1,113 @@
+{
+    "url": "https://cddo.blog.gov.uk/2025/09/22/how-do-we-test-and-assure-ai-in-government/",
+    "title": "How do we test and assure AI in Government?",
+    "authors": [
+        "Mibin Boban, Head of Quality Engineering, Digital Identity"
+    ],
+    "categories": [
+        "AI",
+        "Digital transformation",
+        "Government Digital and Data"
+    ],
+    "pub_date": "2025-09-22T10:00:00+01:00",
+    "content": [
+        {
+            "text": "How do we test and assure AI solutions - is one of the most common questions we hear across government right now."
+        },
+        {
+            "text": "AI is changing how we deliver public services. For example, the GOV.UK Chat is experimenting with generative AI to help people navigate more than 700,000 pages of GOV.UK content and find the information they need more easily. Other projects, like the Crown Commercial Service\u2019s recommendation system, use AI to provide smarter agreement recommendations for customers based on procurement data. You can find more examples of how AI is being trialled and adopted across government in the UK Government AI Playbook. However, they are not traditional software and we can\u2019t test them in the same old ways."
+        },
+        {
+            "text": "AI systems learn from data, behave in probabilistic ways and can even change over time. They might work well in a lab, but fail in real-world conditions if we don\u2019t test them rigorously and thoughtfully."
+        },
+        {
+            "text": "Evaluating AI isn\u2019t about proving it works once. It\u2019s about continuously asking questions like:"
+        },
+        {
+            "text": "AI systems bring together technical infrastructure and probabilistic models. That means we need both system testing and model evaluation. Testing looks at the whole AI system (infrastructure, APIs and interfaces). Evaluation focuses on the AI model, asking how well it meets key quality attributes. Together, they give assurance that AI systems are safe, fair and accountable."
+        },
+        {
+            "text": "Hence, we need a framework supporting teams to embed this kind of critical thinking throughout the lifecycle of AI testing and assurance."
+        },
+        {
+            "heading": 3,
+            "text": "A shared framework for public sector teams"
+        },
+        {
+            "text": "To help with this, the Cross-Government Testing Community has developed the AI Testing Framework for the public sector. In March, we brought people together for a workshop to pool our experience and ideas on how best to test and assure AI systems. Since then, the framework has been shaped through working group reviews and community feedback. We published a beta version in June and you can see everyone who contributed in the Review Log."
+        },
+        {
+            "text": "This framework offers a shared baseline for testing, model evaluation and assurance that any department can adapt to its needs. It\u2019s designed to support everyone involved in AI projects, from policy teams scoping ideas to technical teams developing and deploying solutions."
+        },
+        {
+            "text": "It recognises there\u2019s no single way to test or evaluate AI. Different types of systems (rule-based, predictive models, generative chatbots) demand different approaches."
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s inside the framework"
+        },
+        {
+            "text": "The framework is built around four core elements to help teams think rigorously about testing AI:"
+        },
+        {
+            "text": "1. Principles for testing AI systems"
+        },
+        {
+            "text": "It sets out 11 clear principles, from designing context-appropriate tests to monitoring for change over time. These principles help teams plan quality from the outset and embed responsible practices throughout."
+        },
+        {
+            "text": "2. Core quality attributes"
+        },
+        {
+            "text": "AI testing and evaluation must consider things like fairness, explainability, robustness, autonomy and evolution. These attributes shape the questions teams need to ask while testing or assuring, and the risks they need to manage."
+        },
+        {
+            "text": "3. Continuous Defensive Assurance Model"
+        },
+        {
+            "text": "Testing isn\u2019t a one-off step. The framework provides guidance for every phase of delivery: planning and design, data preparation, development, deployment and ongoing monitoring. At each stage, testing produces evidence, evaluation helps to interpret it in context and assurance provides confidence that the system, or any changes, are ready to go."
+        },
+        {
+            "text": "4. Modular testing strategy"
+        },
+        {
+            "text": "Not every project needs every test. The framework includes a modular strategy that lets teams choose and combine testing activities based on the type of AI system, its use case and the level of risk involved."
+        },
+        {
+            "heading": 3,
+            "text": "Why it matters"
+        },
+        {
+            "text": "Testing or evaluation isn\u2019t just a box to tick."
+        },
+        {
+            "text": "Without good testing and evaluation, we risk:"
+        },
+        {
+            "text": "Good testing and evaluation helps us:"
+        },
+        {
+            "text": "This framework helps us do that in a clear, structured way."
+        },
+        {
+            "heading": 3,
+            "text": "Designed for public sector use"
+        },
+        {
+            "text": "We\u2019ve built this framework with the realities of public sector work in mind. It:"
+        },
+        {
+            "text": "It\u2019s there to help teams make informed, responsible decisions about how they test and assure their AI solutions."
+        },
+        {
+            "heading": 3,
+            "text": "Learn more"
+        },
+        {
+            "text": "You can read and contribute to the framework here:"
+        },
+        {
+            "text": "AI Testing Framework for Public Sector"
+        }
+    ]
+}
