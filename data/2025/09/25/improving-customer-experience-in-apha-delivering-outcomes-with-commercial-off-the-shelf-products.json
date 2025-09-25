@@ -1,0 +1,96 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/09/25/improving-customer-experience-in-apha-delivering-outcomes-with-commercial-off-the-shelf-products/",
+    "title": "Improving Customer Experience in APHA \u2013 Delivering Outcomes with commercial \u201coff-the-shelf\u201d products",
+    "authors": [
+        "Sam Brett"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra Forms",
+        "Digital services"
+    ],
+    "pub_date": "2025-09-25T08:49:29+01:00",
+    "content": [
+        {
+            "text": "Sam Brett is a Project Manager in APHA\u2019s transformation programme, Delivering Sustainable Futures. In this blog, he reflects on his experience of improving how customers contact the organisation when they need help or advice."
+        },
+        {
+            "text": "At the Animal and Plant Health Agency (APHA), one of the goals of our digital transformation programme is to improve the experience our customers have when using our services."
+        },
+        {
+            "text": "Understanding the problem"
+        },
+        {
+            "text": "During discovery, our customer experience project focused on understanding the problems customers face when trying to interact with APHA."
+        },
+        {
+            "text": "In short, our services were too complex, and customers were contacting us because things weren\u2019t working as expected. We found that over 65% of customer contact with APHA relates to failure demand. This means things like customers struggling to find or understand guidance or being unsure about which contact method to use when they need help."
+        },
+        {
+            "text": "Testing what works"
+        },
+        {
+            "text": "In alpha, we tested several ideas to tackle the problem. For example:"
+        },
+        {
+            "text": "What we found was that no single fix would solve the whole problem. To really improve the customer experience, we needed better data and insight into why customers were reaching out to us in the first place."
+        },
+        {
+            "text": "Too many contact options, not enough insight"
+        },
+        {
+            "text": "Currently, APHA receives most customer contact through 2 main channels: phone and email."
+        },
+        {
+            "text": "Our \u2018Contact APHA\u2019 page on GOV.UK lists 36 external email addresses, and more than 65% of our contact comes in through those inboxes. Phone calls are managed by our contact management system, but emails are handled via shared Outlook mailboxes. This means:"
+        },
+        {
+            "text": "Choosing the right tools"
+        },
+        {
+            "text": "We\u2019re a small team and have adapted quickly throughout discovery and alpha. Our aim was to find technology that could:"
+        },
+        {
+            "text": "Our business case also set a clear goal: deliver value quickly to support our customers and internal teams."
+        },
+        {
+            "text": "Build or buy?"
+        },
+        {
+            "text": "We considered 3 options:"
+        },
+        {
+            "text": "The best option for both our users and the business was to use Defra\u2019s form builder (Defra Forms) to create a contact form and extend our current contact management system to handle the workflow."
+        },
+        {
+            "text": "Using commercial \u201coff-the-shelf\u201d products to meet user needs"
+        },
+        {
+            "text": "We carried out internal research with APHA colleagues to identify the biggest pain points and worked with senior leaders to define a clear vision for customer contact."
+        },
+        {
+            "text": "Rather than build a new service, we\u2019re bringing together existing tools already available on the Defra estate and configuring them to meet user needs. This fits well with the Government Digital Services (GDS) guidance on using commercial off-the-shelf (COTS) products and services."
+        },
+        {
+            "text": "It\u2019s a different way of delivering, but one that\u2019s still aligned with the GDS Service Standard. In our next phase, we\u2019ll measure performance and impact to make sure the solution is delivering value."
+        },
+        {
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We received a \u2018Green\u2019 rating for our alpha assessment in August 2025, recognising the great work the delivery team has done. During the assessment, we shared the research, design, and iterations behind the contact form. We also showed how we\u2019ve configured APHA\u2019s contact management system to better meet user needs."
+        },
+        {
+            "text": "The assessment panel was especially pleased with our clear approach to solving the problems we identified. They also highlighted our thoughtful use of existing technology to deliver value quickly."
+        },
+        {
+            "text": "Following this, we\u2019re preparing to run a pilot with the APHA Pet Travel customer service team."
+        },
+        {
+            "text": "This will involve:"
+        },
+        {
+            "text": "We\u2019re excited to see how this improves the customer journey and provides better insight for the business."
+        }
+    ]
+}
