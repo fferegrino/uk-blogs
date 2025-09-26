@@ -1,0 +1,32 @@
+{
+    "url": "https://space.blog.gov.uk/2025/09/26/milestone-for-microcarb-first-earth-observations/",
+    "title": "Milestone for MicroCarb: First Earth Observations",
+    "authors": [
+        "The National Centre for Earth Observation"
+    ],
+    "categories": [
+        "Earth from space",
+        "Earth observation"
+    ],
+    "pub_date": "2025-09-26T14:19:07+01:00",
+    "content": [
+        {
+            "text": "On 28 August, the MicroCarb satellite captured its first view of Earth, marking a major milestone following its 25 July launch. The first images and measurements come from the Amazon Basin \u2014 a region that plays a crucial role in the global carbon cycle but where very few ground-based CO\u2082 observations exist."
+        },
+        {
+            "text": "This first look is especially important because the Amazon is one of the most challenging regions to observe from space. Dark forest surfaces, persistent cloud cover, and the influence of the South Atlantic Magnetic Anomaly all make measurements more complex. Despite these challenges, MicroCarb\u2019s instruments performed exactly as designed."
+        },
+        {
+            "text": "The onboard imager was able to identify cloud-free areas within the equatorial forest, capturing urban areas surrounded by agricultural and forested landscapes. Meanwhile, the spectrometer analysed reflected sunlight, revealing distinct signatures of carbon dioxide and oxygen \u2014 a key step toward measuring atmospheric CO\u2082 concentrations."
+        },
+        {
+            "text": "Professor Paul Palmer, UK Lead MicroCarb Scientist and NCEO Science Director based at the University of Edinburgh said:"
+        },
+        {
+            "text": "The data were calibrated using both pre-launch characterizations \u2014 including thermal vacuum testing completed in late 2022 \u2014 and early in-flight calibrations (dark current, internal lamp, and solar reference measurements). Comparisons with external sources, such as Sentinel-2 imagery for the imager and 4AOP radiative transfer simulations for the spectrometer, confirm that both instruments are functioning within their expected parameters."
+        },
+        {
+            "text": "With these first successful results, the mission team can now begin fine calibration and the tuning of data processing algorithms. This critical next step will enable MicroCarb to deliver precise, space-based measurements of atmospheric CO\u2082 concentrations, supporting global efforts to improve carbon cycle models and better understand the role of different regions \u2014 including the Amazon \u2014 in regulating Earth\u2019s climate."
+        }
+    ]
+}
