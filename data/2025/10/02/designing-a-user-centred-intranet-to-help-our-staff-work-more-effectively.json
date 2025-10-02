@@ -1,0 +1,103 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/10/02/designing-a-user-centred-intranet-to-help-our-staff-work-more-effectively/",
+    "title": "Designing a user-centred intranet to help our staff work more effectively\u00a0",
+    "authors": [
+        "Sian Goodwin, Senior Content Designer"
+    ],
+    "categories": [
+        "Design",
+        "Ways of working"
+    ],
+    "pub_date": "2025-10-02T09:21:25+01:00",
+    "content": [
+        {
+            "text": "At MHCLG, colleagues across the UK use the intranet daily for news, resources and guidance, such as HR or IT policies, and to access internal digital services. My first project on joining the department as a senior content designer in the Publishing team, was to produce a content audit of the existing intranet and make improvements based on the findings.\u00a0"
+        },
+        {
+            "text": "This work supports our digital strategy objective to enhance operational excellence and drive organisational efficiency, helping colleagues to self-serve better by making internal digital services easier to use. It\u2019s also part of the MHCLG Disability Action Plan \u2013 an internal policy focused on creating an inclusive working environment where all colleagues feel valued.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Phase 1: Doing a content audit\u00a0"
+        },
+        {
+            "text": "Our intranet is built on WordPress and had more than 5,000 live pages at the start of the audit. Impressions were mixed, with users struggling to find and use information. The search bar was inconsistent, and content was cluttered, presenting an opportunity to introduce good content governance. However, colleagues did consider the intranet a valuable resource they needed at work.\u00a0"
+        },
+        {
+            "text": "The goal was to make it usable and accessible for everyone.\u00a0"
+        },
+        {
+            "text": "During the audit, we analysed:\u00a0"
+        },
+        {
+            "text": "We noticed that some pages were out of date, duplicated, orphaned or not fully accessible.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "After an initial cull of pages that were redundant, we used analytics and WordPress metrics to identify the 100 most popular pages on the site. Our small team of content designers rewrote them to introduce a consistent structure, style and tone.\u00a0\u00a0"
+        },
+        {
+            "text": "As Lizzie Bruce writes in her book 'Task-based intranet content', \u201cGenerally, people want information about a specific thing, fast, when they visit the intranet. They need it in as little time as possible, so they can get on with their job, or enjoy their lunch break\u201d.\u00a0"
+        },
+        {
+            "text": "With this in mind, we made content concise and easy to digest, and used keywords (in the front-end and back-end) to make information easier to find. We also removed more than 500 PDFs to improve accessibility \u2013 some of them were out of date so we simply removed them, others were transformed into clear and accessible HTML pages.\u00a0"
+        },
+        {
+            "text": "We worked extensively with subject matter experts, including Human Resources Policy, to make sure content was accurate. Pages often linked off to others with duplicated content, which ultimately expanded the scope of our initial review.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Phase 2: Introducing content structure and improved governance\u00a0"
+        },
+        {
+            "text": "In this phase, we worked with a user researcher to better define our user types. This was not a simple task, as the intranet is a central source used department wide.\u00a0\u00a0"
+        },
+        {
+            "text": "Eventually, we narrowed it down to the following 3 user groups:\u00a0"
+        },
+        {
+            "text": "We made sure to recruit a diverse mix of users to represent our colleagues across different teams and roles. This included people with disabilities and neurodivergent needs. We gathered regular feedback in surveys and through usability sessions, where we used tree testing to examine different content structures. We built interactive wireframes to resemble a live site and encouraged users to complete tasks so we could monitor pain points, likes, dislikes and what users needed from an intranet.\u00a0\u00a0"
+        },
+        {
+            "text": "We also reached out to other government departments for demos and insights on intranet design decisions. This included the Department for Education (DfE), UK Health Security Agency (UKHSA), Ministry of Justice (MoJ) and Department for Business and Trade (DBT) \u2013 thanks again to those who were involved!\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Futureproofing the intranet publishing process\u00a0"
+        },
+        {
+            "text": "The intranet had over 600 authors with full access to edit, delete and publish content. Some users had published hundreds of pages, while others only 1 or 2 \u2013 all different styles, quality and accuracy.\u00a0"
+        },
+        {
+            "text": "To futureproof it, we (the Publishing team) decided to centrally own the site and limit authors. The internal communications team continued to manage news stories and blogs. We introduced best practice guidance and a new governance process for all editors to follow, including a 2i review, accessibility checks, archiving policy and maintenance plan.\u00a0\u00a0"
+        },
+        {
+            "text": "Where information already exists, we link to it, not duplicate it. The content on the intranet is task-based and written in plain English where possible. Content is useful, informative and consistent to help people complete tasks easily.\u00a0\u00a0"
+        },
+        {
+            "text": "It goes without saying, as a digitally-minded team, we\u2019re also focused on artificial intelligence (AI) and how we can use this technology on the intranet. However, the effectiveness of AI tools depends on the quality of the data they draw and interpret from \u2013 making it even more important that our intranet content is clear and structured correctly, with meaningful metadata. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Phase 3: Designing a CMS inspired by GDS\u00a0"
+        },
+        {
+            "text": "Throughout this project, we adopted many of the Government Design Principles into our work. Mainly, using user needs and colleague feedback to inform design decisions. But another area we wanted to explore was the design and components.\u00a0\u00a0"
+        },
+        {
+            "text": "WordPress as a platform is easy to use but certainly comes with its limitations. In our clunky, old version of the content management system (CMS), we couldn\u2019t use components compliant with the GOV.UK Design System. And with so much research already done by the Government Digital Service (GDS), we utilised the GOV.UK Design System for inspiration on style, components and patterns when building our new CMS.\u00a0"
+        },
+        {
+            "text": "We also worked with our technology colleagues to introduce improved security features and robust authentication settings for better access control, making the intranet more secure.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A modern, sharper, user-first platform\u00a0"
+        },
+        {
+            "text": "Colleagues can now enjoy:\u00a0"
+        },
+        {
+            "text": "The intranet project exemplifies how digital, user-centred approaches drive organisational efficiency. This new, smarter workspace will support collaboration across our workforce, saving time and resources, so that our colleagues can focus on the work that matters. It is also a solid foundation for continuous improvement from smarter intranet features such as the integration of AI tools, to better ways of measuring productivity impact to ensure lasting efficiency gains.\u00a0"
+        }
+    ]
+}
