@@ -1,0 +1,94 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2025/10/08/qualified-electronic-signatures-answering-your-questions/",
+    "title": "Qualified Electronic Signatures: Answering your questions",
+    "authors": [
+        "Emma Jackson, Senior Product Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital services",
+        "Law and practice"
+    ],
+    "pub_date": "2025-10-08T15:14:16+01:00",
+    "content": [
+        {
+            "text": "Since HM Land Registry's recent announcement that we will accept Qualified Electronic Signatures (QES), we've been monitoring your feedback and have received numerous enquiries and expressions of interest from the property market. We want to address the most frequently asked questions to help you understand how this development is working in practice."
+        },
+        {
+            "text": "We're pleased to confirm that HM Land Registry now accepts applications signed with QES. The advantage of using QES is that a signatory\u2019s identity is pre-checked, so that no witness is required for the signature. If you would like to lodge applications with QES, you can email us. We are currently accepting charges, transfers, and assents."
+        },
+        {
+            "heading": 2,
+            "text": "Sign counterpart deeds?"
+        },
+        {
+            "text": "We understand there are current technical challenges with counterpart signing using QES technology.\u00a0 To support the development of a conveyancing process that enables a single document to be QES-signed by all parties, we encourage providers of QES to look at practitioner processes and their practical concerns to complete transactions."
+        },
+        {
+            "text": "Providers will have their own guidance to produce a signed QES document. Our position remains that section 91 of the Land Registration Act 2002 requires a single document rather than the use of original and counterpart documents."
+        },
+        {
+            "heading": 2,
+            "text": "Mixed-mode signing: Is it possible?"
+        },
+        {
+            "text": "QES is a digital document. A wet signature cannot be added once the document is made secure. Once the identity has been verified and signatures have been added, the document is locked down. There can be no further additions to the document, otherwise it is no longer secure."
+        },
+        {
+            "text": "A wet ink signature can only be applied to a paper document, whilst an electronic signature can only be applied to an electronic document. A document must be either paper or electronic, it cannot be both."
+        },
+        {
+            "text": "The benefits of QES technology can only be fully realised when all parties to a deed use it. Mixed-mode signing would undermine these advantages, which is why we are not currently supporting that."
+        },
+        {
+            "heading": 2,
+            "text": "How should documents be dated?"
+        },
+        {
+            "text": "The requirements for dating documents reflect our current understanding of the technical necessities when using QES technology. However, we recognise that different platforms may handle dating documents in different ways. If a QES platform provider can demonstrate an alternative approach to dating that maintains the necessary legal and technical standards, we're open to adjusting our requirements accordingly. We will publish developments on our practice guide 82."
+        },
+        {
+            "text": "Documents lodged with a QES signature will have to be amended in accordance with Notice 2 under rule 54(c) of the Land Registration Rules 2003 \u2013 a demonstration of the documentation process can be found with the notice."
+        },
+        {
+            "heading": 2,
+            "text": "Which platform providers can be used?"
+        },
+        {
+            "text": "HM Land Registry accepts QES but does not supply or operate the underlying technology for QES. Customers will need to obtain QES services from a third-party provider.\u00a0 You have flexibility in your choice of platform . To learn about the eIDAS regulation that your provider will need to adhere to, visit the Information Commissioner\u2019s Office (ICO) guide to eIDAS."
+        },
+        {
+            "heading": 2,
+            "text": "What about Scotland?"
+        },
+        {
+            "text": "The position in Scotland differs from England and Wales. According to Registers of Scotland, they currently accept QES-signed documents only for their register of deeds, which serves as a repository for safekeeping original deeds."
+        },
+        {
+            "text": "However, it's not currently possible to submit QES-signed deeds for recording in either the Land Register of Scotland (the main register providing state-backed guarantees to property owners) or the General Register of Sasines (which lists deeds for properties dating back to 1617). RoS does, however, accept electronic discharge deeds (which discharge mortgages) signed using their own electronic signature solution through their Digital Discharge Service."
+        },
+        {
+            "heading": 2,
+            "text": "Looking forward"
+        },
+        {
+            "text": "We're committed to working with the conveyancing community to ensure the successful implementation of QES technology. We are in the early stages of accepting QES and our long-term aim is to ultimately accept all applications using it. Platform providers are willing to work with the property market to help address the practical challenges of using QES while maintaining the legal requirements that protect property transactions."
+        },
+        {
+            "text": "As we continue to refine these processes based on your feedback and our experience with early applications, we'll keep you updated on any developments. This technology represents a significant step forward in modernising property transactions, and we appreciate your patience as we work through the initial implementation phase together."
+        },
+        {
+            "text": "If you have any questions about using QES for your applications, please don't hesitate to email our dedicated team."
+        },
+        {
+            "heading": 2,
+            "text": "Conveyancer Certified Electronic Signatures (CCES)"
+        },
+        {
+            "text": "Customers can still continue to use CCES - a simple and inexpensive form of electronic signature that\u2019s used for different documents logged at HM Land Registry. You can keep up to date via our practice guide 82."
+        },
+        {
+            "text": "If you need to contact us about Qualified Electronic Signatures, email: QES@landregistry.gov.uk"
+        }
+    ]
+}

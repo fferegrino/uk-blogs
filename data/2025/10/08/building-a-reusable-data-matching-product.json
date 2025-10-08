@@ -1,0 +1,106 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/10/08/building-a-reusable-data-matching-product/",
+    "title": "Building a reusable data matching product",
+    "authors": [
+        "Leonardo Mazzone - Senior Data Scientist",
+        "Will Langdale, Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-10-08T13:36:35+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Leonardo Mazzone"
+        },
+        {
+            "heading": 3,
+            "text": "Will Langdale"
+        },
+        {
+            "text": "When ordering online groceries, you expect your loyalty points to update, your delivery slot to sync with your calendar, and your payment to go through without retyping your address. Citizens and businesses face a different reality with government services, often re-entering the same information multiple times across disconnected systems."
+        },
+        {
+            "text": "This fragmentation affects both user experience and government's ability to create effective policies. While solutions like centralised logins have proven challenging, departments have developed various approaches tackle this."
+        },
+        {
+            "text": "Some departments have a centralised data matching team. Others leave analysts and services to solve the problem as they encounter it. Government needs a way to consolidate entity resolution in an environment that resists centralisation. That\u2019s why we\u2019ve built Matchbox. Matchbox is a reusable component for record matching. It allows us to deduplicate and link datasets in a way that is measurable, iterative and collaborative. It retains almost no information about the data it matches. We hope our unique approach to entity resolution will mean data is linked robustly enough to power both analysis and services, yet securely enough to defend civil liberties."
+        },
+        {
+            "heading": 2,
+            "text": "Why we built Matchbox"
+        },
+        {
+            "text": "Analysts at the Department for Business and Trade use company data to inform better policy, monitor the department\u2019s impact, and improve our effectiveness. Digital products use company data to capture our relationship with businesses and offer them a more bespoke experience.\u00a0 This improves the decisions we make on anything from grants to export licenses.\u00a0"
+        },
+        {
+            "text": "But company data comes from many different sources, which must be joined to produce powerful insights.\u00a0 That is a difficult task when the identifiers in each data source differ.\u00a0 It\u2019s similarly tricky to join by other attributes such as name and address: all attributes can be ambiguous, missing, include mistakes, or change over time. We need to:"
+        },
+        {
+            "text": "Over the years, different parts of the department have tackled this challenge in many ways. Our objective was to build a tool that would make it easy to deduplicate and link datasets in a reusable and consistent way.\u00a0 It had to be easy to query, protect sensitive data, and straightforward to evaluate and evolve. We can avoid repeated effort and ensure that everyone benefits from the highest quality matches available, shaped by the right domain experts in each area.\u00a0"
+        },
+        {
+            "text": "In building Matchbox, we benefit from the work of countless others, who have released open-source code on which our own code depends. To benefit from community contributions, encourage reuse across government, and to work transparently in the public interest, we also publish our work as an open-source project. We hope that by building an open-source and general solution that is easily customised and adopted, we can multiply our work\u2019s impact, to benefit many government organisations and beyond."
+        },
+        {
+            "heading": 2,
+            "text": "Linking datasets"
+        },
+        {
+            "text": "Linking 2 data sources with Matchbox involves:"
+        },
+        {
+            "text": "All these steps are expressed in Python and scheduled to run automatically. These steps can be repeated and stacked to link much more than 2 datasets. For example, the output of a model linking datasets X and Y can be the input to a model adding dataset Z on top of X and Y."
+        },
+        {
+            "text": "Models can be based on simple rules (e.g. \u201c2 companies are the same if their cleaned named and postcodes are the same\u201d), or more sophisticated. For example, \u201cprobabilistic models\u201d output confidence scores about 2 records matching, which are fractional values from 0 to 1. These scores express how likely it is that 2 records are the same given that their fields are similar to varying degrees. We use Splink (another open-source government project) to build our probabilistic models."
+        },
+        {
+            "heading": 2,
+            "text": "Matchbox components"
+        },
+        {
+            "text": "Matchbox is made up of a client (which users and applications run), and a server. The server stores information about which models have been run and when, their results, and user evaluation. The original data being matched is never sent to the Matchbox server. The server knows how to stitch datasets together, but not what information they contain, to boost data security."
+        },
+        {
+            "text": "The Matchbox client is a software package for the Python programming language. The client can:"
+        },
+        {
+            "text": "Thus, Matchbox users can access data from the sources if and only if they already have access to it outside of Matchbox."
+        },
+        {
+            "heading": 2,
+            "text": "Evaluating model results"
+        },
+        {
+            "text": "Let\u2019s say that a model thinks that records A and B are the same, and a different model, stacked on top, thinks that records B and C are the same. From the second model\u2019s point of view, A, B and C are all part of the same \u201ccluster\u201d of records. Which model describes the true entity?"
+        },
+        {
+            "text": "At any one point, we name one model as the \u201cpoint of truth\u201d in terms of which clusters exist in our data. Matchbox helps us discover which point of truth best-represents reality. We randomly sample clusters and show them to our users. They can confirm that different clusters look sensible or correct them. This forms our validation data, which we use to assign 2 scores describing a model\u2019s performance:"
+        },
+        {
+            "text": "There is typically a trade-off between precision and recall: a more conservative model will have better precision and worse recall, and vice versa. Based on a suitable compromise between the 2, we can tune a model or compare alternative models."
+        },
+        {
+            "heading": 2,
+            "text": "Querying matched data"
+        },
+        {
+            "text": "Once we\u2019re confident with the quality of a model that links multiple datasets, we can serve it to users. There are 2 ways it can be used:"
+        },
+        {
+            "heading": 2,
+            "text": "Learning at DBT"
+        },
+        {
+            "text": "On top of the satisfaction of tackling a problem with far-reaching consequences for government, and ultimately for all citizens, working on Matchbox has been an incredible learning experience. It encourages us to stretch across product management, data engineering, DevOps and data science."
+        },
+        {
+            "text": "There is still much more we want to do, such as allowing internal and external government services to look up and exchange company information resolved by Matchbox.\u00a0"
+        },
+        {
+            "text": "If you\u2019re interested in helping solve similar challenges, have a look at our jobs board to see current opportunities. Alternatively, if you want to deploy your own Matchbox instance, or contribute features that benefit everyone, get in touch at datamatching@businessandtrade.gov.uk.\u00a0"
+        }
+    ]
+}
