@@ -1,0 +1,106 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/10/09/using-privacy-enhancing-technologies-to-enable-international-data-sharing/",
+    "title": "Using Privacy Enhancing Technologies to Enable International Data Sharing",
+    "authors": [
+        "Mark Durkee, Head of Data Architecture, GDS",
+        "John Smith, Privacy Enhancing Technologies Lead, GDS",
+        "Sarah Stevens, Associate Director for Disease Registration, NHSE",
+        "Bardia Guevel, Public Health Registrar, NHSE"
+    ],
+    "categories": [
+        "Data",
+        "Digital strategy",
+        "Digital, Data and Technology"
+    ],
+    "pub_date": "2025-10-09T16:52:47+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Using Privacy-Enhancing Technologies to Enable International Cancer Research Collaboration"
+        },
+        {
+            "text": "Over the last year the Department for Science, Innovation and Technology (DSIT) has piloted the use of novel Privacy Enhancing Technologies (PETs) to enable NHS England\u2019s National Disease Registration Service (NDRS) and the US National Cancer Institute (NCI) to study ultra-rare childhood tumours, securely, lawfully and at speed: protecting patient privacy and keeping NHS data under NHS control. The pilot builds on experience from the 2022-23 UK-US Privacy-Enhancing Technologies (PETs) prize challenges. This blog explains why the pilot matters, how it works, and what it tells us about the future of digital innovation in government, and the commitments in the Blueprint for Modern Digital Government."
+        },
+        {
+            "heading": 3,
+            "text": "The data-scarcity problem"
+        },
+        {
+            "text": "Data on cancer is gathered by disease registries at national or subnational scale. Every childhood cancer subtype is rare; some affect fewer than two children per million each year. Pooling data over a larger geography helps researchers to better understand these diseases and improve patient outcomes by enabling more robust analyses and providing clinicians and patients with accurate statistics for prognoses. The need to protect patient privacy to comply with regulatory requirements and maintain public trust can make large-scale export of patient-level data slow, costly and, in some cases, impossible. A better technical approach is needed."
+        },
+        {
+            "heading": 3,
+            "text": "A PETs-led solution"
+        },
+        {
+            "text": "Our pilot utilises the Duality platform to keep data in place and moves the code, not the records. It enabled researchers to perform collaborative analyses without moving non-anonymous data outside of NHS systems. Our implementation combines three complementary PETs and several information governance techniques:"
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0Federated querying: Executes approved scripts simultaneously inside NDRS and NCI firewalls; returns only site-level aggregates. Queries include counts, means, crosstabs, histograms, survival pre-sets (stratified by population data)."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0Trusted Execution Environment (TEE): Decrypts and sums site aggregates inside a secure enclave so that neither side sees the other\u2019s raw numbers, and ensures remote attestation at both sites."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0Differential privacy + cell suppression: Adds Laplace noise to achieve differential privacy with \u03b5 = 1 to each combined cell and hides any result < 5 (these values were informed by manual testing with dummy data and expert input from US National Institute of Standards and Technology)."
+        },
+        {
+            "text": "The technologies we implemented built privacy preservation into the solution researchers were using, reducing friction in performing their research. After the completion of the pilot, we plan to share more information on why we chose this combination of PETs to mitigate the privacy risks we identified."
+        },
+        {
+            "heading": 3,
+            "text": "Outcomes"
+        },
+        {
+            "text": "Analysts were able to write and run simplified, no-code queries from a centralised interface and results were returned in tables specific to the computations performed. The queries permitted were similar in nature to those researchers were already familiar with, often used to query single datasets on a national level. Real-world statistics produced using the PETs implementation will be generated towards the end of the year as researchers continue performing collaborative analyses."
+        },
+        {
+            "text": "Our use of emerging PETs significantly shortened the information governance journey. For example, NDRS were able to work through a process that typically takes over a year for international collaborations in roughly two months. Reducing the lead time for data release also meant we had more time to focus on meaningful research. This process involved several robust cycles of information governance and cybersecurity checks and tests, coupled with several analytical assurance procedures. We found the ICO guidance on PETs incredibly helpful in guiding this process."
+        },
+        {
+            "heading": 3,
+            "text": "Lessons for digital government"
+        },
+        {
+            "text": "This pilot successfully demonstrated the potential of novel PETs for generating value from underutilised datasets. Notwithstanding, there are many learnings we can take away from this project and apply to a multitude of UK and international public sector opportunities; future and current."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 PETs turn governance into a design choice, not an after-thought. By baking privacy guarantees into architecture, we reduced the need for bespoke legal agreements."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Trust modelling beats trust transfer. A trusted execution environment allows each partner prove that code will run exactly as specified, so institutional trust can remain local."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Parameter transparency matters. Publishing our \u03b5 value, k-filter and suppression rules allowed information governance teams and boards to reason about privacy risks in concrete terms."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Iterate with dummy or synthetic data first. Building the pipeline with dummy data lets analytics teams, information governance officers and cyber reviewers work in parallel."
+        },
+        {
+            "heading": 3,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "This work highlights the potential of PETs to facilitate better collaboration on data without compromising on privacy, treating privacy as a design target and ultimately strengthening and expanding research capability, creating:"
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Improved quality of life and better patient outcomes, through new areas of epidemiological research and streamlined access to harmonised international data, supporting evidence-based decision making in a clinical setting."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Faster growth and innovation, by learning how to effectively harness a novel set of highly impactful technologies."
+        },
+        {
+            "text": "\u25cf \u00a0 \u00a0 Smarter cross-governmental collaborations that cut lead times for meaningful research and increase productivity and efficiency across the board."
+        },
+        {
+            "text": "Over the next year we aim to highlight our findings, using our learnings as a blueprint for future cross-government initiatives. In doing so we hope to evaluate areas for improvement, potential policy outcomes and synergies, as well as guidance-style pieces capturing our lessons and achievements, and support partners in evolving the pilot into an enduring, expanded service to researchers globally."
+        },
+        {
+            "heading": 3,
+            "text": "Get involved"
+        },
+        {
+            "text": "If you manage a registry, hold paediatric cancer data or simply want to discuss the pilot in more detail, we would love to hear from you: contact pets@dsit.gov.uk."
+        }
+    ]
+}

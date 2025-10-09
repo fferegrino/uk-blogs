@@ -1,0 +1,112 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2025/10/09/how-we-wrote-the-aqua-book/",
+    "title": "How we wrote the AQuA Book ....",
+    "authors": [
+        "Rebecca Wodcke - Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Modelling",
+        "Risk management"
+    ],
+    "pub_date": "2025-10-09T09:15:49+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "... and what I learned along the way."
+        },
+        {
+            "text": "I was part of a cross-government team that recently published an updated version of the AQuA (Analytical Quality Assurance) Book. This is guidance that sets out principles to help people across government design, produce and communicate quality analysis to support better decisions. The previous version was released 10 years ago so there was a lot to update."
+        },
+        {
+            "text": "As an actuary at the Government Actuary\u2019s Department (GAD), the AQuA book aims of ensuring high quality analysis, and transparency around assumptions and uncertainty align well with my day-to-day work. "
+        },
+        {
+            "text": "The team of 15 contributors set out to make the guidance clearer, more practical, and easier to use across departments and beyond."
+        },
+        {
+            "heading": 3,
+            "text": "Why the AQuA Book matters"
+        },
+        {
+            "text": "Good decisions depend on good analysis. Shared principles that work across government help ensure policy, operations, and spending choices are informed and proportionate. "
+        },
+        {
+            "text": "A lot of analysis, whether actuarial or not, is full of uncertainty, dependency, and long-term risk. The hardest part is often not the maths but the explanation. "
+        },
+        {
+            "text": "It\u2019s important to give the audience enough caveats to be honest but not too much that it becomes confusing. The AQuA book helps by giving a shared, proportionate way to do this."
+        },
+        {
+            "heading": 3,
+            "text": "What we produced and what has changed"
+        },
+        {
+            "text": "The refreshed AQuA book is structured around the analytical lifecycle:"
+        },
+        {
+            "text": "The roles and responsibilities and assurance activities of each stage are set out, along with new sections on uncertainty and \u201cblack box\u201d models. There are additional chapters covering broad themes such as proportionality and culture. "
+        },
+        {
+            "text": "The resources section collates information referred to through the book, including a link to the GAD webpage, which sets out the areas where we work,   alongside a reminder that GAD can provide expert quality assurance reviews of models across the public sector."
+        },
+        {
+            "heading": 3,
+            "text": "A cross-government effort"
+        },
+        {
+            "text": "This was a team effort across government\u2019s Analysis Function, bringing together statisticians, economists, data scientists, operational researchers, and actuaries. "
+        },
+        {
+            "text": "The variety of expertise increased peer challenge, reduced blind spots, and led to examples that feel real to users across government. "
+        },
+        {
+            "text": "Working with such a varied team introduced me to different ways of working and the wide variety of analysis produced across government. Everyone was fitting in the work alongside their day job, but the whole team was very mindful of this and so it didn\u2019t feel onerous to be involved."
+        },
+        {
+            "heading": 3,
+            "text": "Tools and ways of working"
+        },
+        {
+            "text": "Once the structure of the updated book was agreed, each chapter was allocated a lead author and reviewer. The result was quite a mix of writing styles, due to the number of authors. A smaller group (me and 3 others) carried out the editing stage, to make it easier to manage consistency. "
+        },
+        {
+            "text": "At this point, drafting was transferred from Word to Quarto and changes were managed through GitHub. This allowed us to publish the finished AQuA book as HTML pages which are easier to navigate and more accessible than a PDF. "
+        },
+        {
+            "text": " It also allowed us to track suggestions and edits, as well as work on different versions of the document in parallel and easily merge them later.I\u2019ve previously used GitHub for coding projects, but not for drafting documents. I\u2019d recommend it for large, multi-author projects."
+        },
+        {
+            "heading": 3,
+            "text": "Things we would have done differently"
+        },
+        {
+            "text": "Technology, in particular Large Language Models, has improved significantly since we began the project. "
+        },
+        {
+            "text": "If starting again now, we would use AI to speed up editing, especially for consistency of tone and definitions across chapters. Team members\u2019 varied expertise would still set the content, but AI could reduce the time spent aligning style."
+        },
+        {
+            "heading": 3,
+            "text": "Writing so everyone can understand"
+        },
+        {
+            "text": "Over my career, most of my writing has been for other actuaries or insurance professionals. One skill I developed during the project is writing for a more varied audience. I initially thought simplifying the language may reduce some of the precision of meaning but found the opposite to be true. I\u2019m aiming to continue using the simplest words possible in my technical communications."
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "Read and use the AQuA Book in your next project. If you have comments or suggestions about the content of the AQuA Book or how it might be improved, email analysis.function@ons.gov.uk with \u2018AQuA Book\u2019 in the subject."
+        },
+        {
+            "heading": 4,
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
