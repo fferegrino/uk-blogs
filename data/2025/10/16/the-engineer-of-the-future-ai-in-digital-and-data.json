@@ -1,0 +1,108 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/10/16/the-engineer-of-the-future-ai-in-digital-and-data/",
+    "title": "The engineer of the future: AI in digital and data",
+    "authors": [
+        "Office of the Chief Technology Officer, GDS"
+    ],
+    "categories": [
+        "AI"
+    ],
+    "pub_date": "2025-10-16T08:17:50+01:00",
+    "content": [
+        {
+            "text": "AI will change the nature of digital and data work, and the roles of those who do that work. In the Office of the Chief Technology Officer (OCTO), our role is to guide digital government through these changes to ensure that we take full advantage of the opportunities AI technology offers, where it provides the best for public good.\u00a0"
+        },
+        {
+            "text": "While these changes might still be at an early stage, we know enough from the experience of government departments, industry and technology companies to be able to paint a picture of what the engineer of the future might look like!\u00a0"
+        },
+        {
+            "text": "Together with our Digital Leadership Group (DLG), we\u2019ve been working on a clear future strategy to help guide our digital community through the many opportunities (and potential challenges) of AI in digital and data.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Leaders in strategic thinking\u00a0"
+        },
+        {
+            "text": "The Digital Leadership Group (DLG) includes members from across the UK public sector who have the expertise and insight needed to guide the future of digital government.\u00a0"
+        },
+        {
+            "text": "The blueprint for modern digital government sets out the plan to involve communities of practice to shape how we use AI in digital and data, so the both the DLG and our wider cross-government software engineering community have vital roles to play.\u00a0"
+        },
+        {
+            "text": "Likewise, the inclusion of industry partners will help us to stay informed on the latest developments in technology. More importantly, our engineering communities always welcome the chance to get some hands-on experimentation with new and interesting software.\u00a0"
+        },
+        {
+            "text": "None of our planning for the engineer of the future would have been possible without the guidance and input from these communities. Through workshops, planning sessions and regular meeting, we\u2019ll continue to engage with our valued digital community.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The engineer of the future\u00a0"
+        },
+        {
+            "text": "So, what exactly does the role of the engineer of the future look like? While this concept is still evolving, and will carry on changing due to the fast-moving nature of AI technology, we have identified the subjects which we feel are currently the most important to the future of AI in digital and data.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "AI as more than just a coding assistant\u00a0"
+        },
+        {
+            "text": "While AI Coding Assistants are accelerating coding, the real transformation is in the entire development lifecycle. For this, we found it helpful to look at real-life use cases, such as being able to modernise legacy systems by using AI to analyse and document older or more complex codebases.\u00a0"
+        },
+        {
+            "text": "AI can also streamline the entire development process, from capturing business requirements to automating quality assurance checks. For example, you could create an \u2018asynchronous agent\u2019 to continuously refactor and improve codebases against evolving standards.\u00a0"
+        },
+        {
+            "text": "Additionally, the automation of repetitive tasks and building sovereign AI capabilities are something we would like to focus on in our future digital strategy.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Capturing metrics\u00a0"
+        },
+        {
+            "text": "A huge factor in the successful implementation of AI tools is being able to tangibly measure the real business value they provide. It\u2019s incredibly important to capture metrics around what a typical software engineer\u2019s day might look like and how much time they spend coding, doing other tasks, and what those other tasks are. This is so that we can then measure the impact a coding assistant might have.\u00a0"
+        },
+        {
+            "text": "This will be part of a robust measurement framework which we will continue to develop. A clear and extensive framework will allow us to identify where and how AI capabilities can be deployed, how they perform, the benefits they provide and how our engineers feel about them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Context is everything\u00a0"
+        },
+        {
+            "text": "While large language models (LLMs) are powerful tools, they\u2019re not magic. This is because their real value comes from the data we provide, as the more context a model has, the more useful its outputs are. Architectural documentation and production data related to cost, security and observability are areas of context that we have identified as particularly useful for further exploration.\u00a0\u00a0"
+        },
+        {
+            "text": "Likewise, more context around knowledge repositories, data pipelines, and retrieval systems will provide the LLMs we use the right information at the right time. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "It's not just an engineering problem\u00a0"
+        },
+        {
+            "text": "There are systematic challenges to the successful deployment of AI, which impact how we gather requirements, how we structure our teams, and what skills we need.\u00a0"
+        },
+        {
+            "text": "A great AI prediction tool relies on the people and processes in place to act on its insights. That\u2019s why we should work directly with process managers to implement these tools to help us to understand valuable insights around customer usage and behaviour patterns, and to prioritise and create a higher quality of backlog tasks.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The human element is crucial\u00a0"
+        },
+        {
+            "text": "Upskilling our workforce (and not just our engineers) is an incredibly important part of our ensuring our future digital services. This includes training in prompt engineering, but more fundamentally, it's about fostering systems thinking and critical thinking. We need people who can ask the right questions and critically evaluate the outputs of AI.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Seizing the opportunity together\u00a0"
+        },
+        {
+            "text": "These topics represent the first steps in capturing what is really at the heart of digital change, which is to create a framework of proven, measurable results which show the positive impact of new technologies on the services we provide and those who work within our communities.\u00a0"
+        },
+        {
+            "text": "We will be continuing our work in supporting the adoption of AI in public sector engineering through communities such as the Digital Leadership Group. \u00a0"
+        },
+        {
+            "text": "If you want to get involved, and are a digital leader in the public sector, you can join through our special interest group. Otherwise, software engineers are always welcome to become part of the cross-government software engineering community.\u00a0Alternatively, if you'd like to contact us directly about anything related to our work, email gdsengineeringexcellence@dsit.gov.uk."
+        }
+    ]
+}
