@@ -1,0 +1,94 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/10/21/launching-dbts-first-public-facing-ai-feature/",
+    "title": "Launching DBT's first public-facing AI feature",
+    "authors": [
+        "Maddy Lunskey, Senior Product Manager",
+        "Shan Malik, Senior Data Scientist",
+        "Joseph Hearnshaw, Senior Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-10-21T09:42:43+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Introduction to the problem and approach"
+        },
+        {
+            "text": "In August, the Department for Business and Trade (DBT) launched its first public-facing AI tool as part of the new Digital Business Growth Service website, business.gov.uk. This marks a major milestone in DBT\u2019s journey with AI and supports key government strategies around digital innovation as well as ministerial priorities."
+        },
+        {
+            "text": "The Digital Business Growth Service is designed to help businesses find what they need, when and where they need it. One way it does this is by bringing together online content from trusted sources. On a website with so much to offer and a wealth of text data, there are many potential opportunities to use AI. While it goes without saying that value to users is at the heart of everything we do, we prioritised tackling a known problem users experience, this would also enable us to rapidly experiment and evaluate the potential of personalisation using AI. Making this information available to self serve online means more businesses can access the support they need, when they need it. It complements the support that is already available to businesses from government.\u00a0"
+        },
+        {
+            "text": "The problem: many business owners struggle to find relevant funding opportunities, are often time poor, and are unaware of the support on offer.\u00a0 This can be a barrier to growth."
+        },
+        {
+            "text": "The solution: an AI feature that surfaces personalised funding opportunities matched to the user\u2019s business profile. Instead of needing users to sift through multiple pages of online content, the summariser presents tailored results - grants, loans, and investments - on a single page. This makes it faster and easier to access the right support."
+        },
+        {
+            "text": "The solution was delivered rapidly. We deliberately scoped a thin slice of functionality; a small set of trusted data sources, and one topic \u2013 funding. This approach enabled us to move quickly, releasing something small but valuable that we could evaluate and iterate on."
+        },
+        {
+            "text": "This was particularly ambitious because of the careful consideration of controls required to use AI safely. While AI can achieve significant benefits in areas such as speed and efficiency, the trade-off in human oversight means relinquishing some expert control. Getting this right in the government context led us to make some early design choices to mitigate risk."
+        },
+        {
+            "text": "One such decision was to not include free-text input. When people think of AI, they often think of chatbots. However, free text input can open up a multitude of issues requiring careful navigation. For example, this could mean processing personal data unnecessarily, or providing answers on any topic, instead of starting with a specific topic like funding. We decided this should be out of scope in a project seeking to rapidly experiment with and learn from AI. We instead focused our efforts on prompt engineering, crafting structured inputs that produce useful outputs while protecting users and the system. This approach allowed us to deliver value while maintaining control."
+        },
+        {
+            "text": "As well as careful design choices, rapid delivery also required strong collaboration. We learnt from work completed by colleagues across government, particularly the Government Digital Service\u2019s AI chatbot pilot. Within DBT, we created a strong team of Civil Servants and suppliers including Accenture. To design and build the feature we brought together expertise in AI with knowledge of the Digital Business Growth Service and its users. To deliver the feature and evaluate it, we brought in expertise on legal issues, security, evaluation, and AI governance. Working together across different teams at this scale sets a strong example of what can be achieved at pace when we share a common goal."
+        },
+        {
+            "heading": 2,
+            "text": "How it works"
+        },
+        {
+            "text": "The summariser is based on a RAG (Retrieval-Augmented Generation) workflow. Relevant funding opportunities are retrieved from a data store and then used to augment a query to the Large Language Model (LLM)."
+        },
+        {
+            "text": "With agreement from website owners, we extract via Application Platform Interfaces (API) or scrape relevant website data. This is updated on a regular basis to ensure we capture the latest opportunities. This data includes the core funding opportunity description as well as metadata that we can extract from the source. For some opportunities, we add additional metadata, such as tags (for example the best matching sector tag for a funding opportunity, such as Aerospace).\u00a0 This improves our retrieval performance."
+        },
+        {
+            "text": "Vector embeddings of the funding descriptions are created with an embedding model available through our cloud provider AWS.\u00a0 We then use OpenSearch to store our data and create a vector index for vector search."
+        },
+        {
+            "text": "Inputs provided by the user are passed to a query template which is then embedded. A vector search is done to retrieve the most relevant funding opportunities which are passed to an LLM to generate a summary. A system prompt has also been engineered to provide the LLM with core instructions. These ensure outputs align with internal business rules, follow formatting rules and improve overall output quality."
+        },
+        {
+            "text": "On the front-end, we have a cache store for rapid access of results. The front-end can securely access the LLM via an event-driven system in our cloud platform, with queue management."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We are now gathering feedback and developing an understanding of how users interact with an AI powered funding summary. This is an essential part of the product lifecycle. It will inform how the product might evolve and be improved, as well as enable us to gain other insights, like value for money."
+        },
+        {
+            "text": "We are also exploring how we might reduce the API response time, thereby limiting our reliance on caching and pre-generation."
+        },
+        {
+            "text": "As well as this, we are considering ways to more robustly update the funding opportunity data store by detecting changes on new \u2018scans\u2019 of our funding partners. Any updated data would then trigger an update in the vector database with an upsert for efficiency. Any associated results for that domain (i.e. Agriculture specific funding, which would have the tag \u2018agriculture\u2019) are then updated in the cache for quick access."
+        },
+        {
+            "text": "We have initiated thinking on how we could expand the range of funding opportunities that can be surfaced through the feature. This requires liaising with various stakeholders to secure agreement to collate data, as well as considering how we will manage and maintain that data going forward."
+        },
+        {
+            "text": "There has been interest from across DBT in deploying an AI summariser functionality for various use cases and subject matter areas. Learning from this very first deployment will help inform our strategy for how we might apply this to other areas."
+        },
+        {
+            "heading": 2,
+            "text": "Final thoughts"
+        },
+        {
+            "text": "AI has the potential to transform the way users interact with our digital services and content. Here, we have used content that users could already find by navigating through our website, combining it with generative AI as well as more \u2018traditional\u2019 retrieval and business logic.\u00a0 This makes it easier and quicker for users to find the support they need. A core theme throughout the development process has been the significance of data. AI does hold the potential for huge change, but the importance of high-quality data and the processes that underpin it are vital."
+        },
+        {
+            "text": "This is the very first public facing use of generative AI at DBT. As we learn and iterate, we hope to discover new ways to surface information and support for businesses, ultimately driving economic growth."
+        },
+        {
+            "text": "This blog post is the second in a series of posts on how we are transforming the online offer for business. Read our first blog post here, and sign up to our blog if you want to hear how our work is progressing.\u00a0"
+        }
+    ]
+}
