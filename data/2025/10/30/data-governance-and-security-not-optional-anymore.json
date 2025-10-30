@@ -1,0 +1,155 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/10/30/data-governance-and-security-not-optional-anymore/",
+    "title": "Data governance and security: Not optional anymore",
+    "authors": [
+        "Szymon Walkowiak, Head of AI Ethics and Data Governance"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2025-10-30T13:48:18+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Szymon Walkowiak"
+        },
+        {
+            "heading": 2,
+            "text": "Introduction"
+        },
+        {
+            "text": "In today\u2019s world dominated by data and AI, the UK government is increasingly reliant on secure, well-governed data to inform policy, deliver public services, and foster innovation. As outlined in our recent blog posts on strategic ambitions for data and open-source infrastructure for data platforms, our department is committed to building a future-ready data ecosystem. At the heart of this transformation lies a critical foundation: data governance and security."
+        },
+        {
+            "text": "These elements are not merely technical necessities. They are strategic enablers. They ensure that data is used responsibly, ethically, and effectively across departments, while safeguarding public trust and complying with legal obligations. As artificial intelligence (AI) becomes increasingly embedded in public sector decisions and operations, the importance of robust governance and security frameworks has never been greater."
+        },
+        {
+            "text": "This article joins findings from our recent cross-governmental discovery work by focusing on data governance and security, highlighting key themes, challenges, and opportunities. It also situates these insights within the broader context of UK and international legislation, and the evolving demands of AI governance."
+        },
+        {
+            "heading": 2,
+            "text": "The strategic role of data governance and security"
+        },
+        {
+            "text": "Data governance encompasses the policies, standards, and practices that guide how data is collected, stored, accessed, and used. On the other hand, security refers to the technical and procedural measures that protect data from breaches, misuse, and unauthorised access."
+        },
+        {
+            "text": "Together, these 2 concepts underpin:"
+        },
+        {
+            "text": "In a landscape increasingly shaped by AI tools, the stakes are higher than ever. Without strong governance, data misuse can lead to biased algorithms, privacy violations, and erosion of public confidence. Conversely, well-governed data enables responsible AI deployment, ensuring fairness, transparency, and compliance with legal standards."
+        },
+        {
+            "heading": 2,
+            "text": "Key themes from discovery work"
+        },
+        {
+            "text": "The discovery project, conducted by the Department for Business and Trade (DBT) with 15 other organisations across Civil Service, charities and private sector, revealed a diverse range of practices and aspirations across the participants. Several key themes emerged, reflecting both common challenges and innovative approaches."
+        },
+        {
+            "text": "1. Evolving access controls: RBAC and ABAC"
+        },
+        {
+            "text": "Access control is a cornerstone of data security. Many departments are transitioning from Role-Based Access Control (RBAC,which assigns permissions based on predefined roles) to more flexible Attribute-Based Access Control (ABAC) systems. ABAC considers multiple contextual aspects, such as user location, project affiliation, and time of access, allowing for more nuanced and dynamic permissions."
+        },
+        {
+            "text": "One organisation noted that while ABAC offers greater flexibility, the transition has introduced a significant number of manual processes, particularly around access approvals. This highlights the need for automation and streamlined workflows to support scalable governance."
+        },
+        {
+            "text": "Another organisation emphasised that regardless of the data\u2019s intended use, it must pass through the same governance process. This reinforces consistency and fairness in data access, ensuring that all users stick to the same standards."
+        },
+        {
+            "text": "2. Handling sensitive data with care"
+        },
+        {
+            "text": "Protecting sensitive data, especially health, financial, and personal information, is a top priority. Organisations employ a range of techniques to safeguard this data, including cleansing, masking, and complication. These methods help ensure that sensitive records are not inadvertently exposed or used inappropriately."
+        },
+        {
+            "text": "For example, one participant organisation described a rigorous process of removing sensitive records from datasets before they are made available for broader use. Another highlighted the heightened legal sensitivity surrounding health data, which requires stricter controls and compliance measures."
+        },
+        {
+            "text": "These practices align with key legislation such as the UK General Data Protection Regulation (UK GDPR), the Data Protection Act 2018, and sector-specific laws like the Health and Social Care Act 2012. They also reflect ethical commitments to privacy and responsible data use."
+        },
+        {
+            "text": "3. Governance by Design"
+        },
+        {
+            "text": "A proactive approach to governance (often referred to as Governance by Design) is gaining traction. It involves embedding governance considerations into the data lifecycle from the outset, rather than treating them as afterthoughts."
+        },
+        {
+            "text": "Organisations are increasingly conducting Data Protection Impact Assessments(DPIAs). They are appointing data owners and data stewards (as recommended by the Government Digital Service in their guidance on Data Ownership in Government (HTML) - GOV.UK), and integrating governance into data architecture and workflows. During the discovery project, one organisation shared plans to embed data stewards within every operational \u201cspoke\u201d of their operations, ensuring that governance is locally owned and contextually informed."
+        },
+        {
+            "text": "The data owners and steward\u2019s roles are also expanding into responsibility for ensuring data quality, compliance, and contextual understanding. By doing so, they essentially bridge the gap between technical teams and policy makers."
+        },
+        {
+            "text": "This emphasis on ownership and stewardship reflects a broader shift toward treating data as a strategic asset, rather than a byproduct of operations."
+        },
+        {
+            "text": "This approach enhances compliance and fosters a culture of responsibility and awareness around data use."
+        },
+        {
+            "text": "4. Legal and ethical standards"
+        },
+        {
+            "text": "Departments are acutely aware of the need to align data practices with legal and ethical standards. This includes clear policies on data retention, access rights, and acceptable use cases."
+        },
+        {
+            "text": "The UK\u2019s National Data Strategy, Digital Economy Act 2017, and emerging AI governance frameworks, such as the EU AI Act and OECD AI Principles,provide essential guidance. These frameworks emphasise transparency, accountability, and human oversight, which are critical for maintaining public trust and ensuring responsible innovation."
+        },
+        {
+            "text": "As AI tools become more prevalent, ethical governance will play a central role in mitigating risks and ensuring that technology serves the public good."
+        },
+        {
+            "text": "5. Data Catalogue"
+        },
+        {
+            "text": "Discoverability and ownership are essential for effective data use. Departments (and other organisations) are investing in data catalogues to improve metadata management, facilitate data sharing, and enhance transparency. These catalogues help users understand what data is available, who owns it, and how it can be used."
+        },
+        {
+            "text": "6. Secure cloud infrastructure"
+        },
+        {
+            "text": "Modern data platforms increasingly rely on cloud-native architectures, including containers and Software-as-a-Service (SaaS) environments. These technologies offer scalability, resilience, and flexibility, but they also introduce new security challenges."
+        },
+        {
+            "text": "Organisations are responding by establishing dedicated security teams focused on data governance. One of our participants described their efforts to create self-service platforms that empower users to access data independently, while still enforcing sensitive data strict controls."
+        },
+        {
+            "text": "Balancing openness with security is a recurring theme. Government departments and other public or private organisations want to enable innovation and collaboration. However, they must also protect against risks such as data breaches and unauthorised access. This \u201cbalancing act\u201d between enabling access to vital data assets and securing them effectively becomes a major challenge in the times of AI and cyber threats."
+        },
+        {
+            "heading": 2,
+            "text": "The push towards automated governance"
+        },
+        {
+            "text": "A key departmental goal is the move toward automated governance. Manual processes, especially around access control and compliance, are seen as barriers to tools adoption, agility and scalability. Automation can streamline approvals, enforce policies consistently, and reduce human error."
+        },
+        {
+            "text": "However, automation must be implemented thoughtfully. It requires:"
+        },
+        {
+            "text": "The goal is to create systems that are self-service yet secure, enabling users to access data quickly while maintaining trust and compliance."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges and opportunties"
+        },
+        {
+            "text": "Our discovery work highlighted several challenges:"
+        },
+        {
+            "text": "At the same time, there are significant opportunities:"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "Data governance and security are no longer optional. They are essential components of a modern, data-driven government. As the UK continues to advance its data strategy, the insights from our recent discovery work underscore the importance of embedding governance into every layer of the data ecosystem."
+        },
+        {
+            "text": "By investing in automated, ethical, and interoperable governance frameworks, the government can unlock the full potential of its data, delivering smarter policies, more responsive services, and greater public trust in an AI-driven future."
+        }
+    ]
+}
