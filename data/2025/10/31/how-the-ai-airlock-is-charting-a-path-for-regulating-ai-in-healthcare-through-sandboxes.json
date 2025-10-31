@@ -1,0 +1,81 @@
+{
+    "url": "https://medregs.blog.gov.uk/2025/10/31/how-the-ai-airlock-is-charting-a-path-for-regulating-ai-in-healthcare-through-sandboxes/",
+    "title": "How the AI Airlock is charting a path for regulating AI in healthcare through sandboxes",
+    "authors": [
+        "Dr Natasha Motsi"
+    ],
+    "categories": [
+        "AI Airlock"
+    ],
+    "pub_date": "2025-10-31T14:28:15+00:00",
+    "content": [
+        {
+            "text": "When I think of adventurers and explorers, space exploration comes to mind. The courage to step into the unknown, to test the limits of what\u2019s possible, and to bring back knowledge that advances the understanding of the collective. Regulation isn\u2019t usually seen as exciting or adventurous, yet in many ways it demands the same spirit."
+        },
+        {
+            "text": "Just as astronauts need an airlock to safely adjust before entering space, regulators and innovators need a safe space to explore how new technologies can meet and/or challenge regulatory standards without risking patient safety."
+        },
+        {
+            "text": "In a sense, the AI Airlock embodies that same spirit of exploration. It is a first-of-its-kind regulatory sandbox designed to help us test, learn, and adapt our approach to regulating artificial intelligence in healthcare."
+        },
+        {
+            "text": "The AI Airlock is not a route to market, which means we can gain valuable insights about these products without impacting patient care. Through technical testing, evidence generation grounded in real-world use cases, workshops, regulatory deep dives, and collaboration, we identify approaches that could be used to address key regulatory challenges often experienced with AI as a medical device (AIaMD)."
+        },
+        {
+            "text": "In our pilot phase, we partnered with four pioneering companies: Philips Healthcare, AutoMedica, OncoFlow, and Newton\u2019s Tree, each tackling a distinct regulatory challenge. Together, we explored how new datasets for testing AI could be generated responsibly, how large language models (LLMs) could be made safer for healthcare by improving transparency and explainability, and by reducing the likelihood of errors. We also examined how products could be continuously monitored once on the market."
+        },
+        {
+            "heading": 2,
+            "text": "Discoveries from the Pilot"
+        },
+        {
+            "text": "What we found showed where frameworks must evolve to keep pace with the rapid development of AI."
+        },
+        {
+            "text": "How do you safely train or test a new medical AI? Often, vast amounts of data are needed."
+        },
+        {
+            "text": "AI is only as good as the data used in its development. We worked with Philips Healthcare to explore a novel solution to instances where data is scarce: using an LLM to create realistic but artificial \u201csynthetic\u201d radiology reports for testing. We then compared this synthetic data to real reports using automation and human experts. Philips also looked at using AI to act as a \u201cjudge\u201d to assess the quality of the reports. The results were promising \u2013 synthetic reports were successfully created, but the LLM judge had some limitations. This highlighted the importance of regulatory guidance on quality of synthetic data and its validation. A lack of clarity may lead to flawed or incomplete synthetic data and validation techniques which could risk patient safety in real-world use."
+        },
+        {
+            "text": "AI \u201challucinations\u201d, when systems generate confident but incorrect responses, is another key challenge. In most healthcare contexts, the risks of incorrect information could be detrimental. The AutoMedica SmartGuideline project found that grounding AI models in verified clinical sources using a proprietary version of Retrieval Augmented Generation (RAG) helped reduce these errors compared to using a general-purpose model alone. RAG is an approach that can be used to ground an AI model\u2019s responses in information retrieved from trusted external sources, improving accuracy and transparency."
+        },
+        {
+            "text": "Policy should reflect the need for AI-specific safety measures within risk management frameworks. In addition, post-market surveillance of these tools could be strengthened, potentially through existing systems like the Manufacturer\u2019s Online Reporting Environment (MORE) portal and the Yellow Card scheme."
+        },
+        {
+            "text": "It\u2019s important that patients, clinicians and others in the care pathway understand the outputs from the AI medical device that they are using. For example, knowing why an AI medical device has recommended a specific treatment empowers users to accept or reject the recommendation. This \u201cexplainability\u201d was a primary focus for the OncoFlow project. Using various tools, the OncoFlow system demonstrated how the AI reached its treatment recommendation decisions. Clinicians surveyed noted this as being \"extremely important\" for building trust and ensuring transparent, safe use of AI in clinical practice. Guidance on AI explainability may help innovators when devising relevant approaches which can help build trust and address these human factors."
+        },
+        {
+            "text": "The final questions were about how to monitor an AIaMD after it has been deployed in a hospital. Our work with Newton\u2019s Tree demonstrated that continuous real-time monitoring of AI medical devices is important. We saw how such monitoring could detect concerning patterns, such as clinicians becoming over-reliant on AI systems due to factors like fatigue and time pressure. Developing guidance around continuous monitoring for ongoing AI safety surveillance would help to identify and address potential risks, like change in AI performance or user over-reliance, before they impact patient safety."
+        },
+        {
+            "text": "The AI Airlock pilot operated under compressed timelines during Phase 1, but as we transition into Phase 2, these are evolving into slightly extended schedules to accommodate deeper regulatory engagement. It's important to note that the testing and reports reflect only a snapshot of the broader, ongoing validation efforts being undertaken by candidates on their regulatory journey. \u00a0\u00a0"
+        },
+        {
+            "text": "In the spirit of shared learning, collaboration and transparency, all these insights, and many more, are presented in detail in our Simulation Workshop Reports and our detailed Programme Report."
+        },
+        {
+            "text": "Our work doesn\u2019t stop with the pilot. The findings from the AI Airlock are already being channelled into the UK\u2019s National Commission into the Regulation of AI in Healthcare, supporting the expert commission to advise the MHRA on a framework to make sure revolutionary AI technology can be introduced in a safe, effective and reliable way."
+        },
+        {
+            "text": "Launched on 26 September 2025, the National Commission brings together global AI leaders, clinicians and regulators to advise the MHRA on the development of a new regulatory framework for AI in healthcare, to be published in 2026."
+        },
+        {
+            "heading": 2,
+            "text": "Phase 2: Expanding on the pilot and delving into new territory"
+        },
+        {
+            "text": "The next phase of the AI Airlock sees seven innovators \u2013 Tortus, Numan, Panakeia, Octopath, NHS England Federated Data Platform, Deep X AI, and Eye2Gene \u2013 bringing more technologies and perspectives into the fold. We\u2019ll be exploring regulatory challenges with pre-determined change control plans and post-market surveillance, scope of intended use, and AI-powered IVDs. We\u2019ll also be working more closely with our partners at the Centres of Excellence for Regulatory Science and Innovation - CERSI-AI and RADIANT-CERSI - as well as others across programmes, sectors, and jurisdictions. Collaboration will remain a key tenet as we explore further."
+        },
+        {
+            "text": "The strength of this continued collaboration was clear at the recent Airlock Kick-Off Connect event, where we launched our second phase and brought our key stakeholder networks together to start developing a shared understanding of the problem space and potential solutions."
+        },
+        {
+            "text": "Over the coming weeks, we are completing situation assessments and moving into test plan development, outlining key hypotheses and methodologies for exploration. Over winter, we will dive into testing and regulatory intelligence. As the new year rolls in, we will engage in simulation workshops \u2013 bringing key stakeholders together again for a first look at results and to discuss solutions and recommendations for policy updates. The current phase of the AI Airlock will run until March 2026."
+        },
+        {
+            "text": "Thank you to our pioneering pilot partners and to the entire MHRA team for their commitment to this essential work. You can follow our journey by joining our mailing list. "
+        }
+    ]
+}
