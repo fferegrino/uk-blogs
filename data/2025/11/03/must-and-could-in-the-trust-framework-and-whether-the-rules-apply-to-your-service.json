@@ -1,0 +1,57 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/11/03/must-and-could-in-the-trust-framework-and-whether-the-rules-apply-to-your-service/",
+    "title": "\u201cMust\u201d and \u201ccould\u201d in the trust framework and whether the rules apply to your service",
+    "authors": [
+        "John Peart"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2025-11-03T15:04:30+00:00",
+    "content": [
+        {
+            "text": "We\u2019ve been asked whether all of the rules in the gamma (0.4) trust framework apply in the trust framework or supplementary codes when the rules say \u201cmust\u201d."
+        },
+        {
+            "heading": 2,
+            "text": "Different rules apply to different \u201croles\u201d"
+        },
+        {
+            "text": "The trust framework is written around the concept of \u201croles\u201d. A service can be certified as a:"
+        },
+        {
+            "text": "Each service must be at least one of these roles but a service might also perform more than one of these roles."
+        },
+        {
+            "text": "All certified services must comply with the rules in Part 3 of the 0.4 trust framework regardless of what role they perform and even if there are no other rules specific to that role. These rules set the baseline level of quality for every service."
+        },
+        {
+            "text": "Additional rules might apply depending on the role your service plays in the ecosystem. The rules are in Part 2 of the 0.4 trust framework. As an example, if you are an IDSP only, under 0.4 of the trust framework, you must conform to the rules in Section 5 and Section 10, but not the rules in Sections 6, 7, 8 or 9."
+        },
+        {
+            "heading": 2,
+            "text": "All the rules apply in relevant sections"
+        },
+        {
+            "text": "All of the rules in the trust framework and supplementary codes are described using the terms:"
+        },
+        {
+            "text": "If a Part or Section in the trust framework applies to your role, then all of the rules in that Part or Section apply to your service. Your service must conform with all of the \u201cmust\u201d rules, and service providers can choose whether or not to implement any \u201ccould\u201d rules."
+        },
+        {
+            "heading": 2,
+            "text": "There are no opt-outs"
+        },
+        {
+            "text": "All the rules apply if they include the word \u201cmust\u201d. As a service provider, you cannot opt-out or descope a rule that includes the word \u201cmust\u201d. As the trust framework is outcome-focused and technology-agnostic, you can seek to conform to these rules in any appropriate way; but your service is, nonetheless, required to conform."
+        },
+        {
+            "text": "If you cannot demonstrate that your service conforms, it cannot be certified against the gamma (0.4) trust framework."
+        },
+        {
+            "text": "Of course, if you disagree with the existence of a rule, we review the trust framework regularly and we welcome your feedback! Where we believe a rule is unclear \u2013 whether it is a \u201cmust\u201d or \u201ccould\u201d rule \u2013\u00a0we may publish additional guidance to clarify it for providers and CABs (for example, in a blog post), and may revise it in future versions of the framework."
+        }
+    ]
+}

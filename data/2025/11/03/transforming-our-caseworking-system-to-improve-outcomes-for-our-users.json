@@ -1,0 +1,75 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2025/11/03/transforming-our-caseworking-system-to-improve-outcomes-for-our-users/",
+    "title": "Transforming our caseworking system to improve outcomes for our users",
+    "authors": [
+        "Anne McGuinness, CID Decommissioning Lead"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "Digital strategy"
+    ],
+    "pub_date": "2025-11-03T12:35:57+00:00",
+    "content": [
+        {
+            "text": "The Home Office has now fully transitioned to the new caseworking system for managing immigration and asylum applications, Atlas. We have successfully decommissioned the legacy caseworking system, Case Information Database (CID), as we continue to transform our digital services in line with our Home Office 2030 Digital Strategy."
+        },
+        {
+            "heading": 2,
+            "text": "Making it quicker and easier for people to use Home Office services"
+        },
+        {
+            "text": "Atlas digitises the caseworking process, supporting our \u2018Digital First\u2019 strategy. Greater automation removes the need for paper applications, meaning a speedier application journey."
+        },
+        {
+            "text": "Atlas is integrated with customer-facing application portals, such as GOV.UK, to ensure a streamlined end-to-end process from online application to decision. When our applicants key their information into the customer-facing portals, their applications are instantly transferred to the Atlas caseworking system. A case is then automatically prepared for the relevant caseworking team."
+        },
+        {
+            "text": "Atlas notifies applicants using email, text messages and physical letters (where necessary) sent automatically at specific milestones in the caseworking process. Once a series of tasks have been completed by colleagues in Atlas, a decision is made on the case and the applicant is notified.\u00a0Because the systems are integrated, applications don't need to be re-keyed into the caseworking system, saving time, duplication, and the potential for human error. \u00a0"
+        },
+        {
+            "text": "This automation frees colleagues from repetitive administrative and manual tasks to focus on crucial case consideration and decision-making. Within application routes, like student and skilled worker, we\u2019ve already seen productivity among caseworkers double and even treble. Atlas\u2019 clear and logical layout and automation of tasks and actions, such as completion of decision notices and automated emailing of decisions using GOV.UK Notify, has made processing of these types of application much more efficient."
+        },
+        {
+            "heading": 2,
+            "text": "Atlas: built and managed by us to deliver on user need"
+        },
+        {
+            "text": "Atlas is supported by Vantage, which provides corporate information using Atlas data, and Entity Search which provides a search of Atlas data and other Home Office systems."
+        },
+        {
+            "text": "As Atlas is owned and built by us it can be maintained and improved in response to immigration priorities and provide operational resilience."
+        },
+        {
+            "text": "By replacing legacy infrastructure, we\u2019ve improved resilience and reduced the costs of our digital services in line with objective 7 of our Digital Strategy 2030. By modernising our technology, we\u2019re improving outcomes for users."
+        },
+        {
+            "heading": 2,
+            "text": "Using an agile approach to transition to the new caseworking system"
+        },
+        {
+            "text": "Replacing CID was a complex exercise. We migrated and retained integral, inflight data (data associated with current cases) to ensure we didn\u2019t introduce risks to operational caseworking, such as loss of client data. Atlas functionality was delivered in stages using agile methodology while the use of CID was scaled down."
+        },
+        {
+            "text": "Multiple Home Office teams have been involved in the transition away from CID. "
+        },
+        {
+            "text": "Our Migration and Borders Technology Portfolio in Home Office Digital built Atlas in continual collaboration with operational teams to ensure any changing requirements were addressed. The Home Office Digital Enterprise Services team now manage the live system. Home Office colleagues in the Performance Reporting and Analysis Unit deliver the Management Information reports created from Atlas data that operational teams use to inform work and decision-making.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Upgrading our technology saves money and mitigates cyber risks"
+        },
+        {
+            "text": "The transition from CID to Atlas has been a complex 8-year journey impacted by the need to deliver new services in reaction to global events such as Brexit, Covid, the Afghan Citizens Resettlement Scheme and the Ukraine Citizens Schemes."
+        },
+        {
+            "text": "By replacing legacy infrastructure we\u2019ve improved our digital resilience and reduced the costs of our digital services by millions every year, in line with objective 7 of our Digital Strategy 2030. We\u2019re mitigating the cyber risks associated with using aged technology and improving digital outcomes for users."
+        },
+        {
+            "text": "Over 460 teams across multiple directorates have now adopted Atlas, including the Settlement caseworking team and the Reporting Offender Management teams."
+        },
+        {
+            "text": "Steve Whatson, Immigration Technologies Platform Programme Director and Head of Caseworking Capability, concludes:\u00a0"
+        }
+    ]
+}
