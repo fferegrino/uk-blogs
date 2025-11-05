@@ -1,0 +1,105 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/11/05/what-are-valid-certificates-under-the-uk-digital-identity-and-attributes-trust-framework/",
+    "title": "What are valid certificates under the UK digital identity and attributes trust framework?",
+    "authors": [
+        "Livia Ralph"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity",
+        "Register of digital identity and attribute services"
+    ],
+    "pub_date": "2025-11-05T10:00:00+00:00",
+    "content": [
+        {
+            "text": "As a digital verification service (\u201cDVS\u201d) provider, you need to have a valid certificate of conformity (\u201ca certificate\u201d) if you want to:"
+        },
+        {
+            "heading": 2,
+            "text": "Standards you, your service and your certificate must meet "
+        },
+        {
+            "text": "A certificate is an official document that confirms a service has been successfully evaluated as meeting the requirements in the trust framework and any relevant supplementary codes."
+        },
+        {
+            "text": "For a certificate to be valid within the trust framework certification scheme (\u201cthe scheme\u201d), it must meet specific criteria:"
+        },
+        {
+            "heading": 3,
+            "text": "1. Issued by an approved and accredited Conformity Assessment Body (CAB)"
+        },
+        {
+            "text": "Your service must be evaluated by a CAB that has been approved by the Office for Digital Identities and Attributes (\u201cOfDIA\u201d) and accredited by the UK Accreditation Service (\u201cUKAS\u201d). It\u2019s fine to work with a CAB that\u2019s either:"
+        },
+        {
+            "text": "If you choose to work with a CAB that is in the process of seeking accreditation, and they issue a certificate for your service, it will have validity whilst that CAB goes through the accreditation process. Thereafter the certificate they issue will only continue to be valid if the CAB becomes UKAS accredited. You will also have to wait to apply to get onto the register until the CAB is officially accredited."
+        },
+        {
+            "text": "We publish a list of approved conformity assessment bodies for the scheme on GOV.UK.\u202f"
+        },
+        {
+            "heading": 3,
+            "text": "2. Issued in line with the rules CABs must follow"
+        },
+        {
+            "text": "Just as there are rules that DVS providers must follow, there are also rules for CABs to follow when conducting an evaluation and deciding whether to certify your service.\u202f\u202f"
+        },
+        {
+            "text": "CABs are solely responsible for making decisions about whether or not to certify a service against the trust framework. However, the certificates they issue are only valid under the scheme if the issuing CAB follows all of the rules about how to certify a service. We have set out these rules that CABs must meet in our certification scheme requirements.\u202f"
+        },
+        {
+            "text": "This means that there may be occasions when a CAB issues a certificate to a service that meets the requirements under the trust framework and any relevant supplementary codes, but that certificate is not valid because the CAB is not compliant with our certification scheme requirements. \u202f"
+        },
+        {
+            "heading": 3,
+            "text": "3. Certificates contain the required information"
+        },
+        {
+            "text": "Each CAB can create their own layout for the certificates they issue, but they must include the information that we specify in the certification scheme requirements:\u202f\u202f"
+        },
+        {
+            "heading": 4,
+            "text": "Information about the DVS"
+        },
+        {
+            "text": "For the trust framework certification scheme, each certificate must contain key information to identify the DVS, which includes:\u202f"
+        },
+        {
+            "heading": 4,
+            "text": "Information about what the DVS can do"
+        },
+        {
+            "text": "The certificate must also include other information about what the DVS is allowed to do, such as:\u202f"
+        },
+        {
+            "text": "If a certificate isn\u2019t produced correctly, for example if it\u2019s missing information, it\u2019s not valid.\u202f"
+        },
+        {
+            "heading": 4,
+            "text": "Checking certificate validity\u202f"
+        },
+        {
+            "text": "CABs submit all certificates produced under the certification scheme to OfDIA, and we check they have been produced in accordance with the certification scheme rules."
+        },
+        {
+            "text": "Sometimes, we may need to return a certificate to a CAB; for example, if it has incorrect or missing information. We\u2019ll ask the CAB to investigate and submit a new, corrected certificate if necessary.\u202f\u202f\u202f"
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019ll invite you to publish details about your services"
+        },
+        {
+            "text": "Once your service has been issued a valid certificate, we\u2019ll invite you to apply to have your details published on the GOV.UK register of digital identity and attribute services."
+        },
+        {
+            "text": "Once they come into force, provisions in the Data (Use and Access) Act 2025 place a duty on us, acting on behalf of the Secretary of State, to register you and your service in the statutory register if you meet the conditions set out in section 33(1) of the Act (subject to limited exceptions). One of these conditions is that you must hold a certificate confirming compliance with the trust framework issued by a CAB which has been accredited by UKAS."
+        },
+        {
+            "heading": 2,
+            "text": "What happens if a certificate is not valid\u202f"
+        },
+        {
+            "text": "If a certificate is not valid, you can\u2019t rely on it to prove your service conforms to the trust framework and you can\u2019t apply to have it shown on the register."
+        }
+    ]
+}
