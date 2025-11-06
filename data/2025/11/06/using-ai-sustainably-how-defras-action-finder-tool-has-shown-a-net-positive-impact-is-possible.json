@@ -1,0 +1,115 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/11/06/using-ai-sustainably-how-defras-action-finder-tool-has-shown-a-net-positive-impact-is-possible/",
+    "title": "Using AI sustainably: how Defra\u2019s Action Finder tool has shown a net positive impact is possible",
+    "authors": [
+        "Lee Croucher",
+        "Giorgio Peacock"
+    ],
+    "categories": [
+        "AI",
+        "Defra digital",
+        "Digital delivery",
+        "Digital services",
+        "Digital Sustainability",
+        "Product Management"
+    ],
+    "pub_date": "2025-11-06T12:11:25+00:00",
+    "content": [
+        {
+            "text": "Lee Croucher and Giorgio Peacock are Product Managers in the Farming and Countryside Programme at Defra. In this blog post they talk about a recent project exploring sustainable AI development and its potential to reduce the impact our digital services have on the world around us."
+        },
+        {
+            "text": "As the opportunity and excitement around AI grows, so do the concerns around its environmental and ethical costs. At Defra, we recently set out to test a bold hypothesis: can AI deliver a net positive impact \u2013 environmentally, socially, and economically, while also solving a real-world problem?"
+        },
+        {
+            "text": "We ran a short proof of concept to see if this could be done. The result was a compelling case for AI that works with the planet, not against it."
+        },
+        {
+            "heading": 2,
+            "text": "The brief"
+        },
+        {
+            "text": "The AI Lab was aimed at exploring sustainable AI development within government. The Defra team comprised Rhiannon Long (Senior Content Designer), Giorgio Peacock (Product Manager) and Lee Croucher (Lead Product Manager), working alongside a team of data scientists and sustainability experts at Transform UK. We started by looking for a real use case with the potential to make a big impact for our users. We found it in the farming funding experience."
+        },
+        {
+            "text": "Farmers across England rely on Defra schemes to support more sustainable and profitable agriculture. But finding the right funding, understanding eligibility and navigating regulations is far from simple. Complex GOV.UK content, limited information around compatibility between schemes and a lack of personalised support often push farmers to incur costs by using land agents or to have long phone calls with our contact centre. This increases costs, causes delays and contributes to unnecessary carbon emissions. It also creates a high barrier to entry, with many farmers potentially missing out on funding they could be receiving."
+        },
+        {
+            "text": "We wanted to prove AI could not only address this challenge, but do so sustainably by reducing total environmental impact while also improving social and economic outcomes for farmers and Defra."
+        },
+        {
+            "heading": 2,
+            "text": "Taking a lean approach, while leveraging the latest AI technology"
+        },
+        {
+            "text": "We wanted to demonstrate what can be achieved in a short space of time \u2013 just 4 weeks. Our goal wasn\u2019t to build a polished product, but to test assumptions and build a working concept we could put in front of users as quickly as possible."
+        },
+        {
+            "text": "Here\u2019s how we approached it:"
+        },
+        {
+            "heading": 2,
+            "text": "The Action Finder tool"
+        },
+        {
+            "text": "We built a prompt-based AI tool, designed to help farmers find relevant funding for them. The funding options it suggested were based on:"
+        },
+        {
+            "text": "In their own words, users enter a prompt describing their farm. For example:"
+        },
+        {
+            "text": "The user can also provide information about what funding they\u2019re already getting."
+        },
+        {
+            "text": "Once the user submits their prompt, they get:"
+        },
+        {
+            "heading": 2,
+            "text": "Potential environmental, social and economic benefits of scaling the tool\u00a0"
+        },
+        {
+            "text": "A key part of the project was carrying out a net positive analysis. This looked at the potential outcomes that could be achieved if we were to release this tool to users."
+        },
+        {
+            "text": "We gathered as much data as possible to compare the impact of the current user journey versus the expected journey using the action finder."
+        },
+        {
+            "text": "The total cost and carbon emissions of the current state were estimated, looking at measures like contact centre calls, website searches and farm visits by land agents. This was then compared with the approximate cost and environmental impact of our AI tool at scale."
+        },
+        {
+            "text": "It\u2019s important to note we had to rely quite heavily on various assumptions and industry benchmarks to reach an estimation. The data made available by tech companies around their AI tools is still very limited. We were also working with limited data around the actual cost of the current customer journey."
+        },
+        {
+            "text": "Assuming 20,000 farmers were to self-serve using the tool:\u200b"
+        },
+        {
+            "text": "Although this is a limited analysis based on the data available to us, it gives us a good indication of the order of magnitude of impact that could be possible through using this technology."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "This experiment was a valuable learning experience, both in terms of technology and sustainability, as well as demonstrating what can delivered in a short space of time within government when technology teams are empowered and given autonomy to innovate in an agile way."
+        },
+        {
+            "text": "We successfully proved the concept and received positive feedback. The right level of information was provided, and the accuracy and relevancy of the results were high. The feedback around the speed at which the user can get the information needed was also positive."
+        },
+        {
+            "text": "We also identified some key areas for improvement, for example the reading level of the content is slightly higher than what we typically use on GOV.UK and the tool sometimes presents actions without showing you\u2019d need to apply for a base action for it to be applicable. The LLMs used were quite experimental, meaning it would provide slightly different options when you input the same query twice."
+        },
+        {
+            "heading": 2,
+            "text": "A net positive future for AI"
+        },
+        {
+            "text": "When we set out on this project, it was important we understood the cost to the planet of using AI tools to solve the problems we\u2019re facing in government. We started to see how, if applied to the right problem, with deliberate and careful design and a focus on sustainability, AI tools can be built with environmental and social implications in mind."
+        },
+        {
+            "text": "We still think there\u2019s a way to go. Companies delivering AI technology need to be open and transparent about the environmental impacts of their tech. It\u2019s only with this data that we can make properly informed decisions about when AI is the best solution for our needs."
+        },
+        {
+            "text": "The Defra x Transform AI lab has been a great experience, and we\u2019re excited about what\u2019s ahead. Stay tuned for future updates by subscribing to the Defra digital blog as we continue our sustainable AI journey."
+        }
+    ]
+}
