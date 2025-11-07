@@ -1,0 +1,101 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/11/07/sourcing-the-stack-for-local-government-technology/",
+    "title": "Sourcing the stack for local government technology",
+    "authors": [
+        "Phil Rumens, Principal Technologist, GDS,"
+    ],
+    "categories": [
+        "GOV.UK Notify",
+        "GOV.UK Pay",
+        "Technology",
+        "Transformation"
+    ],
+    "pub_date": "2025-11-07T12:10:34+00:00",
+    "content": [
+        {
+            "text": "In January 2025, the Government Digital Service (GDS) published a blueprint for modern digital government. This was a bold vision for what the future might look like, which extended GDS\u2019 remit across the public sector and out to local government for the first time."
+        },
+        {
+            "text": "Over the following months, our GDS has identified priority challenges that GDS could work closely with local government to address."
+        },
+        {
+            "heading": 3,
+            "text": "The case for market reform"
+        },
+        {
+            "text": "One of these challenges is market reform, where it\u2019s clear that change is needed. A recent study by the Ministry for Housing, Communities, and Local Government (MHCLG) on building understanding of software markets in local government confirmed that the technology landscape in this area is dominated by a handful of suppliers in key areas."
+        },
+        {
+            "text": "Added to this, there\u2019s a systemic contradiction that local government is fragmented by design, but given the state of the market, councils often make similar technology choices, then individually procure many of the same products from a small pool of vendors, and separately expend the time of their under-resourced teams managing their own local technology stack of those similar products."
+        },
+        {
+            "heading": 3,
+            "text": "A shared vision"
+        },
+        {
+            "text": "Effective change begins with a shared vision that guides collective effort and ambition."
+        },
+        {
+            "text": "Our first step in GDS will be to define a clear view of a local government stack, which is the high-level architecture that underpins modern local public services. To achieve this, we will be working with partners in the UK and drawing on best practice from countries such as Denmark, Estonia, and Singapore."
+        },
+        {
+            "text": "Our vision will outline the essential layers such as data, integration, applications, and security, and clarify how these interact. Within each layer, we will identify the elements required to support seamless service delivery.\u00a0"
+        },
+        {
+            "text": "Establishing this architectural vision will create a unifying reference point for council technology to guide decision-making, investment, and collaboration across the sector. Most importantly, it will empower councils to deliver modern, efficient, sustainable public services."
+        },
+        {
+            "heading": 3,
+            "text": "Building on what already exists"
+        },
+        {
+            "text": "We\u2019ve already identified where we can take advantage of existing and emerging elements to help us achieve the vision for local government technology."
+        },
+        {
+            "text": "GDS products such as GOV.UK Pay and GOV.UK Notify are already available to councils. Likewise, i.AI and the Local Government Association worked together to carry out AI experiments to help townhalls cut costs and improve services.\u00a0 Meanwhile, new initiatives such as the GOV.UK App have included local government in their discovery work."
+        },
+        {
+            "text": "Alongside this is work by other departments. Some great examples of these are MHCLG\u2019s Open Digital Planning, which provides both products and a community of practice, Open Referral UK, which joins up community services data, the Cabinet Office\u2019s GovWifi service."
+        },
+        {
+            "heading": 3,
+            "text": "Towards a unified approach"
+        },
+        {
+            "text": "Our first major step will be to work to an agreed outline for the technology needed to deliver modern local public services that will enable us to scale up what works, and fix the places where it doesn\u2019t."
+        },
+        {
+            "text": "This vision will encompass the entire spectrum of how users might access local digital services, from using emerging technology such as personal assistants interacting with councils\u2019 agentic AI, to traditional channels such as assisted digital over the phone, which allows councils to provide one service through many channels."
+        },
+        {
+            "heading": 3,
+            "text": "Overcoming barriers to change"
+        },
+        {
+            "text": "Of course, we know that there are likely to be challenges to change, and we expect to encounter resistance where the solution extends beyond technology into people, process, and policy."
+        },
+        {
+            "text": "We will be looking out for barriers such as the absence of common data standards, limited capacity in local government digital teams, and local government reorganisation in England. This is why establishing a shared vision is so vital."
+        },
+        {
+            "heading": 3,
+            "text": "Co-creating the future"
+        },
+        {
+            "text": "Driven by the blueprint for modern digital government, our vision will be supported by central leadership and co-designed through a partnership between GDS, MHCLG, the Local Government Association (LGA), and the wider sector."
+        },
+        {
+            "text": "The aim is to set a jointly-agreed direction and provide leadership, not to impose something on councils. Local authorities are independent organisations, and any solution we offer should be chosen because of its quality, not because it\u2019s mandated."
+        },
+        {
+            "heading": 3,
+            "text": "A call to action"
+        },
+        {
+            "text": "While this vision might sound ambitious, the blueprint for modern digital government is a bold vision for the public sector, so bold plans are required to deliver it. For councils, this begins with an agreed understanding of the ingredients that make up a local government technology stack."
+        },
+        {
+            "text": "So, how can you help? If you're passionate about shaping how technology can transform the local public services used by millions of people every day, enhancing user experience and delivering better value for money, you can become part of the movement to improve technology in local government by filling out our registration form."
+        }
+    ]
+}
