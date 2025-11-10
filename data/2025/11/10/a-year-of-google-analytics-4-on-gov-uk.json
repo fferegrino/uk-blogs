@@ -1,0 +1,55 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2025/11/10/a-year-of-google-analytics-4-on-gov-uk/",
+    "title": "A year of Google Analytics 4 on GOV.UK",
+    "authors": [
+        "Anne Cremin, Senior Performance Analyst, GOV.UK",
+        "Julian Braun, Senior Product Manager, GOV.UK Insights and Analytics"
+    ],
+    "categories": [
+        "Data",
+        "How we work",
+        "User insights",
+        "What we're working on"
+    ],
+    "pub_date": "2025-11-10T15:41:48+00:00",
+    "content": [
+        {
+            "text": "At GOV.UK, we use data and insights to help us design the best possible content and services for our users. Making the most of our data, collected with a user\u2019s consent, is central to realising the vision set out in the blueprint for modern digital government."
+        },
+        {
+            "text": "Google Analytics is an important tool that enables us to understand how people use GOV.UK. Over the past few years, we\u2019ve migrated from the previous version of this tool, Universal Analytics, to the current supported version, Google Analytics 4 (GA4). We\u2019ve previously talked about our work upgrading to GA4, and the technical side of our implementation. Now, we want to reflect on a year of using the data, and where we want to go next."
+        },
+        {
+            "heading": 2,
+            "text": "How the last year has gone"
+        },
+        {
+            "text": "In July 2024 the Government Digital Service (GDS) made the successful transition from Universal Analytics to GA4 with no interruption to service and a clean switch from old to new data collection. We had already been tracking page views in GA4 for nearly 2 years, and had at least a year\u2019s data for the majority of our key events. We have more than 1,500 data analytics users across government, all of whom we managed to migrate to GA4 a few months before sunset. We had given critical users longer to familiarise themselves with the data via an early access group."
+        },
+        {
+            "text": "One thing we discovered during the migration is that the out-of-the-box GA4 interface would not directly meet many of our needs. We therefore adopted BigQuery as our primary platform for storing, processing and analysing our GA4 data, to enable high quality reporting and analysis. By enhancing our GA4 data with other datasets in BigQuery, we are able to uncover deeper insights about GOV.UK, such as analysing page visits against Google and internal site searches, or analysing traffic by content owner. BigQuery also allows us to customise reporting and metrics to our specific needs, enabling teams to quickly generate tailored insights and visualisations using tools such as Looker Studio. The insights we can gain from this allow us to build a much clearer picture of user behaviour on GOV.UK to help inform decision making at all levels."
+        },
+        {
+            "text": "Since we completed the migration, we have also moved from implementation to maintenance and continuous improvement. We have a healthy backlog of bug fixes and improvements we\u2019d like to make to our web analytics offering, and maintaining the high quality of our GA4 implementation requires ongoing effort. To help with this, we developed a support model to manage our routine tasks as well as requests from GA4 users in GOV.UK. We\u2019re hoping to roll this out to more teams within GDS in the coming months. We\u2019ve also upskilled on Dataform, to improve the stability of our GA4 data pipelines, and are continuing to iterate our work with the help of a growing data engineering function in GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Where we\u2019re going next"
+        },
+        {
+            "text": "More than 100 products rely on GA4 data, such as GOV.UK\u2019s search engine, the Content Data app, and a lot of our internal reporting. So, one of our primary goals is to ensure that this data remains as high quality as possible. We have developed a strategy for the next year that underpins our ambition to continually monitor, maintain and iterate our GOV.UK GA4 data. Google is also regularly releasing new features for GA4, so we\u2019re keeping our eyes open for anything that can help us or our data users."
+        },
+        {
+            "text": "We are also thinking about governance and resilience across the team and the wider GDS. We\u2019re currently working to ensure the right staff have the right skills to maintain our data collection and processing, and reduce bottlenecks."
+        },
+        {
+            "text": "With GOV.UK\u2019s proposition expanding to new channels, we\u2019ll be increasingly focussing on enabling cross-channel analysis, and we\u2019re also looking for new ways to get more out of our data. We\u2019re investigating how our work could be influenced by changes coming out of the Data (Use and Access) Act and are actively engaging with the Information Commissioner's Office consultation on updating their guidance."
+        },
+        {
+            "text": "We are also increasingly mixing our GA4 data with other datasets such as our own GOV.UK polling, and content data sources, utilising a tool our data engineers are currently building, called a semantic layer. Our semantic layer will help to translate complex data into familiar terms, so people can easily understand and work with it without needing technical knowledge. This will really help to improve our ability to make data-driven decisions."
+        },
+        {
+            "text": "We\u2019re really proud of how far we\u2019ve come in this project. Equally, we know there\u2019s still so much more value we can unlock from our web analytics data. We look forward to gradually delivering this to our users."
+        }
+    ]
+}
