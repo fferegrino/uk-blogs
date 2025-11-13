@@ -1,0 +1,69 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/11/13/the-local-deprivation-explorer-making-deprivation-data-easier-to-find-understand-and-use/",
+    "title": "The Local Deprivation Explorer: Making deprivation data easier to find, understand and use\u00a0",
+    "authors": [
+        "Rob Fry, Head of Data Tools"
+    ],
+    "categories": [
+        "Data",
+        "Innovation"
+    ],
+    "pub_date": "2025-11-13T10:08:18+00:00",
+    "content": [
+        {
+            "text": "The Indices of Multiple Deprivation (IMD) rank over 33,000 small areas across the country by levels of deprivation. It\u2019s one of the department\u2019s most important and widely used datasets and Accredited Official Statistics \u2013 shaping policy, guiding funding and informing decisions from a wide range of users. It even influences individuals\u2019 decisions, for example when they\u2019re deciding where to live.\u202f\u00a0"
+        },
+        {
+            "text": "Our goal was simple \u2013 to make this data, and the insights it holds, more accessible than ever. We set out to make it easier for everyone to find, use and understand deprivation data through our dedicated site.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we built\u202f\u00a0"
+        },
+        {
+            "text": "After reviewing user needs, feedback from previous releases and input from stakeholders, we began shaping our designs. Through iteration and testing, we arrived at 3 core elements that would define the experience.\u202f\u00a0"
+        },
+        {
+            "text": "We strived to make everything feel connected \u2013 an intuitive flow from one part of the site to the next. For example, if someone picks an area on the map, they\u2019re then prompted to check out the summary for that spot. Our aim was to guide users, without making them think too hard.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Designed to support democracy\u00a0"
+        },
+        {
+            "text": "\u00a0It\u2019s early days, but we\u2019ve already begun to see the tool used in real-world settings, supporting democracy, debate and decision making, and hearing lots of anecdotes of how the service is being used.\u202f The tool is being adopted by a diverse range of users from local authorities, policymakers and community groups to researchers and the media using the insights to enhance their work or spark discussions in public forums.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Performant and reusable tech\u202f\u00a0"
+        },
+        {
+            "text": "This project marked a technical milestone for our team and the department, being the first time our Svelte component library powered a live project. You can read more detailed thinking about this in our blog post, but as a quick recap it means:\u00a0"
+        },
+        {
+            "text": "Server-side rendering, strong performance, excellent search engine optimisation (SEO): SvelteKit makes it easy for us to efficiently server-side render the many pages (one for each of the 33,755 neighbourhoods), meaning they\u2019re quicker to load, more accessible, and can be more easily indexed by search engines. This approach allows us to avoid common pitfalls with large data-driven apps, such as slow calls to servers, heavy client-side number crunching (for example, based on the user's inputted postcode) and dynamic content which is difficult to index. The SEO benefits mean this content gets higher visibility in Google searches, helping more users get to the insights more quickly.\u202f\u00a0\u202f\u00a0Built-in reactivity:\u202fSvelte allows us to easily manage users' selections \u2013 it helps us serve personalised and localised content without repeatedly asking for selections, or without needing to write lots of complex code to save and track those selections.\u00a0"
+        },
+        {
+            "text": "High levels of customisation: By building the component library from the ground up we have full control over the experience. This allows us to react to small user interaction improvements as a result of user feedback, and better meet accessibility requirements. These can be challenging to meet when working with dynamic and visual content.\u202f\u00a0"
+        },
+        {
+            "text": "\u202fBeyond the Svelte component library, we\u2019ve also been working hard to set up shared infrastructure to host this IMD project. Importantly, this is also reusable and is already being incorporated to support future projects.\u202f\u00a0\u202f\u00a0All of this means that, as a team and a department, we now have lots of the building blocks in place to deliver these types of projects and services more efficiently and effectively than ever before. So, from now on, users can expect faster, better and easier-to-access insights!\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019d love your feedback\u202f\u00a0"
+        },
+        {
+            "text": "This is all work in progress, and we\u2019re keen to keep improving. If you\u2019ve used the deprivation app, we\u2019d love to hear what you think. Feedback, ideas, bug reports \u2013 all welcome.\u202f\u00a0"
+        },
+        {
+            "text": "If you\u2019re curious about the tech behind it, want to reuse parts of it, or fancy collaborating on the component library, we\u2019d love that too. Drop us a line at dataprojects@communities.gov.uk.\u00a0\u00a0"
+        },
+        {
+            "text": "If you\u2019re interested in the full statistical release, it\u2019s available online: English indices of deprivation 2025 - GOV.UK\u202f."
+        },
+        {
+            "text": "\u202fThe brilliant multi-disciplinary team behind this work includes: Andrew Hillman, Camilla Jones, Duncan Bradley, Glenn Herbert, Hayley Swain, Ibrahim Haizel, Miles Hinchliffe, Mike Lister, Navneet Dalton and Tim Kershaw.\u202f\u202f"
+        }
+    ]
+}

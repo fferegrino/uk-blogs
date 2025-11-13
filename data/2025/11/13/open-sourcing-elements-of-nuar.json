@@ -1,0 +1,47 @@
+{
+    "url": "https://gdsgeospatial.blog.gov.uk/2025/11/13/open-sourcing-elements-of-nuar/",
+    "title": "Open-sourcing elements of NUAR\u00a0",
+    "authors": [
+        "Dr Neil Brammall, NUAR Technical Product Owner",
+        "Paul Schagen, Deputy Director, Geospatial Data Assets and Contracts"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2025-11-13T11:43:49+00:00",
+    "content": [
+        {
+            "text": "NUAR has taken\u00a0a highly cautious\u00a0approach to open-sourcing due to the security impacts it could have.\u00a0We\u2019ve\u00a0been making\u00a0good progress\u00a0on selectively\u00a0open-sourcing\u00a0some elements and artefacts\u00a0from the programme though, and this blog describes that initiative.\u00a0"
+        },
+        {
+            "text": "Security has always been at the heart of the delivery of the\u00a0National Underground Asset Register (NUAR). Obviously, a service like NUAR needs to consider potential impacts to\u00a0digital and\u00a0physical infrastructure, and we\u2019ve worked very closely with the relevant agencies to ensure a strong security posture across cyber, physical and personnel threats.\u00a0"
+        },
+        {
+            "text": "This has had an understandable impact on our ability to fully adhere to the\u00a0Government Digital Service\u2019s (GDS) Service Standard\u00a0and\u00a0in particular item\u00a012 \u2013 \u201cMake new source code open\u201d. We have taken a deliberately\u00a0very cautious\u00a0approach to publishing NUAR code and artefacts, as fully open-source code would inevitably expose elements of the system security controls, and the methods employed to protect sensitive data. Providing hostile actors with a greater understanding of these measures could make them easier to circumvent.\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0tried to make up for this\u00a0with\u00a0other examples of working in the open, including running Sprint reviews with our stakeholders every three weeks over the last four years and strong adherence to item 13 \u2013 \u201cUse and contribute to open standards, common components and patterns\u201d.\u00a0We\u2019d\u00a0like to think that the NUAR programme has been something of an exemplar in this respect. We have fully adopted the standard user interface components used for GOV.UK services, we\u2019ve had a particular focus on the use of open-source software to reduce the impact of vendor lock-in, and most notably we have built NUAR upon a harmonised data model which is based on\u00a0international open standards, and which is itself\u00a0open-sourced. In fact, NUAR is the first implementation internationally of the OGC MUDDI\u00a0Conceptual\u00a0Data Model and has contributed significantly to the development of that standard.\u00a0"
+        },
+        {
+            "text": "Having led the way with the open publication of the NUAR data model, we are excited to announce some further examples of where we\u2019ve been able to safely provide open access to curated elements of the NUAR service which we\u00a0hope will support others in various aspects of their work. This\u00a0isn\u2019t\u00a0just about\u00a0opening\u00a0up\u00a0source code either, but also include principles,\u00a0specifications\u00a0and other useful material.\u00a0"
+        },
+        {
+            "text": "The elements of the service which we have been able to open source\u00a0to date\u00a0can be found on GitHub\u00a0"
+        },
+        {
+            "text": "As well as the NUAR Data Model and lots of\u00a0supporting documents about it, we have also published:\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0excited to bring these items into the open sphere. In many cases they represent early iterations, and we\u2019ll be doing more work and adding to them over time, but part of truly working out in the open is sharing work in progress as well as finished products, and we hope that you will find some use and interest in the items outlined here.\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0also keen to hear feedback of course, and examples of any work that you may do to extend and improve these offerings.\u00a0"
+        },
+        {
+            "text": "Please reach out to geospatial@dsit.gov.uk\u00a0\u00a0if you have any comments on this article or the items it covers.\u00a0"
+        },
+        {
+            "text": "You can also\u202fsign up\u202fto get an email notification every time we publish a new blog post. More information about NUAR can be found on\u00a0gov.uk\u00a0or follow us on\u00a0LinkedIn.\u00a0\u00a0"
+        }
+    ]
+}
