@@ -1,0 +1,35 @@
+{
+    "url": "https://mhrainspectorate.blog.gov.uk/2025/11/18/the-importance-of-accurate-gtin-and-2d-barcode-data-in-the-modern-healthcare-environment/",
+    "title": "The importance of accurate GTIN and 2D barcode data in the modern healthcare environment",
+    "authors": [
+        "Himal Makwana"
+    ],
+    "categories": [
+        "Automation",
+        "Global Trade Item Numbers"
+    ],
+    "pub_date": "2025-11-18T14:38:53+00:00",
+    "content": [
+        {
+            "text": "The use of automation in healthcare is helping transform how patient care is delivered and robotic dispensing systems and barcode verification are now widespread amongst pharmacy operations across both primary and secondary environments, aiming to reduce human error and improve efficiency. However, these systems rely entirely on the accuracy of the data printed on medicinal products, specifically the Global Trade Item Number (GTIN) and the 2D GSI DataMatrix barcode, which encodes the GTIN, batch number, and expiry date. As with many automated processes, when this data is incorrect, incomplete, or poorly formatted, the outcomes are more than just an inconvenience. It can directly lead to delays, dispensing errors, stock rejection, and most seriously, patient harm."
+        },
+        {
+            "text": "Robotic dispensing systems and barcode scanning are used to identify medicines accurately, automate storage and retrieval, verify expiry dates and batch numbers, ensure the right product reaches the right patient (including automated dispensing or specific checks of the products due to administered on hospital wards) and this process is only as safe as the data it relies on. Incorrect or inconsistent barcode data causes these systems to fail. Examples of recent issues reported by healthcare professionals include:"
+        },
+        {
+            "text": "These errors often result in stock being quarantined or completely discarded, or untimely manual workarounds that reintroduce human error into an otherwise safe system."
+        },
+        {
+            "text": "Whilst the use of GTINs and 2D barcodes has been well understood throughout the supply chain, the implications are far more serious than logistical inconvenience. The Defective Medicines Report Centre have seen an increase in these artwork errors, which have a real world consequence on patient safety. The potential for administration of incorrect medicines and missed doses due to stock rejection or delays have led to preventable harms, which should be avoidable by the robust systems that have been implemented. This can lead to reduced trust in automation and reduced trust with the Marketing Authorisation Holder (MAH)."
+        },
+        {
+            "text": "The MAH is responsible for ensuring that the artwork and encoded data on a medicine pack is accurate, compliant, and aligned with regulatory and operational standards. While the MHRA recognises that there is currently limited legislation in relation to the standardisation of this data, the following points can be used to ensure that all patient safety risks are mitigated as effectively as possible. The MAH should:"
+        },
+        {
+            "text": "As healthcare providers expand their use of robotic dispensing, ePMA (electronic prescribing and medicines administration, hub and spoke models), and closed-loop medication systems, barcode integrity is central to safety and efficiency. However, beyond compliance, this is a matter of patient trust. Every unreadable or incorrect barcode risks breaking the chain of safety that patients and healthcare providers are now dependent upon."
+        },
+        {
+            "text": "See further information and contact details for the Defective medicines reporting centre (DMRC):"
+        }
+    ]
+}

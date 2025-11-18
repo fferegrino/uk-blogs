@@ -1,0 +1,109 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/11/18/what-our-external-data-discovery-taught-us-about-data-processing-sharing-and-retention/",
+    "title": "What our external data discovery taught us about data processing, sharing and retention",
+    "authors": [
+        "Anthony Love, Chief Data Architect"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2025-11-18T10:22:45+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Anthony Love"
+        },
+        {
+            "text": "This blog continues our series exploring insights from a recent research project, involving 15 organisations across the civil service, private sector and charity sector. The project explored how large, complex organisations approach development of data strategies \u2013 their ambitions, challenges and practical choices."
+        },
+        {
+            "text": "In this post, we focus on what we learned about data processing, sharing and retention, and how these compare to our own approach at DBT."
+        },
+        {
+            "heading": 2,
+            "text": "Why focus on data processing, sharing and retention?"
+        },
+        {
+            "text": "Let\u2019s start with some definitions:"
+        },
+        {
+            "text": "Together, these areas combine technical and non-technical approaches that are critical to how we use data at DBT."
+        },
+        {
+            "heading": 2,
+            "text": "What's our context?"
+        },
+        {
+            "text": "As Soumaya and Michal highlighted in their blog about building better data platforms, at DBT we already have established tools and infrastructure for processing data. As a rule, our systems don\u2019t tend to process high volumes of real-time data. Instead, our focus to date has been on quality, and on bringing diverse datasets together to gain new insights and better support UK businesses."
+        },
+        {
+            "text": "However, data volumes are growing. We\u2019ve seen this first hand in our digital and data services over the past few years. This gives us new challenges for efficiency, scale and performance."
+        },
+        {
+            "text": "There is also a clear and continuing ambition to make better use of shared government data, and of course, to use data to enable AI and other innovation."
+        },
+        {
+            "heading": 2,
+            "text": "What did we discover?"
+        },
+        {
+            "text": "Our data discovery looked at a wide mix of public- and private-sector organisations, but we found a few recurring themes."
+        },
+        {
+            "heading": 3,
+            "text": "To centralise or not to centralise?"
+        },
+        {
+            "text": "Many of the organisations we spoke to began with a centralised approach to processing data. DBT has followed a similar path through our central data platform, Data Workspace. However, we observed a clear move towards decentralisation, particularly in more mature data organisations."
+        },
+        {
+            "text": "This makes sense \u2013 putting data in the hands of the people who know it best \u2013 but it can lead to inconsistencies in how data is processed and shared. We saw a wide variety of data ingestion approaches.\u00a0 These ranged from using advanced tools like Apache Airflow or Kafka, to Secure File Transfer Protocol (SFTP) or even bulk-uploading spreadsheets."
+        },
+        {
+            "text": "For DBT, we have established a relatively consistent approach in how we ingest, process and transform data. The challenge is: how can we enable decentralisation while keeping things consistent?"
+        },
+        {
+            "heading": 3,
+            "text": "Sharing and making data interoperable"
+        },
+        {
+            "text": "Data sharing was a key theme for the public sector organisations. The private sector organisations focused more on interoperability \u2013 especially those with a complex technology landscape and a multi-cloud approach."
+        },
+        {
+            "text": "Public sector teams recognised the value of data sharing but were often constrained by the technology available to them. There was strong recognition that manual bulk data sharing should be avoided, in favour of access to data through automated Application Programming Interfaces (APIs). However, there is not always an easy way to get there."
+        },
+        {
+            "text": "\u201cThere is no standard way of sharing data\u201d - quote from a public sector participant"
+        },
+        {
+            "text": "Could we think of government as a single multi-cloud, multi-approach organisation? Might this help us to take a more holistic approach to accessing, sharing and using our data?"
+        },
+        {
+            "heading": 3,
+            "text": "Data retention"
+        },
+        {
+            "text": "Data retention was not a primary focus for many of the teams we spoke to, often because it sits with adjacent teams in data protection or knowledge and information management. Still, we found that retention practices vary significantly across government and that teams are keen to improve consistency."
+        },
+        {
+            "text": "Fortunately, DBT is a relatively young organisation and does not hold large volumes of legacy data. Nonetheless, we face the same challenge of applying consistent data retention practices. The discovery helped us connect with potential collaborators and learn from their experiences."
+        },
+        {
+            "heading": 2,
+            "text": "At a crossroads - where next?"
+        },
+        {
+            "text": "Our discovery also highlighted opportunities for DBT. One promising solution for improving data sharing between public sector organisations is X-Road - an open-source solution that offers secure, real-time exchange of data via APIs. This could address many of the usual technology and governance barriers to data sharing."
+        },
+        {
+            "text": "By exploring how other governments around the world are using X-Road, we gained insight on how it - or a similar technology - might work for DBT. Success would depend on clear coordination between departments, established API gateways, shared standards and secure access controls."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "It was reassuring to hear that other organisations like ours are facing the same issues and great to uncover some of the pros and cons of different approaches to data processing, sharing and retention. It gave us some exciting food for thought as we plan our next steps."
+        }
+    ]
+}
