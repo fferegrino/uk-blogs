@@ -1,0 +1,138 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/11/20/confirming-user-understanding-what-to-do-and-what-not-to-do/",
+    "title": "Confirming user understanding: what to do and what not to do",
+    "authors": [
+        "John Peart",
+        "Dr Tom Fisher"
+    ],
+    "categories": [
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2025-11-20T10:00:00+00:00",
+    "content": [
+        {
+            "text": "If a digital verification service (DVS) is user-facing, before it does something with a users\u2019 identity or attribute information, the service must confirm that the user understands what is about to happen. CABs review how a service implements the rules for confirming user understanding from the trust framework as part of the certification process."
+        },
+        {
+            "text": "We\u2019ve been asked what a \u2018good\u2019 confirmation that meets the requirements of the trust framework looks like."
+        },
+        {
+            "heading": 2,
+            "text": "What the rules say"
+        },
+        {
+            "text": "The rules for confirming user understanding are found in sections 12.7.3. and 12.7.4. of the gamma (0.4) publication of the trust framework. A similar concept existed in the previous, beta version too \u2013 but we called it \u201cuser agreement\u201d instead."
+        },
+        {
+            "text": "In broad terms, the rules require that a digital verification service:"
+        },
+        {
+            "text": "Services must also reconfirm the users\u2019 understanding in certain circumstances."
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s not the same as \u201cconsent\u201d"
+        },
+        {
+            "text": "Confirming user understanding is different from seeking \u201cconsent\u201d under UK data protection law."
+        },
+        {
+            "text": "There may be similarities between what we call \u201cconfirming understanding\u201d and what UK data protection law calls \u201cconsent\u201d, but the trust framework does not require that \u201cconsent\u201d is used as the legal basis for a service. Service providers can use any legal basis that is appropriate; it\u2019ll depend on the service and what it\u2019s for."
+        },
+        {
+            "text": "Instead, the rules in the trust framework regarding user confirmation are intended to give users as much understanding and control over how their data is used as possible. These rules are in addition to the transparency requirements under the UK GDPR."
+        },
+        {
+            "heading": 2,
+            "text": "Lengthy terms and conditions are not the answer"
+        },
+        {
+            "text": "Services providers \u2013 not just digital verification ones \u2013 often have lengthy terms and conditions or \u201cEnd User License Agreements\u201d (EULAs). Users are often asked to accept these terms and policies before they use a service."
+        },
+        {
+            "text": "We don\u2019t think that asking users to read and accept a complex policy statement is an effective way of confirming user understanding."
+        },
+        {
+            "text": "To get certified against the trust framework, services need to do more than that; they need be as simple as possible for users."
+        },
+        {
+            "text": "Lengthy, legalistic documents are not examples of clear, plain and easily understood language. There is plenty of evidence that they cannot reliably demonstrate that users positively agree to those terms."
+        },
+        {
+            "text": "The rules in the trust framework are intended to make using a digital verification service a genuine choice. Services shouldn\u2019t rely on deceptive design patterns \u2013 like making it easier to accept than to decline a choice \u2013 to \u2018nudge\u2019 users towards accepting terms and conditions they may not fully be aware of or understand."
+        },
+        {
+            "heading": 2,
+            "text": "Use brief, straightforward prompts"
+        },
+        {
+            "text": "When users install an app on a phone or computer, and open it for the first time, they are often asked for permission to access certain features, for example, to send notifications, to access location data, or to use the camera or microphone."
+        },
+        {
+            "text": "Different apps need different permissions at different times, so users are presented with different prompts. Permissions sometimes need to be refreshed, so the user sees the prompt at regular intervals. Often those prompts are customised by the developers of the apps to explain very briefly why they need those permissions, and a user can decide whether to permit the access."
+        },
+        {
+            "text": "The clarity of this model is what we\u2019re trying to encourage for digital verification services. It puts what is happening front and centre for users. Services should provide:"
+        },
+        {
+            "heading": 2,
+            "text": "Some examples"
+        },
+        {
+            "text": "There are many ways that you could design an interface that confirms user understanding. As the trust framework is outcome-focused and technology-agnostic, we don\u2019t mandate exactly what it should look like."
+        },
+        {
+            "text": "We would encourage service providers to try different approaches and to test their designs with real users through user research."
+        },
+        {
+            "text": "Here are some examples we came up with, inspired by things we\u2019ve seen so far in real world services."
+        },
+        {
+            "heading": 3,
+            "text": "1. Asking permission to take a selfie"
+        },
+        {
+            "text": "In this example, a user needs to take a selfie to match it to a passport photo they\u2019ve already provided. They\u2019re presented with a prompt before they take the selfie, so they can confirm their understanding."
+        },
+        {
+            "text": "This approach wouldn\u2019t check off every part of the rules in sections 12.7.3, but it could meet some of them:"
+        },
+        {
+            "text": "The prompt itself should summarise everything that is happening with a user\u2019s data. A \u201cfind out more\u201d button is provided which could take the user to a more detailed explanation of what is happening; for example, it could link to a privacy notice. A service shouldn\u2019t hide or introduce additional data processing behind that button."
+        },
+        {
+            "heading": 3,
+            "text": "2. Sharing data with another service"
+        },
+        {
+            "text": "In this example, a user already has an identity service set up and has been asked to share some attributes with an orchestration service acting on behalf of a relying party. It follows a similar pattern to the first example."
+        },
+        {
+            "text": "This example is one way you could attempt to comply rule with 12.7.4.c, which suggests that services could reconfirm a user\u2019s understanding whenever there is a request to share or disclose data to a third-party."
+        },
+        {
+            "heading": 3,
+            "text": "3. \u00a0Reconfirm user understanding after a period of inactivity"
+        },
+        {
+            "text": "Rule 12.7.4.b. requires that a service must reconfirm user understanding if more than 14 months have elapsed since a user last reconfirmed their understanding."
+        },
+        {
+            "text": "This example tries to explain, as plainly as possible, that the user needs to agree to keep their account active or, alternatively, can choose to close their account."
+        },
+        {
+            "heading": 2,
+            "text": "We want service providers to innovate"
+        },
+        {
+            "text": "We should stress that these are only examples; they\u2019re not whole solutions. Service providers don\u2019t have to follow these examples in their services.\u00a0 These are just ideas that point in the right direction."
+        },
+        {
+            "text": "We want service providers to innovate and find great ways to achieve compliance with the rules."
+        },
+        {
+            "text": "We\u2019d like to start to compile examples of best practice so we can share them with our approved conformity assessment bodies, to support consistent evaluations across the market. If you think your service confirms a users\u2019 understanding well, we\u2019d love to hear from you."
+        }
+    ]
+}
