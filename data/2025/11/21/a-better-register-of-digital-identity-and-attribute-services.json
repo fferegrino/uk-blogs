@@ -1,0 +1,87 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2025/11/21/a-better-register-of-digital-identity-and-attribute-services/",
+    "title": "A better register of digital identity and attribute services",
+    "authors": [
+        "Aniqa"
+    ],
+    "categories": [
+        "Digital identity",
+        "Register of digital identity and attribute services"
+    ],
+    "pub_date": "2025-11-21T16:25:14+00:00",
+    "content": [
+        {
+            "text": "The GOV.UK register of digital identity and attribute services makes it easy to check and find digital verification services that you can trust. It's a digital service, so we've been making continuous improvements to the register in line with the government's Service Standard."
+        },
+        {
+            "text": "Based on findings from user research, we've made some big changes to how the register is presented this month. Here\u2019s a summary of what we've done."
+        },
+        {
+            "heading": 2,
+            "text": "The changes we\u2019ve made"
+        },
+        {
+            "heading": 3,
+            "text": "1. Choose to view by services or providers"
+        },
+        {
+            "text": "When we first launched the register, you could only browse it as a list of providers. Now, you can also browse the register as a list of services and find more information about each service at first glance."
+        },
+        {
+            "text": "If you need additional information, you can click on the service. "
+        },
+        {
+            "text": "Each service now has its own dedicated page with information presented in tabular format for easy perusal."
+        },
+        {
+            "text": "You might not want to view by service. In that case, you can still view the register as a list of providers, using the banner at the top to navigate between different views."
+        },
+        {
+            "text": "Each provider also has a dedicated page with contact information. You can click on a provider to see this. You can also find a list of all registered services connected to that provider on this page and find out more about a service by clicking on \u2018View details\u2019."
+        },
+        {
+            "heading": 3,
+            "text": "2. Sort and filter by your needs"
+        },
+        {
+            "text": "We've introduced additional options for sorting information on the register."
+        },
+        {
+            "text": "You can now sort information on the register by:"
+        },
+        {
+            "text": "We've also added more filters. Before you could filter by role types and supplementary codes. You can now also filter by trust framework version."
+        },
+        {
+            "heading": 3,
+            "text": "3. Use the improved search bar"
+        },
+        {
+            "text": "We've made it easier to find providers and services using keyword searching. You can now get accurate results with just partial input. Now you won\u2019t need to scroll the register if you know what you\u2019re looking for."
+        },
+        {
+            "heading": 3,
+            "text": "4. Download the register"
+        },
+        {
+            "text": "If searching, filtering and sorting on the live register doesn't work for you, you can now download a copy of the register too."
+        },
+        {
+            "text": "This data is presented in CSV format; an open data format that we hope makes it easier to work with offline. This is just a first, very small step in enabling the register to be accessible in machine-readable formats."
+        },
+        {
+            "heading": 3,
+            "text": "5. Keep up to date  "
+        },
+        {
+            "text": "We've implemented a new updates page telling you when services are published and when there is new information about a service or a provider. You can stay up to date with the latest by clicking 'Updates' on the top banner."
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019ll keep improving the service"
+        },
+        {
+            "text": "We are making continuous improvements to the register and are keen to hear from you. If you have any feedback, either positive or negative, please reach out to us via correspondence@dsit.gov.uk."
+        }
+    ]
+}
