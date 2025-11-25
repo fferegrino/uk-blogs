@@ -1,0 +1,74 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2025/11/25/identifying-the-environmental-impacts-of-digital-services-lessons-from-get-air-quality-data-service/",
+    "title": "Identifying the Environmental Impacts of Digital Services: Lessons from \u2018Get Air Quality Data\u2019 service.",
+    "authors": [
+        "Lucy Stewart",
+        "Katherine Marcus"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra service design",
+        "Digital delivery"
+    ],
+    "pub_date": "2025-11-25T10:24:35+00:00",
+    "content": [
+        {
+            "text": "This is the second blog in a series on Product Managing the design of sustainable services written by Lucy Stewart and Katie Marcus, product managers working in air quality improvement at Defra."
+        },
+        {
+            "text": "Digital services have environmental impact. Every search query, data download, and server request uses energy and generates emissions. As product managers working on air quality improvement, we wanted to understand and reduce the environmental impact of our own service: Get Air Quality Data. This is in line with Defra digital sustainability strategy 2025-2030, which sets out the group vision to minimise the environmental, economic and social impact of its ICT operations."
+        },
+        {
+            "text": "This service enables users to access air pollution data and information. While our work helps monitor and improve air quality, we recognised that delivering and maintaining the service itself has environmental consequences. We ran a workshop to map these impacts and identify where we could make improvements."
+        },
+        {
+            "text": "Figure 1: The sustainable services journey mapping tool used in the workshop. By clarifying the journey stages together, the tool helps teams query where energy is needed to run the service and supports teams to identify where there are opportunities to reduce the carbon outputs. A template for the tool is provided at the end of this blog post."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We brought together members of our cross-functional team including designers, lead statisticians, developers and programme managers, to examine our service\u2019s environmental \u2018inputs\u2019 (the resources used to design, deliver and run the service) and \u2018outputs\u2019 (waste, emissions and pollution generated from these actions)."
+        },
+        {
+            "text": "Using a journey mapping tool we identified where these inputs and outputs occur across the service lifecycle. We then modelled out the impact of these inputs and outputs from carbon emissions to biodiversity loss, exploitation and inequality and integrated optimisations into our product roadmaps and working practices."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "The service is a non-transactional digital service, but allows users to download large volumes of data, which makes hosting, processing and storing data the main contributors to energy use. Together we learned:"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "As a team we\u2019re currently lacking defined metrics and a consolidated methodology for calculating our ultimate environmental impact. However, this workshop demonstrated the value of bringing service teams together around sustainability questions. The conversation was lively and focussed our team\u2019s creativity to look at the design and development of the service in new ways."
+        },
+        {
+            "text": "As product managers, we\u2019re empowered to integrate sustainability concerns into roadmaps, KPIs and working practices. To put the workshop findings into action, we used a framework of 10 initiatives from Jisc's \u2018Driving digital sustainability\u2019 workshop. This workshop helped us assess which initiatives we can implement quickly and easily, versus those which require additional support or collaboration, longer term."
+        },
+        {
+            "text": "Quick wins:"
+        },
+        {
+            "text": "Longer term goals:"
+        },
+        {
+            "heading": 2,
+            "text": "In summary"
+        },
+        {
+            "text": "We have a simple strategy of reducing the environmental impact of our service's inputs and outputs by delivering our services more lightly and efficiently, reducing waste across our entire pipeline, from planning and design to build and go-live. We will need to leverage all members of our cross-functional teams to realise this, as well as working with stakeholders and partners to maximise potential impact."
+        },
+        {
+            "text": "Even without the perfect processes and measurement tools in place, we believe that any progress is valuable, and hope these practices become the default for all Defra delivery teams."
+        },
+        {
+            "text": "We will share more as we learn and put initiatives into action. In the meantime, if you would like to access the Sustainable journey mapping tool to try with your own service, email lucy.stewart1@defra.gov.uk or katherine.marcus@defra.gov.uk "
+        }
+    ]
+}
