@@ -1,0 +1,104 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/11/27/from-data-features-to-digital-products/",
+    "title": "From Data Features to Digital Products\u00a0",
+    "authors": [
+        "Neil Barnby"
+    ],
+    "categories": [
+        "collaboration",
+        "Data Science",
+        "digital delivery",
+        "Digital skills",
+        "Our services"
+    ],
+    "pub_date": "2025-11-27T17:08:51+01:00",
+    "content": [
+        {
+            "text": "How do you turn powerful data insights into tools that genuinely help users?"
+        },
+        {
+            "text": "That was the question we faced when our Data Science team in Electronic Monitoring (EM) began its journey into digital delivery."
+        },
+        {
+            "text": "Electronic Monitoring, often known as tagging, helps the justice system track offenders in the community and supports rehabilitation. The EM Data Science team uses this information to develop insights and tools that help practitioners make safer, more informed, and more timely decisions. This work directly supports public protection and contributes to smoother, more efficient justice services."
+        },
+        {
+            "text": "When I joined the team in July 2023, product management in data science was still quite new at the Ministry of Justice. Our product manager had recently stepped up from an associate role, and I joined as her associate product manager (APM), at the time, the only one across MoJ."
+        },
+        {
+            "text": "The team I joined was analytical, highly efficient, and deeply skilled in its field. It delivered innovative work at pace and produced high-quality insights. But, like many data science teams, we started with data rather than users. We were experts at discovering what the data could tell us; now we needed to learn how to turn those insights into products that directly met user needs."
+        },
+        {
+            "heading": 2,
+            "text": "Stepping up and holding the line"
+        },
+        {
+            "text": "When our product manager moved to another area just before Christmas 2023, I stayed on to support the Electronic Monitoring work. Overnight, I became a kind of stand-in PM, sharing responsibilities with our lead data scientists. They made strategic decisions while I looked after delivery, sprint ceremonies, and stakeholder engagement."
+        },
+        {
+            "text": "It wasn\u2019t always straightforward. Product management in a data science team sits somewhere between delivery, design and coordination. But together we kept things moving, balancing technical expertise with product thinking and making decisions based on evidence and outcomes rather than just technical milestones."
+        },
+        {
+            "heading": 2,
+            "text": "From analysis to something users could see"
+        },
+        {
+            "text": "As our work developed, we began to see that some of our data insights could form the basis of a new kind of tool, one that brought useful information directly to the people who needed it most."
+        },
+        {
+            "text": "At that point, there was no digital capacity to build anything new, and at the time there was no allocated funding. Rather than stop, we explored what we could do ourselves. Drawing on previous coding experience, I helped the team create simple prototypes using the Government Design System. These mock-ups weren\u2019t production-ready, but they helped others see the potential."
+        },
+        {
+            "text": "That made a difference. By showing what the future could look like, we caught the attention of senior stakeholders. In late 2024, funding was released to bring in digital roles so we could build something properly."
+        },
+        {
+            "heading": 2,
+            "text": "Entering the digital world"
+        },
+        {
+            "text": "When a digital service owner joined the team, everything changed. Before we could build, we needed to go through a Government Digital Service (GDS) Discovery which was the first stage in the GDS process that helps teams understand the problem and users before developing a solution."
+        },
+        {
+            "text": "Working closely with a new design team - a user researcher, content designer and interaction designer, we reviewed what we already knew and where the gaps were. We had a lot of analysis, but it wasn\u2019t yet structured around user needs. Together we reshaped the evidence, passed our Discovery assessment in early 2025, and started our Alpha, where we tested our assumptions and began creating prototypes with users."
+        },
+        {
+            "heading": 2,
+            "text": "Learning goes both ways"
+        },
+        {
+            "text": "Alpha was a steep learning curve. Our new product manager joined around that time and encouraged us to focus on the riskiest assumptions and learn fast."
+        },
+        {
+            "text": "As the digital side of the team learned about data models and pipelines, we realised that they were also navigating new ground. To help build shared understanding, our data scientists ran a workshop for our digital colleagues. They explained, in simple terms, how a model is trained, how we review algorithms through consultation panels, and how we apply our ethics framework to identify and manage potential bias."
+        },
+        {
+            "text": "That session sparked curiosity and respect on both sides. The digital specialists began to appreciate the rigor and governance that sit behind data science. In turn, the data scientists started to see how user research and iterative design could make their work more practical and impactful."
+        },
+        {
+            "text": "Since then, the learning has continued. Our developers are now planning a joint workshop with the data scientists to explore technical ways of working, so that this cross-learning keeps growing."
+        },
+        {
+            "text": "Our data science work is part of the CDIO group\u2019s mission to transform justice through digital and data. We share the same vision: digital by design, data-driven by default, resilient by necessity, and focused on building services that are user-centered, secure and future-ready."
+        },
+        {
+            "heading": 2,
+            "text": "Becoming a hybrid team"
+        },
+        {
+            "text": "By the time we passed our Alpha assessment and prepared to enter Private Beta, our team had completely changed how it thought about delivery. We\u2019ve moved from producing analytical outputs to designing services grounded in user needs, a genuine hybrid of data and digital."
+        },
+        {
+            "text": "We learned that every design decision needs evidence from users, not just technical justification. We also learned that user-centered design takes time, iteration and sometimes the discipline to narrow focus so that you can go deeper on what matters most."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned together"
+        },
+        {
+            "text": "This journey has been about more than delivery frameworks. It has been about learning how two disciplines, data science and digital delivery, can strengthen each other."
+        },
+        {
+            "text": "For anyone in data science curious about product management, or digital teams beginning to integrate data-led features, our experience shows that bridging these worlds is worth the effort. The most exciting opportunities often appear when you bring both perspectives together."
+        }
+    ]
+}
