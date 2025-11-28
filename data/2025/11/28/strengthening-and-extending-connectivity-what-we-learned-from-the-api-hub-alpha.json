@@ -1,0 +1,61 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2025/11/28/strengthening-and-extending-connectivity-what-we-learned-from-the-api-hub-alpha/",
+    "title": "Strengthening and extending connectivity: what we learned from the API hub alpha",
+    "authors": [
+        "James Freeland - Senior Data and Security Architect, GDS",
+        "Alex Smith, Head of Data Security, GDS, DSIT"
+    ],
+    "categories": [
+        "agile",
+        "API"
+    ],
+    "pub_date": "2025-11-28T10:00:00+00:00",
+    "content": [
+        {
+            "text": "The API (Application Programming Interface) Programme at the Government Digital Service (GDS) is driving forward efforts to improve API standards, maturity, and connectivity across UK government departments and public sector organisations. This work is closely aligned with the six point plan for modern digital government which calls for all public services to adopt a standard set of APIs and events for new services. This work underpins the government\u2019s ambition for more joined-up, secure, and user-centred digital services."
+        },
+        {
+            "text": "This blog builds on our earlier api-discovery delivered in partnership with Scrumconnect. It sets out our findings and recommendations from the alpha phase, where we tested the assumptions and hypotheses developed during our discovery."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "Over 12 weeks, a multidisciplinary team from Scrumconnect worked with the GDS API Programme to explore what a centralised API Hub could look like. We carried out user research across departments and developed several proofs of concept (PoCs) based on interviews, surveys and testing. We focused on four key areas:"
+        },
+        {
+            "heading": 2,
+            "text": "What we learnt in the alpha phase:"
+        },
+        {
+            "text": "At the end of the alpha phase, our research confirmed the pain points we\u2019d heard in discovery, namely:\u00a0"
+        },
+        {
+            "text": "We revealed strong support for the concept of a centralised API hub:"
+        },
+        {
+            "heading": 2,
+            "text": "Key outcomes from the alpha phase\u00a0"
+        },
+        {
+            "text": "From these findings, we identified key outcomes that will shape the next phase of development:"
+        },
+        {
+            "text": "Our current plan for an MVP of the API hub includes:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next: aligning with other data and API products"
+        },
+        {
+            "text": "The next step before we move forward with the API hub is to ensure we are joined up with other products being developed in GDS to create the best experience for users. We are currently actively engaged with teams working on the open data portal data.gov.uk and the shared data platform datamarketplace.gov.uk, both of which contain data APIs. The key question we need to answer is if what we offer should align or diverge for data and API products to help users make the most of them."
+        },
+        {
+            "text": "We\u2019re developing products for the whole of the public sector and as part of the GDS commitment to working in the open we are asking for\u00a0 input. If you\u2019re a developer, product manager, content designer or anyone interested in improving how APIs are built and shared, we\u2019d love to hear from you."
+        },
+        {
+            "text": "To get\u00a0 involved in the conversation please join the API Community by emailing api-community@digital.cabinet-office.gov.uk with your name, organisation and job role."
+        }
+    ]
+}
