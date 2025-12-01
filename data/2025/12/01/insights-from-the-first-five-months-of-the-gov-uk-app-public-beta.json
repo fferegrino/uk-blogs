@@ -1,0 +1,87 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/12/01/insights-from-the-first-five-months-of-the-gov-uk-app-public-beta/",
+    "title": "Insights from the first five months of the GOV.UK app public beta",
+    "authors": [
+        "Amy Harper, Lead Product Manager",
+        "Tina Mermiri - Head of Performance Data, Government Digital Service"
+    ],
+    "categories": [
+        "GDS team",
+        "GOV.UK"
+    ],
+    "pub_date": "2025-12-01T09:08:32+00:00",
+    "content": [
+        {
+            "text": "In July, GDS released the first version of the GOV.UK app, available for anyone in the UK to download. It was a big moment - for the first time, we\u2019ve enabled people to have a more customised and persistent GOV.UK experience. The release was the culmination of months of user research, product design and technical expertise, so it was very exciting to see it out in the wild."
+        },
+        {
+            "text": "As of early October, there had been 140,000 downloads of the app. That number jumped to almost 260,000 \u202fas of 24 November, highlighting the great progress we\u2019ve made in such a short space of time."
+        },
+        {
+            "text": "We\u2019ve been spending these last few months carefully monitoring how the app is being used to make sure it meets user needs. This blog post sets out some of those insights, and how we\u2019ll be building on them for the next stage of product development.\u202f"
+        },
+        {
+            "heading": 2,
+            "text": "Kickstarting a new era of digital government"
+        },
+        {
+            "text": "Before we dive into the data, let\u2019s look back at how we got to this point."
+        },
+        {
+            "text": "The Blueprint for modern digital government, published in January, named the GOV.UK app as one of its 5 kickstarter initiatives. The kickstarters are intended to show our progress on delivering next-generation public services - with the app a central part of this, demonstrating how we will enable more personalised experiences for our users."
+        },
+        {
+            "text": "With over 60% of users to the GOV.UK\u202f website visiting via mobile devices, our data told us that users increasingly want and expect a mobile-first public service delivery, in line with other industries and indeed other governments around the world. After positive feedback from users in a private beta in spring, we were ready for a public launch."
+        },
+        {
+            "heading": 2,
+            "text": "Meeting users\u2019 app-etite\u00a0"
+        },
+        {
+            "text": "The current version of the app in public beta is already delivering a more personalised, persistent and proactive experience."
+        },
+        {
+            "text": "It enables each user to easily tailor their homepage with the topics that matter most to them, and AI-powered search gives them the most relevant results. Because people are logged in, the GOV.UK app remembers the pages they have visited and what they\u2019ve searched for previously, getting them quickly to the content they care most about. Users can also access their local council services quickly by entering their postcode, and can opt in to receive push notifications to stay informed of real-time updates and alerts."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learned so far\u00a0"
+        },
+        {
+            "text": "The public beta release marked the transition from development to larger-scale, real-world testing. Over the last 5 months we have seen strong organic growth, with the app downloaded nearly 260,000 times. We\u2019ve been learning about how these users are engaging with the GOV.UK app, gathering insight on how this first version is working, and what we can do to make it even better. We\u2019ve\u202fbeen using Google Analytics to see how consenting users are interacting with the app, alongside an in-app survey.\u202f\u202f"
+        },
+        {
+            "heading": 3,
+            "text": "Personalisation\u00a0"
+        },
+        {
+            "text": "Our personalisation features are really popular: over 80% of users have customised their homepage since launch, including adding their local authority. One piece of feedback even said: \u201cWas much simpler to set up than I originally thought, love you can choose what\u2019s relevant to your own circumstances.\u201d"
+        },
+        {
+            "text": "We see that return users are increasingly taking advantage of features we designed to give them shortcuts to get to content that is relevant to them, such as Previous Searches (22%) and Pages You Viewed (16%). This is an early validation that the features we have designed offer value to app users."
+        },
+        {
+            "text": "The content that returning users are coming back to the most includes Universal Credit, (re)booking Driving Tests and applying for apprenticeships. One respondent to the in-app survey said: \u201cEasy to navigate through app. Very user friendly designed\u201d. Whilst accessing web content in the app is working well in many places, we\u2019ve also seen that there are some areas where this is limiting the experience for users: \u201cI don\u2019t like how the app mostly just links to web pages at the moment\u201d, so we\u2019ll be exploring how we get this balance right."
+        },
+        {
+            "heading": 3,
+            "text": "Positive response to nudges"
+        },
+        {
+            "text": "We\u2019ve seen some exciting results from both internal and external nudges such as in-app notifications or news about topical issues. Travel content prompts sparked interest and usage indicating they were timely and relevant. While external nudges, like articles on government topics such as pension articles and Companies House\u202fregistrations, show that users are actively searching for the app as an alternative channel. Seasonal trends play a part too, with noticeable upticks around student services at the end of September."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We are using all of this information to be data driven as we plan our next steps on the product to make sure we\u2019re meeting user needs, delivering utility and value. In 2026, we will be:\u00a0"
+        },
+        {
+            "text": "As we build out our capabilities and connect with government departments, we will continue to focus on providing frequent, incremental value through ongoing app releases.\u00a0"
+        },
+        {
+            "text": "Onwards!\u00a0"
+        }
+    ]
+}
