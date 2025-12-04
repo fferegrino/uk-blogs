@@ -1,0 +1,183 @@
+{
+    "url": "https://publicpolicydesign.blog.gov.uk/2025/12/04/three-countries-eight-designers-nine-insights/",
+    "title": "Three countries, eight designers, nine insights",
+    "authors": [
+        "Susan Cullen",
+        "Kirsten Corney",
+        "Eevi Saarikoski",
+        "Nathan McDowell"
+    ],
+    "categories": [
+        "Events",
+        "PublicPolicyDesign",
+        "Research"
+    ],
+    "pub_date": "2025-12-04T12:00:00+00:00",
+    "content": [
+        {
+            "text": "Eight designers working in the Finnish, UK and Australian tax administrations spent four hours over two days in exploratory talks about design patterns. We developed nine insights through our conversations."
+        },
+        {
+            "text": "We discovered shared perspectives in:"
+        },
+        {
+            "text": "We co-developed ideas to communicate their value and increase their use."
+        },
+        {
+            "heading": 2,
+            "text": "About us"
+        },
+        {
+            "text": "Our collaboration was sparked by the Public Design Conference (part of the World Design Congress Design Safari) in September 2025."
+        },
+        {
+            "text": "The size of our respective tax organisations varied (approximately 4,000 in the Finnish Tax Administration; 20,000 in the Australian Taxation Office and 67,000 in the UK\u2019s HM Revenue & Customs respectively)."
+        },
+        {
+            "text": "In all organisations, design had evolved in different locations and for different purposes."
+        },
+        {
+            "text": "Rather than attempt comprehensive representation of all of these centres and disciplines, we focused on what we could learn from each other and our design practices."
+        },
+        {
+            "text": "Three of the designers from the ATO came from a subject-agnostic Service Design capability that partners with business on a range of major projects, and one designer came from an area focused largely on public-facing user experience (UX)."
+        },
+        {
+            "text": "The designer from the Finnish Tax Administration works in an area of the administration leading customer relationship management, often focusing on broader service design and customer insights projects."
+        },
+        {
+            "text": "In HMRC, the three participating designers also came from design capabilities located in different parts of the organisation. They represented standardised process mapping and an approach to problem definition, strategic IT solutions and detailed IT design."
+        },
+        {
+            "heading": 2,
+            "text": "Nine insights on patterns"
+        },
+        {
+            "text": "Our collaboration produced nine insights on developing and using international public design patterns\u2026"
+        },
+        {
+            "heading": 3,
+            "text": "1 Pattern definitions"
+        },
+        {
+            "text": "While the participants shared a high-level definition of patterns, as repeatable solutions, we discovered differences in the detailed models and taxonomy for user interface (UI) patterns. We also found that our definitions of service and policy design were less resolved generally and shared fuzzy boundaries with standards and methods."
+        },
+        {
+            "heading": 3,
+            "text": "2 Pattern purpose and aspirations"
+        },
+        {
+            "text": "The participants had similar views of the purpose of patterns and similar aspirations for their use including:"
+        },
+        {
+            "heading": 3,
+            "text": "3 Pattern acquisition"
+        },
+        {
+            "text": "Participants noted that patterns could be created new in-house or adopted from existing in-house or external sources."
+        },
+        {
+            "text": "New patterns can be created when existing patterns are not suitable for the design challenge. Where a formal library exists, evidence is required that existing patterns are not suitable, a new pattern is then developed, approved and added to the library."
+        },
+        {
+            "text": "We noted however that there can be \u2018unofficial patterns\u2019 created by leveraging existing design work in a new design project, which might be shared again with other designers. These \u2018unofficial patterns\u2019 are not part of a formal system, but were known about and leveraged by some parts of the design capability."
+        },
+        {
+            "text": "The existence of unofficial patterns highlights one of the aspirations for the use of patterns, that of designers avoiding duplication of earlier work and instead building upon it. Here, common design foundations are shared through personal relationships and networking, rather than the structure and governance of a pattern library."
+        },
+        {
+            "text": "Governments can also create (and mandate the use of) patterns such as the Digital Service Standard in Australia, which are designed to be used by constituent agencies. Governments may also adopt (and mandate the use of) national and international standards such as WCAG 2. These might function as Service Patterns and/or be integrated into UX or IT system patterns."
+        },
+        {
+            "text": "Leveraging existing patterns to acquire or adapt new patterns offers efficiency (in much the same way that the subsequent use of patterns does). Designers working on patterns can avoid duplication of earlier work and instead build on it. The work of others can be used as a starting point to accelerate the process of pattern development."
+        },
+        {
+            "text": "Some of the group noted that where an organisation is innovating, there may not be suitable whole-of-government, or national patterns available."
+        },
+        {
+            "text": "The risks of pattern adoption are that a pattern may be adopted without sufficient consideration of specific contexts or ecosystems and that it may not in fact be fit-for-purpose (it may not be solving the right problem), or it could introduce more functional complexity than is required."
+        },
+        {
+            "heading": 3,
+            "text": "4 Pattern success"
+        },
+        {
+            "text": "The participants also reported similar experiences about when and where pattern use has been successful and what the enablers and the barriers to success were."
+        },
+        {
+            "text": "Examples of where patterns have been successful, provide some clues about communicating and gaining support for patterns. We noted success with patterns where:"
+        },
+        {
+            "text": "Enablers of pattern use included:"
+        },
+        {
+            "text": "Barriers centred on cultural perceptions, where design practitioners felt that design is a discipline of the \u2018blank page\u2019 and the \u2018blue sky\u2019 initiative. The perception noted here is that patterns can stifle creativity, rather than enable it. This is interesting in comparison with the insight about \u2018unofficial patterns\u2019 and designers working together organically to leverage others\u2019 foundational work."
+        },
+        {
+            "heading": 3,
+            "text": "5 Context matters"
+        },
+        {
+            "text": "We noted limitations to the universality of patterns. Context matters \u2013 in the organisation (culture and design maturity), the design discipline (policy, UI, service, process) and the subject matter (e.g. tax, health)."
+        },
+        {
+            "text": "The use of patterns was most mature in UX and IT systems in all our organisations and were used to greater or lesser degrees in services and policy. This seemed to echo previous experiences with agile project methodology. Agile began in IT and has spread into other disciplines, with modifications. Principles and concepts of an agile approach are transferable to some extent, but not all of the rituals and deliverables of agile project methodology are relevant in different discipline contexts."
+        },
+        {
+            "text": "Participants reflected on the extent to which patterns could be common across the subject-matter of tax administration. We noted the distinctions between types of taxes and tax administrations that would make this challenging at a detailed level."
+        },
+        {
+            "text": "We noted that some public-facing UI aspects such as the concept of making a payment could be applicable across different jurisdictions."
+        },
+        {
+            "text": "We also noted that, at a system level, facilitating the flow of information and standardised data between government and non-government organisations within a jurisdiction would be helpful. Finland provided a case study of work to enable the standardised sharing of data between Finnish government and non-government entities."
+        },
+        {
+            "text": "At the international level, facilitating the flow of information across jurisdictions could also be useful in terms of international tax treaties and international agreements such as those made through OECD."
+        },
+        {
+            "text": "We noted again here the fuzzy boundaries between standards, methodologies and patterns."
+        },
+        {
+            "heading": 3,
+            "text": "6 Siloes and multiple cultures"
+        },
+        {
+            "text": "The siloed nature of our organisations and the development of multiple cultures within them presented challenges and also indicated the potential benefits from the use of patterns. The larger the organisation in which pattern-use was being introduced, the larger the potential benefits, and the larger the challenges."
+        },
+        {
+            "heading": 3,
+            "text": "7 Early intervention"
+        },
+        {
+            "text": "Introducing pattern-use early in the development of a design capability or in organisational development could mitigate these later challenges. The group acknowledged that recognising the point at which patterns can and should be developed in a nascent design capability was a challenge in itself."
+        },
+        {
+            "heading": 3,
+            "text": "8 Return on investment"
+        },
+        {
+            "text": "In all organisations, regardless of size, balancing the investment required to create, maintain and govern the use of patterns was challenging. While efficiencies are one of the benefits sought through pattern use, there was sometimes an unrealistic expectation that pattern libraries would maintain themselves, and that patterns could be used effectively by those with no design capability."
+        },
+        {
+            "heading": 3,
+            "text": "9 Building pattern use and communicating value"
+        },
+        {
+            "text": "To build pattern use and communicate the value to the organisation, the participants shared several suggestions:"
+        },
+        {
+            "heading": 2,
+            "text": "Meet, build and share"
+        },
+        {
+            "text": "Within the practical constraints of 4 hours of mini-conference, we were delighted with how much we could learn through sharing our knowledge and experiences."
+        },
+        {
+            "text": "A significant benefit for the Australian and UK administrations was simply in meeting designers from other design capability centres and bridging internal silos."
+        },
+        {
+            "text": "The chance to meet, build networks, and share experiences and lessons with international counterparts has built our respective capabilities and awareness of the benefits of patterns and how to maximise their successful use."
+        }
+    ]
+}
