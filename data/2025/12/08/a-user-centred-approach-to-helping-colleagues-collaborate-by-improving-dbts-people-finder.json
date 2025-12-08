@@ -1,0 +1,135 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2025/12/08/a-user-centred-approach-to-helping-colleagues-collaborate-by-improving-dbts-people-finder/",
+    "title": "A User Centred approach to helping colleagues collaborate by improving DBT\u2019s People Finder\u00a0",
+    "authors": [
+        "Naomi Cauchi - Senior User Researcher"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2025-12-08T14:01:18+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Naomi Cauchi"
+        },
+        {
+            "text": "At the Department for Business and Trade (DBT), we recently launched our People Finder tool in Beta to strengthen internal collaboration. In this blog, we share how our Employee Experience Team in DBT brought the project to life. Combining research, design, product, development and delivery expertise, the team built user-centred services that meet real needs."
+        },
+        {
+            "heading": 2,
+            "text": "User centred steps to supporting internal staff collaboration"
+        },
+        {
+            "text": "At the start of the year, we were asked to improve DBTs \u201cPeople Finder\u201d - our internal tool for exploring people and teams via the Intranet."
+        },
+        {
+            "text": "We had plenty of evidence to suggest that our users, DBT colleagues, would benefit from such a change. In the 2024 DBT People Survey, 17% of respondents rated our collaboration technology unfavourably. Another survey found that 83% relied on People Finder for internal collaboration, yet  Help Desk tickets revealed frequent frustrations. Recent restructures and the creation of the Office for Investment had increased pressure to maintain effective collaboration and meet Whitehall targets during major organisational changes."
+        },
+        {
+            "text": "The universal and resounding need was clear: \u201cI need to know which colleagues are working on what so that I can understand who is best to work with\u201d"
+        },
+        {
+            "heading": 4,
+            "text": "Step 1: What\u2019s our goal?"
+        },
+        {
+            "text": "We started by challenging the idea of a product centric goal, for example \u201cHow might we improve People Finder?\u201d Whilst familiar, this framing risks overlooking the problem to be solved. Instead, we focused on the task or outcome People Finder intends to support for its users. We used a problem statement to steer creative and experimental product design towards making tangible, real life impact. Our guiding question became:"
+        },
+        {
+            "text": "\u201cHow might we improve People Finder to better support DBT colleagues' collaboration needs so that they can more effectively deliver their roles?\u201d"
+        },
+        {
+            "heading": 4,
+            "text": "Step 2: Who should we support and why?"
+        },
+        {
+            "text": "There are over 8,000 colleagues in DBT each with overlapping and unique ways of collaborating."
+        },
+        {
+            "text": "To strategically focus our efforts, we prioritised a group we called \"Critical Collaborators\" - colleagues who:"
+        },
+        {
+            "heading": 4,
+            "text": "Step 3: What do Critical Collaborators need?"
+        },
+        {
+            "text": "We spoke to these colleagues directly to understand what successful collaboration looks like in their roles. They shared their processes, challenges and desired outcomes. We observed them trying to complete tasks using the existing People Finder and mapped what worked and what didn\u2019t."
+        },
+        {
+            "text": "Whilst scenarios differed, 4 shared themes emerged:"
+        },
+        {
+            "text": "Policy briefing teams need to quickly identify the right individuals or teams to respond to urgent parliamentary questions, such as those concerning clean energy industry."
+        },
+        {
+            "text": "Sector leads need to find and connect with overseas specialists to help businesses enter markets like the Middle East and Pakistan."
+        },
+        {
+            "text": "Broad categories like \u201chealthcare\u201d aren\u2019t enough. Sector Leads need to find specialists in areas like \u201cdiagnostic systems\u201d to draft targeted policy briefings."
+        },
+        {
+            "text": "Some colleagues are supporting staff across 170 countries. They need their expertise and guidance to be discoverable and used.\u00a0"
+        },
+        {
+            "text": "\"One of my priorities is that I want to be reached out [to] and I want to be found so I want [People Finder] to reflect what I'm actually doing.\" Participant 7"
+        },
+        {
+            "heading": 4,
+            "text": "Step 4: How might we re-design People Finder to support these user needs?"
+        },
+        {
+            "text": "We used agile, iterative design to test early concepts with users to assess their effectiveness. This allowed us to refine our approach until we were ready to launch a Minimum Viable Product (MVP)."
+        },
+        {
+            "heading": 2,
+            "text": "What is new in People Finder?"
+        },
+        {
+            "text": "Roles and Responsibilities tab"
+        },
+        {
+            "text": "Colleagues can now add their sector, market and keywords to their profiles. These fields will help colleagues find the right expertise more easily, supporting effective collaboration and knowledge sharing. We\u2019ve ensured our updates are inclusive of our overseas colleagues, who can now add market and location to their profile."
+        },
+        {
+            "heading": 4,
+            "text": "\u201cKeywords\u201d for discoverability"
+        },
+        {
+            "text": "A new \u201cKeywords\u201d field allows users to capture a range of specific expertise and specialisms. These keywords could include sub-sectors or highly specialised topics, (such as \u201cmed-tech\u201d or \u201csemiconductors\u201d), technical skills, (such as \u201cPython\u201d), and strategic priorities (such as \u201cFuture DBT\u201d)."
+        },
+        {
+            "text": "\"It\u2019s helpful for other people who are maybe thrashing around in exactly the same way I do, looking for who is the person who is closest to being the best bet to be able to provide what I need\" Participant 5"
+        },
+        {
+            "text": "\u201cIt makes sense. I would put the key workstreams I'm involved in.\" Participant 7 reflecting on how they would use the new Keywords field in People Finder to let their colleagues know what they are currently working on."
+        },
+        {
+            "heading": 4,
+            "text": "Discover tool (Beta)"
+        },
+        {
+            "text": "\u00a0A new Discover feature allows users to:"
+        },
+        {
+            "text": "\"It would make it really easy to look for contacts [when] trying to look for a specific colleague, but not knowing their name or job title\u201d Participant 10"
+        },
+        {
+            "heading": 4,
+            "text": "New Extended Leave tab"
+        },
+        {
+            "text": "Users now have access to an \"Extended Leave\" tab within their profiles, allowing them to indicate periods of extended or long-term leave and designate an alternative point of contact. This experimental feature is designed to support continuity of work during an individual's leave and in the absence of Outlook integration. We will be testing and iterating this feature."
+        },
+        {
+            "heading": 4,
+            "text": "Step 5: Launch, Learn, Iterate"
+        },
+        {
+            "text": "The new People Finder has launched in beta on DBT\u2019s Intranet last month. Ongoing user research will help us assess effectiveness of these changes and identify areas for future improvements as we continue to reach for progress over perfection."
+        },
+        {
+            "text": "Next, we\u2019ll be engaging with colleagues and teams across DBT to help ensure they can benefit from the new updates. If you are solving similar problems or working on a similar tool in another department we would love to hear from you. Please reach out to intranet@businessandtrade.gov.uk."
+        }
+    ]
+}

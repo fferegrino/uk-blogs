@@ -1,0 +1,77 @@
+{
+    "url": "https://rpc.blog.gov.uk/2025/12/08/how-the-regulatory-policy-committee-uses-artificial-intelligence/",
+    "title": "How the Regulatory Policy Committee uses artificial intelligence",
+    "authors": [
+        "Ryan Williams"
+    ],
+    "categories": [
+        "Artificial intelligence"
+    ],
+    "pub_date": "2025-12-08T08:35:27+00:00",
+    "content": [
+        {
+            "text": "The government is keen that all areas of the public sector understand the opportunities from using artificial intelligence (AI) and mitigate the potential risks. The RPC has been experimenting with using AI tools over the past few months to see how far these can help us with different aspects of our work. "
+        },
+        {
+            "text": "This post discusses where these tools can help, where they are of limited benefit and what that means for our work going forward."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach to AI"
+        },
+        {
+            "text": "As a public body, we follow the core principles of the AI Playbook for the UK Government to use AI safely, effectively and securely. "
+        },
+        {
+            "text": "It is essential that we protect the security of our information, which is why we only use dedicated AI tools authorised by the Department for Business and Trade as our sponsor department. We are also mindful of the need to protect against hallucinations, meaning incorrect or misleading results that AI models may sometimes generate. "
+        },
+        {
+            "text": "The question we're trying to answer is whether these tools can improve the quality of scrutiny while reducing the time spent on mechanical tasks."
+        },
+        {
+            "heading": 2,
+            "text": "Where AI is helpful in supporting the work of the RPC"
+        },
+        {
+            "text": "AI has been very helpful in producing meeting notes and minutes. AI-generated transcripts from meetings are sufficiently accurate that staff can participate fully in the meeting rather than having to divide their attention between discussion and note-taking. The error rate is low enough that light editing suffices to produce a set of minutes and notes of the meeting."
+        },
+        {
+            "text": "AI is also very useful in searching and summarising documents. When we are drafting our opinions, we often need to check what the Committee has said previously on similar or related issues. AI tools can search through hundreds of past RPC opinions in our archive and pull out relevant passages far faster and more comprehensively than a manual review."
+        },
+        {
+            "text": "We have also seen time savings in producing our opinions. AI can produce acceptable first drafts of routine documents and maintain our house style. It cannot, however, identify the critical analytical weaknesses in an impact assessment or produce the kind of tightly reasoned argument that belongs in an expert opinion from the RPC. What it does well is speed up the mechanical parts of writing."
+        },
+        {
+            "heading": 2,
+            "text": "Key challenges in using AI to produce RPC opinions"
+        },
+        {
+            "text": "The main challenge is calibration. We've built a master prompt that can generate RPC-style drafts of our opinions, but producing an appropriate judgement of the quality of an impact assessment is difficult. Set it too critically and it produces unhelpful objections to everything. Set it too leniently and it misses genuine analytical gaps. The useful range is narrow, and what counts as 'appropriately critical' varies depending on the quality of the underlying analysis."
+        },
+        {
+            "text": "The other limitation is that AI cannot engage with the substantive policy questions that often matter most. It can check whether an impact assessment has followed HM Treasury\u2019s Green Book methodology, but it cannot assess whether the assumptions underlying a cost-benefit analysis are defensible given the actual policy context. That still requires human judgement informed by our expert experience."
+        },
+        {
+            "heading": 2,
+            "text": "What we're considering next"
+        },
+        {
+            "text": "We are looking at using our archive of the RPC\u2019s past opinions as training data to improve AI drafting. The idea is that the system might learn to recognise the standards the Committee applies in practice, rather than just following written guidance. Whether this improves analytical rigour, or just teaches the system to reproduce house style more convincingly, is an open question but is worth testing."
+        },
+        {
+            "text": "A more ambitious idea is whether we could build an interface that lets analysts across government submit impact assessments for AI-generated feedback before formal submission to the RPC. The logic would be to catch basic analytical errors early, when they are easier to fix, rather than only identifying them during formal scrutiny."
+        },
+        {
+            "text": "This raises obvious questions:"
+        },
+        {
+            "text": "These aren't rhetorical questions. We don't know the answers yet, which is why we are proceeding carefully."
+        },
+        {
+            "text": "The underlying reality is that AI can help with mechanical tasks and pattern recognition, but human scrutiny and expert judgement are still needed to understand the policy context (at least for now!)."
+        },
+        {
+            "text": "What has been your experience with AI? Leave us a comment below and subscribe to the RPC\u2019s blog to be notified when we post new articles."
+        }
+    ]
+}

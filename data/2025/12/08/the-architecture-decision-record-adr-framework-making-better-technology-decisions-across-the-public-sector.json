@@ -1,0 +1,78 @@
+{
+    "url": "https://technology.blog.gov.uk/2025/12/08/the-architecture-decision-record-adr-framework-making-better-technology-decisions-across-the-public-sector/",
+    "title": "The Architecture Decision Record (ADR) Framework: making better technology decisions across the public sector",
+    "authors": [
+        "Nabil Nazar, Principal Enterprise Architect, GDS"
+    ],
+    "categories": [
+        "Architecture",
+        "Technology"
+    ],
+    "pub_date": "2025-12-08T14:00:00+00:00",
+    "content": [
+        {
+            "text": "The Enterprise Architecture team from Government Digital Service (GDS) is excited to have recently introduced the Architecture Decision Record (ADR) framework. This handy structure is designed to help teams to consistently make and record technology decisions in order to reach the UK government\u2019s goals of better-documented decisions, less duplication and more joined-up delivery."
+        },
+        {
+            "text": "Documenting decisions is essential across all levels of government departments, particularly for those that need to be brought to the Technical Design Council (TDC). The TDC is made up of empowered Chief Technology Officers from across the public sector as a commitment set out in the blueprint for modern digital government. The TDC is responsible for decisions which affect cross-government architecture and shared platforms, in which ADRs play a major part."
+        },
+        {
+            "heading": 2,
+            "text": "What is the ADR framework?"
+        },
+        {
+            "text": "In the public sector, we make thousands of technology decisions every year. This number will only increase as we work on delivering the ambitious vision set out in the blueprint for modern digital government, which requires us to make better and more consistent decisions. Some are small. Some are huge. But when they\u2019re undocumented, we risk repeating work. When people move on, we can lose context of why decisions were made in certain ways. Most importantly, we miss opportunities to reuse good thinking."
+        },
+        {
+            "text": "This is where architecture decision records come in. An ADR is a short note that captures a key architectural decision. It\u2019s not a formal sign-off or a long report, but it can be used in formal governance boards and design authorities. ADRs are a way to document:"
+        },
+        {
+            "text": "ADRs are designed to be quick to write, easy to read and useful to others. They also maintain transparency in decision-making."
+        },
+        {
+            "text": "Our mission is to make ADRs a standard part of the decision-making workflow, which is why we landed on a clear and simple framework to help embed this practice across the public sector."
+        },
+        {
+            "heading": 2,
+            "text": "How we designed the framework\u00a0"
+        },
+        {
+            "text": "We built the ADR framework using patterns that already work well in government and industry. An easily-replicated accessible format was what teams wanted the most so that even someone who had no prior knowledge of ADRs could understand what was needed."
+        },
+        {
+            "text": "The point is to make decisions visible, not to add bureaucracy."
+        },
+        {
+            "text": "This is why the ADR framework consists of two sections. The first section has guidance on when and how to use ADRs and the second one contains a standard template for recording decisions."
+        },
+        {
+            "text": "The framework is designed to be flexible to reflect the diversity of how our teams work; it can be used in both agile and waterfall programmes, and anything in between."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learned so far"
+        },
+        {
+            "text": "We\u2019ve already tested the framework with various teams across the Department of Science, Innovation and Technology (DSIT), as well as other departments, to ensure that it\u2019s fit for purpose. Some great early feedback has indicated that this framework helps to:"
+        },
+        {
+            "text": "But we also learned that ADRs only work if they\u2019re part of the team\u2019s normal rhythm rather than bolt-ons or box-ticking exercises, so further change may be required to establish the practice of ADRs as standard."
+        },
+        {
+            "heading": 2,
+            "text": "How to get involved in the next steps"
+        },
+        {
+            "text": "We\u2019re encouraging the ADR framework\u2019s adoption across the public sector. While it won\u2019t be mandated for day-to-day team decisions, it will be needed for anything brought to the TDC. We\u2019re inviting more teams to test the framework and tell us what works so that we can adapt and improve it based on your feedback. We\u2019re also looking at how ADRs can support wider reforms, such as reducing legacy risk, improving technical resilience and enabling joined-up services."
+        },
+        {
+            "text": "If you work in government technology and would like to help us, you can use the ADR framework yourself."
+        },
+        {
+            "text": "We encourage you to try out the template on your next architecture decision, and then share your ADRs with others in your organisation."
+        },
+        {
+            "text": "If you have any suggestions or questions, reach out to the Enterprise Architecture team at publicsector.architecture@dsit.gov.uk."
+        }
+    ]
+}
