@@ -1,0 +1,69 @@
+{
+    "url": "https://gds.blog.gov.uk/2025/12/09/how-gov-uk-pay-grew-to-processing-8-billion-in-transactions/",
+    "title": "How GOV.UK Pay grew to processing \u00a38 billion in transactions",
+    "authors": [
+        "Christopher Brown, Senior Performance Analyst, GOV.UK Pay"
+    ],
+    "categories": [
+        "GDS team",
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2025-12-09T16:12:49+00:00",
+    "content": [
+        {
+            "text": "When we launched GOV.UK Pay back in 2016, its goal was simple: to offer a quick and easy way for public services to take card payments online. Since then we have helped more than 570 public sector organisations process over 120 million individual transactions through more than 1,500 services. Recently, we\u2019ve also\u00a0surpassed the \u00a38 billion milestone in payments processed for public sector services. These are all big, and impressive numbers, but there\u2019s a lot more granular data informing decision-making behind the scenes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We use numbers big and small"
+        },
+        {
+            "text": "Data such as how users choose to pay for their services, the types of services using GOV.UK Pay through to how easy it is for end-users to complete their payment, all inform some sort of decision-making in our team every day. It is all recorded so that any decisions we make to the product can be benchmarked, evaluated to see if they are a success and tweaked as needed."
+        },
+        {
+            "text": "What that means is that we\u2019ve been able to support everything from applying for or renewing a passport through to paying for green waste bin collection with your local council. We have over 600 local council services - including Penzance and The Orkneys - using GOV.UK Pay already. We take millions of payments for some services each year, while also catering for services that only need to take a handful of transactions.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Objectives and measuring success"
+        },
+        {
+            "text": "The team managed this by laying out 6 objectives:"
+        },
+        {
+            "text": "These objectives are set against clear, reliable data created from the services that allow the team to benchmark success well. Our decisions should then reflect these objectives.Aside from these, we also have a number of additional objectives and key results (OKRs) that are used. These make sure we are able to prove that any additional changes we make to the product have data points against them so we can show the impact. For example, we can see that recent changes we made to the GOV.UK Pay admin tool have made it quicker for service users to get things done: with people spending 2 minutes less on average in our 'Settings' section."
+        },
+        {
+            "heading": 2,
+            "text": "Future growth"
+        },
+        {
+            "text": "With the amount of information that is available we are also able to forecast the future with a high degree of confidence. Because of the consistent growth of services joining GOV.UK Pay we can see that we are likely to get around a 25% increase year-on-year in services taking a payment."
+        },
+        {
+            "text": "Our transaction growth (the number of payments that we process) is expected to increase 18% year-on-year. That's\u00a0because we already have\u00a0a number of\u00a0large services on the platform, that take millions of payments, so as a percentage\u00a0we\u2019d\u00a0need more\u00a0very large\u00a0services or\u00a0a large number of\u00a0smaller ones to make up the difference.\u00a0"
+        },
+        {
+            "text": "GOV.UK Pay\u2019s transaction growth had been steady until 2020 when a mixture of large services joining up on GOV.UK Pay and the rush to move online saw growth increase by more than 70% year-on-year. At the time a range of services across local government, NHS, Police and central government departments came on board to use the service during the coronavirus pandemic."
+        },
+        {
+            "text": "The graph shows GOV.UK Pay's growth since 2016 including a large spike in growth coinciding with lockdown."
+        },
+        {
+            "heading": 2,
+            "text": "What we're doing next"
+        },
+        {
+            "text": "Moving forward there is a roadmap that shows what we're planning, including introducing more ways for people to pay for things. We also released a procurement so that users will be able to pay by bank (also known as open banking) and there are more improvements on the horizon.\u00a0"
+        },
+        {
+            "text": "By using clear\u00a0objectives\u00a0and driving decision-making through data, GOV.UK Pay has been able to onboard\u00a0more and more\u00a0services, now almost 1,600 in total.\u00a0We\u2019ve\u00a0done this while continuing to provide an easy and reliable platform for users to take payments. More than 120 million individual transactions have been made on\u00a0GOV.UK\u00a0Pay, all through a quick and secure means of taking online payments.\u00a0"
+        },
+        {
+            "text": "You can find out more about GOV.UK Pay and the services that use it on our performance page."
+        },
+        {
+            "text": "There\u2019s more information about how GOV.UK Pay works and what\u2019s next for the service on our product pages."
+        }
+    ]
+}
