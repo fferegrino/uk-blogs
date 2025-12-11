@@ -1,0 +1,80 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2025/12/11/using-a-third-party-provider-to-verify-your-identity-with-companies-house/",
+    "title": "Using a third party provider to verify your identity with Companies House",
+    "authors": [
+        "Mark Buckley - Implementation Lead, ACSP"
+    ],
+    "categories": [
+        "Changes to UK company law",
+        "Digital transformation",
+        "Running a company"
+    ],
+    "pub_date": "2025-12-11T15:07:18+00:00",
+    "content": [
+        {
+            "text": "Companies House has introduced a new identity verification process to help prevent the misuse of UK companies. All directors need to verify their identity before filing their company\u2019s next confirmation statement, otherwise the filing will be rejected."
+        },
+        {
+            "text": "People with significant control (PSCs) also need to provide verification details by their due date. Check the\u00a0Companies House register\u00a0to see the due dates for each role you hold."
+        },
+        {
+            "text": "There are 2 ways to complete identity verification. You can use the \u2018Verify your identity for Companies House\u2019 service which uses GOV.UK One Login, or through an Authorised Corporate Service Provider (ACSP). This blog post focuses on the option of using an ACSP to verify your identity."
+        },
+        {
+            "heading": 2,
+            "text": "Authorised Corporate Service Providers"
+        },
+        {
+            "text": "An ACSP is an individual or organisation that undertakes anti-money laundering (AML) supervised activity, such as:"
+        },
+        {
+            "text": "If you choose to verify your identity using an ACSP, you'll need to provide them with approved identity documents as evidence. They'll complete the required checks and confirm your identity with Companies House using the \u2018Tell Companies House you\u2019ve verified someone\u2019s identity\u2019 service. ACSPs may charge for this service.Once the process is complete, an email will be sent to the email address provided by the ACSP containing your Companies House personal code. This code is an 11-character unique identifier that you'll need to provide to Companies House to confirm your identity for each role you hold. You can find the date when you're required to provide your personal code by on the Companies House register."
+        },
+        {
+            "heading": 2,
+            "text": "Using an ACSP"
+        },
+        {
+            "text": "Using an ACSP to verify your identity for Companies House can take the pressure off doing the process yourself."
+        },
+        {
+            "text": "Some of the reasons why you may wish to use an ACSP include:"
+        },
+        {
+            "text": "If you already use a professional to file on your behalf, such as an agent or accountant, they may already hold copies of your ID documents. This can make verifying your identity through an ACSP even quicker and easier."
+        },
+        {
+            "heading": 2,
+            "text": "ACSP compliance"
+        },
+        {
+            "text": "ACSPs are regulated third-party providers. Only authorised agents who have registered with Companies House and have been approved by our teams can perform identity verification checks."
+        },
+        {
+            "text": "Companies House also has a strict ACSP compliance policy. This means we have the power to randomly carry out checks on the data being provided by ACSPs to make sure they're meeting their legal requirements. Any potential issues will be investigated thoroughly, and if an ACSP is found to not be meeting the standard required, they will be suspended or ceased. You can find a list of suspended and ceased ACSPs on GOV.UK."
+        },
+        {
+            "text": "This means you can rest assured that using an ACSP is a safe and secure method of verifying your identity."
+        },
+        {
+            "heading": 2,
+            "text": "Finding an ACSP"
+        },
+        {
+            "text": "Over 10,000 accountants, solicitors and formation agents have already registered as ACSPs. If you already use an agent, you can ask if they're registered as an ACSP or plan to register so they can verify identities for Companies House. If they're not, they may be able to recommend an ACSP through their professional network."
+        },
+        {
+            "text": "You can also find a list of registered ACSPs on GOV.UK to help you find a provider if you do not already use one. This is not a complete list of all ACSPs \u2013 it only includes those who have chosen to appear on the public list."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "If you\u2019re a third-party provider and have not yet registered as an ACSP, you can do this on our website. Registration will allow you to carry out identity verification on behalf of your clients for Companies House. In the future, you\u2019ll also need to be registered as an ACSP to file documents on their behalf."
+        },
+        {
+            "text": "Stay up to date by signing up to email updates from Companies House."
+        }
+    ]
+}
