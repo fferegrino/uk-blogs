@@ -1,0 +1,146 @@
+{
+    "url": "https://rpc.blog.gov.uk/2025/12/15/carbon-valuation-why-it-matters-for-regulatory-policy/",
+    "title": "Carbon valuation: why it matters for regulatory policy",
+    "authors": [
+        "Allan Little"
+    ],
+    "categories": [
+        "Carbon valuation methodology",
+        "Energy sector"
+    ],
+    "pub_date": "2025-12-15T10:29:05+00:00",
+    "content": [
+        {
+            "text": "Carbon impacts can feature heavily in the economic appraisal supporting regulatory policy proposals. They can sit on either side of the cost-benefit ledger. Recent impact assessments published with legislation illustrate both."
+        },
+        {
+            "text": "The Clean Heat Market Mechanism (Amendment) Regulations 2025 showed a \u00a3153 million benefit in carbon savings. The Warm Home Discount (Amendment) Regulations 2025 included \u00a370 million in carbon costs, offset by the government\u2019s fuel poverty objectives."
+        },
+        {
+            "text": "Either way, how government values carbon has become an increasingly important part of its value for money analysis."
+        },
+        {
+            "heading": 2,
+            "text": "What are carbon values?"
+        },
+        {
+            "text": "Carbon values represent the monetary value that society places on one tonne of carbon dioxide equivalent emissions (\u00a3/tCO2e). "
+        },
+        {
+            "text": "In this context \"carbon\" is shorthand for all greenhouse gas emissions. "
+        },
+        {
+            "text": "CO2 equivalent is the standard metric used to compare emissions from different greenhouse gases, based on their global warming potential - for example, methane and nitrous oxide are converted to their CO2 equivalent based on their relative climate impact."
+        },
+        {
+            "heading": 2,
+            "text": "How government values carbon"
+        },
+        {
+            "text": "Carbon values differ from carbon prices - what businesses actually pay in markets like the UK Emissions Trading Scheme (UK ETS), to buy and sell emissions permits. While ETS prices reflect current market conditions, carbon values reflect the \u2018full\u2019 cost, across the whole economy."
+        },
+        {
+            "text": "Economists have developed two main approaches to valuing carbon."
+        },
+        {
+            "heading": 3,
+            "text": "Social cost of carbon (SCC) "
+        },
+        {
+            "text": "This estimates the damage each tonne of emissions causes - climate harms, extreme weather, sea level rise, and so on."
+        },
+        {
+            "heading": 3,
+            "text": "Marginal abatement cost (MAC) "
+        },
+        {
+            "text": "This estimates the cost of cutting one tonne of emissions."
+        },
+        {
+            "text": "The UK government uses the MAC approach, in part because the SCC relies on highly uncertain damage estimates."
+        },
+        {
+            "text": "The more we reduce emissions, the costlier it gets. Cheaper abatement options are exhausted first; later reductions require more expensive interventions. "
+        },
+        {
+            "text": "That's why we face an upward-sloping cost curve, illustrated below. The government uses the MAC approach to identify the carbon value required to deliver sufficient abatement to meet its legally binding targets."
+        },
+        {
+            "text": "Source: Department for Energy Security and Net Zero with Department for Business, Energy and Industrial Strategy (2021): Valuation of greenhouse gas emissions: for policy appraisal and evaluation"
+        },
+        {
+            "heading": 2,
+            "text": "Current values"
+        },
+        {
+            "text": "The Green Book supplementary guidance on the valuation of energy use and greenhouse gas emissions for appraisal, from the Department for Energy Security and Net Zero, sets a central carbon value of \u00a3273 per tonne CO2e for 2025 (2022 prices), with a \u00b150% sensitivity range reflecting uncertainty. Since abatement becomes more costly, the value rises to \u00a3398 per tonne by 2050."
+        },
+        {
+            "text": "The \u00b150% range is significant. It reflects genuine uncertainty, for example about future technology costs and their evolution. Where a regulatory policy's overall value for money is influenced by these carbon values, it should include sensitivity testing across this range. Sensitivity tests are also important where emissions impacts are themselves uncertain."
+        },
+        {
+            "heading": 2,
+            "text": "Why carbon valuation matters for regulatory policy"
+        },
+        {
+            "text": "Valuing carbon serves several purposes in regulatory policy appraisal."
+        },
+        {
+            "heading": 3,
+            "text": "It captures the benefits of climate change mitigation"
+        },
+        {
+            "text": "Carbon valuation allows assessments to account for the real costs of emissions reductions to meet legally-binding emissions targets. Without this, cost-benefit analyses would systematically understate the cost of policies that increase emissions or undervalue those that reduce them."
+        },
+        {
+            "heading": 3,
+            "text": "It guides efficient resource allocation"
+        },
+        {
+            "text": "It helps direct regulatory policy toward the most cost-effective ways to reduce emissions. In short, considering value for money is just as important in achieving climate goals, as it is with other government objectives."
+        },
+        {
+            "heading": 3,
+            "text": "It ensures consistency"
+        },
+        {
+            "text": "Using common carbon values across all policy areas prevents departments from implicitly valuing emissions differently, which could lead to inefficient choices about where to focus decarbonisation efforts."
+        },
+        {
+            "heading": 3,
+            "text": "It supports environmental goals"
+        },
+        {
+            "text": "Explicitly quantifying and valuing carbon helps government track and report progress toward carbon budgets and net zero. That\u2019s why we\u2019d also expect carbon impacts to feature in monitoring and evaluation plans."
+        },
+        {
+            "heading": 3,
+            "text": "It improves transparency"
+        },
+        {
+            "text": "Making carbon impacts explicit allows Parliament, businesses and other stakeholders to scrutinise the trade-offs involved in regulatory decisions."
+        },
+        {
+            "heading": 2,
+            "text": "Find out more"
+        },
+        {
+            "text": "Carbon valuation remains one of the most challenging impacts to assess in regulatory policy, drawing on scientific, behavioural and economic evidence. "
+        },
+        {
+            "text": "At the RPC, we scrutinise carbon appraisal as we would other societal impacts - looking for proportionality, transparency and consistency. "
+        },
+        {
+            "text": "Robust analysis helps government evidence progress toward climate goals and demonstrate that its plans represent value for money."
+        },
+        {
+            "text": "For more information, we recommend:"
+        },
+        {
+            "text": "What has been your experience with carbon valuation? "
+        },
+        {
+            "text": "Leave us a comment below and\u00a0subscribe to the RPC\u2019s blog\u00a0to be notified when we post new articles."
+        }
+    ]
+}
