@@ -1,0 +1,126 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2025/12/16/the-future-of-the-funding-service-solving-a-whole-problem-for-users/",
+    "title": "The future of the Funding Service:\u00a0solving a whole problem for\u00a0users\u00a0",
+    "authors": [
+        "Kate Harries, Head of User Centred Design, Funding Service"
+    ],
+    "categories": [
+        "Design",
+        "Funding Service"
+    ],
+    "pub_date": "2025-12-16T11:05:14+00:00",
+    "content": [
+        {
+            "text": "The\u00a0Funding Service\u00a0is a multidisciplinary team in\u00a0the Ministry of Housing, Communities and Local Government\u00a0(MHCLG) transforming the way the department delivers grants to councils and communities.\u00a0It has already achieved a lot\u00a0in its mission to\u00a0make\u00a0grant delivery more cost-effective, consistent and\u00a0user-focused.\u00a0"
+        },
+        {
+            "text": "As 2025 draws to a close, the Funding Service is at a turning point.\u00a0\u00a0"
+        },
+        {
+            "text": "Over the past few years, our focus has been on responding to user feedback for the products we had already built and, more recently, on the critical task of creating a\u00a0new digital service that could scale.\u00a0\u00a0"
+        },
+        {
+            "text": "The general election, change of government and spending review created a great deal of change in grant funding policy, including periods of uncertainty and lower-than-expected demand for the service. This meant we sometimes had\u00a0a very small\u00a0number of active users, and it could be hard to judge what was a must-have for multiple users and should be prioritised, versus a nice-to-have for a single user.\u00a0"
+        },
+        {
+            "text": "Now we have a larger and more diverse group of users, our focus is prioritising based on analysed research and user needs, rather than nice-to-haves, to avoid creating an overly bespoke and technically unstable service.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0matured as a service and as a team, too.\u00a0We\u2019ve\u00a0improved our ways of working by\u00a0consolidating\u00a0agile and user-centred design best practices. We've  created an Insights Library to help us organise and prioritise user insights at each point of the journey. This sets us off on the right foot to\u00a0solve a whole problem for users, end-to-end, and look at opportunities to integrate, either side of our current products.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our\u00a0guiding\u00a0values\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0agreed on\u00a06\u00a0values\u00a0to\u00a0help us prioritise and address the biggest pain points affecting the biggest number of users first.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "1. Go\u00a0wide,\u00a0not\u00a0deep\u00a0"
+        },
+        {
+            "text": "We\u00a0start by doing the essentials for each part of the grant lifecycle, then move quickly to cover the whole journey. We\u00a0won\u2019t\u00a0go feature-heavy on any single stage until\u00a0we\u2019ve\u00a0created a\u00a0minimum\u00a0viable\u00a0product (MVP).\u00a0\u00a0"
+        },
+        {
+            "text": "Alongside building services, our focus will be on integrating with tools that already exist. If they\u00a0don\u2019t\u00a0meet our users\u2019 needs, we need to be clear about why that is and what we will build instead.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. Integrate,\u00a0integrate,\u00a0integrate\u00a0"
+        },
+        {
+            "text": "We need to connect MHCLG and non-MHCLG products so that users don't  feel the seams\u00a0between services or\u00a0have to\u00a0enter the same data twice.\u00a0That means using high-quality reference data wherever it exists and avoiding redundant or inconsistent copies.\u00a0Good integration\u00a0isn\u2019t\u00a0just about  technology;\u00a0it\u2019s\u00a0about making the whole journey feel smooth (more on this below!).\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3.\u00a0Design for the seams\u00a0"
+        },
+        {
+            "text": "We know users move between multiple services. Our job is to\u00a0make those transitions easier to navigate for users.\u00a0That means gathering insight about the whole journey, not just the products\u00a0we\u2019ve\u00a0built.\u00a0"
+        },
+        {
+            "text": "As Richard Pope puts it in\u00a0his book Platformland, designing for the seams gives us \u201ca way of revealing decisions, rules, data and accountability to users while not abandoning the aspiration for simplicity\u201d.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "4. Prioritise based on multiple user needs\u00a0"
+        },
+        {
+            "text": "We need to\u00a0identify\u00a0the top priority based on user needs, deliver it quickly to the agreed standard, and then move on. This approach helps us avoid   spreading ourselves too thin and means\u00a0we\u2019re\u00a0creating value where it's  needed most.\u00a0\u00a0To support this,\u00a0we\u2019re\u00a0embedding new feedback loops into our process: synthesised feedback and user research findings feed into an Insights Library, which informs product prioritisation. By taking this evidence-based approach, we can make more informed decisions and deliver meaningful improvements faster.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "5. Release new things fast\u00a0"
+        },
+        {
+            "text": "We\u2019ll\u00a0release quickly, get real feedback, and iterate.\u00a0It\u2019s\u00a0better to launch something useful now than wait for perfect later.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "6. Be ready for policy changes\u00a0"
+        },
+        {
+            "text": "Our team and our products need to be flexible and ready to quickly adapt to changes in policy.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Identifying\u00a0integration opportunities and joining up\u00a0"
+        },
+        {
+            "text": "Policy teams delivering grants and grant recipients currently need to engage with several teams and services both within MHCLG and in wider government during the funding lifecycle. This may include:\u00a0"
+        },
+        {
+            "text": "This can lead to a disjointed, time consuming, and often confusing experience for users (and for our team working with grants, too).\u00a0\u00a0"
+        },
+        {
+            "text": "Our ambition for 2026 into 2027 is an\u00a0end-to-end user journey that feels friction-free for the user.\u00a0\u00a0"
+        },
+        {
+            "text": "Over the next few months,\u00a0we'll\u00a0be exploring the processes, policies and teams which underpin these products to ensure there is a good link-up to support the user experience.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Our work in the new year and beyond\u00a0"
+        },
+        {
+            "text": "A new year brings new challenges, but also opportunities! We know our plan is ambitious, which is why\u00a0we\u2019ve\u00a0already\u00a0started.\u00a0"
+        },
+        {
+            "text": "Our Service Insights team have been busy:\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "The team\u00a0is\u00a0now working on:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to get involved\u00a0"
+        },
+        {
+            "text": "We\u00a0can\u2019t\u00a0do this alone, which is why\u00a0we\u2019ll\u00a0be\u00a0working closely with teams  across MHCLG and\u00a0wider government. We plan to engage with teams working on products our users may interact with to see how we can integrate and avoid duplication.\u00a0"
+        },
+        {
+            "text": "Whether\u00a0you\u2019re\u00a0in MHCLG or another department, please\u00a0get in touch to learn more about our work at\u00a0FundingService@communities.gov.uk.\u00a0"
+        }
+    ]
+}

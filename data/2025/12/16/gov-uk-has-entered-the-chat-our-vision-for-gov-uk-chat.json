@@ -1,0 +1,56 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2025/12/16/gov-uk-has-entered-the-chat-our-vision-for-gov-uk-chat/",
+    "title": "GOV.UK has entered the Chat: our vision for GOV.UK Chat",
+    "authors": [
+        "Leanne Cummings, Director, Products and Services, GDS"
+    ],
+    "categories": [
+        "Vision and plans",
+        "What we're working on",
+        "Working with us"
+    ],
+    "pub_date": "2025-12-16T15:08:27+00:00",
+    "content": [
+        {
+            "text": "GOV.UK Chat is an AI-powered chat system we\u2019ve built at the Government Digital Service (GDS). It\u2019s a new way to interact with government, designed to make it easier for people to find what they need on GOV.UK."
+        },
+        {
+            "text": "We want people to be able to ask questions as they would in everyday life; for example: \u201cI\u2019ve just had a baby, do you know what help I can get?\u201d. The answer will bring together content from across government: in this example joining up the support offer from HMRC, DWP and the Department for Education, into a single, simple conversational answer."
+        },
+        {
+            "text": "In GDS\u2019s role, as the digital centre of government, we\u2019re building this for everyone \u2013 everybody who uses the existing suite of GOV.UK products and channels, and every team in government working on public-facing guidance and services. It\u2019s a core part of the work GDS is doing to create a new generation of personalised, joined-up public services. It was highlighted as one of 5 \u2018kickstarters\u2019 in the blueprint for modern digital government, and in July it was selected as one of the Prime Minister\u2019s AI Exemplars."
+        },
+        {
+            "text": "Over the last year, we ran two scaled public pilots of GOV.UK Chat \u2013 first on the GOV.UK website, and then in the GOV.UK app. Based on the findings of these pilots, we plan to roll out public access to GOV.UK Chat. We\u2019ll start with a release in the GOV.UK app early next year. Beyond that, we intend to make it widely available across the GOV.UK website so it\u2019s accessible wherever users need it."
+        },
+        {
+            "text": "For many this will offer a much easier way to use GOV.UK. It will provide citizens with an additional choice of how they can access the content and services they need, in a simple natural language interface. As with all our products, we\u2019re taking a user-centred, agile approach \u2013 rolling out in stages and making improvements as we go. We\u2019ll continue to invest heavily in measures designed to minimise risks and protect users\u2019 privacy and security. We\u2019re excited for more people to try GOV.UK Chat and give feedback to our teams."
+        },
+        {
+            "heading": 2,
+            "text": "From answers to actions"
+        },
+        {
+            "text": "We know from our research that GOV.UK Chat, in its current form, offers a lot of value to citizens, but we think we\u2019re just at the beginning of the potential opportunities in this space. We\u2019re experimenting with agentic AI, and the idea that GOV.UK Chat can evolve from providing answers to performing actions, helping users get things done with government more easily. We\u2019re currently running product explorations into this next set of features."
+        },
+        {
+            "text": "The areas of exploration include:"
+        },
+        {
+            "heading": 2,
+            "text": "What this means for government departments"
+        },
+        {
+            "text": "We\u2019re building this product to provide a simple way to access all of the guidance published across GOV.UK. This underlines that GOV.UK Chat can only be as good as the content published on GOV.UK by departmental teams. Clear and accurate content will result in better answers, so prioritising good content design is even more important than ever."
+        },
+        {
+            "text": "We want to keep the experience for users simple. So, for departments, if you\u2019re in the process of building a public-facing chat experience, please reach out to our team early so we can ensure we\u2019re creating a joined-up experience for citizens and avoid duplicated costs. We can envisage use cases where it makes sense to pass GOV.UK Chat users on to a department\u2019s AI agent or service when needed, and we\u2019re carrying out experimental work to build the technology to do this. We want to collaborate with teams to establish common standards for how this works in government, keeping the experience seamless for users."
+        },
+        {
+            "text": "We\u2019re also looking for departmental partners on the 3 areas of agentic AI experimentation outlined above."
+        },
+        {
+            "text": "Please email govuk-ai@dsit.gov.uk if you\u2019re in a government department and you\u2019d be interested in working with us, or to talk to us if your department is building a public-facing chat product."
+        }
+    ]
+}
