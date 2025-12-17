@@ -1,0 +1,74 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2025/12/17/introducing-the-ministry-of-justice-engineering-ai-governance-framework/",
+    "title": "Introducing the Ministry of Justice Engineering AI Governance Framework",
+    "authors": [
+        "Rosie Brigham"
+    ],
+    "categories": [
+        "AI",
+        "AI and Data Science Ethics Framework",
+        "digital services",
+        "engineering",
+        "Engineering AI Governance Framework"
+    ],
+    "pub_date": "2025-12-17T12:36:20+01:00",
+    "content": [
+        {
+            "text": "AI is transforming how we build digital services. Tools like GitHub Copilot help our teams write code faster and solve problems more efficiently. However, using AI well means using it responsibly."
+        },
+        {
+            "text": "We have recently published the Ministry of Justice\u2019s Engineering AI Governance Framework. This guidance provides practical steps to help our engineering teams use AI safely and ethically, whether introducing a new AI coding assistant or developing a custom-built AI system."
+        },
+        {
+            "heading": 2,
+            "text": "What it is"
+        },
+        {
+            "text": "Our framework provides clear principles and governance processes for using AI across the engineering lifecycle. It covers accountability, choosing approved tools, testing, deployment, and ongoing monitoring."
+        },
+        {
+            "text": "Lewis Wilson, Chief Engineer, said:"
+        },
+        {
+            "text": "Quality engineering is a culture of using process, and automation, to make sure what we build works as it should. AI can help with that. But if we use it without discipline, it'll start to undermine the basics of quality engineering. AI is just the next chapter in how we build software. Like compilers, version control and CI/CD before it, each made us faster and each needed us to learn a new way of working. That's what engineers do, and this framework will help us achieve it.\""
+        },
+        {
+            "heading": 2,
+            "text": "What it covers"
+        },
+        {
+            "text": "The framework sets out our principles for responsible AI use."
+        },
+        {
+            "text": "Lawfulness and public benefit: The use of AI must be within the law and regulations (including data protection, equality, and human rights) and align with the MOJ\u2019s public service mission."
+        },
+        {
+            "text": "Human in the loop: Clear responsibility should be assigned for the outcomes of AI systems and tooling throughout the development, deployment and use. A named person must be identified as accountable for an AI model\u2019s performance, decisions, and compliance."
+        },
+        {
+            "text": "Fairness and non-discrimination: AI-based decisions must not disadvantage individuals or groups based on protected characteristics. Build in human checks of datasets and algorithms to detect and mitigate bias."
+        },
+        {
+            "text": "Transparency: Internal documentation about each AI system, tool, and model (including its design, purpose, and limitations) should be maintained and readily available for review."
+        },
+        {
+            "text": "Privacy and security: There must be no ingestion of personal data or sensitive security data by AI unless the AI system has been reviewed and approved by the Technical Design Authority."
+        },
+        {
+            "text": "Reliability and safety: Ensure AI systems and models are well-developed, thoroughly tested, and resilient before deployment and throughout use. This includes verification that outputs are accurate and error rates are within acceptable bounds. AI systems should fail safely, defaulting to human control when encountering conditions outside their scope."
+        },
+        {
+            "text": "Continuous monitoring: Perform regular audits and performance reviews to verify that all AI systems, models, and tooling maintain compliance with these principles throughout their operational life."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "This framework aims to be simple, practical, and has been written to be flexible as the landscape of AI rapidly changes. We have published the framework so that other government departments or organisations can use and adapt it for teams facing similar challenges in AI governance within engineering."
+        },
+        {
+            "text": "We will continue to iterate the framework as we learn and evolve. It sits alongside the existing AI and Data Science Ethics Framework, offering engineering-specific guidance while ensuring consistent principles across the Ministry of Justice."
+        }
+    ]
+}
