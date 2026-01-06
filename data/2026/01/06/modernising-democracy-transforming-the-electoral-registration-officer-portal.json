@@ -1,0 +1,86 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/01/06/modernising-democracy-transforming-the-electoral-registration-officer-portal/",
+    "title": "Modernising democracy: Transforming the Electoral registration officer portal\u00a0",
+    "authors": [
+        "Joe Platonoff, Senior Product Manager, Elections Digital Team"
+    ],
+    "categories": [
+        "Elections",
+        "Technology"
+    ],
+    "pub_date": "2026-01-06T10:19:05+00:00",
+    "content": [
+        {
+            "text": "The Electoral registration officer portal (EROP) is a secure web portal used by\u202fElectoral Registration Officers (EROs) \u2013 the officials responsible for maintaining\u00a0accurate\u00a0electoral registers in local authorities across the UK. The portal is used daily to process applications that directly affect people\u2019s ability to vote.\u00a0"
+        },
+        {
+            "text": "The Elections Digital team\u00a0in the Ministry of Housing, Communities and Local Government (MHCLG)\u00a0recently\u00a0completed a major transformation project  called\u00a0\u2018Optimising\u00a0Services\u2019.\u00a0This\u00a0long-term\u00a0initiative\u00a0used digital principles,  along with\u00a0a phased rollout\u00a0approach,\u00a0to\u00a0significantly improve EROP, making  the portal more efficient, easier to\u00a0maintain,\u00a0and better equipped to support future electoral reforms.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is EROP\u00a0used for?\u202f\u00a0"
+        },
+        {
+            "text": "\u00a0The portal allows EROs to process applications for:\u202f\u00a0"
+        },
+        {
+            "text": "These services were introduced or expanded\u00a0as a result of\u00a0the\u202fElections Act 2022, which brought changes to how elections are run in the UK.\u202fEROP was built specifically to support these new or expanded services.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why\u00a0was\u00a0Optimising Services\u00a0needed?\u00a0"
+        },
+        {
+            "text": "EROP was originally built quickly to\u00a0comply with\u00a0legislative deadlines\u00a0born out of the Elections Act 2022.\u00a0The requirements encompassed a variety of needs, including enabling all\u00a0applications to be\u00a0submitted\u00a0online, with each service addressed individually. To meet these stringent deadlines and  minimise technical complexity, EROP was constructed incrementally, beginning with the development of a VAC service. Consequently, each application type was created and managed as a separate\u00a0service.\u00a0\u00a0"
+        },
+        {
+            "text": "As a\u00a0result,\u00a0within EROP:\u202f\u00a0"
+        },
+        {
+            "text": "This fragmented\u00a0structure\u00a0made it harder to\u00a0continue improving and  maintaining\u00a0the system\u00a0or\u00a0respond to\u00a0policy\u00a0changes\u00a0or\u00a0the needs of EROs. These needs\u00a0are well documented\u00a0by\u00a0the team, making\u00a0great use\u00a0of user feedback.\u00a0However, reacting to new feedback was challenging because the fragmented structure made changes hard to implement.\u00a0To address these  needs, the team\u00a0outlined\u00a0Optimising Services,\u00a0a solution\u00a0to create a  centralised application system\u202fthat could handle all services in a unified way.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A\u00a0phased\u00a0rollout\u00a0to\u00a0build\u00a0confidence\u202f\u00a0"
+        },
+        {
+            "text": "When introducing major changes to a live public service,\u00a0especially one as critical as electoral administration,\u00a0stability and trust are paramount. EROP\u202fis used daily by local authorities to process applications that directly affect people\u2019s ability to vote. Any disruption could have\u00a0serious consequences, and  switching over\u00a0all services\u00a0in EROP\u00a0for all EROs\u00a0at once would have carried  risk.\u00a0To\u00a0manage this,\u00a0the team opted\u00a0to\u00a0develop this work\u00a0through\u00a0a\u202fphased rollout.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What the\u00a0phased\u00a0rollout\u00a0looked\u00a0like\u00a0"
+        },
+        {
+            "text": "The rollout began with a group of 12 EROs from across England,\u00a0Scotland\u00a0and Wales. These early adopters started using the new system for\u00a0some types of  applications, while all other services remained on the legacy platform. This allowed the team to:\u00a0"
+        },
+        {
+            "text": "As confidence grew,\u00a0the recently tested phase was rolled out to all EROs, and  the\u00a0phased launch\u00a0rollout expanded to include\u202fother types of\u00a0applications\u00a0in phases.\u00a0This\u00a0created\u00a0a steady flow of new\u00a0services being tested, and\u00a0now-tested\u00a0services\u00a0being\u00a0released to\u00a0the live product for everyone.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Unlocking\u00a0real-time benefits\u00a0"
+        },
+        {
+            "text": "In addition to improving feature delivery times, a\u00a0significant outcome of\u00a0the project\u00a0was our ability\u00a0to\u202funlock new improvements\u202fduring the rollout itself,  not just after the transition was complete.\u00a0"
+        },
+        {
+            "text": "The benefits of Optimising Services\u00a0enabled\u00a0the team\u00a0to\u00a0deliver  enhancements that previously would have\u00a0required\u00a0separate development work for each service. This meant that improvements were delivered faster  and\u00a0more efficiently,\u00a0providing\u00a0live benefits as part of this large-scale project. "
+        },
+        {
+            "heading": 2,
+            "text": "Completing the\u00a0journey\u00a0"
+        },
+        {
+            "text": "The final phase involved transitioning older\u00a0elector\u00a0applications\u00a0to the new system and decommissioning the legacy services. This was done carefully, working through services\u00a0to avoid disruption.\u202f\u00a0"
+        },
+        {
+            "text": "By August 2025, the legacy infrastructure was successfully decommissioned.  By this\u00a0time, the\u00a0new\u00a0Optimising Services\u00a0system\u00a0had already processed over 2.1 million applications\u00a0\u2013\u00a0a\u00a0clear sign of its robustness and readiness for  future demands.\u00a0"
+        },
+        {
+            "text": "Optimising Services is\u00a0a great example\u00a0of how thoughtful design,  collaboration and user-centred development can deliver lasting  improvements to public services.\u00a0It\u2019s\u00a0a milestone worth celebrating,\u00a0and a foundation for future innovation in electoral services.\u00a0"
+        },
+        {
+            "text": "This project was delivered by a multidisciplinary team, which included colleagues from our contracted supplier, Softwire Technology Ltd."
+        }
+    ]
+}
