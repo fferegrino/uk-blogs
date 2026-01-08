@@ -1,0 +1,84 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/01/08/building-a-data-model-for-planning-decisions/",
+    "title": "Building a data model for planning decisions\u202f\u00a0",
+    "authors": [
+        "Mike Rose, Data, Licensing and Intellectual Property SME",
+        "Colm Britton, Service Designer and Team Lead"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2026-01-08T09:14:40+00:00",
+    "content": [
+        {
+            "text": "Every year, local planning authorities make hundreds of thousands of planning decisions. But right now, that decision data exists in dozens of different formats across different systems, making it difficult to use, compare\u00a0and\u00a0learn from.\u00a0"
+        },
+        {
+            "text": "We're\u00a0working to change that by creating a\u00a0planning decision data specification \u2013 a common standard that will make planning decision data consistent,\u00a0accessible\u00a0and useful across England.\u00a0In a recent blog post, we shared\u00a0what we learnt\u00a0from our\u00a0initial user research\u00a0sessions\u00a0about the problems people face and why\u00a0standardised decision data is so critical to solving them."
+        },
+        {
+            "heading": 2,
+            "text": "Why\u00a0this matters\u00a0"
+        },
+        {
+            "text": "Consistent\u00a0data\u00a0created at the\u00a0decision stage  will benefit everyone working in the planning system and beyond:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u00a0we're\u00a0standardising\u00a0"
+        },
+        {
+            "text": "Our definition of\u00a0decision\u00a0stage\u00a0data captures everything needed to understand and act on\u00a0the outcome of a\u00a0planning\u00a0application:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How\u00a0we're\u00a0building this\u00a0"
+        },
+        {
+            "text": "Unlike\u00a0our work\u00a0standardising the planning application submission stage\u00a0where we could build on existing application forms,\u00a0we're\u00a0creating this\u00a0new\u00a0national\u00a0specification from scratch.\u00a0The approach\u00a0we\u2019re\u00a0taking to achieve this is\u00a0to:\u00a0"
+        },
+        {
+            "text": "The specifications are currently\u00a0informed by 5 main sources:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Progress so far\u00a0"
+        },
+        {
+            "text": "We're\u00a0building the data model piece by piece, with each element traceable back\u00a0to user\u00a0needs.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Decision\u00a0notices\u00a0"
+        },
+        {
+            "text": "We started with the core legal requirement \u2013 the decision notice itself. We've defined fields for linking to\u00a0the\u00a0application\u00a0record, recording timings\u00a0such as the decision date on the notice and the date when the application was first received by the local planning authority,\u00a0to track whether deadlines were met, and capturing who made the decision\u00a0\u2013 whether it was by a planning officer, a planning committee at the local planning authority or by the Planning Inspectorate on appeal.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Conditions\u00a0"
+        },
+        {
+            "text": "We've\u00a0been\u00a0looking at\u00a0how conditions attach to decisions\u00a0and can be discharged by one.\u00a0For example, understanding\u00a0whether\u00a0conditions attached to a permission have been\u00a0met, allowing development to proceed or continue in compliance\u00a0with specific\u00a0requirements.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What's\u00a0next\u00a0"
+        },
+        {
+            "text": "While we have\u00a0made\u00a0solid progress on\u00a0what is the decision and\u00a0what  conditions apply,\u00a0we're\u00a0still\u00a0working on the\u00a0rest of the\u00a0picture, including the application log\u00a0capturing the\u00a0steps leading to\u00a0the\u00a0decision,\u00a0such as consultation periods and\u00a0time\u00a0extensions, the\u00a0overall application status (including withdrawals and appeals), and the remaining\u00a0data from the\u00a0local authority\u00a0statistical returns.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Join us\u00a0"
+        },
+        {
+            "text": "This work covers complex territory \u2013 from\u00a0initial\u00a0submissions through to post-decision actions like condition discharge.\u00a0We're\u00a0taking it step by step, tackling what\u00a0we're\u00a0confident about first, then using\u00a0further\u00a0research to understand\u00a0more needs and model the more complicated scenarios. We're continuing our user research and are keen to speak to people who have valuable insights they\u00a0can\u00a0share.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "We need your help:\u00a0"
+        }
+    ]
+}
