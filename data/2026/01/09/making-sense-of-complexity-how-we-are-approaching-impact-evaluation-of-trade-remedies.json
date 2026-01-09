@@ -1,0 +1,82 @@
+{
+    "url": "https://traderemedies.blog.gov.uk/2026/01/09/making-sense-of-complexity-how-we-are-approaching-impact-evaluation-of-trade-remedies/",
+    "title": "Making sense of complexity: how we\u00a0are approaching\u00a0 impact\u00a0evaluation of trade remedies\u00a0\u00a0",
+    "authors": [
+        "Ilona Serwicka, Head of Evaluation and Research"
+    ],
+    "categories": [
+        "Analysis"
+    ],
+    "pub_date": "2026-01-09T11:07:27+00:00",
+    "content": [
+        {
+            "text": "The\u00a0Trade Remedies Authority (TRA)\u00a0investigates\u00a0allegations of unfair international trade practices, as well as unforeseen surges of imports, which are harming UK producers.\u00a0Where there is evidence of unfair international trade practices, or unforeseen surges of imports, and evidence of injury to UK producers,\u00a0the\u00a0TRA\u00a0recommends\u00a0that\u00a0a\u00a0trade remedy, normally in the form of duty on imports,\u00a0is put in place.\u00a0"
+        },
+        {
+            "text": "Understanding the impact of our work\u00a0is important for us because it\u00a0helps us to learn, change and improve how we\u00a0operate.\u00a0We\u00a0are\u00a0committed to evaluating\u00a0the impact of trade remedies\u00a0that\u00a0the\u00a0TRA has imposed,\u00a0changed\u00a0or revoked in recent years.\u00a0\u00a0"
+        },
+        {
+            "text": "Impact evaluation\u00a0is a systematic assessment\u00a0of\u00a0outcomes,\u00a0intended or unintended,\u00a0of\u00a0an\u00a0intervention.\u00a0Impact evaluation\u00a0aims to\u00a0determine\u00a0if these outcomes can be attributed to an intervention\u00a0or if they would have happened by pure chance.\u00a0"
+        },
+        {
+            "text": "How\u00a0we are\u00a0evaluating\u00a0trade remedies: which measures, which data, which methods\u00a0"
+        },
+        {
+            "text": "To get started on exploring the impact of trade remedies,\u00a0we\u00a0chose\u00a0a\u00a0small number of\u00a0our\u00a0trade remedy\u00a0measures\u00a0including\u00a0new\u00a0UK\u00a0measures\u00a0as well as\u00a0EU measures\u00a0that have been reviewed\u00a0as part of transition reviews.\u00a0"
+        },
+        {
+            "text": "We used UK imports data from January 2017 to September 2024\u00a0from the Overseas Trade in Goods Statistics dataset from\u00a0uktradeinfo.\u00a0We\u00a0looked at\u00a0data on\u00a0UK imports of affected goods\u00a0from countries\u00a0covered by\u00a0our measures,\u00a0imports of unaffected\u00a0but similar\u00a0goods\u00a0from third countries\u00a0 and\u00a0imports of\u00a0other\u00a0unaffected goods\u00a0from countries\u00a0covered by our measures\u00a0and third countries.\u00a0"
+        },
+        {
+            "text": "Previous research\u00a0commissioned by the TRA\u00a0identified\u00a0feasible and\u00a0suitable\u00a0econometric\u00a0methods for impact evaluation.\u00a0We\u00a0have\u00a0employed two\u00a0methods\u00a0so far: the difference-in-differences (diff-in-diff)\u00a0model\u00a0and\u00a0the Synthetic Control Method (SCM) model.\u00a0The diff-in-diff model\u00a0and\u00a0SCM model\u00a0have\u00a0previously\u00a0been used in academic and policy literature to study trade effects\u00a0of policy changes, including\u00a0trade remedies.\u00a0"
+        },
+        {
+            "text": "Both diff-in-diff and SCM assess\u00a0the\u00a0impact\u00a0of a policy\u00a0by comparing\u00a0an outcome of\u00a0a treated group (affected by the policy) with\u00a0an outcome of\u00a0an untreated\u00a0or control\u00a0group (not affected), before and after the policy change. Diff-in-diff requires the analyst to manually\u00a0identify\u00a0a\u00a0suitable\u00a0control group, while SCM\u00a0uses data\u00a0optimisation to\u00a0build a synthetic\u00a0control\u00a0group.\u00a0In both cases, the method is considered reliable if the treated\u00a0 group\u00a0 and\u00a0 the\u00a0untreated group\u00a0have\u00a0similar outcomes before the policy change.\u00a0"
+        },
+        {
+            "text": "Our\u00a0initial\u00a0analysis based on the data\u00a0available\u00a0for most part has\u00a0 not\u00a0yet\u00a0identified\u00a0a statistically significant effect on\u00a0UK imports from the imposition, change\u00a0or revocation of dumping or subsidy measures.\u00a0This could be explained by\u00a0a number of\u00a0factors,\u00a0including\u00a0limitations of the data available.\u00a0For\u00a0example, UK imports data\u00a0currently\u00a0only\u00a0cover\u00a0a small number of years\u00a0of the\u00a0\u2018post-intervention period\u2019,\u00a0i.e.\u00a0time period\u00a0since our measures were\u00a0transitioned,\u00a0imposed,\u00a0changed\u00a0or revoked.\u00a0 "
+        },
+        {
+            "text": "UK\u00a0imports\u00a0data\u00a0are\u00a0also\u00a0reported at country-level and commodity-level but are not reported at firm-level.\u00a0\u00a0"
+        },
+        {
+            "text": "How can we make sense of complexity\u00a0in impact evaluation\u00a0of trade remedies?\u00a0"
+        },
+        {
+            "text": "Evaluating\u00a0the\u00a0economic\u00a0impact of trade\u00a0remedies\u00a0is\u00a0a complex task. To the best of our knowledge,\u00a0while\u00a0trade remedy investigating authorities in other countries\u00a0do produce reports\u00a0and/or summary data\u00a0related to\u00a0their activities,\u00a0which feed into data reported by the World Trade Organization (WTO) such as semi-annual reports on\u00a0anti-dumping and countervailing actions,\u00a0few have made an attempt to evaluate\u00a0the\u00a0impacts of their measures.\u00a0"
+        },
+        {
+            "text": "Let\u2019s\u00a0walk through the complexity of the task ahead of us based on an example: red candles being imported from Wickland.\u00a0"
+        },
+        {
+            "text": "Economic theory would suggest that\u00a0if there\u00a0were a\u00a0UK trade remedy imposed\u00a0on red\u00a0candles\u00a0imported from\u00a0Wickland,\u00a0UK imports of red\u00a0candles\u00a0from\u00a0Wickland\u00a0would decrease. This is\u00a0 because\u00a0 red\u00a0  candles\u00a0from\u00a0Wickland\u00a0would\u00a0become\u00a0relatively more\u00a0expensive compared to\u00a0red\u00a0candles\u00a0from the UK, white\u00a0candles\u00a0from\u00a0Wickland, or white\u00a0 candles\u00a0from the UK\u00a0candles\u00a0from the UK.\u00a0"
+        },
+        {
+            "text": "In practice, however, the link\u00a0between the UK trade remedy on red\u00a0candles\u00a0imported from\u00a0Wickland\u00a0on the one hand and the size of UK imports of red\u00a0candles\u00a0from\u00a0Wickland\u00a0on the other hand may not be\u00a0this\u00a0easy to see in the\u00a0trade\u00a0data.\u00a0"
+        },
+        {
+            "text": "Firstly, trade remedies are often firm-specific. This means red candles imported\u00a0from\u00a0a\u00a0company called\u00a0Starlit Candles\u00a0in\u00a0Wickland\u00a0may\u00a0be subject to\u00a0a\u00a0different\u00a0level\u00a0of duty compared to red\u00a0candles\u00a0imported\u00a0from\u00a0a\u00a0company called\u00a0Moonlit Candles\u00a0in\u00a0Wickland.\u00a0It is possible\u00a0that UK importers\u00a0would start to buy more red\u00a0candles\u00a0from\u00a0Moonlit Candles\u00a0 and\u00a0 buy\u00a0 fewer red\u00a0 candles\u00a0from\u00a0Starlit Candles,\u00a0which\u00a0results in no overall change in the size of UK imports of red\u00a0candles\u00a0from\u00a0Wickland.\u00a0"
+        },
+        {
+            "text": "Secondly, overseas exporters could\u00a0also\u00a0absorb the cost of trade remedies in the\u00a0UK\u00a0by continuing to export and by lowering their export prices\u00a0in an attempt to\u00a0maintain\u00a0sales volumes and market shares in the UK.\u00a0In such\u00a0 a\u00a0situation,\u00a0if\u00a0evidence to corroborate it was\u00a0either\u00a0to be\u00a0submitted\u00a0by UK industry to\u00a0the\u00a0TRA\u00a0or if such evidence\u00a0was\u00a0available to\u00a0the\u00a0TRA,\u00a0the\u00a0TRA would then\u00a0consider\u00a0initiating\u00a0an\u00a0absorption review.\u00a0"
+        },
+        {
+            "text": "Thirdly, econometric methods often used for impact evaluation\u00a0assume that everything is\u00a0operating\u00a0\u2018other things\u00a0being equal\u2019\u00a0(i.e. \u2018ceteris paribus\u2019).\u00a0To have the best chance of evaluating the impact of trade remedies\u00a0on UK imports,\u00a0production\u00a0or employment,\u00a0we would\u00a0ideally want\u00a0nothing else\u00a0to\u00a0change\u00a0that\u00a0then affects UK\u00a0trade,\u00a0production\u00a0or employment.\u00a0But we know\u00a0that\u00a0in reality,\u00a0economies\u00a0are dynamic\u00a0and constantly changing,\u00a0with multiple drivers that\u00a0could\u00a0potentially\u00a0affect\u00a0UK trade,\u00a0production\u00a0or employment\u00a0independently of trade remedies.\u00a0"
+        },
+        {
+            "text": "Lastly,\u00a0there is also\u00a0the\u00a0complexity\u00a0arising from\u00a0changing behaviour of\u00a0firms\u00a0and/or consumers.\u00a0Econometric methods used in impact evaluation work best if there\u00a0are no anticipation effects, no substitution effects, no complementarity effects, which\u00a0is difficult to achieve in practice.\u00a0Firms could\u00a0anticipate\u00a0and\u00a0change\u00a0the\u00a0way of doing business\u00a0before any change to trade remedies\u00a0that could affect them\u00a0coming into force\u00a0(i.e. \u2018anticipation effects\u2019).\u00a0"
+        },
+        {
+            "text": "Firms could also change\u00a0a product mix,\u00a0what\u00a0they buy and from where,\u00a0as a result of\u00a0any\u00a0change\u00a0to trade remedies\u00a0coming into force\u00a0(i.e. \u2018substitution effects\u2019 and \u2018complementarity effects\u2019), which makes it\u00a0harder to identify\u00a0a suitable control group\u00a0or build\u00a0a\u00a0synthetic\u00a0control group\u00a0that is not affected by change to trade remedies.\u00a0Econometric methods\u2019 blindness\u00a0to\u00a0these assumptions makes it difficult to conclude that there is an effect or no effect of trade remedies.\u00a0"
+        },
+        {
+            "text": "Concluding thoughts and next steps\u00a0"
+        },
+        {
+            "text": "As time progresses,\u00a0we will have more years of data\u00a0to use\u00a0in\u00a0our\u00a0impact evaluation, increasing\u00a0the likelihood that what we\u00a0observe\u00a0in the data\u00a0are\u00a0medium- to long-term\u00a0trends\u00a0that could be attributed to changes to\u00a0trade remedies\u00a0rather than any short-term\u00a0trends.\u00a0Our\u00a0future\u00a0impact evaluation\u00a0will look at\u00a0other\u00a0case studies, especially now that we have\u00a0built\u00a0our\u00a0TRA imports dashboard, which\u00a0will\u00a0assist\u00a0with\u00a0monitoring and evaluation.\u00a0"
+        },
+        {
+            "text": "If you have any questions\u00a0about\u00a0the\u00a0TRA\u2019s work on\u00a0evaluation, please do\u00a0get in touch with\u00a0us:\u00a0statistics@traderemedies.gov.uk.\u00a0"
+        }
+    ]
+}
