@@ -1,0 +1,101 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2026/01/15/governance-lessons-from-the-uk-us-pets-pilot-for-cancer-research/",
+    "title": "Governance lessons from the UK-US PETs Pilot\u00a0for cancer research",
+    "authors": [
+        "John Smith, Senior Technology Advisor, GDS",
+        "Max Greenwood, Policy Advisor, GDS",
+        "Murat Soncul, Head of Data Protection, GDS",
+        "Maddy Griffiths, Senior Policy Officer, ICO",
+        "Paul Comerford, Principal Technology Policy Advisor, ICO",
+        "Wendy Harrison, Deputy Director of Information Governance, NHS England"
+    ],
+    "categories": [
+        "Data insights",
+        "Data protection",
+        "Data Standards",
+        "Data Strategy",
+        "Guidance"
+    ],
+    "pub_date": "2026-01-15T14:45:00+00:00",
+    "content": [
+        {
+            "text": "This\u00a0post\u00a0was written with\u00a0contributions\u00a0from the Information Commissioner's Office\u00a0(ICO) and NHS England. It\u00a0follows GDS\u2019 first blog post\u00a0on\u00a0Using Privacy Enhancing Technologies to Enable International Data Sharing."
+        },
+        {
+            "heading": 2,
+            "text": "Why focus on governance?\u00a0"
+        },
+        {
+            "text": "In\u00a0October\u00a02025,\u00a0we described\u00a0how\u00a0DSIT\u2019s Privacy\u00a0Enhancing Technologies (PETs) pilot\u00a0allowed\u00a0England\u2019s National Disease Registration Service\u00a0(NDRS) and the US\u00a0National Cancer Institute\u00a0(NCI) to study ultra-rare childhood tumours without moving patient-level data across borders.\u00a0This\u00a0cross-border\u00a0data\u00a0access\u00a0aligns with\u00a0the\u00a0blueprint for modern digital government goal of using\u00a0privacy-preserving data\u00a0sharing\u00a0to unlock public\u00a0value\u00a0for\u00a0research\u00a0and offers\u00a0concrete model for future digital-innovation projects across government.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "However, the\u00a0technical story\u00a0was only half the achievement. The other half was\u00a0governance: proving to information governance\u00a0boards, legal\u00a0teams\u00a0and regulators that the collaboration was safe,\u00a0lawful\u00a0and proportionate.\u00a0"
+        },
+        {
+            "text": "In practical terms,\u00a0our\u00a0governance approach\u00a0allowed us\u00a0to\u00a0cut the \u201cpre-research\u201d waiting time from the 12+\u00a0months typical for international cancer studies to just\u00a0two\u00a0months: from first proposal to an approved\u00a0Data Protection Impact Assessment (DPIA) and agreement on safeguards at both registries.\u00a0\u00a0"
+        },
+        {
+            "text": "This blog explains\u00a0how\u00a0we did that, what we learnt, and\u00a0our advice for\u00a0practitioners\u00a0delivering\u00a0collaborative,\u00a0PETs-based\u00a0research\u00a0initiatives.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Starting\u00a0information governance at the whiteboard\u00a0"
+        },
+        {
+            "text": "Traditional projects\u00a0can\u00a0treat\u00a0governance\u00a0as a late-stage hurdle, but applying PETs allowed us to ensure that\u00a0data\u00a0protection compliance\u00a0requirements were integrated from the design stage right through the processing lifecycle, up to and including the\u00a0end of data retention.\u00a0This is a key requirement of data protection by design as described in the\u00a0ICO\u2019s data protection by design and default guidance.\u00a0\u00a0"
+        },
+        {
+            "text": "We collaborated with\u00a0asset owners,\u00a0technologists,\u00a0information governance leads and legal\u00a0advisors\u00a0from early in the pilot and structured our project's architecture to fit each element of a DPIA:\u00a0"
+        },
+        {
+            "text": "By writing these points\u00a0before\u00a0any code was\u00a0used, reviewers could see that the technology\u00a0was built to answer regulatory questions, not to dodge them. This helped yield\u00a0quick positive\u00a0results, ensuring risks\u00a0identified\u00a0in the DPIA were effectively and proactively mitigated.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Mapping\u00a0PETs to\u00a0established\u00a0control frameworks\u00a0"
+        },
+        {
+            "text": "PETs\u00a0describe a\u00a0range of\u00a0technical methods\u00a0and\u00a0can\u00a0often\u00a0feel abstract, so\u00a0we tried to anchor\u00a0each\u00a0PET\u00a0concept\u00a0in\u00a0language\u00a0that the regulators, clinicians and compliance teams would be\u00a0familiar\u00a0with:\u00a0"
+        },
+        {
+            "text": "Presenting our architecture decisions in this way reassured registry governance boards that PETs\u00a0complement, rather than replace,\u00a0existing controls.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Streamlining\u00a0GDPR\u00a0compliance\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "ICO guidance\u00a0stresses proportionality: if the\u00a0residual\u00a0risk\u00a0of\u00a0data processing is low, the\u00a0data protection compliance measures\u00a0should be\u00a0less involved.\u00a0"
+        },
+        {
+            "text": "With\u00a0the PETs\u00a0in\u00a0place,\u00a0the\u00a0residual risk\u00a0of\u00a0processing\u00a0dropped significantly; query results\u00a0are\u00a0anonymous\u00a0and\u00a0fall outside UK GDPR data protection law.\u00a0However,\u00a0because\u00a0the underlying processing inside each\u00a0disease\u00a0registry still involves patient-level records (i.e. personal data)\u00a0a DPIA was still required."
+        },
+        {
+            "text": "We\u00a0completed\u00a0a concise DPIA that\u00a0assured stakeholders that data\u00a0protection risks had been fully considered\u00a0and mitigated in all the processing activities leading up to the sharing of aggregated,\u00a0anonymous outputs.\u00a0Critically,\u00a0we were not\u00a0transferring personal data\u00a0outside of the UK\u00a0under UK GDPR.\u00a0This meant that the overseas transfer rules in UK GDPR\u00a0did not apply and there was no need\u00a0to\u00a0carry out\u00a0a\u00a0Transfer Risk Assessment\u00a0or\u00a0issue\u00a0an\u00a0International Data Transfer Agreement.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Other governance\u00a0accelerators\u00a0"
+        },
+        {
+            "text": "During the project, we applied several\u00a0behind-the-scenes governance practices that\u00a0eased the\u00a0overall\u00a0delivery process,\u00a0including:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Research\u00a0benefits\u00a0"
+        },
+        {
+            "text": "Early analysis\u00a0from NDRS\u00a0indicates that by accessing combined registry data\u00a0instead\u00a0of\u00a0UK-only data,\u00a0researchers were able to increase the analytical power of their queries in two main ways:\u00a0"
+        },
+        {
+            "text": "Real-world analyses on combined UK-US childhood cancer data are now under way by our\u00a0partners\u00a0at NDRS and NCI, and results will be presented later this year.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Takeaways\u00a0for practitioners\u00a0"
+        },
+        {
+            "text": "If you would like to know more,\u00a0please contact us\u00a0at\u00a0pets@dsit.gov.uk.\u00a0\u00a0"
+        }
+    ]
+}

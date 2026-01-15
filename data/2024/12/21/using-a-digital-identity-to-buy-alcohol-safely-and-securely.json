@@ -1,0 +1,93 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2024/12/21/using-a-digital-identity-to-buy-alcohol-safely-and-securely/",
+    "title": "Using a digital identity to buy alcohol safely and securely\u00a0",
+    "authors": [
+        "Eleanor Curry"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2024-12-21T11:00:00+00:00",
+    "content": [
+        {
+            "text": "Soon, people will be able to prove their age digitally when they buy alcohol.\u00a0\u00a0"
+        },
+        {
+            "text": "The Home Office\u2019s recent consultation response outlined that government will legislate next year to allow digital identity services to be used as a proof of age for alcohol sales, provided they are certified against government standards and registered on the GOV.UK list. You can read about it in our press notice on GOV.UK.\u00a0"
+        },
+        {
+            "text": "This change will give people the option of using a digital identity service on their phone or other device to prove they are over 18, saving them the hassle of taking physical documents to bars or shops. The check itself can be quick and easy too, like contactless payments or scanning a QR code.\u00a0"
+        },
+        {
+            "text": "Even better, using digital identity services can preserve privacy through reducing the amount of information that\u2019s shared.\u202f For example, when you hand over a physical driving license, you\u2019re giving away your name, sex, current address and date of birth (and maybe even a terrible old photo) ... A digital identity might only share that you are the rightful user of the identity, and over or under 18.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Making sure that an ID is genuine\u00a0"
+        },
+        {
+            "text": "Under current legislation, anyone selling alcohol either on or offline needs to confirm three things when they check an ID document:\u00a0"
+        },
+        {
+            "text": "1.\u202f\u202f\u202f\u202f\u202f Does it show that the person is over 18?\u00a0"
+        },
+        {
+            "text": "2.\u202f\u202f\u202f\u202f\u202f Does it belong to the person presenting it?\u00a0"
+        },
+        {
+            "text": "3.\u202f\u202f\u202f\u202f\u202f Is it a genuine document?\u00a0"
+        },
+        {
+            "text": "This involves looking at the date of birth to work out and prove the person\u2019s age and comparing a photograph to the person standing in front of them.\u202f They also look for security features like holograms to make sure the documents are real.\u00a0"
+        },
+        {
+            "text": "We are working with the Home Office to make sure that proving age digitally is at least as secure, and to that end we\u2019re considering three main requirements.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Listed on the register\u00a0"
+        },
+        {
+            "text": "First, the digital identity must reliably prove that the person is over 18.\u202f\u00a0"
+        },
+        {
+            "text": "We have created a set of rules and standards for a \u2018good\u2019 digital identity service in the UK digital identity and attributes trust framework. Services that have been independently certified against those standards create, hold and share reliable identity and attribute information.\u00a0\u00a0 These certified services can be listed on a government register published on GOV.UK to make it easy to see that they\u2019re trustworthy.\u202f\u00a0"
+        },
+        {
+            "text": "So, only those digital identity services which have been certified against our standards and appear on our register will be able to offer acceptable proof of age for alcohol purchasing. Otherwise, we can\u2019t be sure of the quality of the identity information, and it might pose a threat to the Licencing Act\u2019s core objectives.\u00a0\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Binding to the person\u00a0"
+        },
+        {
+            "text": "Second, the digital identity must belong to the person presenting it.\u00a0"
+        },
+        {
+            "text": "Digitally, this can be done using biometric authentication.\u202f For example, a user can scan their face with their smartphone to access their digital identity.\u202f The scan of their face is bound to the photo on the original document.\u202f This allows them to securely prove that the identity belongs to them.\u00a0\u00a0"
+        },
+        {
+            "text": "By logging into the app in this way, the person can prove that the identity belongs to them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Programmatic check\u00a0"
+        },
+        {
+            "text": "Finally, the digital identity must be verified as genuine.\u00a0"
+        },
+        {
+            "text": "There will need to be a programmatic check of the digital identity. This means that it will need to be checked using technology rather than just relying on the seller looking at an image on a screen.\u202f This check will ask the identity service to confirm that the proof of age is genuine.\u202f\u00a0"
+        },
+        {
+            "text": "This may involve scanning a QR code or using NFC technology, like we do with contactless payments.\u202fThese will need to follow standards so that we know they are secure.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?\u00a0"
+        },
+        {
+            "text": "We will be working with colleagues across government and stakeholders to implement this new approach, including preparing the necessary statutory instruments.\u00a0\u00a0\u00a0"
+        }
+    ]
+}
