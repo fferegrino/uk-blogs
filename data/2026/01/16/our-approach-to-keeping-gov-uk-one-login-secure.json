@@ -1,0 +1,72 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/01/16/our-approach-to-keeping-gov-uk-one-login-secure/",
+    "title": "Our approach to keeping GOV.UK One Login secure\u00a0",
+    "authors": [
+        "The GDS Team"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2026-01-16T11:30:13+00:00",
+    "content": [
+        {
+            "text": "This\u00a0month\u00a0the\u00a0Government Cyber Action Plan\u00a0was published.\u00a0It sets out the importance of\u00a0improving our cyber defences\u00a0for\u00a0digital\u00a0public services.\u00a0\u00a0"
+        },
+        {
+            "text": "The vast majority of\u00a0government services are already available online, providing millions of people with secure and reliable digital access every day.\u00a0Our\u00a0focus is not simply on moving services online, but on strengthening and innovating the ways people interact with them.\u00a0"
+        },
+        {
+            "text": "This includes developing new capabilities highlighted in the Blueprint for modern digital government, such as digital wallets and verifiable credentials, which will further enhance how users prove their identity and manage access to services. By continually advancing these features, we ensure that people can use government services with the utmost confidence in both their security and convenience."
+        },
+        {
+            "text": "In this blog post we will share 5 key ways that we are securing access to government services with GOV.UK One Login."
+        },
+        {
+            "heading": 2,
+            "text": "1. GOV.UK One Login makes accessing government services easier"
+        },
+        {
+            "text": "GOV.UK One Login is designed to be the single, secure way for people to sign in and prove their identity when using government services online. Over 13 million people have already used it to access more than 120 different services, making interactions with government simpler and more joined-up."
+        },
+        {
+            "heading": 2,
+            "text": "2. Security and trust are our top priorities"
+        },
+        {
+            "text": "The programme is built on the principle that public trust is essential. GOV.UK One Login follows strict security standards, similar to those used in the private sector, to protect users\u2019 data and privacy. Security is our top priority and the team is constantly working to deliver a smooth and secure user experience."
+        },
+        {
+            "heading": 2,
+            "text": "3. GOV.UK One Login is run by expert teams, with independent oversight"
+        },
+        {
+            "text": "A dedicated team of security experts, including architects and engineers, design and operate the system. Their work is regularly reviewed by independent bodies and government partners to ensure high standards are maintained."
+        },
+        {
+            "text": "The GOV.UK One Login programme also conducts regular independent security testing, including red team exercises that simulate real-world attacks. These exercises ensure our security systems remain robust and identify any potential vulnerabilities. "
+        },
+        {
+            "text": "The programme benefits from ongoing advice and support from national cyber security authorities, and we are working closely with them to align GOV.UK One Login to the government\u2019s new Secure by Design standard."
+        },
+        {
+            "heading": 2,
+            "text": "4. How we protect user data and privacy"
+        },
+        {
+            "text": "GOV.UK One Login is fully compliant with UK data protection laws. Only the minimum necessary data is collected for verification, and there is no central database linking user information across government. Users\u2019 information is kept secure, and third parties working with the programme must also meet strict privacy standards."
+        },
+        {
+            "heading": 2,
+            "text": "5. Security measures are always evolving"
+        },
+        {
+            "text": "The Government Cyber Action Plan talks about how government will rise to meet the growing range of online threats. Security is not a once and done. "
+        },
+        {
+            "text": "In the GOV.UK One Login programme our security model involves multiple lines of protection, such as monitoring for threats, controlling access to systems, and keeping detailed logs.\u202f\u202fWe regularly review and update these measures to stay ahead of any new risks."
+        },
+        {
+            "text": "We\u202fcarry out regular, independent security testing as our users rightly expect,\u202ftaking swift action whenever possible\u202fvulnerabilities are\u202fidentified.\u202fWe have strong security measures in place to keep the programme safe, and to ensure that GOV.UK One Login continues to provide a secure and trusted way for millions of people to access government services."
+        }
+    ]
+}
