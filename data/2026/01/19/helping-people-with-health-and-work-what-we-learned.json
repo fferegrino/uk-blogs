@@ -1,0 +1,105 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/01/19/helping-people-with-health-and-work-what-we-learned/",
+    "title": "Helping people with health and work: what we learned",
+    "authors": [
+        "Dan Austin, Engagement Lead, GDS",
+        "Lyndsay O\u2019Brien, Senior Product Manager, GDS"
+    ],
+    "categories": [
+        "Digital Centre",
+        "Digital engagement",
+        "GDS team",
+        "People and skills",
+        "Transformation",
+        "Ways of working"
+    ],
+    "pub_date": "2026-01-19T15:00:00+00:00",
+    "content": [
+        {
+            "text": "People with long-term health conditions or disabilities often need support from multiple services \u2013 across health, work, and welfare. But the current system can be confusing, repetitive, and hard to navigate."
+        },
+        {
+            "text": "At the Government Digital Service (GDS), the Service Transformation team wanted to test how services could work better together to support people to stay in \u2013 or return to \u2013 work."
+        },
+        {
+            "text": "This blog shares what we learned from testing a proactive approach to providing support. We built a basic prototype in GDS, and we worked with the NHS and a national patient organisation, the National Rheumatoid Arthritis Society (NRAS), to test it.\u00a0"
+        },
+        {
+            "text": "The blueprint for modern digital government sets an ambitious vision to make public services better and easier to use. Our plan is to create services that are clear, joined-up, and accessible to everyone."
+        },
+        {
+            "text": "In June 2025, we shared our first steps toward making government services work better together \u2013 starting with health, disability, and work. Since then, we\u2019ve created a testing version of a tool to help people with long-term health conditions or disabilities find support more easily.\u00a0We tested this idea with an NHS team in South Tyneside and with NRAS\u2019s patient volunteers."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding the challenge: why joined-up services matter"
+        },
+        {
+            "text": "People with long-term health conditions or disabilities often need help from many health and government services. They have to give the same information again and again. This takes time and can be stressful."
+        },
+        {
+            "text": "One study found that people spend up to nine working days a year just doing health admin \u2013 worth \u00a34.3 billion in work time (source: Everyday administrative burdens and inequality). Our own research also showed that some people stop working because the support they get isn\u2019t joined-up or easy to use."
+        },
+        {
+            "heading": 2,
+            "text": "Why this matters"
+        },
+        {
+            "text": "Some people use more than 43 different health and government services. When this support is confusing or not joined-up, people can miss the help they need. This can cause stress and wasted time, and can mean people stop working, even when they don\u2019t want to."
+        },
+        {
+            "heading": 2,
+            "text": "What we wanted to find out"
+        },
+        {
+            "text": "We wanted to understand this problem better.\u00a0"
+        },
+        {
+            "text": "Our hypothesis was:"
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We created a new testing version of an online tool, and worked with the NHS and NRAS patient views representatives (volunteers) to test this. The tool was a prototype, not a live service. It helped people find the relevant support after a healthcare professional gave them a fit note, focusing on people who are employed but may need help to stay in their job."
+        },
+        {
+            "text": "In South Tyneside, people who saw a First Contact Physiotherapist at their GP practice received a text message with a link to the tool. This message was sent only if they were given a fit note. This helped us test if offering support early \u2013 soon after someone gets a fit note \u2013 could make it easier for them to get the help they need to stay in work."
+        },
+        {
+            "text": "The feedback showed that meeting people where they already are with a proactive message, made people more aware of support that\u2019s available. We found that people spent most time looking at the information about fit notes, sick pay, and returning to work.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What people told us"
+        },
+        {
+            "text": "We spoke to patients and healthcare professionals, and looked at how they used the tool. We heard that:"
+        },
+        {
+            "heading": 2,
+            "text": "Important lessons"
+        },
+        {
+            "text": "Here\u2019s what we\u2019re taking forward to improve services:"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "We worked with other teams across government and the NHS to share ideas for what should happen next:"
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "We now understand more about the challenges people with long-term health conditions or disabilities face \u2013 and we have ideas to make things better."
+        },
+        {
+            "text": "This work is an important step towards making government services more joined-up, accessible, and focused on the needs of the people who use them. We would love to hear your thoughts on this work, so please get in touch via service.transformation@dsit.gov.uk."
+        }
+    ]
+}
