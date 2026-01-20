@@ -1,0 +1,72 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/01/20/testing-a-new-gov-uk-publishing-application-content-block-manager/",
+    "title": "Testing a new GOV.UK publishing application: Content Block Manager",
+    "authors": [
+        "Rukhsana Ali, Senior Product Manager, GOV.UK Publishing"
+    ],
+    "categories": [
+        "Content",
+        "What we're working on"
+    ],
+    "pub_date": "2026-01-20T13:15:14+00:00",
+    "content": [
+        {
+            "text": "GOV.UK is highly trusted as the single source of authoritative government guidance. This means it\u2019s vital that content designers and publishers within GDS and across departments can keep GOV.UK up to date as quickly and easily as possible with accurate, factual information."
+        },
+        {
+            "text": "Previously, we blogged about how the GOV.UK publishing team is exploring content modelling, which involves breaking content down into the smallest reasonable pieces, and structuring them by adding information that identifies what the pieces of content are and how they should be used."
+        },
+        {
+            "text": "This supports our goals around enabling publishers in government to manage content more efficiently, and GOV.UK\u2019s multichannel offer by providing information more rapidly to end users of the GOV.UK website and the GOV.UK app, as GDS realises the vision set out in the blueprint for modern digital government."
+        },
+        {
+            "text": "In this blog post, we\u2019re going to share the progress we\u2019ve made by introducing Content Block Manager, a new publishing application we\u2019ve been trialling on GOV.UK."
+        },
+        {
+            "heading": 2,
+            "text": "Our approach"
+        },
+        {
+            "text": "Our team includes information architects, who have helped us to adopt an approach called Object Oriented User Experience (OOUX). This allows us to see our content as our users experience it \u2013 not as pages and paragraphs, but as individual \u201cthings\u201d or \u201cobjects\u201d. Government sets taxes, has policies, creates laws, and issues visas; these are all objects."
+        },
+        {
+            "text": "Traditionally, when these \u201cthings\u201d change, our publishing users have to find all the places they\u2019re mentioned on GOV.UK in order to ensure content remains accurate and up to date. This is the case when financial changes from government, such as changes to tax and benefit rates, take effect at the start of the new tax year and need to be reflected on GOV.UK pages. These changes are usually made manually. Employing reusable content has the potential to save lots of time and effort."
+        },
+        {
+            "text": "So, we\u2019ve built Content Block Manager \u2013 an application which integrates with our existing architecture, provides the features our government colleagues require, and enables the creation and reuse of smaller \u201cblocks\u201d of content which are enriched with information that describes their meaning."
+        },
+        {
+            "heading": 2,
+            "text": "How Content Block Manager works"
+        },
+        {
+            "text": "Content Block Manager was initially built on the technology behind our most-used publishing application, Whitehall. Using the application, publishers can create smaller \u201cblocks\u201d of content from pre-made content block types which are defined by \u201cmini schemas\u201d \u2013 the set of information required to publish content. For example, a block for the content domain of \u201ctax\u201d might include a title, a description, a type, a start date, an end date, a rate and a threshold."
+        },
+        {
+            "text": "When a publisher creates a block containing a piece of information, they are then provided with an embed code which they can insert into GOV.UK page content in our other publishing applications. When changes to the block are published, the information automatically updates from that single source, wherever the code has been placed."
+        },
+        {
+            "text": "Features we\u2019ve provided in the application for publishers include the ability to preview changes, create a \u201cchange note\u201d \u2013 which tells users when information has changed \u2013 and schedule an edit to publish at a specific date and time."
+        },
+        {
+            "heading": 2,
+            "text": "Testing the application"
+        },
+        {
+            "text": "We started with pensions, selecting a content domain where we know changes are likely to be made every year. The GOV.UK content design team created a block to replace the text content giving the Basic State Pension rate on GOV.UK. This block was initially inserted in 11 places across 4 pages on GOV.UK."
+        },
+        {
+            "text": "When the Basic State Pension rate changed in April 2025, the content design team published the new value in Content Block Manager, which automatically updated the rate in all the places the block had been inserted. We calculated that this increased efficiency by 82.5% through the time saved by not having to locate the content and manually update each page individually. The content design team has now added a block for the New State Pension."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019ve recently finished modelling the \u201ccontact\u201d content domain, which includes information like phone numbers, email addresses and postal addresses. We\u2019ve made a content block type available for publishing this content. We\u2019re opening this up to publishing colleagues across government in a private beta, to help them definitively locate and easily update content that is vital in helping users of government services access support. We\u2019re also modelling the \u201ctax\u201d content domain."
+        },
+        {
+            "text": "We\u2019ve been learning as we go and, having seen the value of our work, we plan to start scaling. This will involve work on several fronts, the first being to help our publishing colleagues across government to model their own content domains. We\u2019ll be sharing our experiences of modelling content domains and offering guidance on how to do this. We have also started looking at how AI can help by providing data science, information architecture and content design input in the early stages of the content modelling process. As the content models come through we will make them available to use within Content Block Manager."
+        }
+    ]
+}
