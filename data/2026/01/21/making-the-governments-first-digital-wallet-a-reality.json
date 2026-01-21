@@ -1,0 +1,84 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/01/21/making-the-governments-first-digital-wallet-a-reality/",
+    "title": "Making the government\u2019s first digital wallet a reality",
+    "authors": [
+        "The GDS Team"
+    ],
+    "categories": [
+        "GOV.UK Wallet"
+    ],
+    "pub_date": "2026-01-21T15:10:31+00:00",
+    "content": [
+        {
+            "text": "A year ago, GDS launched the ambitious Blueprint for modern digital government. It established a bold plan for the whole of digital government \u2013 and just last week GDS published an update on its progress: A roadmap for modern digital government."
+        },
+        {
+            "text": "The Blueprint named the wallet as one of its 5 \u201ckickstarter initiatives\u201d \u2013 projects that demonstrate a new era of digital government. GDS has designed the wallet to store government-issued credentials digitally within the GOV.UK One Login app. As well as holding verifiable digital credentials, the wallet will provide a more personalised user experience and access to next-generation public services."
+        },
+        {
+            "text": "Over the past 12 months, GDS has been working hard to make the UK government\u2019s first digital wallet a reality. We have:"
+        },
+        {
+            "text": "Let\u2019s look at how we managed to achieve this, and what we\u2019re doing over this coming year."
+        },
+        {
+            "heading": 2,
+            "text": "Strong foundations"
+        },
+        {
+            "text": "We have been able to work at pace because we are building on the groundwork already established within the GOV.UK One Login app, an existing GDS product."
+        },
+        {
+            "text": "Across the team, we are using the same agile ways of working that built the GOV.UK One Login app, and that are firmly cemented at GDS. We test, iterate and test again to make sure the product is always delivering for users. And because the digital credentials are accessed in the app, they benefit from all the work done to make sure it meets the highest security standards for government and private sector services."
+        },
+        {
+            "heading": 2,
+            "text": "Developing credentials"
+        },
+        {
+            "text": "The digital Veteran Card was the first credential we issued, and since October, more than 15,000 veterans have successfully added their card to their GOV.UK One Login app. This means we\u2019re providing veterans with a faster and more convenient way to access services they\u2019re entitled to."
+        },
+        {
+            "text": "Then, in December, we began testing the digital driving licence through a private trial with a small group of GDS and DVLA colleagues. This was the culmination of the team\u2019s efforts in building, stress-testing, designing, iterating, as well as speaking to users, all done through partnership with the DVLA. It represents a real milestone in the development of this credential and will help us learn how users interact with it in their GOV.UK One Login app."
+        },
+        {
+            "text": "We\u2019ll continue to test, build and iterate this year, working closely with the private sector (more on this below) to enable the development of secure checking services that are compatible with the credentials stored in the GOV.UK One Login app. Later this year, the digital driving licence will be rolled out more widely, enabling people to store their driving licence on their phone, making it easier and faster to prove who you are and your driving entitlements."
+        },
+        {
+            "text": "By putting the digital Veteran Card live, and testing the digital driving licence, we are paving the way to expand this functionality. Once more credentials have been added, we will move to talk about this as the GOV.UK Wallet."
+        },
+        {
+            "heading": 2,
+            "text": "Partnering across government"
+        },
+        {
+            "text": "Essential to this work has been, and will continue to be, our collaboration across government. With the digital Veteran Card, GDS worked alongside partners at the Ministry of Defence, Office for Veterans\u2019 Affairs and Defence Business Services. For the digital driving licence, we have a close relationship with DVLA."
+        },
+        {
+            "text": "We are collaborating with service delivery teams across other government departments to identify early credentials that will go into the GOV.UK One Login app in the future."
+        },
+        {
+            "heading": 2,
+            "text": "Close working with the private sector"
+        },
+        {
+            "text": "We will continue to work closely and regularly with the technology industry throughout 2026. Our relationships with the private sector are crucial for the roll-out\u2019s next stage, and for enhancing in-person checks and enabling people to share their new digital credentials in day to day situations."
+        },
+        {
+            "text": "Now that we\u2019ve built the foundations for the wallet and introduced our first credentials, the next phase in rolling this out to the wider public will be to enable programmatic verification. This is to verify the authenticity of the document when it is shared."
+        },
+        {
+            "text": "Unlike physical credentials, the security features of digital credentials aren\u2019t visible to the naked eye. Programmatic checking allows whoever is doing the ID check to access these, with a user\u2019s consent, and make sure everything is as it should be. This means reduced fraud, fewer fake credentials, and greater confidence in everyday interactions with your credential, whether it\u2019s in a shop or online."
+        },
+        {
+            "text": "This is where our work with the digital identity sector kicks into gear. The Digital Verification Service (DVS) industry is crucial to enabling programmatic checks. This year, we\u2019ll enable them to test how they will share data from the digital driving licence with third parties, before full rollout later in the year, so they can play their part in making the digital driving licence useful across the range of services where users currently use their physical licences."
+        },
+        {
+            "heading": 2,
+            "text": "Modern and accessible government"
+        },
+        {
+            "text": "Our work on delivering digital credentials into the government digital wallet supports the Blueprint\u2019s vision of transparent, next-generation public services that do the hard work for the public, that are accessible and user-centred. But clearly we are not finished yet. Our efforts continue, so we can support the Blueprint\u2019s ambition that all government services can issue a digitally verified credential alongside any paper/card-based credential or proof of entitlement eligibility."
+        }
+    ]
+}
