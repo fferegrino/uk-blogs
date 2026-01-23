@@ -1,0 +1,98 @@
+{
+    "url": "https://gdsgeospatial.blog.gov.uk/2026/01/23/unlocking-better-outcomes-the-power-of-uprns-in-linking-data/",
+    "title": "Unlocking Better Outcomes: The Power of UPRNs in Linking Data\u00a0",
+    "authors": [
+        "Emily Cowsill, Business Analyst, Geospatial, GDS"
+    ],
+    "categories": [
+        "Data",
+        "Technology"
+    ],
+    "pub_date": "2026-01-23T10:21:49+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "What are UPRNs?"
+        },
+        {
+            "text": "In an increasingly data-driven world, seamless data integration is essential for effective, efficient public services and business operations.\u00a0Unique Property Reference Numbers\u00a0(UPRNs)\u00a0are unique\u00a0identifiers of up to 12 digits which are\u00a0assigned to every addressable location in the UK. These identifiers are assigned\u00a0by local authorities, and stay with a property permanently, even if the street address or postcode changes."
+        },
+        {
+            "text": "Having properties connected to a single, consistent identifier makes linking up datasets that use addresses far simpler.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why use UPRNs rather than addresses to link data?\u00a0"
+        },
+        {
+            "text": "Addresses are messy because there is no single way to record them. The address for the same property may be written in different ways, contain\u00a0spelling errors, or have different numbers of lines depending on personal preference or database limitations.\u00a0For example, a property at \u2018Flat 2, 10 High Street\u2019\u00a0in one dataset,\u00a0may appear as \u201810 High St, Apt 2\u2019 in another.\u00a0This is particularly problematic when addresses are collected as free text rather than a standard format from a drop-down list.\u00a0"
+        },
+        {
+            "text": "Adding UPRNs into a dataset that\u00a0contains\u00a0an address strengthens the data by removing this ambiguity. It connects records despite variations in the way the address has been input.\u00a0This means that even if an address is entered differently across systems, the UPRN provides a consistent reference point.\u00a0\u00a0"
+        },
+        {
+            "text": "Street addresses are not always unique, and postcodes can change as new developments are built over time. As the UPRN of a property stays with it throughout its life, assigning it to a record future-proofs against address changes.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "UPRNs are open to everyone\u00a0"
+        },
+        {
+            "text": "UPRNs are available through\u00a0the\u00a0Ordnance Survey Open UPRNs product, and are free to access under an Open Government Licence\u00a0(OGL). Anyone can access the UPRN dataset on\u00a0Ordnance Survey\u2019s\u00a0website and use it to improve address data."
+        },
+        {
+            "text": "The\u00a0OS\u00a0Open UPRN dataset provides UPRNs matched to property coordinates,\u00a0but\u00a0it does not include direct links to street addresses or postcodes due to licensing considerations.\u00a0The public sector has access to Ordnance Survey\u2019s products through the\u00a0Public Sector Geospatial Agreement, and these and other products are available to licence holders in the private sector.\u00a0These products provide the UPRN linked to the address, making integration into existing datasets easier.\u00a0\u00a0"
+        },
+        {
+            "text": "Third-party organisations also provide\u00a0products\u00a0linking UPRNs to addresses, enabling seamless integration with address-based datasets."
+        },
+        {
+            "heading": 2,
+            "text": "The benefits go beyond improved data quality\u00a0"
+        },
+        {
+            "text": "As well as improving data standards, UPRNs enable organisations to reduce costs by accurately linking records across datasets. This helps\u00a0eliminate\u00a0duplication and errors, prevents inefficiencies caused by inaccurate data, streamlines processes, and supports smarter, more targeted services.\u00a0"
+        },
+        {
+            "text": "UPRNs deliver value across both public and private sectors. In the property sector, they streamline processes such as conveyancing, surveying, and insurance checks. They also support social housing by improving safety, quality, and sustainability. Utilities and telecoms\u00a0organisations\u00a0use UPRNs to ensure\u00a0accurate\u00a0billing, efficient service\u00a0delivery, and\u00a0timely\u00a0repairs. There is further potential to strengthen safety and compliance through centralised registers for gas, electrical, and low-carbon installations.\u00a0"
+        },
+        {
+            "text": "UPRNs can also\u00a0assist\u00a0local authorities and central government departments in reducing duplication and linking records\u00a0more effectively.\u00a0For example, the UPRN can become a shared reference between social care systems in local authorities and school records.\u00a0"
+        },
+        {
+            "text": "Councils could use\u00a0UPRNs\u00a0to\u00a0identify\u00a0unlicensed\u00a0Houses\u00a0in\u00a0Multiple Occupation\u00a0(HMOs)\u00a0or enhance emergency response\u00a0for vulnerable residents by linking datasets across departments and accurately\u00a0and quickly\u00a0identifying\u00a0properties in blocks of flats.\u00a0Better data interoperability supports more empowered decision-making and better policy decisions."
+        },
+        {
+            "heading": 2,
+            "text": "UPRN powered data linking in practice\u00a0"
+        },
+        {
+            "text": "GeoPlace\u00a0has published over 400 real-world examples highlighting how UPRNs provide a consistent identifier for reliable data linking across systems, improving insight,\u00a0efficiency\u00a0and decision-making. These include:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Need help getting started?\u00a0"
+        },
+        {
+            "text": "Realising the full potential of UPRNs relies on widespread use. If your organisation has\u00a0data that relates to a property or place,\u00a0act\u00a0now to unlock seamless data integration, reduce errors, and enable smarter services for the future\u00a0by linking it to the UPRN."
+        },
+        {
+            "text": "Successful adoption of UPRNs may require updates to existing systems and staff training.\u00a0\u00a0"
+        },
+        {
+            "text": "If your organisation is a member of the PSGA, you already have access to\u00a0UPRN-linked\u00a0address datasets through\u00a0AddressBase\u00a0and the NGD Address Theme.\u00a0Learn more on the\u00a0Ordnance Survey\u00a0website.\u00a0"
+        },
+        {
+            "text": "If you have questions\u00a0about UPRNs or how to integrate them, the\u00a0GeoPlace\u00a0website is\u00a0a great place\u00a0to start.\u00a0GeoPlace\u00a0has a wide range of case studies available to share with your organisation.\u00a0\u00a0"
+        },
+        {
+            "text": "GeoPlace, in partnership with Ordnance Survey,\u00a0maintains\u00a0and validates the definitive national address and street datasets,\u00a0and\u00a0UPRNs. Together, they support local authorities, central government, and other organisations in adopting UPRNs to enable\u00a0accurate\u00a0data linking, improve service delivery, and drive more informed decision-making across public services.\u00a0They do this by providing\u00a0practical and technical\u00a0guidance, resources, and tailored information to help you get started.\u00a0"
+        },
+        {
+            "text": "Please reach out to\u00a0geospatial@dsit.gov.uk\u00a0 if you have any comments on this blog or the items it covers.\u00a0You can also\u202fsign up\u202fto get an email notification every time we publish\u00a0a new blog\u00a0post.\u00a0"
+        },
+        {
+            "text": "Image: \u00a0\u00a9 Crown copyright and database rights 2026 OS AC0000813034."
+        }
+    ]
+}
