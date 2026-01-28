@@ -1,0 +1,116 @@
+{
+    "url": "https://gdsgeospatial.blog.gov.uk/2026/01/28/towards-a-comprehensive-national-underground-asset-register-integrated-into-the-existing-ecosystem/",
+    "title": "Towards a comprehensive National Underground Asset Register, integrated into the existing ecosystem\u00a0",
+    "authors": [
+        "Mehul Doshi, Head of Strategy - National Underground Asset Register"
+    ],
+    "categories": [
+        "Data",
+        "Technology"
+    ],
+    "pub_date": "2026-01-28T15:08:38+00:00",
+    "content": [
+        {
+            "text": "The goal of the National Underground Asset Register (NUAR)\u00a0is\u00a0to make\u00a0street works safer and more efficient\u00a0by bringing together underground asset data in a standard form, securely accessible in one place.\u00a0"
+        },
+        {
+            "text": "Informed by\u00a0extensive consultation, we are designing regulations that ensure that the data in the register is\u00a0consistent and\u00a0comprehensive.\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0also ensuring that the register is ready for integration into existing processes designed to support safety, and working on proposals to ensure that anyone who needs access to the data to support safe working can do so, subject to\u00a0strict\u00a0access and\u00a0security controls.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Listening to the views of the sector\u00a0"
+        },
+        {
+            "text": "Last year,\u00a0we asked for public feedback on the first set of\u00a0proposals\u00a0to put parts of the Data (Use and Access) Act 2025 into action for NUAR. These new\u00a0proposals will update current requirements and add new ones for asset owners,\u00a0making sure they keep records of\u00a0important information\u00a0about their underground apparatus\u00a0in a consistent way.\u00a0"
+        },
+        {
+            "text": "We received 103 responses from a broad range of groups, including councils,\u00a0devolved\u00a0governments, utilities, contractors, trade bodies, and professionals. GDS would like to thank everyone who contributed.\u00a0We have analysed the responses and are working to\u00a0make\u00a0\u00a0sure that\u00a0our regulations align with\u00a0the input received.\u00a0We will issue a response to the consultation\u00a0once our regulations are finalised so we can provide clarity around\u00a0the final\u00a0legislative frameworks.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A comprehensive register\u00a0"
+        },
+        {
+            "text": "The regulations will require undertakers to\u00a0enter specified information about their apparatus into\u00a0NUAR and\u00a0keep this up to date as it changes.\u00a0This will\u00a0ensure\u00a0a\u00a0comprehensive\u00a0and\u00a0current\u00a0record\u00a0of\u00a0information about these apparatuses\u00a0to support\u00a0street works in England, Wales, and Northern Ireland.\u00a0"
+        },
+        {
+            "text": "Ordnance Survey, the service operator\u00a0for NUAR, will continue to support asset owners to bring their data onto the service and adopt NUAR into their working practices.\u00a0Recently,\u00a0Openreach, the UK\u2019s largest broadband network provider, joined NUAR\u00a0meaning that\u00a0over\u00a080% of known underground assets\u00a0are\u00a0now\u00a0mapped\u00a0in\u00a0the\u00a0service.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Integrating with the ecosystem\u00a0"
+        },
+        {
+            "text": "We recognise the importance of existing safe digging processes and practices and the\u00a0expertise\u00a0that exists across the sector to support them. Access to\u00a0accurate\u00a0and up to date information is only one aspect of safe digging. Effective communication between the parties planning and carrying out works is vital. The owners and operators of assets hold the definitive view of the risks posed by works in the vicinity of those assets.\u00a0\u00a0"
+        },
+        {
+            "text": "Asset owners can already provide detailed guidance and targeted instructions to users of NUAR,\u00a0but one area\u00a0where we\u00a0are\u00a0strengthening\u00a0integration\u00a0is through\u00a0Notification of Works. This will notify\u00a0an\u00a0asset\u00a0owner, or a\u00a0third-party\u00a0service provider\u00a0nominated to act\u00a0on\u00a0their\u00a0behalf, when an\u00a0enquiry\u00a0is\u00a0made\u00a0near\u00a0their\u00a0assets. This will\u00a0enable\u00a0asset\u00a0owners\u00a0to carry out risk assessments and\u00a0provide\u00a0targeted\u00a0guidance on safe working practices where\u00a0needed\u00a0and\u00a0ensures that those existing processes are still\u00a0followed.\u00a0"
+        },
+        {
+            "text": "This approach, based on\u00a0collaboration\u00a0and open standards,\u00a0will support sustainable integration into a broad and diverse ecosystem\u00a0made up of many asset owners,\u00a0stakeholders\u00a0and service providers, providing flexibility\u00a0and room for growth and improvement. Please read this blog by Ordnance Survey if you would like to understand more about the Notifcation of Works roll out plan."
+        },
+        {
+            "heading": 2,
+            "text": "Added flexibility and scope for innovation\u00a0"
+        },
+        {
+            "text": "As well as that targeted integration\u00a0with\u00a0the safe dig ecosystem,\u00a0we\u2019re\u00a0also\u00a0exploring options\u00a0for even more flexible and widespread integration\u00a0of NUAR data\u00a0by\u00a0developing secure\u00a0Application Programming Interfaces (APIs)\u00a0to\u00a0allow different\u00a0systems\u00a0to share information automatically.\u00a0This will\u00a0encourage\u00a0flexibility,\u00a0innovation and\u00a0support\u00a0the development of value-added services.\u00a0"
+        },
+        {
+            "text": "Security\u00a0remains\u00a0of paramount importance in the development of APIs of course, and the secure-by-design approach that has been applied to the NUAR service to date continues in this space.\u00a0The same strict security controls that apply to access to and usage of the NUAR platform\u00a0will be\u00a0applied to\u00a0any future\u00a0usage of APIs.\u00a0We\u2019ve\u00a0also done a lot of work\u00a0on\u00a0how we could provide\u00a0different levels\u00a0of detail\u00a0via different APIs\u00a0in the future.\u00a0Not all users and use cases require a full level of detail of course. In\u00a0fact,\u00a0too much detail can be confusing and distracting\u00a0in some cases, and we always\u00a0seek\u00a0to provide exactly the right amount of information\u00a0for a given purpose.\u00a0"
+        },
+        {
+            "text": "A\u00a0secure\u00a0sandbox environment for testing access will be created\u00a0using synthetic data, allowing\u00a0authorised\u00a0asset owners,\u00a0public sector bodies, service\u00a0providers\u00a0and innovators\u00a0to experiment\u00a0with APIs in a safe environment\u00a0and\u00a0to\u00a0provide feedback\u00a0for their further development and future\u00a0deployment.\u00a0We\u2019re\u00a0excited to\u00a0test\u00a0use cases\u00a0established\u00a0through the Discovery project\u00a0and\u00a0see further\u00a0innovations the market can\u00a0come up with.\u00a0Insights from the consultation and sandbox testing will inform\u00a0subsequent\u00a0regulations and service iterations.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Expanding\u00a0access\u00a0to NUAR\u00a0to deliver\u00a0benefit\u00a0for everyone\u00a0"
+        },
+        {
+            "text": "We are dedicated to working collaboratively with the underground asset sector to ensure that\u00a0NUAR continues to meet industry needs. Engagement with stakeholders has\u00a0highlighted\u00a0that secure, broadened access to NUAR will\u00a0deliver substantial economic, safety, and operational advantages.\u00a0\u00a0"
+        },
+        {
+            "text": "It\u00a0has the potential\u00a0to\u00a0generate\u00a0\u00a328\u00a0million\u00a0of benefits\u00a0annually by reducing accidental asset strikes and improving efficiency for asset owners and data consumers. Wider access will enhance public safety, support emergency response, and empower communities with better information for land use and development.\u00a0NUAR\u00a0further streamlines\u00a0data sharing,\u00a0eliminates\u00a0the need for multiple systems, and fosters\u00a0innovation through new tools and services enabled by APIs.\u00a0"
+        },
+        {
+            "text": "Our plans for the next two years include extending NUAR access to new user groups and for\u00a0additional\u00a0use cases.\u00a0This will be done in a\u00a0phased\u00a0manner, prioritising the areas of greatest benefit to safe excavation.\u00a0"
+        },
+        {
+            "text": "A public consultation on proposals is planned for spring 2026, with secondary legislation\u00a0required\u00a0to enable\u00a0expansion\u00a0of access.\u00a0"
+        },
+        {
+            "text": "The proposed expansions\u00a0may\u00a0include\u00a0allowing access to:\u00a0"
+        },
+        {
+            "text": "Any extension of access will be developed in close cooperation with security stakeholders to ensure robust safeguards are in place.\u00a0Ordnance Survey\u00a0will lead the design\u00a0and development of enhanced services and functionality to accommodate diverse user needs while\u00a0maintaining\u00a0strong security standards.\u00a0"
+        },
+        {
+            "text": "Regulations\u00a0for extending access\u00a0are proposed to\u00a0be fully\u00a0implemented\u00a0by April\u00a02028, ensuring all enhancements are\u00a0established\u00a0before\u00a0asset owners are directly\u00a0charged for the operation of NUAR.\u00a0"
+        },
+        {
+            "text": "Our\u00a0initial\u00a0priorities for expansion are:\u00a0"
+        },
+        {
+            "text": "We will aim to implement the proposed interventions as soon as\u00a0feasible\u00a0to maximise the value NUAR delivers across the street works community and beyond. In doing so we are committed to\u00a0maintaining\u00a0high standards\u00a0of data security and quality.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Comprehensive; Integrated; Flexible; Purposeful\u00a0\u2013 and Secure\u00a0"
+        },
+        {
+            "text": "To summarise, we have set out\u00a0plans for\u00a0the\u00a0next steps\u00a0and future direction\u00a0of\u00a0NUAR as a statutory register, as always driven by consultation and collaboration.\u00a0These include:\u00a0"
+        },
+        {
+            "text": "Our plans will allow\u00a0NUAR\u00a0to\u00a0more effectively integrate into the wider landscape and\u00a0create the potential for an ecosystem of innovative services to develop around NUAR,\u00a0while\u00a0maintaining\u00a0a security-first approach.\u00a0"
+        },
+        {
+            "text": "Please reach out to geospatial@dsit.gov.uk\u00a0\u00a0if you have any comments on this blog or the items it covers.\u00a0"
+        },
+        {
+            "text": "You can also\u202fsign up\u202fto get an email notification every time we publish a new blog post. More information about NUAR can be found on\u00a0gov.uk\u00a0or follow us on\u00a0LinkedIn.\u00a0\u00a0"
+        }
+    ]
+}
