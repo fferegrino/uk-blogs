@@ -1,0 +1,72 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/01/30/testing-new-planning-data-standards-with-industry-what-we-learned-from-phase-1-and-where-we-go-next/",
+    "title": "Testing new planning data standards with industry: what\u00a0we\u00a0learned from phase\u00a01\u00a0and\u00a0where\u00a0we\u00a0go next",
+    "authors": [
+        "Jon-Paul Little, Senior Product Manager"
+    ],
+    "categories": [
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2026-01-30T09:16:09+00:00",
+    "content": [
+        {
+            "text": "In November we\u00a0shared details of 5 pilots testing new data standards for planning applications. These pilots bring together local planning authorities\u00a0(LPAs),\u00a0software\u00a0suppliers\u00a0and the Planning Portal,\u00a0to see how proposed\u00a0standards work in practice.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why this\u00a0work\u00a0matters\u00a0"
+        },
+        {
+            "text": "When someone applies for planning permission, information flows between multiple systems \u2013 from the applicant, through\u00a0an application submission service such as\u00a0the Planning Portal, into the local planning authority\u2019s planning software, to be\u00a0determined.\u00a0\u00a0"
+        },
+        {
+            "text": "Currently\u00a0information is stored in\u00a0different ways\u00a0by different systems.\u00a0We are creating a data standard which can structure planning application information in a\u00a0consistent way\u00a0so that\u00a0each\u00a0system can exchange and share data in the same way, making the planning system more consistent and efficient.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Testing the data standards\u00a0"
+        },
+        {
+            "text": "We\u00a0have now\u00a0completed\u00a0phase\u00a01\u00a0of\u00a0our\u00a0work\u00a0to test the data standards in practice.\u00a0This\u00a0phase\u00a0focused on understanding how well the draft  specifications align with real planning systems, real data, and real local authority workflows.\u00a0The purpose of\u00a0phase\u00a01\u00a0was simple. We needed evidence\u00a0of the impact of the proposed\u00a0specifications on current technology and processes. We needed to know what\u00a0fits\u00a0against their systems, what partly fits, and what does not yet fit.\u00a0We needed to understand the operational implications.\u00a0And we needed a shared picture across LPAs, suppliers, and\u00a0MHCLG\u00a0before\u00a0attempting\u00a0any implementation activity.\u00a0"
+        },
+        {
+            "text": "During\u00a0November and December\u00a02025,\u00a0our 5 pilot partnerships examined the draft data specifications field by field.\u00a0They looked at what the standards propose compared to what their systems currently do.\u00a0\u00a0"
+        },
+        {
+            "text": "Common themes\u00a0emerged\u00a0quickly, including\u00a0how\u00a0timestamps\u00a0should be\u00a0handled,\u00a0how\u00a0addresses should be\u00a0structured\u00a0and\u00a0differences between\u00a0regional\u00a0requirements and\u00a0national\u00a0standards.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "These\u00a0issues\u00a0need\u00a0to be\u00a0resolved\u00a0before the standards can be implemented widely.\u00a0\u00a0"
+        },
+        {
+            "text": "The outcome of this work is a clearer, more grounded understanding of the specification.\u00a0We now have evidence rather than assumptions. They are all captured on an issues log.\u00a0We can\u00a0identify\u00a0where change is straightforward, where it requires system rework, and where policy or validation rules need refinement. Most importantly,\u00a0all partners\u00a0are in agreement\u00a0the specifications are workable,\u00a0and the work has allowed us to understand what needs to happen next.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Mary Lester,\u00a0Service Designer in the Transformation, Customer and Cultural Services team, at Dorset Council said:"
+        },
+        {
+            "text": "Phase\u00a01\u00a0has\u00a0also generated\u00a0some\u00a0useful questions. What does compliance actually mean\u00a0in practice? How should national and regional variants coexist?\u00a0How do we manage historic data? These questions\u00a0are being\u00a0explored now in\u00a0phase 2.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What happens next\u00a0"
+        },
+        {
+            "text": "Phase 2, which\u00a0is running now until the end of\u00a0February\u00a02026,\u00a0is focusing\u00a0on impact assessment, estimating the efforts, exploring feasibility and and\u00a0developing\u00a0realistic implementation options.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Get involved\u00a0"
+        },
+        {
+            "text": "This work is being shaped by collaboration between LPAs,\u00a0suppliers\u00a0and planning professionals.\u00a0\u00a0The quality of analysis\u00a0and\u00a0openness\u00a0across the partnership\u00a0has\u00a0put us in a strong position to progress.\u00a0\u00a0"
+        },
+        {
+            "text": "MHCLG\u2019s role in this phase has been to\u00a0convene, coordinate and create the conditions for meaningful analysis across a complex landscape. This work sits at the intersection of local authority practice, commercial software constraints, national\u00a0platforms\u00a0and policy intent.\u00a0We have\u00a0focused on bringing these groups together,\u00a0maintaining\u00a0a shared understanding of the purpose of the pilot specifications, and ensuring that feedback from each perspective is surfaced,\u00a0understood\u00a0and reconciled.\u00a0\u00a0"
+        },
+        {
+            "text": "Join the data standards community if you want to help shape the planning applications data specifications.\u00a0You can sign up and find information, updates and relevant links about this work on the planning applications submissions project homepage.\u00a0"
+        }
+    ]
+}
