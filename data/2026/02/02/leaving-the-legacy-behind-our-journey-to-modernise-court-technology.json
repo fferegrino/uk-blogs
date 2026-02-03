@@ -1,0 +1,69 @@
+{
+    "url": "https://insidehmcts.blog.gov.uk/2026/02/02/leaving-the-legacy-behind-our-journey-to-modernise-court-technology/",
+    "title": "Leaving the legacy behind:\u00a0our journey to\u00a0modernise\u00a0court technology\u00a0\u00a0\u00a0",
+    "authors": [
+        "Pete Harrison \u2013 Programme Director, Decommissioning & Legacy Risk Mitigation, HMCTS"
+    ],
+    "categories": [
+        "Digital services",
+        "User experience and research",
+        "Working at HMCTS"
+    ],
+    "pub_date": "2026-02-02T11:01:40+00:00",
+    "content": [
+        {
+            "text": "We have completed significant work behind-the-scenes to move our court systems from ageing data centres to modern, reliable platforms."
+        },
+        {
+            "text": "This modernisation programme has delivered many benefits and improvements that users can feel, even if they can\u2019t see the technology behind them. The new infrastructure reduces the risk of system failures and enables us to implement security updates more efficiently, maintaining our commitment to keep citizen data safe, expanding resources according to demand and supporting continuous improvement."
+        },
+        {
+            "text": "For our staff, this means more reliable systems with less downtime, reduced maintenance costs and more flexibility to improve services over time. For the public, it means a justice system that can function consistently without technical interruptions."
+        },
+        {
+            "text": "The urgent need for modernisation"
+        },
+        {
+            "text": "When people think of court technology, they often picture video hearings or case management systems. But behind the scenes, there\u2019s a vital layer of infrastructure that keeps everything running smoothly. For years, this foundation relied on outdated systems and ageing equipment, putting the stability of court services and the delivery of justice at increasing risk."
+        },
+        {
+            "text": "Our old systems were running on approximately 2,500 pieces of outdated hardware in two physical data centres in Park Royal and Swindon. Many of these were so old that finding replacement parts was nearly impossible. This created a fragile environment with single points of failure that could disrupt access to essential court services."
+        },
+        {
+            "text": "As the equipment continued to age, the risk of serious failure grew, and action was needed to protect the justice system from potential breakdowns."
+        },
+        {
+            "text": "The scale of the transformation"
+        },
+        {
+            "text": "Since 2020, we have worked to modernise 37 different applications running in these vulnerable data centres. The complexity and variety of the technologies involved required several distinct solutions, with a carefully planned approach needed for each. Applications that were no longer needed were decommissioned, while others were upgraded and moved to secure, cloud-based platforms. Another group of systems was moved to a specially created temporary hosting facility where they can continue to reliably and securely operate reliably and securely while we plan their eventual replacement or retirement."
+        },
+        {
+            "text": "Two of the most important systems were completely rebuilt. Instead of simply moving them they were redesigned, creating flexible platforms that can evolve as business needs change. One of these, Juror Digital, replaced three separate jury management tools with a single streamlined system. The other, Digital Audio Recording Transcription\u00a0and Storage\u00a0(DARTS) is the Crown Court recording system. This was one of the most complex projects that we have tackled, and I will explore it in more detail in my next blog."
+        },
+        {
+            "text": "Up next for our systems"
+        },
+        {
+            "text": "Successfully moving these 37 applications was a major step, but it\u2019s not the end of the journey. We are now focused on safely shutting down the old systems we have replaced and upgrading those that are still in use."
+        },
+        {
+            "text": "Moving services to more stable environments has already improved reliability. As we continue to enhance our systems, our modernised criminal case management system Common Platform will become the central hub for managing all magistrate and Crown Court cases, documents and scheduling. To support this, we\u2019re building tools to transfer data from older systems such as Libra Web, Court Store and Xhibit into this new platform."
+        },
+        {
+            "text": "We\u2019re also developing a new system, Opal, to replace an outdated tool used for managing criminal fines, collection and enforcement. Coordinating all these changes is a careful balancing act, and we have to make sure that everything happens in the right order to prevent disruption to court services."
+        },
+        {
+            "text": "A foundation built to last"
+        },
+        {
+            "text": "This transformation is about more than just replacing old equipment. We have built a foundation that enables continuous improvement, with new systems that are easier to update, more secure and better connected."
+        },
+        {
+            "text": "Our courts now have the technological backbone they need to grow and adapt as the needs of the justice system evolve \u2013 whether that is handling growing caseloads, introducing new services or ensuring continuity in the face of disruptions."
+        },
+        {
+            "text": "This achievement has largely gone unnoticed by users \u2013 and that is exactly as it should be. Courts continue to function and justice continues to be delivered, supported by modern, reliable systems built to last."
+        }
+    ]
+}

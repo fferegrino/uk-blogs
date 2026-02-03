@@ -1,0 +1,110 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2026/02/02/leds-police-data-in-the-digital-age/",
+    "title": "LEDS: Police data in the digital age",
+    "authors": [
+        "Law Enforcement Data Programme team"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "Data",
+        "Transformation",
+        "User centred design"
+    ],
+    "pub_date": "2026-02-02T11:05:05+00:00",
+    "content": [
+        {
+            "text": "The Law Enforcement Data Service (LEDS) programme is a joint police and Home Office programme to enhance the way police use data for the digital age."
+        },
+        {
+            "text": "This case study explores some of the technical aspects of LEDS to highlight a few of its features, and particular areas the LEDS team will focus on as they continue developing the service."
+        },
+        {
+            "heading": 2,
+            "text": "From mainframe to mobile in 50 years"
+        },
+        {
+            "text": "In 1974, the Police National Computer (PNC) was launched, and it revolutionised the way policing used data."
+        },
+        {
+            "text": "By this time, the modern policing era was already in full motion, with two-way radios, established mobile patrol areas and even unmarked cars for undercover policing. However, the PNC injected technology into policing."
+        },
+        {
+            "text": "It was the first time UK police could store digital records and make that information available for various areas of law enforcement. The PNC carried digital records of drivers, as well as of vehicles and property, that were lost or stolen. Every single police force in the UK would go on to use the PNC, as well as 150 other public sector organisations who had appropriate and proportional access to PNC data to offer improved public services."
+        },
+        {
+            "text": "However, over the decades, the drawbacks of a computer system designed for the 1970s began to show. The PNC was built in a traditional mainframe, on servers that only connected directly to desktop terminals and no other devices. This meant that police officers on patrol had to use their radios to contact dedicated, staffed control rooms to verbally request information about drivers, vehicles or names."
+        },
+        {
+            "text": "While over the years police mobile device access was added to the PNC, reducing the need for the control rooms, it was becoming obvious that the ways these devices accessed data needed to be faster and more accessible."
+        },
+        {
+            "text": "In 2021, after an attempt to fully replace the PNC through the National Law Enforcement Data Programme, the LEDS programme was launched. This was a dedicated way to work on a successor to the PNC as a completely focused project."
+        },
+        {
+            "text": "LEDS needed to do everything the PNC did, but for 120,000 users across those 150 organisations, in a modern UK where advanced technology was normal and expected. Its users should be able to access data from police-issued mobile devices, instantly and in a simple way, to help them use the information as quickly and effectively as possible to assist the public."
+        },
+        {
+            "text": "It also needed to be designed, built and implemented without causing any problems with the existing PNC; keeping citizens safe and the country secure could not wait for a computer system upgrade."
+        },
+        {
+            "heading": 2,
+            "text": "A groundbreaking,\u00a0cross-government\u00a0collaboration\u00a0"
+        },
+        {
+            "text": "LEDS needed to provide police officers and other law enforcement agencies with quick, reliable access to data about people, property, vehicles, drivers, and other areas of compliance data, such as audit."
+        },
+        {
+            "text": "While the PNC already worked with these categories of information, LEDS had the ability to access the information across every category simultaneously. This would let users take a consolidated view of the data, helping them make decisions with all the information in their hand."
+        },
+        {
+            "text": "The Home Office and the police decided the best way to approach the project was to work together as partners, in a groundbreaking style of collaboration between the 2 organisations. In the LEDS team, the product managers, the people who explore the overall vision and user needs of the product, are Home Office colleagues. The product owners, the teams who use agile methods to make sure the products are built to plan and deliver value to the user, are police staff and officers. \u00a0Having both organisations on hand to work together, overlapping their experiences and maintaining a high quality of communication, is a huge benefit to make LEDS the best it can be."
+        },
+        {
+            "text": "After establishing their cross-government collaboration, the newly-formed LEDS team started to think about the best ways to set up the service. One original PNC feature that still fit perfectly was how data was organised into 4 databases: names, vehicles, drivers and property. The difference in the digital age was that Application Programming Interfaces (APIs), combined with a simple and accessible user interface, could completely replace manual data queries. The new system could also make it much simpler and reliable for a growing number of police mobile devices to access the data."
+        },
+        {
+            "text": "The result was four distinct LEDS products, which are called:"
+        },
+        {
+            "text": "Using APIs also meant the team could add a set of compliance products that work across the whole of LEDS, including services to check for audit information, search for general data of interest, and to find out when data has been logged as compliant with laws and regulations."
+        },
+        {
+            "text": "The team also built a set of extra products that work across the 4 LEDS products, following a \u2018build once and re-use\u2019 principle. They include a file transfer tool, a common email engine, a review retention and deletion (RRD) tool and a common reporting tool. There is even a GitHub repository with common user interface elements, which can be used anywhere in LEDS, helping to pull all the services together for function, look and feel."
+        },
+        {
+            "text": "For example, by combining data from LEDS Vehicle and LEDS Drivers, users can instantly confirm if the driver of a vehicle is its registered keeper, or insured to drive it, and so decide if this needs further investigation. LEDS can also match reference data from the Driver and Vehicle Licensing Agency (DVLA) to know straightaway if a foreign vehicle needs validating with them, or has been involved in a crime, giving greater breadth to the situation."
+        },
+        {
+            "text": "There are around 110 reference data lists across the whole LEDS stack, all designed to match to what each LEDS API needs. For example, while details about facial hair or tattoos are only needed in LEDS Person, data such as nationality, currency, or country code are available across the whole stack, helping to keep information consistent and convenient."
+        },
+        {
+            "text": "As the team keeps working on LEDS and tests and builds new versions, they should also be able to introduce AI and machine learning to assist with matching data. LEDS may even learn to be proactive in flagging its own alerts on data."
+        },
+        {
+            "heading": 2,
+            "text": "Keeping the lights on"
+        },
+        {
+            "text": "Probably the most important thing the LEDS team have had to negotiate along their journey is making sure there is absolutely no interruption for their end users as they slowly transfer PNC functions over to the new systems."
+        },
+        {
+            "text": "A big part of making this work was using a data replication solution. With this on hand, every single change that was made in PNC data would be reflected and pushed to users of LEDS systems that sat alongside it, in a very short time frame. While this meant that some data has the same restrictions the PNC data had, it\u2019s a workable approach for the transition period. There is also an advantage to keeping PNC and LEDS in sync; it helped the team to shape their API strategy. Basing it on the concept of \u2018transition before transformation\u2019, the team have grown the API user interface to cover the basics, building everything up as LEDS outgrows its PNC legacy."
+        },
+        {
+            "text": "Focusing on keeping PNC in the mix has also added a few layers of abstraction to systems such as DVLA, which needs an extra step to help LEDS see the data it needs to. However, as there is more real time data available across the new LEDS system in general, keeping everything in sync is workable: its effectiveness is expanding all the time as more PNC systems are replaced."
+        },
+        {
+            "heading": 2,
+            "text": "Want to make an impact like this?"
+        },
+        {
+            "text": "Working in Home Office Digital is about collaborating across the Home Office and the wider UK government to design world-leading products and services."
+        },
+        {
+            "text": "The work we do is varied, exciting and challenging, playing a critical part in keeping citizens safe and the country secure."
+        },
+        {
+            "text": "You can find out more about roles in Home Office Digital at the Home Office Careers website."
+        }
+    ]
+}
