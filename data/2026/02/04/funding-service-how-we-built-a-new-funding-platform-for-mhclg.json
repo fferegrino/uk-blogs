@@ -1,0 +1,87 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/02/04/funding-service-how-we-built-a-new-funding-platform-for-mhclg/",
+    "title": "Funding Service: How we built a new funding platform for MHCLG",
+    "authors": [
+        "Gideon Goldberg, Lead Developer"
+    ],
+    "categories": [
+        "Funding Service"
+    ],
+    "pub_date": "2026-02-04T11:27:51+00:00",
+    "content": [
+        {
+            "text": "Over the past year, the Funding Service has been building a new funding  platform for the Ministry of Housing, Communities and Local Government (MHCLG) based on an entirely new single codebase. \u2018Deliver grant funding\u2019 and \u2018Access grant funding\u2019 deliver enhanced capabilities whilst being simpler to maintain and iterate on."
+        },
+        {
+            "text": "This blog post explains why we decided to do this and how we approached it from a technical standpoint, as part of our mission to deliver grants faster, better and cheaper."
+        },
+        {
+            "heading": 2,
+            "text": "Why we built a new platform"
+        },
+        {
+            "text": "We thought long and hard about writing a new platform versus making  incremental improvements to our previous microservices. This is not a  decision to take lightly as it involves a major upfront commitment and is often regarded a last resort once other re-engineering options have been considered."
+        },
+        {
+            "heading": 3,
+            "text": "Learning from our previous architecture"
+        },
+        {
+            "text": "Previously we used a microservices architecture, slicing by both frontend and backend functionality, as well as by different stages of the funding lifecycle.  To paint the picture, our microservices included:"
+        },
+        {
+            "text": "Whilst this delivered some initial benefits, for example being able to speed up time to go-live by using existing capabilities and components from the XGov Form Builder as part of the system, there were many downsides caused by early design decisions:"
+        },
+        {
+            "text": "We realised what we had built was closer to a Distributed Monolith. We had all the pain of maintaining microservices without many of the benefits."
+        },
+        {
+            "text": "These issues impacted all our user groups in different ways, grant applicants and recipients were more likely to experience errors and outages, it was difficult for developers to work at pace (without impacting quality) and  feature development was slow for our product and service owners."
+        },
+        {
+            "text": "Another factor in play was a pivot in policy through government\u2019s commitment to simplify funding, moving away from competitive grants towards allocative grants, which required different capabilities. This meant some of what the previous microservices did would be less useful and new capabilities were needed, making it an opportune moment for change."
+        },
+        {
+            "heading": 2,
+            "text": "Testing our hypothesis with a prototype"
+        },
+        {
+            "text": "To prove and de-risk the single platform approach, a small team of a couple of developers spent a fortnight building a prototype. This was much higher fidelity than you might ordinarily build using the GOV.UK Prototype Kit. But taking this approach enabled us to prove and demonstrate high-level  hypotheses the team had, including:"
+        },
+        {
+            "text": "Following a really intense effort by the team, by the end of the fortnight we had a prototype with a real data model, database backend and full WYSIWYG (What You See is What You Get) preview capabilities. This felt like a huge step up from the status quo and the demo was enough to convince stakeholders including our product manager and service owner of the value of the project."
+        },
+        {
+            "heading": 2,
+            "text": "How we approached the build"
+        },
+        {
+            "text": "The team were well aware of the possible pitfalls designing and scaling a Monolith. To try and avoid those, we put some guardrails in place which would provide clear boundaries within the system, such as:"
+        },
+        {
+            "text": "Although we were changing architectural pattern, we retained many of the tried and tested building blocks the team were already familiar with,  including:"
+        },
+        {
+            "text": "This brought a level of familiarity and helped team members quickly become productive on the new codebase."
+        },
+        {
+            "text": "Now to deliver it!"
+        },
+        {
+            "heading": 2,
+            "text": "What we achieved"
+        },
+        {
+            "text": "We have recently gone live with our new 'Deliver grant funding' and 'Access grant funding' services, and 2 grants have already been onboarded to the new system."
+        },
+        {
+            "text": "Although 'Deliver' and 'Access' appear as separate services, they are essentially 2 sides of the same coin, a form building/CMS side and an applicant/recipient-facing side. Working in a single codebase and database made it much easier to deliver features like WYSIWYG preview, as they are essentially just different views on the same data."
+        },
+        {
+            "text": "Furthermore, having these self-service capabilities means that content  designers can design, share live previews with policy teams and launch a  whole grant without any developer involvement. This will be hugely beneficial in freeing up developers to work on new functionality, rather than doing grant configuration as code."
+        },
+        {
+            "text": "As I move on to an equally exciting digital programme within MHCLG (Elections Digital), I'm proud to have left our civil servant-led team working in the open with (after a few iterations) a simple, right-sized architecture which enables them to build out features at pace, empower colleagues with self-service capabilities, and a platform to continue to extend across the funding lifecycle."
+        }
+    ]
+}

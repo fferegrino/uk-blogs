@@ -1,0 +1,104 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/02/04/from-redbox-to-assist-building-ai-tools-that-balance-innovation-and-trust/",
+    "title": "From Redbox to Assist: Building AI tools that balance innovation and trust",
+    "authors": [
+        "Alfie Dennen, Digital Senior Product Manager in AI Enablement",
+        "Saisakul Chernbumroong, Lead Data Scientist"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2026-02-04T09:55:28+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Alfie Dennen"
+        },
+        {
+            "heading": 3,
+            "text": "Saisakul Chernbumroong"
+        },
+        {
+            "text": "When the Incubator for AI (I.AI) team retired their Redbox codebase in December 2025, DBT had already diverged substantially from that original work. What began as collaboration evolved into something distinct, shaped by 2 years of iterating with users and the specific needs of civil servants working with Official Sensitive material."
+        },
+        {
+            "heading": 2,
+            "text": "Rebranding when technical divergence requires new identity "
+        },
+        {
+            "text": "Redbox at DBT is now called Assist. The rebrand to Assist isn't cosmetic. Redbox carried I.AI's identity: their naming conventions, design system(s), and roadmap. As we diverged technically, building new capabilities and patterns for handling sensitive information, the branding became misleading. Users expected the central government product, but we were building something fundamentally different."
+        },
+        {
+            "text": "Assist signals what the tool actually does: it assists with specific, high-value tasks where generic AI falls short.\u00a0 Rather than a general-purpose chatbot, Assist provides specialised capabilities for repeatable workflows from quality-checking ministerial submissions to extracting company intelligence from internal databases."
+        },
+        {
+            "heading": 2,
+            "text": "The design challenge"
+        },
+        {
+            "text": "Many of us use consumer AI services like ChatGPT in our personal lives. When we use Large Language Model (LLM) tools at work, we expect conversational interfaces, immediate responses, and familiar interaction patterns. But the Government Digital Service (GDS) design system wasn't built for streaming AI responses or dynamic chat interfaces."
+        },
+        {
+            "text": "The challenge was balancing modern expectations against institutional trust requirements. When someone uploads an Official Sensitive document, they need confidence it's handled appropriately. When they use an AI-generated summary in a ministerial submission, their name is on it.\u00a0 The interface must communicate both capability and accountability."
+        },
+        {
+            "text": "We created new patterns such as chat interfaces, streaming responses, and source citations with page-level precision. We did this while preserving the familiar GDS and departmental branding. The result feels immediate and conversational while maintaining essential trust markers."
+        },
+        {
+            "heading": 2,
+            "text": "Contributing design patterns for cross-government use"
+        },
+        {
+            "text": "This work can be contributed back to GDS and other departments. We're not alone in this territory. Across government, teams are building conversational AI including:"
+        },
+        {
+            "text": "The pattern is consistent: start with summarisation and search, scope tightly, measure rigorously, and build trust before expanding. By documenting our approach including the components we built, the user research that informed them, and the patterns for sensitive information, we can accelerate implementation for other departments facing the same challenges."
+        },
+        {
+            "heading": 2,
+            "text": "Trust as a functional requirement"
+        },
+        {
+            "text": "In consumer AI, trust is assumed. In government, it must be earned continuously. Trust isn't just security controls. It is a result of:"
+        },
+        {
+            "text": "Our approach is carefully measured, ensuring we understand whether technological advancements genuinely translate into increased productivity. This extends to the interface itself. Users need to see where information comes from, understand limitations, and maintain agency over how they use AI-generated insights."
+        },
+        {
+            "heading": 2,
+            "text": "Building on proven foundations"
+        },
+        {
+            "text": "Back in 2024, through joint workshops, employee secondment, and code-sharing with I.AI, we got Redbox running in one month. That foundation enabled rapid iteration based on user feedback."
+        },
+        {
+            "text": "Since then, we learned which capabilities matter most.\u00a0 A Policy Advisor told us the Submissions Checker was \"impressive\" in how it \"challenges the clarity of argument and evidence bases,\" acting as \"an independent pair of eyes\". It helps \"avoid documents being returned for corrections, ultimately saving valuable time.\" These insights drove our evolution toward task-specific tools."
+        },
+        {
+            "heading": 3,
+            "text": "From generic chat to purpose-built tools"
+        },
+        {
+            "text": "Assist now features an improved interface built around what we are calling \u2018Tools\u2019.\u00a0Instead of a blank chat, users choose from purpose-built capabilities for specific workflows like Submissions Checker for quality assurance and InvestLens for company intelligence. We are currently working on a Negotiation Planner for trade precedents."
+        },
+        {
+            "text": "This reflects a broader insight. The most valuable government AI applications aren't the most general ones. They are tools that understand specific professional contexts, integrate with departmental systems, and augment rather than replace human expertise."
+        },
+        {
+            "heading": 2,
+            "text": "A replicable pattern"
+        },
+        {
+            "text": "The path from Redbox to Assist demonstrates a pattern for government AI adoption:"
+        },
+        {
+            "text": "We publish our code openly and regularly collaborate with other departments. As government explores generative AI, the approach matters more than technical choices. It builds trust through transparency, creates reusable patterns, and focuses on problems where AI demonstrably adds value."
+        },
+        {
+            "text": "Assist represents DBT's contribution to this collective learning. Our platform is built through collaboration, refined through user research, and designed to assist with the complex, sensitive work of modern government."
+        },
+        {
+            "text": "Innovation, collaboration and trust must go hand in hand in government. If your team is exploring what is possible with AI tools, we want to hear from you in the comments."
+        }
+    ]
+}
