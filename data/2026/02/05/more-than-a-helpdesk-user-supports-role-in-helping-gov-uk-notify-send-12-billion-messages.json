@@ -1,0 +1,111 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/02/05/more-than-a-helpdesk-user-supports-role-in-helping-gov-uk-notify-send-12-billion-messages/",
+    "title": "More than a helpdesk: user support\u2019s role in helping GOV.UK Notify send 12 billion messages",
+    "authors": [
+        "Ryan Carvalho, Service Designer, GDS",
+        "Karl Chillmaid, Senior Content Designer, GDS",
+        "Ia Croxton, Senior User Researcher, GDS"
+    ],
+    "categories": [
+        "GOV.UK Notify"
+    ],
+    "pub_date": "2026-02-05T16:46:25+00:00",
+    "content": [
+        {
+            "text": "GOV.UK Notify has sent 12 billion messages since May 2016. That\u2019s a major milestone for our team \u2013 but it\u2019s not the whole story. It took us 4 years to reach our first 1 billion messages. Then things began to speed up."
+        },
+        {
+            "text": "Just 6 months later, we hit 2 billion. In 2025 we passed 10 billion \u2013 and, less than a year on, we\u2019ve added another 2 billion to our total. This kind of rapid growth is only possible if we build and run Notify so it\u2019s sustainable, scalable and reliable."
+        },
+        {
+            "text": "With more than 11,000 public sector services using Notify, and 10,000 users signing in to their accounts each week, staying close to our users is essential. Alongside research, horizon scanning and performance monitoring, our user support channel helps us to understand a wide range of current and future needs."
+        },
+        {
+            "text": "As many of you know, user support is more than just problem-solving \u2013 it can be a catalyst for designing and building better services and increasing adoption. We turn support data into insights that drive both iterative and strategic improvements to Notify, keeping it grounded in real user needs and focused on its purpose: helping government services keep people informed."
+        },
+        {
+            "heading": 2,
+            "text": "How Notify approaches user support"
+        },
+        {
+            "text": "User support is done in-house by the team that builds and runs Notify. We have a rota in place where developers, front-end developers and site reliability engineers handle technical queries, while user-centred designers, product managers and delivery managers answer non-technical questions."
+        },
+        {
+            "text": "We leverage user support to help us:"
+        },
+        {
+            "heading": 2,
+            "text": "Scaling and learning quickly"
+        },
+        {
+            "text": "User support has played a key role in scaling Notify. For example, when we first let users choose their own email branding, they had to ask us to set it up for them. Having early adopters contact support to do this was a good way to learn about their needs."
+        },
+        {
+            "text": "As our user base grew, so did the burden on support. At one point, branding requests made up nearly 10% of all support tickets. After learning enough from our users, we were able to design and build a new feature that made the whole process self-service, so users no longer had to contact us. These days, support tickets related to branding make up less than 1% of all tickets."
+        },
+        {
+            "text": "We call this approach our \u2018maturity model\u2019. The minimum viable product (MVP) for new features (almost) always relies on user support. This means we can launch the MVP quickly, learn how people are using it, and iterate as we go. Once we\u2019re confident that a feature will provide value to users and that we can support it technically, we consider how we can make it self-service."
+        },
+        {
+            "text": "Our maturity model means every new feature will generate quite a few support tickets. Instead of a burden, we see this as a necessary part of building a sustainable, user-centred service."
+        },
+        {
+            "heading": 2,
+            "text": "Engaging the whole team"
+        },
+        {
+            "text": "We realise the value in getting the whole team involved in user support. Understanding our users\u2019 biggest problems helps us all to empathise with them, uncover root cause issues, and stay connected to the impact of our work. Additionally, users receive a personal response to a potentially complex problem, while the team gets valuable exposure to parts of the service they have less experience with."
+        },
+        {
+            "text": "We plan support work into our sprints, run regular retros and gather daily feedback through surveys. We\u2019ve also built a team culture around collaborative support. We crowdsource answers to tricky questions, co-own a support manual that addresses common queries, and keep a wiki to pool technical knowledge."
+        },
+        {
+            "text": "This does have its challenges. On average, we respond to 33 tickets a day \u2013 including tickets that are necessary to complete a user\u2019s journey, such as asking to make their service live. This can be time-consuming, but we\u2019re constantly refining how we manage support, and understand that making it a visible, planned part of our work gives the team space to do it well."
+        },
+        {
+            "text": "By building a shared understanding across the team, we\u2019re better at providing a service that works without users needing to ask for help in the first place."
+        },
+        {
+            "heading": 2,
+            "text": "Driving continuous improvement"
+        },
+        {
+            "text": "User support doesn\u2019t stop when we\u2019ve answered someone\u2019s question \u2013 it\u2019s a key part of how we learn, improve and plan. We use topic tags to enable a systematic analysis process that measures the frequency of categorised issues and ticket volumes. We visualise this in a dashboard that\u2019s used to identify the biggest issues each quarter. Alongside other data sources, these insights inform our quarterly planning, helping to shape priorities across the team."
+        },
+        {
+            "text": "We often design tactical solutions first. For example, writing a stock answer that explains the solution to a common question. If the same issue comes up a lot, we have to determine if it is worth dedicating resources to designing a more effective solution. We might run design workshops where we consider changing our guidance, redesigning the user interface, introducing new features or even changing our policies and processes to address the root-cause of a problem."
+        },
+        {
+            "text": "One example of this is the work we\u2019re currently doing to improve Notify\u2019s onboarding journey. By analysing topic tags, we identified that a lot of users experience pain because they miss out on some important information when they first create a Notify service. We divided the work into focused, manageable initiatives, each designed to deliver a clear, measurable impact \u2013 using support tickets as one of the metrics."
+        },
+        {
+            "heading": 2,
+            "text": "Measuring progress"
+        },
+        {
+            "text": "We use support data, alongside other research insights, to ground our work in real user needs. The data is also used as a metric to help us track how changes are landing and monitor the adoption and impact of new features."
+        },
+        {
+            "text": "For example, we recently introduced a feature allowing users to view Notify services within their organisation and ask to join them. This was previously only possible by sending us a support ticket. Since launching this feature, related tickets have dropped by 55%."
+        },
+        {
+            "text": "Alongside measuring the response to specific features, we can also assess how our overall volumes of support tickets are changing as we scale. Notify has grown to support over 11,000 services over the past year, yet ticket volumes remain steady, even showing slight decreases. This is a positive sign for us that, while Notify is growing, user friction is staying low."
+        },
+        {
+            "heading": 2,
+            "text": "Delivering a service"
+        },
+        {
+            "text": "User support is more than just answering a question or helping users complete a task \u2013 it\u2019s a shared responsibility, a source of insight, and a catalyst for improvement when delivering a service. By working closely with users, we\u2019re shaping GOV.UK Notify to be more reliable, intuitive and user-centred."
+        },
+        {
+            "text": "After 12 billion messages, 11,000 services and 10,000 regular sign-ins, we\u2019re still learning."
+        },
+        {
+            "text": "We\u2019d love to hear about similar processes from other delivery teams using support as an integral part of building and improving user-centred services. If you have any knowledge to share or would like to learn more about our support and analysis process, please leave a comment or get in touch with the team on cross-government Slack using the #govuk-notify channel."
+        },
+        {
+            "text": "You can keep up to date with upcoming changes and new features on GOV.UK Notify via our roadmap."
+        }
+    ]
+}

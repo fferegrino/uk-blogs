@@ -1,0 +1,85 @@
+{
+    "url": "https://technology.blog.gov.uk/2026/02/05/understanding-technical-architecture-across-local-government/",
+    "title": "Understanding technical architecture across local government\u00a0",
+    "authors": [
+        "Bisi Olowu, GDS Business Analyst"
+    ],
+    "categories": [
+        "Architecture",
+        "Technology",
+        "Transformation"
+    ],
+    "pub_date": "2026-02-05T10:38:24+00:00",
+    "content": [
+        {
+            "text": "Over the past\u00a0few\u00a0months at the Government Digital Service,\u00a0we\u2019ve\u00a0been looking closely at how councils describe their technology. Not just the systems they use, but the wider structures that sit behind them: the architecture, strategies,\u00a0standards\u00a0and principles that shape how digital services are delivered day-to-day.\u00a0"
+        },
+        {
+            "text": "This work has involved reviewing a broad set of technical and digital documents from councils across the country, where there are publicly shared artefacts of their technical documents,\u00a0from ICT strategies and enterprise architecture papers to application landscapes, and digital roadmaps. Together, these artefacts form the basis\u00a0of how services are designed, integrated\u00a0and supported.\u00a0"
+        },
+        {
+            "text": "As outlined in our earlier\u00a0\u2018Sourcing the stack\u2019 blog,\u00a0councils often face the same technology challenges but solve them separately. This analysis of technical architecture shows just how much potential there is to address these challenges together and highlights the need for a shared approach to council technology.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "An inconsistent\u00a0landscape\u00a0"
+        },
+        {
+            "text": "We found that\u00a0councils tend to use many of the same architectural components: case and document management systems, data platforms, integration\u00a0layers\u00a0and cloud services. But the way these components are documented varies greatly.\u00a0"
+        },
+        {
+            "text": "Some councils publish detailed architecture diagrams that cover applications, infrastructure, data\u00a0flows\u00a0and governance. Others provide high-level ICT strategies with little technical depth.\u00a0In many cases, information about integration, data standards, and governance are not fully documented or\u00a0are\u00a0missing entirely.\u00a0"
+        },
+        {
+            "text": "This inconsistency shows up in several areas including:\u00a0"
+        },
+        {
+            "text": "These differences make it harder to compare approaches, learn from one another, or\u00a0identify\u00a0opportunities for reuse and alignment.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The challenge\u00a0"
+        },
+        {
+            "text": "When every council\u00a0documents\u00a0technology differently, it becomes challenging to:\u00a0"
+        },
+        {
+            "text": "Yet the opportunity is clear. There is a huge amount of tacit knowledge in councils about what good looks like. Many have already developed strong architecture principles or domain-specific models.\u00a0What\u2019s\u00a0missing is a \u202fshared foundation that brings these elements together.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The opportunity: a shared technical architecture model\u00a0"
+        },
+        {
+            "text": "These\u00a0gaps in documentation\u00a0create the space to define a\u202fcommon technical architecture model that councils can use to describe their technology consistently. A model that:\u00a0"
+        },
+        {
+            "text": "This\u00a0wouldn\u2019t\u00a0replace local autonomy or force councils into a single stack. Instead, it provides a shared language: a way to map existing technology into a common frame so councils can see where they align, where they differ, and where collaboration makes sense.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What comes next\u00a0"
+        },
+        {
+            "text": "Our findings provide a platform to propose a change to a common vision for local government technology.\u00a0\u00a0"
+        },
+        {
+            "text": "On 12\u00a0December we hosted\u00a0a webinar\u00a0attended by over 200 people from across local government\u00a0and on 13\u00a0January we\u00a0ran\u00a0a workshop for vendors with\u00a0techUK,\u00a0to\u202fdiscuss how shared products and data integration can drive better outcomes for councils and communities.\u00a0"
+        },
+        {
+            "text": "We\u2019ll\u00a0also be talking with individual digital practitioners, and groups of local and regional authorities.\u00a0"
+        },
+        {
+            "text": "We\u2019re inviting colleagues from local and central government to join our next Sourcing the Stack\u00a0webinar in February.\u00a0You can register now to hear more about our evolving vision for a shared local government technology stack \u2013 and how you can help shape it."
+        },
+        {
+            "text": "These webinars and workshops will help us co-create a common vision for the technology used to deliver services,\u00a0a shared understanding of\u00a0where councils are already aligned, and where they want to be in the future.\u00a0"
+        },
+        {
+            "text": "This vision will inform the foundations of a shared technical architecture model and help shape the principles and components that councils can use to describe their technology consistently. It will also guide our work to\u00a0identify\u00a0opportunities for reuse, reduce duplication and support better digital services.\u00a0"
+        },
+        {
+            "text": "As the workshops progress,\u00a0we\u2019ll\u00a0continue analysing the patterns emerging from councils\u2019 current architectures and refine the model with real input from the people designing and delivering services every day. Our aim is to build something practical and collaborative, a model created with councils, not for them.\u00a0"
+        }
+    ]
+}

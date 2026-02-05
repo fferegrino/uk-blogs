@@ -1,0 +1,109 @@
+{
+    "url": "https://publicpolicydesign.blog.gov.uk/2026/02/05/pattern-principles-in-the-welfare-sector/",
+    "title": "Pattern principles in the welfare sector",
+    "authors": [
+        "Janne Mattila"
+    ],
+    "categories": [
+        "Events",
+        "PublicPolicyDesign",
+        "Research"
+    ],
+    "pub_date": "2026-02-05T12:00:00+00:00",
+    "content": [
+        {
+            "text": "Finding design patterns for welfare that work for all nations just isn\u2019t that easy."
+        },
+        {
+            "text": "When our diverse group of international government design teams couldn't find common patterns, we pivoted towards something potentially more valuable: a shared framework that helps any government think systematically about design at every scale."
+        },
+        {
+            "heading": 2,
+            "text": "We couldn't find global design patterns"
+        },
+        {
+            "text": "When the call came to collaborate on welfare for the Public Design Conference (part of the World Design Congress Design Safari) in September 2025, Ireland (Department of Public Expenditure and Reform), Finland (Kela), Peru (National Council for Integration of People with Disabilities), and the UK (Department for Work and Pensions) swung into action."
+        },
+        {
+            "text": "We set out to identify common design patterns in welfare services that could work globally. After all, people everywhere face similar life transitions\u2014having a baby, losing a job, dealing with illness, or retiring. Surely the welfare services supporting these moments should also have similarities?"
+        },
+        {
+            "text": "As we shared our respective work on patterns, we discovered we had very different approaches to patterns and operated at different levels of maturity. We also seemed to lack a common definition for what constituted a \"pattern.\" We understood that our group wouldn\u2019t discover common patterns. Had we failed in our efforts?"
+        },
+        {
+            "heading": 2,
+            "text": "The pivot: from patterns to principles"
+        },
+        {
+            "text": "Instead of asking \"What common patterns do we have?\", we decided to look at the levels and hierarchy of patterns. We moved to more fundamental questions: \"What makes something a pattern?\" and \u201cCould we come up with a framework for patterns?\u201d"
+        },
+        {
+            "text": "This shift moved the conversation from concrete outputs to underlying qualities - from trying to share specific solutions to understanding the attributes that make any solution shareable and scalable. The result was a framework built on five attributes:"
+        },
+        {
+            "heading": 2,
+            "text": "The framework: four levels of interconnected patterns"
+        },
+        {
+            "text": "Our group recognized that patterns exist at multiple, interconnected levels and identified four distinct levels where patterns operate in government services."
+        },
+        {
+            "heading": 3,
+            "text": "Level 1: Component patterns"
+        },
+        {
+            "text": "The building blocks - individual pieces of best-practice design that combine to create larger units - were a key element of the pattern. Think of form fields, buttons, or notification systems. These are the LEGO blocks of digital government."
+        },
+        {
+            "heading": 3,
+            "text": "Level 2: Sequence patterns"
+        },
+        {
+            "text": "Reusable flows that make sense across many contexts. How users verify their identity, submit documents, or make payments. These sequences appear again and again, regardless of the specific service."
+        },
+        {
+            "heading": 3,
+            "text": "Level 3: Service patterns"
+        },
+        {
+            "text": "Complete, reusable solutions for delivering end-to-end services. A \"report a change\" service might look similar across welfare services and beyond, whether you're updating your personal information for taxes, benefits, or vehicle registration."
+        },
+        {
+            "heading": 3,
+            "text": "Level 4: Life event patterns"
+        },
+        {
+            "text": "A life event is the organizing principle for services: an event is the trigger and the journey through services is the highest level of patterns. This level organizes everything around the user journey and needs during this transition. The services supporting these moments could share common elements."
+        },
+        {
+            "heading": 2,
+            "text": "Top-down or bottom-up"
+        },
+        {
+            "text": "Government organisations can start developing and leveraging patterns from the system level (top-down) or from the local and user-need level (bottom-up). Patterns at each level support and enable patterns at other levels. Taking a life event approach shapes what services are needed, which determines the sequences required, which then defines the components to be built. But it also works in reverse: component patterns enable sequence patterns. Sequences combine into services. Services form a seamless and coordinated journey around life events."
+        },
+        {
+            "heading": 2,
+            "text": "Life events matter"
+        },
+        {
+            "text": "Traditional government organisation can lead to a fragmented landscape and disconnected services, which becomes especially problematic during major life transitions. Our group came to the conclusion that by thinking in terms of life event patterns, governments could:"
+        },
+        {
+            "text": "This approach could even transform patterns from a design practice tool into a bridge between service delivery and policy reform. And having reusable patterns across different levels in the framework would be a massive cost-saving factor for government organisations."
+        },
+        {
+            "heading": 2,
+            "text": "Are we on to something and should we continue?"
+        },
+        {
+            "text": "While our group seemed to be satisfied with the pivot and the discovery of a framework for patterns, some questions remain. How wide-spread is the life events approach in different countries and is there value in treating them as patterns? Could a shared global pattern language actually help bring together design practice and policy reform?"
+        },
+        {
+            "text": "We ended our mini-conference with the understanding that it would be worth exploring these questions further but we might have some alignment difficulties. It is hard to align work around patterns within the same department, and this could be many times harder on a country or global level."
+        },
+        {
+            "text": "We will continue our discussion and share experiences with patterns and the life events approach in our respective countries. What patterns do you see in your government's services? How might thinking in levels - from components to life events - transform how you design for citizens?"
+        }
+    ]
+}
