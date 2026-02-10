@@ -1,0 +1,123 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2026/02/10/secure-by-design-how-automation-is-strengthening-data-assurance-across-government/",
+    "title": "Secure by Design: how automation is strengthening data assurance across government",
+    "authors": [
+        "Jos\u00e9 Orjales, Senior Data Scientist, GDS",
+        "George Kevin D'Silva, Data Scientist, GDS"
+    ],
+    "categories": [
+        "Cyber",
+        "Data Engineering",
+        "Data Ethics",
+        "Data insights",
+        "Data Standards",
+        "Data Strategy"
+    ],
+    "pub_date": "2026-02-10T11:00:00+00:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Building automation into our data processes"
+        },
+        {
+            "text": "Secure by Design is a cross-government approach that helps organisations improve the cyber resilience and security of new systems, services and technology infrastructure as they are being developed.\u00a0"
+        },
+        {
+            "text": "Central government organisations are expected to adhere to 10 mandatory Secure by Design principles. The Secure by Design policy requires the approach to be used for any project delivering new digital services or technology infrastructure that are within scope of the digital and technology spend control approval process, or major changes to existing ones."
+        },
+        {
+            "text": "When an organisation has confirmed it is live with Secure by Design, many of its projects passing through spend controls will be asked to confirm they have been applying the approach to their work.\u00a0"
+        },
+        {
+            "text": "The Government Cyber Unit is leading the roll-out of Secure by Design across central government, working with departments, arm\u2019s length bodies (ALBs) and executive agencies to understand their progress with the approach.\u00a0"
+        },
+        {
+            "text": "To enable the tracking of this implementation progress, teams across hundreds of organisations submit progress updates against core implementation milestones. These responses show how well the approach is being embedded and where further support or improvements are needed."
+        },
+        {
+            "text": "Until recently, this process involved significant manual work. Teams across government would submit progress updates through varied channels. Analysts often spent weeks manually collating and validating spreadsheets before insights could be shared.\u00a0"
+        },
+        {
+            "text": "Now, a new automated data pipeline developed by the GDS IDEA Unit has transformed how this information is collected and analysed."
+        },
+        {
+            "heading": 2,
+            "text": "Automating assurance collection with GOV.UK Forms"
+        },
+        {
+            "text": "The new Secure by Design system uses GOV.UK Forms to collect progress updates from organisations on their preparation, transition and operation stages, in a consistent, secure and accessible way. Departments fill out structured digital forms that capture the important metrics for each service, tool or platform."
+        },
+        {
+            "text": "These submissions are automatically processed through an Amazon Web Services (AWS)-based pipeline. Each submission triggers an event to handle incoming emails. Customised algorithms extract and validate the data before storing it in Amazon Athena, a database service, for analysis. This removes the need for manual downloads or email attachments."
+        },
+        {
+            "text": "This automation ensures information is handled consistently and safely, with clear audit trails and strict access controls via AWS."
+        },
+        {
+            "heading": 2,
+            "text": "From weeks to minutes: scaling securely with a Cloud Development Kit"
+        },
+        {
+            "text": "The infrastructure supporting this pipeline was built using the AWS Cloud Development Kit (CDK), which defines all cloud resources in Python code. This approach allows teams to deploy and manage entire environments through simple commands, ensuring reproducibility and secure configuration by default."
+        },
+        {
+            "text": "Previously, onboarding a new data collection round or analysis environment could take weeks of setup. Now, the CDK stack can provision everything, from storage for raw source files to notification topics, in just minutes."
+        },
+        {
+            "text": "This capability is essential for coordinating hundreds of assurance returns. It means updates, security patches and environment resets can all be managed centrally, quickly and safely."
+        },
+        {
+            "heading": 2,
+            "text": "Enabling faster insight and greater transparency"
+        },
+        {
+            "text": "Once collected, the progress update data is automatically catalogued and queried within AWS, which orchestrates the process of preparing and combining the data. Together, these enable automated feeds to dashboards, reports and insights. Departments now receive tailored summaries showing how their implementation progress compares across government. This helps teams quickly understand strengths, identify gaps and prioritise improvements."
+        },
+        {
+            "text": "For the central Secure by Design team, this automation means time is now spent interpreting and acting on the data rather than cleaning or merging spreadsheets. This shift supports a culture of proactive security management across government."
+        },
+        {
+            "heading": 2,
+            "text": "Embedding \u2018secure by default\u2019 principles"
+        },
+        {
+            "text": "The success of this pipeline lies not just in its technology, but in its philosophy. By making automation, transparency and strong identity controls central to its design, the system demonstrated the very principle it supports: that security must be designed in from the start."
+        },
+        {
+            "text": "The idea is to show that secure, scalable automation doesn\u2019t have to be complicated. With modern cloud tools and good design principles, teams can spend less time on manual processes and focus on what matters: supporting departments to improve their security posture."
+        },
+        {
+            "heading": 2,
+            "text": "Supporting wider government priorities"
+        },
+        {
+            "text": "The blueprint for modern digital government emphasises modern, efficient, and data-driven systems across the public sector. By automating the collection, validation, processing and reporting of Secure by Design data, this new pipeline supports key government priorities; strengthening digital and data infrastructure, improving the reliability and timeliness of cross-government data, and using technology such as cloud and automation to deliver services and efficiencies that are more responsive and resilient."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "The Secure by Design pipeline collects progress updates across hundreds of organisations, giving central teams a clearer real-time view of implementation progress."
+        },
+        {
+            "text": "The team is now exploring how this approach could support wider assurance activities, enabling even more consistency and visibility across government."
+        },
+        {
+            "text": "Through this work, GDS continues to demonstrate how automation and design thinking can deliver secure, efficient and transparent systems that strengthen public trust in digital government assurance."
+        },
+        {
+            "heading": 2,
+            "text": "Your turn"
+        },
+        {
+            "text": "Manual data processes aren't inevitable. As this pipeline shows, cloud tools and good design principles can transform time-consuming work into automated, secure systems - freeing your team to focus on insight and action rather than spreadsheet wrangling."
+        },
+        {
+            "text": "Consider auditing your team's manual data processes. Which ones drain capacity without adding value? Could any be candidates for automation? The time and security benefits might surprise you."
+        },
+        {
+            "text": "Don't limit yourself to just making the analysis and data processing reproducible either - what about the infrastructure itself? Tools like AWS CDK, Azure Resource Manager (ARM), or Terraform allow you to create cloud infrastructure as code, meaning entire environments can be deployed consistently in minutes and easily replicated across similar use cases. This approach not only speeds up delivery but ensures reproducibility and secure configuration by default."
+        }
+    ]
+}
