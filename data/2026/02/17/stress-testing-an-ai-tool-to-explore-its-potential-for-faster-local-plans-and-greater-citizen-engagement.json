@@ -1,0 +1,83 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/02/17/stress-testing-an-ai-tool-to-explore-its-potential-for-faster-local-plans-and-greater-citizen-engagement/",
+    "title": "Stress-testing\u00a0an\u00a0AI\u00a0tool\u00a0to explore its potential for faster local plans\u00a0and greater citizen engagement\u00a0",
+    "authors": [
+        "The Digital Planning team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Digital Planning",
+        "PropTech"
+    ],
+    "pub_date": "2026-02-17T10:13:50+00:00",
+    "content": [
+        {
+            "text": "Local plan consultations can generate thousands of responses\u00a0from members of the public,\u00a0the development\u00a0industry\u00a0and statutory consultees. For\u00a0local planning authority (LPA) teams, that means weeks of reading, categorising and summarising\u00a0before the real work of analysis can begin.\u00a0\u00a0"
+        },
+        {
+            "text": "With the government\u00a0committed to faster local plan preparation, we're exploring whether artificial intelligence (AI) can help reduce the time spent on some of the administrative tasks without compromising the quality of the consultation analysis\u00a0while continuing to support greater citizen  engagement.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where this started\u00a0"
+        },
+        {
+            "text": "Through\u00a0support\u00a0from our\u00a0PropTech Innovation Fund,\u00a0we funded\u00a0Greater Cambridge Shared Planning (GCSP) \u2013 the shared planning service for  Cambridge City and South Cambridgeshire District Councils\u00a0\u2013\u00a0to explore how AI could transform\u00a0the consultation\u00a0summarisation\u00a0process. GCSP partnered with the University of Liverpool\u00a0to develop\u00a0a tool.\u00a0"
+        },
+        {
+            "text": "Working with\u00a0the\u00a0planning team, the University\u00a0built\u00a0a bespoke large  language model (LLM) trained on 15 years of\u00a0Cambridge\u2019s\u00a0consultation data\u00a0and key planning terminology.\u00a0"
+        },
+        {
+            "text": "In a trial\u00a0last year, the tool, called PlanAI,\u00a0successfully\u00a0summarised\u00a03  planning consultations, on\u00a0supplementary\u00a0guidance documents,\u00a0in 16 minutes \u2013 a task which\u00a0took\u00a018.5 hours to do manually.\u00a0As well as the significant time\u00a0difference,\u00a0the quality\u00a0of the summaries\u00a0was also\u00a0compared, with the\u00a0AI-generated reports providing\u00a0clear breakdowns of the themes, patterns and insights from the responses.\u00a0\u00a0"
+        },
+        {
+            "text": "The tool works by taking each\u00a0consultation\u00a0submission\u00a0and recognising which comments\u00a0or parts of comments\u00a0relate to different policy areas \u2013 such as affordable housing or climate change \u2013 or chapters such as housing and environment. It then reviews all\u00a0the\u00a0representations together and can  produce summaries by chapter,\u00a0policy\u00a0or site allocation, drawing out valuable insights.\u00a0It can also\u00a0provide\u00a0a spatial representation of the comments, helping teams\u00a0to\u00a0identify\u00a0under-represented areas that may need to be\u00a0targeted for future\u00a0engagement.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "By\u00a0handling\u00a0the time-consuming task of\u00a0grouping and summarising  consultation comments,\u00a0the\u00a0tool\u00a0enables\u00a0officers to spend more time reading and analysing feedback, and engaging directly with\u00a0their communities and stakeholders.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Taking it further\u00a0by\u00a0scaling the\u00a0initial\u00a0pilot\u00a0"
+        },
+        {
+            "text": "The results\u00a0achieved in Greater Cambridge\u00a0were really promising but we wanted to know if they could be replicated\u00a0in other authorities, and\u00a0achieve the same speed,\u00a0accuracy\u00a0and quality.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "To\u00a0find out,\u00a0the Digital Planning programme\u00a0provided\u00a0a further\u00a0\u00a345,000\u00a0to GCSP\u00a0to stress-test\u00a0the tool\u00a0with\u00a05\u00a0more\u00a0local planning authorities\u00a0\u2013\u00a0varying in size, location,\u00a0consultation\u00a0platform\u00a0and\u00a0stage\u00a0of\u00a0plan-making.\u00a0"
+        },
+        {
+            "text": "\u00a0The\u00a05\u00a0local planning authorities\u00a0involved\u00a0are:\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Progress\u00a0so far\u00a0"
+        },
+        {
+            "text": "In the last few\u00a0weeks,\u00a0the 5 local authorities\u00a0have begun\u00a0testing\u00a0the tool\u00a0on a range of\u00a0local\u00a0plan\u00a0consultations \u2013 some recently closed, others more historic.\u00a0They've\u00a0provided baseline data on how long\u00a0previous\u00a0consultations took to summarise manually, and\u00a0planning\u00a0officers are reviewing the AI-generated summaries to ensure they properly capture the consultation responses. This is\u00a0an important step\u00a0before relying on the tool more widely.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Building in transparency and trust\u00a0"
+        },
+        {
+            "text": "A key part of the University of Liverpool's research has been exploring the ethical, environmental and transparency considerations that come with using AI in this way.\u00a0During\u00a0their early work, when they were\u00a0developing\u00a0the tool,  they held focus groups with members of the public and planning stakeholders to understand people's questions and concerns early on.\u00a0"
+        },
+        {
+            "text": "The findings have guided how GCSP communicates about the tool and builds confidence in its use. This has also led to the creation of an 'instant summarisation tool', which\u00a0GCSP\u00a0has been\u00a0using\u00a0at the front end of the process\u00a0for their local plan consultation\u00a0\u2013 summarising comments as people submit them, and giving respondents the option to amend the summary if they wish\u00a0before it is submitted to the councils.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u00a0we hope to\u00a0achieve\u00a0"
+        },
+        {
+            "text": "This pilot has been about stress-testing the technology to see if it can deliver the same efficiencies and accuracies in different settings. At\u00a0the\u00a0end\u00a0of March,\u00a0the authorities involved will produce a blueprint report to support other\u00a0LPAs looking to\u00a0adopt similar approaches.\u00a0\u00a0"
+        },
+        {
+            "text": "Our ambition\u00a0is for local\u00a0planning\u00a0authorities\u00a0to be able to explore the use of AI to\u00a0support\u00a0faster local plan preparation.\u00a0"
+        },
+        {
+            "text": "If you want to learn more about the pilot and hear about the progress so far from the teams involved,\u00a0join our\u00a0online show and tell at 1pm on 26 February. Register to receive an invitation.\u00a0\u00a0"
+        }
+    ]
+}
