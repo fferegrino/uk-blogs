@@ -1,0 +1,127 @@
+{
+    "url": "https://insidehmcts.blog.gov.uk/2026/02/19/the-darts-challenge-modernising-our-most-complex-court-system/",
+    "title": "The DARTS challenge: modernising our most complex court system",
+    "authors": [
+        "Pete Harrison \u2013 Programme Director, Decommissioning & Legacy Risk Mitigation, HMCTS"
+    ],
+    "categories": [
+        "Digital services",
+        "User experience and research",
+        "Working at HMCTS"
+    ],
+    "pub_date": "2026-02-19T11:01:12+00:00",
+    "content": [
+        {
+            "text": "\n[English] - [Cymraeg]"
+        },
+        {
+            "text": "The modernisation of Digital Audio Recording Transcription (DARTS) marked the final\u00a0major milestone in our journey to transform court technology.\u00a0Used\u00a0specifically\u00a0in\u00a0the Crown Court, the\u00a0modernised\u00a0platform delivers faster, more reliable access to recordings, helping legal professionals, court staff and transcription services work more efficiently and accurately.\u00a0\u00a0"
+        },
+        {
+            "text": "Users can now\u00a0locate\u00a0Crown Court\u00a0cases more quickly thanks to improved search tools, with critical information like reporting restrictions clearly displayed to avoid costly delays.\u00a0Requests\u00a0for\u00a0the\u00a0audio\u00a0recordings\u00a0used\u00a0to create the transcripts\u00a0are processed in minutes rather than hours, and users can track their progress in real time. Court staff\u00a0also\u00a0benefit\u00a0from centralised access to historic documents,\u00a0meaning they have\u00a0secure, seamless access without juggling multiple passwords.\u00a0\u00a0"
+        },
+        {
+            "text": "Natalie Robinson, Crime Service Manager at HMCTS, describes DARTS as \u201ca core application within the Crown Court, enabling HMCTS to meet mandatory requirements to record and store audio from all Crown Court hearings\u201d.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "By modernising DARTS and transitioning onto a cloud environment,\u00a0we\u2019ve\u00a0created a more efficient,\u00a0user-friendly\u00a0and reliable service for the people who need to access\u00a0recordings and\u00a0transcripts.\u00a0\u00a0"
+        },
+        {
+            "text": "Susan Goss from transcription company\u00a0Escribers\u00a0adds: \u201cDARTS is a platform we rely on heavily as part of the administration of justice. The improvements and time saved waiting for audio are proving very great indeed.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "The challenge: A complex migration"
+        },
+        {
+            "text": "DARTS records\u00a0Crown Court\u00a0proceedings across England and Wales, forming the official legal record. These recordings are vital for appeals\u00a0and parole hearings,\u00a0accurate\u00a0transcription and ensuring transparency in the justice system. When someone appeals a conviction or sentence, these recordings provide the definitive account of what occurred in court.\u00a0\u00a0"
+        },
+        {
+            "text": "After\u00a0completing the migration of\u00a036\u00a0of the 37\u00a0applications\u00a0from legacy data centres, the modernisation of DARTS was our most complex task. It involved moving\u00a0nearly 600\u00a0terabytes of audio data \u2013\u00a0equivalent to\u00a0nearly one\u00a0million CDs and\u00a0more than all other court applications combined.\u00a0\u00a0"
+        },
+        {
+            "text": "The\u00a0previous\u00a0system was not designed with\u00a0data\u00a0migration in mind. Transferring the recordings was straightforward in principle \u2013 copying files with quality checks to ensure none were lost or damaged \u2013 but the scale was immense. This process had to be repeated 98 million times, with the team monitoring and reporting on progress."
+        },
+        {
+            "heading": 2,
+            "text": "A complete rebuild"
+        },
+        {
+            "text": "The\u00a0real challenge\u00a0lay in converting the database that tracks these recordings. It\u00a0contains\u00a0not just dates and locations, but all the information that users need to find specific recordings and request transcripts \u2013 such as court events, linked cases and sentencing details that\u00a0determine\u00a0how long recordings must be kept. The complex relationships between different pieces of information had to be perfectly preserved during conversion, as any errors could affect legal processes, appeals or the future ability to\u00a0locate\u00a0specific proceedings.\u00a0\u00a0"
+        },
+        {
+            "text": "The\u00a0old version\u00a0of DARTS was so tightly linked to specific software and hardware that it\u00a0couldn\u2019t\u00a0simply be moved across. A full rebuild using standard cloud technology was the only solution that would ensure scalability and the potential for enhancements\u00a0in the future.\u00a0\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Securing the record of justice"
+        },
+        {
+            "text": "The DARTS migration was completed in May 2025, marking the final milestone in moving away from data centres. The modernised system is live\u00a0in the\u00a0Crown\u00a0Court, with connectivity to existing criminal case management systems.\u00a0\u00a0"
+        },
+        {
+            "text": "With technical teams, court staff and external users working closely together,\u00a0nearly 600TB\u00a0of data was migrated with no loss of information. The transition has been seamless for users, with familiar features\u00a0retained\u00a0and performance significantly improved. The new system includes real-time user messaging, integrated data\u00a0storage\u00a0and comprehensive monitoring. Most importantly, it lays the foundation for\u00a0continuous improvement and\u00a0future innovation.\u00a0\u00a0"
+        },
+        {
+            "text": "This project has been more than just a technical success \u2013 it\u00a0demonstrates\u00a0a commitment to\u00a0maintaining\u00a0the integrity of our justice system. With modern, flexible infrastructure now in place, DARTS is ready to evolve towards\u00a0future\u00a0capabilities and\u00a0to\u00a0connect with new court systems.\u00a0"
+        },
+        {
+            "text": "\n[English] - [Cymraeg]"
+        },
+        {
+            "heading": 1,
+            "text": "Yr her DARTS: moderneiddio ein system llys mwyaf cymhleth"
+        },
+        {
+            "text": "Roedd moderneiddio DARTS yn nodi\u2019r brif garreg filltir derfynol yn ein siwrnai i drawsnewid technoleg yn y llys. Drwy ddefnyddio\u2019n benodol yn Llys y Goron, mae\u2019r platfform a foderneiddiwyd yn cynnig mynediad mwy dibynnol i recordiadau, helpu gweithwyr proffesiynol cyfreithiol, staff y llys a gwasanaethau trawsgrifio i weithio\u2019n fwy effeithlon a chywir. \u00a0"
+        },
+        {
+            "text": "Gall defnyddwyr nawr leoli achosion Llys y Goron yn gynt diolch i adnoddau chwilio gwell, gyda gwybodaeth hanfodol fel rhoi gwybod am gyfyngiadau yn cael ei harddangos yn glir i osgoi oedi drud. Mae ceisiadau ar gyfer y recordiadau sain hyn a ddefnyddir i greu\u2019r trawsgrifiadau\u2019n cael eu prosesu mewn munudau yn hytrach nag oriau a gall defnyddwyr olrhain eu cynnydd mewn amser real. Mae staff y llys hefyd yn cael budd o fynediad canolog i ddogfennau hanesyddol, gan olygu bod ganddynt fynediad diogel, di-dor heb orfod addasu amrywiol gyfrineiriau.\u00a0"
+        },
+        {
+            "text": "Mae Natalie Robinson, Rheolwr Gwasanaethau Troseddol, GLlTEF yn disgrifio DARTS fel \u201ccymhwysiad greiddiol o fewn Llys y Goron, gan alluogi GLlTEF i gwrdd \u00e2 gofynion gorfodol i gofnodi a storio sain o bob gwrandawiad yn Llys y Goron.\u201d \u00a0"
+        },
+        {
+            "text": "Drwy foderneiddio DARTS a phontio i amgylchedd cwmwl, rydym wedi creu gwasanaeth mwy effeithlon, haws i\u2019w ddefnyddio a dibynadwy i bobl sydd angen mynediad i recordiadau a thrawsgrifiadau.\u00a0"
+        },
+        {
+            "text": "Ychwanegodd Susan Goss o\u2019r cwmni trawsgrifio Escribers: \u201cMae DARTS yn blatfform yr ydym yn dibynnu arno\u2019n fawr fel rhan o weinyddu cyfiawnder. \u00a0Mae\u2019r gwelliannau a\u2019r amser a arbedir ar gyfer aros am sain yn fawr iawn."
+        },
+        {
+            "heading": 2,
+            "text": "Yr her: Mudo cymhleth\u00a0"
+        },
+        {
+            "text": "Mae DARTS yn recordio achosion Llys y Goron ar draws Cymru a Lloegr, gan ffurfio\u2019r cofnod cyfreithiol swyddogol. \u00a0Mae\u2019r recordiadau hyn yn hanfodol ar gyfer apeliadau a gwrandawiadau par\u00f4l, trawsgrifiad cywir a sicrhau tryloywder yn y system gyfiawnder.\u00a0Pan mae rhywun yn apelio yn erbyn euogfarn neu ddedfryd, mae\u2019r recordiadau hyn yn darparu cyfrif pendant o\u2019r hyn a ddigwyddodd yn y llys.\u00a0"
+        },
+        {
+            "text": "Ar \u00f4l cwblhau mudo 36 o\u2019r 37 cymhwysiad o\u2019r canolfannau data etifeddiaeth, roedd moderneiddio DARTS y dasg fwyaf cymhleth.\u00a0Roedd yn cynnwys symud bron i 600 terabeit o ddata sain - yn cyfateb i bron un miliwn o CDs a mwy na phob achos llys arall wedi eu cyfuno.\u00a0"
+        },
+        {
+            "text": "Ni chafodd y system flaenorol ei dylunio gyda mudo data mewn cof. \u00a0Roedd trosglwyddo\u2019r recordiadau\u2019n syml mewn egwyddor -\u00a0cop\u00efo\u00a0ffeiliau gyda gwiriadau ansawdd i sicrhau na chollwyd na difrodwyd unrhyw un - ond roedd y raddfa\u2019n enfawr. Roedd yn rhaid ailadrodd y broses hon 98 miliwn o weithiau, gyda\u2019r\u00a0t\u00eem\u00a0yn monitro ac yn adrodd ar gynnydd. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Ailadeiladu\u2019n llwyr"
+        },
+        {
+            "text": "Yr her wirioneddol oedd trosi\u2019r gronfa ddata sy\u2019n olrhain y recordiadau hyn. \u00a0Mae\u2019n cynnwys nid yn unig dyddiadau a lleoliadau, ond yr holl wybodaeth mae defnyddwyr angen i ddod o hyd i recordiadau penodol a cheisiadau trawsgrifiadau - fel digwyddiadau llys, achosion cyswllt a manylion dedfrydu sy\u2019n pennu am ba hyd y dylid cadw recordiadau. Roedd yn rhaid cadw\u2019r berthynas gymhleth rhwng darnau gwahanol o wybodaeth yn berffaith yn ystod trafodaeth, gan y gallai unrhyw wallau effeithio ar brosesau cyfreithiol, apeliadau neu\u2019r gallu i leoli achosion penodol yn y dyfodol.\u00a0"
+        },
+        {
+            "text": "Roedd cysylltiad mor agos rhwng yr hen fersiwn o DARTS \u00e2 meddalwedd a chaledwedd penodol na ellir yn syml ei symud drosodd. \u00a0Ailadeiladu drwy ddefnyddio technoleg cwmwl safonol oedd yr unig ateb a fyddai\u2019n sicrhau gallu delio gyda chynnydd a\u2019r posibilrwydd ar gyfer gwelliannau yn y dyfodol. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Sicrhau cofnod cyfiawnder \u00a0"
+        },
+        {
+            "text": "Cafodd gwaith mudo DARTS ei gwblhau ym mis Mai 2025, gan nodi\u2019r garreg filltir derfynol wrth symud i ffwrdd o ganolfannau data. Mae\u2019r system a foderneiddiwyd yn fyw yn Llys y Goron, gyda chysylltedd i systemau rheoli achos troseddol presennol. \u00a0"
+        },
+        {
+            "text": "Gyda thimau technegol, mae staff y llys a defnyddwyr allanol yn gweithio\u2019n agos gyda\u2019i gilydd, cafodd bron 600TB o ddata ei fudo heb golli gwybodaeth. \u00a0 Mae\u2019r pontio wedi bod yn ddi-dor ar gyfer defnyddwyr, gyda nodweddion cyfarwydd wedi eu cynnal a pherfformiad wedi gwella\u2019n sylweddol. \u00a0Mae\u2019r system newydd yn cynnwys negeseuon defnyddwyr amser real, storio data integredig a monitro cynhwysfawr. \u00a0Yn bwysicach na dim, mae\u2019n gosod y sylfeini ar gyfer gwelliant parhaus ac\u00a0arloesodd\u00a0yn y dyfodol.\u00a0"
+        },
+        {
+            "text": "Mae\u2019r prosiect wedi bod yn fwy na llwyddiant technegol - mae\u2019n dangos ymrwymiad i gynnal gonestrwydd ein system gyfiawnder. Gyda seilwaith modern, hyblyg ar waith,\u00a0mae DARTS yn barod i ddatblygu tuag at alluogrwydd yn y dyfodol a chysylltu \u00e2\u2019r systemau llys newydd."
+        }
+    ]
+}
