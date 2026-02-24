@@ -1,0 +1,125 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2026/02/24/splink-or-swim-the-benefits-of-being-small-enough-to-fail/",
+    "title": "Splink or Swim: The Benefits of Being Small Enough To Fail\u00a0",
+    "authors": [
+        "Robin Linacre"
+    ],
+    "categories": [
+        "collaboration",
+        "Data",
+        "data quality",
+        "Innovation",
+        "Splink"
+    ],
+    "pub_date": "2026-02-24T14:28:35+01:00",
+    "content": [
+        {
+            "text": "A behind-the-scenes look at winning the Civil Service innovation award\u00a0"
+        },
+        {
+            "text": "Suppose the Civil Service embarked on an ambitious project to create software that would be used widely in government and beyond.\u00a0The design would involve cross-departmental and international collaboration, and the software would be downloaded over 15 million times.\u00a0"
+        },
+        {
+            "text": "How might we imagine the project would be governed and delivered?\u00a0"
+        },
+        {
+            "text": "This isn\u2019t hypothetical: the project is called Splink. It had a distinctive approach to delivery, which illuminates how to achieve real-world innovation.\u00a0"
+        },
+        {
+            "text": "What is Splink?\u00a0"
+        },
+        {
+            "text": "Splink is an open\u2011source software library for linking and deduplicating large datasets. In simple terms, it helps organisations match records that refer to the same real\u2011world person or thing, even when the data is messy, incomplete, or inconsistent.\u00a0"
+        },
+        {
+            "text": "It is used across government and internationally to improve data quality for statistics, research, and operational decision\u2011making, and has been downloaded millions of times since its release.\u00a0"
+        },
+        {
+            "text": "I will tell this story through a series of observations from my career. They suggest that the engine that drives innovation is perseverance rather than brilliance.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Head of Innovation\u00a0"
+        },
+        {
+            "text": "Many years ago, my job title was Head of Innovation. I ran a series of workshops to generate ideas.\u00a0Results were prioritised and fed back to leaders in the hope that the best ideas would be taken forward. But a year later, we had little meaningful to show.\u00a0"
+        },
+        {
+            "text": "I learned there was no shortage of ideas, and no shortage of clever, enthusiastic people who want to do things better.\u00a0"
+        },
+        {
+            "text": "My mistake was thinking innovation is something novel that could come from a flash of inspiration.\u00a0More often,it comes from tinkering with the same problem over the years, trying different things, and refining ideas.\u00a0"
+        },
+        {
+            "text": "But this means drawing from a deep wellspring of motivation year after year.\u00a0"
+        },
+        {
+            "text": "My first week at MoJ\u00a0"
+        },
+        {
+            "text": "In my first week working for the Ministry of Justice, I was given a MacBook with 'developer permissions'.\u00a0I was amazed; in previous organisations I had been given heavily locked down one-size-fits-all laptops that prevented me trying anything new, whilst being expected to deliver innovative data science work.\u00a0"
+        },
+        {
+            "text": "This may seem trivial, but it was a strong signal that the organisation recognised and valued skills and was proactive about removing obstacles to doing my job. This experience has continued and has been a strong source of motivation ever since.\u00a0The message was clear: \"We value your work, and trust that you know what you\u2019re doing\"."
+        },
+        {
+            "text": "Failed attempts in other countries at building something like Splink\u00a0"
+        },
+        {
+            "text": "Splink was not even a novel idea.\u00a0\u00a0"
+        },
+        {
+            "text": "In fact, the US Census Bureau notes that \u201cNational Statistics Institutes \u2026 had failed in possibly thirty attempts of the initial development of [such] systems\u201d.\u00a0 These tended to be large-scale attempts, \u201coften consisting of five to fifteen individuals\u201d working for \u201ctwo to four years to get preliminary results\"."
+        },
+        {
+            "text": "In contrast, the Splink team has averaged two people and released the first version of Splink within 6 months.\u00a0"
+        },
+        {
+            "text": "This is reminiscent of the well-worn phrase \"ideas are cheap; execution is everything\". I don't know what caused those thirty failures, but I do know what we got right with the delivery of Splink.\u00a0"
+        },
+        {
+            "text": "The governance structure of Splink\u00a0"
+        },
+        {
+            "text": "I started writing Splink in 2019.\u00a0The initial ask was small in scope: we would spend a few months writing software that could deduplicate one specific dataset.\u00a0"
+        },
+        {
+            "text": "Almost by accident, this resulted in an approach to delivery that was foundational for Splink's success:\u00a0"
+        },
+        {
+            "text": "In effect, Splink was allowed to splink or swim: it could prove its value through real\u2011world use, or quietly fail without becoming a programme that was \u201ctoo big to stop\u201d."
+        },
+        {
+            "text": "If innovation is more about execution than ideas, then a supportive governance structure must combine autonomy with rapid, honest, and potentially existential feedback.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Working in the open\u00a0"
+        },
+        {
+            "text": "Splink has been developed as open\u2011source software from day one. I consider this to be the single most important factor in Splink\u2019s success because of how it has contributed to the quality of the software, the clarity around how well things are going, and, ultimately, the motivation of the team."
+        },
+        {
+            "text": "By working in the open, we have exposed Splink to continuous external feedback, which is largely anonymous and therefore honest. This has created a virtuous cycle, leading to collaboration with many world\u2011leading experts in record linkage and the incorporation of their ideas. "
+        },
+        {
+            "text": "This iterative process of feedback underpins adoption.\u00a0There's no obvious single idea behind Splink that could be written on a Post-it note. Instead, Splink is an accumulation of a large number of small ideas from many different people who are incentivised to make it a success.\u00a0 This has required several rewrites - and it's not much fun to rip up your own work.\u00a0"
+        },
+        {
+            "text": "But it's always felt worth it, because working in the open magnifies the societal benefits of Splink.\u00a0Any improvements are immediately enjoyed by many users across government and beyond.\u00a0This makes every day feel worthwhile, even after five years, and indeed several team members have stayed on the team for much longer than the typical Civil Service stint.\u00a0"
+        },
+        {
+            "text": "What I have learned\u00a0"
+        },
+        {
+            "text": "Most people have a desire to make things better.\u00a0 But what is the 'user experience' of innovation? Often, unintentionally, large organisations put up obstacles, leading to frustration which gnaws away at motivation.\u00a0"
+        },
+        {
+            "text": "I like to think of innovation as a force. The strength of the force is the aggregate result of these individual experiences of trying to make things better. If we want more of it, we need this experience to be as good as possible.\u00a0"
+        },
+        {
+            "text": "The experience of Splink suggests some tangible steps to help:\u00a0"
+        },
+        {
+            "text": "I love my job, and I can't think of anything I'd rather do. On reflection, that is the real reason for Splink's success.\u00a0"
+        }
+    ]
+}
