@@ -1,0 +1,60 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2021/05/26/small-projects-delivered-quickly-how-the-ddat-team-worked-to-deliver-dits-priorities-in-a-week/",
+    "title": "Small projects delivered quickly: how the DDaT team worked to deliver DIT\u2019s priorities in a week!",
+    "authors": [
+        "Billy Glover, Lead Product Manager",
+        "Hala Arif, Data Project Management Officer"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2021-05-26T10:04:17+01:00",
+    "content": [
+        {
+            "heading": 6,
+            "text": "A presentation slide from a team meeting on firebreak"
+        },
+        {
+            "text": "Recently, the Digital, Data and Technology (DDaT) team took a \u2018firebreak\u2019; a week out to work with people from across DDaT on small projects that could lead to increase efficiency and productivity. This is like a \u2018hackathon\u2019, or what some companies call 10 or 20% Time."
+        },
+        {
+            "text": "This was the first time we had opened it to everyone in DDaT and over 60 colleagues took part. After a week, 17 separate projects were pitched and voted on."
+        },
+        {
+            "heading": 3,
+            "text": "Collaborating and building our community"
+        },
+        {
+            "text": "All team structures are dissolved during firebreak; if you are interested in someone\u2019s pitch you get involved. Working remotely has taken away some of the spontaneity of this, but teams are formed over Microsoft Teams, chatting in message threads, and sharing ideas in a dedicated channel."
+        },
+        {
+            "text": "We feel firebreaks help to promote learning new skills and seeing new ways of working. The week does this by encouraging colleagues to work on different workstreams and providing an opportunity to work outside of their usual teams. This deepens the capability we have in our DDaT function, whilst also allowing individuals to try new topics and tools. We found that this was a big hit with all our colleagues who had joined the team working remotely. Andrei Pirogov, User Interface Designer, shares:"
+        },
+        {
+            "heading": 3,
+            "text": "Firebreak projects"
+        },
+        {
+            "text": "In terms of delivering priorities for DIT, there are 2 benefits to setting aside this time:"
+        },
+        {
+            "text": "Some of these projects focused on solving immediate problems, such as making our automated tests work more quickly, allowing developers to work more efficiently. Others were about exploring what might be possible in the future, like linking together our Market Access and Customer Relationship Management (CRM) data."
+        },
+        {
+            "text": "Delivering something tangible in a short space of time is a key part of the ethos of firebreak. A particularly impactful (and popular) project involved creating a proof of concept for a system to manage HR and recruitment approvals. By using open source tools, and reusable components, including the GOV.UK design system and prototype kit, small teams were able to quickly show what such a product might look like."
+        },
+        {
+            "text": "A different project looked at finding insights in the data we already have. By combining information from our CRM and Market Access services, we were able to explore how we might help DIT staff be more proactive when difficulties arise for UK exporters. Senior Product Manager, Sylvie Romero-Reyes who was leading the project says:"
+        },
+        {
+            "heading": 3,
+            "text": "Next steps"
+        },
+        {
+            "text": "Some of the work undertaken is already benefiting our colleagues and users. For example, we improved the speed and coverage of our automated testing, allowing us to quickly deploy new releases with less manual effort. Other ideas have proven to be useful and will warrant further exploration. Finally, some areas have been explored, and we can safely say \u201cnow isn\u2019t the time\u201d."
+        },
+        {
+            "text": "Firebreak week allowed us to take some time out of our normal routine, try new things and strengthen our community. The outputs of the week were so great that we will be hosting firebreaks after each quarter across DDaT. This will allow us to expand to include more teams, incorporate more diverse skills and ultimately deliver projects with greater value to our users."
+        }
+    ]
+}
