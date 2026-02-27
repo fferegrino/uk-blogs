@@ -1,0 +1,83 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2026/02/27/securing-personal-data-across-government/",
+    "title": "Securing personal data across government",
+    "authors": [
+        "James Freeland - Senior Data and Security Architect, GDS"
+    ],
+    "categories": [
+        "Data protection",
+        "Data Standards",
+        "Guidance"
+    ],
+    "pub_date": "2026-02-27T13:13:49+00:00",
+    "content": [
+        {
+            "text": "Government is entering a new phase of modernising public services.\u00a0Central to\u00a0this plan is making it easier for different government departments to safely share information and use common digital systems. This helps services work better together, enabling faster, more joined-up support for citizens and civil servants who need it.\u00a0"
+        },
+        {
+            "text": "Over the past year,\u00a0the\u00a0Government Digital Service (GDS) has created\u00a0a roadmap for modern digital government\u00a0showing how new digital tools will improve services across government. The aim is to make everyday tasks, such as accessing benefits, renewing documents, or finding information, quicker, simpler, and more reliable.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Building on strong foundations\u00a0"
+        },
+        {
+            "text": "The Data Protection Act 2018\u00a0and\u00a0UK GDPR\u00a0provide robust safeguards for all personal data held by government. These protections apply equally to everyone, ensuring that personal information is handled lawfully,\u00a0fairly\u00a0and securely.\u00a0"
+        },
+        {
+            "text": "To support the government's ambition for better joined-up services, the Office of the Chief Digital Officer (OCDO) has published the\u00a0Principles for Securing Personal Data in Government Services. This guidance builds on existing data protection law to provide practical direction for\u00a0teams developing\u00a0a system or service that processes or shares personal\u00a0data.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Why we developed these principles\u00a0"
+        },
+        {
+            "text": "When government departments share data effectively, they can deliver better outcomes, more efficient public services, and reduced burden on citizens who\u00a0shouldn't\u00a0need to provide the same information multiple times.\u00a0"
+        },
+        {
+            "text": "These principles focus on the operational challenges of managing datasets\u00a0containing\u00a0personal information that departments\u00a0need\u00a0to deliver essential services, such as managing benefits\u00a0payments, tax, health\u00a0records\u00a0and vehicle and driver records.\u00a0"
+        },
+        {
+            "text": "The principles provide consistent standards that give teams confidence when sharing data across organisational boundaries, ensuring that the benefits of better-connected services are realised\u00a0ethically and\u00a0securely.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The ten principles\u00a0at a glance\u00a0"
+        },
+        {
+            "text": "The guidance sets out ten principles for securing personal data in government services:\u00a0"
+        },
+        {
+            "text": "These principles support secure-by-design practices and provide the foundation for trusted, effective data sharing across government.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "How the principles were developed\u00a0"
+        },
+        {
+            "text": "Our approach has been collaborative,\u00a0bringing together GDS internal teams and colleagues across government with\u00a0expertise\u00a0in personal data management.\u00a0"
+        },
+        {
+            "text": "We worked closely with the Cabinet Office Government Security Group and experts from the National Cyber Security Centre through a series of meetings and workshops. Together, we defined what teams needed, scoped out the guidance, and produced a first draft.\u00a0"
+        },
+        {
+            "text": "Following that, we undertook a consultation period of over ten months with external stakeholders, including the Information Commissioner's Office, the wider data protection and cyber security communities across government, and representatives from the National Security community.\u00a0"
+        },
+        {
+            "text": "We tested the principles against actual data sharing use cases between large data-led departments including ONS, DWP and\u00a0HMRC. After several iterations, the final draft was approved by GDS and published on GOV.UK.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "What\u00a0we're\u00a0asking of you\u00a0"
+        },
+        {
+            "text": "Senior leaders, delivery\u00a0teams\u00a0and data professionals across government are encouraged to adopt these principles as the foundation for secure, trusted services. Applying them early and consistently will support effective data sharing and help teams work confidently across organisational boundaries.\u00a0"
+        },
+        {
+            "text": "Leaders should champion these principles across their organisations, embed secure-by-design practices, and ensure teams have the skills and governance structures needed to\u00a0maintain\u00a0high standards.\u00a0"
+        },
+        {
+            "text": "By working together, we can ensure that government continues to use personal data responsibly, enabling better public services while\u00a0maintaining\u00a0the trust that citizens place in us."
+        }
+    ]
+}

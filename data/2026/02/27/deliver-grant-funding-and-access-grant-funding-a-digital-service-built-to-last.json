@@ -1,0 +1,128 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/02/27/deliver-grant-funding-and-access-grant-funding-a-digital-service-built-to-last/",
+    "title": "Deliver grant funding and Access grant funding: a digital service built to last\u00a0",
+    "authors": [
+        "Kate Harries, Head of User Centred Design, Funding Service"
+    ],
+    "categories": [
+        "Design",
+        "Funding Service"
+    ],
+    "pub_date": "2026-02-27T09:37:56+00:00",
+    "content": [
+        {
+            "text": "To build a house, you need\u00a0a sound\u00a0infrastructure.\u00a0There\u2019s\u00a0no point in  designing\u00a0a\u00a0kitchen that meets all your\u00a0users\u2019\u00a0culinary needs if the plumbing\u2019s not right.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Sustainable and reliable digital services are no different.\u00a0That\u2019s\u00a0why, for the past year,\u00a0the Ministry of Housing, Communities and Local Government's   Funding Service\u00a0has been building a new service based on an entirely new single codebase,\u00a0rather than iterating on our microservices \u2013 a decision not taken lightly,\u00a0as Gideon Goldberg (Lead Developer) explains in his blog\u00a0post.\u00a0\u00a0"
+        },
+        {
+            "text": "Having\u00a0a\u00a0firm footing has\u00a0removed some of the\u00a0constraints we\u00a0were facing in working towards\u00a0solving a whole problem for users.\u00a0This blog\u00a0post\u00a0tells the story of how we got here, what\u00a0we\u2019ve\u00a0achieved so far and where\u00a0we\u2019re\u00a0going next.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Deliver grant funding and Access grant funding\u00a0\u2013\u00a0two sides of the same coin\u00a0"
+        },
+        {
+            "text": "The\u00a0new\u00a0service,\u00a0known\u00a0for a while in our team as\u00a0\u2018The Platform\u2019, appears  outwardly as 2 different services\u00a0for\u00a0different\u00a0user groups, but\u00a0they are  inextricably linked.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Deliver grant funding\u00a0\u2013 for grant teams\u00a0and form builders\u00a0"
+        },
+        {
+            "text": "The\u00a0service\u00a0contains\u00a0a way to build\u00a0complex\u00a0forms without\u00a0developer intervention\u00a0or configuration.\u00a0Our\u00a0content\u00a0designers work\u00a0with grant policy  teams\u00a0to co-design\u00a0and build\u00a0forms for\u00a0monitoring\u00a0reports. Grant teams can  review\u00a0and manage\u00a0reports.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Access grant funding\u00a0\u2013 for grant recipients\u00a0"
+        },
+        {
+            "text": "Grant recipients\u00a0(for example, local authorities)\u00a0can\u00a0complete forms that  have been created in Deliver grant funding. They can work though the form,  using a task list\u00a0and their responses are saved as they go.\u00a0They\u00a0submit\u00a0the form\u00a0so that grant teams can then\u00a0access the completed reports in\u00a0Deliver grant\u00a0funding.\u00a0"
+        },
+        {
+            "text": "Our new service:\u00a0"
+        },
+        {
+            "text": "The service went\u00a0live\u00a0in December 2025 and\u00a0at the time of writing, we've  onboarded\u00a02 grants:\u00a0Pride in Place Impact Fund\u00a0and the\u00a0Common Ground Local Resilience Fund.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How we got here\u00a0"
+        },
+        {
+            "text": "Getting to this point has not always been easy,\u00a0but our agile principles\u00a0keep us\u00a0flexible in our ways of working.\u00a0\u00a0"
+        },
+        {
+            "text": "Our multidisciplinary team has\u00a0had\u00a0the\u00a0time and space to prototype in low,  medium\u00a0and high fidelities, testing\u00a0concepts,\u00a0and\u00a0quickly\u00a0changing\u00a0things that are not working or\u00a0not\u00a0meeting our users\u2019 needs.\u00a0We\u2019ve\u00a0been writing design histories to record\u00a0our\u00a0decisions and\u00a0share\u00a0our\u00a0progress in playbacks and\u00a0show and tells.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Starting with user needs and\u00a0desk research\u00a0"
+        },
+        {
+            "text": "A lot of the groundwork was already done.\u00a0Our\u00a0validated user needs\u00a0around grant\u00a0application and grant\u00a0monitoring\u00a0informed\u00a0the build of the\u00a0new service."
+        },
+        {
+            "text": "And while developers\u00a0learnt\u00a0from the\u00a0previous microservices architecture,  our user-centred design team\u00a0reviewed\u00a0designs\u00a0to\u00a0take\u00a0forward\u00a0the \u2018best bits\u2019 which\u00a0most\u00a0closely aligned\u00a0to our user needs and\u00a0the\u00a0Service Standard.\u00a0\u00a0"
+        },
+        {
+            "text": "We looked across\u00a0other\u00a0government\u00a0departments\u00a0to\u00a0see if other\u00a0form builder  solutions could meet our\u00a0users\u2019\u00a0needs. For example,\u00a0we looked\u00a0very\u00a0closely at  GOV.UK Forms\u00a0and found that, while\u00a0some of the core functionality suited our needs, our forms require more complex\u00a0features,\u00a0such as\u00a0being able to reference data from other parts of a form.\u00a0"
+        },
+        {
+            "text": "With this scaffolding in place,\u00a0we could start designing and developing\u00a0the new service\u00a0in earnest.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Working in\u00a0parallel\u00a0"
+        },
+        {
+            "text": "A huge factor in the success and speed\u00a0of this build\u00a0was our\u00a0parallel working \u2013   developers and designers working\u00a0closely together.\u00a0Instead of designing first and\u00a0understanding technical feasibility later, we\u00a0worked in parallel,\u00a0sharing early ideas and\u00a0pairing\u00a0on\u00a0prototypes. This\u00a0meant that we could:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Co-designing with our users\u00a0"
+        },
+        {
+            "text": "We\u00a0prioritised\u00a0designs on\u00a0Deliver\u00a0grant funding first, as that\u2019s where forms are built, and then moved on to Access grant funding where forms are completed  by grant recipients.\u00a0"
+        },
+        {
+            "text": "The 2 main user groups for Deliver grant funding are grant teams\u00a0and form builders (content designers in the Funding Service). Our content designers work directly with grant teams to understand their requirements, using their  expertise\u00a0in structure and language to ensure each form clearly meets users\u2019 needs.\u00a0As a direct user of the form building functionality, our content  designers have been instrumental in providing\u00a0feedback, and\u00a0we\u2019ve\u00a0been able to iterate quickly.\u00a0"
+        },
+        {
+            "text": "Early features\u00a0designed and built\u00a0on Deliver grant funding\u00a0included:\u00a0"
+        },
+        {
+            "text": "And on Access grant funding:\u00a0"
+        },
+        {
+            "text": "We tested early with all user groups so we could iterate as we went.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Continuing the build\u00a0"
+        },
+        {
+            "text": "Since going live in December,\u00a0we\u2019ve\u00a0been focusing on 4\u00a0main\u00a0areas:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Data handling\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Form management\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Connectivity\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Compliance and accessibility\u00a0"
+        },
+        {
+            "text": "We\u00a0kept the names\u00a0of the services\u00a0intentionally broad to give ourselves room to grow.\u00a0We\u2019re\u00a0currently assessing opportunities to integrate with other services or expand\u00a0Deliver grant funding and Access grant funding,  depending on user need.\u00a0"
+        }
+    ]
+}
