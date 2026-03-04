@@ -1,0 +1,110 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/03/03/announcing-the-1-0-trust-framework/",
+    "title": "Announcing the 1.0 trust framework\u00a0",
+    "authors": [
+        "Ellery Shentall"
+    ],
+    "categories": [
+        "Digital identity",
+        "Trust mark",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2026-03-03T15:30:00+00:00",
+    "content": [
+        {
+            "text": "Today, we have published the next iteration of the\u00a0trust framework,\u00a0supplementary codes\u00a0and\u00a0supporting documents\u00a0in pre-release.\u00a0Each\u00a0publication is marked as the 1.0 version, with the supporting documents version-controlled in this way for the first time.\u00a0\u00a0"
+        },
+        {
+            "text": "The\u00a0UK\u00a0digital\u00a0verification\u00a0services\u00a0(DVS)\u00a0trust framework\u00a0is the foundation for building\u00a0trust in the digital verification services ecosystem. The rules it sets\u00a0for\u00a0DVS\u00a0providers\u00a0help\u00a0build confidence that services certified against\u00a0it are reliable and secure.\u00a0The supporting documents\u00a0underpin the trust framework by\u00a0setting\u00a0out\u00a0guidance for\u00a0specific\u00a0elements\u00a0of the digital verification process,\u00a0and the supplementary codes\u00a0extend the trust framework with\u00a0additional\u00a0rules for\u00a0particular sectors\u00a0or use cases.\u00a0"
+        },
+        {
+            "text": "This is the first\u00a0revision\u00a0of the trust framework\u00a0published\u00a0since\u00a0the relevant provisions\u00a0in\u00a0the Data (Use and Access) Act\u00a02025\u00a0(\u2018the Act\u2019)\u00a0came into force\u00a0in December\u00a02025.\u00a0To bring it in line with the legislation, we have renamed\u00a0it\u00a0the\u00a0\u2018UK digital verification services\u00a0(DVS)\u00a0trust framework\u2019\u00a0in place of its former name\u00a0\u2018UK digital identity and attributes trust framework\u2019.\u00a0"
+        },
+        {
+            "text": "1.0\u00a0will\u00a0not\u00a0be\u00a0the last version of the trust framework. We are required under the Act to regularly review\u00a0it, and we will continue to\u00a0engage\u00a0with stakeholders and build the evidence base\u00a0for future releases.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is a pre-release?\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0describing\u00a0this publication as a\u00a0\u2018pre-release\u2019\u00a0because\u00a0digital\u00a0verification services cannot be\u00a0certified against\u00a0it yet,\u00a0and\u00a0it does not\u00a0yet\u00a0have legal effect.\u00a0We still have\u00a0some work to\u00a0do\u00a0with\u00a0the UK Accreditation Service (UKAS) to accredit\u00a0Conformity Assessment Bodies\u00a0(CABs)\u00a0to certify services against\u00a0this version\u00a0before we\u00a0publish\u00a0the\u00a0final release.\u00a0"
+        },
+        {
+            "text": "However, pre-releasing\u00a0helps\u00a0give\u00a0certainty about the forthcoming\u00a0rules\u00a0and allows providers time to prepare for the changes made since the previous version, known as the 0.4\u00a0\u2018gamma\u2019\u00a0publication.\u00a0\u00a0"
+        },
+        {
+            "text": "Once\u202fCABs are accredited and ready to begin certifying\u00a0later\u00a0this year, we will officially publish 1.0 using\u00a0the powers\u00a0under the\u00a0Act, clearly labelling it as the final publication.\u00a0"
+        },
+        {
+            "text": "We\u00a0don\u2019t\u00a0expect to make changes to the requirements in the 1.0 publication between now\u00a0and its final release.\u00a0The final\u00a0release\u00a0will\u00a0confirm\u00a0the\u00a0dates\u00a0from which DVS providers can\u00a0start\u00a0certifying\u00a0against version 1.0 and the transition timetable from the\u00a0gamma\u00a0version.\u00a0It may also\u00a0include\u00a0some final tweaks to links and to document structure.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Changes since\u00a0the\u00a0previous\u00a0release\u00a0of the trust framework\u00a0"
+        },
+        {
+            "text": "The\u00a01.0\u00a0version\u00a0of the trust\u00a0framework\u00a0is intended to iteratively build upon the high baseline\u00a0set in\u00a0the\u00a0gamma\u00a0version.\u00a0However,\u00a0it does introduce some significant new updates.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Enabling safe use of the \u2018UK\u00a0CertifID\u2019 trust mark\u00a0"
+        },
+        {
+            "text": "DVS providers certified\u00a0against\u00a0the\u00a01.0\u00a0version\u00a0of the trust\u00a0framework\u00a0will be able to use the new trust mark. With a basis in legislation, this will give certified DVS\u00a0providers a way of showing users and other businesses that their service meets the\u00a0rules\u00a0set by\u00a0the\u00a0government.\u00a0The 1.0 version sets out rules on\u00a0when and how the trust mark can be used.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "An updated\u00a0data schema\u00a0"
+        },
+        {
+            "text": "We\u00a0have\u00a0significantly updated the\u00a0trust framework\u2019s\u00a0data schema, which has been rewritten with the needs of business and government in mind.\u00a0The data schema defines\u00a0how\u00a0elements of identity, attribute and authentication data\u00a0should be organised, named, formatted, and exchanged\u00a0in\u00a0a consistent way to enable\u00a0this data to be understood across DVS providers and by those who would like to use\u00a0DVS.\u00a0It is designed from the ground\u00a0up to meet the revised guidance on checking identities\u00a0and\u00a0using\u00a0authenticators. Use of the data schema\u00a0remains\u00a0optional.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Data shared by orchestration and holder services\u00a0"
+        },
+        {
+            "text": "To reflect\u00a0the\u00a0increasingly\u00a0important role\u00a0we expect for\u00a0orchestration service providers\u00a0in supporting the adoption of DVS,\u00a0we\u2019ve\u00a0introduced our first rules specifically for them.\u00a0These rules\u00a0require that orchestration services\u00a0are\u00a0able to\u00a0tell their customers whether the\u00a0services they\u00a0orchestrate\u00a0are on the DVS register."
+        },
+        {
+            "text": "We\u2019ve\u00a0also introduced new\u00a0rules for holder service providers\u00a0to require that they be\u00a0able to share\u00a0metadata\u00a0about the identity and attribute information they hold.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Strengthening guidance on\u00a0vouching\u00a0and widening the applicability\u00a0of\u00a0inclusion rules\u00a0"
+        },
+        {
+            "text": "We have rewritten the\u00a0guidance\u00a0on vouching\u00a0to make it more straightforward to create and share vouching evidence\u00a0when following\u00a0the guidance on checking identities.\u00a0This\u00a0is intended to\u00a0give\u00a0DVS providers and others confidence in\u00a0vouching\u00a0as a\u00a0way of\u00a0checking someone\u2019s identity\u00a0in lower risk use cases.\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0also made the\u00a0trust framework\u2019s\u00a0rules\u00a0on inclusion and accessibility, previously applicable only to a subset of providers, now apply to\u00a0all\u00a0certified DVS\u00a0providers.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Improving navigability and usability\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0made it\u00a0easier to find your way around the\u00a0separate\u00a0supporting documents, including\u00a0through\u00a0introducing line numbering and version\u00a0control,\u00a0to mirror the\u00a0approach taken in\u00a0the trust framework itself.\u00a0"
+        },
+        {
+            "text": "The trust framework publication\u00a0contains\u00a0a full summary\u00a0of the changes\u00a0in\u00a0version\u00a01.0, covering changes in the trust framework document itself and the\u00a0separate\u00a0supporting documents.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps\u00a0"
+        },
+        {
+            "text": "DVS providers cannot certify against the 1.0 trust framework or supplementary codes just yet.\u00a0We\u2019ll\u00a0confirm the dates\u00a0from which certifications against them\u00a0can begin once UKAS has completed its review and\u00a0we\u2019ve\u00a0published the\u00a0final\u00a0releases.\u00a0"
+        },
+        {
+            "text": "For providers currently certified under gamma,\u00a0we\u2019ll\u00a0set out a clear transition period.\u00a0We\u2019ll\u00a0also\u00a0provide\u00a0a\u00a0delta assessment\u00a0route. This means that most gamma\u2011certified providers will not need to be audited against the entire 1.0 framework from scratch. Instead, an auditor will only check that the provider has made the required step\u2011up from gamma to 1.0. In other words,\u00a0gamma-certified providers can choose\u00a0to\u00a0be assessed solely against the changes between the two versions.\u00a0Beta certifications will still expire on 31 March 2026, as previously communicated.\u00a0\u00a0"
+        },
+        {
+            "text": "We believe the\u00a01.0\u00a0versions\u00a0of the trust framework,\u00a0supplementary codes and supporting documents\u00a0mark\u00a0a step forward for the sector, giving providers greater clarity, consistency\u00a0and confidence in\u00a0the delivery of digital verification services."
+        },
+        {
+            "text": "Upon publication of the final 1.0 release, we will start engaging with stakeholders to\u00a0identify\u00a0and prioritise the areas we should focus on for updates in the next version of the trust framework."
+        }
+    ]
+}

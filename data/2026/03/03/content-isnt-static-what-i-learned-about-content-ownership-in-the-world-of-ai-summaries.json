@@ -1,0 +1,117 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/03/03/content-isnt-static-what-i-learned-about-content-ownership-in-the-world-of-ai-summaries/",
+    "title": "Content isn\u2019t static: what I learned about content ownership in the world of AI summaries",
+    "authors": [
+        "Tracey Wilson, Deputy Service Owner"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2026-03-03T11:33:48+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Tracey Wilson"
+        },
+        {
+            "text": "In her recent blog on creating AI-ready content, Andrea explored why structuring content to meet user needs is essential for policy effectiveness as more users access information through search and AI summaries. Building on that foundation, this post looks at what happens when content ownership isn\u2019t clear, and why strong lifecycle governance is becoming just as important as good content design."
+        },
+        {
+            "text": "People increasingly get government information without ever visiting a government website. Search engines and AI tools summarise and surface content in new ways."
+        },
+        {
+            "text": "That shift makes it essential that the information presented is current, accurate and clearly owned."
+        },
+        {
+            "text": "With this in mind, Department for Business and Trade (DBT) service owners set out to review a number of DBT\u2011tagged pages on GOV.UK that had been flagged for review. We needed to confirm ownership and decide the next action: update or retire. As we worked through it, we found that tagging does not always show clearly who is responsible, especially after Machinery of Government changes. We used the GOV.UK Content API to review ownership."
+        },
+        {
+            "text": "What began as a lifecycle review highlighted broader questions about how we assign ownership and how consistently we apply our approaches in an environment where content is widely reused."
+        },
+        {
+            "heading": 2,
+            "text": "Reviewing flagged content"
+        },
+        {
+            "text": "To make the task manageable, I used the GOV.UK API to pull more metadata for each URL. Document types, taxonomy, publishing history and tagging helped build a clearer picture of the content and where ownership might sit."
+        },
+        {
+            "text": "To establish if ownership needed to be updated, I reviewed subject matter, historic tags, summaries, and document types. Then I applied knowledge of how the department is structured now and how it was structured when the content was published. I also asked fellow Service Owners to review subsets of content from their portfolio perspective to help find likely owners."
+        },
+        {
+            "text": "In some cases, responsibility sat elsewhere across government following Machinery of Government changes, while still being tagged to DBT. Preserving the historical publishing record matters, but operationally it should be much clearer who is responsible for maintaining content now. That\u2019s where the real work started, making ownership visible enough to take confident lifecycle decisions."
+        },
+        {
+            "heading": 2,
+            "text": "When ownership isn't visible"
+        },
+        {
+            "text": "For many people I contacted, the content was not immediately identifiable as part of their remit, even when they recognised the subject area. There is usually more than one team in a department or across Whitehall working in a policy space. That often triggered some internal checking to establish context before any decisions could be made."
+        },
+        {
+            "text": "Deciding to retire content was consistently the hardest part. Not because teams were unwilling, but because the original rationale and context were not always easy to access. People were understandably cautious about removing pages they had not created and could not trace back to a clear decision. The default was to keep it live."
+        },
+        {
+            "heading": 2,
+            "text": "Strengthening lifecycle controls"
+        },
+        {
+            "text": "We can apply retention and disposal principles more consistently across public-facing content. GDS guidance sets out when to withdraw or unpublish (retire) content, how to preserve the public record, and how to label older material (for example, history mode). It provides clear principles and processes. Departments still need to apply judgement about user need, currency and risk. Which is why clear ownership and simple lifecycle controls matter."
+        },
+        {
+            "text": "This review reinforced why ongoing stewardship matters once content is live. Teams change, priorities shift, and responsibility can become distributed. We rightly invest time and energy in creating new content and in advocating for user\u2011centred design. Maintaining  content over time requires equal attention."
+        },
+        {
+            "text": "When content is not reviewed regularly, its relevance can drift. That can create friction for users who rely on it to make decisions. For businesses, clarity and currency matter, particularly when they are trying to comply, operate, or grow. Strengthening ownership and review points helps to reduce that friction."
+        },
+        {
+            "heading": 2,
+            "text": "Why distribution changes the picture"
+        },
+        {
+            "text": "Content lifecycle has always mattered. What has changed is how information is accessed and reused. We may publish on GOV.UK, but content can now be summarised, quoted and surfaced across different platforms and tools. In that environment, publication is not the end of the work. "
+        },
+        {
+            "text": "Clear review cycles, defined ownership, and timely decisions to update, withdraw, or unpublish content are essential. GDS already provides the mechanisms. Our focus is on applying them consistently through clearer ownership, visible review points, and structured decisions to update, retain or retire content."
+        },
+        {
+            "heading": 2,
+            "text": "Ownership and accountability"
+        },
+        {
+            "text": "Content needs clear ownership across its full lifecycle, with someone accountable for accuracy, relevance, and eventual retirement. This does not always mean a single named individual, but it does require a clearly accountable team or function."
+        },
+        {
+            "text": "Content operations teams play a critical role in managing this at scale, but they cannot do it alone. Responsibility for decisions about updating or removing content must sit with the appropriate policy or subject matter owners. Accountability for making sure those policy decisions are tracked and acted on sits with content teams who manage lifecycle."
+        },
+        {
+            "text": "When ownership is unclear, the default can become to keep everything, not through intent but through uncertainty. The cost is felt by users and it can weaken confidence in government information."
+        },
+        {
+            "text": "Encouragingly, in DBT we are not starting from zero. Work is already underway across our content professions to strengthen how content is governed and maintained. This blog is a reflection that I hope will reinforce why it matters and where the pressure points show up in practice."
+        },
+        {
+            "heading": 2,
+            "text": "What needs to change"
+        },
+        {
+            "text": "Good content is not just informative. It enables businesses to do what they need to do more easily and with fewer unnecessary barriers and helps policymakers to achieve their outcomes. When creating new content or reviewing existing content, AI\u2011readiness also matters. That said, new primary content must still be written for humans first, with structure and clarity that supports both user understanding and machine interpretation."
+        },
+        {
+            "text": "The cost of inaction is gradual but real. It means more content is kept live by default, providing less reliable information when businesses need clarity to comply, operate and grow."
+        },
+        {
+            "text": "For any colleagues facing similar work, let me give you some advice. Do not try to solve this alone. Agree ownership and lifecycle decisions across policy, delivery and Content Operations. This only works when it\u2019s genuinely shared."
+        },
+        {
+            "heading": 2,
+            "text": "Closing reflection"
+        },
+        {
+            "text": "Doing this work clarified the problems more than it changed my views. It moved me from thinking about local fixes to simple system controls we could apply. For example, lifecycle triggers that lead to a clear decision to update, withdraw or unpublish (retire) in line with GDS guidance. It can be a lightweight ownership pattern with a visible \u201clast reviewed / next review due\u201d cue where it helps users (as used in the NHS Service Manual). GDS already defines the mechanics; the job is to make them easy to apply across our content."
+        },
+        {
+            "text": "It also reinforced an uncomfortable truth. Ongoing content stewardship can be undervalued. \u201cWe just need to put this on the internet\u201d can become the default mindset. The expertise needed to create, manage and maintain content and its role in helping to achieve real outcomes also needs investment. Content cannot be something we publish and forget. We must actively manage it across its lifecycle. When we do not, it can undermine confidence in government information."
+        }
+    ]
+}

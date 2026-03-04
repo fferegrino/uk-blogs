@@ -1,0 +1,287 @@
+{
+    "url": "https://competitionandmarkets.blog.gov.uk/2026/03/04/ai-and-collusion-frontiers-opportunities-and-challenges/",
+    "title": "AI and collusion: frontiers, opportunities and challenges",
+    "authors": [
+        "Dr Karen Croxson",
+        "Juliette Enser"
+    ],
+    "categories": [
+        "CMA Technology Horizon Scanning",
+        "Competition law compliance"
+    ],
+    "pub_date": "2026-03-04T15:30:34+00:00",
+    "content": [
+        {
+            "text": "Algorithms and AI are increasingly shaping the world around us, influencing a wide range of decisions and market outcomes \u2013\u2060 from the prices we pay for goods and services, to the choices available in markets."
+        },
+        {
+            "text": "The Competition and Markets Authority (CMA) is the UK\u2019s main competition and consumer protection authority. We have a whole-economy remit: we promote competition and protect consumers with a clear end goal to drive economic growth and improve household prosperity."
+        },
+        {
+            "text": "We have examined algorithms and AI over many years, assessing their implications for competition and consumers. This includes\u00a0early work on pricing algorithms\u00a0and more recent work on\u00a0frontier foundation models, as well as ongoing work and thinking on agentic AI.1"
+        },
+        {
+            "text": "This technology can give rise to significant benefits but also important risks, including the potential for new forms of collusion. Businesses must take proactive steps to mitigate the risk of breaking consumer or competition law, making sure they understand the technology on which they rely to inform or shape commercial and operational decisions."
+        },
+        {
+            "text": "Competition agencies can also harness this powerful technology internally to drive a step change in the efficiency and effectiveness of their work, including in screening markets for potential issues. The CMA has invested heavily in our technical capabilities, including our ability to use AI and agentic systems to detect breaches of consumer and competition law at an unprecedented pace and scale."
+        },
+        {
+            "heading": 2,
+            "text": "Rise of algorithmic pricing"
+        },
+        {
+            "text": "Algorithmic pricing is not a new phenomenon. Algorithms have been used for decades in sectors such as airline pricing, hospitality, and retail. The CMA\u2019s early research in this area, including a\u00a0study of pricing algorithms\u00a0(2018) and\u00a0broader report\u00a0(2021), highlighted how integral algorithmic systems had already become to many businesses\u2019 operations."
+        },
+        {
+            "text": "However, the prevalence and sophistication of algorithms have grown markedly in recent years, fuelled by increasingly granular, large-scale data, availability of computing power, and methodological developments. The emergence of large language models (LLM) has given businesses greater access to powerful, low-cost predictive technology that can inform or automate many important decisions, including price setting. Our more recent work has explored these developments and their potential implications."
+        },
+        {
+            "heading": 2,
+            "text": "Benefits of algorithmic pricing"
+        },
+        {
+            "heading": 3,
+            "text": "Efficiency, speed and lower costs"
+        },
+        {
+            "text": "Algorithms can process complex datasets much faster than humans, allowing businesses to adjust their prices in real-time for optimised outcomes. By automating pricing decisions and reducing human error, businesses can lower their costs and barriers to entry, potentially leading to greater competition."
+        },
+        {
+            "heading": 3,
+            "text": "Personalised pricing"
+        },
+        {
+            "text": "Algorithms may allow businesses to tailor prices to individual customers or segments, increasing their profits while also expanding market access and affordability for some consumers."
+        },
+        {
+            "heading": 3,
+            "text": "Increased market efficiency"
+        },
+        {
+            "text": "By making prices more responsive to changes in demand and supply \u2013 including supply chain disruptions \u2013 algorithmic pricing may make markets more efficient."
+        },
+        {
+            "heading": 2,
+            "text": "Risks and challenges of algorithmic pricing"
+        },
+        {
+            "heading": 3,
+            "text": "Dynamic pricing"
+        },
+        {
+            "text": "Algorithmic pricing can creates risks related to dynamic pricing, where prices move rapidly in response to changing market conditions. In such circumstances, there is potential for vulnerable consumers to lose out, for consumers to feel blindsided by sudden changes \u2013 particularly if they are under unfair pressure to make snap decisions \u2013 and ultimately for a loss of consumer trust and confidence."
+        },
+        {
+            "text": "The CMA has\u00a0discussed dynamic pricing recently\u00a0and set out\u00a0advice for businesses\u00a0to help them use innovative pricing models in a fair and transparent way."
+        },
+        {
+            "heading": 3,
+            "text": "Algorithmic collusion"
+        },
+        {
+            "text": "Algorithmic pricing could also lead to coordinated outcomes and higher prices \u2013 often referred to as \u2018algorithmic collusion\u2019. The emergence of more powerful AI models may compound this risk in new and subtle ways."
+        },
+        {
+            "text": "Ezrachi and Stucke2\u00a0conceptualised a set of scenarios in which algorithmic collusion may arise:"
+        },
+        {
+            "heading": 4,
+            "text": "Implementation of \u2018classic\u2019 collusion"
+        },
+        {
+            "text": "Rival businesses may explicitly agree to collude and then use algorithms to put into practice, monitor, and enforce the agreement."
+        },
+        {
+            "text": "For example, in a\u00a02016 CMA case, 2 online sellers of posters were found to have colluded by agreeing not to undercut each other on Amazon Marketplace and then giving effect to the agreement using pricing software."
+        },
+        {
+            "text": "The use of a common algorithm can reduce the need for sellers to communicate on an ongoing basis, is more data driven and cost-effective for real-time coordination, and enables more sustainable collusion. As with more traditional forms of collusion, this conduct is unambiguously illegal."
+        },
+        {
+            "heading": 4,
+            "text": "Hub-and-spoke collusion"
+        },
+        {
+            "text": "Colluding businesses may use the same algorithm or data hub to exchange competitively sensitive information indirectly \u2013 which might in some cases also include delegating pricing decisions to the hub or receiving from it recommendations (based on co-mingled data)."
+        },
+        {
+            "text": "Exchanges of information can reduce strategic uncertainty and sustain collusive outcomes, even without an explicit agreement to coordinate. The hub may allow businesses to increase prices above competitive levels, maximising collective profits. UK law recognises that indirect information exchange through third parties, such as algorithm providers, can constitute illegal, anti-competitive conduct."
+        },
+        {
+            "heading": 4,
+            "text": "Predictable agent"
+        },
+        {
+            "text": "Businesses may use algorithms that react predictably to market events, potentially softening competition. Such algorithms may follow price leadership and punish deviations, achieving collusive outcomes without human communication or explicit agreement."
+        },
+        {
+            "text": "In the UK, the Chapter I prohibition in the Competition Act 1998 is engaged to the extent the conduct amounts to an agreement or concerted practice between undertakings. However, the CMA may also be able to remedy competition issues caused by coordination through market investigations without having to establish whether the businesses involved have reached a common understanding or whether that understanding is tacit or explicit."
+        },
+        {
+            "heading": 4,
+            "text": "Autonomous, complex AI systems"
+        },
+        {
+            "text": "It is possible that advanced AI systems given the objective to maximise profits may learn to reach coordinated outcomes, even without human intent to collude."
+        },
+        {
+            "heading": 2,
+            "text": "Evidence: theory, experiments and case studies"
+        },
+        {
+            "text": "While research continues to develop in this area, with many open and interesting areas of debate, some studies have supported concern about algorithmic collusion, including:"
+        },
+        {
+            "text": "While early research focused on reinforcement learning algorithms (Calvano et al.[4]), recent advances have allowed businesses to harness\u00a0LLM\u00a0with human-language interfaces and advanced capabilities. Through market simulations, Fish et al.[8] demonstrate that\u00a0LLM-based agents used as pricing tools may be prone to colluding anonymously, with interesting sensitivity to \u2018prompts\u2019. Meanwhile, Keppo et al.12 find that a greater number and diversity of agents can reduce the risk of collusion."
+        },
+        {
+            "text": "Clearly, these are early days in a vibrant and still emerging field, with no overall consensus (Deng13), and much innovation and research yet to come. In the meantime, real cases seen already in some jurisdictions show there is already some regulatory interest and action in this area, and underline the need for businesses to understand the risks and their responsibilities in relation to algorithmic pricing."
+        },
+        {
+            "heading": 2,
+            "text": "How businesses can mitigate the risks"
+        },
+        {
+            "text": "The risks described above do not imply that the use of algorithms or AI in pricing is inherently problematic, nor that all businesses face the same level of legal or competition risk. Much depends on market context, design choices, governance, and how technology is used in practice."
+        },
+        {
+            "text": "With that in mind, this guidance only highlights steps businesses may consider taking in order to avoid breaking competition law (which has potentially serious consequences), and to reduce the likelihood of outcomes that reduce competition or harm consumers."
+        },
+        {
+            "heading": 3,
+            "text": "Understand the law"
+        },
+        {
+            "text": "Make sure your business understands how competition law applies to algorithms, and provide staff with appropriate training. For example, the CMA has\u00a0guidance on horizontal agreements."
+        },
+        {
+            "heading": 3,
+            "text": "Do not share competitively sensitive information with your competitors"
+        },
+        {
+            "text": "Make sure you are not sharing confidential, competitively sensitive information with rivals, whether directly or indirectly (for example, through a pricing consultant or pricing software)."
+        },
+        {
+            "text": "Information is considered to be \u2018competitively sensitive\u2019 if it reduces competitive uncertainty in the market, and could influence the competitive strategy of other businesses."
+        },
+        {
+            "heading": 3,
+            "text": "Do not let competitors\u2019 confidential information influence your pricing"
+        },
+        {
+            "text": "Make sure that any pricing guidance or actions, generated by a pricing solution you use, are not influenced in any way by competitively sensitive information from rivals \u2013 even if you do not receive this information directly."
+        },
+        {
+            "heading": 3,
+            "text": "Be careful when using the same algorithm as a competitor"
+        },
+        {
+            "text": "If you can reasonably expect that a pricing recommendation could be drawing on confidential information from a competitor (even if you have not been told this directly), you may still be breaking the law. Take extreme care when discussing pricing algorithms with your rivals."
+        },
+        {
+            "heading": 3,
+            "text": "Scrutinise data and algorithms where needed"
+        },
+        {
+            "text": "In some cases, you may need to audit the input data and statistical approaches used, whether in-house or third-party. A traditional algorithmic audit might not be enough: consider linguistic stress testing prompts, and including explicit anti-collusion constraints (for example, if using pricing solutions that involve\u00a0LLM)."
+        },
+        {
+            "heading": 3,
+            "text": "Report any concerns"
+        },
+        {
+            "text": "Report anti-competitive behaviour, including potentially illegal pricing algorithms, and consider\u00a0applying for leniency\u00a0where appropriate."
+        },
+        {
+            "text": "Remember: there are serious consequences to being caught in anti-competitive behaviour. In the UK, businesses can be fined up to 10% of their annual turnover, and individuals can face fines, director disqualification, or even criminal conviction."
+        },
+        {
+            "text": "Pricing consultants should also act responsibly. If you provide a pricing service, you could be held to account for breaking competition law, for example if you:"
+        },
+        {
+            "heading": 2,
+            "text": "Our approach to detection and enforcement"
+        },
+        {
+            "text": "In some circumstances, algorithmic collusion can harm consumers through higher prices, less choice, and weaker incentives to innovate."
+        },
+        {
+            "text": "The CMA\u2019s approach to addressing the risks of algorithmic collusion is multifaceted and proportionate, reflecting both the potential harms and evolving evidence base."
+        },
+        {
+            "heading": 3,
+            "text": "Raising awareness"
+        },
+        {
+            "text": "We continue to provide guidance, research, and accessible content for competitors and algorithm providers."
+        },
+        {
+            "heading": 3,
+            "text": "Reporting and detection"
+        },
+        {
+            "text": "We have recently updated our\u00a0leniency policy, which now makes leniency available for conduct such as exchanging competitively sensitive information through a shared algorithm."
+        },
+        {
+            "text": "We\u00a0offer a reward\u00a0of up to \u00a3250,000 to anyone who tells the CMA about illegal cartel activity, including algorithmic collusion."
+        },
+        {
+            "heading": 3,
+            "text": "Screening and investigation"
+        },
+        {
+            "text": "We have a strong range of covert and overt investigatory powers."
+        },
+        {
+            "text": "Screening is also an important and growing focus. We have been developing our capabilities in this area, drawing on a range of techniques including machine learning, AI, and agentic systems, alongside more traditional tools. These capabilities support proactive screening and investigation, and are used as part of a wider evidential toolkit rather than as a substitute for legal and economic analysis. As part of this we are also actively screening for algorithmic collusion and have built technical expertise to investigate algorithmic systems, including their outcomes, user interactions, and competition implications."
+        },
+        {
+            "heading": 2,
+            "text": "Our growing AI and technical capability"
+        },
+        {
+            "text": "The CMA\u2019s work on algorithmic collusion and our wider cartel screening form part of a broader programme of technology horizon scanning and digital capability building. Areas like AI are complex and deeply technical, requiring regulators to stay on top of rapid developments. For example, recent research (Nikandrova and Parekh14) demonstrates that\u00a0LLM-based agents can autonomously learn to adopt harmful exclusionary strategies. This is a further example of the need for businesses to understand the technology and be alive to novel risks and for agencies actively to monitor this emerging space. In the CMA\u2019s case, ensuring that we think ahead on emergent risks also reflects our focus on identifying and addressing barriers to UK growth."
+        },
+        {
+            "text": "A particularly thought-provoking area is agentic AI. Definitions vary but these include systems that can be instructed in natural language to achieve a goal, navigating some complexity in the environment, planning, and taking action as needed. The current reality may be modest, but interest has surged in recent years and this has become an area of active development and investment for businesses. There are many potential applications \u2013 for consumers and businesses \u2013 and potentially significant benefits as well as important considerations, including risks around pricing outcomes where businesses rely on AI agents to set prices fully autonomously for them. Agents could, in theory, learn to coordinate on outcomes akin to tacit coordination without explicit human instruction to do so. Experiments have shown\u00a0LLM\u2011based agents in simulated environments converging to supra\u2011competitive pricing in repeated\u2011interaction settings (Fish et al.[8])."
+        },
+        {
+            "text": "Another possibility explored in recent theory and experimental research is that AI agents learn to coordinate by communicating through steganographic techniques \u2013 methods of concealing information within another message or physical object. For example, it has been demonstrated that AI agents instructed not to share sensitive information directly can learn to conceal this within a seemingly innocuous message about the weather (Motwani et al.15). Ghaemi16\u00a0surveys these and related possibilities. \u00a0"
+        },
+        {
+            "text": "The CMA\u2019s programme of technology horizon scanning is continuing to monitor and unpack developments in AI including agentic systems, and embedding this insight across the breadth of our work. Likewise, businesses exploring these new technologies and operating in the UK should ensure that they understand potential risks and remain compliant with UK consumer and competition law."
+        },
+        {
+            "text": "As part of our proactive work, we are also exploiting advanced technologies internally at the CMA to detect consumer and competition issues at unprecedented pace and scale. This work is iterative and complements, rather than replaces, established legal and economic analysis. It includes deploying new techniques in data analysis and AI to help detect bid rigging in public procurement \u2013 a significant area of risk and potentially substantial public savings. We are using agentic AI to identify potential infringements of consumer protection law across the economy to help us better understand consumers\u2019 experience and target our enforcement activity where it will have the greatest impact. We recently\u00a0opened investigations into 8 businesses, our first with new direct consumer enforcement powers, and sent advisory letters to 100 others. These actions will make a real difference for UK households and foster consumer trust and confidence, and thus contribute to economic growth."
+        },
+        {
+            "text": "Since 2019, the CMA has made significant investments in building dedicated in-house capability. An interdisciplinary directorate \u2013 Data, Technology and Insight (DTI) \u2013 now brings together:"
+        },
+        {
+            "text": "Experts in strategic, business and financial analysis are now part of this mix too \u2013 it is essential to understand not only the technology but also how businesses operate in the real world and we have been deepening our capabilities for understanding businesses\u2019 strategies and business models, including in relation to AI. "
+        },
+        {
+            "text": "DTI\u2019s integrated team of technical experts work alongside economists, lawyers, and other specialists, helping ensure that the CMA can meet the challenges of increasingly complex investigations."
+        },
+        {
+            "text": "Agencies do not operate in a vacuum, and engaging with stakeholders \u2013 including consumers, businesses, investors, academics, and other regulators \u2013 is crucial to the quality of the CMA\u2019s work and impact. We proactively share insights and techniques, both:"
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "The evolving digital economy presents both opportunities and challenges. Algorithmic pricing and AI can deliver significant benefits for businesses and consumers, but can also raise risks of collusion and harm."
+        },
+        {
+            "text": "Businesses are advised to ensure they understand the law, and mitigate risks that may be posed by algorithmic pricing (including the newer and more subtle risks posed by\u00a0LLM\u00a0and agentic AI)."
+        },
+        {
+            "text": "For their part, agencies must:"
+        },
+        {
+            "text": "The CMA\u2019s own programme of work in this space is ongoing and geared to proactive technically-informed support and guidance for businesses, with robust enforcement where needed to protect consumers and competition and ensure markets remain fair, dynamic, and innovative."
+        }
+    ]
+}

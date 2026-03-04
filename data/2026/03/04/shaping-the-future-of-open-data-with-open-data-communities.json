@@ -1,0 +1,100 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/03/04/shaping-the-future-of-open-data-with-open-data-communities/",
+    "title": "Shaping the future of open data with Open Data Communities",
+    "authors": [
+        "Steve Peters, Principal Technical Architect, Analytical Data as a Service"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2026-03-04T10:08:00+00:00",
+    "content": [
+        {
+            "text": "Open data plays a vital role in supporting transparency,\u00a0accountability\u00a0and innovation across the public sector. By making data openly available, we inform better decision-making, help develop new services, and support analysts, researchers,\u00a0journalists\u00a0and others to better understand their areas.\u00a0\u00a0"
+        },
+        {
+            "text": "That\u2019s\u00a0why 12 years ago, we\u00a0established\u00a0Open Data Communities\u00a0(ODC) \u2013 the platform for the\u00a0Ministry of Housing, Communities and Local Government (MHCLG)\u00a0to routinely release its data outputs in fully open,\u00a0accessible\u00a0and reusable forms.\u00a0\u00a0"
+        },
+        {
+            "text": "But today, ODC is changing.\u00a0This blog post talks about how\u00a0it\u2019s\u00a0evolving and why.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u00a0exactly\u00a0is Open Data Communities?\u00a0"
+        },
+        {
+            "text": "ODC is\u00a0comprised\u00a0of\u00a03\u00a0main features:\u00a0"
+        },
+        {
+            "text": "Open Data Communities is now evolving to reflect how users today access and use open data, and to prepare the ground for future opportunities.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is changing?\u00a0"
+        },
+        {
+            "text": "Here\u2019s\u00a0what\u2019s\u00a0changing in ODC and why.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "New look\u00a0and a new URL\u00a0"
+        },
+        {
+            "text": "When work is complete,\u00a0https://opendatacommunities.org/\u00a0will redirect users to\u00a0https://open-data.communities.gov.uk/, a new purpose-built platform hosted on MHCLG-owned, robust and scalable cloud infrastructure.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "New datasets in machine-readable format\u00a0"
+        },
+        {
+            "text": "We will begin by publishing one of our most popular datasets \u2013 the Indices of Multiple Deprivation \u2013 as CSV on the Web (CSVW). Publishing data in CSVW is part of our commitment to using open web standards, ensuring MHCLG data is consistent and linkable across government.\u00a0The\u00a0government\u00a0guidance on open standards\u00a0states that:"
+        },
+        {
+            "heading": 3,
+            "text": "New service: Get Energy Performance Data\u00a0"
+        },
+        {
+            "text": "EPC data \u2013\u00a0information that shows how\u00a0energy\u00a0efficient a building is \u2013\u00a0is another popular offering from the department. The EPC register team will  now take ownership of EPC open data and build a new service. The service will have an improved user experience alongside reliable, quality data. This change reflects the value and importance of EPC data across both the public, private and third sectors. The team is working to build,\u00a0test\u00a0and deploy the new service, and in the interim, we will continue to signpost users to the existing tool from our new homepage.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Linked Data Mart to be deprecated\u00a0"
+        },
+        {
+            "text": "The Linked Data Mart (PublishMyData)\u00a0is being retired.\u00a0Linked Data Mart was a platform that focused on linked data and semantic querying, aimed  primarily at users comfortable with specialist data tooling.\u00a0After much research and evaluation, we\u00a0identified\u00a0that it was no longer providing the value for money and quality data required by our users. Interviews with users and analysis of usage statistics showed us that very few users used the specialist\u00a0linked\u00a0data tooling, preferring instead to download raw data to transform and analyse\u00a0elsewhere\u00a0such as\u00a0with\u00a0Power\u00a0BI.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why are we making these changes now?\u00a0"
+        },
+        {
+            "text": "Over the last 12 years, our users and their needs have changed significantly. Our user base now includes open data specialists, public sector analysts, private sector data consumers, academics, journalists and much more \u2013 all with\u00a0different levels\u00a0of technical\u00a0expertise\u00a0and methods for using data.\u00a0\u00a0"
+        },
+        {
+            "text": "Through our user research and an impact assessment, we found a clear preference for simple, accessible formats that can be used at scale without specialist tools. New tools, such as Power BI, allow users to transform and present data into compelling reports and dashboards.\u00a0"
+        },
+        {
+            "text": "New initiatives, notably\u00a0MHCLG\u2019s\u00a0Digital Planning Programme, are  demonstrating\u00a0how standardised data will underpin more efficient and  effective services.\u00a0Arguably, the\u00a0rapid growth of AI will inevitably fuel demand and opportunities for data to be re-used in ways we cannot predict or imagine.\u00a0"
+        },
+        {
+            "text": "Prioritising providing simpler formats lets us make a stronger case for value for money. We want to focus resources on formats that are accessible for the widest possible range of users\u00a0and meet modern\u00a0open data standards. By building a sustainable foundation, we create an opening for the future development of new features, where\u00a0there\u2019s\u00a0a clear user need.\u00a0"
+        },
+        {
+            "text": "We\u00a0don\u2019t\u00a0see this as an end, but a deliberate new beginning. We are taking a user-led approach to open data within the department, with a hope that Open Data Communities can evolve in response to real demand.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "When are these changes happening?\u00a0"
+        },
+        {
+            "text": "The Analytical Data as a Service team is hard at work ensuring a smooth transition, and we\u00a0anticipate\u00a0these changes being completed by the end of March 2026. Once the redirection and new datasets are live,\u00a0we\u2019ll\u00a0share another blog post walking through the changes.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Let us know what you think\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0excited about the future of the department\u2019s open data offering. We would love to hear your feedback on these changes and any other features of Open Data Communities.\u00a0Contact us at:\u00a0odc@communities.gov.uk."
+        }
+    ]
+}
