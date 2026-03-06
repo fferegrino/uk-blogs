@@ -1,0 +1,75 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/03/06/how-we-retired-a-web-application-to-make-gov-uk-simpler-to-run/",
+    "title": "How we retired a web application to make GOV.UK simpler to run",
+    "authors": [
+        "Andy Sellick, Senior Frontend Developer, GOV.UK"
+    ],
+    "categories": [
+        "Product changes",
+        "What we're working on"
+    ],
+    "pub_date": "2026-03-06T12:56:27+00:00",
+    "content": [
+        {
+            "text": "We\u2019ve just finished removing GOV.UK\u2019s dependence on Static, an application that was previously part of every page on the GOV.UK website."
+        },
+        {
+            "text": "As the Blueprint for modern digital government makes clear, improving GOV.UK is a core part of our remit at the Government Digital Service (GDS). Retiring Static has made GOV.UK\u2019s tech stack simpler and more streamlined. It also saves time for developers, and means making changes to GOV.UK will be much easier than before."
+        },
+        {
+            "text": "Read on to learn more about why we did this work, how we did it, and the benefits it brings."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019ve retired Static"
+        },
+        {
+            "text": "Every public GOV.UK web page is created by one of 8 applications. For example, the homepage is served by one application, the search pages by another. Static and a tool named Slimmer were created in 2011 to ensure that all of these pages had a common header and footer. Static (a Rails application) housed these elements: the application provided the page content, and Slimmer glued it all together."
+        },
+        {
+            "text": "For many years, Static also housed other common elements, such as frontend code, styles and scripts, and served features such as emergency banners that could appear on every page of the site. This reduced code duplication."
+        },
+        {
+            "text": "There were good reasons for building the GOV.UK website in this way, but as time passed it became clear that there was limited value in continuing to support Static and Slimmer. For instance, they did not work in the same way as the rest of our code, and were more complex for our developers to work with. Retiring Static and Slimmer would save time and effort and allow us to make improvements to GOV.UK more easily."
+        },
+        {
+            "heading": 2,
+            "text": "A gradual change"
+        },
+        {
+            "text": "In 2017, we created govuk_publishing_components (our components package or \u201cgem\u201d), designed specifically to house our frontend components \u2013 reusable parts of the GOV.UK website like buttons and form elements. This allowed us to set new standards for frontend development and to improve the developer experience. It also meant we were able to move things out of Static into other places. The header and footer themselves were turned into components and moved to our components gem."
+        },
+        {
+            "text": "More recently, error pages were moved to Frontend, one of our largest applications. Banners were also moved into a custom package, and served directly from applications. The things that we needed Static for were gradually disappearing."
+        },
+        {
+            "heading": 2,
+            "text": "Making the move"
+        },
+        {
+            "text": "A reorganisation of our teams within GDS\u2019s GOV.UK directorate spurred us on to retire Static, as instead of teams being focussed on a particular task, they now have responsibility for a specific area of the website."
+        },
+        {
+            "text": "We planned and tested our approach with one of our smallest applications that serves some of our least-visited web pages. Technically the work wasn\u2019t too complicated \u2013 the GOV.UK header and footer were already components that could be called directly from the applications themselves, and some assets normally provided by Static had to be called directly."
+        },
+        {
+            "text": "We had to apply some fixes along the way. Our visual styles (CSS) had for many years been compiled in a certain way across Static and our applications, and we had to make adjustments to combine them together in one place for the first time."
+        },
+        {
+            "text": "A lot of testing was required as we worked to apply this change to the remaining 7 applications. There are nearly 200 different page types on GOV.UK, each with many variations; we had to ensure that every one was still appearing as it had before, both on desktop and mobile, and on the various browsers we need to support."
+        },
+        {
+            "heading": 2,
+            "text": "The final step"
+        },
+        {
+            "text": "The last application to rely on Static was switched over at the start of December 2025. For visitors to the GOV.UK website, nothing has really changed \u2013 it should still look the same, work in the same way, and provide the same content."
+        },
+        {
+            "text": "But a lot has changed for us. A large application no longer needs to be maintained and understood \u2013 new starters and existing developers don\u2019t have to learn how it works. We can make improvements much more easily, our developer experience has improved, and we can remove a lot of complexity."
+        },
+        {
+            "text": "If you\u2019re working with a similar piece of software, we hope this blog post has shown that even complex parts of a system can be improved or removed \u2013 with enough time and effort."
+        }
+    ]
+}
