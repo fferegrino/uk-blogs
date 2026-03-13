@@ -1,0 +1,72 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/03/13/how-gds-and-dwp-worked-together-to-improve-gov-uk-one-login/",
+    "title": "How GDS and DWP worked together to improve GOV.UK One Login",
+    "authors": [
+        "Natalie Jones OBE, Director of Digital Identity, Government Digital Service",
+        "Cheryl Stevens MBE, Director for Customer Contact, Fraud, Error and Debt, Department for Work and Pensions"
+    ],
+    "categories": [
+        "GOV.UK One Login",
+        "Ways of working"
+    ],
+    "pub_date": "2026-03-13T11:03:34+00:00",
+    "content": [
+        {
+            "text": "GOV.UK One Login already gives over 16.6 million people one account to access over 220 government services. Last month, the Government Digital Service (GDS) and the Department for Work and Pensions (DWP) took an important step forward in partnership to make it easier for more people to access those services."
+        },
+        {
+            "text": "The roadmap for modern digital government commits us to strengthening digital public infrastructure and joining up services across departments, and this is exactly what we are doing. This blog post shares a practical example of that commitment in action: how GDS and DWP have worked together to make proving your identity online, to access government services, easier for more people."
+        },
+        {
+            "heading": 2,
+            "text": "Making it easier to prove who you are online"
+        },
+        {
+            "text": "We are focussed on making GOV.UK One Login as inclusive as possible and that means meeting people where they are in their lives. You can already prove your identity via the GOV.UK One Login app, by answering security questions online, or by visiting a Post Office."
+        },
+        {
+            "text": "However, we know these routes will not work for everyone and we are committed to continuing to broaden the ways you can prove your identity over time. For the past year or so we have been focussed on making better use of the data the government might already hold about people and using that information to help people prove who they are."
+        },
+        {
+            "text": "This work has created additional security questions based on information DWP already holds. These are known as Knowledge Based Verification (KBV) questions, which are questions using information only the user should know."
+        },
+        {
+            "text": "In mid-February 2026, we went live with those questions. If you are unable to use the GOV.UK One Login app route, perhaps because you do not have your photo ID available, you can now use these additional security questions instead."
+        },
+        {
+            "text": "This is just the start. GDS and DWP are already working together to increase the variety of questions available, so that even more people can prove their identity online in a way that works for them."
+        },
+        {
+            "heading": 2,
+            "text": "Joining up government to make things easier for the public"
+        },
+        {
+            "text": "This is where our partnership becomes particularly powerful. Whether you are renewing your driving licence, accessing an HMRC service, or using any other government service that uses GOV.UK One Login, if DWP holds relevant information about you, you can use it to prove who you are."
+        },
+        {
+            "text": "Early results are promising, with more people successfully completing the identity verification process online. This is an important step towards greater digital inclusion. This matters to both of our organisations: GOV.UK One Login should be a front door open to everyone, regardless of their circumstances. It supports the government\u2019s aim to ensure that no one is left behind as government services move online."
+        },
+        {
+            "text": "By making it easier to prove your identity now, we are opening the door to even more convenient ways to access government services in the future."
+        },
+        {
+            "heading": 2,
+            "text": "Working together to keep improving"
+        },
+        {
+            "text": "Our collaboration is a practical example of departments joining up to strengthen digital public infrastructure and deliver better services for the public. As anyone working in this space knows, joining up systems across different government departments is complex work."
+        },
+        {
+            "text": "The teams encountered some challenges before the service went live. The strong relationship between our two teams meant those issues were worked through openly and constructively, as one team with a shared goal. This collaborative approach will continue as we refine the service."
+        },
+        {
+            "text": "We will be monitoring how the service performs over the coming weeks and months, including how many people are successfully proving their identity using this new method. We will use what we learn to keep improving the experience."
+        },
+        {
+            "text": "We are committed to expanding the service so that more people can access the government services they need, quickly and easily, from wherever they are. We will continue expanding the ways people can confirm their identity online without extra steps."
+        },
+        {
+            "text": "If you have other types of information held by DWP, you may soon be able to use that to prove your identity too. The work of making GOV.UK One Login accessible to everyone continues, and we are proud to be doing that work together. We look forward to sharing more progress with you soon."
+        }
+    ]
+}
