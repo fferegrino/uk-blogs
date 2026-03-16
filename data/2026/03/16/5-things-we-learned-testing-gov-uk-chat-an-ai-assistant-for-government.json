@@ -1,0 +1,108 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/03/16/5-things-we-learned-testing-gov-uk-chat-an-ai-assistant-for-government/",
+    "title": "5 things we learned testing GOV.UK Chat: an AI assistant for government",
+    "authors": [
+        "Sam Dub, Lead Product Manager, GOV.UK AI, GDS",
+        "Sharon McDonald, Lead User Researcher, GDS"
+    ],
+    "categories": [
+        "Data",
+        "User insights",
+        "What we're working on"
+    ],
+    "pub_date": "2026-03-16T13:34:23+00:00",
+    "content": [
+        {
+            "text": "Over the last 18 months, we\u2019ve run 2 public pilots of GOV.UK Chat, an AI assistant for GOV.UK built at the Government Digital Service (GDS). More than 10,000 users asked 26,000 questions about government services, from tax to benefits to visas. We measured accuracy, reliability, speed, safety and user trust."
+        },
+        {
+            "text": "Together, these pilots represent one of the largest user research exercises GDS has ever conducted, and the government\u2019s biggest public test of generative AI to date. Based on the findings, we feel confident to begin opening up access more widely, starting by making GOV.UK Chat available to all users of the GOV.UK app."
+        },
+        {
+            "heading": 2,
+            "text": "5 headline findings from the pilots"
+        },
+        {
+            "heading": 3,
+            "text": "1. GOV.UK Chat offers users a faster way to get answers"
+        },
+        {
+            "text": "Users told us GOV.UK Chat saves them time. Participants said that GOV.UK Chat\u2019s answers helped them decide what to do next, providing clear, concise answers, relevant links, and step-by-step lists \u2013 for some, saving them a phone call to a department\u2019s call centre."
+        },
+        {
+            "text": "In a follow-up survey of GOV.UK app users, 73% found GOV.UK Chat useful, and 64% were satisfied with GOV.UK Chat. We\u2019re pleased with these numbers, and think we can increase them further with improvements in areas like answer speed."
+        },
+        {
+            "heading": 3,
+            "text": "2. We\u2019ve made strong progress on increasing accuracy and answer quality"
+        },
+        {
+            "text": "Thanks to the work of our data scientists, and advances in the underlying AI models, we\u2019ve been able to increase answer accuracy scores from 76%, our earliest benchmark, to our latest figure of 90% accuracy across all topics."
+        },
+        {
+            "text": "We assess answers using a combination of subject matter experts, and automated evaluation tools. Chat exclusively draws on guidance published on GOV.UK, and our assessors only rate an answer as \u2018accurate\u2019 if it meets all the standards of published content. In cases of \u2018inaccuracy\u2019, it\u2019s often that GOV.UK Chat is able to answer some but not all aspects of a user\u2019s question. Overall, these accuracy scores are in line with industry benchmarks, and for government-related questions GOV.UK Chat scores higher than widely-used consumer AI assistants."
+        },
+        {
+            "text": "We want to be straightforward with users that, like all AI assistants, GOV.UK Chat can make mistakes. Users expect accuracy warnings, which are used across the industry, and the research showed they appreciated the features we\u2019ve built that make it easy to double-check answers at source."
+        },
+        {
+            "heading": 3,
+            "text": "3. We have increased confidence in operating public-facing Large Language Models (LLMs) reliably at scale"
+        },
+        {
+            "text": "During the two pilots, there were 508 attempts to \u2018jailbreak\u2019 GOV.UK Chat. These are attempts to trick an AI system to provide an inappropriate or harmful response. This is an ongoing risk we will need to manage, but the safety guardrails we\u2019ve put in place successfully prevented all these attempts. You can read more about our work to prevent jailbreaking in our previous blog post on the subject."
+        },
+        {
+            "text": "At a technical level, the system coped comfortably with demand, which bodes well for our ability to scale it up. We are now using Amazon\u2019s Bedrock platform and Anthropic\u2019s Claude models to power the latest version of GOV.UK Chat. The system is built to allow us to upgrade to new models as they become available, and this will form part of the ongoing operation and iteration of the service."
+        },
+        {
+            "heading": 3,
+            "text": "4. We\u2019re improving how we handle questions we can\u2019t answer"
+        },
+        {
+            "text": "By design, GOV.UK Chat won\u2019t provide answers outside the scope of government guidance, and that means there will always be occasions when users\u2019 questions can\u2019t be answered. However, in the pilot on the website, we noticed instances where users phrased questions in a way that GOV.UK Chat couldn\u2019t answer with confidence, and so in some cases didn\u2019t receive an answer at all. To fix this, we introduced the ability for Chat to ask users clarifying questions where the original questions are ambiguous. Our answer rate for in-scope questions is now 88% with plans to improve further."
+        },
+        {
+            "text": "We also found some people wanted to speak to an advisor with access to their personal information, which isn\u2019t something we currently support. Longer term, we\u2019re working on being able to hand users over to departmental customer support where needed, connecting users \u2013 within the same interface \u2013 to the right person to answer their question."
+        },
+        {
+            "heading": 3,
+            "text": "5. Users want answers even faster"
+        },
+        {
+            "text": "When designing systems like GOV.UK Chat with LLMs, there\u2019s a trade-off right now between speed and accuracy. This year, the latest versions of frontier models have been more powerful but slower than previous versions."
+        },
+        {
+            "text": "For us, accuracy is the most important thing, and consequently GOV.UK Chat responses are slower than we\u2019d ideally like; an average 10.7 seconds for an answer. We found this to be within acceptable bounds for users of GOV.UK Chat, and still amounts to a time saving. However, in testing, satisfaction increased when we simulated faster answer speeds."
+        },
+        {
+            "text": "As a team, we\u2019ll be looking at ways to increase answer speed in future versions without sacrificing answer quality. We\u2019re considering implementing answer streaming, where the first part of an answer appears to users before the answer is fully written. This tested well with users, but requires redesigning how some of our safety guardrails work, so will be a substantial bit of work for the team to implement."
+        },
+        {
+            "heading": 2,
+            "text": "Our research methods"
+        },
+        {
+            "text": "For the first pilot, we recruited 10,136 users who asked 23,838 questions of a web version of GOV.UK Chat. Most recently, in the GOV.UK app, we used the iOS TestFlight system to give 641 people access to a version of the GOV.UK app with GOV.UK Chat integrated into it; these users asked 2,670 questions in 4 weeks."
+        },
+        {
+            "text": "To generate the insights above, and many more, the team applied a mix of qualitative and quantitative user research methods to understand how GOV.UK Chat was used."
+        },
+        {
+            "text": "For our web pilot, we used 6 methods:"
+        },
+        {
+            "text": "In the app study, we focussed on areas where we\u2019d made significant changes between the pilots:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "Our aim is to provide a joined-up chat experience for government and make it available wherever users need it; you can read more about our vision for GOV.UK Chat in our December blog post. The evidence from our pilots is clear: GOV.UK Chat simplifies interaction with government, providing clear and helpful information to users, and saving them time. We\u2019re keen to make GOV.UK Chat publicly available as soon as possible, and continue to improve it based on feedback."
+        },
+        {
+            "text": "GOV.UK Chat will be released first to users of the GOV.UK app, and later in 2026, we\u2019ll start testing the best way to make it available across the GOV.UK website. Alongside this work, we\u2019re continuing to experiment with agentic AI, going beyond answers to use AI to help get things done on the user\u2019s behalf. All this work will be tracked via the new Roadmap for modern digital government."
+        }
+    ]
+}

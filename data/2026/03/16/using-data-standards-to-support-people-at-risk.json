@@ -1,0 +1,75 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2026/03/16/using-data-standards-to-support-people-at-risk/",
+    "title": "Using data\u00a0standards to support people at risk\u00a0",
+    "authors": [
+        "Firoze Salim"
+    ],
+    "categories": [
+        "Data Standards",
+        "Data Strategy",
+        "Uncategorized"
+    ],
+    "pub_date": "2026-03-16T13:50:12+00:00",
+    "content": [
+        {
+            "text": "Identifying\u00a0and supporting people at risk of poor health, social, or economic outcomes is a complex task.\u00a0It requires coordination across\u00a0a range of public sector organisations. Better data standards are essential for identifying people at risk of\u00a0becoming\u00a0vulnerable\u00a0and ensuring they receive the right support, at the right time.\u00a0"
+        },
+        {
+            "text": "The public sector is increasingly focused on delivering more preventative and personalised services, from\u00a0identifying\u00a0emerging needs earlier,\u00a0to targeting effective health and wellbeing interventions. Local authorities, healthcare providers, emergency\u00a0services\u00a0and central government departments must work together to understand risks and provide\u00a0timely\u00a0support. Better use of data is critical to improving outcomes, particularly for those most at risk.\u00a0"
+        },
+        {
+            "text": "Why data standards matter\u00a0"
+        },
+        {
+            "text": "Public services rely on data to\u00a0identify\u00a0risk,\u00a0allocate\u00a0resources, and enable early intervention. However, public sector data has historically been fragmented across organisations, making it difficult to build a complete picture of a person's needs. For vulnerable groups, this fragmentation can have\u00a0serious consequences: individuals may need to repeatedly provide their story, agencies may miss safeguarding risks, and support may be delayed or inconsistent.\u00a0"
+        },
+        {
+            "text": "Data standards address these issues by creating common definitions, so data means the same thing to everyone. A shared language enables systems to share information securely, supporting consistent governance and data protection practices, and helping teams make better decisions.\u00a0"
+        },
+        {
+            "text": "The Vulnerabilities Working Group\u00a0"
+        },
+        {
+            "text": "To tackle these challenges,\u00a0the\u00a0Government Digital Service (GDS) has established\u202fa\u202fVulnerabilities Working Group\u00a0under the\u202fData Standards Authority\u202f(DSA),\u202fin conjunction with\u202fiStandUK, a Tameside Council programme that promotes data standards supporting efficiency and transformation of local public services.\u00a0"
+        },
+        {
+            "text": "The\u00a0group is developing common data standards that enable better coordination across public services, helping agencies\u00a0identify\u00a0risk earlier and respond more effectively. It brings together representatives from central government, local authorities, NHS England, devolved administrations, and external partners.\u00a0"
+        },
+        {
+            "text": "The group focuses on:\u00a0"
+        },
+        {
+            "text": "The SAVVI framework\u00a0"
+        },
+        {
+            "text": "The DSA and SAVVI have\u00a0established\u00a0the\u00a0group\u00a0to review and refine concept models, logical data models, and standards ahead of formal endorsement. The group is also developing a taxonomy of risk factors to provide a shared language for\u00a0identifying\u00a0vulnerable people.\u00a0"
+        },
+        {
+            "text": "The\u00a0group\u00a0works closely with the DSA's Domain Expert Group for Core Attributes of a Person to develop definitions and standards for commonly recorded data, such as name and date of birth. The outputs of both groups will inform the development of standardised APIs, enabling systems across organisations to exchange data securely.\u00a0"
+        },
+        {
+            "text": "The SAVVI approach has already delivered real benefits for at\u2011risk people in Scotland. The\u00a0Improvement Service\u00a0used SAVVI to\u00a0identify\u00a0families at\u00a0high risk\u00a0of poverty and connected\u00a0them with financial support before they reached crisis point.\u00a0This\u00a0demonstrates\u202fhow better data sharing can help councils intervene earlier, preventing unnecessary hardship while using resources more efficiently.\u202f\u00a0\u00a0"
+        },
+        {
+            "text": "Balancing intervention with privacy and trust\u00a0"
+        },
+        {
+            "text": "Working with vulnerability data raises significant ethical and legal challenges.\u00a0The Data Protection Act 2018\u202fand\u202fUK GDPR\u202fensure all personal data held by government is handled lawfully,\u00a0fairly,\u00a0and safely.\u00a0"
+        },
+        {
+            "text": "The Office of the Chief Digital Officer (OCDO)\u00a0in\u00a0Government Digital Service\u00a0has\u00a0published the\u202fPrinciples for Securing Personal Data in Government Services,\u00a0giving practical advice for teams working with large, potentially sensitive datasets. The principles focus on building privacy and security in from the start, and set clear standards for who can access data, how much should be collected, and how it can be shared safely, helping\u00a0maintain\u00a0public trust while allowing data to support vulnerable people effectively.\u00a0"
+        },
+        {
+            "text": "GDS has also developed an information governance playbook, inspired by the SAVVI Information Governance Framework. This will be published shortly and tested through vulnerability use cases, ensuring better data sharing does not undermine privacy or trust.\u00a0"
+        },
+        {
+            "text": "Towards joined-up public services\u00a0"
+        },
+        {
+            "text": "The government's work on vulnerability data standards reflects a shift towards preventative and person-centred services. Standardised data models and interoperable systems aim to enable earlier identification of risk, reduce duplication, improve coordination of interventions, and\u00a0provide\u00a0better insight into service effectiveness. As the SAVVI and DSA partnership matures, data standards are likely to become foundational infrastructure for safeguarding and supporting vulnerable citizens across the public sector.\u00a0"
+        },
+        {
+            "text": "To find out more about SAVVI or contribute to the Vulnerabilities Working Group or Domain Expert Group, visit the SAVVI\u202fwebsite, sign up to the\u202fSAVVI mailing\u202flist\u00a0or contact the Data Standards Authority at\u00a0data-standards-authority@dsit.gov.uk.\u00a0"
+        }
+    ]
+}

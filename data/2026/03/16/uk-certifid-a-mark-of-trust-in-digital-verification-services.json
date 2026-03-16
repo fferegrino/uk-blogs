@@ -1,0 +1,105 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/03/16/uk-certifid-a-mark-of-trust-in-digital-verification-services/",
+    "title": "UK CertifID: a mark of trust in digital verification services",
+    "authors": [
+        "Livia Ralph",
+        "Graham Francis"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-03-16T14:37:39+00:00",
+    "content": [
+        {
+            "text": "The Data (Use and Access) Act \u2013 among other things \u2013 provides a legal footing for what will become the face of the UK\u2019s trusted digital verification ecosystem: the UK CertifID trust mark. "
+        },
+        {
+            "text": "In this blog post, we\u2019ll share information about UK CertifID. We\u2019ll also explain who the trust mark is for, how it was developed, how digital verification services will be able to use it, and when it will become available."
+        },
+        {
+            "heading": 2,
+            "text": "Why a trust mark"
+        },
+        {
+            "text": "If you\u2019re a regular reader of our blog, you\u2019re likely to be \nfairly well steeped in the detail of our trust framework. You may have learned to tell your OSPs from your ASPs, and have a detailed understanding of our version numbering system."
+        },
+        {
+            "text": "Most people aren\u2019t like that. People want digital verification services\u00a0they use to be secure, privacy-preserving and convenient, but they don\u2019t necessarily want or need to understand all the technical detail behind them."
+        },
+        {
+            "text": "This is where the UK CertifID trust mark steps in. You\u2019ll be familiar with trust marks from lots of other places;\u00a0symbols like\u00a0the Red Tractor\u00a0for food,\u00a0Gas Safe\u00a0for gas engineers and\u00a0UKCA\u00a0for things like toys, lifts and phones."
+        },
+        {
+            "text": "Our trust mark is like that, but for digital verification services. It will make it easier for people and businesses to instantly recognise digital verification services that meet the government\u2019s requirements and that are listed on the register of digital verification services."
+        },
+        {
+            "text": "Our intention is that wherever the UK CertifID trust mark is displayed, people and businesses can have increased confidence that a service is safe, secure and is backed by government standards."
+        },
+        {
+            "text": "Use of the trust mark by eligible digital verification service (DVS) providers will be optional \u2013 but we hope it will become widely adopted, as more and more people see the value of it."
+        },
+        {
+            "heading": 2,
+            "text": "Building trust in the trust mark"
+        },
+        {
+            "heading": 3,
+            "text": "Why we chose \u201cUK CertifID\u201d"
+        },
+        {
+            "text": "We\u2019ve spent a while working behind the scenes to develop the UK CertifID trust mark brand. Our success criteria were that the brand name and design should be clear, trustworthy and memorable. "
+        },
+        {
+            "text": "The chosen name and branding were the ones that tested most successfully against those criteria with a nationally representative group of 151 people. "
+        },
+        {
+            "text": "UK CertifID is a portmanteau of two important concepts for digital verification services:"
+        },
+        {
+            "heading": 3,
+            "text": "Who will be able to use it, and when"
+        },
+        {
+            "text": "The trust mark will only be able to be used by registered digital verification service providers who are certified against the recently pre-published 1.0 (or later) publication of the trust framework. Providers will also need to agree to and sign the terms and conditions of use before they use the trust mark."
+        },
+        {
+            "text": "You will be able to find official information on rules of use on GOV.UK shortly."
+        },
+        {
+            "text": "Certification against 1.0 trust framework is not available yet and timings for this will be announced in due course."
+        },
+        {
+            "heading": 3,
+            "text": "Providing ways to check its real"
+        },
+        {
+            "text": "Whenever you see the UK CertifID trust mark within a service, it should consist of two parts:"
+        },
+        {
+            "text": "The unique number will provide one way for users to double-check its authenticity."
+        },
+        {
+            "heading": 3,
+            "text": "Action against unauthorised use"
+        },
+        {
+            "text": "OfDIA will also be taking an active approach to protecting the trust mark from unauthorised use."
+        },
+        {
+            "text": "We have put in place a portfolio of protections, including intellectual property protections (the trust mark is a registered trademark), protections under the Data (Use and Access) Act 2025 and rules in the trust framework."
+        },
+        {
+            "text": "We\u2019ll publish more details on our enforcement approach in due course."
+        },
+        {
+            "heading": 2,
+            "text": "Developing practical guidelines for use"
+        },
+        {
+            "text": "You won\u2019t see the trust mark in the real world just yet. We\u2019re finishing the development of guidelines to ensure that when it is, it will be used clearly and consistently."
+        },
+        {
+            "text": "We\u2019ll publish more information on GOV.UK and on this blog when the trust mark is available."
+        }
+    ]
+}
