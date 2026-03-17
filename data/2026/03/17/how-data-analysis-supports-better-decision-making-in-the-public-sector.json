@@ -1,0 +1,113 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/03/17/how-data-analysis-supports-better-decision-making-in-the-public-sector/",
+    "title": "How data analysis supports better decision-making in the public sector",
+    "authors": [
+        "Olviya Silvary, Fast Stream Data Analyst"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2026-03-17T10:15:48+00:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Olviya Silvary"
+        },
+        {
+            "heading": 2,
+            "text": "What do data analysis teams do?"
+        },
+        {
+            "text": "The data analysis team is part of the Digital, Data and Technology profession within the Department for Business and Trade (DBT). As a data enabling team we serve the whole department, and our objectives are to:"
+        },
+        {
+            "text": "The team objectives align with the role of a data analyst."
+        },
+        {
+            "heading": 2,
+            "text": "My insights into data analysis in government"
+        },
+        {
+            "text": "I recently joined the team as a fast streamer, and the last 5 months have revealed just how much work data analysts do across the department. I have worked on a wide range of tasks, from engaging with support tickets to updating a dashboard for our service. I\u2019ve even had opportunities outside of our usual work, such as analysing research for an automated method of sentiment analysis."
+        },
+        {
+            "text": "I have noticed that when people don\u2019t fully understand what data analysis teams do, they don\u2019t make full use of their data. The challenge for us is to spread the word about data analysts' work and the benefit it brings to teams, so we can help teams to work at their best."
+        },
+        {
+            "heading": 2,
+            "text": "Impacts of data analysis"
+        },
+        {
+            "text": "Data analysts are involved in a wide range of work. The core of our profession is supporting organisational objectives by manipulating and communicating data. Below are 3 recent or ongoing examples of data analysis impact across DBT."
+        },
+        {
+            "text": "Alongside our regular work and projects, we run a support system for users working with Data Workspace. This service enables safe data sharing, collaboration and storage."
+        },
+        {
+            "heading": 3,
+            "text": "Supporting major departmental change"
+        },
+        {
+            "text": "Data analysis played a central role in DBT\u2019s Windows 11 rollout. Data about thousands of staff devices was stored in different places, recorded manually and often inconsistent. The project team needed reliable information to plan and deliver a smooth national laptop replacement programme."
+        },
+        {
+            "text": "Data analysts cleaned and verified the data, matched every user to their nearest office, and built dashboards to track weekly progress. They also analysed device performance to identify which laptops genuinely needed replacing. This work turned an unwieldy dataset into actionable insight, making it possible to schedule replacements accurately and spot risks early."
+        },
+        {
+            "text": "To deliver personalised guidance to thousands of staff without exposing irrelevant data, the team created a dashboard that filtered data for each user. This work supported a smooth transition from Windows 10 to 11 across DBT by This removed the burden of manual effort from the project team in communicating information to people in the department."
+        },
+        {
+            "heading": 3,
+            "text": "Upskilling across the department"
+        },
+        {
+            "text": "As an enabling team, we also help others to do data analysis tasks independently. We provide training resources and run live bootcamps on SQL and dashboarding tools. As a result, people across DBT now solve their own data challenges, create dashboards, and make faster, more confident decisions. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Improving decision making with automated monitoring"
+        },
+        {
+            "text": "The Economic Shocks team monitors events that have negative impacts on industries, local economies and supply chains. Their existing monitoring process required piecing together data manually, which made it hard to get a quick, accurate view of where vulnerabilities were emerging."
+        },
+        {
+            "text": "Our analysts created a dashboard to improve monitoring business and sector vulnerabilities, creating a score for the economic shocks team to better assess priorities. Data and evidence were pulled together into one central source, which could be deployed in times of cross-sectoral shocks. With this work, we enabled the team to better analyse any vulnerabilities and improved their ability to respond to economic shocks."
+        },
+        {
+            "heading": 2,
+            "text": "Getting more value from your data"
+        },
+        {
+            "text": "Hopefully, this has prompted you to think about your data. Perhaps you have data scattered across 6 different sheets rather than in one secure location. You may have all the data in front of you but find there\u2019s little value because you\u2019re unsure what you\u2019re looking at. Even if you have visualised the data, it may not tell you the right story."
+        },
+        {
+            "text": "Good data analysis begins with understanding your data. That\u2019s where a data analyst can come in. They can support you if you know what you need to get from your data but you\u2019re not sure how to do it. Even if you know you need something from your data, but not what it is, data analysts can help you figure that out."
+        },
+        {
+            "text": "A data analysis team can help you consider the ways you currently handle data and how you can:"
+        },
+        {
+            "heading": 2,
+            "text": "How teams can work with data analysts"
+        },
+        {
+            "text": "As a DBT enabling team, we work with a lot of product and policy teams on developing a system for their data, whether that\u2019s storing, analysing or communicating it. \u00a0"
+        },
+        {
+            "text": "Sometimes a team might need a more technical solution. For example, their data isn\u2019t internal or doesn\u2019t have a simple structure. Data engineers within Digital, Data and Technology, can set up the right data infrastructure if a no-code platform does not meet a policy team requirement. Data analysts will then step in to carry out the analytics work."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "If you are thinking about using your data more after reading this blog, your data analysis team is going to be your most valuable resource."
+        },
+        {
+            "text": "We don\u2019t just do the analysis. We examine the data from its source and connect you to the right teams for each part of your data journey."
+        },
+        {
+            "text": "We are also keen to learn from others. If you\u2019re a data analyst or someone in government who has seen the impact of good data analysis, we\u2019d love to hear your experiences in the comments. Your insights can influence future practice and inspire more teams to use their data with confidence."
+        }
+    ]
+}

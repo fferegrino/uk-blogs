@@ -1,0 +1,158 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2026/03/17/doing-content-first-design-at-defra-part-one/",
+    "title": "Doing content-first design at Defra \u2013 part one",
+    "authors": [
+        "Laura Parker",
+        "Daniel Da Silveira"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra Forms",
+        "Digital transformation",
+        "Interaction design",
+        "User centred design"
+    ],
+    "pub_date": "2026-03-17T12:24:53+00:00",
+    "content": [
+        {
+            "text": "In the first of a two-part post, content designer Laura Parker and senior interaction designer Daniel Da Silveira explain how and why they took a content-first approach to creating a form building tool."
+        },
+        {
+            "text": "The Defra Forms team created the Defra Form Designer (DFD), a no-code form building tool that allows Defra staff to build and publish forms on GOV.UK."
+        },
+        {
+            "text": "As we\u2019re a busy team, we were looking for ways to speed up the prototyping process for new features and minimise the number of iterations in development."
+        },
+        {
+            "text": "Inspired by a blog post on content-first design, we decided to give it a go."
+        },
+        {
+            "heading": 2,
+            "text": "Defining content-first design"
+        },
+        {
+            "text": "Emma Aldington, staff content designer at eBay said it best:"
+        },
+        {
+            "text": "\u00a0When content comes first, content designers can:"
+        },
+        {
+            "heading": 2,
+            "text": "Why we put words in boxes"
+        },
+        {
+            "text": "It\u2019s tempting to start with a visual layout of an interface with placeholder text before knowing what the message is."
+        },
+        {
+            "text": "You can spin up a wireframe easily without content using software like Mural and Figma. Even design systems, although we love them, dictate what the content will be sometimes."
+        },
+        {
+            "text": "A wireframe is an acceptable design format but can provide the illusion of a finished product. No matter how carefully you explain to stakeholders that a wireframe is a prototyping tool people get attached to the thing you show them."
+        },
+        {
+            "text": "Showing only content (like on a Word document) can be confusing or unexpected. People expect to see something that looks like a screen."
+        },
+        {
+            "text": "And sometimes you need a visual design to get the ball rolling or conversation started."
+        },
+        {
+            "text": "With prototyping tools at your disposal, it may feel like a waste of time focusing on content as a first step. But using only words helped our team to understand the purpose of each interaction."
+        },
+        {
+            "heading": 2,
+            "text": "What changes when we do content-first design?"
+        },
+        {
+            "heading": 3,
+            "text": "The content drives the user experience"
+        },
+        {
+            "text": "We stop talking about \u2018what words go here\u2019 and talk about the purpose of content instead. When content leads, you design for understanding first by testing the message with users before designing the interface."
+        },
+        {
+            "heading": 3,
+            "text": "Content designers get more strategic"
+        },
+        {
+            "text": "We can make changes on a larger scale instead of jumping into a wireframe or prototype and searching for a specific component to edit. Information architecture, content audits and style guides get easier to manage if content is in one place like a Word document.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "The old ways of working change"
+        },
+        {
+            "text": "It opens the door to work differently. Instead of asking a content designer to update screens in Figma, the whole team can work on the content together agnostic of a design tool. People get to see the inner workings of the content design process. How we think, draft and edit our work."
+        },
+        {
+            "text": "Sharing text with stakeholders outside the team is easier too (no login and permission restrictions)."
+        },
+        {
+            "heading": 2,
+            "text": "Choosing when to do content-first design"
+        },
+        {
+            "text": "Make content-first design a priority if you are starting from scratch. See how far you can get without Figma or the prototype kit. You can create a prototype using MS Word alone."
+        },
+        {
+            "text": "Show smaller bits of copy like emails, text messages or in-app messages to users in a Word document (outside of boxes), if you\u2019re not sure it will work for you."
+        },
+        {
+            "text": "It might feel like it\u2019s too late to start doing content-first design if you\u2019re working on a mature service, but there will be opportunities to try it.For example, the page hierarchy and design for the Defra Form Designer was well established before we trialled a content-first design approach. But we made it work within these boundaries."
+        },
+        {
+            "heading": 2,
+            "text": "Designing the content first helps interaction design"
+        },
+        {
+            "text": "Content-first design does not replace interaction design. It\u2019s a way for teams to design work together and speed up the process."
+        },
+        {
+            "text": "Content-first design helps interaction designers by:"
+        },
+        {
+            "heading": 2,
+            "text": "A process for doing content-first design"
+        },
+        {
+            "text": "There are a few ways to do content-first design but here\u2019s a good start."
+        },
+        {
+            "text": "Step 1: Start with a clear goal or problem you want to solve."
+        },
+        {
+            "text": "Step 2: Prioritise content (consider using a priority guide or the step, goal, content method)."
+        },
+        {
+            "text": "Step 3: Organise a crit or co-design session. Agree the priority order before doing anything else."
+        },
+        {
+            "text": "Step 4: Write the content as if you were speaking to someone about it (like a narrative or story). Try not to think about existing design or design system components at this stage. Each page should aim to answer 2 questions:"
+        },
+        {
+            "text": "Step 5: Organise a content crit and get feedback on the words only."
+        },
+        {
+            "text": "Step 6: Do a first round of user research. It is possible to show Word documents to users."
+        },
+        {
+            "text": "Step 7: Build the UI around the content. No more guessing about what components to use or how much space to leave."
+        },
+        {
+            "text": "Step 8: Do a second round of user research with a more established design \u2013 see how it flows now it looks more like an online journey."
+        },
+        {
+            "text": "In part two, Laura and Daniel will show how they implemented this approach for specific features in the form designer."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "Like what you\u2019ve read? Why not leave Laura and Daniel a comment sharing your thoughts on the Defra Form Designer."
+        },
+        {
+            "text": "Check out our\u00a0LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        }
+    ]
+}

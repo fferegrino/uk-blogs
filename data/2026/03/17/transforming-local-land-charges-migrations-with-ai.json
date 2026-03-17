@@ -1,0 +1,71 @@
+{
+    "url": "https://hmlandregistry.blog.gov.uk/2026/03/17/transforming-local-land-charges-migrations-with-ai/",
+    "title": "Transforming local land charges migrations\u00a0with AI",
+    "authors": [
+        "Ibad Kureshi, Lead Data Scientist"
+    ],
+    "categories": [
+        "Data",
+        "Local Land Charges"
+    ],
+    "pub_date": "2026-03-17T09:06:22+00:00",
+    "content": [
+        {
+            "text": "The development of an AI (artificial intelligence) tool by HM Land Registry's Local Land Charges Programme is dramatically accelerating and enhancing the migration of local authority local land charges records."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge"
+        },
+        {
+            "text": "Local authorities across England and Wales hold millions of local land charges records in electronic, paper and other formats. Before this information can be migrated to the central Local Land Charges (LLC) Register, every line of data must be reviewed, checked for accuracy and digitised. It\u2019s time-consuming work that requires large teams and months of effort. But the development of an innovative AI tool promises to change that."
+        },
+        {
+            "heading": 2,
+            "text": "How AI is helping"
+        },
+        {
+            "text": "Developed by HM Land Registry\u2019s Data Science team, our cutting-edge AI tool is transforming how the LLC Programme processes millions of pages of historical local authority data. The AI tool can identify, extract, and structure LLC information faster and more accurately than manual efforts. Using this tool will significantly speed up future LA migrations to our national LLC Register."
+        },
+        {
+            "text": "The London Borough of Newham was the first local authority to have its textual LLC information processed by AI and pass all data quality checks."
+        },
+        {
+            "text": "Initially, the LLC Programme estimated it would take 20 Data Transformation Team colleagues three months to capture Newham\u2019s data. AI completed the task in four weeks with just four people."
+        },
+        {
+            "heading": 2,
+            "text": "Proven results"
+        },
+        {
+            "text": "Quality fails requiring data re-capture are the most expensive and time-consuming tasks within data transformation, adding weeks to a schedule. Our new AI tool has proven it can eliminate these errors. Every batch of Newham\u2019s data successfully passed the data quality assessments first time. Maintaining these rigorous quality standards is critical to ensure customers get the accurate information they expect."
+        },
+        {
+            "heading": 2,
+            "text": "The journey"
+        },
+        {
+            "text": "The development of the new AI tool has taken more than five years of agile working to reach this point. Early AI iterations required a bespoke code for each local authority, running on physical workstations, built to suit each local authority\u2019s requirements. Now the Data Science team has created a more robust, reusable system that operates within HM Land Registry\u2019s secure cloud infrastructure."
+        },
+        {
+            "text": "The AI tool\u2019s reliable extraction of data means typographical errors such as the letter O becoming zero, or the letter I becoming one are a thing of the past. The sophisticated system combines an enhanced Optical Character Recognition engine, a large language model and several bespoke models to enhance accuracy. Strict controls prevent the generation of false information or rogue data like menus becoming part of the dataset, helping to safeguard the integrity of the LLC Register."
+        },
+        {
+            "text": "Only one team member is needed to process the data, before it\u2019s cross-checked by the LLC Data Quality and Assurance team. To date there have been no quality or data completeness failures."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "Following Newham\u2019s success, we have also used our new AI tool with Dacorum Borough Council and Cotswold District Council. The Data Science team has identified other local authorities with similar datasets so they can rerun the tool and continue to enhance its capability such as looking at solutions for handwritten documents and poorly scanned records which can be challenging to digitise."
+        },
+        {
+            "heading": 2,
+            "text": "The future of AI within HM Land Registry"
+        },
+        {
+            "text": "We welcome your comments about this blog in the comments below. Please note that we are unable to discuss individual cases through the comments section and would request that all such queries be directed to our\u00a0Contact Us web form\u00a0where you will receive a response as soon as possible."
+        }
+    ]
+}
