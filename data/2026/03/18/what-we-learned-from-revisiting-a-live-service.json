@@ -1,0 +1,88 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2026/03/18/what-we-learned-from-revisiting-a-live-service/",
+    "title": "What we learned from revisiting a live service",
+    "authors": [
+        "Emma Nicol",
+        "Amy Laurence"
+    ],
+    "categories": [
+        "digital services",
+        "Our services",
+        "User research"
+    ],
+    "pub_date": "2026-03-18T13:16:07+01:00",
+    "content": [
+        {
+            "text": "A digital service that works well at launch may not continue to meet users\u2019 needs in the same way years later. So, when we wanted to better understand how our service was being used today and whether it still supports users as effectively as intended, we went back to basics with a rediscovery."
+        },
+        {
+            "text": "Although the service manual says discovery should happen at the beginning of a project, before any solution is designed or built, discovery is also for challenging assumptions and exploring new or unknown problems.So when a cross-government reform programme developed a new assessment to replace key user journeys within our service, we saw it as an opportunity. Our service had been live for years and significant changes were planned."
+        },
+        {
+            "text": "We couldn\u2019t assume we understood everything about how the service was being used, or what challenges users now faced. So we used discovery as an opportunity to understand where user needs were not being currently met in the end-to-end user journey. This means when it's time to test different ideas, we\u2019ll have the evidence needed to do it well. In this post, we reflect on what we learnt from that discovery, and what it revealed about opportunities for future transformation."
+        },
+        {
+            "text": "Discovering before the discoveryBefore making any changes, we wanted to fully understand why the service was designed the way it was. Reflecting on this post Responsible interaction design, it\u2019s important to \u201cdig into the history of why things are the way that they are\". We did this by reviewing previous discovery work; the research reports, user needs, journey maps, Miro boards and Confluence pages created by earlier teams.What we found was a huge amount of valuable material, but it also presented a challenge: it wasn\u2019t clear what was still relevant, what assumptions no longer held true, and what gaps remained. At times, it felt like we were spending a long time discovering the discovery itself.In hindsight, we could have time-boxed this work more tightly and moved sooner into generating fresh insights with users. While understanding the past was important, new research proved essential for understanding how the service is used today."
+        },
+        {
+            "text": "Creating the right environment for researchThe users of this service work with sensitive information across complex, high-risk workflows. To understand their processes and needs, we planned to shadow users as they carried out their day-to-day work."
+        },
+        {
+            "text": "Because many staff work remotely, we arranged to meet in person at a central office. On arrival, it became clear the space was not suitable for working with sensitive information or for a long shadowing session, and we had to reschedule."
+        },
+        {
+            "text": "While frustrating, this reinforced the importance of planning not just research methods, but also the environment in which research takes place particularly when working with sensitive data."
+        },
+        {
+            "text": "Discoveries do not stop when a service goes live"
+        },
+        {
+            "text": "One of our biggest things this work reinforced is that discovery isn\u2019t always a one-off phase. As set out in this blog Keeping services alive , product teams working on live services, still need time and space to explore problems properly. Without this, they end up applying sticking plasters instead of solving the underlying problems."
+        },
+        {
+            "text": "This was true for us. As a service team, we had accumulated a large body of historic research, but it wasn\u2019t clear what user needs had been addressed and what gaps remained. Going back to basics, talking to users, mapping the end-to-end journey and involving stakeholders in our work, gave us the foundation to make informed decisions rather than relying on old assumptions."
+        },
+        {
+            "text": "Putting money where are insights are"
+        },
+        {
+            "text": "Our discovery generated a large number of insights, and it was important that the whole team had a shared understanding of which problems were most valuable to focus on."
+        },
+        {
+            "text": "To support this, we ran a collaborative prioritisation exercise using Monopoly money. Team members were given a set amount and asked to \u201cbid\u201d on the problems they felt would deliver the most value if solved. This helped bring the findings to life, encouraged open discussion, and surfaced different perspectives across the team."
+        },
+        {
+            "text": "This approach showed us the value of involving the whole team in prioritisation early. By creating space for discussion before applying more structured scoring, we built stronger alignment and confidence in our decisions. We followed this with value, effort and influence scoring to agree which challenges to take forward into alpha."
+        },
+        {
+            "text": "Working with the reform programme"
+        },
+        {
+            "text": "We shared our findings with the reform programme team at the end of discovery. This helped us have honest conversations about what was realistic to deliver and where we\u2019d need to work more closely together."
+        },
+        {
+            "text": "Rather than waiting for requirements to be handed down, we became partners in understanding the problem. This meant that the evidence we gathered helped both teams understand where improvements were needed and helped shape what we\u2019d work together on next."
+        },
+        {
+            "text": "The reform programme is still going, a multi-year, cross-government piece of work looking at how counter terrorism is case managed across agencies. Until that ends, a\u00a0\u00a0 large part our work in on hold. But the discovery means we\u2019re not starting from scratch."
+        },
+        {
+            "text": "Discovery also identified new opportunities outside of the programme. We\u2019ve already started making changes and conducting further research, and the prioritisation exercise has given us a clearer picture of what users need and a backlog of prioritised opportunities to guide us. \u00a0"
+        },
+        {
+            "text": "User research is a team sport"
+        },
+        {
+            "text": "If you\u2019ve worked in government for any length of time, you will have seen the GDS posters \u2018User research is a team sport\u2019 and \u2018Two hours every six weeks\u2019. The posters are about encouraging a user-centred culture by getting everyone participating in user research, often."
+        },
+        {
+            "text": "We did this by involving the whole team throughout the discovery. After our research sessions, the team shared and analysed the pain points together. Talking through the findings helped everyone, not just the researchers, see the patterns in what users were struggling with. We then used \u2018How might we\u2019 statements to reframe the pain points as opportunities, which gave our team a shared framework for talking about the problems worth solving."
+        },
+        {
+            "text": "This collaborative approach made a big difference. When everyone has seen the evidence and helped make sense of it, decisions about the work are more understandable. When we say, \u2018user research is a team sport\u2019, the \u2018team\u2019 means anyone whose work and decisions will, directly or indirectly, influence the product or service. If you involve teams in the work early, they\u2019ll make better, evidence-based decisions, and build a more collaborative, open culture in the process."
+        },
+        {
+            "text": "What we learnedDiscovery isn\u2019t straightforward when you\u2019re working on a live service.\u00a0 We inherited a large amount of research and designs but the rationale behind these wasn\u2019t always documented. It wasn\u2019t always clear why certain design decisions had been made, what had changed since or what gaps remained.But it was valuable. After 6 weeks we had a better understanding of how the service is used today, closer relationships with our stakeholders and clearer view of what we should work on next. \u00a0"
+        }
+    ]
+}
