@@ -1,0 +1,118 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2026/03/20/doing-content-first-design-at-defra-part-two/",
+    "title": "Doing content-first design at Defra \u2013 part two",
+    "authors": [
+        "Laura Parker",
+        "Daniel Da Silveira"
+    ],
+    "categories": [
+        "Defra content design",
+        "Defra digital",
+        "Defra Forms",
+        "Digital transformation",
+        "Interaction design",
+        "User centred design"
+    ],
+    "pub_date": "2026-03-20T12:55:57+00:00",
+    "content": [
+        {
+            "text": "In the second part of their post, content designer Laura Parker and senior interaction designer Daniel Da Silveira show how they used a content-first approach to design features for the Defra form designer."
+        },
+        {
+            "text": "In the first part of our blog post we talked about what content-first design is and how you can do it."
+        },
+        {
+            "text": "The Defra form designer was well established before we trialled a content-first design approach, so we adapted the process slightly. Page layouts were defined by the GOV.UK design system so we worked within existing boundaries while applying the new approach."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "heading": 3,
+            "text": "Agree goals for each step in the journey"
+        },
+        {
+            "text": "Goal of the work: Allow users to set up a question with radio and checkbox answers."
+        },
+        {
+            "text": "Before doing any design work, the team mapped out steps in a rough user journey. For each step we agreed:"
+        },
+        {
+            "heading": 3,
+            "text": "Decide content structure"
+        },
+        {
+            "text": "We decided to draft the content in a Word document before wireframing. This way, the team could see a content-only version of the structure. Since no UI design had started yet, we got feedback and made edits quickly."
+        },
+        {
+            "text": "Once the team were happy with the structure, we jumped into Mural to start wireframing."
+        },
+        {
+            "heading": 3,
+            "text": "Organise a crit"
+        },
+        {
+            "text": "We invited the full Defra Forms team to attend a crit once we had the content structure and wireframe for the journey mapped out."
+        },
+        {
+            "heading": 3,
+            "text": "User research"
+        },
+        {
+            "text": "We tested improvements to the list and checkbox question, focusing on:"
+        },
+        {
+            "text": "Participants: 5 content designers from Defra business as usual (BaU) content team."
+        },
+        {
+            "text": "Method: Remote usability testing with think-aloud protocol."
+        },
+        {
+            "heading": 2,
+            "text": "Key findings"
+        },
+        {
+            "heading": 2,
+            "text": "How this feature works today \u00a0"
+        },
+        {
+            "text": "On the left, the journey is focused entirely on defining the content for a question in a form, including:"
+        },
+        {
+            "text": "On the right, a live preview shows how a question will look to users. The preview updates in real time. Users of our tool can see what they\u2019re doing without hitting a \u2018preview\u2019 link and jumping to a new page."
+        },
+        {
+            "text": "The page works if JavaScript is disabled and supports screen reader users."
+        },
+        {
+            "heading": 2,
+            "text": "Wrapping up"
+        },
+        {
+            "text": "The whole team got behind content-first design which made a big difference."
+        },
+        {
+            "text": "Working on the content first did not mean I worked alone. It was a shared effort across design, research and development. We had strong attendance at crits and feedback sessions and people were happy to help when asked.\u00a0"
+        },
+        {
+            "text": "We also had to show the approach worked, but the results spoke for themselves. While this feature was not the quickest we have created and shipped, we managed to reduce the number of amends required in development."
+        },
+        {
+            "text": "Thank you to the Defra Forms team for supporting the user centred design\u00a0team to trial a content-first design approach during a busy period."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "Like what you\u2019ve read? Why not leave Laura and Daniel a comment sharing your thoughts on the Defra form designer."
+        },
+        {
+            "text": "You can also find Daniel on LinkedIn."
+        },
+        {
+            "text": "And check out our LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        }
+    ]
+}
