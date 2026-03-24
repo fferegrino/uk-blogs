@@ -1,0 +1,92 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2026/03/24/using-ai-to-analyse-foreign-language-audio-sharing-our-work-at-the-gors-conference/",
+    "title": "Using AI to analyse foreign-language audio: sharing our work at the GORS conference\u00a0",
+    "authors": [
+        "Laura Auburn",
+        "Rob McNaughter",
+        "Roger Brown"
+    ],
+    "categories": [
+        "AI",
+        "AI and Data Science Ethics Framework",
+        "Our services"
+    ],
+    "pub_date": "2026-03-24T15:46:43+01:00",
+    "content": [
+        {
+            "text": "Every year, large volumes of operational audio are reviewed across government systems. Some recordings are in foreign languages, making them difficult to analyse quickly and accurately.\u00a0"
+        },
+        {
+            "text": "Last month, we shared our work exploring how artificial intelligence (AI) could help transcribe and translate foreign-language audio at the Government Operational Research Service (GORS) conference in London.\u00a0"
+        },
+        {
+            "text": "GORS brings together analysts from across government to share ideas, research and real-world applications of operational research and data science. This year\u2019s conference, themed \u201cIntelligent Analysis\u201d,explored how analytical methods and emerging technologies like AI can support better decision-making across the public sector. Around 300 delegates attended each day, making it\u00a0a great opportunity\u00a0to learn from colleagues across government and share our work.\u00a0"
+        },
+        {
+            "text": "Evaluating AI for transcription and translation\u00a0"
+        },
+        {
+            "text": "At the conference, we presented a project exploring how AI tools could support transcription and translation of\u00a0foreign-language audio data.\u00a0"
+        },
+        {
+            "text": "Processing multilingual audio can be time-consuming and difficult to scale using traditional approaches. Human transcription and translation provide high-quality results but can be slow and resource-intensive with large volumes of material.\u00a0"
+        },
+        {
+            "text": "Our project explores\u00a0whether AI tools can help improve parts of this process, enabling analysts to review information more quickly.\u00a0"
+        },
+        {
+            "text": "However, this is not a straightforward translation task. Operational audio can\u00a0contain\u00a0informal language, slang, overlapping speech and challenging audio conditions that mainstream tools are not always designed to handle.\u00a0"
+        },
+        {
+            "text": "To understand how well current tools perform, we benchmarked models from several leading AI providers and compared outputs against human translations to assess accuracy,\u00a0consistency\u00a0and usefulness.\u00a0"
+        },
+        {
+            "text": "Using AI responsibly\u00a0"
+        },
+        {
+            "text": "Using AI in sensitive analytical contexts requires careful thought.\u00a0"
+        },
+        {
+            "text": "During the talk, we shared how we applied the\u00a0MoJ AI and Data Science Ethics Framework, which helps teams assess risks and ensure that AI and data science projects are developed and used responsibly.\u00a0"
+        },
+        {
+            "text": "This includes considering issues such as fairness, transparency and\u00a0appropriate human\u00a0oversight when deploying\u00a0new technologies.\u00a0"
+        },
+        {
+            "text": "MoJ work across the conference\u00a0"
+        },
+        {
+            "text": "It was great to see other Ministry of Justice colleagues presenting their work, highlighting the wide range of\u00a0analysis\u00a0taking\u00a0place across the justice system.\u00a0"
+        },
+        {
+            "text": "One session explored how a new Release Outcome Measure is\u00a0providing\u00a0earlier insights into outcomes after people leave prison. Another showed how microsimulation modelling is being used to assess the impact of reforms designed to address the Crown Court backlog.\u00a0"
+        },
+        {
+            "text": "What we learned\u00a0"
+        },
+        {
+            "text": "Context matters. Tools that perform well on standard benchmarks do not always perform the same way when applied to complex operational data. Testing them against real-world examples is essential.\u00a0"
+        },
+        {
+            "text": "AI works best alongside human\u00a0expertise. Automated transcription and translation can help analysts work more efficiently, but human judgement\u00a0remains\u00a0critical for interpreting meaning and nuance.\u00a0"
+        },
+        {
+            "text": "Responsible use must be built in from the start. Applying the MoJ AI and Data Science Ethics Framework helped ensure that questions of fairness, transparency and oversight were considered throughout the project.\u00a0"
+        },
+        {
+            "text": "Reflections from presenting\u00a0"
+        },
+        {
+            "text": "We delivered our talk to an audience of more than 150 analysts and policymakers, and it was encouraging to see strong interest in how AI could address complex\u00a0operational\u00a0challenges.\u00a0"
+        },
+        {
+            "text": "Events like the GORS conference\u00a0provide\u00a0a valuable opportunity to share ideas, learn from colleagues across government and\u00a0showcase\u00a0how analytical work can support better decisions and improve public services.\u00a0"
+        },
+        {
+            "text": "Get involved\u00a0"
+        },
+        {
+            "text": "If you are interested in how operational research, data science and AI are being used across government, the\u00a0GORS community\u00a0offers\u00a0a great opportunity\u00a0to connect with analysts tackling complex challenges.\u00a0"
+        }
+    ]
+}

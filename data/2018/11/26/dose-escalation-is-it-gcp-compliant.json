@@ -1,0 +1,142 @@
+{
+    "url": "https://mhrainspectorate.blog.gov.uk/2018/11/26/dose-escalation-is-it-gcp-compliant/",
+    "title": "Dose Escalation - is it GCP compliant?",
+    "authors": [
+        "Jennifer Martin"
+    ],
+    "categories": [
+        "Compliance matters",
+        "Good clinical practice"
+    ],
+    "pub_date": "2018-11-26T11:02:21+00:00",
+    "content": [
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "So, this is my first ever blog post (both work and personal) and I wanted to use this to talk about differing dose escalation (DE) practices, especially between first in human (FIH) healthy volunteer trials and those in patients (FIP). In reality, if you are complying with Good Clinical Practice (GCP) they should be the same."
+        },
+        {
+            "text": "More frequently, with the advancement of medicine, FIH trials are being conducted in patients. Biologicals, cell therapy or oncology medicines may be too toxic or not suitable to give to healthy volunteers, so patients become the first humans to receive these medicines."
+        },
+        {
+            "text": "Over the years FIH trials have had an excellent safety record, with two recent well-publicised exceptions: the dosing of TGN1412 in London in March 2006 (the day I started at the agency as a GCP Inspector) where 6 volunteers became extremely ill, and more recently, in January 2016, the dosing of BIA10-2474 in France, where one volunteer died and four others became seriously ill."
+        },
+        {
+            "text": "The TGN1412 event resulted in FIH healthy volunteer trials and their conduct being scrutinised, and various early phase guidance issued or updated1. In the UK it also led to the implementation of the voluntary phase I accreditation scheme in 2007, with the first unit accredited in April 2008. (The scheme currently has 14 accredited units - 10 commercial and 4 non-commercial. Information on the scheme and the accredited units can be found on the MHRA website). However, even with this guidance a second event occurred in France, resulting in further scrutiny and updating of the EMA guidance, which was adopted in July 2017."
+        },
+        {
+            "text": "Despite these events, early phase and FIH trials remain remarkably safe due to the scrutiny of well-developed protocols and supporting regulatory documents for the medicines tested. But sponsors, clinical research organisations (CROs) and regulators still have a continuing duty to ensure that risks are minimised for all types of FIH trials, including patient trials, and that GCP procedures to minimise and mitigate those risks are followed. European (EU) Directives 2001/20/EC (the Clinical Trials Directive) and 2005/28/EC (the GCP Directive), which were implemented into national law in all EU member states, enshrine the GCP principles into law. (In the UK these are the Statutory Instruments SI2004/1031 and 2006/1928)."
+        },
+        {
+            "text": "Having inspected many phase I and FIH trials over the years as part of general GCP inspections, as well as the phase I accreditation scheme assessments, one area where I and other MHRA colleagues see differences in is DE. I want to talk about these differences and why they occur - but also why they should not be occurring."
+        },
+        {
+            "text": "While we may not have had any disasters that we know of in the EU in patient FIH trials, we need to apply the same level of risk mitigation to this population as we do to healthy volunteers. The reason I say \u2018know of\u2019 is that patient trials usually involve seriously ill patients with added complexities. Therefore, any toxicity resulting from the new medicines may be masked for several reasons (such as severity of the illness, drug interaction or combinations). However, this is not a reason to reduce the risk mitigation or compliance with GCP as there are two US examples of phase I gene therapy trials that have resulted in patient deaths."
+        },
+        {
+            "text": "In 1999 a US patient recruited to a phase I gene therapy trial was injected with an adenoviral vector carrying a corrected gene to test the safety of the procedure. He died four days later, apparently having suffered a massive immune response leading to multiple organ failure and brain death. An investigation by the Food and Drug Administration (FDA) identified a failure of the sponsor to report previous patients who had experienced serious side effects from the gene therapy."
+        },
+        {
+            "text": "Also, in 2017 two US phase I gene therapy trials were halted following the death in one trial of a patient from severe cytokine release syndrome and the serious illness of a second patient with similar side effects."
+        },
+        {
+            "text": "It has long been established in FIH healthy volunteer trials that dose escalation is a thorough, detailed and well documented process. It involves the sponsor and the principal investigator(s) (PI) making decisions based on sound data. However, this practice does not seem to transfer to the multi-centre patient trials, even for the same sponsor, whether they are commercial or academic/non-commercial."
+        },
+        {
+            "text": "Why?"
+        },
+        {
+            "text": "And why is it so hard to get sponsors to understand that these differences are not appropriate - or for them to take advice from accredited units who have both a wealth of experience in this area and effective procedures in place to manage the process?"
+        },
+        {
+            "text": "The history of these differences may lie partly in the fact that traditionally healthy volunteer trials were conducted in a single specialised unit with a PI experienced in pharmacological development. Patient trials, on the other hand, would be conducted as multi-centred trials by a number of therapeutic specialist PIs relying on the sponsor for the pharmacological experience. Changes in technology and data collection also play a role."
+        },
+        {
+            "heading": 2,
+            "text": "So, what are the GCP expectations for any dose escalation trial? "
+        },
+        {
+            "text": "Let\u2019s start by referring to some crucial GCP requirements specified in the EU directives and how I interpret these."
+        },
+        {
+            "text": "Phew, now we\u2019ve got all that regulatory stuff (which I know some of you might find boring) out of the way, why am I bringing this to your attention? Well\u2026."
+        },
+        {
+            "text": "Although there should be no need to spell this out, when clinical trials are authorised by the regulator and approved by the ethics committee, they are expected to comply with the regulations, the protocol, GCP and any associated early phase guidance1. Deciding to place patients or healthy volunteers on a higher dose is a safety decision and therefore should be based on accurate information."
+        },
+        {
+            "text": "The MHRA phase I accreditation scheme has ingrained into accredited units the importance of defining the DE procedure transparently in the protocol but this does not seem to have been adequately considered by the sponsor (both commercial and academic/non-commercial) especially for multi-centre trials. So, the expectation is that unless the protocol defines otherwise (for example, it specifies a percentage of the subjects, a specific set of data or a maximum timepoint) then all the data from all the subjects in the cohort will be used for the dose escalation meeting and decision."
+        },
+        {
+            "text": "An MHRA CTU medic confirmed \u201cWe would always expect that the protocol defines an absolute minimum for review in terms of numbers of subjects and data to be reviewed\u201d."
+        },
+        {
+            "text": "Also, it is expected that accuracy of data will be ensured via quality control (QC) processes (either by the unit or by sponsor monitoring) especially for data linked to major safety and stopping criteria including pharmacokinetic (PK) or pharmacodynamic (PD) data (for example, a Cmax or AUC)."
+        },
+        {
+            "text": "There should be a DE process where the PI(s) and the sponsor review all the data and make a documented decision. This meeting, together with the data used (including evidence of QC) and the decision, should be clearly documented and the decision circulated to all relevant parties (such as clinical and pharmacy teams) in advance of the next dosing occasion. An MHRA CTU medic stated, \u201cWe also expect that a summary of the communication plan is in the protocol\u201d."
+        },
+        {
+            "text": "So, for DE to be GCP-compliant, there should be a formalised procedure detailing how the dose escalation process will be undertaken (in the form of SOPs and transparency in the protocol)."
+        },
+        {
+            "heading": 2,
+            "text": "Why is a dose escalation process important? "
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0Well, my colleagues and I have identified DE issues. Here are some examples:"
+        },
+        {
+            "heading": 2,
+            "text": "Have dose escalation issues always happened or is this a new phenomenon? "
+        },
+        {
+            "text": "I think it could be a combination of both. \u2018Why?\u2019 you ask. Well here are some potential reasons:"
+        },
+        {
+            "heading": 2,
+            "text": "Where does that leave us then? "
+        },
+        {
+            "text": "We\u2019re all in agreement that in today's clinical environment we should be thinking about quality by design."
+        },
+        {
+            "text": "We also need to be looking in a pragmatic and risk-proportionate way to the trial objectives, the population being recruited, the various sources of data and how this is being collected and used. So, to comply with GCP in DE, the starting point is with a risk assessment and mitigation strategy:"
+        },
+        {
+            "heading": 2,
+            "text": "So, what\u2019s my take home message? "
+        },
+        {
+            "text": "In summary:"
+        },
+        {
+            "text": "It\u2019s important to remember that the central focus for phase 1 trials is safety, so this post does not just apply to the phase I accreditation scheme but to anyone conducting these types of trials."
+        },
+        {
+            "text": "Also, in today\u2019s complex trial design and expansion into the patient first in human trials, have you really considered if your current procedures are in line with new technology for collecting and using accurate and reliable data for safety decisions?"
+        },
+        {
+            "text": "Have you built quality by design into the protocol, risk assessed the trial design and ensured your decisions are transparent to the regulators and ethics committees reviewing the protocol?"
+        },
+        {
+            "text": "Finally, does the trial master file enable you to reconstruct the dose escalation process easily? (See below)"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "1Early Phase Guidance:"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
