@@ -1,0 +1,82 @@
+{
+    "url": "https://dataingovernment.blog.gov.uk/2026/03/25/whats-changing-on-data-gov-uk-and-why/",
+    "title": "What\u2019s changing on data.gov.uk and why",
+    "authors": [
+        "Antonia Panayotova",
+        "Joe Lanman",
+        "Candice Colgan"
+    ],
+    "categories": [
+        "Data Strategy",
+        "Open data"
+    ],
+    "pub_date": "2026-03-25T14:09:05+00:00",
+    "content": [
+        {
+            "text": "We have made some changes to data.gov.uk. We have been working quietly in the background over recent months to prepare for this moment, and we are genuinely excited to share what we have built, before learning from how you use it and listening to how you want us to improve it."
+        },
+        {
+            "text": "This is a beginning, not a finished product. We\u2019re being deliberate about that. We want to show you what exists today, explain our direction, and invite you to help shape what comes next."
+        },
+        {
+            "text": "Why change?"
+        },
+        {
+            "text": "Data.gov.uk has been the recognised home for UK public sector data since 2010. But over time, and particularly since 2017, it has suffered from underinvestment. More than a quarter of its links were broken. Search results surfaced outdated or irrelevant datasets. Too often, users who came looking for data they could trust and use left empty-handed."
+        },
+        {
+            "text": "We wanted to change that - not by starting again, but by rethinking how the platform works, and building improvements iteratively, with users, in the open."
+        },
+        {
+            "text": "What\u2019s new"
+        },
+        {
+            "text": "We\u2019ve redesigned the landing page to aid navigation, with a clearer structure and a distinctive style that reflects the importance of data in public life today."
+        },
+        {
+            "text": "2. Curated data, presented more clearly"
+        },
+        {
+            "text": "We\u2019ve looked at how other sectors and governments make data available and thought about what different user groups need. This led us to the concept of curated data: rather than simply aggregating everything, we\u2019re taking a more active role in surfacing the most useful data grouped around core national themes."
+        },
+        {
+            "text": "Previously, data.gov.uk left publishing decisions entirely to data owners across the public sector. At scale, that approach has limits and inconsistencies. Our analysis found that at least 25% of links lead to error pages, and many datasets were last updated years ago by organisations that no longer exist. This creates noise that makes it harder for users to find information they can trust. Curated data is our response to that. We are starting small, but hopefully starting better and certainly very keen to hear what we have got right or not quite right this time."
+        },
+        {
+            "text": "3. The data manual, version 1"
+        },
+        {
+            "text": "We\u2019ve heard that data guidance and best practices are hard to find, duplicative, and sometimes even conflicting. In response we\u2019ve brought together authoritative data guidance and best practice from across the public sector into one place. It\u2019s version one, so we\u2019re not claiming it\u2019s complete or perfect, but we hope it\u2019s a useful starting point. We want to hear what\u2019s missing, what\u2019s unclear, and how we make navigation even easier."
+        },
+        {
+            "text": "4. A public roadmap"
+        },
+        {
+            "text": "We\u2019ve committed to working openly \u2013 so we have started as we mean to go on, by sharing a public roadmap on the website. This sets out our plans and progress so that users can see what\u2019s changing, what\u2019s coming next, and how their feedback is shaping our work. By learning early and improving continuously, we can make sure our service works for users and delivers benefits quicker. \u00a0"
+        },
+        {
+            "text": "What\u2019s staying the same"
+        },
+        {
+            "text": "The existing data.gov.uk directory is still available for public sector organisations to publish and access open data as usual."
+        },
+        {
+            "text": "We recognise users depend on the directory, so we\u2019re keeping it unchanged for now. Our next step is to fix key issues, allowing us to compare improvements and identify what works best for UK public data. It also gives us a benchmark to compare the new version and the impact of the improvements as we move forward."
+        },
+        {
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "Over the coming months we\u2019ll continue adding curated data from key sectors and improving how that is presented, measuring what works through both analytics, feedback forms and in-depth research, we\u2019ll start to fix issues with the data directory and share what we learn openly with our communities. We intend this to be a sustainable service that we provide."
+        },
+        {
+            "text": "Looking further ahead, we\u2019ll be exploring bigger questions: what does curated data look like at scale? How do we support licensed and sensitive data? How do we make data more discoverable through modern tools, including AI? And how do we build the guidance that helps people use data effectively and responsibly?"
+        },
+        {
+            "text": "Get involved"
+        },
+        {
+            "text": "If you work in government, join the conversation in the #datagovuk channel on UK Government Digital Slack. We\u2019d love to hear from you. If you don\u2019t, let us know your thoughts through the feedback form on our roadmap page."
+        }
+    ]
+}
