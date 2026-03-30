@@ -1,0 +1,129 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2026/03/30/not-all-years-lived-are-equal-understanding-measures-of-health/",
+    "title": "Not all years lived are equal: understanding measures of health",
+    "authors": [
+        "Natasha Hill - Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Health",
+        "Mortality"
+    ],
+    "pub_date": "2026-03-30T11:34:58+01:00",
+    "content": [
+        {
+            "text": "Two health metrics are frequently used by UK public bodies. Healthy Life Expectancy (HLE) is often used to assess the nation\u2019s health and to help understand demands on health services. The Quality Adjusted Life Years (QALYs) measure is used to help assess whether medical interventions should be funded by the NHS. "
+        },
+        {
+            "text": "The metrics both attempt to add a measure of quality (based on health) to traditional approaches of assessing lifespans. "
+        },
+        {
+            "text": "HLE is a population-level, descriptive statistic based on past data. QALYs are an individual-level, forward-looking decision tool intended for allocating resources. They sound similar but they are built differently, used differently, and support different policy questions."
+        },
+        {
+            "heading": 2,
+            "text": "What is Healthy Life Expectancy?"
+        },
+        {
+            "text": "The UK Healthy Life Expectancy (HLE) measure is published by the Office for National Statistics (ONS). It partitions ordinary life expectancy into years lived in \u2018good health\u2019 and those not. It draws on a single survey question: \u201cHow is your health in general - very good, good, fair, bad or very bad?\u201d ONS defines \u2018good health\u2019 as those answering, \u2018very good\u2019 or \u2018good\u2019. "
+        },
+        {
+            "text": "ONS uses death data together with these estimates of \u2018good health\u2019 from surveys and recent censuses. HLE statistics are usually published every year by sex, age band and local area. "
+        },
+        {
+            "text": "Conceptually, HLE tells you: \u201cIf people at each age experienced today\u2019s mortality and today\u2019s self-reported health patterns throughout their lives, how many years on average would they live in \u2018good health\u2019?\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "What is a Quality Adjusted Life Year?"
+        },
+        {
+            "text": "A Quality Adjusted Life Year (QALY) is the measure of health used by the National Institute for Health and Care Excellence (NICE) to help decide the cost effectiveness of interventions and treatments. "
+        },
+        {
+            "text": "QALYs are not the same as life expectancy. One QALY is equal to one additional year lived in perfect health. The measure can be used for years lived in less than perfect health, for example 2 years of life with 50% perfect health also counts as one QALY."
+        },
+        {
+            "text": "As with HLEs, quality of life relies on human judgement; NICE uses the results from questionnaires where people score 5 areas of daily life:"
+        },
+        {
+            "text": "\u2026 on a 5-point scale."
+        },
+        {
+            "text": "The questionnaires are completed by patients in clinical settings and the general public. The results are combined to assess the value society places on improved quality and quantity of life. "
+        },
+        {
+            "text": "NICE then compares the number of QALYs a particular treatment is expected to provide against threshold values, between \u00a325,000 to \u00a335,000 per QALY from April 2026. If the cost of the treatment is under the threshold, for example it costs \u00a3100,000 but adds 10 QALYS, the intervention is likely to represent good value for the NHS. "
+        },
+        {
+            "text": "Conceptually, QALYs tell you: \u201cGiven an intervention, how many \u2018good\u2019 years are people expected to gain?\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "HLE: pros and cons"
+        },
+        {
+            "text": "HLE offers an intuitive headline metric that\u2019s easy to understand. It enables comparisons across geographies and deprivation groups, it\u2019s representative of the whole population, and it\u2019s usually updated by the ONS every year."
+        },
+        {
+            "text": "However, the \u2018very good/good\u2019 threshold is blunt - 2 people with identical conditions may rate themselves differently, and cultural factors can influence responses. "
+        },
+        {
+            "text": "HLE doesn\u2019t link directly to costs or interventions, it cannot forecast future health, and recent issues with survey data means that there are plans to change the methodology used."
+        },
+        {
+            "heading": 2,
+            "text": "QALYs: pros and cons"
+        },
+        {
+            "text": "QALYs directly support resource allocation, taking account of both morbidity and mortality in assessing where a limited budget can be spent and is a common metric that can be used across all disease areas. "
+        },
+        {
+            "text": "However, there are shortcomings of the QALY measure. These include potentially undervaluing certain groups including older adults and those with disabilities, being too simplistic, and challenges with quantifying certain factors such as mental wellbeing."
+        },
+        {
+            "heading": 2,
+            "text": "How do they compare?"
+        },
+        {
+            "text": "A 60-year-old with a life expectancy of 80 but a remaining HLE of 10 years would expect to live 10 years in good health and 10 years not in good health. "
+        },
+        {
+            "text": "By contrast, a 60-year-old with 10 QALYs could also be expected to live to age 80, but at a moderate quality of life throughout those 20 years; alternatively those 10 QALYs could represent 10 years in perfect health followed by death at age 70."
+        },
+        {
+            "heading": 2,
+            "text": "Which is better?"
+        },
+        {
+            "text": "The measures serve complementary roles. For descriptive monitoring and inequality policy, HLE is more suitable - offering regular, geographically detailed, population-wide insights into gaps between regions or deprivation groups. "
+        },
+        {
+            "text": "For resource allocation and intervention choice, QALYs are indispensable \u2013 connecting clinical evidence, patient experience and cost into a common metric for funding decisions."
+        },
+        {
+            "heading": 2,
+            "text": "The pragmatic approach"
+        },
+        {
+            "text": "HLE is used to track where we are and who is left behind: Are healthy years increasing? Are gaps narrowing across regions of the country? "
+        },
+        {
+            "text": "QALYs are used to inform spending decisions: Which mix of prevention, treatment and social care generates the largest health gain per pound? "
+        },
+        {
+            "text": "Each metric has its limitations - HLE is subjective and coarse; QALYs are complex and may disadvantage some groups. Both rely in some way on human perceptions of good health and neither alone can fully measure \u201cthe health of the UK\u201d. "
+        },
+        {
+            "text": "Understanding their differences could help inform development or alignment of these measures."
+        },
+        {
+            "heading": 3,
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page."
+        }
+    ]
+}
