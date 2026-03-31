@@ -1,0 +1,60 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2026/03/31/when-ai-answers-the-question-what-happens-to-the-user-journey/",
+    "title": "When AI answers the question, what happens to the user journey?",
+    "authors": [
+        "Mark Edwards \u2014 Head of Design, Customer Experience & Design, Department for Education"
+    ],
+    "categories": [
+        "Content Design",
+        "Design"
+    ],
+    "pub_date": "2026-03-31T09:00:00+01:00",
+    "content": [
+        {
+            "text": "Over the past few months, something subtle but significant has been happening across several of our digital services in the Department for Education (DfE). We\u2019ve seen a rise in impressions coming from AI\u2011mediated search, at the same time as visits to our actual pages have flattened or dipped. More people are now receiving answers through Google\u2019s AI Overviews, Microsoft Copilot and other emerging assistants, without ever visiting the services we\u2019ve designed for them. At first, this felt like progress; faster access to information is not something to resist. But as we looked closer, a more complicated picture emerged."
+        },
+        {
+            "heading": 2,
+            "text": "The new reality: answers without journeys"
+        },
+        {
+            "text": "Public services are not just providers of information. They are structured journeys intended to help people make sense of systems they may never have encountered before. These journeys carry context, safeguards, clarifications and next steps that ensure people understand not just a single answer, but the path around it. AI assistants, however, don\u2019t really understand journeys; they understand questions. They extract the answer they think is most relevant, remove the supporting detail around it, and present it as a self\u2011contained response. The risk is not usually that they are wrong, though that can happen, but that they are incomplete in ways that matter."
+        },
+        {
+            "heading": 2,
+            "text": "What happens when users don\u2019t know what they don\u2019t know?"
+        },
+        {
+            "text": "This incompleteness is especially challenging for the kinds of users many of our services are built to support. Not everyone arrives with a clear question. A teenager leaving school may not know to search for \u201capprenticeships\u201d, \u201cT Levels\u201d or \u201cvocational pathways\u201d. They just know they need to figure out what to do next. Parents concerned about their child\u2019s online safety often don\u2019t know the terminology of the problems they\u2019re worried about. Care\u2011experienced young people may not know that certain entitlements or support options even exist. A well\u2011designed service helps reveal possibilities, not just respond to questions. It helps people articulate what they need (or need to do), especially when they don\u2019t yet have the language for it. AI tools, by contrast, only answer what they\u2019re asked. They meet users where they already are, which can limit discovery and reinforce gaps in understanding."
+        },
+        {
+            "heading": 2,
+            "text": "Should we change the way we work or return to our foundations?"
+        },
+        {
+            "text": "As a design team, we\u2019ve been asking ourselves whether this moment requires us to rethink how we work, or whether it simply calls for a renewed commitment to the principles that have guided digital government for more than a decade. We keep coming back to the same idea: the fundamentals of user\u2011centred design still hold. If anything, they\u2019re becoming more important. Clear, well\u2011structured content; journeys that reflect real user needs; collaboration with policy; plain English; transparency; consistency; these are still the foundations that make services trustworthy and safe."
+        },
+        {
+            "text": "What\u2019s changing is that we now need to design with the expectation that much of what we publish will be read indirectly, atomised, summarised or reinterpreted by systems we don\u2019t control. This means thinking differently about the resilience of the content we produce. If a paragraph on one of our pages is lifted out of context, does it still make sense on its own? Does it say something that\u2019s safe and accurate even when separated from the journey it belongs to? Can it stand alone without misleading someone who might never see the full service? These are difficult questions, because government services are rarely simple enough for a single answer to be the whole story. Yet if AI systems are going to present fragments of our work in isolation, then we need to ensure those fragments are robust."
+        },
+        {
+            "text": "This also means working more closely with policy colleagues. Much of the nuance that could be lost in an AI\u2011generated summary is key policy: eligibility rules, safeguarding considerations, rights and entitlements that depend on specific conditions. If we want AI tools to represent this information responsibly, the underlying policy explanations we publish need to be concise, unambiguous and consistent across channels. Early collaboration between design and policy becomes not just useful, but essential."
+        },
+        {
+            "text": "One area we haven\u2019t explored yet, though it\u2019s increasingly on our minds is testing our services through AI systems themselves. Just as we test journeys with real users, we may soon need to test them with the AI models that interpret our content on behalf of users. This isn\u2019t about validating the AI; it\u2019s about understanding how faithfully our content is being surfaced, where it is being distorted, and what happens when someone relies on an AI answer instead of visiting a service. It\u2019s early days, but it feels inevitable that this will become part of the design and assurance process for public services. We\u2019re interested to see what patterns or guidance may come from GDS\u2019 recent GOV.UK AI Studio work."
+        },
+        {
+            "text": "What makes this moment particularly important is that it touches the heart of what user\u2011centred design is for. Much of our work is built around supporting people who do not arrive with perfect knowledge of their needs, who do not know the terminology, who may not understand the system they are stepping into (because they shouldn't need to.) If AI\u2011mediated agents or answers become the dominant entry point, we need to be sure that people who lack confidence or familiarity are not disadvantaged further. We cannot assume that the most complete and supported experience will be the one users see."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge ahead"
+        },
+        {
+            "text": "This isn\u2019t a challenge any single department can solve alone. The move towards AI\u2011mediated access is happening across the whole digital ecosystem, not just in pockets. The risks are shared, as are the opportunities. We need cross\u2011government conversation about what this means for safeguarding, clarity, accessibility, statutory accuracy, measurement, accountability and the way we structure information at source. We need to think about what patterns or conventions might help us create content that is \u201cmachine\u2011interpretable\u201d without losing the human intent behind it. And we need to keep hold of the idea that design in government is not about answers alone; it\u2019s about meaningful, safe and supportive journeys that help people understand their choices and needs."
+        },
+        {
+            "text": "The shift we are seeing is real, and it will shape the next decade of public services. But if we approach it thoughtfully grounded in our core principles, and open to new ways of understanding how users encounter our work then there is an opportunity here too. AI may change the pathways into government services, but with the right foundations, we can still ensure that what people receive is accurate, trustworthy and rooted in genuine user need. And if we share what we learn with one another, we can navigate this transition together."
+        }
+    ]
+}
