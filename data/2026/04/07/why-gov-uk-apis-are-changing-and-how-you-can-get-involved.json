@@ -1,0 +1,91 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/04/07/why-gov-uk-apis-are-changing-and-how-you-can-get-involved/",
+    "title": "Why GOV.UK APIs are changing and how you can get involved",
+    "authors": [
+        "Mohammed Sheth, Product Manager, Publishing Platform, GOV.UK"
+    ],
+    "categories": [
+        "Content",
+        "Vision and plans",
+        "What we're working on"
+    ],
+    "pub_date": "2026-04-07T15:30:26+01:00",
+    "content": [
+        {
+            "text": "The GOV.UK Publishing Service, part of the Government Digital Service (GDS), supports how government content is created, managed and shared on GOV.UK. The service looks after 8 publishing applications, such as Whitehall and Mainstream Publisher, and several supporting tools, which enable more than 2,300 civil servants to create, publish and manage government content. Together, these systems underpin how information is delivered across GOV.UK\u2019s user-facing channels, so it\u2019s essential that the publishing ecosystem is secure, flexible and easy to use."
+        },
+        {
+            "text": "Alongside these applications and tools, the team also maintains application programming interfaces (APIs) including the Publishing API (which allows content to be stored, retrieved, drafted and published)."
+        },
+        {
+            "text": "An API is a software intermediary that allows 2 applications to speak to each other, enabling different systems to share data and services, securely and efficiently. The original API architecture for GOV.UK was designed for the website, delivering the content needed for a page in as few requests as possible. Our APIs are also publicly accessible, allowing people to access and use GOV.UK information \u2013\u00a0for example, official Bank Holiday dates, or data about government organisations \u2013 in their own tools and systems."
+        },
+        {
+            "text": "This approach has served us well for years, providing stable and reliable performance through the Content Store (a database of almost all published content on GOV.UK), with some pages also drawing on the Search API for specific elements."
+        },
+        {
+            "text": "But GOV.UK is no longer just a website. It now spans multiple digital channels, including the GOV.UK app, and we\u2019re also exploring potential integrations with other platforms. These channels often need specific pieces of content in different formats, and sometimes that content needs to be adapted for individual users to create a more personalised experience."
+        },
+        {
+            "text": "To support GOV.UK\u2019s multi-channel vision, enable content reuse, and lay the groundwork for future improvements, including potential new ways of using GOV.UK content, we need APIs that are flexible, robust, and easy to integrate with a variety of services."
+        },
+        {
+            "text": "For this to happen, we need to make some changes. We\u2019re exploring how our APIs could evolve to better support GOV.UK\u2019s multi-channel future. This includes investigating the use of a new query language for our APIs called GraphQL, as well as looking more broadly at how we manage our APIs. We\u2019ve also started a piece of work to ensure we better understand the users of our APIs."
+        },
+        {
+            "heading": 2,
+            "text": "Why we\u2019ve chosen to explore GraphQL"
+        },
+        {
+            "text": "We\u2019ve chosen to explore the use of GraphQL in depth, because it aligns well with GOV.UK\u2019s multi-channel needs. We\u2019re still early in this work and continue to validate key assumptions as we learn more."
+        },
+        {
+            "text": "GraphQL is a query language for APIs that allows users to request the exact data they need, making it easier to deliver content across different channels and formats."
+        },
+        {
+            "text": "So far, GraphQL has emerged as a strong candidate for what we want to achieve. This is because:"
+        },
+        {
+            "text": "We\u2019re still partway through this work but what we\u2019ve learned so far strongly reinforces that GraphQL has the flexibility needed to support GOV.UK\u2019s multi-channel vision and better user experiences. We\u2019ll continue to share updates as the work progresses."
+        },
+        {
+            "heading": 2,
+            "text": "A new way of managing our APIs"
+        },
+        {
+            "text": "We\u2019re also changing how we manage our APIs by treating them as products in their own right, as they\u2019re critical to GOV.UK\u2019s multi-channel future. If they are more reliable, secure and well documented, it will be easier for others to build on GOV.UK content. This isn\u2019t just a technical change, it\u2019s about creating a better experience for everyone who depends on our APIs."
+        },
+        {
+            "text": "We\u2019ve already made some improvements, including improving documentation, reliability and work to enhance security."
+        },
+        {
+            "text": "We\u2019re also beginning to explore how authentication for our APIs might need to evolve. We haven\u2019t made any decisions yet about approaches, standards or rollout, but we know the current API model won\u2019t meet all our future needs or give us the control we\u2019ll need to better manage interactions with GOV.UK."
+        },
+        {
+            "text": "As GOV.UK\u2019s channels expand, future APIs will need authentication that is simple for developers, secure by default and flexible enough to support more open and multi\u2011channel use cases."
+        },
+        {
+            "text": "This work is at a very early stage, and we\u2019ll share more as it progresses."
+        },
+        {
+            "heading": 2,
+            "text": "Understanding our users"
+        },
+        {
+            "text": "To make the right decisions about what comes next, we need to understand our users better: who they are, what they\u2019re building, and what challenges they face. Knowing more about our current users will help us to:"
+        },
+        {
+            "text": "If you use, or plan to use, GOV.UK APIs \u2013 specifically the ones used to consume GOV.UK content, directly or as part of another service \u2013 we want to hear from you. Please help us by completing this quick survey to tell us what you\u2019re building and any challenges you face. It takes less than 2 minutes and you can also opt in to be contacted for future user research."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "Once we\u2019ve completed this discovery phase, we plan to share what we\u2019ve learned and outline our next steps in a future update. Your feedback will help us shape the future of GOV.UK\u2019s APIs and ensure we\u2019re building services that work for everyone."
+        },
+        {
+            "text": "If you have questions or want to get in touch, please contact our team directly at publishing-service-feedback@digital.cabinet-office.gov.uk."
+        }
+    ]
+}
