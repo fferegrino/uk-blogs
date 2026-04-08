@@ -1,0 +1,98 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/04/08/how-digital-verification-service-providers-should-describe-their-certification-for-specific-use-cases/",
+    "title": "How digital verification service providers should describe their certification for specific use cases",
+    "authors": [
+        "Paul Donati"
+    ],
+    "categories": [
+        "Certification",
+        "Digital identity",
+        "UK digital identity and attributes trust framework"
+    ],
+    "pub_date": "2026-04-08T16:28:46+01:00",
+    "content": [
+        {
+            "text": "As adoption of digital verification services (DVS) grows, it\u2019s important that certified DVS providers share clear, consistent and accurate information about what their certification means."
+        },
+        {
+            "text": "Some terminology can cause confusion - for example, where providers describe their service as being \u201ccertified for anti-money laundering checks\u201d or certified to operate in other regulatory contexts for which no certifiable rules have been set in a supplementary code."
+        },
+        {
+            "text": "This blog post sets out how certified DVS providers can describe their certification and provides examples of misleading language. The aim is to help providers present their certification status clearly and avoid confusion for users, relying parties and Certification Assessment Bodies (CABs)."
+        },
+        {
+            "heading": 2,
+            "text": "Certification is against the DVS trust framework and supplementary codes"
+        },
+        {
+            "text": "A DVS can only be certified against the DVS trust framework and supplementary codes published under the Data (Use and Access) Act 2025. A DVS cannot be certified against, for instance, a piece of legislation such as the Money Laundering Regulations, or a specific compliance regime, such as the anti-money laundering regime."
+        },
+        {
+            "text": "This means statements such as \u201ccertified for anti-money laundering (AML)\u201d, \u201ccertified for checks under the Money Laundering Regulations (MLRs)\u201d or \u201ccertified to do Know Your Customer and Due Diligence Checks\u201d are not accurate and must not be used."
+        },
+        {
+            "text": "Supplementary codes contain rules which build on the trust framework rules to show how DVS can meet additional needs in specific use cases. Regulations, by contrast, are legislation that sets out the broader statutory framework. For example, the MLRs provide that certified DVS can be used for identity checks but do not prescribe specific technical requirements of certified DVS. These technical requirements fall within the scope of the DVS trust framework and supplementary codes, forming the basis for the certification."
+        },
+        {
+            "heading": 2,
+            "text": "Why this matters"
+        },
+        {
+            "text": "Clarity, consistency and accuracy in the description of certified DVS are essential to maintaining trust in the DVS ecosystem. The use of unsuitable terminology by certified DVS providers could:"
+        },
+        {
+            "text": "As such, we\u2019ve set specific trust framework rules in this regard, meaning that inaccurate or misleading claims about your service will put your certification at risk."
+        },
+        {
+            "heading": 2,
+            "text": "What you can say"
+        },
+        {
+            "text": "There are two key areas certified DVS providers should focus on when describing their certified service:"
+        },
+        {
+            "heading": 3,
+            "text": "1. The supplementary codes your service/s are certified against:"
+        },
+        {
+            "text": "Your supplementary code certification may be relevant to those you work with. Where you\u2019d like to tell them about it, you must clearly state which supplementary codes your service has been certified against. For example:"
+        },
+        {
+            "heading": 3,
+            "text": "2. The sectors or use cases your service supports:"
+        },
+        {
+            "text": "You can describe what use case or sector your service has been designed for, or is commonly used in, provided this does not contain any inaccurate or misleading statements, e.g. one implying that you\u2019ve been assessed against a specific regulation for which a supplementary code does not exist. For example:"
+        },
+        {
+            "text": "You may also describe your product in general terms as supporting organisations operating in regulated sectors, so long as this statement is accurate (i.e. you do actually have a customer base in that sector). For example:"
+        },
+        {
+            "heading": 2,
+            "text": "What you must not say"
+        },
+        {
+            "text": "You must not:"
+        },
+        {
+            "heading": 2,
+            "text": "Putting this guidance into practice"
+        },
+        {
+            "text": "A clear and compliant service description might look like:"
+        },
+        {
+            "text": "This approach:"
+        },
+        {
+            "heading": 2,
+            "text": "Supporting a trusted DVS ecosystem"
+        },
+        {
+            "text": "If you are unsure how to describe your certification, please seek guidance from us at correspondence@dsit.gov.uk before publishing materials about your certified service(s). "
+        },
+        {
+            "text": "OfDIA is also working on service provider application guidance for applying to a CAB to become certified, which will cover what a good service description should look like. We expect to publish this shortly, following this blog post."
+        }
+    ]
+}
