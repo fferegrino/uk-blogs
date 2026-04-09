@@ -1,0 +1,101 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/04/09/from-emergency-to-sustainability-creating-share-homes-for-ukraine-data/",
+    "title": "From emergency to sustainability: creating Share Homes for Ukraine data",
+    "authors": [
+        "Coco Chan, Head of Product, Homes for Ukraine Digital"
+    ],
+    "categories": [
+        "Homes for Ukraine"
+    ],
+    "pub_date": "2026-04-09T09:19:18+01:00",
+    "content": [
+        {
+            "text": "In response to Russia\u2019s full scale illegal invasion of Ukraine in 2022, the government launched the Homes for Ukraine Sponsorship Scheme to enable Ukrainians fleeing the conflict to find safe accommodation with UK hosts."
+        },
+        {
+            "text": "Delivering this scheme at national scale required a digital service to be designed, built and operated at extreme pace, while handling highly sensitive personal and safeguarding data. You can read more about how our team applied digital principles and innovation to effectively respond to this crisis in this case study."
+        },
+        {
+            "text": "The initial emergency response relied on an existing supplier-owned platform. However, longer term, we wanted to replace the platform with a more flexible technology solution, enabling the Ministry of Housing, Communities and Local Government (MHCLG) to save significant support costs, control the system data and code, and ensure the service met high standards of security, resilience and usability."
+        },
+        {
+            "text": "In the summer of 2024, we started building our own system for managing Homes for Ukraine data. We needed a system that would provide service continuity and secure data sharing between central government, local authorities and devolved administrations, with more sustainable running costs."
+        },
+        {
+            "text": "We chose to build \u2018Share Homes for Ukraine data\u2019 (or \u2018Share\u2019 for short) in-house, giving MHCLG full ownership to adapt the system based on user needs and expand to further use cases."
+        },
+        {
+            "heading": 2,
+            "text": "Challenges"
+        },
+        {
+            "heading": 3,
+            "text": "Time constraint and scope"
+        },
+        {
+            "text": "We had less than a year to build the system and migrate 3 years of operational data, which was a very ambitious timeline. We worked with our operational teams and a test group of local authority users to define our minimum viable product, continually tweaking our scope as we progressed and refined our delivery estimates, to ensure we could deliver Share on time with only the essential features needed for day 1."
+        },
+        {
+            "heading": 3,
+            "text": "Security"
+        },
+        {
+            "text": "Given the sensitivity of the data, safeguarding and data security were paramount in our architectural and design choices. We used a phased approach to data migration to allow for multiple rounds of quality assurance."
+        },
+        {
+            "heading": 3,
+            "text": "User-centred design at pace"
+        },
+        {
+            "text": "We wanted to make a system that met users\u2019 needs first time, was intuitive and easy to use, but we had limited time and access to our primary users. We weren\u2019t starting from scratch, as we had a bank of 3 years of research from running Homes for Ukraine. We also leant on the GOV.UK Design system as a template, knowing that this is extensively researched and accessible by default, and focussed our limited user research time on our most complex journeys."
+        },
+        {
+            "heading": 3,
+            "text": "Change management and training"
+        },
+        {
+            "text": "We knew this would be a big change for our local authority users, and we did not want to lose the trust and good relationships we\u2019d built over the previous 3 years working together. We held drop-in sessions over the summer to share progress, demonstrate features and answer any questions. We also created written and video guidance, and both phone and online support mechanisms to ensure our users felt supported through the transition."
+        },
+        {
+            "heading": 2,
+            "text": "Successes"
+        },
+        {
+            "text": "We delivered Share on time in September 2025 and exited our contract with our supplier. Moving to this in-house model is already saving MHCLG millions of pounds a year in running costs. We are also preparing to onboard local authorities in Scotland and Wales, who used their own systems rather than our previous system, making further savings and reducing duplication across the public sector."
+        },
+        {
+            "text": "Our users report that Share is simpler to use and more accessible than its predecessor. They say: "
+        },
+        {
+            "text": "Launch was only the start of our journey, and we have been making continual releases since September. We have improved stability and performance, made adjustments to make the system more accessible, iterated existing features based on feedback, and built some new features."
+        },
+        {
+            "text": "Our team (myself included) have learnt a great deal about building, migrating and supporting a system of this scale and complexity. It is a rare and privileged opportunity to work on a project that has such significance: generating real-world impact by continuing to support Ukrainians fleeing war; creating an asset that has potential for further reuse across government; and setting a precedent that it is possible to move a complex live system into a sustainable in-house set up and reduce our reliance on external suppliers."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next?"
+        },
+        {
+            "text": "We have built a brilliant multidisciplinary team of dedicated professionals with product, delivery, user-centred design, business analysis and development skills, and we\u2019re sticking together to keep improving Share."
+        },
+        {
+            "text": "We will continue to support our primary use case in Homes for Ukraine, simplifying and iterating our processes and technology based on user needs."
+        },
+        {
+            "text": "We are striving to become a \u2018best in class\u2019 live service, providing timely and expert support to our users."
+        },
+        {
+            "text": "We are preparing to take Share to a live service assessment later this year to measure our progress and get feedback from expert peers."
+        },
+        {
+            "text": "Most excitingly, we are starting to explore opportunities to reuse Share in new service areas. We will be speaking to colleagues in MHCLG and across government to see where there are overlaps in needs and capabilities, to hopefully accelerate other teams\u2019 progress and prevent the need for other services to start from scratch."
+        },
+        {
+            "text": "Find guidance on Data sharing: Homes for Ukraine on GOV.UK."
+        },
+        {
+            "text": "Read previous blog posts from the Homes for Ukraine Digital team."
+        }
+    ]
+}
