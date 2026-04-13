@@ -1,0 +1,91 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/04/13/the-information-gateway-enabling-secure-sharing-of-information-held-by-public-authorities-with-trusted-digital-verification-services/",
+    "title": "The information gateway: enabling secure sharing of information held by public authorities with trusted digital verification services",
+    "authors": [
+        "Eleanor Curry"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-04-13T11:19:56+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Through the information gateway, registered digital verification service (DVS) providers can ask for information directly from public authorities."
+        },
+        {
+            "text": "Section 45 of the Data (Use and Access) Act 2025 contains a power that is referred to as the \"information gateway\", which allows public authorities to share information with digital verification service (DVS) providers, as long as information is only provided:"
+        },
+        {
+            "text": "This power will help enable more efficient, fully digital processes, allowing people to prove their identity digitally without needing to scan physical documents. The information gateway is a key part of the government\u2019s approach to enabling the widespread use of trustworthy digital verification services, which could generate at least \u00a3701 million per year in economic benefits in the UK."
+        },
+        {
+            "text": "Public authorities receiving requests under section 45 of the Act are encouraged to share information with the registered DVS provider through the information gateway where possible. Requests should be proportionate, and comply with data minimisation rules. In general, requests should not be refused unless doing so is in line with public law principles, for example where there is a reasonable justification for the refusal. In such circumstances, the authority should explain its decision to the provider."
+        },
+        {
+            "text": "Where public authorities do decide to share information through the information gateway, they can charge fees to registered DVS providers to cover the cost of setting up, implementing and maintaining the necessary systems for sharing information."
+        },
+        {
+            "text": "OfDIA is working to develop and publish information for different actors in the ecosystem, to help them understand what the information gateway power is, and how different organisations may interact with the information gateway."
+        },
+        {
+            "heading": 2,
+            "text": "The statutory Code of Practice"
+        },
+        {
+            "text": "Section 49 of the Act requires the Secretary of State to prepare and publish a Code of Practice about disclosure of information through the information gateway under section 45. The public authority must have regard to the Code of Practice when sharing information via the information gateway. OfDIA, acting on behalf of the Secretary of State, will prepare the Code of Practice for it to be laid before Parliament."
+        },
+        {
+            "text": "The information gateway power will be commenced once the Code of Practice has been approved by both Houses of Parliament which, subject to Parliamentary timings, we anticipate will happen later this year. We will publish updates on progress here on our blog."
+        },
+        {
+            "heading": 2,
+            "text": "Public authorities can share information in a variety of ways"
+        },
+        {
+            "text": "The information gateway power does not dictate how information held by public authorities should be shared, and this is something each public authority will decide for themselves. When sharing personal data, as well as having regard to the Code of Practice, public authorities must also comply with data protection legislation."
+        },
+        {
+            "text": "It is likely that in the majority of cases, public authorities will be able to best and most cheaply fulfil a request for information by securely sharing attributes via APIs. This will minimise the amount of information shared by the public authority."
+        },
+        {
+            "text": "Some public authorities will make information available by developing a digital credential, like a digital driving licence."
+        },
+        {
+            "text": "Public authorities can offer both options in parallel \u2013 issuing a digital credential into the GOV.UK Wallet does not prevent a public authority also facilitating API checks of data they hold."
+        },
+        {
+            "heading": 2,
+            "text": "To share information, public authorities and registered DVS providers will enter into agreements"
+        },
+        {
+            "text": "Some public authorities might choose to publish information about the information they hold and that is being made available using the information gateway powers, to make it easier for DVS providers to engage with them."
+        },
+        {
+            "text": "Once a DVS provider has established that a public authority holds information relevant for its service (or planned service) and is making it available using the information gateway powers, the registered DVS provider and public authority would then be expected to enter into a contract and data sharing agreement. These should set out, among other things:"
+        },
+        {
+            "text": "Once agreed, the registered DVS provider can make information requests on behalf of the individuals using their services. Public authorities will need to consider those requests and decide whether to share information or not. This will include:"
+        },
+        {
+            "heading": 2,
+            "text": "Checking that a service is on the DVS register"
+        },
+        {
+            "text": "We want information sharing under the information gateway to be as secure and robust as possible. That is why only services operated by providers that are registered on the DVS register can receive information via the information gateway."
+        },
+        {
+            "text": "To help public authorities check that a provider is genuine when they make a request via the information gateway, this year we will be enabling DVS providers to securely prove they are on the DVS register in real-time, through public key infrastructure. We will publish more information about our plans for this shortly."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "To drive use of the information gateway by registered DVS providers and public authorities, OfDIA is working to:"
+        },
+        {
+            "text": "It is our intention that this work makes it easier for registered DVS providers and public authorities to share information via the information gateway, to support our ultimate goal: efficient and authoritative digital verification of attributes across the economy."
+        }
+    ]
+}

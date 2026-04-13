@@ -1,0 +1,97 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2026/04/13/get-to-an-answer/",
+    "title": "Get to an answer",
+    "authors": [
+        "Clare Arolker"
+    ],
+    "categories": [
+        "Content design",
+        "Service design",
+        "User-centred design"
+    ],
+    "pub_date": "2026-04-13T10:00:00+01:00",
+    "content": [
+        {
+            "text": "The Customer\u00a0Experience and\u00a0Design\u00a0(CX&D)\u00a0team have\u00a0created a new pattern called 'Get to an answer'. It\u00a0makes\u00a0it easy\u00a0for\u00a0user-centred design\u00a0teams\u00a0in\u00a0the Department for Education\u00a0(DfE)\u00a0to\u00a0build content\u00a0that guides users to\u00a0relevant\u00a0information\u00a0by answering a short series of questions.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Where this started\u00a0"
+        },
+        {
+            "text": "The project\u00a0started with\u00a0Support for care leavers.\u00a0What support\u00a0a\u00a0care leaver\u00a0is\u00a0entitled to is complicated as it\u00a0depends on several factors. So,\u00a0to help care leavers understand what support they\u00a0can get\u00a0the team developed\u00a0a checker. This\u00a0was a short-term solution\u00a0which\u00a0used\u00a0a third-party tool\u00a0and needed to be replaced.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why\u00a0we\u00a0built something reusable\u00a0"
+        },
+        {
+            "text": "We had two options. Build a bespoke solution just for care\u00a0leavers.\u00a0Or\u00a0develop a reusable\u00a0solution\u00a0that other teams could use too.\u00a0"
+        },
+        {
+            "text": "In line with\u00a0DfE\u2019s\u00a0digital strategy of\u00a0\u2018building for reuse\u2019\u00a0we decided to develop\u00a0something that\u00a0would be\u00a0adaptable.\u00a0We wanted to\u00a0solve\u00a0the\u00a0common problem\u00a0of\u00a0how\u00a0to help users\u00a0understand\u00a0what they can get or what they need to do,\u00a0when there are lots of variables.\u00a0\u00a0"
+        },
+        {
+            "text": "The upfront cost was slightly higher. But the long-term value is significant.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Deciding what to build\u00a0"
+        },
+        {
+            "text": "Before we started\u00a0to\u00a0develop \u2018Get to an answer\u2019\u00a0we worked with\u00a0DfE\u2019s\u00a0Components working group to\u00a0confirm\u00a0there was\u00a0enough\u00a0need.\u00a0We spoke to other\u00a0teams\u00a0who\u00a0had\u00a0or wanted to have a\u00a0similar\u00a0\u2018checker\u2019\u00a0and explored what was already available.\u00a0This\u00a0helped shape our approach\u00a0and\u00a0set\u00a0the requirements for the product.\u00a0"
+        },
+        {
+            "text": "As the work progressed, we\u00a0regularly\u00a0shared designs\u00a0with the\u00a0Components working\u00a0group, continued to talk with teams who\u00a0could potentially use the solution,\u00a0and sought input from\u00a0the different\u00a0DfE\u00a0digital professional communities.\u00a0\u00a0\u00a0This\u00a0approach of co-design and ongoing collaboration\u00a0meant we\u00a0have\u00a0built\u00a0something that will\u00a0genuinely work for multiple teams, not just our\u00a0first\u00a0use case.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How we developed it\u00a0"
+        },
+        {
+            "text": "We\u00a0started with\u00a0GOV.UK Forms\u00a0as our primary design reference\u00a0for the internal user interface.\u00a0We\u00a0also\u00a0incorporated elements from Whitehall\u00a0publisher\u00a0and the campaign platform.\u00a0And\u00a0learnt\u00a0from similar patterns like\u00a0smart answers\u00a0and\u00a0Check a service is suitable.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u00a0used\u00a0existing components\u00a0from\u00a0the\u00a0GOV.UK design system\u00a0(like\u00a0radios\u00a0and\u00a0checkboxes)\u00a0for\u00a0content that\u00a0end users interact with.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What 'Get to an answer' does\u00a0"
+        },
+        {
+            "text": "The pattern lets you create a series of questions and answers.\u00a0\u00a0"
+        },
+        {
+            "text": "You can use single or multiple-choice answers\u00a0and\u00a0apply question branching\u00a0logic.\u00a0Users\u00a0are\u00a0guided to relevant content based on\u00a0how they respond to\u00a0each\u00a0question.\u00a0It is possible to create result pages\u00a0within\u00a0\u2018Get to an answer\u2019\u00a0or\u00a0direct\u00a0users to existing\u00a0content on any webpage.\u00a0"
+        },
+        {
+            "text": "The user interface lets you create and manage questionnaires without technical skills.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        },
+        {
+            "text": "We also knew we needed to be clear on the scope and\u00a0show\u00a0early on what we\u00a0wouldn\u2019t\u00a0be doing. It\u00a0isn't\u00a0an\u00a0eligibility checker that\u00a0performs calculations or\u00a0cross-references\u00a0with\u00a0databases. It\u00a0doesn't\u00a0collect\u00a0user data or allow free text entry.\u00a0And\u00a0it's\u00a0not\u00a0a form or survey tool\u00a0replacement.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u00a0we\u2019ve\u00a0done so far\u00a0"
+        },
+        {
+            "text": "Once\u00a0we\u2019d\u00a0developed the\u00a0functionality and user\u00a0interface we\u00a0onboarded the care leavers service as our first user.\u00a0They recreated\u00a0the care leaver support\u00a0checker\u00a0using\u00a0\u2018Get to an answer\u2019.\u00a0This let us\u00a0check\u00a0everything worked\u00a0properly in a real context.\u00a0It\u00a0also helped us understand what guidance other teams\u00a0may\u00a0need.\u00a0\u00a0"
+        },
+        {
+            "text": "The team who manages Teach in Further Education are\u00a0looking\u00a0to\u00a0become\u00a0the\u00a0next\u00a0to make use of \u2018Get to\u00a0an\u00a0answer\u2019\u00a0to\u00a0replace\u00a0a quiz\u00a0that\u00a0helps people explore whether a career in\u00a0further education\u00a0is for them.\u00a0Onboarding a second team serves two purposes.\u00a0Confirmation that\u00a0what\u00a0we\u2019ve\u00a0built\u00a0is\u00a0easy to use and set-up. And proves\u00a0the\u00a0solution is adaptable to\u00a0meet the needs of a completely\u00a0different set\u00a0of external users.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What's\u00a0next\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0transferring ownership to\u00a0DfE\u2019s central\u00a0Design\u00a0Ops\u00a0team.\u00a0They have\u00a0provided great support\u00a0and expert input\u00a0throughout the build.\u00a0\u00a0\u00a0This means\u00a0\u2018Get to an answer\u2019\u00a0becomes\u00a0part of\u00a0the DfE design system.\u00a0And\u00a0design colleagues\u00a0can\u00a0create and manage their own questionnaires without needing on-going developer support.\u00a0"
+        },
+        {
+            "text": "Building reusable components takes more thought upfront. But it means we solve problems once, not repeatedly.\u00a0That's\u00a0better for teams and better for users.\u00a0\u00a0"
+        }
+    ]
+}
