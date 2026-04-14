@@ -1,0 +1,119 @@
+{
+    "url": "https://technology.blog.gov.uk/2026/04/14/publishing-a-common-architectural-model-for-local-government/",
+    "title": "Publishing a common architectural model for local government\u00a0",
+    "authors": [
+        "Phil Rumens, Principal Technologist, GDS,"
+    ],
+    "categories": [
+        "GDS Local"
+    ],
+    "pub_date": "2026-04-14T11:45:00+01:00",
+    "content": [
+        {
+            "text": "GDS Local\u2019s\u00a0sourcing the stack\u00a0initiative is part of our commitment to co-create a vision for local government technology; as part of this,\u00a0we\u2019ve\u00a0published\u00a0a common architecture model for council technology.\u00a0\u00a0This post sets out how we arrived at it, why we think a shared model is needed, and how we plan to develop it in the open.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Starting with what councils already do\u00a0"
+        },
+        {
+            "text": "We began by\u00a0seeking\u00a0to\u00a0understand how councils currently describe their technology.\u00a0"
+        },
+        {
+            "text": "We reviewed a wide range of publicly available technical, enterprise and ICT architecture documents published by councils over the last few years. These included everything from high\u00a0level digital strategies to detailed enterprise models.\u00a0"
+        },
+        {
+            "text": "What we found was a big variation in maturity. A small number of councils have well\u00a0established architecture practices. Many more rely on static documents or spreadsheets that are hard to keep up to date and difficult to use when decisions need to be made.\u00a0"
+        },
+        {
+            "text": "This reflects\u00a0the reality of local government\u00a0where digital and technology teams are small, priorities change quickly, and architecture work often happens alongside delivery, rather than as a dedicated, ongoing practice.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What councils told us\u00a0"
+        },
+        {
+            "text": "Alongside this desk research, we spent time talking to councils.\u00a0"
+        },
+        {
+            "text": "Through workshops,\u00a0webinars\u00a0and an expression of interest, we heard a consistent message.\u00a0Whilst some\u00a0councils are already documenting their technology in some form,\u00a0each council\u00a0does it differently.\u00a0"
+        },
+        {
+            "text": "There is no common model or shared language\u00a0and that\u00a0makes it harder than it needs to be to compare\u00a0technology\u00a0estates, understand risk, or collaborate with peers and central government.\u00a0"
+        },
+        {
+            "text": "Councils also told us this becomes especially difficult during major change. Local Government Reorganisation\u00a0(LGR)\u00a0was raised repeatedly as a moment when having a clear, shared view of technology really matters,\u00a0particularly when estates need to be combined or separated at pace.\u00a0"
+        },
+        {
+            "text": "What councils asked for was not a new set of rules, or a mandated solution. They asked for something simpler;\u00a0a shared way of describing technology that still allows for local choice.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Learning from elsewhere\u00a0"
+        },
+        {
+            "text": "We also looked beyond the UK.\u00a0"
+        },
+        {
+            "text": "We met with people from\u00a0Denmark and the Netherlands\u00a0as well as examining\u00a0through desk research how\u00a0shared architecture models are used across local government. These models help organisations describe their technology in consistent ways, while still making local decisions about services and suppliers.\u00a0"
+        },
+        {
+            "text": "These\u00a0examples were helpful, not because they can be copied directly, but because they showed that\u00a0it\u2019s\u00a0possible to support consistency without centralising control.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why a common model helps\u00a0"
+        },
+        {
+            "text": "Councils are different by design. They serve different communities\u00a0and\u00a0operate\u00a0in different contexts.\u00a0"
+        },
+        {
+            "text": "At the same time, councils often buy from the same limited market of technology suppliers and implement similar capabilities independently, using stretched digital and technology teams.\u00a0"
+        },
+        {
+            "text": "Without a shared way of describing technology, this leads to duplicated effort, fragmented assurance, and avoidable risk.\u00a0"
+        },
+        {
+            "text": "A common architecture model helps by providing a shared language.\u00a0"
+        },
+        {
+            "text": "It makes it easier to describe applications, integrations,\u00a0data\u00a0and underlying capabilities, regardless of which products are in use. That supports clearer conversations with suppliers, internal governance groups, and central government. It also makes dependencies and risks easier to see.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Putting the model to use\u00a0"
+        },
+        {
+            "text": "Our focus now is on using the model to support real delivery.\u00a0"
+        },
+        {
+            "text": "For GDS,\u00a0a\u00a0shared view of council technology\u00a0will\u00a0help us\u00a0design\u00a0services\u00a0and standards that fit more easily into\u00a0local government\u00a0technology\u00a0estates, reduce duplication, and support interoperability from the start.\u00a0"
+        },
+        {
+            "text": "For other government departments,\u00a0this will help teams\u00a0identify\u00a0which part of the council operating model\u00a0the\u00a0products\u00a0they build\u00a0support,\u00a0design for integration from the outset by\u00a0anticipating\u00a0common\u00a0dependencies, and\u00a0reduce\u00a0duplication by reusing shared patterns and aligning assurance,\u00a0standards\u00a0and guidance across departments.\u00a0"
+        },
+        {
+            "text": "For councils, the model creates a shared language that makes collaboration easier. By describing technology in consistent ways, councils can better compare approaches, share learning, and\u00a0identify\u00a0opportunities to work together.\u00a0"
+        },
+        {
+            "text": "The model\u00a0can also play\u00a0an important role\u00a0in shaping the market. By making common capabilities,\u00a0patterns\u00a0and dependencies more visible, it helps suppliers better understand local government\u00a0needs as a whole, not\u00a0just individual council requirements.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What happens next\u00a0"
+        },
+        {
+            "text": "The published model is a starting\u00a0point,\u00a0and it\u00a0represents\u00a0just one part of a broader vision for local government technology.\u00a0\u00a0"
+        },
+        {
+            "text": "We\u2019ll\u00a0keep developing it in the open with councils and partners, so it\u00a0remains\u00a0practical,\u00a0flexible\u00a0and rooted in real delivery.\u00a0Next steps include:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Want to know more?\u00a0\u00a0"
+        },
+        {
+            "text": "Sign up to\u00a0GDS Local\u2019s\u00a0newsletter\u00a0for more about\u00a0Sourcing\u00a0the Stack, and our other\u00a0initiatives.\u00a0"
+        }
+    ]
+}
