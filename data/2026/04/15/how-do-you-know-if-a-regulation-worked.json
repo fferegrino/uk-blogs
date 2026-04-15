@@ -1,0 +1,103 @@
+{
+    "url": "https://rpc.blog.gov.uk/2026/04/15/how-do-you-know-if-a-regulation-worked/",
+    "title": "How do you know if a regulation worked?",
+    "authors": [
+        "Caroline Elliott, RPC committee member",
+        "Allan Little, RPC committee member"
+    ],
+    "categories": [
+        "Post-implementation reviews"
+    ],
+    "pub_date": "2026-04-15T10:24:20+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Why post implementation reviews need more regression analysis"
+        },
+        {
+            "text": "Every year the government introduces or amends dozens of regulations. When this happens via secondary legislation, typically the relevant government department is expected to come back within 5 years and conduct a post implementation review (PIR), asking whether the policy delivered what was promised. "
+        },
+        {
+            "text": "See a previous RPC blog that outlines what is required in a PIR. "
+        },
+        {
+            "text": "This may all sound straightforward, but in practice, it is one of the hardest questions in policy evaluation."
+        },
+        {
+            "text": "Consider an example, albeit a primary legislation example. In June 2019, the government banned letting agents in England from charging fees above \u00a350 to tenants. The Tenant Fees Act affected millions of renters. Agents could no longer charge for referencing, administration, or inventory checks, costs that had typically added hundreds of pounds to the start of a tenancy. "
+        },
+        {
+            "text": "Would the legislation lead to reduced agent margins, costs being passed through to landlords, agents exiting the market and/or put new agents off from entering the market? "
+        },
+        {
+            "text": "While The Tenant Fees Act was primary legislation, below we use this example to illustrate the scope for government departments to use regression analysis as a tool to determine whether policies with clear intentions deliver on those intentions."
+        },
+        {
+            "heading": 2,
+            "text": "The identification problem"
+        },
+        {
+            "text": "The difficulty is disentangling cause and effect. Regulations don't operate in a vacuum. The rental market in 2019 to 2024 was also shaped by the pandemic, interest rate rises, changes to tax relief for landlords, and shifts in where people wanted to live. Tenant fees may have fallen after the ban - but would some of that have happened anyway? Rents may have risen - but was that because of the ban, or because of something else?"
+        },
+        {
+            "text": "This is what economists call the identification problem: isolating the specific effect of one policy change when many other things may be changing at the same time. It is the reason many PIRs struggle to go beyond descriptive data - showing what happened after a regulation, without being able to say how much happened because of it."
+        },
+        {
+            "heading": 2,
+            "text": "A smarter approach"
+        },
+        {
+            "text": "Regression analysis offers a way through. It is a statistical method that allows you to estimate the effect of one factor - such as a new regulation - while controlling for other things that were also changing."
+        },
+        {
+            "text": "Dr Nikhil Datta of the University of Warwick, together with Jan David Bakker, recently showed what this looks like in practice - using the Tenant Fees Act as a case study. "
+        },
+        {
+            "text": "They applied regression techniques to detailed data on lettings transactions to estimate not just one impact, but several:"
+        },
+        {
+            "text": "Their findings were striking: tenants saved \u00a3376, while landlords lost \u00a374 and letting agents absorbed most of the impact, losing \u00a3288. Meanwhile, there was no significant exit of landlords or letting agents from the market. The aggregate welfare gain was conservatively estimated to be over \u00a316 million."
+        },
+        {
+            "text": "Crucially, none of this would be visible from simply tracking fees before and after the ban. Regression analysis is what makes the difference. It could also be used by government departments prior to the introduction of legislation to forecast the potential effects of proposed legislation."
+        },
+        {
+            "heading": 2,
+            "text": "Government already has the tools"
+        },
+        {
+            "text": "This kind of analysis rarely requires expensive new data collection - Bakker and Datta's work drew on existing transaction-level data. Many of the datasets government departments would need are already collected - by the Office for National Statistics, by HMRC, by regulators, or by departments themselves. The growing availability of administrative and online data, combined with modern tools for data collection and analysis, means the raw material for better evaluation is frequently already to hand."
+        },
+        {
+            "text": "The analytical capability is there too. Government's analytical professions - economists, statisticians, social researchers and data scientists - are trained in, and familiar with econometric and statistical techniques. Regression analysis is a core part of the toolkit that government analysts bring to their work every day. The opportunity is to apply it more systematically to post implementation reviews."
+        },
+        {
+            "heading": 2,
+            "text": "Better evidence, better regulation"
+        },
+        {
+            "text": "Regression analysis is not the whole story. Good evaluation draws on a range of approaches - process evaluation, qualitative evidence, stakeholder feedback - and the right strategy depends on the policy and the questions being asked, as discussed in another recent RPC blog post on monitoring and evaluation. "
+        },
+        {
+            "text": "The government's Evaluation Task Force and the HM Treasury Magenta Book provide comprehensive guidance on designing evaluation strategies. "
+        },
+        {
+            "text": "Nor are all regressions created equal: the value of the analysis depends on the quality of the data and the credibility of the identification strategy. What we are highlighting here is an underused part of the toolkit - one that, when applied well, can add real analytical power to post implementation reviews."
+        },
+        {
+            "text": "At the RPC, we review PIRs as part of our scrutiny role. Too often we see reviews that describe what happened, but cannot say why. The data may show that a market changed after regulation - but without analysis that controls for other factors, it is hard to know whether the regulation was responsible, whether the effects were as large as expected, or whether there were unintended consequences."
+        },
+        {
+            "text": "We would like to see more departments use regression analysis and other econometric approaches, when planning and conducting their PIRs. Not every PIR will lend itself to this kind of analysis, and proportionality matters. But where the data exists and the policy question is important, the tools to examine it more rigorously are already within reach."
+        },
+        {
+            "text": "The Tenant Fees Act is just one example \u2014 but it shows what is possible when rigorous analytical methods are brought to bear on the question every PIR is trying to answer: did this regulation actually work?"
+        },
+        {
+            "text": "The Bakker and Datta paper is available at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200278"
+        },
+        {
+            "text": "Subscribe to the RPC\u2019s blog\u00a0to be notified when we post new articles."
+        }
+    ]
+}

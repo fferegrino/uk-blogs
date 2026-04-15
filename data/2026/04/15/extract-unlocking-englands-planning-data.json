@@ -1,0 +1,111 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/04/15/extract-unlocking-englands-planning-data/",
+    "title": "Extract: unlocking England\u2019s planning data",
+    "authors": [
+        "The Digital Planning team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2026-04-15T15:38:15+01:00",
+    "content": [
+        {
+            "text": "England's planning authorities hold a wealth of information that applicants, software developers and researchers use in the planning process. Decades of valuable planning information \u2013 conservation areas, Article 4 Directions, Tree Preservation Orders (TPOs) \u2013 are, however, locked in scanned PDFs, archived maps and paper documents, organised differently by each authority and largely invisible to the tools and systems that could benefit from using it."
+        },
+        {
+            "text": "Good planning data is foundational to everything we are trying to achieve in the Digital Planning programme. The government has committed to delivering 1.5 million new homes this Parliament and we need faster planning decisions. This is only achievable with a planning system that is faster, more transparent and data-driven."
+        },
+        {
+            "text": "But a faster, better-equipped planning system depends on data that is standardised, accessible and machine-readable."
+        },
+        {
+            "text": "That is the problem we are trying to solve with an AI-tool called Extract."
+        },
+        {
+            "heading": 2,
+            "text": "What Extract will deliver"
+        },
+        {
+            "text": "Extract is an AI-powered tool, developed by the Ministry of Housing and Local Government's (MHCLG's) Digital Planning Programme, in partnership with the Department for Science, Innovation and Technology\u2019s Incubator for Artificial Intelligence (i.AI). It converts historic planning maps and documents into standardised, usable planning data. Tasks that currently take planning and Geographic Information System (GIS) officers hours to complete manually are being done in minutes."
+        },
+        {
+            "text": "For senior leaders in local planning authorities, the strategic case is straightforward. Extract will:"
+        },
+        {
+            "heading": 3,
+            "text": "Reduce the data burden on planning teams\u202f"
+        },
+        {
+            "heading": 3,
+            "text": "Improve transparency and public access\u202f"
+        },
+        {
+            "heading": 3,
+            "text": "Power the next generation of planning tools\u202f"
+        },
+        {
+            "heading": 3,
+            "text": "Contribute to a national dataset"
+        },
+        {
+            "text": "The case for this is already being made \u2013 in March, the Planning Data platform saw nearly 7,000 users \u2013 our highest monthly figure since reintroducing analytics, with growing repeat usage focused on key development datasets that are essential to effective decision-making, including conservation areas, listed buildings, brownfield land and TPOs."
+        },
+        {
+            "text": "As a minimum viable product, Extract will support the digitisation of this data, converting existing digital documents (including scanned PDFs) into reliable, exportable data that can be integrated into geospatial analysis and digital planning tools."
+        },
+        {
+            "heading": 2,
+            "text": "What have we been doing since last summer"
+        },
+        {
+            "text": "Following the Prime Minister\u2019s announcement of Extract at London Tech Week in June 2025 and our last blog post explaining how the tool works, our focus has been to move from a working prototype into structured testing with real planning authorities."
+        },
+        {
+            "text": "This has meant visiting councils, observing how planning and GIS teams work in practice, and iterating the product based on what we saw to improve it and make sure we have an AI-enabled service that is trustworthy and usable for planning authorities."
+        },
+        {
+            "text": "We\u2019ve approached this in the same way we build other government digital services: start with the riskiest assumptions, run structured user research, and iterate based on evidence."
+        },
+        {
+            "text": "Simon Millier, Head of Technology and Design, Adur and Worthing Councils, said: "
+        },
+        {
+            "text": "Alongside user research, we\u2019ve continued improving the tool itself so it can be used more reliably and efficiently. The technology itself has also advanced significantly since last summer. The tool now handles complex maps more reliably, supports larger document volumes, and includes features that allow users to review, check and correct outputs against original source material - essential for building the confidence that any authority will need before using extracted data in live planning work."
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ve learned along the way"
+        },
+        {
+            "text": "Turning a fast-moving AI proof of concept into a government service is not straightforward. The biggest early lesson was that real progress came when our team went into local planning authorities and worked alongside planning and GIS officers directly, understanding how data is created in practice."
+        },
+        {
+            "text": "Trust in outputs has been central to everything. Extract is only useful if planners are confident that what it produces meets the quality standards they would apply themselves. So we have worked at a small scale, iterating on findings, and making quality a prerequisite for any wider rollout rather than something to address later."
+        },
+        {
+            "text": "We have also been deliberate about what Extract is and isn't. It supports officers \u2013 it does not replace them. It helps to create standardised data faster and more efficiently - but officers review and confirm its accuracy before it is used. That verified data can then be relied upon to inform decision-making."
+        },
+        {
+            "text": "And alongside the visible product work, we have completed the less glamorous but essential steps any government digital service requires \u2013 an accessibility audit, terms of use, and privacy and security approvals and preparing the technical infrastructure required to operate the service on MHCLG\u2019s systems."
+        },
+        {
+            "heading": 2,
+            "text": "So what next?"
+        },
+        {
+            "text": "We are on track to make Extract available to all local planning authorities very soon."
+        },
+        {
+            "text": "To get there, we are\u00a0currently conducting final testing with a small number of local planning\u00a0authorities\u00a0ahead of the wider rollout."
+        },
+        {
+            "heading": 2,
+            "text": "Working in the open"
+        },
+        {
+            "text": "If you want to follow our progress as Extract develops, our weeknotes are the best place to go \u2013 here we share what we're working on, what we're learning, and what's coming next."
+        }
+    ]
+}

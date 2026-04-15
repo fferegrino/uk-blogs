@@ -1,0 +1,74 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/04/15/gds-local-building-the-foundations-for-digital-collaboration/",
+    "title": "GDS Local:\u00a0building the foundations for\u00a0digital collaboration",
+    "authors": [
+        "Liz Adams, Service Owner, GDS Local",
+        "Sam Nutt, Digital Strategy Lead, GDS Local"
+    ],
+    "categories": [
+        "GDS Local"
+    ],
+    "pub_date": "2026-04-15T16:18:18+01:00",
+    "content": [
+        {
+            "text": "Local government is an essential part of delivering the ambitious vision of the Blueprint for modern digital government, and creating a joined-up government that works as a joined-up system, where digital infrastructure is shared, services are interoperable, and residents \u2013 especially those who depend most on public services \u2013 experience services that work for them."
+        },
+        {
+            "text": "GDS Local exists to support this ambition. Our role is to catalyse, enable and champion from the digital centre. We will do this by building a shared vision for local government technology \u2013 that helps us deliver on the ambition of the blueprint \u2013 working with local councils to reduce barriers to digital transformation, and making sure the products and standards coming from the centre of government help to make this change happen on the ground."
+        },
+        {
+            "text": "In our work, we want to improve everyday experiences for people \u2013 especially for those with complex or overlapping needs who rely on local services \u2013 while also helping local councils respond to rising demands and budget pressures, by using new technology to build productive, efficient services."
+        },
+        {
+            "text": "In this update, we want to share what we\u2019ve been learning and doing against our 4 priorities:"
+        },
+        {
+            "heading": 2,
+            "text": "Co-creating a strategic vision for technology"
+        },
+        {
+            "text": "Our aim is drive towards a shared, credible strategic view of local government technology. We want to work through the design and delivery of digital council services to enable better procurement decisions, reduce duplication and shift market conditions."
+        },
+        {
+            "text": "This month we delivered one of our commitments from the GDS Roadmap: a technology reference model, our Local Government Architecture Model, which is part of our ongoing work to co-create a technology vision for local government."
+        },
+        {
+            "text": "This is the first step in building a common way of describing the components of a local government technology stack \u2013 the set of tools and products and technologies that drive the organisation \u2013 and then what good practice looks like for each of those components and how to source them well."
+        },
+        {
+            "text": "We\u2019re doing this with councils \u2013 we have run 5 workshops with councils and suppliers, through monthly online webinars averaging around 60 participants per session, and run surveys of council officers to ensure we have our finger on the pulse of what councils are doing and what matters to them."
+        },
+        {
+            "text": "We\u2019ve also been researching existing council technology architectures and exploring how we might provide an architecture mapping tool to councils free of charge. This is just the start; we know that, coupled with the opportunities and challenges of Local Government Reorganisation (LGR), there is a role for GDS to really help here."
+        },
+        {
+            "heading": 2,
+            "text": "Opening up the GDS offer"
+        },
+        {
+            "text": "One of the biggest opportunities in the GDS Blueprint is common digital infrastructure: components built or designed once, used across the public sector, rather than every organisation solving the same problems from scratch. Some of the components in this stack could be products that GDS has developed or is developing. We\u2019re working with those product teams to understand council needs, test their assumptions and help them extend their offer to councils."
+        },
+        {
+            "text": "For example, for the GOV.UK app, we\u2019ve been working with local authorities to test assumptions about council needs, surfacing integration challenges around the app like fragmented data, supplier lock-in, inconsistent APIs, and questions about local service branding. With the app team, we\u2019ve been running a proof of concept in the app that incorporates waste collection data, which has given us useful insights on data integration and what enabling scale will require."
+        },
+        {
+            "text": "We\u2019ve also been helping to boost digital talent in local councils by opening up our training programmes. Around a quarter of participants on the GDS AI Accelerator, an AI training programme for the public sector, are from local government, after we helped shape and promote the offer in relevant local government forums. We will be doing lots more of this going forward."
+        },
+        {
+            "heading": 2,
+            "text": "Bringing people together"
+        },
+        {
+            "text": "Collaboration is crucial for us to successfully deliver our ambitions \u2013 and for local government in accessing and developing modern, digital services. In November we ran a Homelessness and Rough Sleeping Hackathon in Birmingham, bringing together council teams, with both digital and service practitioners, to work on some of the hardest problems in local service delivery. We were pleased to follow that up by hosting the winning teams to present their work to Minister for Digital Government and Data, Ian Murray, from DSIT, and Minister for Building Safety, Fire and Democracy, Samantha Dixon MBE, from MHCLG, demonstrating the collaboration between departments and the interest in this work from the highest levels."
+        },
+        {
+            "text": "At Innovation 2026, we ran a workshop with Liverpool\u2019s Office for Public Sector Innovation and GDS data teams, bringing together around 50 council officers. We\u2019ve heard clearly from hundreds of people across local government that they want more communication, more clarity on our plans, and more ways to get involved, which is why we have created the GDS Local newsletter where you can follow our work."
+        },
+        {
+            "text": "To help us shape that engagement offer, please do spend 5 minutes on this questionnaire so we can make sure our communications are working for you."
+        },
+        {
+            "text": "The vision in the Blueprint is genuinely ambitious, and we want to build it with you. If you have any thoughts you\u2019d like to share, please get in touch with the team at gdslocal-info@dsit.gov.uk."
+        }
+    ]
+}
