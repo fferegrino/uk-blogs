@@ -1,0 +1,157 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/04/20/how-were-preventing-ai-misinformation-at-dbt/",
+    "title": "How we\u2019re preventing AI misinformation at DBT",
+    "authors": [
+        "Giorgio Di Tunno, Senior Content Designer",
+        "Neil Starr, Content Operations Lead"
+    ],
+    "categories": [
+        "Professions"
+    ],
+    "pub_date": "2026-04-20T13:58:45+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Giorgio di Tunno"
+        },
+        {
+            "heading": 3,
+            "text": "Neil Starr"
+        },
+        {
+            "text": "In an earlier post, Andrea Leary highlighted how AI\u2011ready content can strengthen policy outcomes. Tracey Wilson then showed why clear ownership and active stewardship are critical to keeping content trustworthy. This post explores the practical implementation of those ideas and how we are proactively building a content lifecycle that prevents AI from giving the public incorrect information."
+        },
+        {
+            "text": "Imagine you want to set up a small charity in your local area. You need to know the costs involved, so you Google \u2018how much does it cost to set up a charity UK\u2019."
+        },
+        {
+            "text": "An AI overview appears. It states in plain English that it costs \u00a340 if you apply by post or \u00a313 if you apply online."
+        },
+        {
+            "text": "A simple, quick online journey that meets the user\u2019s need."
+        },
+        {
+            "text": "It would be. If the information were correct."
+        },
+        {
+            "text": "Since 1 February 2026, the cost to incorporate a company in the UK is \u00a3124 if you apply by post or \u00a3100 if you apply online - as set out in the Companies House fees guidance. "
+        },
+        {
+            "text": "When it\u2019s time to pay, the user already feels frustrated. Even though the guidance page is correct, the experience still has a negative impact. As one of our user research participants said, \u201cWhat else does government have out there that is \u2018designed to trip you up\u2019?\u201d. The problem isn\u2019t that the government is trying to trip people up (it isn\u2019t), but that inconsistent information surfaced by the AI overview feels that way to users. That perception alone can undermine confidence in government services."
+        },
+        {
+            "heading": 2,
+            "text": "Why AI is picking up incorrect government information"
+        },
+        {
+            "text": "Although the primary page on registering a company was up-to-date, users are increasingly using narrower, more nuanced searches."
+        },
+        {
+            "text": "This means \u2018agentic search\u2019, where GenAI performs multiple steps to meet a user\u2019s objective, looks for content that meets these niche scenarios."
+        },
+        {
+            "text": "As a result, the GenAI bot pulled information from an unmaintained, unused GOV.UK page that mentioned \u2018charity\u2019, instead of the primary GOV.UK page that is regularly monitored."
+        },
+        {
+            "text": "In the past, most of those outdated, niche pages would fall into the 0-view abyss, never to be stumbled on again. Now, as Andrea outlined in her blog post, GenAI bots are designed to search and gather information from all corners of the internet."
+        },
+        {
+            "text": "In February 2024, there were 700,000 published pages on GOV.UK. In the 2 years since, that number has increased substantially."
+        },
+        {
+            "text": "This was never ideal from an environmental perspective. It\u2019s also not what the founders of GOV.UK intended, who wanted nodes of information to help users complete a task, rather than the proliferation of pages."
+        },
+        {
+            "text": "Not only are GenAI bots picking up outdated information from GOV.UK, but they\u2019re also \u2018hallucinating\u2019 answers.\u00a0"
+        },
+        {
+            "text": "Andrea advocated for AI\u2011ready content, and Tracey highlighted the importance of clear ownership to maintaining accuracy. This post focuses on the actions we at DBT are taking to address the risks that arise when AI bots meet outdated content."
+        },
+        {
+            "heading": 2,
+            "text": "How we're preventing AI from providing false information"
+        },
+        {
+            "text": "In the content design profession at the Department for Business and Trade (DBT), we\u2019ve committed to a long-running programme of content lifecycle improvements to address these risk of misinformation issues."
+        },
+        {
+            "text": "Working in partnership with GDS and The National Archives (TNA) we are reshaping how we manage the DBT content estate. We are moving from a one-size-fits-all approach to a policy where we retire content based on a newly developed set of criteria."
+        },
+        {
+            "text": "Content designers in the Regulations Directorate at DBT have fed into this new approach with valuable insights. They identified 2 methods that we can use to address the issue of AI bots and false government information."
+        },
+        {
+            "heading": 3,
+            "text": "Method 1: auditing and unpublishing outdated content"
+        },
+        {
+            "text": "We kicked this off by performing a manual audit using an existing dataset that enabled us to find all GOV.UK pages that:"
+        },
+        {
+            "text": "Immediately, we found 150 pages that met all these criteria."
+        },
+        {
+            "text": "We considered withdrawing them with a banner at the top of the page to state they were out-of-date (example of a withdrawn page), but we\u2019ve seen user research participants just skip over the banner in the past. We also want to guarantee that GenAI bots don\u2019t pick them up."
+        },
+        {
+            "text": "Therefore, we decided to redirect the pages to either:"
+        },
+        {
+            "text": "150 pages is a small dent in the growing 700,000-page estate. But it\u2019s a start. And as our tools and methods scale upwards, so will the dent we make."
+        },
+        {
+            "text": "It\u2019s the beginning of a race with AI, to ensure UK business owners only receive correct information when they search online for guidance to help them comply with regulations."
+        },
+        {
+            "heading": 3,
+            "text": "Method 2: testing a content maintenance plan"
+        },
+        {
+            "text": "To prevent the possibility of future AI hallucinations from content that becomes out of date over time, we have created a semi-automated cross-government content maintenance plan."
+        },
+        {
+            "text": "We are doing this by building continuous working relationships with the departments and regulators we work with to design specific content. This moves us away from more traditional approaches that treat them as one-off stakeholders."
+        },
+        {
+            "text": "The plan will ensure these pages are reviewed and updated every 6 months as a minimum."
+        },
+        {
+            "text": "Whenever a page is updated to reflect changes in regulations, subscribers will be notified, and this grey box pattern will be updated. These tactics match the user needs that were revealed in user research."
+        },
+        {
+            "text": "This pattern has tested extremely well with real users. So far, all user research participants have stated that the pattern makes them more likely to use and trust the page."
+        },
+        {
+            "text": "We are still in the testing phase, and we will continue to update the community as we receive more feedback."
+        },
+        {
+            "heading": 2,
+            "text": "What we're doing next"
+        },
+        {
+            "text": "We are continuing to test and refine our content lifecycle management and retirement policy. There are lots of plans within the department to unpublish more outdated pages and prevent future AI inaccuracies and hallucinations."
+        },
+        {
+            "text": "We are also working on:"
+        },
+        {
+            "text": "We will be publishing a blog post on this work within the coming months."
+        },
+        {
+            "text": "As mentioned, this is just the beginning."
+        },
+        {
+            "text": "Earlier, I referred to it as a \u2018race\u2019 against AI. But there\u2019s a less combative, more efficient perspective."
+        },
+        {
+            "text": "It\u2019s an opportunity to reinvigorate government commitment to putting time and resource into well-maintained content lifecycles. This is how we optimise technology to meet users\u2019 needs, such as finding out the cost of setting up a charity in the UK."
+        },
+        {
+            "heading": 2,
+            "text": "How to get involved"
+        },
+        {
+            "text": "Please comment below if you are looking to improve your regulatory guidance or content lifecycles. We look forward to hearing from you."
+        }
+    ]
+}
