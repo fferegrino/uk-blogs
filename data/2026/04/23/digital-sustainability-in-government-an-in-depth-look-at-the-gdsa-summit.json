@@ -1,0 +1,102 @@
+{
+    "url": "https://sustainableict.blog.gov.uk/2026/04/23/digital-sustainability-in-government-an-in-depth-look-at-the-gdsa-summit/",
+    "title": "Digital sustainability in government: an in-depth look at the GDSA Summit",
+    "authors": [
+        "Ned Gartside"
+    ],
+    "categories": [
+        "GDSA",
+        "Sustainable ICT",
+        "Uncategorized"
+    ],
+    "pub_date": "2026-04-23T08:30:00+01:00",
+    "content": [
+        {
+            "text": "Ned Gartside, Sustainable Design Lead for Defra, reflects on the second Government Digital Sustainability Alliance (GDSA) summit, which took place in London in February, bringing together nearly 300 digital sustainability experts to celebrate progress and focus minds on the challenges ahead."
+        },
+        {
+            "text": "My colleague Lydia Tabbron\u2019s recent article, \u2018Our biggest digital sustainability moment yet\u2019, touched on the main themes from the eight panel discussions on the day. I\u2019m going to expand on those themes a little and share some key takeaways."
+        },
+        {
+            "heading": 2,
+            "text": "Procurement is a powerful lever for change... and it's being pulled"
+        },
+        {
+            "text": "As Minister for Nature, Mary Creagh reminded us in her keynote that the government is the largest purchaser of goods and services in the UK, spending \u00a314 billion on Information and Communications Technology (ICT) every year. That gives it a role as market maker: what the government demands shapes what industry supplies."
+        },
+        {
+            "text": "A strong example of this in action is Defra\u2019s new contract to provide colleagues with refurbished laptops by default, reducing costs, carbon and demand for raw materials. Crucially, as Edd Parry from Defra explained, the department was \u2018uncompromising on the user experience\u2026 as no one likes a hand-me-down\u2019."
+        },
+        {
+            "text": "These laptops are refurbished to an aesthetic and performance standard at least equal to new ones, creating genuine pride among colleagues rather than reluctance."
+        },
+        {
+            "text": "This approach offers a scalable model for other departments, many of which are already looking to follow. The upcoming updated Government Buying Standards will support this further, providing a consistent set of minimum sustainability requirements for purchasing hardware, software, cloud hosting and artificial intelligence (AI)."
+        },
+        {
+            "heading": 2,
+            "text": "AI brings significant sustainability implications alongside its efficiency gains"
+        },
+        {
+            "text": "Another significant theme addressed at the summit was the potential and pitfalls of digital technology. Technology can bring real benefits to the public sector: saving time, reducing costs and carbon, and unlocking insight at scale previously thought impossible."
+        },
+        {
+            "text": "Jeremy Davis from HM Revenue and Customs (HMRC) gave a compelling example of how AI is being used to summarise the 37 million phone calls the department receives each year, freeing up colleagues for other valuable tasks and reducing operational costs."
+        },
+        {
+            "text": "However, while it might seem that digital technologies, including AI, write their own business case, they are not neutral when it comes to environmental impact. As Claire Robinson from Transform highlighted, the raw computational demands of many AI models mean we need to assess their net environmental impact carefully."
+        },
+        {
+            "text": "She described a proof-of-concept project in Defra, developed with John Steward, in which an AI tool helped farmers identify funding opportunities relevant to their land, business plans and sustainability goals. A net impact assessment showed that scaling the tool to 20,000 farmers would deliver significant environmental and economic benefits."
+        },
+        {
+            "heading": 2,
+            "text": "We need to look beyond carbon"
+        },
+        {
+            "text": "Decarbonisation has long dominated the environmental agenda, and reducing greenhouse gases towards net zero by 2050 is a legal commitment in the UK through the Climate Change Act."
+        },
+        {
+            "text": "For digital hardware, Professor Deborah Andrews highlighted that carbon from the full product lifecycle represents roughly 50% of environmental impact. The other 50% comes from materials, pollution, water use, resource consumption and land use change involved in mining, processing, manufacturing and distribution. Measuring carbon alone misses half the picture."
+        },
+        {
+            "text": "For me, the biggest opportunities for circularity are \u2018upstream\u2019. Designing hardware so parts can be upgraded or critical minerals can be recovered more easily would reduce a wide range of environmental impacts. It would also support the UK\u2019s Critical Minerals Strategy by reducing demand for valuable materials, and contribute to the Industrial Strategy and the upcoming Circular Economy Growth Plan."
+        },
+        {
+            "heading": 2,
+            "text": "Social sustainability: global supply chains and digital inclusion at home"
+        },
+        {
+            "text": "The social side of sustainability spans global and domestic issues. Shelley Cotterill from DXC Technology highlighted emerging risks in the AI supply chain from offshoring, including poor working conditions for those involved in labelling data used to train AI models and forced labour in the mining of rare-earth metals used to manufacture computer processors."
+        },
+        {
+            "text": "Closer to home, Christine Liang from the Department for Science, Innovation and Technology (DSIT) spoke about digital exclusion in the UK. Around 1.6 million people in the UK are completely offline, for reasons ranging from cost to lack of confidence. Recent work in DSIT has explored donating refurbished laptops to digitally excluded people at scale."
+        },
+        {
+            "heading": 2,
+            "text": "We must plan for resilient digital services"
+        },
+        {
+            "text": "Ben Tongue, from NHS England, reminded us that future extreme weather events, made more likely by climate change, could threaten the stability of public services and the digital infrastructure they depend on. As Mike Berners-Lee put it, the greatest risk to health from climate events is not direct injury, but disruption or even breakdown of wider health services themselves when heat or flood events strike."
+        },
+        {
+            "text": "I recognise that building resilience comes with its own sustainability cost. Creating multiple backups and putting significant redundancy in place increases carbon and resource consumption. As Mark Butcher put it, we need to understand these trade-offs and make sure resilience measures are proportionate, targeted and properly resourced."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "Ned Gartside is the Sustainable Design Lead for Defra and created the Greener Service Principles, a practical framework built to embed sustainability into everyday digital decision-making."
+        },
+        {
+            "text": "The GDSA brings together UK government, ICT and digital supply chain, academics and third sector organisations to drive progress on the sustainability of the UK government\u2019s ICT and digital estate."
+        },
+        {
+            "text": "If you're interested in finding out more about what we do or would like to know more about becoming a member of the alliance, please get in touch."
+        },
+        {
+            "text": "Check out our LinkedIn page for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        }
+    ]
+}
