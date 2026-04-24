@@ -1,0 +1,58 @@
+{
+    "url": "https://nista.blog.gov.uk/2026/04/24/hacking-major-projects/",
+    "title": "Hacking major projects",
+    "authors": [
+        "nista"
+    ],
+    "categories": [
+        "Teams"
+    ],
+    "pub_date": "2026-04-24T08:58:32+01:00",
+    "content": [
+        {
+            "text": "Jess Grindlay, NISTA's Lead Data Scientist, talks about her experiences hacking creative solutions to help manage government projects"
+        },
+        {
+            "text": "In NISTA, we often\u00a0say\u00a0\u2018Projects\u00a0don\u2019t\u00a0go wrong, they start wrong\u2019.\u00a0\u00a0"
+        },
+        {
+            "text": "As the home of government project data, the NISTA Data & Insight team supports major projects\u00a0once\u00a0they\u2019re\u00a0up and running. We collect and analyse delivery data and build tools to help projects stay on track, including:\u00a0"
+        },
+        {
+            "text": "A key part of NISTA\u2019s role is setting standards and providing expert guidance to support project delivery teams managing individual projects, and improving government\u2019s overall project delivery capabilities. "
+        },
+        {
+            "text": "In the data team, we\u2019ve been thinking a lot about what additional products could help set projects on the right\u00a0path\u00a0before any\u00a0delivery data even exists.\u00a0\u00a0"
+        },
+        {
+            "text": "This is the problem we wanted to solve\u00a0at the Government Digital Service AI Engineering Hackathon, on Thursday 16\u00a0April.\u00a0\u00a0"
+        },
+        {
+            "text": "Hosted by Version 1 at\u00a0CodeNode,\u00a0the hackathon brought together\u00a040 teams\u00a0comprising\u00a0of 200 data scientists and engineers from across government.\u00a0Throughout the day we met other\u00a0brilliant\u00a0Government Data Science teams \u2013 working on\u00a0everything\u00a0from tools for farmers to navigate government regulation\u00a0to\u00a0AI-driven\u00a0casework prioritisation.\u00a0\u00a0"
+        },
+        {
+            "text": "With access to forward\u2011deployed engineers, lightning talks from Microsoft, Anthropic and GitHub, and a powerful suite of AI tools\u00a0(including AWS Kiro with in\u2011line AI agents),\u00a0we were able to rapidly create a prototype of a full\u2011stack solution \u2013 essentially, a solution integrating the user interface, backend workflow and structured database in a single app \u2013 within a single day.\u00a0"
+        },
+        {
+            "text": "That solution was\u00a0Cub:\u00a0an\u00a0AI\u2011powered\u00a0project\u00a0set\u2011up\u00a0tool to support delivery teams get a project up and running."
+        },
+        {
+            "text": "In short, Cub takes a Project Initiation Document (PID) and early scoping material for the project and turns it into a fully formed project plan: an interactive Kanban board (a visual tool that maps workflows), resource and cost tracking, and a live risk register.\u00a0It\u2019s\u00a0underpinned by the\u00a0Teal Book, helping teams set up projects in line with government best practice from day one.\u00a0"
+        },
+        {
+            "text": "We also built in:\u00a0"
+        },
+        {
+            "text": "As the day continued, the\u00a0pressure ramped up\u00a0with a live-updating\u00a0leaderboard\u00a0scoring the teams\u00a0in real-time,\u00a0to select the three that would demonstrate their solutions.\u00a0We were selected\u00a0to\u00a0present\u00a0our prototype\u00a0on stage...\u00a0and ended up winning the Hackathon!\u00a0\u00a0"
+        },
+        {
+            "text": "Judges scored teams on innovation, collaboration, use of AI, testing, handling edge cases and plans for future development,\u00a0and Cub stood out across them all!\u00a0"
+        },
+        {
+            "text": "Huge thanks to GDS for organising such a high\u2011energy, inspiring event. "
+        },
+        {
+            "text": "We\u00a0can\u2019t\u00a0wait to see\u00a0in the future\u00a0how Cub helps NISTA and the wider Project Delivery Function\u00a0set projects on the\u00a0right path from the very start.\u00a0\u00a0"
+        }
+    ]
+}
