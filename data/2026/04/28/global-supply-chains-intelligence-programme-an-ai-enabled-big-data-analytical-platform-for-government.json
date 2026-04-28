@@ -1,0 +1,128 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/04/28/global-supply-chains-intelligence-programme-an-ai-enabled-big-data-analytical-platform-for-government/",
+    "title": "Global Supply Chains Intelligence Programme: an AI-enabled big data analytical platform for government",
+    "authors": [
+        "Hannah Male, Programme Manager in Global Supply Chains Intelligence Programme",
+        "Rob Turner, Principle Data Scientist in Analytical Data Science"
+    ],
+    "categories": [
+        "AI"
+    ],
+    "pub_date": "2026-04-28T10:00:49+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Hannah Male"
+        },
+        {
+            "heading": 3,
+            "text": "Rob Turner"
+        },
+        {
+            "heading": 2,
+            "text": "What is the Global Supply Chains Intelligence Programme?"
+        },
+        {
+            "text": "Government departments increasingly need a clear, evidence-based understanding of global supply chains, whether to inform policy decisions, manage economic risk, or support operational delivery. The Global Supply Chains Intelligence Programme (GSCIP) was created to meet this need. It integrates very large-scale commercial and government datasets and applies advanced data science and AI techniques to provide unprecedented insights into supply chains at a speed not possible in the past. This combination of scale and speed in supply chains, intelligence-gathering and analysis places GSCIP at the cutting-edge of government AI applications."
+        },
+        {
+            "text": "In 2025, the GSCIP team was recognised with the Analysis in Government Impact Award. It celebrated the programme\u2019s role in informing major policy decisions, improving operational outcomes and driving innovation. It also delivered significant value for money for the taxpayer. This is a striking example of how government departments can collaborate to create integrated solutions, reducing duplication and inefficiency created by fragmented approaches."
+        },
+        {
+            "text": "This blog shares the GSCIP journey, from an ambitious idea to an award-winning analytical platform. It highlights what was achieved, the challenges along the way, and what other teams across government might learn from the experience."
+        },
+        {
+            "heading": 2,
+            "text": "Why a centralised approach was needed"
+        },
+        {
+            "text": "Supply chains inform almost every area of government activity, from economic security and international trade to procurement and crisis response. Yet historically, departments have often had to build their understanding in isolation, procuring similar datasets, developing bespoke tools, and duplicating analytical effort. Compared to a centralised capability like GSCIP, this duplication can result in poor value for money."
+        },
+        {
+            "text": "This fragmented approach also made it difficult to develop a consistent, timely picture of supply chain risks and opportunities across government. It also created barriers to collaboration, with analysts and policymakers working from different evidence bases and using different methods."
+        },
+        {
+            "text": "Addressing these challenges required more than a new dataset or dashboard. It needed coordination and close collaboration between analysts and digital specialists across departments. A shared commitment to building something that could be trusted was also needed, delivering intelligence at pace and scaled up. These all needed to stay within the constraints of government data, security, and commercial frameworks."
+        },
+        {
+            "heading": 2,
+            "text": "Building a shared capability"
+        },
+        {
+            "text": "GSCIP started with a simple idea. Could government departments work together to build a shared analytical capability for understanding global supply chains, rather than each department attempting to solve the same problem independently?"
+        },
+        {
+            "text": "From the outset, the programme brought together analysts, data scientists, commercial specialists and Digital, Data and Technology (DDaT) professionals. DDaT led the design and delivery of the secure platform, including data engineering and pipelines, cloud infrastructure, service and user-centred design. They also established the governance and security needed to operate it safely. Early collaboration helped shape both the analytical questions and the technical design, ensuring the platform would be genuinely useful."
+        },
+        {
+            "text": "Rather than aiming for a perfect solution upfront, GSCIP focused on building a minimum viable platform, testing it with real users, and iterating based on feedback. This agile approach allowed the team to learn quickly, demonstrate value early, and build momentum across departments."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge of scaling"
+        },
+        {
+            "text": "Scaling GSCIP from a small, experimental capability into a cross-government platform was not straightforward. One of the biggest challenges was moving from a successful beta configuration to something adaptable enough to support multiple departments with differing needs and priorities."
+        },
+        {
+            "text": "Coordinating across government also requires time and trust. Departments operate under different pressures, funding models and governance structures. This makes alignment more complex than in a single organisation. Securing buy-in and financial contributions meant clearly demonstrating value, being transparent about limitations, and showing how GSCIP complemented expertise."
+        },
+        {
+            "text": "There were also practical challenges around data access, security and commercial arrangements. All of these had to be addressed carefully to ensure the platform could be used safely and responsibly. A key challenge has been securing access for every department to the same data as DBT and aligning experience across our users. Working cross-profession with our suppliers and partners, GSCIP found new ways of sharing crucial microdata beyond just DBT."
+        },
+        {
+            "text": "Overcoming these hurdles required persistence, strong relationships and a shared belief in the collaboration's long-term benefits. Hiren Bhimjiyani, GSCIP\u2019s Programme Director reflected:"
+        },
+        {
+            "heading": 2,
+            "text": "GSCIP in action"
+        },
+        {
+            "text": "GSCIP has transformed how government understands and uses supply chain intelligence. By bringing together multiple datasets and advanced analytical techniques on a single, secure platform, it has enabled analysts and policymakers to explore supply chains in ways that were previously difficult or impossible."
+        },
+        {
+            "text": "The platform has supported a wide range of high\u2011impact work, including informing major policy decisions. It has identified vulnerabilities in critical supply chains and improved the evidence base for operational and commercial decisions. By providing a shared view across departments, GSCIP has also helped align conversations and reduce duplication of effort."
+        },
+        {
+            "text": "Crucially, the programme has demonstrated the value of combining analytical expertise with strong DDaT support. DDaT specialists work alongside the GSCIP team to enable the use of advanced analytics and AI techniques within GSCIP. They help to apply these methods safely and effectively so that complex insights can be made accessible to non-analysts."
+        },
+        {
+            "text": "This impact was recognised through the Analysis in Government Impact Award. The judges highlighted the programme\u2019s ability to deliver meaningful outcomes at scale while driving innovation and efficiency. For the team, the award was not just a celebration of technical achievement, but of collaboration across professions and departments to solve a genuinely cross-cutting problem."
+        },
+        {
+            "heading": 2,
+            "text": "Lessons in collaboration and iteration"
+        },
+        {
+            "text": "One of the clearest lessons from GSCIP is the importance of early and sustained collaboration. Bringing digital specialists from across professions together with analysts and policy experts from the start helped ensure the platform addressed real problems and could be delivered in practice."
+        },
+        {
+            "text": "Another key lesson was the value of starting small and iterating. Building an initial beta capability, maximising user learning, and being willing to learn and adapt proved far more effective than attempting to design a fully\u2011formed solution upfront."
+        },
+        {
+            "text": "Finally, investing time in relationships and trust was critical. Cross-government programmes rely as much on people as on technology. Clear communication, transparency about constraints, and a shared focus on outcomes helped maintain momentum even when progress was challenging. As Leigh Perryman, GSCIP\u2019s Senior Data Engineer reflected:"
+        },
+        {
+            "text": "These lessons are not unique to supply chain intelligence. They apply to any initiative seeking to deliver shared digital and analytical capability across government."
+        },
+        {
+            "heading": 2,
+            "text": "Setting an example for future collaboration"
+        },
+        {
+            "text": "GSCIP\u2019s journey from an uncertain and ambitious idea to an award\u2011winning platform shows what is possible when government works across boundaries to tackle shared challenges. By combining data, analytics and digital expertise, the programme has delivered real impact while making better use of public resources."
+        },
+        {
+            "text": "Perhaps most importantly, GSCIP demonstrates that collaboration across departments and professions is not just desirable, but essential for addressing complex, systemwide issues. The lessons learned along the way provide a valuable blueprint for others looking to turn ambitious ideas into meaningful outcomes."
+        },
+        {
+            "text": "If your work involves understanding supply chains or other cross-cutting issues, consider whether GSCIP could support your analysis instead of building something from scratch. Reusing and contributing to shared platforms helps government move faster, work smarter and deliver better outcomes for the taxpayer. "
+        },
+        {
+            "text": "If you're a public body interested in using GSCIP, please reach out to GlobalSupplyChainsIntelligenceProgramme@businessandtrade.gov.uk and let us know."
+        },
+        {
+            "text": "If you see a similar cross-government need in your area, GSCIP's story shows that with collaboration and persistence, it's possible to turn a bold idea into real impact."
+        }
+    ]
+}

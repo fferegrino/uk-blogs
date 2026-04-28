@@ -1,0 +1,65 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/04/28/gov-uk-one-login-for-hmrc-how-we-made-it-happen-and-what-comes-next/",
+    "title": "GOV.UK One Login for HMRC: how we made it happen and what comes next",
+    "authors": [
+        "Lucy Leonard, HMRC Onboarding Team Lead, GDS"
+    ],
+    "categories": [
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2026-04-28T12:52:59+01:00",
+    "content": [
+        {
+            "text": "After 3 years of close collaboration between the Government Digital Service (GDS) and HM Revenue and Customs (HMRC), GOV.UK One Login is now being rolled out to new HMRC users. This implementation represents a significant milestone for the cross-government project."
+        },
+        {
+            "text": "Since February, a proportion of users who access HMRC services online for the first time have been directed to sign in or create sign in details through GOV.UK One Login. This is another significant step towards a simpler, more consistent experience for people accessing government services online."
+        },
+        {
+            "text": "Over the coming months, we will be rolling this out to more new HMRC users until GOV.UK One Login becomes the standard route for everyone accessing HMRC services for the first time."
+        },
+        {
+            "text": "My role as the GDS team lead for the HMRC engagement is to ensure the GOV.UK One Login platform enables users\u2019 smooth access to HMRC\u2019s services. That means working closely with our HMRC colleagues to understand what they need, turning those needs into practical work our teams can deliver, and making sure the platform works well for everyone who uses it."
+        },
+        {
+            "heading": 2,
+            "text": "How we got here: building a shared solution"
+        },
+        {
+            "text": "Delivering a cross-government service of this scale required deep, collaborative work including:"
+        },
+        {
+            "heading": 2,
+            "text": "Go live: the moment the button was pressed"
+        },
+        {
+            "text": "The go live day for this milestone (9 February 2026) was worth celebrating. A small group of the core GDS team travelled to HMRC offices to be there in person when we switched the service on."
+        },
+        {
+            "text": "The joint GDS-HMRC team is spread right across the UK, making this in-person gathering a momentous occasion. Crucially, the launch went smoothly, and we celebrated the first successful users accessing HMRC services via GOV.UK One Login, complete with celebratory cake."
+        },
+        {
+            "heading": 2,
+            "text": "The next phase: monitoring and iterating"
+        },
+        {
+            "text": "Going live was just the beginning. We have established joint reporting measures and are now actively monitoring metrics to ensure the service continues to run smoothly and provides a positive user experience. We are tracking the:"
+        },
+        {
+            "text": "We will use this data to ensure we continue to meet user needs and that people can complete their required interactions with HMRC easily and effectively."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "Reaching this point has taken a huge amount of work from both teams. However, there is more to come. Our next priority is bringing existing HMRC users onto GOV.UK One Login. These are users who already have and actively use Government Gateway to access HMRC services."
+        },
+        {
+            "text": "We are continuing to work closely with our HMRC colleagues to take forward this essential next phase of work. Ultimately, the goal is the same as it has always been: making it simpler and easier for people to access the government services they need online."
+        },
+        {
+            "text": "P.S. The cake was delicious \u2013\u00a0I could have had a second slice, and I am very particular about cake."
+        }
+    ]
+}
