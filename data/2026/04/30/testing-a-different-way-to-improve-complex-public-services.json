@@ -1,0 +1,74 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/04/30/testing-a-different-way-to-improve-complex-public-services/",
+    "title": "Testing a different way to improve complex public services",
+    "authors": [
+        "Tom Wynne-Morgan, Deputy Director, CustomerFirst"
+    ],
+    "categories": [
+        "Digital Centre"
+    ],
+    "pub_date": "2026-04-30T12:51:29+01:00",
+    "content": [
+        {
+            "text": "We all depend on public services, but too often those services fall short. Most public service transformation does not fail because teams lack skill or commitment. It fails because no single team can act on the constraints that shape outcomes for users."
+        },
+        {
+            "text": "In many services, responsibility is spread across policy teams, arm\u2019s-length bodies, regulators and third parties. Decisions made in one place affect outcomes elsewhere. Teams are often asked to take responsibility for end-to-end services but lack the authority or space to address the constraints outside their control that matter most.The result is familiar: teams improve individual parts of the system but the overall experience for users changes little.CustomerFirst has been set up in DSIT to tackle this problem: to transform public services and test whether taking NewCo approach is the best way to do it."
+        },
+        {
+            "heading": 2,
+            "text": "Seeing and solving the whole service"
+        },
+        {
+            "text": "Government is clear about what good looks like. The Service Standard asks teams to solve whole problems for users, not just optimise parts of a system. This intent is reinforced in the 2025 Blueprint for Modern Digital Government, which starts with the need to join up public services.In practice, delivering on this intent is hard.While teams are expected to think end-to-end, most delivery models remain organised around functions, funding streams and accountabilities. Responsibility for outcomes is often shared, but authority to change how the service works is not. Teams may understand what needs to change without having a clear route to make it happen.The intent of the Service Standard is clear. The operating model for delivering it in complex, federated services is much less so."
+        },
+        {
+            "heading": 2,
+            "text": "Trying a different approach"
+        },
+        {
+            "text": "CustomerFirst is exploring how teams can solve whole problems in practice when authority, incentives and accountability are fragmented, and how that learning can be shared so others can build on it.We describe this way of working as NewCo.In our model, NewCo is not a formal organisation or a fixed approach. It is a deliberate way of creating space for small, multidisciplinary teams to look at a service differently and act on what they learn.In the context of public services this does not begin by creating permanent parallel teams or new organisations. Instead, it creates bounded space to surface constraints, test assumptions and generate evidence. Where that leads is not predetermined. Learning may be reintegrated into existing services, or it may point towards more structural change. The focus is on outcomes first, not organisational form.This way of working is not entirely new. In its early years, GDS brought policy, design, technology and operations together in small teams with a clear mandate to redesign services end to end. A similar pattern appeared during the Universal Credit programme, which created space to re-examine assumptions after early implementation challenges. More recently, mission-focused bodies such as the Infected Blood Compensation Authority have been established to move at pace where existing structures would have constrained progress.At CustomerFirst, we are testing whether this way of working can be applied deliberately and repeatably, rather than emerging only in exceptional circumstances. We are not changing the Service Standard; this work focuses on understanding what it takes to meet those principles in complex services and feeding that learning back to inform how they evolve."
+        },
+        {
+            "heading": 2,
+            "text": "What NewCo makes possible"
+        },
+        {
+            "text": "At its core, this approach shifts the work from designing solutions to testing constraints.It enables teams to focus on a small number of questions:"
+        },
+        {
+            "text": "Rather than starting with large-scale redesign, the emphasis is on creating conditions to explore these questions safely and practically, using real services."
+        },
+        {
+            "text": "Experience from earlier NewCo-style efforts suggests this only works when minimal conditions are in place: clear ownership of outcomes, permission to test changes within agreed guardrails, access to end-to-end capabilities, and governance that grows from the work rather than preceding it. Without these, the risk is recreating existing constraints in a new form."
+        },
+        {
+            "text": "This approach is therefore deliberately selective. It looks for situations where creating bounded space is likely to unlock learning that business-as-usual delivery cannot."
+        },
+        {
+            "text": "The test is simple: does this way of working lead to better outcomes for users?"
+        },
+        {
+            "heading": 2,
+            "text": "Learning in the open"
+        },
+        {
+            "text": "Meaningful change in complex public services rarely comes from top-down direction alone. It depends on shared understanding, practical experimentation and evidence."
+        },
+        {
+            "text": "CustomerFirst are committed to learning in the open \u2014 testing what it takes to solve whole problems in complex services and sharing what works, and what does not, so others can move faster."
+        },
+        {
+            "text": "We are already working with several government delivery bodies, including DVLA, to explore how this approach can be applied in practice. Our focus is on where targeted; evidence-led test-and-learn ways of working could unlock better outcomes for users."
+        },
+        {
+            "text": "We have a lot to do, and a lot to learn. Over the next two years, CustomerFirst will work differently to deliver better services for citizens and to challenge long-standing assumptions about how services are designed and run."
+        },
+        {
+            "text": "You can follow our work on the GDS blog and on our campaign page."
+        },
+        {
+            "text": "If you want to get in touch, email us at customer.first@dsit.gov.uk."
+        }
+    ]
+}
