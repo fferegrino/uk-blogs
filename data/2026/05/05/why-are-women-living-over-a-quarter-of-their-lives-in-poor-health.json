@@ -1,0 +1,163 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2026/05/05/why-are-women-living-over-a-quarter-of-their-lives-in-poor-health/",
+    "title": "Why are women living over a quarter of their lives in poor health?",
+    "authors": [
+        "Natasha Hill - Actuary"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Mortality"
+    ],
+    "pub_date": "2026-05-05T16:50:06+01:00",
+    "content": [
+        {
+            "text": "The Office for National Statistics (ONS) recently released new data on UK healthy life expectancy (HLE), up to the end of 2024. HLE is defined as the number of years people are expected to spend in \u2018good\u2019 general health. The worrying headline from the release is that HLE has decreased to its lowest level since the time series began in 2011 to 2013."
+        },
+        {
+            "text": "The ONS measure of HLE uses results from the Annual Population Survey and censuses to the question \u2018How is your health in general?\u2019 with 5 options: very good, good, fair, bad, very bad. Those selecting very good or good are defined are as in \u2018good health\u2019. These estimates of \u2018good health\u2019 are combined together with death and population data to calculate HLE by age and sex."
+        },
+        {
+            "text": "Life expectancy in the UK increased significantly over the 20th century. The rate of improvements has reduced from around 2011 but has generally remained positive. We discussed the potential future trends in our March Mortality Insights. The hope would be that years lived in good health would be following the same pattern. However, Figure 1 shows that the gap between HLE and total life expectancy has been widening in recent years."
+        },
+        {
+            "text": "What is particularly noticeable is that HLE has fallen significantly and the gap between life expectancy and HLE is particularly large for women. The data suggests that, on average, women are now living 22 years of their 83 year lives - that is, over a quarter of their lives - not in good health. Further, recent data from the ONS shows that women living in the most deprived areas in England are living an average of over 30 years not in \u2018good health\u2019 compared to over 23 years for men. Similar patterns are reported internationally with women in OECD countries living larger portions of their lives in poorer health than men."
+        },
+        {
+            "heading": 2,
+            "text": "Reasons why women may be living a larger proportion of their lives in poor health"
+        },
+        {
+            "heading": 3,
+            "text": "Life expectancy differences"
+        },
+        {
+            "text": "Historically, women have, on average, been outliving men in the UK and across the world. At all ages death rates tend to be higher for men than women. Deaths of those above age 60 are the main contributor to this difference in the 21st century. Figure 1 above shows that on average females in the UK are living around 4 years longer than males."
+        },
+        {
+            "text": "The difference in HLE shown in Figure 1 shows a maximum of 1 year difference between males and females \u2013 a much smaller difference than that in life expectancy. This might suggest that men and women are becoming unhealthy at similar ages. "
+        },
+        {
+            "text": "It could mean that women are spending a larger proportion of their lives not in \u2018good health\u2019 due to their longer life expectancy."
+        },
+        {
+            "heading": 3,
+            "text": "Medical research: Different treatments and sex-specific conditions"
+        },
+        {
+            "text": "Historically, most medical research was conducted on men and the findings from such studies were assumed to be equally applicable to women. Treatments for some conditions have transpired to be less effective for women."
+        },
+        {
+            "text": "The manifestation of some diseases can appear differently for women compared to men - meaning that it can take longer to get a diagnosis and appropriate care for women. "
+        },
+        {
+            "text": "There can also be delays in diagnosis for sex-specific conditions due to faster growth in waiting lists for gynaecology than for other specialities. For example, endometriosis, a potentially debilitating condition that affects around 10% of women, takes an average of almost 9 years to diagnose in the UK. Women\u2019s pain is also more likely to be dismissed than men\u2019s, which can again lead to delayed diagnoses."
+        },
+        {
+            "text": "Medical research into women\u2019s health tends to be more focused more on diseases with high mortality rather than diseases that lead to ill health or longer-term disability. Only around 1% of global research and development funding was invested into female specific conditions in 2020 (aside from 4% on women specific cancers). A study on funding from the US National Institute for Health also found a disproportionate share of its resources went to diseases that primarily affect men."
+        },
+        {
+            "heading": 3,
+            "text": "Health and hormonal differences"
+        },
+        {
+            "text": "Global studies suggest that there are persistent health differences between males and females. This includes a higher burden of non-fatal diseases and disabilities in females such as back pain, mental health and headache disorders."
+        },
+        {
+            "text": "Hormonal transition, autoimmune shifts, metabolic slowdown, diagnostic delays and chronic fatigue are all factors that can impact health and wellbeing. The hormonal changes resulting from menopause can also result in increased long-term health risks including a higher risk of broken bones, musculoskeletal disorders, heart disease and genitourinary conditions."
+        },
+        {
+            "heading": 3,
+            "text": "Health behaviours"
+        },
+        {
+            "text": "There are many behavioural factors that impact health such as levels of smoking, drinking and exercise, and behaviours can differ between men and women. "
+        },
+        {
+            "text": "Data from the OECD shows that for most of the risk factors, a greater proportion of men engage in the higher risk activities. However, physical inactivity is higher in most countries for women than men, although the difference is quite small for the UK. Thus, behavioural factors generally provide some offset to the factors impacting poor health in women."
+        },
+        {
+            "heading": 3,
+            "text": "Mental health"
+        },
+        {
+            "text": "Data suggests that women have a higher prevalence of mental health conditions than men \u2013 which could affect the gender gap in HLE. In England, one in five adults has a common mental health condition: about 24% of women and 15% of men. "
+        },
+        {
+            "text": "Men have been around 3 times more likely to take their own life than women, suggesting that mental health issues in women are more likely to lead to years spent in poor health rather than death."
+        },
+        {
+            "heading": 3,
+            "text": "Socio-economic inequality"
+        },
+        {
+            "text": "People living in the most deprived areas generally have the lowest HLE. ONS data for England and Wales shows that in the most deprived areas in both nations, HLE is lower for women than men despite average HLE and life expectancy in the UK being higher for women (as shown in Figure 1). "
+        },
+        {
+            "text": "It is likely that socio-economic inequalities between men and women, such as women having lower average income and levels of education are also likely to contribute to the gap between HLE and life expectancy."
+        },
+        {
+            "heading": 3,
+            "text": "Subjective measurement"
+        },
+        {
+            "text": "Unlike the measurement of life expectancy, HLE uses results from questionnaires in its calculation alongside death and population data.The differences in reported health could be due to the different way that men and women respond to questionnaires. For example, men may more be more positive or hide how they feel. Or women may be more likely to allow for mental health issues as well as physical conditions in their responses. International data from primary care sources also suggest that women consistently report poorer health than men."
+        },
+        {
+            "heading": 2,
+            "text": "Differences in health by age"
+        },
+        {
+            "heading": 3,
+            "text": "Health of working-age women"
+        },
+        {
+            "text": "Working-age women spend more time living in poor health than working-age men. For example, sickness absence levels in the UK Civil Service in the year to 31 March 2025 were 2 days per year higher in women than in men. Long-term illness is the most common reason for working-age women being economically inactive. "
+        },
+        {
+            "text": "Working-age men are more prone to medical conditions with a higher risk of death, whereas women are more likely to be living with long-term chronic conditions. Health during pregnancy and around menopause also affect attendance at work."
+        },
+        {
+            "heading": 3,
+            "text": "Survivorship bias and health at older ages"
+        },
+        {
+            "text": "At older ages there may be survivorship bias in HLE: men with severe health risks often die earlier than their female counterparts, leaving older male populations disproportionately made up of the healthiest survivors. This skews comparisons of health between males and females at older ages.As women generally live longer, the onset of frailty, dementia and multi-morbidity is likely to mean that for many women there are more years at the end of life spent in poor health."
+        },
+        {
+            "heading": 3,
+            "text": "Closing the gap"
+        },
+        {
+            "text": "The impact of the ageing population and rising cost of healthcare is one of the medium and long-term systemic challenges facing the UK. The large and diverging gap between HLE and life expectancy for men and women is a significant issue and has wide ranging and costly implications."
+        },
+        {
+            "text": "Higher levels of economic inactivity due to poor health are at risk of rising further without action."
+        },
+        {
+            "text": "The combination of trends is summarised as \u2018our society is getting older and living longer but becoming sicker sooner\u2019. Poor health impacts not only healthcare costs but also workforce productivity, pensions savings, tax receipts, benefit outgo and social care needs, and thus has profound fiscal impacts."
+        },
+        {
+            "text": "Fiscal impacts are greater still when looking at the wider network. This includes higher social care costs for those whose spouses can no longer provide unpaid care, and reduced employment hours where grandparents can no longer provide childcare."
+        },
+        {
+            "text": "There is a clear role for government and public services in improving the evidence base, supporting prevention and early intervention, and ensuring that health services are better designed around the different needs of women and men across the life course. "
+        },
+        {
+            "text": "The NHS 10 Year Health Plan for England aims to \u2018halve the gap in healthy life expectancy between the richest and poorest regions, while increasing it for everyone\u2019. This focus on health and prevention could mean that some of the issues in gender inequality are prioritised as part of this drive."
+        },
+        {
+            "text": "A \u2018Renewed Women\u2019s health strategy for England\u2019 has also been recently published and similar plans are in place for Scotland and Wales. These recognise some of the inequalities and challenges. The plans for improvements to women\u2019s healthcare represent a significant opportunity to reduce the numbers of years women spend in poor health."
+        },
+        {
+            "text": "Progress will also depend on action beyond government, including from the NHS and medical profession, pharmaceutical firms, employers, educators and the individuals themselves. If more of the years women gain in life expectancy can be lived in good health, the benefits would be felt well beyond the health system."
+        },
+        {
+            "heading": 3,
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page. "
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/05/05/britain-gets-talent-fixing-a-fragmented-offer-to-attract-global-talent/",
+    "title": "Britain Gets Talent: Fixing a fragmented offer to attract global talent",
+    "authors": [
+        "Graham Sanders, Senior Interaction Designer",
+        "Sarah Katz, Digital Evaluator (Statistician)",
+        "Olviya Silvary, Fast Stream Data Analyst"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2026-05-05T10:13:54+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Graham Sanders"
+        },
+        {
+            "heading": 3,
+            "text": "Sarah Katz"
+        },
+        {
+            "heading": 3,
+            "text": "Olviya Silvary"
+        },
+        {
+            "text": "In April 2026, the quarterly Firebreak week began with an unusual pitch: the project Britain Gets Talent. The project presented an opportunity to work with the joint Office for Investment (OfI) and No.10 Global Talent Taskforce. This team wanted to explore how the UK presents its offer online to international talent."
+        },
+        {
+            "text": "Attracting talented researchers, innovators, investors and businesses to the UK expands the workforce and contributes to growth. However, the global talent market is highly competitive. To persuade people to live, work and invest here, the UK\u2019s offer needs to be easy to access and understand. Their digital experience should build confidence and guide them towards a decision to move here.The project was expected to benefit a range of audiences. For Digital, Data and Technology (DDaT) colleagues, this was an opportunity to gain experience working with policy teams and contribute to building business.gov.uk services. The work would contribute to improving the online experience for individuals seeking career opportunities in the UK, benefiting the wider UK economy."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "Answering this project\u2019s call, we met with the Global Talent team to understand their vision of potential digital solutions, including the possibility of an artificial intelligence (AI) tool. Our task was to understand where global talent experiences pain points in the current digital experience, and to propose evidence-backed solutions that would build confidence."
+        },
+        {
+            "text": "Before proposing solutions, we needed to understand what attracts people to the UK and where confidence is lost when people consider moving here. The Global Talent team shared their current website landing page,\u00a0which we reviewed alongside user needs to identify pain points. These insights informed us of practical recommendations to help the team strengthen their offering."
+        },
+        {
+            "text": "Given Firebreak\u2019s time-limited nature, we also produced a few indicative design concepts. These were intentionally high\u2011level and exploratory, intended to illustrate how the problem might be addressed. We highlighted where the Global Talent team could clarify how they want to represent their different services, including areas where user research insights would benefit design decisions."
+        },
+        {
+            "heading": 3,
+            "text": "Discoveries"
+        },
+        {
+            "text": "The Global Talent team seeks to attract diverse user groups, including:"
+        },
+        {
+            "text": "While these user groups have different goals, a common issue emerged. Information on how and why to move to the UK is fragmented across multiple sources. Users struggle to find the right information or access appropriate support and often perceive the process as complex and time-consuming. Some users have also reported feeling unwanted or unwelcome by the UK because of a frustrating online experience. The Global Talent team is actively working to address this perception. Designing a digital product around user needs can reduce these frustrations and make the UK\u2019s offer clearer and more welcoming to global talent considering a move."
+        },
+        {
+            "text": "The Global Talent team wants to establish an online presence that acts as a single source of information to support international talent in choosing to come to the UK.\u00a0"
+        },
+        {
+            "text": "Our discovery suggested that the solution should:"
+        },
+        {
+            "text": "Above all, the solution should offer a coherent, frictionless experience. It needs to build confidence at crucial decision-making stages, as people evaluate whether the UK is right for them."
+        },
+        {
+            "heading": 2,
+            "text": "Design concepts"
+        },
+        {
+            "text": "To explore how the problem might be addressed, we considered 3 indicative design approaches:"
+        },
+        {
+            "heading": 2,
+            "text": "Impact and next steps"
+        },
+        {
+            "text": "The Global Talent team now has clearer evidence of where users lose confidence, and direction for how they can remove those pain points."
+        },
+        {
+            "text": "The next step for this project is to progress to a properly scoped plan, focused on understanding the end\u2011to\u2011end customer experience. In line with our recommendation, the project will adopt a user-centred approach, without defaulting immediately to AI."
+        },
+        {
+            "text": "Taken together, this discovery highlighted a broader lesson about how we approach digital problems. When AI is one of several available solutions, discovery work is essential to informing how and where digital solutions should be applied."
+        },
+        {
+            "text": "\u2018Working with the DDaT team on the Firebreak project was hugely valuable. One of the most useful aspects was seeing how they structured the work to clearly scope and test audience pain points before jumping to solutions. This approach is already influencing how we pitch our requirements internally and will help ensure anything we build genuinely addresses our audience\u2019s key needs. The future-facing examples and creative ideas shared were also extremely helpful. We\u2019re already using the mock-ups internally to communicate the type of tool we think is needed. A big thank you to the team for their excellent work.\u2019"
+        },
+        {
+            "text": "Danielle Davis-Booth"
+        },
+        {
+            "text": "Senior Policy Advisor in Global Talent Hub"
+        },
+        {
+            "heading": 2,
+            "text": "What our Firebreak project showed"
+        },
+        {
+            "text": "Firebreak allowed us to bring a fresh perspective to the Global Talent team. We were able to act like their mirror, reflecting their goals along with unanswered questions. This showed where they could communicate to make their online service meet each team\u2019s needs."
+        },
+        {
+            "text": "In just one week, we demonstrated the value of considering the problem first. By diving into previous research and speaking with stakeholders across multiple teams, we discovered a gap in communication about what each team, and their respective users, needed from an online service. We grounded initial design in real user needs."
+        },
+        {
+            "text": "This work highlights a common trap in digital delivery: reaching for AI too early. Without a clear understanding of user needs and the underlying problem, AI risks masking confusion rather than resolving it. Our short discovery phase reinforced that effective digital solutions start with clarity, shared understanding and problem\u2011first thinking. AI is most valuable when it is applied deliberately to support a clearly defined need."
+        },
+        {
+            "heading": 3,
+            "text": "In conclusion: start with the problem, not the technology"
+        },
+        {
+            "text": "If you are facing a similar challenge, and want to improve a digital service, consider these 3 tips that we learned from this project:"
+        },
+        {
+            "text": "Contact the digital team in your department to see how a collaboration like this can yield evidence-backed and achievable solutions."
+        },
+        {
+            "text": "Special thanks to: "
+        }
+    ]
+}
