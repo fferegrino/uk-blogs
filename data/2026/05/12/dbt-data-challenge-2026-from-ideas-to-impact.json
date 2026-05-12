@@ -1,0 +1,153 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/05/12/dbt-data-challenge-2026-from-ideas-to-impact/",
+    "title": "DBT Data Challenge 2026: From ideas to impact",
+    "authors": [
+        "Girish Joshi, Fast Stream Data Analyst"
+    ],
+    "categories": [
+        "People",
+        "Professions"
+    ],
+    "pub_date": "2026-05-12T10:13:30+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Girish Joshi"
+        },
+        {
+            "heading": 2,
+            "text": "What is the DBT Data Challenge?"
+        },
+        {
+            "text": "Every year, the DBT Data Challenge brings together colleagues from across the Department for Business and Trade (DBT) for a week of creativity and hands\u2011on problem solving. It allows colleagues to step back from day-to-day work and think differently about how data can support better decisions and better outcomes."
+        },
+        {
+            "text": "The 2026 theme was Innovation, Insight, and Impact. These principles guided both the design of the challenge and how projects were assessed."
+        },
+        {
+            "text": "Along with my co\u2011organiser Olviya Silvary, I was closely involved in planning and running the challenge. It was inspiring to see ideas move from concepts to working prototypes in just one week."
+        },
+        {
+            "text": "This is what Olviya had to say about this year's challenge:"
+        },
+        {
+            "text": "\"This year\u2019s Data Challenge was a fantastic demonstration of cross-collaboration, energy and the drive to innovate. I really enjoyed organising it and seeing everyone put in so much good work, resulting in a great showcase!\""
+        },
+        {
+            "heading": 2,
+            "text": "Planning behind the scenes"
+        },
+        {
+            "text": "While Challenge Week itself was very visible, a lot of preparation happened quietly in the background. We spent weeks preparing for the event, aiming to make participation straightforward and enjoyable so colleagues could focus on their ideas rather than the process."
+        },
+        {
+            "text": "Our key focus was setting up a consistent way to assess ideas against the challenge theme of Innovation, Insight, and Impact. This helped ensure that very different ideas could be assessed fairly, while staying closely aligned to the challenge\u2019s purpose."
+        },
+        {
+            "heading": 2,
+            "text": "Taking submissions into Challenge Week"
+        },
+        {
+            "text": "The Data Challenge began with a 4-week submissions period, where individuals and teams proposed problems they wanted to tackle. Submissions did not need to be highly technical, and a short description was enough."
+        },
+        {
+            "text": "When shortlisting submissions, we looked at:"
+        },
+        {
+            "text": "After shortlisting, each team was paired with a data expert who worked alongside them full-time during Challenge Week. This combination of subject knowledge and technical expertise is what makes the Data Challenge work so well. By building connections between the competing teams and the data experts, the challenge enables strong collaboration across the department. This helped teams sharpen problem statements and arrive at more well-rounded solutions than they might have achieved working alone."
+        },
+        {
+            "text": "Challenge Week is always energetic and collaborative as teams develop their ideas quickly.\u00a0Data experts helped team members to use a range of data query, analysis and visualisation tools. For colleagues new to working with data, it felt challenging at first, but confidence grew quickly over the week."
+        },
+        {
+            "text": "Here is what Adetoun Thomas said about working as a data expert with the winning team:"
+        },
+        {
+            "text": "\u201cThe standout moment for us was supporting the team to win. We helped give the Prompt Payments team a clear starting point to identify large companies that weren\u2019t reporting. This resulted in a list of nearly 2,000 organisations they can now investigate.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "The projects and final showcase"
+        },
+        {
+            "text": "From 12 submissions, 4 projects were shortlisted for Challenge Week. Each addressing a different policy or operational challenge, they were:"
+        },
+        {
+            "heading": 3,
+            "text": "Global Trade and Geopolitics Dashboard"
+        },
+        {
+            "text": "A dashboard showing how geopolitical risks and global events influence trade flows over time, bringing together trade trends, tariff data, and country-level views. This gives policy teams quicker and more consistent insight than manual analysis."
+        },
+        {
+            "heading": 3,
+            "text": "King\u2019s Awards for Enterprise: 60\u2011Year Data Transformation"
+        },
+        {
+            "text": "Historic awards data dating back to 1965 was cleaned and converted from PDFs into a structured, searchable dataset. The project makes decades of information accessible through a public API and sets a strong example for modernising legacy data."
+        },
+        {
+            "heading": 3,
+            "text": "Prompt Payments Enforcement Tool"
+        },
+        {
+            "text": "A data\u2011led approach to identifying large companies that should report payment practices, but currently do not. By combining multiple datasets, the tool highlights potential non\u2011reporters and supports stronger, more scalable enforcement."
+        },
+        {
+            "heading": 3,
+            "text": "Corruption, Trade and Investment Dashboard"
+        },
+        {
+            "text": "A dashboard bringing together corruption indicators, trade data, and risk measures to support country\u2011level analysis, helping teams compare markets and have more evidence\u2011based policy discussions."
+        },
+        {
+            "text": "The challenge concluded with the Data Challenge Showcase, where shortlisted teams presented their work to colleagues and a panel of senior judges. This year\u2019s judging panel included Jason Kitcat (Director, Digital Data and Technology), Pauline Crellin (Director, Exports), and Siobhan Dennehy (Deputy Director, Competition Analysis and Smart Data Policy)."
+        },
+        {
+            "text": "The judges spent time understanding the problems each team was trying to solve and how their solutions had been developed. They asked clear, thoughtful questions, gave constructive feedback, and discussed how the work could be used or taken forward in practice. What impressed them most was that every team delivered practical, tangible outputs within just one week."
+        },
+        {
+            "text": "The Prompt Payments Enforcement project was selected as the overall winner because it clearly demonstrated innovation, insight and impact. The team used data in a new way to highlight a real policy gap, turned that into clear and usable insight, and produced an output that could be used immediately. Judges also valued how quickly the team moved from an idea to a practical solution with clear potential beyond the Challenge Week."
+        },
+        {
+            "text": "The King\u2019s Award project was also highly commended for its technical ambition and depth of work."
+        },
+        {
+            "text": "One of the judges, Jason Kitcat, shared:"
+        },
+        {
+            "text": "\u201cI was impressed by the high standard of every presentation, each tackling real challenges from across the department. The Data Challenge is a great way to show what DBT\u2019s data, tools, and teams can deliver; while giving colleagues the space to be creative and try things they might not otherwise have time for.\u201d"
+        },
+        {
+            "text": "Here is what winning team member, Tracey Wilson, enjoyed about participating in this year's challenge:"
+        },
+        {
+            "text": "\u201cLoved the pace and teamwork. We went from \u2018we think this is a blind spot\u2019 in Prompt Payments to an evidence\u2011led first\u2011cut of the data that helps identify likely non\u2011reporters. We\u2019re now working with the policy team on next steps to make practical use of it and strengthen the approach.\u201d"
+        },
+        {
+            "heading": 2,
+            "text": "Lasting impact and what's next"
+        },
+        {
+            "text": "Looking ahead, we want to build on this momentum by creating a clear handover for future organisers. We will continue to refine the submission process, expand the pool of data experts, and grow the wider Data Challenge community."
+        },
+        {
+            "text": "The challenge showed the real value of collaboration across DBT. Teams from different professions and directorates worked closely with data experts, bringing together policy knowledge, operational understanding, and technical skills. This helped teams turn early ideas into practical solutions that were grounded in real business needs."
+        },
+        {
+            "text": "The challenge also helped many colleagues build confidence in working with data. For those outside DDaT, it provided hands\u2011on experience of using data to explore problems and develop evidence\u2011based outputs. Several projects produced practical prototypes that can now be taken forward and built on, demonstrating how the challenge\u2019s data\u2011led work can lead to meaningful and relevant outcomes for DBT."
+        },
+        {
+            "text": "Clare Collingwood from Trade group, participating for the first time in the DBT Data Challenge, shared her experience:"
+        },
+        {
+            "text": "\u201cOne big learning for us was how challenging it can be to find the right data, especially across different countries and systems. However, working closely as a small team showed us that even without perfect datasets, we could still gain meaningful insight. With creative thinking and support, we built confidence quickly and realised how powerful data can be in shaping smarter decisions.\u201d"
+        },
+        {
+            "text": "The DBT Data Challenge remains a strong example of what can happen when people are given the space, support, and encouragement to experiment."
+        },
+        {
+            "text": "Do you run a similar initiative in your workplace? Please share your experience in the comments. We would love to hear how you drive impact from short-term projects."
+        }
+    ]
+}
