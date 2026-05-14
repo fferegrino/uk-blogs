@@ -1,0 +1,138 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/05/14/using-single-sign-on-and-mcp-to-safely-connect-ai-to-live-government-data/",
+    "title": "Using single sign-on and MCP to safely connect AI to live government data",
+    "authors": [
+        "Doug Mills, Data Engineer",
+        "Saisakul Chernbumroong, Lead Data Scientist"
+    ],
+    "categories": [
+        "AI"
+    ],
+    "pub_date": "2026-05-14T11:49:58+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Doug Mills"
+        },
+        {
+            "heading": 3,
+            "text": "Saisakul Chernbumroong"
+        },
+        {
+            "text": "As we increasingly explore how AI can support work across the department, we face a challenge likely shared by many government teams. How do we safely and securely grant AI access to live, sensitive data?"
+        },
+        {
+            "text": "Solving this challenge has pushed us to the forefront of AI innovation in government. This blog post describes our breakthrough in using a Model Context Protocol (MCP) server and existing Single Sign-On (SSO) to connect our AI toolset to our Customer Relationship Management (CRM) system. This has greatly enhanced our investment advisors\u2019 capacity to support businesses whilst protecting the data."
+        },
+        {
+            "text": "Our work supports a key focus of DBT\u2019s Data strategy: use our data in innovative and impactful ways. In unlocking AI access to live government data safely, we have also created a reusable foundation for new AI capabilities built on the same solution."
+        },
+        {
+            "heading": 2,
+            "text": "The challenge: making sensitive data accessible to our AI"
+        },
+        {
+            "text": "When the Office for Investment (OFI) asked us in the DBT Assist Team to enable our AI tool, DBT Assist, to seamlessly query DBT\u2019s data on company interactions, we welcomed the challenge."
+        },
+        {
+            "text": "DBT\u2019s data lives on our CRM system, Data Hub. Without direct access to Data Hub, investment advisors faced a time-consuming manual process of finding and extracting information from Data Hub to paste into DBT Assist alongside other sources."
+        },
+        {
+            "text": "Due to  the scale and sensitivity of data within Data Hub, we could not simply plug it directly into an AI tool. OfI\u2019s vision was for an AI powered solution to combine Data Hub records with external sources, freeing up time for strategic thinking and analysis. "
+        },
+        {
+            "heading": 3,
+            "text": "Our approach to securing AI access"
+        },
+        {
+            "text": "The real challenge lay in the scale of the available data and the importance of maintaining security. We also needed a solution that was integrated into our existing access controls, to avoid slowing adoption and limiting reuse."
+        },
+        {
+            "text": "Ultimately, we chose to build an MCP server. MCP is an open standard that acts as a communication bridge between AI applications and external systems."
+        },
+        {
+            "text": "We have implemented several layered protective measures to maintain data security. The MCP server uses the same Single Sign-On (SSO) authentication already used by DBT Assist and operates within a Virtual Private Cloud with no external access points."
+        },
+        {
+            "text": "A significant advantage is the MCP\u2019s reusability. Now that we have built the server, it can be used by other AI applications across the organisation as well as DBT Assist."
+        },
+        {
+            "heading": 2,
+            "text": "What this means for our colleagues"
+        },
+        {
+            "text": "Integrating Data Hub with DBT Assist has led to:"
+        },
+        {
+            "text": "Thanks to our breakthrough, Investment advisors can now simply ask natural language questions like \"What previous interactions has DBT had with Company X?\" and receive real-time answers. These are enriched with comprehensive insights, all with citations linking back to original Data Hub records. This integration transforms Data Hub from a separate system requiring manual consultation into an intelligent, conversational intelligence source that seamlessly supports OFI's workflow."
+        },
+        {
+            "text": "Investment advisors can now use DBT Assist to:"
+        },
+        {
+            "text": "Ultimately this prepares them to facilitate smooth and successful discussions that effectively support businesses throughout their investment journey."
+        },
+        {
+            "heading": 2,
+            "text": "Wider impact"
+        },
+        {
+            "text": "Beyond the immediate benefits to OFI colleagues, this MCP implementation delivers significant reusability and scalability advantages across DBT. The Data Hub MCP server, once built, can be reused by other AI applications to access live data."
+        },
+        {
+            "text": "The work has established a proven approach for connecting AI tools to other sensitive data sources across the organisation. This positions DBT to rapidly expand AI capabilities while maintaining appropriate security controls and avoiding duplication of effort."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "Using an MCP server in this context was new for us, both technically and in how we applied best practice. We had to think carefully about how we balance security, usability and user needs."
+        },
+        {
+            "heading": 3,
+            "text": "Build on existing infrastructure"
+        },
+        {
+            "text": "One of the biggest lessons was the value of building on security measures that were already in place. By using existing Single Sign-On (SSO), we were able to protect sensitive data without adding extra steps for users. This made the tool easier to adopt and allowed us to move more quickly, as we did not need to design new security processes from scratch. Having GovUK SSO already in use also made integration more straightforward, and support from the DBT platform team helped us resolve issues as they arose."
+        },
+        {
+            "heading": 3,
+            "text": "Engage users early"
+        },
+        {
+            "text": "An important lesson was involving real users from the very beginning. Working closely with OFI colleagues and investment advisors helped us to focus on the questions they needed to ask, rather than theoretical use cases. This has highlighted for us that building AI capabilities is fundamentally about understanding how people actually work and what information they need to do their jobs effectively."
+        },
+        {
+            "heading": 3,
+            "text": "Make space to grow and improve"
+        },
+        {
+            "text": "Launching the MCP integration was not a finish line, but the starting point for continuous improvement. Real world data is messy, and as users work with the system, they discover new valuable use cases and identify gaps where more functionality is needed."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "heading": 3,
+            "text": "Improvements to the existing service"
+        },
+        {
+            "text": "DBT Assist and the MCP server are both under active development. We are focusing on tweaking and building tools to handle more complex information requests efficiently and improving access controls to include more detailed permissions."
+        },
+        {
+            "heading": 3,
+            "text": "How this breakthrough has transformed our approach to AI  development"
+        },
+        {
+            "text": "Crucially, this work will make it easier to build new AI tools in the future. We now have a single, reusable way to connect AI services to live data, and a blueprint for building future integrations more quickly. Future AI tools, whether chatbots, analytical tools, or services we haven\u2019t even imagined yet, can be built much more quickly as a result."
+        },
+        {
+            "text": "Shifting to standardised, reusable MCP servers fundamentally transforms how quickly we can deploy AI capabilities across the department. It turns what was traditionally a significant technical barrier into a scalable, repeatable process that accelerates digital transformation."
+        },
+        {
+            "text": "If you\u2019re working on AI tools in government and facing similar challenges around secure data access, get in touch in the comments. We are happy to discuss our approach or explore how the pattern could work in your organisation."
+        }
+    ]
+}
