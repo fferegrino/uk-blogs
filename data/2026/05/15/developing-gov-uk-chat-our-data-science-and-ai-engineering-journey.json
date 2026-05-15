@@ -1,0 +1,121 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/05/15/developing-gov-uk-chat-our-data-science-and-ai-engineering-journey/",
+    "title": "Developing GOV.UK Chat: Our data science and AI engineering journey",
+    "authors": [
+        "Alessia Tosi, Lead Data Scientist, GOV.UK AI Team, at GDS",
+        "Nick Lange, Data Scientist, GOV.UK AI Team at GDS"
+    ],
+    "categories": [
+        "Data",
+        "How we work",
+        "What we're working on"
+    ],
+    "pub_date": "2026-05-15T10:02:30+01:00",
+    "content": [
+        {
+            "text": "Our tests of GOV.UK Chat, the experimental AI-powered chatbot we\u2019re developing at the Government Digital Service (GDS), have given us clear evidence that it saves people time and provides them with helpful information. This has given us the confidence to begin opening up access more widely \u2013 and to get to this point, we\u2019ve been on a data science and AI engineering journey."
+        },
+        {
+            "text": "At its core, GOV.UK Chat is a conversational retrieval-augmented generation (RAG) system, combining semantic search with generative AI to deliver clear, contextualised answers. The work is one of the Prime Minister's AI Exemplars and part of the roadmap for modern digital government.\u00a0"
+        },
+        {
+            "text": "In this post, we explore the technical details behind GOV.UK Chat, how we used insights from live pilots and user testing to guide improvements, and the iterations that led to the version tested in the GOV.UK app in 2025."
+        },
+        {
+            "heading": 2,
+            "text": "Evaluation-driven development"
+        },
+        {
+            "text": "GOV.UK Chat has changed significantly since its first prototype in July 2023. Initially built with Langchain (an open-source framework for developing Large Language Model, or LLM, applications) and Gradio (a Python library for creating web interfaces), it has since transitioned to a Ruby-powered AWS (Amazon Web Services) application powered by Anthropic models. Throughout this evolution, we focused on improving query processing and response quality through advanced retrieval, better question handling, and robust validation, guided by an evaluation-driven approach that assessed both individual components and the system end-to-end. It has been a collaborative journey, working closely with our teammates with expertise in content and interaction design, and software engineering.\u00a0"
+        },
+        {
+            "text": "Our evaluation framework builds on 3 pillars:"
+        },
+        {
+            "text": "Across all 3 pillars, qualitative log analysis (systematic review of conversational logs, model outputs and failure cases) has been central to identifying pain points and driving iteration."
+        },
+        {
+            "heading": 2,
+            "text": "Turning insights into iterations"
+        },
+        {
+            "text": "Pilots over the past 2 years with different user groups showed promising results. As far back as 2023 nearly 70% of users said they found the prototype version GOV.UK Chat useful to them. But this early testing also highlighted clear areas for improvement, particularly around accuracy and safety."
+        },
+        {
+            "text": "As data scientists, our task was to turn these insights into actionable, testable iterations. We began by defining what needed improvement and how to measure success, establishing 6 evaluation criteria. These were:"
+        },
+        {
+            "text": "Each iteration aimed to improve at least one of these aspects without compromising any of the others."
+        },
+        {
+            "heading": 2,
+            "text": "Five areas for improvement"
+        },
+        {
+            "text": "We focused on 5 main areas for iterative improvement. These act as building blocks by working together to enhance GOV.UK Chat\u2019s overall performance."
+        },
+        {
+            "heading": 4,
+            "text": "1. Data quality"
+        },
+        {
+            "text": "The underlying principle is simple: a Large Language Model (LLM) can only generate accurate answers if it is given the right information to work with."
+        },
+        {
+            "text": "GOV.UK Chat exclusively draws on guidance published on GOV.UK. Before retrieval, we filter GOV.UK content using metadata to prioritise authoritative, up-to-date sources and exclude any content containing personally identifiable information. We also use hierarchical semantic chunking, splitting pages into coherent sections while preserving the HTML header structure, so that content is well-structured and contextually meaningful before it reaches the retrieval stage."
+        },
+        {
+            "heading": 4,
+            "text": "2. Retrieval"
+        },
+        {
+            "text": "Retrieval (selecting the most relevant information for a user query) is a critical part of GOV.UK Chat, as it determines what content the LLM sees."
+        },
+        {
+            "text": "We use semantic search to match user queries to GOV.UK pages based on meaning, rather than exact wording - this approach handles variation in how users phrase their questions well, though some edge cases remain. To further improve result quality, we introduced a metadata-based re-ranking layer: following a comprehensive review of all document types on GOV.UK, we developed a weighting schema (in collaboration with GDS colleagues specialising in content design and information architecture) to surface more current and contextually relevant content alongside semantic similarity."
+        },
+        {
+            "text": "To optimise retrieval, we also tested several dense embedding models and tuned retrieval parameters, settling on Amazon's Titan model for its balance of quality and infrastructure efficiency.Retrieval is still being actively developed. Past experiments with hybrid search and cross-encoder re-ranking have informed our approach, and improvements are ongoing."
+        },
+        {
+            "heading": 4,
+            "text": "3. Question handling"
+        },
+        {
+            "text": "We introduced question routing as a vital component of GOV.UK Chat, enabling us to classify user intent and direct queries to the most appropriate response strategy. This functionality has 3 main purposes: helping users ask clearer, more actionable questions, and so get better answers; protecting the system from generating responses to harmful or irrelevant queries; and providing users with a constructive way forward even when we cannot fulfil their request (for example, requests for advice).We use a tool-calling approach to classify distinct user intents, such as greetings, requests for advice, or genuine questions best answered with GOV.UK content. Rather than following a fixed decision path, the LLM autonomously selects the most suitable response strategy from a predefined set based on its understanding of the user's intent. This offers a good balance of performance, cost, user experience and scalability."
+        },
+        {
+            "heading": 4,
+            "text": "4. Generation"
+        },
+        {
+            "text": "We have iterated on the system prompt, incorporating techniques like chain of thought and goal-oriented prompting, and structured JSON input and output to ensure the LLM receives and outputs data in a consistent format. We also give clear instructions to base answers only on GOV.UK guidance written to GOV.UK style.\u00a0"
+        },
+        {
+            "text": "This approach has significantly improved factual accuracy, completeness, and user focus. It has also enhanced reliability by ensuring the LLM cites the GOV.UK content it uses and avoids hallucinated hyperlinks. To balance helpfulness with accuracy, where a complete answer cannot be found on GOV.UK, we provide \u201cpartial\u201d answers to guide users towards the most relevant available guidance."
+        },
+        {
+            "heading": 4,
+            "text": "5. Minimising safety risks with guardrails"
+        },
+        {
+            "text": "To ensure GOV.UK Chat remains reliable and secure, we developed 2 separate layers of safety guardrails. These mitigate risks, with the \u2018pre-generation\u2019 guardrail blocking inappropriate user queries and the \u2018post-generation\u2019 guardrail validating system responses. These were developed in consultation with content designers, red teams (including AISI), and legal advisors. While no LLM application is completely foolproof, these measures significantly reduce risks and maintain GOV.UK Chat's integrity."
+        },
+        {
+            "heading": 2,
+            "text": "Key lessons and next steps"
+        },
+        {
+            "text": "Of the many lessons developing GOV.UK Chat has taught us, the 4 main ones are:"
+        },
+        {
+            "text": "Based on the findings of our pilots, we're opening up access to GOV.UK Chat more widely, starting by making it available to all users of the GOV.UK app. At the same time, we will continue to refine retrieval, evaluate new models, and experiment with agentic AI to enhance the user experience, support more complex queries, and extend to new tools and content."
+        },
+        {
+            "text": "As ever, our aim is to ensure any change to GOV.UK Chat meets user needs responsibly \u2013 balancing value, accuracy, trustworthiness and scalability as we continue to make it easier for people to find the information they need on GOV.UK."
+        },
+        {
+            "text": "Subscribe to Inside GOV.UK to get the latest updates about our work."
+        }
+    ]
+}
