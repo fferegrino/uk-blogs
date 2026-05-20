@@ -1,0 +1,106 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/05/20/from-conversations-to-insights-building-managing-local-conversations/",
+    "title": "From conversations to insights: building Managing Local Conversations",
+    "authors": [
+        "Egle Shaw, Service Owner, Digital Connect"
+    ],
+    "categories": [
+        "Tools and processes"
+    ],
+    "pub_date": "2026-05-20T10:16:58+01:00",
+    "content": [
+        {
+            "text": "The Digital Connect team (formerly Common Tools) in the Ministry of Housing, Communities and Local Government (MHCLG) is responsible for building standardised, reliable and reusable tools and platforms for everyone in the department. We help teams to be more efficient, deliver quickly and reduce operational costs."
+        },
+        {
+            "text": "This post explains how we\u2019ve built \u2018Managing Local Conversations\u2019 (MLC), a shared internal service that supports smarter, faster and more collaborative ways of working by breaking down silos, standardising processes, and making information easily accessible to colleagues who need it."
+        },
+        {
+            "heading": 2,
+            "text": "The problem to solve"
+        },
+        {
+            "text": "Across our department, teams speak every day with local authorities, private and third sector providers, communities and partners. These conversations are valuable, but different teams record engagement in different ways. Information lives across different systems, spreadsheets, inboxes or notebooks."
+        },
+        {
+            "text": "As a result, insights from engagement can sometimes be hard to find, reuse or build on. This can potentially result in duplicated effort, missed connections, or reduced ability to see the full picture."
+        },
+        {
+            "text": "Our user research has showed that our teams regularly face a common set of challenges:"
+        },
+        {
+            "text": "So, we built Managing Local Conversations (MLC) to facilitate joined-up work and enhance our ability to use engagement insights to inform policy and delivery."
+        },
+        {
+            "heading": 2,
+            "text": "So what exactly is MLC?"
+        },
+        {
+            "text": "MLC is a shared service for recording and understanding external engagement. It gives policy, delivery, sponsorship and engagement teams a single place to log contacts and conversations."
+        },
+        {
+            "text": "By bringing information together, MLC helps teams to:"
+        },
+        {
+            "text": "MLC is not about changing why teams engage, it\u2019s about making existing conversations visible, reusable and more valuable."
+        },
+        {
+            "text": "Our work also supports the efficient adoption of AI tools in our department, which, as we know, rely on accessible, consistent and quality data and processes to deliver their full value."
+        },
+        {
+            "text": "Our vision is for MLC to be:"
+        },
+        {
+            "text": "MLC provides a single, department-wide contact book that brings engagement information into one place. Teams can filter and view data in ways that make sense for their work, using tags to record insight consistently. Conversations can be imported directly from Outlook, reducing manual effort, and built\u2011in Copilot support helps users to find and summarise past interactions, with privacy and compliance designed in."
+        },
+        {
+            "heading": 2,
+            "text": "Why we built MLC ourselves"
+        },
+        {
+            "text": "We looked at existing tools, but none met our needs without significant compromise. Most would have added another system alongside those already in use, rather than reducing duplication. Building MLC in-house allowed us to design a service around real user needs, while avoiding a growing landscape of slightly different but largely similar systems across the department."
+        },
+        {
+            "text": "Owning the service also means we can move quickly. We can respond directly to user feedback, make changes as needs evolve, and improve the service without relying on lengthy procurement cycles. This helps us deliver value sooner and keep the service aligned with how teams actually work."
+        },
+        {
+            "text": "Building MLC ourselves has also proved better value for money. By consolidating tools and avoiding multiple licences and support contracts, we reduce ongoing costs and deliver efficiencies for the department."
+        },
+        {
+            "text": "From the start, we designed MLC to scale. It's built on Power Platform as a model-driven Power App-based solution, with a Microsoft Dataverse database - allowing the service to grow as more teams join while remaining stable and secure. Using the Microsoft platform also makes it easier to integrate with other corporate systems and the Microsoft 365 suite and simplifies assurance processes such as cyber security and data protection by relying on well\u2011understood, compliant technology."
+        },
+        {
+            "heading": 2,
+            "text": "How we\u2019ve been building the platform"
+        },
+        {
+            "text": "We\u2019ve been building MLC in line with the GOV.UK Service Standard as well as the objectives and principles of MHCLG\u2019s Digital Strategy:"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We\u2019re continuing to improve MLC based on user feedback. We\u2019ve already introduced the ability to send bulk emails, thus reducing manual effort, and next we\u2019re looking to integrate with GOV.UK Notify, which will further user ability to send mass communications."
+        },
+        {
+            "text": "We\u2019re also improving onboarding and training to help teams get value sooner, alongside clearer dashboards and reporting to make engagement insight easier to understand and act on."
+        },
+        {
+            "heading": 2,
+            "text": "Want to know more?"
+        },
+        {
+            "text": "While MLC was built in MHCLG, the challenge it addresses is shared across government."
+        },
+        {
+            "text": "We hope our learnings are useful to others thinking about how to manage engagement insight more effectively, and we\u2019re keen to learn from you too. If you\u2019ve built something similar in your organisation, we\u2019d love to hear what\u2019s worked, and what hasn\u2019t:"
+        },
+        {
+            "text": "Get in touch with our team at DigitalConnect@communities.gov.uk."
+        },
+        {
+            "text": "We\u2019ll continue to share our progress on the blog, including what we\u2019re learning from users and how we\u2019re balancing agile delivery with supporting a live service."
+        }
+    ]
+}
