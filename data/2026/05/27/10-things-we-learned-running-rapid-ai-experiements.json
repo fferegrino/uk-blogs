@@ -1,0 +1,143 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/05/27/10-things-we-learned-running-rapid-ai-experiements/",
+    "title": "10 things we learned running rapid AI experiments",
+    "authors": [
+        "Anthony Love, Chief Data Architect"
+    ],
+    "categories": [
+        "AI",
+        "People"
+    ],
+    "pub_date": "2026-05-27T09:56:42+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Anthony Love"
+        },
+        {
+            "text": "Last year, we launched our approach to rapidly delivering artificial intelligence solutions at the Department for Business and Trade (DBT). Since then, our teams have explored ideas from across the department. These have ranged from conducting rapid evidence assessments for emerging policy areas to giving our staff on-demand answers to their HR policy questions."
+        },
+        {
+            "text": "After completing more than a dozen experiments, we\u2019ve learned a lot about the approaches that work best, the inputs needed, and some of the pitfalls. We are sharing these lessons to help other teams in government, and other large and complex organisations, to use our learning in their own AI experimentation."
+        },
+        {
+            "text": "These experiments put into practice innovation principles such as the importance of clear hypotheses, effective governance and giving ourselves space to fail."
+        },
+        {
+            "text": "It\u2019s been an exciting journey so far. Here are some of the key lessons we\u2019ve learned:"
+        },
+        {
+            "heading": 2,
+            "text": "  1. Get broad permission to experiment"
+        },
+        {
+            "text": "Working in government, it can be difficult to experiment with new technology while also making sure that you have clear, fully documented approaches for keeping data and systems secure. If you find yourself going through complex security and assurance approaches each time you try something new, you simply won\u2019t be able to experiment at pace."
+        },
+        {
+            "text": "We invested time and effort up front to make sure we had the right teams on board and were using a repeatable approach. This included setting up \u2018sandbox\u2019-style spaces for experimentation, new templates for recording how we process and protect data and tightly controlling how long we run our prototypes."
+        },
+        {
+            "heading": 2,
+            "text": " 2. Build in ethics and governance"
+        },
+        {
+            "text": "AI tools promise huge efficiency and quality-of-life benefits for our staff and customers. However, that opportunity also comes with well-documented risks of bias, unethical use of data or other unforeseen outcomes. "
+        },
+        {
+            "text": "At DBT, we\u2019re lucky to have teams in place that give us ready access to experts in data and AI ethics and governance. They help us to navigate tricky topics and ensure we comply with our recording and reporting obligations on AI use in government. Having this expertise in place, and involved throughout, ensures that the experiments we conduct are ethical and controlled."
+        },
+        {
+            "heading": 2,
+            "text": "  3. Somebody else is probably already   working on this"
+        },
+        {
+            "text": "Very few of the use cases we\u2019ve explored are truly unique. All have at least some aspects in common with other experiments that we or others have conducted. We\u2019ve learned the value of asking \u201cwhat makes this use case different?\u201d and \u201cdo we already have a tool that can do most of this?\u201d."
+        },
+        {
+            "text": "As a government department, we\u2019ve been able to borrow ideas, code, technology and approaches from others, and we\u2019d recommend others do the same. \u2018DBT Assist\u2019, our internal AI tool for all DBT staff, is a great example of this."
+        },
+        {
+            "heading": 2,
+            "text": " 4. Identify a clear, measurable hypothesis "
+        },
+        {
+            "text": "Our experiments have covered a wide range of subjects, each with a variety of problems and opportunities. Our aim has been to complete experiments rapidly, in just a few weeks each time. Some of our earlier experiments took longer than expected because we didn\u2019t have clear measures to indicate when to stop."
+        },
+        {
+            "text": "We\u2019ve since developed an experiment template that identifies the smallest meaningful test we can perform, sets clear success measures and gives a clear threshold for continuing. We use a simple sentence format to define experiments in simple terms. \u2018Given\u2019 particular data sources or inputs, \u2018can we\u2019 produce a specific, measurable output or result, \u2018so that\u2019 a clear outcome is achieved."
+        },
+        {
+            "text": "For example, this is the hypothesis we identified for a recent experiment for a staff-facing HR policy search tool:"
+        },
+        {
+            "heading": 2,
+            "text": " 5. Not everything needs generative AI"
+        },
+        {
+            "text": "With all the excitement, it\u2019s easy to fall into the trap of thinking that AI, and particularly generative AI, is the only option. Teams we spoke to were sometimes more excited about having \u2018an AI tool\u2019 than about solving any particular problem. Often, however, the complexity and costs (financial and environmental) of an AI-based approach just don\u2019t stack up."
+        },
+        {
+            "text": "While we have still used generative AI for many of our experiments, we learned quickly to identify those that could be better delivered through more traditional data science, digital and technology approaches. We did this by identifying which other teams we could work with, and by seeking input from relevant subject matter experts across our digital, data and technology teams."
+        },
+        {
+            "heading": 2,
+            "text": " 6. Use a mix of tools and approaches"
+        },
+        {
+            "text": "At DBT, many of our digital services are custom-built and open-source. For AI experiments, though, we\u2019ve recognised that a custom-built approach isn\u2019t always the best way to test new and emerging capabilities. Over the past few years, we\u2019ve seen new tools \u2013 both commercial and open-source \u2013 appearing almost daily, and we want to explore a wide range.\u00a0"
+        },
+        {
+            "text": "It\u2019s also important to consider the potential route to production for AI tools and services, and the users, systems and data you need to connect with. Over the past few months, we\u2019ve used a mix of direct development on AWS Bedrock, Microsoft Copilot agents and building new custom \u2018tools\u2019 on DBT Assist, our internal AI tool."
+        },
+        {
+            "heading": 2,
+            "text": " 7. Keep content current and realistic"
+        },
+        {
+            "text": "Early on, a lot of our experiments struggled. This was because we couldn\u2019t easily distinguish between outdated content or gaps in source material and AI model hallucinations or omissions."
+        },
+        {
+            "text": "We\u2019ve found that it is essential to use realistic, up-to-date content and data during testing. For us, this has meant working out how we can securely use real source data in our experiments. We\u2019ve also spent time tidying up and improving source content whenever we can. This allows us to ask realistic questions and get realistic answers to put in front of subject matter experts for review."
+        },
+        {
+            "heading": 2,
+            "text": "8. Be careful with your prototypes"
+        },
+        {
+            "text": "For many of our experiments, we\u2019ve been keen to develop simple user interfaces. These prototypes can be essential for giving the development team and subject matter experts the ability to test and rate the performance of AI outputs."
+        },
+        {
+            "text": "However, sometimes these prototypes have raised expectations about how quickly we can build the real thing. We\u2019ve learned to restrict access to our prototypes just to those who need them for testing, and to spend time explaining their limitations to stakeholders."
+        },
+        {
+            "heading": 2,
+            "text": " 9. Always keep an eye on your credits"
+        },
+        {
+            "text": "It can be easy to overspend using generative AI tools. For one of our experiments, we used an AI search tool to find and summarise relevant news articles about specific UK companies. Each individual search only cost a few pence but, when one of our users ran a bulk search, they inadvertently triggered thousands of searches! Fortunately, we had set a strict spend limit on the tool, so the user got an error message instead of a hefty bill."
+        },
+        {
+            "text": "Nonetheless, we learned the importance of closely monitoring spend, setting up email alerts and making active use of spend and rate limits available in commercial tools."
+        },
+        {
+            "heading": 2,
+            "text": " 10. Technology alone cannot do it all"
+        },
+        {
+            "text": "So, you\u2019ve got an amazing idea for an AI tool that can make life easier for hundreds of people across your organisation, and a successful experiment to prove that it works. However, this isn\u2019t enough. We\u2019ve learned that, even with all the excitement about AI, making changes happen in large and complex organisations still requires traditional business and process transformation."
+        },
+        {
+            "text": "For us, this means we focus on getting clear senior sponsorship before we start any AI experiment. We also ask subject matter experts and key decision-makers to commit their time throughout. This means that we can understand the problem, test the solution and make a realistic plan for implementation. AI can help get people\u2019s attention, but it needs to be followed by meaningful time commitment."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "We\u2019ve taken these lessons on board and recently made some changes to how our AI teams work together. We\u2019ll continue to run rapid experiments, while also developing and running AI tools in production. We\u2019re also investing in how we enable other teams at the Department for Business and Trade to implement AI in their own services."
+        },
+        {
+            "text": "We\u2019d love to hear from teams that have been experimenting with or building AI tools for themselves \u2013 in government or otherwise. Have you learned any of the same things? Are there other solutions or approaches that you think we should try? Any important lessons that you think we\u2019ve missed? Get in touch with our AI team on ai.lab@businessandtrade.gov.uk"
+        }
+    ]
+}

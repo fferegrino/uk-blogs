@@ -1,0 +1,76 @@
+{
+    "url": "https://ukhodigital.blog.gov.uk/2026/05/27/how-ai-can-assist-in-hydrographic-workflows/",
+    "title": "How AI can assist in hydrographic workflows",
+    "authors": [
+        "stephaniecase"
+    ],
+    "categories": [
+        "Artificial intelligence"
+    ],
+    "pub_date": "2026-05-27T15:33:30+01:00",
+    "content": [
+        {
+            "text": "For several years, the UKHO has been actively investing in modern data technologies, including artificial intelligence (AI) and machine learning (ML), to transform how it processes, structures, and delivers critical maritime information. Recognising that large quantities of hydrographic data often come in varied formats, the UKHO is embracing AI as a means of streamlining workflows, unlocking new insights, and ultimately getting accurate and up-to-date insights to mariners faster."
+        },
+        {
+            "text": "Central to this work has been the UKHO's data science and AI team\u00a0\u2013 a group championing innovation from within the organisation. One standout member of that team is Hannah Brown, Senior Data Scientist, whose contributions have recently earned her external recognition as a finalist in the AI Champion category at the everywoman in Technology Awards. We sat down with Hannah to hear about her journey, her work at the UKHO, and her advice to others interested in a career in data science."
+        },
+        {
+            "text": "Can you give an overview of your background and your role at the UKHO?"
+        },
+        {
+            "text": "I\u2019ve always been drawn to numbers and data, which led me to study Maths at the University of Exeter. From there, I joined the Met Office on a graduate scheme and spent time across a variety of roles, exploring the application of ML and AI within the context of weather forecasting. This really allowed me to see how powerful AI technologies can be when applied to specialist science sectors and got me thinking about the next step in my career."
+        },
+        {
+            "text": "In August 2024, I joined the UKHO as a Senior Data Scientist, and, since then, my focus has been on harnessing AI across the organisation. Working with teams across the UKHO, I determine where AI and ML can make processes more efficient, and where we can build in smarter, automated approaches to difficult or time-consuming activities."
+        },
+        {
+            "text": "Could you outline the work you have been doing on AI at the UKHO that has led to you being nominated for this award?"
+        },
+        {
+            "text": "A major focus of mine has been on large language models (LLMs). At the UKHO, we receive data from hydrographic offices around the world, and quite a large amount of that data is text-based. Notices to Mariners, for example, often arrive as PDF documents from different hydrographic offices, each describing changes in the maritime environments they're responsible for. These documents may contain tables, descriptive passages, and references to coordinates in many different formats, and processing and standardising them can be quite time-consuming."
+        },
+        {
+            "text": "My work has been focused on harnessing the power of LLMs to extract the key, meaningful information from those documents in a structured and reliable way. If you can make this data consistently formatted and machine-readable, you unlock a whole new range of possibilities downstream in terms of how you process the data, how you can visualise it, and how quickly you can act on updates."
+        },
+        {
+            "text": "What kinds of impacts are being seen from this AI work at the UKHO?"
+        },
+        {
+            "text": "The ADMIRALTY Sailing Directions teams are responsible for keeping maritime navigation publications up to date with global coverage. Having Notices to Mariners in a more structured form means it will be much easier to compare documents across regions, spot discrepancies, and keep publications up to date."
+        },
+        {
+            "text": "Another impact is the geospatial comparisons of datasets \u2013 if you know the coordinates referenced in a document, you can cross-reference them against other relevant publications covering the same area. That kind of automated cross-checking would have been very time-consuming to do manually, but once structured data has been extracted, it is a quick and easy geospatial analysis to automate."
+        },
+        {
+            "text": "Do you have any predictions for future directions or applications of AI in hydrography?"
+        },
+        {
+            "text": "Something I find quite exciting is the possibility of using AI to create bespoke navigational directions. At the moment, ADMIRALTY Sailing Directions are produced for commercial shipping routes. While they are comprehensive, they are generic.\u00a0 What if you could take an Electronic Navigational Chart (ENC), plot a specific route, and then have an AI system generate tailored sailing directions for that exact passage? This would mean that LLMs, grounded in authoritative hydrographic data, could produce something genuinely personalised to the mariner's needs. We have begun to explore this already, and its feasibility has been demonstrated in an initial proof of concept in collaboration with data scientists from the French Hydrographic and Oceanographic Service (Shom)."
+        },
+        {
+            "text": "As the award is specifically for women in technology, how important is diversity, particularly the representation of women, in fields like technology and hydrography?"
+        },
+        {
+            "text": "I really feel that it\u2019s super important. In AI and ML specifically, it\u2019s well known that developers can unintentionally encode bias into models and their outputs. The more diverse a team is in terms of gender, background, and perspective, the more representative the solutions are likely to be."
+        },
+        {
+            "text": "I'm proud to say that the data science team at the UKHO has really positive gender representation, which I think contributes to the quality of our work. But in terms of the sector as a whole, girls are still disproportionately falling out of STEM subjects at an early age. If we don\u2019t address that, we're narrowing our future talent pool significantly."
+        },
+        {
+            "text": "Initiatives like the everywoman in Technology Awards are valuable not just for celebrating individual achievement, but for showing younger generations what\u2019s possible. I also really appreciate that the awards include a category for people still at school or in study. That kind of recognition at an early stage really matters."
+        },
+        {
+            "text": "What advice would you give to people looking to build a career in data science?"
+        },
+        {
+            "text": "My main advice is not to be put off by the specificity of a field. Data science can be applied to a huge range of domains, and that's now led me to hydrography. I followed my interest in data, and it led me here. I would advise young people not to be afraid to dip their toes into something unfamiliar because the people who will surround you will be an incredible resource, and collaboration is where the real value gets unlocked."
+        },
+        {
+            "text": "Our technology teams make up one-third of the staff at the UKHO, spanning software and test engineering, enterprise and solutions architecture, data science and engineering, and analysis and support."
+        },
+        {
+            "text": "Find out more about the UKHO's technology roles."
+        }
+    ]
+}

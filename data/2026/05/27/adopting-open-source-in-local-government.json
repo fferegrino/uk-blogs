@@ -1,0 +1,73 @@
+{
+    "url": "https://technology.blog.gov.uk/2026/05/27/adopting-open-source-in-local-government/",
+    "title": "Adopting\u00a0open-source\u00a0in local government\u00a0",
+    "authors": [
+        "Phil Rumens, Principal Technologist, GDS,"
+    ],
+    "categories": [
+        "Chat"
+    ],
+    "pub_date": "2026-05-27T14:17:24+01:00",
+    "content": [
+        {
+            "text": "GDS Local\u2019s\u00a0Sourcing the Stack\u00a0initiative forms part of GDS\u2019s commitment to cocreating a shared vision for local government technology.\u00a0An important step\u00a0in\u00a0this work is publishing a clear \u201cto-be\u201d technical architecture model, alongside a view of the products and components that could make up a common local government technology stack.\u00a0"
+        },
+        {
+            "text": "Part of this initiative will focus on\u00a0identifying\u00a0strong candidate products through different buy, borrow, build approaches,\u00a0including evaluating\u00a0open-source\u00a0options\u00a0for capabilities and other elements of the recently published\u00a0Local Government Architecture Model.\u00a0\u00a0\u00a0Our aim is to directly improve the experience of public services\u00a0users\u00a0by facilitating the introduction of technology that will enable more consistent, joined-up local public services across organisations, so people don\u2019t have to repeat the same information or navigate different systems for related needs.\u00a0\u00a0"
+        },
+        {
+            "text": "By sharing common, components and standards, services can work together more seamlessly behind the scenes, even when they are delivered by different departments or levels of government.\u00a0\u00a0"
+        },
+        {
+            "text": "This means simpler journeys for citizens, fewer hand\u2011offs and delays, and services that feel coherent and connected around people\u2019s real\u2011world needs, rather than organisational boundaries.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A new source for the stack\u00a0"
+        },
+        {
+            "text": "Organisations such as Open UK have been considering a more joined up approach open source, and their recent publication\u00a0Making the UK the Home Of Open Source\u00a0included across the public sector.\u00a0"
+        },
+        {
+            "text": "When\u00a0open-source\u00a0is discussed in the public sector, it is usually framed around transparency and reuse.\u00a0The\u00a0code behind products and tools built with public money\u00a0is made\u00a0open\u00a0so\u00a0that\u00a0others can develop, adapt, and reuse it, and\u00a0GDS recently published new guidance on this.\u00a0"
+        },
+        {
+            "text": "What is far less often considered is the reverse direction, where the public sector adopts and builds on open-source software developed by others.\u00a0"
+        },
+        {
+            "text": "LocalGov Drupal\u00a0is an\u00a0example of what this can look like in practice. It began with two councils collaborating on a local authority implementation of the open-source content management system Drupal. Today, it is used by around 60 councils and 23 vendors.\u00a0"
+        },
+        {
+            "text": "Two factors are likely to have contributed to its success. First, Drupal itself is a mature product, originally released in 2001 and now on its\u00a0eleventh major version, released in 2024, with older versions still supported. Second, it\u00a0benefits\u00a0from a large and active global community, with over a million members contributing to,\u00a0maintaining, and supporting the platform.\u00a0"
+        },
+        {
+            "text": "Figures compiled by Open Digital Cooperative\u00a0show by using this\u00a0open-source\u00a0product:\u00a0"
+        },
+        {
+            "text": "Which raises an important question:\u00a0where\u00a0will the\u00a0next\u00a0LocalGov\u00a0Drupal\u00a0emerge\u00a0from, and who will source and scale it?"
+        },
+        {
+            "heading": 2,
+            "text": "Providing product assurance"
+        },
+        {
+            "text": "At present, there is no formal or standardised process across government for evaluating, recommending, or providing confidence in open-source products or components for use in the public sector.\u00a0\u00a0"
+        },
+        {
+            "text": "For local government to adopt open-source products\u00a0built outside the sector\u00a0this would need to be in place, and\u00a0it\u2019s\u00a0something GDS Local is starting to explore.\u00a0\u00a0"
+        },
+        {
+            "text": "Elements of the\u00a0Software Security Code of Practice\u00a0and the\u00a0Technology Code of Practice\u00a0go some way towards this, but aspects of an assurance process might mean a product has to\u00a0demonstrate:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Help us make open source safe and scalable\u00a0"
+        },
+        {
+            "text": "From the example of\u00a0LocalGov\u00a0Drupal, greater adoption of open\u2011source products in the\u00a0local government\u00a0could\u00a0save time and money, especially as artificial intelligence has now democratised their development, dramatically lowering the barrier to building and extending them, with both the risks and opportunities that brings.\u00a0"
+        },
+        {
+            "text": "We would welcome your thoughts on how proportionate and continuous\u00a0assurance\u00a0could help ensure these products are safe, supported, and\u00a0continuously improved, and how an assurance process itself could be designed to scale, should it be successful\u00a0if\u00a0adopted by\u00a0local government, by\u00a0completing this form.\u00a0"
+        }
+    ]
+}
