@@ -1,0 +1,115 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2026/05/28/digital-waste-tracking-where-weve-been-what-weve-built-and-why-the-market-is-our-primary-user/",
+    "title": "Digital waste tracking: where we've been, what we've built, and why the market is our primary user",
+    "authors": [
+        "Naveed Parvez"
+    ],
+    "categories": [
+        "Defra digital",
+        "Defra service design"
+    ],
+    "pub_date": "2026-05-28T16:18:54+01:00",
+    "content": [
+        {
+            "text": "Naveed Parvez reflects on the reaching of a significant milestone in digital waste tracking."
+        },
+        {
+            "heading": 2,
+            "text": "The moment"
+        },
+        {
+            "text": "Last month we launched the public beta for digital waste tracking. Anyone who operates a permitted waste receiving site in the UK can now register and start submitting data digitally. That's a significant milestone for the project, and this work sits at the heart of one of Defra\u2019s core commitments: to minimise waste, tackle waste crime and maximise the use of resources, with digital infrastructure playing a key role in delivering that."
+        },
+        {
+            "text": "I wanted to take a moment to explain what we've built, why we built it the way we did and how I've been thinking about it as a product manager."
+        },
+        {
+            "heading": 2,
+            "text": "Where we started"
+        },
+        {
+            "text": "Waste tracking in the UK currently runs mostly on paper. Waste transfer notes, hazardous waste consignment notes, quarterly returns \u2013 all paper, all manual, all fragmented across 4 regulatory regimes. The Environment Agency estimates waste crime costs around \u00a31billion a year. A lot of that is possible because there's no real-time picture of where waste is going. The policy intent behind digital waste tracking is straightforward: make compliance easier and make illegal activity visible."
+        },
+        {
+            "text": "But there's a bigger picture too. The UK's circular economy ambition depends on understanding material flows. Where does waste go? What gets recovered? What gets lost? Right now, we don't have reliable answers to those questions at scale. Digital waste tracking is part of the foundation that makes better answers possible."
+        },
+        {
+            "heading": 2,
+            "text": "What we faced"
+        },
+        {
+            "text": "We're designing for around 12,000 permitted waste receiving sites that will need to use the digital waste tracking service in October 2026. Those sites range from large integrated waste companies running enterprise software, to small specialist operators using spreadsheets. We're working across 4 regulatory bodies covering England, Scotland, Wales and Northern Ireland, each with their own data needs, compliance approaches and legislative timelines. And we're building a service that needs to be mandatory and genuinely accessible at the same time, which creates design pressures at every turn."
+        },
+        {
+            "text": "Getting to public beta has involved a lot of iteration on things that sounded simple and weren't. Data validation rules that work across 4 nations. An application programming interface (API) specification that vendors with very different technical setups can actually implement. An onboarding journey that works for a site manager who hasn't used a government digital service before. None of that is glamorous work, but it's the foundation everything else sits on."
+        },
+        {
+            "heading": 2,
+            "text": "The API-first decision"
+        },
+        {
+            "text": "Early on, we made a decision to go API-first. Large sites are already recording waste movements in software. Asking them to log into a separate government service on top of everything else would add burden rather than reduce it."
+        },
+        {
+            "text": "The primary route to compliance for most operators would be through their existing waste management software, connected to our API. This means we\u2019re meeting operators where they are, which is the right approach."
+        },
+        {
+            "text": "We've also built a spreadsheet submission route, but that's a bridge, not a destination. It exists to help operators get compliant while the software market catches up, and it won't be there permanently."
+        },
+        {
+            "text": "But going API-first has a consequence that took some time to fully think through."
+        },
+        {
+            "heading": 2,
+            "text": "Why the market is our primary user"
+        },
+        {
+            "text": "If most operators are going to comply through their existing software, then their experience of digital waste tracking is entirely mediated by the software vendors they already use. An operator doesn't interact with our service directly. They interact with a product that connects to our API in the background."
+        },
+        {
+            "text": "This means if a vendor\u2019s software can\u2019t integrate with our service, their customers can't comply through that route. If the commercial case doesn't stack up for a vendor serving a niche market segment, they may not integrate at all. If a vendor has integrated but the implementation is poor, their customers will have a bad experience of a service they've never directly seen."
+        },
+        {
+            "text": "So when I think about who I'm designing for, I have to think about the waste software market as a whole, not just the individual operator at the end of the chain. What's the integration burden for a small vendor with a two-person development team? Does our testing and approval process work for vendors who aren't building full-time? What does a vendor need from us to be able to explain digital waste tracking to their customers?"
+        },
+        {
+            "text": "That's a different kind of product thinking. It's less about individual user journeys and more about the conditions under which a market activates."
+        },
+        {
+            "heading": 2,
+            "text": "Why this matters"
+        },
+        {
+            "text": "Mandatory launch is the start, not the finish. The data this service generates, at scale and over time, is what makes the circular economy ambition real. Reliable data on material flows through the waste market means better policy, better regulation and a clearer picture of where the UK economy is and isn't closing the loop on materials."
+        },
+        {
+            "text": "A well-run, transparent waste market is also better for operators. Businesses doing things properly are currently competing in a market where that effort is largely invisible. Digital tracking changes what's visible. That shift benefits the legitimate market and is the foundation for reducing the waste crime that costs the economy an estimated \u00a31billion a year."
+        },
+        {
+            "text": "None of that happens if adoption is shallow. Which is why the next few months\u2019 work, getting vendors integrated and operators registered ahead of October, matters as much as everything we've built to get here."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "\u00a0We'll be tracking vendor integration progress closely over the coming months, with a production-ready vendor list we're aiming to publish in June."
+        },
+        {
+            "text": "There's still a lot to do ahead of the mandatory launch in October. Regulator readiness, the service charge, digitally excluded provision for operators who genuinely can't access the service digitally. But we're in public beta, the API is live and vendors are integrating. That's the foundation everything else depends on."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "Naveed Parvez is a lead product manager in the digital waste tracking team."
+        },
+        {
+            "text": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        },
+        {
+            "text": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates."
+        }
+    ]
+}
