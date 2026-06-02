@@ -1,0 +1,72 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-making-change-simple-on-gov-uk-pay/",
+    "title": "Building for the future: Making change simple on GOV.UK Pay\u00a0",
+    "authors": [
+        "Alan Maddrell - Senior Content Designer for GOV.UK Pay, Government Digital Service"
+    ],
+    "categories": [
+        "GDS team",
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2026-06-02T11:06:13+01:00",
+    "content": [
+        {
+            "text": "GOV.UK Pay has now processed over \u00a39 billion through over 135 million transactions in its\u00a0nearly 10\u00a0years\u00a0processing payments for the public sector. Throughout that time,\u00a0we\u2019ve\u00a0seen the number of services we support increase\u00a0substantially\u00a0and\u00a0we're\u00a0continually improving the service for them.\u00a0"
+        },
+        {
+            "text": "As part of the next stage of our\u00a0journey\u00a0we're\u00a0pleased to announce Adyen as our new payment services provider (PSP) for non-Crown card payments and pay by bank, replacing Stripe.\u00a0"
+        },
+        {
+            "text": "The procurement covered non-Crown card payments and pay by bank with a specific requirement to at least\u00a0maintain\u00a0the current level of functionality offered to services. Suppliers were invited to bid in an open and fair tender process.\u00a0"
+        },
+        {
+            "text": "This change affects local authorities, armed forces, police forces and other\u00a0organisations\u00a0currently using GOV.UK Pay with Stripe as their provider. Central government,\u00a0NHS\u00a0and arm's length bodies will still use Worldpay for payment processing, with no change for them.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We\u2019re\u00a0doing the\u00a0hard work\u00a0to make it simple"
+        },
+        {
+            "text": "A core part of the proposition of GOV.UK Pay right from the start\u00a0in\u00a02015 is that service teams should have to do as little as possible to take payments. We are already saving government significant processing fees as well as countless hours and days of people's time by handling service provider relationships and doing the technical work to keep GOV.UK\u00a0Pay\u00a0safe,\u00a0secure\u00a0and accessible.\u00a0"
+        },
+        {
+            "text": "We will now begin migrating\u00a0around\u00a01,000\u00a0services to Adyen, while making sure people can continue to pay for government services with no interruptions.\u00a0"
+        },
+        {
+            "text": "We will make migration as straightforward as possible while\u00a0complying with\u00a0Know Your Customer legislation that protects everyone from fraud. Most importantly, there will be no discernible difference for paying users and no loss in functionality.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Building for the future\u00a0"
+        },
+        {
+            "text": "This supplier migration is also the next big step towards introducing new ways for people to pay for services. This includes pay by bank which will reduce fraud and lost payments, as well as saving significant money for government. For paying users, it saves typing in card details and is safer and easier than a typical bank transfer."
+        },
+        {
+            "heading": 2,
+            "text": "Other improvements\u00a0we're\u00a0making at the moment"
+        },
+        {
+            "text": "We have recently made a series of changes to prepare GOV.UK Pay to support other payment methods. For example,\u00a0we've\u00a0reorganised\u00a0our settings section in the admin tool to make it easier to find what you need, and\u00a0we've\u00a0made it clearer when your service has gone live.\u00a0"
+        },
+        {
+            "text": "We've\u00a0also upgraded our Web Application Firewall to make it easier to support in future while making sure GOV.UK Pay\u00a0remains\u00a0stable and secure."
+        },
+        {
+            "text": "You can find out more about what\u00a0we've\u00a0been up to and what\u00a0we've got\u00a0planned on our public\u00a0roadmap."
+        },
+        {
+            "heading": 2,
+            "text": "Stay informed\u00a0"
+        },
+        {
+            "text": "If you are a current user of GOV.UK Pay, we will be in direct contact regularly and often to make sure you have all the information about the migration and any effect on your services (we expect this to be minimal).\u00a0"
+        },
+        {
+            "text": "If\u00a0you\u2019re\u00a0a public sector\u00a0organisation\u00a0not currently using GOV.UK Pay, find out more or\u00a0get in touch with\u00a0us to see how we could help you improve the way you take payments from service users.\u00a0\u00a0"
+        },
+        {
+            "text": "For any immediate questions, email us at govuk-pay-support@digital.cabinet-office.gov.uk."
+        }
+    ]
+}
