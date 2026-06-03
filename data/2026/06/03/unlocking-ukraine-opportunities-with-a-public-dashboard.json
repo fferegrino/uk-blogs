@@ -1,0 +1,185 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/06/03/unlocking-ukraine-opportunities-with-a-public-dashboard/",
+    "title": "Unlocking Ukraine opportunities with a public dashboard",
+    "authors": [
+        "Ed Watts, Senior Data Analyst"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2026-06-03T10:42:22+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Ed Watts"
+        },
+        {
+            "heading": 2,
+            "text": "Why investment opportunities in Ukraine were hard to find and trust"
+        },
+        {
+            "text": "When conflict broke out in Ukraine, reconstruction quickly became a global priority. Alongside humanitarian support, international organisations such as the United Nations and World Bank began publishing information about recovery projects and investment opportunities."
+        },
+        {
+            "text": "For UK businesses, this presented both opportunity and difficulty."
+        },
+        {
+            "text": "The information existed, but it was fragmented. Data was spread across multiple platforms, formats and standards, making it hard to find, interpret and trust. Many businesses wanted to engage, but lacked a clear, reliable way to navigate what was available and identify where they could contribute."
+        },
+        {
+            "text": "As a Digital and Data lead, I set out to address a simple but important problem: how can we use data and technology to reduce these barriers and enable UK businesses to access international opportunities more confidently?"
+        },
+        {
+            "heading": 2,
+            "text": "What we wanted to improve"
+        },
+        {
+            "text": "Our goal was to make it easier for UK businesses to identify relevant reconstruction and investment opportunities in Ukraine."
+        },
+        {
+            "text": "To do that, we wanted to create a single, accessible view of information that would otherwise require time-consuming manual searching across multiple sources."
+        },
+        {
+            "text": "However, there were clear constraints such as:"
+        },
+        {
+            "text": "Success meant enabling businesses to quickly understand what opportunities existed, compare them meaningfully, and act with confidence. It also meant providing trade experts with a reusable way to support businesses in complex environments."
+        },
+        {
+            "heading": 3,
+            "text": "Reframing the problem"
+        },
+        {
+            "text": "Rather than treating this as a purely analytical exercise, we considered the data journey as a whole. By addressing data ownership, access and governance from the start, we could build a product that was safe to publish, easy to use and fit for public access."
+        },
+        {
+            "heading": 2,
+            "text": "Starting with data governance"
+        },
+        {
+            "text": "Before building anything, we focused on data governance, understanding who owned the data and how it could be used."
+        },
+        {
+            "text": "We worked closely with policy, trade and operational colleagues to:"
+        },
+        {
+            "text": "This shaped the solution from the outset. Governance wasn\u2019t something applied later, it defined what we could build and how."
+        },
+        {
+            "heading": 2,
+            "text": "Treating the dashboard as a digital service"
+        },
+        {
+            "text": "We were producing this analysis for the public, not just for internal use. Our output would be a service, not simply a dataset."
+        },
+        {
+            "text": "Publishing data publicly brings additional responsibilities, and public services must meet certain standards. They must be:"
+        },
+        {
+            "text": "To meet those expectations, we built a public-facing dashboard, a digital tool that brings together data in an interactive, visual format so users can explore it easily."
+        },
+        {
+            "heading": 2,
+            "text": "Prototyping without risk"
+        },
+        {
+            "text": "Governance approvals can take time, especially when external organisations are involved."
+        },
+        {
+            "text": "To maintain momentum, we built an early prototype using dummy data structured like the real sources. This allowed us to:"
+        },
+        {
+            "text": "When permissions were confirmed, we were able to move quickly because the design decisions were already in place."
+        },
+        {
+            "heading": 2,
+            "text": "Standardising for clarity and trust"
+        },
+        {
+            "text": "The source data varied significantly. For example, investment values were listed in different currencies and formats."
+        },
+        {
+            "text": "We worked with data engineers to standardise these into consistent units, with clear and documented assumptions."
+        },
+        {
+            "text": "This wasn\u2019t just a technical step. It was critical to ensure users could interpret the data correctly and compare opportunities with confidence."
+        },
+        {
+            "heading": 2,
+            "text": "Working across disciplines"
+        },
+        {
+            "text": "The project brought together analysts, engineers, developers, and user researchers."
+        },
+        {
+            "text": "We made responsibilities explicit such as:"
+        },
+        {
+            "text": "We also focused on capability building, helping teams understand each other\u2019s roles and embedding governance thinking across disciplines."
+        },
+        {
+            "heading": 2,
+            "text": "What changes for businesses and trade teams"
+        },
+        {
+            "text": "The result is a secure, accessible, user-centered dashboard that brings together reconstruction and investment opportunities in one place."
+        },
+        {
+            "text": "For UK businesses, this means:"
+        },
+        {
+            "text": "For trade experts, it provides:"
+        },
+        {
+            "text": "More broadly, the project demonstrated how data and technology can directly support economic engagement in complex markets, while maintaining trust and respecting data ownership."
+        },
+        {
+            "text": "Further, it aided us in identifying potential barriers and additional insights into trade successes."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "Several things worked particularly well including:"
+        },
+        {
+            "text": "There were also challenges such as:"
+        },
+        {
+            "heading": 2,
+            "text": "What's next?"
+        },
+        {
+            "text": "This approach has created a strong foundation for future work."
+        },
+        {
+            "text": "Using this instance as a test case, process maps have been generated alongside reusable templates, so similar dashboards can be generated for other regions of interest."
+        },
+        {
+            "text": "The model can be applied to other regions responding to conflict or major events, allowing faster development of reliable, public-facing data services."
+        },
+        {
+            "text": "It also signals a shift in how we think about data in the public sector: not just as an internal asset, but as a tool that directly enables economic participation."
+        },
+        {
+            "heading": 2,
+            "text": "Try it: use the Ukraine opportunities dashboard"
+        },
+        {
+            "text": "In complex and rapidly evolving contexts like Ukraine\u2019s reconstruction, access to clear and trustworthy information is critical."
+        },
+        {
+            "text": "This work shows that thoughtful use of data and technology can lower barriers for UK businesses, turning fragmented information into actionable insight."
+        },
+        {
+            "text": "Crucially, when designed into the process from the start, data governance is what makes responsible, impactful delivery possible."
+        },
+        {
+            "text": "If you own a public service, reach out to your data colleagues to identify opportunities to collaborate on improving or measuring it."
+        },
+        {
+            "text": "If you are a UK business, you can find our Dashboard for reconstruction opportunities in Ukraine here: Ukraine dashboard | Ukraine public dashboard."
+        }
+    ]
+}
