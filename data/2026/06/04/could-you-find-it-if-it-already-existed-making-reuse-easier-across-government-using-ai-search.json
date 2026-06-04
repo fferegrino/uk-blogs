@@ -1,0 +1,116 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2026/06/04/could-you-find-it-if-it-already-existed-making-reuse-easier-across-government-using-ai-search/",
+    "title": "Could you find it if it already existed?\u00a0Making reuse easier across government using AI search\u00a0",
+    "authors": [
+        "Emma Nicol"
+    ],
+    "categories": [
+        "AI",
+        "Design",
+        "Our services",
+        "Reuse Library",
+        "service design"
+    ],
+    "pub_date": "2026-06-04T10:11:14+01:00",
+    "content": [
+        {
+            "text": "Here is a familiar frustration. You are working on\u00a0something,\u00a0and you are almost certain another team has tackled the same problem before.\u00a0You cannot find what they did, so you\u00a0start from scratch. Two weeks later, it turns out you were right,\u00a0It\u00a0already existed.\u00a0"
+        },
+        {
+            "text": "That is the gap the GOV Reuse Library exists to close.\u00a0"
+        },
+        {
+            "text": "The\u00a0GOV Reuse Library\u00a0is a place that brings together reusable elements from across government, things like design components, service patterns, and guidance, so teams can find and use what already exists rather than building it again from scratch. And this year, we took a big step forward in making it work better.\u00a0"
+        },
+        {
+            "text": "It started with listening. Through workshops, roadshows and feedback sessions, the same thing kept coming up: teams want to reuse more, but they cannot always find what is out there. As more departments build and develop their own design systems, there is more\u00a0good work\u00a0available than ever. The problem is it is spread across lots of places, and if you cannot find it, you cannot reuse it. That means duplicated effort, higher costs, and services that feel less consistent for the people using them.\u00a0\u00a0"
+        },
+        {
+            "text": "So,\u00a0we decided to do something about it.\u00a0"
+        },
+        {
+            "text": "Building on what the community already started\u00a0"
+        },
+        {
+            "text": "This is not the first time the problem has been tackled. In 2024, the GOV.UK Design System team ran a Connecting Design Systems\u00a0hackday, where people from across government explored ideas to better connect design systems. Two themes came up repeatedly: making it easier to discover what already\u00a0exists, and\u00a0being able to search using natural language rather than knowing exactly what something is called.\u00a0"
+        },
+        {
+            "text": "We wanted to take those ideas further.\u00a0"
+        },
+        {
+            "text": "In February 2026, MoJ and the GOV.UK Design System team ran a second cross-government hack event, bringing together more than 100 people from across government to explore how components and patterns could become easier to find and reuse.\u00a0"
+        },
+        {
+            "text": "The ideas that came out of that day were genuinely inspiring. Teams explored ways to describe what they are trying to do in plain language and be guided to relevant components, including concepts like matching hand-drawn sketches to existing design patterns. Others focused on making reuse feel more intuitive, from AI chatbot-style entry points to story-based journeys that help teams understand how a pattern works in practice. There were even ideas about raising the visibility of reuse across\u00a0government including\u00a0a cross-government design system\u00a0\u201cbake-off\u201d\u00a0which\u00a0we would very much like to see happen.\u00a0"
+        },
+        {
+            "text": "From concept to something you can test\u00a0"
+        },
+        {
+            "text": "We partnered with a consultancy on a four-week sprint to build a working proof of concept, taking the best ideas from the\u00a0hackday\u00a0and exploring what we could realistically build and test.\u00a0"
+        },
+        {
+            "text": "The idea we kept returning to was simple: give people a way to search for components and patterns based on the problem they are trying to solve, rather than the name of a specific\u00a0component\u00a0they may not know.\u00a0"
+        },
+        {
+            "text": "This meant bringing together elements from design systems across government, so people could explore how similar problems have been solved and compare different approaches. But the other theme that came through strongly was trust. People need to feel confident that what they find is\u00a0appropriate to\u00a0use, not just technically available. So alongside search, we wanted to surface the information that helps people make informed decisions: accessibility,\u00a0component\u00a0maturity, and whether supporting research exists.\u00a0"
+        },
+        {
+            "text": "When AI\u00a0takes a seat at the table\u00a0\u00a0"
+        },
+        {
+            "text": "As the work developed, we started to think about how AI could help bridge a specific gap.\u00a0"
+        },
+        {
+            "text": "The challenge is\u00a0largely one\u00a0of language. People describe problems in their own words. Design systems organise things using specific names and structures. That gap makes it harder to connect the two. AI gave us a way to interpret what someone is trying to do and match it to relevant components and patterns, without requiring them to know what something is called.\u00a0"
+        },
+        {
+            "text": "Working with our engineers, we explored how AI could run a similarity search across design system content, looking for patterns that are similar in meaning rather than matching keywords. We also looked at how it could surface\u00a0additional\u00a0context alongside results, such as accessibility information, the maturity of a\u00a0component, and whether supporting research exists.\u00a0"
+        },
+        {
+            "text": "What made this\u00a0feasible\u00a0is that most government design systems already describe components in a consistent way, covering when to use them, how they work, accessibility, and research. There are still differences in naming and how things like maturity or status are defined. But there is enough consistency to start connecting things in a more meaningful way.\u00a0"
+        },
+        {
+            "text": "You can watch a short demo of what we built."
+        },
+        {
+            "text": "The prototype meets its first real users\u00a0"
+        },
+        {
+            "text": "During the showcase and in the week that followed, we asked people to try the prototype and share their feedback.\u00a0"
+        },
+        {
+            "text": "The overall response was positive. People quickly understood the idea of searching by problem rather than by name, and there was clear interest in this approach.\u00a0"
+        },
+        {
+            "text": "The feedback also surfaced some\u00a0important areas\u00a0to work on. Relevance was the main one. While some results were useful, others were too broad or did\u00a0not quite match\u00a0what people were looking for. That told us the core idea works in principle, but getting the accuracy right matters a great deal in practice.\u00a0"
+        },
+        {
+            "text": "People also wanted more context alongside results: screenshots, examples of components in real services, and clearer signals about what is most relevant and where it is coming from.\u00a0"
+        },
+        {
+            "text": "More than 60 people took the time to try the prototype and share their thoughts. That feedback has been invaluable in helping us understand what works, what needs improving, and what it would take to make this genuinely useful.\u00a0"
+        },
+        {
+            "text": "You can watch the full showcase. "
+        },
+        {
+            "text": "Where we go from here\u00a0"
+        },
+        {
+            "text": "This was a focused piece of exploration. It has helped us understand what is possible, where the challenges are, and what the community\u00a0actually needs.\u00a0"
+        },
+        {
+            "text": "The concept shows real potential. Next, we will look at how something like this could be built into and supported by the GOV Reuse Library, improving relevance, consistency, and the quality of the information being surfaced.\u00a0"
+        },
+        {
+            "text": "We will keep working with the community to shape what reuse should look like across government, and to build something that genuinely supports teams to design and develop services using what already exists.\u00a0"
+        },
+        {
+            "text": "We will also be presenting this work at\u00a0UX Scotland, where we will share more about what we built, what we learned, and what might come next. We would love to see you there.\u00a0"
+        },
+        {
+            "text": "We are a cross-government working group and we would love to involve more people. If you work in government, have ideas, or care about reuse and design systems, please get in touch at\u00a0reuse-library@justice.gov.uk.\u00a0"
+        }
+    ]
+}
