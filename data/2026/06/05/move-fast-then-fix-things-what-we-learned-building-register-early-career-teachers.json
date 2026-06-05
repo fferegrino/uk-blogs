@@ -1,0 +1,70 @@
+{
+    "url": "https://dfedigital.blog.gov.uk/2026/06/05/move-fast-then-fix-things-what-we-learned-building-register-early-career-teachers/",
+    "title": "Move fast, then fix things \u2013 what we learned building Register early career teachers \u00a0",
+    "authors": [
+        "Ben Belward"
+    ],
+    "categories": [
+        "Service design"
+    ],
+    "pub_date": "2026-06-05T11:36:30+01:00",
+    "content": [
+        {
+            "text": "We recently released the Register early career teachers service after over two years of hard work redesigning, remodelling and replacing its predecessor. The old service funded training for over 200,000 early career teachers and mentors. It was built in six months as highly complex policy was still being designed. This led to assumptions being made, and ultimately, an unsustainable level of support tickets and inaccurate data which meant it needed to be replaced."
+        },
+        {
+            "text": "Below are three reflections on replacing a large scale digital service. We hope other teams can relate and use these to inform their work."
+        },
+        {
+            "heading": 2,
+            "text": "It\u2019s hard to fix the plane when it\u2019s flying"
+        },
+        {
+            "text": "We weren\u2019t starting from scratch. We had a busy service we needed to maintain and replace. We had to balance running the existing service with redesigning something better. Ideally, we could prioritise ruthlessly and limit context switching so teams could focus. In reality, new asks, bugs, dependencies and immovable deadlines meant that we had to rethink roadmaps and delivery plans constantly. \u00a0"
+        },
+        {
+            "text": "One challenge was that service we were replacing had to be updated to reflect improvements for how training would be funded and tracked in line with new commercial contracts for training providers. This meant half of the team had to focus on navigating tech debt to carefully update business rules and validation to reflect the new contracts, without being able to help think end to end about how the replacement Register early career teachers service could work."
+        },
+        {
+            "text": "Only a few people knew how to update the old service. Those same people were needed to advise on how we could redesign it. Could we have been bolder with transferring knowledge and merging the old and new teams? Possibly, but there was also little value in taking time to teach people on a deadline about a system due to be replaced."
+        },
+        {
+            "text": "So what are the lessons here? If you really can\u2019t say no to an ask, take some risks around spreading knowledge across a team. Sometimes changing a team can feel uncertain or scary, but over time, we found it could also speed things up and improve morale. \u00a0"
+        },
+        {
+            "text": "If you have to launch quickly, prioritise flexibility in your system and data validation so you\u2019ve got clean data to build on. Make sure there are rules around dates and identifiers so records are reliable, and think about your data model early and with users in mind."
+        },
+        {
+            "heading": 2,
+            "text": "Data needs to match reality"
+        },
+        {
+            "text": "This may seem obvious, but when you\u2019re under pressure and users are going through a journey for the first time, you won\u2019t have a full picture of reality. Around 40,000 early career teachers and mentors a year are registered, and we didn\u2019t have time to find edge cases and test assumptions around how users will move through the service before running it at scale."
+        },
+        {
+            "text": "Within a few months of launching the old service, we could see from user research and support tickets that we weren\u2019t set up to collect fully accurate records for many scenarios. This led to lots of manual workarounds and back and forth between different user groups and support teams, causing stress and frustration and delaying access to training for some teachers."
+        },
+        {
+            "text": "Developers, analysts and policy experts had to figure out how to represent complex scenarios with teachers moving between schools and training providers over multiple years in a logical structure of database tables (data model) that could be easily queried and understood. We then had to make sure old, misshapen data fit into the new logical structure, which took a lot of patience and perseverance to understand problems and clean up data."
+        },
+        {
+            "text": "The team worked hard to set up daily data migrations and measure progress towards cleaning all the dirty data. At times it was difficult to estimate or track progress, and difficult to explain this risky yet essential work to stakeholders. We got there through honest team conversations about what wasn\u2019t working, bringing in people with the right data and technical skills and being creative with how we described the work with analogies and clear measurable progress tracking."
+        },
+        {
+            "heading": 2,
+            "text": "The unit of delivery is still the team"
+        },
+        {
+            "text": "It is still true \u2013 focus on creating the right conditions for teams and things will get done. We\u2019ve been lucky that knowledgeable people have committed to the team for as long as five years, which has given us invaluable institutional memory. Lots of these folks have also been through challenging times dealing with support issues and frustrated users and stakeholders."
+        },
+        {
+            "text": "Building teams that are knowledgeable and committed is essential to doing hard things. If you can have fun along the way, it makes things extra special. We wrote down our vision and talked about it with the team to make sure it was clear and useful for understanding priorities and making decisions. We supported people to try new disciplines and move across teams to get more experience and grow in their roles. We organised some fun, with weekly Friday meetings where people celebrated their work and had some space to joke and be silly. These all contributed to a culture where people were motivated and could learn and enjoy their work."
+        },
+        {
+            "text": "Being close to the work is also important as a leadership team. We spent lots of time with teams and built up domain and service knowledge, leading to better decisions and more buy in where we needed to make changes. We also went from fully outsourced teams to blended teams of civil servants and contractors, giving us more control over the work and deepening collaboration with suppliers so we could build great teams."
+        },
+        {
+            "text": "We hope these lessons are helpful. You can see what\u2019s next for the Register ECTs team on our public roadmap."
+        }
+    ]
+}
