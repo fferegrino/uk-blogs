@@ -1,0 +1,103 @@
+{
+    "url": "https://insidegovuk.blog.gov.uk/2026/06/08/launching-gov-uks-new-content-and-publishing-guidance/",
+    "title": "Launching GOV.UK's new content and publishing guidance",
+    "authors": [
+        "Adam Wainwright, Senior Content Designer, GOV.UK Content Operations"
+    ],
+    "categories": [
+        "Content"
+    ],
+    "pub_date": "2026-06-08T15:20:29+01:00",
+    "content": [
+        {
+            "text": "Around 3,000 people across government publish content on GOV.UK. That\u2019s a significant number of individuals using our tools and writing to a consistent style and standard. In the GOV.UK Content Operations team at the Government Digital Service (GDS), we\u2019re at the end of a major project to improve the guidance for government publishers. This has culminated in the launch of the new GOV.UK Content and publishing guidance site, which brings together all relevant guidance in one easy-to-navigate place for the first time."
+        },
+        {
+            "text": "By improving this guidance, we\u2019ve made it quicker and easier for thousands of publishers to find what they need - helping publishers to save time and improve the quality of GOV.UK content across government."
+        },
+        {
+            "text": "Here\u2019s what we\u2019ve done \u2013 and how we did it."
+        },
+        {
+            "heading": 2,
+            "text": "The discovery: was our guidance doing the job?"
+        },
+        {
+            "text": "In 2014, our guidance for government publishers was first published on GOV.UK, in a then-new \u2018manuals\u2019 format. There were 4 manuals - our style guide, content design guidance, \u2018how to publish\u2019 guidance and how to get support from GDS. There\u2019s actually a blog post from the time if you\u2019d like a trip down memory lane.\u00a0"
+        },
+        {
+            "text": "In GOV.UK Content Operations, we ran a discovery to see if those manuals were still doing the job. This raised a few main issues.\u00a0"
+        },
+        {
+            "text": "Many users relied on search to find the answers to their guidance needs. But as the manuals were published on GOV.UK, the guidance content was competing with everything else on GOV.UK in search results. Each manual has its own search bar, but that would only cover that manual - there was no way for users to search across just the 4 guidance manuals."
+        },
+        {
+            "text": "The manuals themselves had also become very long. The format meant they could be split into chapters, but each chapter was then a single page of content with accordion headings. For the amount of guidance content we had, this led to a structure that was no longer fit for purpose.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "If not the manuals, then where?"
+        },
+        {
+            "text": "We explored several options for a replacement. We considered how well these options would address our main problem statements, how easy each would be to build, and how easy it would be to maintain. The eventual decision from this evaluation was to use the same static site generator used to make the GOV.UK Publishing Design Guide, because:"
+        },
+        {
+            "text": "We are indebted to the good people who have contributed towards the X-GOV Eleventy plugin, a wonderful community-developed resource that allowed us to build the new site with GOV.UK style and components."
+        },
+        {
+            "heading": 2,
+            "text": "(Re)designing the taxonomy"
+        },
+        {
+            "text": "Alongside the question of where to publish our guidance, we had to plan our new structure. With our discovery learnings, we didn\u2019t want to just lift the 4 manuals as they were onto an off-GOV.UK platform.\u00a0"
+        },
+        {
+            "text": "The Content Operations team took every section of every manual and sorted them into \u2018keep\u2019, \u2018merge\u2019 (with another similar section from elsewhere in the manuals) or \u2018remove\u2019. With that, we took a new approach to grouping the sections into topics and sub-topics. While each manual effectively just had a single-layer taxonomy, we wanted to further divide the content into subtopics to make it more manageable.\u00a0"
+        },
+        {
+            "text": "We tested our new taxonomy using a tree test. Participants were given several \u201cwhere would you expect to find information about x?\u201d tasks and navigated through our proposed taxonomy. The results were very promising, with only a few further tweaks needed based on users\u2019 responses.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Rewriting 130+ pages of content"
+        },
+        {
+            "text": "With a taxonomy in mind and a platform ready to populate, we began the process of redesigning the content. Merging so many previously separate sections of the manuals was a hefty task, which involved rewriting more than 130 pages of content. We ran a series of internal workshops as a team to plan this work and had weekly meetings as the work progressed. These were to discuss issues that arose, content patterns that could be used across the site and points of clarification around the style and tone of voice to use."
+        },
+        {
+            "heading": 2,
+            "text": "The private beta"
+        },
+        {
+            "text": "Led by our user researcher, we ran a closed private beta of the new guidance. This was made up of:"
+        },
+        {
+            "text": "We\u2019re very grateful to those publishers who participated in this research. Their feedback is crucial to us making something that works for the whole GOV.UK content community.\u00a0"
+        },
+        {
+            "text": "We\u2019ve learned from the private beta that the update is a positive one overall. Users reported a better experience and the majority of those observed were able to complete tasks. Combining the guides, restructuring the core sections and reviewing the content have made it easier for users across all user groups to find the right information and find it more quickly.\u00a0"
+        },
+        {
+            "text": "Some of the feedback from users included:"
+        },
+        {
+            "text": "There are still things we can improve upon, and which we\u2019ve been iterating since the end of the private beta. But knowing this first iteration of the new guidance site will be easier to use for our 3,000 GOV.UK publishers is a satisfying outcome to the beta!"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "The new GOV.UK content and publishing guidance site is live! We\u2019re really proud as a team and excited for GOV.UK publishers to use it - and continue to tell us how it could be better."
+        },
+        {
+            "text": "One of the main themes of the private beta feedback was the performance of the search function - we\u2019ve altered how it works, and will continue to monitor how it performs.\u00a0"
+        },
+        {
+            "text": "Any changes to the site are going to be captured on the \u2018What\u2019s new?\u2019 page, and users can give us feedback through the banner on every page below the topic menu."
+        },
+        {
+            "text": "Subscribe to Inside GOV.UK to get the latest updates about our work."
+        }
+    ]
+}
