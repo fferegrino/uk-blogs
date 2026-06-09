@@ -1,0 +1,112 @@
+{
+    "url": "https://medregs.blog.gov.uk/2026/06/09/advancing-ai-regulation-in-healthcare-insights-from-ai-airlock-phase-2/",
+    "title": "Advancing AI Regulation in Healthcare: Insights from AI Airlock Phase 2",
+    "authors": [
+        "Hannah Bowden"
+    ],
+    "categories": [
+        "AI Airlock"
+    ],
+    "pub_date": "2026-06-09T11:42:55+01:00",
+    "content": [
+        {
+            "text": "The rapid evolution of artificial intelligence (AI) is transforming healthcare, offering new opportunities to improve patient outcomes, enhance clinical decision-making, and increase system efficiency. At the same time, it presents complex regulatory challenges that existing frameworks were not specifically designed to address."
+        },
+        {
+            "text": "Over the past 2 years, the Medicines and Healthcare products Regulatory Agency (MHRA) has run the AI Airlock regulatory sandbox\u2014a collaborative environment enabling regulators and innovators to work together in testing how AI medical devices perform against current regulation and identifying what works well and where change may be needed."
+        },
+        {
+            "text": "We are pleased to announce the publication of the AI Airlock Phase 2 programme report\u00a0alongside a suite of simulation workshop summary reports from multi-stakeholder engagements, marking the completion of the latest phase of this work."
+        },
+        {
+            "text": "A Diverse Cohort Addressing Real-World Challenges"
+        },
+        {
+            "text": "Phase 2 (April 2025 to March 2026) built on the success of the pilot by working closely with seven AI technologies across a range of clinical applications, including:"
+        },
+        {
+            "text": "Selected from a diverse cohort of 51 applicants, these technologies represented a broad mix of clinical use cases, development stages, and technical approaches."
+        },
+        {
+            "text": "The programme focused on three key regulatory challenges:"
+        },
+        {
+            "text": "Key Insights from Phase 2"
+        },
+        {
+            "text": "The findings from Phase 2 reinforce the need for a more dynamic, lifecycle-based approach to regulating AI medical devices."
+        },
+        {
+            "text": "1. A lifecycle approach is essential"
+        },
+        {
+            "text": "Pre-market validation alone may not be tailored to the needs of AI medical devices. The programme demonstrated that real-world performance can be difficult to replicate in controlled settings, making robust post-market monitoring critical. Pre-market evidence needs therefore to be designed with deployment conditions in mind and, likewise, post-market oversight activities also need to be planned early and in complement to the technological and lifecycle needs of the device."
+        },
+        {
+            "text": "2. Human oversight evolves over time"
+        },
+        {
+            "text": "Human-in-the-loop interactions cannot be treated as static across the device lifecycle. As AI devices demonstrate reliability, users may naturally trust outputs more and apply less scrutiny. When human review is positioned specifically as a safeguard, for example, it is therefore important to consider how the review process or other interactions with the device may change over time. This highlights the importance of designing strategies to monitor human oversight across the device lifecycle, along with other variables known to change over time."
+        },
+        {
+            "text": "3. Managing changing AI behaviour is critical"
+        },
+        {
+            "text": "For generative AI and large language model-based systems, device behaviour can shift significantly without explicit design changes. Without appropriate guardrails, systems may operate beyond their intended purpose, creating regulatory and safety risks that should be actively managed."
+        },
+        {
+            "text": "4. Clinical relevance should underpin performance metrics"
+        },
+        {
+            "text": "A consistent finding across candidate cases was that statistical significance does not always equate to clinical importance. Performance and safety thresholds for regulatory decision making, PCCPs, and PMS strategies should all remain grounded in clinically meaningful outcomes to ensure proportionate and effective oversight."
+        },
+        {
+            "text": "5. A broader ecosystem perspective is needed"
+        },
+        {
+            "text": "Not all AI tools used in healthcare fall within the definition of a regulated medical device. However, the programme emphasised the shared responsibility across developers, deployers, and system partners to ensure safety, transparency, and accountability\u2014regardless of regulatory classification."
+        },
+        {
+            "text": "Publications Now Available"
+        },
+        {
+            "text": "As part of the Phase 2 outputs, the following publications are now available:"
+        },
+        {
+            "text": "Together, these outputs provide a rich evidence base to inform future regulatory development."
+        },
+        {
+            "text": "Driving Regulatory Change"
+        },
+        {
+            "text": "The insights from the AI Airlock pilot and Phase 2 are already shaping the future of AI regulation in healthcare."
+        },
+        {
+            "text": "The programme has contributed directly to the evidence base informing the National Commission into the Regulation of AI in Healthcare and will continue to inform UK and international guidance for AI medical devices."
+        },
+        {
+            "text": "Key recommendations from Phase 2 include:"
+        },
+        {
+            "text": "Looking Ahead: Phase 3"
+        },
+        {
+            "text": "Following the successful delivery of Phase 2, the AI Airlock programme has secured \u00a31.2 million per year in funding from the Department of Health and Social Care for 2026\u20132029."
+        },
+        {
+            "text": "Phase 3 will build on the strong foundations established to date, focusing on:"
+        },
+        {
+            "text": "Conclusion"
+        },
+        {
+            "text": "Phase 2 of the AI Airlock has demonstrated the value of collaborative, evidence-based regulatory innovation to identify and address opportunities and challenges posed by AI in healthcare."
+        },
+        {
+            "text": "By working directly with developers and stakeholders, the programme is helping regulation keep pace with technological advancement\u2014supporting safe innovation for the benefit of patients, clinicians, and the wider healthcare system."
+        },
+        {
+            "text": "Look out for more information on the third phase of the Airlock by subscribing to our distribution list - Medicines and Healthcare products Regulatory Agency - Subscribe to updates about AI Airlock"
+        }
+    ]
+}
