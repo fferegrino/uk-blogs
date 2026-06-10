@@ -1,0 +1,97 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/06/10/final-release-of-the-1-0-trust-framework-what-does-it-mean-for-you/",
+    "title": "Final release of the\u00a01.0\u00a0trust framework: what does it mean for you?",
+    "authors": [
+        "Ellery Shentall"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-06-10T11:00:00+01:00",
+    "content": [
+        {
+            "text": "Yesterday, we published the final 1.0 version of the UK digital verification services trust framework on GOV.UK. The publication is accompanied by final\u202fversions of the 1.0 supporting documents, as well as the 1.0 supplementary codes for digital right to work, right to rent, and Disclosure and Barring Service (DBS) identity checks.\u202f"
+        },
+        {
+            "text": "Read below to find out what this final release means for you, and how we are moving forward with the continuing development of the trust framework."
+        },
+        {
+            "heading": 2,
+            "text": "What have we published?"
+        },
+        {
+            "text": "We have published a new version of the UK digital verification services trust framework. It the first revised statutory trust framework to be published under powers in the Data (Use and Access) Act 2025 and it is called the 1.0 version to distinguish it from previous publications."
+        },
+        {
+            "text": "We pre-released this 1.0 publication with its supporting documents and supplementary codes on 3 March 2026. The pre-release publication was done to give digital verification services (DVS) providers the time to prepare for meeting the new requirements of 1.0."
+        },
+        {
+            "heading": 2,
+            "text": "Has anything changed from previous versions?"
+        },
+        {
+            "text": "We described the main changes between the previous gamma (0.4) and 1.0 version of the trust framework and its accompanying documents in a blog published alongside the pre-release in March, and section 2 of the final publication summarises the key changes."
+        },
+        {
+            "text": "The final 1.0 publications are almost identical to the 1.0 pre-releases, except for one change."
+        },
+        {
+            "text": "This change is in sections 4.1.c and 4.1.d, which cover which trust framework roles can and cannot be certified alongside each other. In the pre-release, 4.1.d. prevented a service from certifying against the orchestration service provider (OSP) and component service provider (CSP) roles alongside any other roles. This section has been updated so that a single service can be certified under the OSP role concurrently with other roles. The final 1.0 publication still prevents a single service from holding concurrent CSP certification with other roles."
+        },
+        {
+            "text": "There are no changes in the rules of the supporting documents and supplementary codes since the pre-release."
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean for digital verification services?"
+        },
+        {
+            "text": "The new 1.0 trust framework and its accompanying document represent the latest UK standards and requirements for digital verification services to operate in the UK under the legal provisions set out in Part 2 of the Data (Use and Access) Act 2025."
+        },
+        {
+            "text": "We are working with the UK Accreditation Service (UKAS) to secure their recognition of the certification scheme that underpins the 1.0 trust framework and supplementary codes and to have conformity assessment bodies (CABs) accredited to certify against the 1.0 publications as part of it."
+        },
+        {
+            "text": "The text of the trust framework and supplementary codes will come into force once the CAB accreditation process has been completed."
+        },
+        {
+            "heading": 2,
+            "text": "What is the significance of conformity assessment body accreditation?"
+        },
+        {
+            "text": "When the CAB accreditation process has been completed, the 1.0 version of the trust framework, supporting documents and supplementary codes will come into force and DVS will be able to certify against them. We are expecting the 1.0 version to come into force on 1 September 2026."
+        },
+        {
+            "text": "From that date, those who aren\u2019t currently certified against the trust framework will only be able to certify against the 1.0 version."
+        },
+        {
+            "text": "For those who are currently certified against the gamma (0.4) version of the trust framework, we will provide a certification uplift route that is tailored to upcoming surveillance audit or recertification schedules. An alternative \u2018delta uplift\u2019 will be available to allow providers to certify against only the rules that have changed between gamma and 1.0."
+        },
+        {
+            "text": "We\u2019ve published a dedicated blog describing uplift timelines and pathways for 1.0, which goes into more detail."
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean for relying parties and users?"
+        },
+        {
+            "text": "Providers who are certified against the 1.0 publication will, for the first time, be entitled to use the UK CertifID trust mark. This will make it easier for people and businesses to recognise digital verification services that meet the rules in the trust framework. Wherever the UK CertifID trust mark is displayed, users and businesses can have increased confidence that a service is safe, secure and is backed by government standards."
+        },
+        {
+            "text": "Use of the UK CertifID trust mark by a provider is optional, and requires that they are certified against 1.0 of the trust framework. We hope its use will become widespread, as people and businesses see the value in it."
+        },
+        {
+            "heading": 2,
+            "text": "Towards the next iteration of the trust framework and supplementary codes"
+        },
+        {
+            "text": "If you\u2019re interested in having a service certified against the trust framework, you can learn more on our\u202fregistration and certification page."
+        },
+        {
+            "text": "We have now started to work on the next iteration of the trust framework, with an initial focus on authentication, orchestration and trusted attributes. We are working to release the next version in 2027, but will provide updates nearer the time. "
+        },
+        {
+            "text": "Later this year, we will start engaging with stakeholders to test our initial thinking on likely changes. As always, we welcome expert views as part of our commitment to open policy making."
+        }
+    ]
+}
