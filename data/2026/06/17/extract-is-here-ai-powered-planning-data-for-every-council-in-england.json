@@ -1,0 +1,108 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/06/17/extract-is-here-ai-powered-planning-data-for-every-council-in-england/",
+    "title": "Extract is here: AI-powered planning data for every council in England\u00a0",
+    "authors": [
+        "The Digital Planning team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2026-06-17T11:22:06+01:00",
+    "content": [
+        {
+            "text": "Today we have announced that Extract is now live and every local planning authority in England has free access to use this AI-powered tool, developed by MHCLG's Digital Planning Programme in partnership with the Department for Science, Innovation and Technology's Incubator for Artificial Intelligence (i.AI). Read the joint press release."
+        },
+        {
+            "text": "The Prime Minister announced Extract at last year\u2019s London Tech Week and since then a multidisciplinary team has worked together, at pace, to be ready to roll out the tool to everyone this Spring, as promised.\u00a0"
+        },
+        {
+            "text": "None of this would have been possible without the 34 local planning authorities (LPAs) who participated in user research and testing throughout Extract's development. Their involvement has been essential, helping us to build a product that works and that councils genuinely trust and use."
+        },
+        {
+            "text": "A great deal of that engagement was made possible by Open Digital Planning (ODP), a network of forward-thinking councils transforming their planning services. Our community managers played a vital role too, building the trust, confidence, and enthusiasm needed to motivate councils to trial something new. Together, everyone across Digital Planning, i.AI, ODP and a handful of other councils, has enabled the successful launch of Extract."
+        },
+        {
+            "text": "Andrew Powell, Local Plan co-ordinator, from Stoke-on-Trent City Council, who was involved in the tool's development, shared his experience at the recent launch event:"
+        },
+        {
+            "heading": 2,
+            "text": "So what is Extract, and why does it matter?"
+        },
+        {
+            "text": "Planning authorities hold vast amounts of valuable information but too much of it is locked away in scanned PDFs, archived maps and historic documents, organised differently by each council. Planning and Geographic Information System (GIS) officers currently can spend up to 2 hours manually working through one of these records to extract the data they need and digitise it. For some document types Extract can do that same work 2 minutes."
+        },
+        {
+            "text": "The tool converts planning documents - Conservation Areas, Article 4 Directions and Tree Preservation Orders - into structured, standardised, usable planning data. Upload a PDF or scanned document, and Extract identifies map features and text, including handwritten annotations which have been added to some documents over time, maps them spatially and converts them into structured data ready for use."
+        },
+        {
+            "text": "Crucially, users review everything that Extract produces, check the output and makes corrections before exporting it into standardised formats for their own systems and the national Planning Data Platform. In around two thirds of cases, only minor edits were needed before the data was ready to use - with all outputs reviewed by planning officers.\u00a0The expertise of planning and GIS officers remains at the heart of the process - Extract simply removes the most time-consuming parts."
+        },
+        {
+            "text": "A full evaluation report explaining more about how the tool works and results to date has been published by i.AI."
+        },
+        {
+            "heading": 2,
+            "text": "Why this is such a big deal"
+        },
+        {
+            "text": "Good planning data underpins everything. When data is easy to find, use and trust, it improves transparency, reduces the monitoring burden on councils and helps developers and communities understand what's possible before they even submit an application."
+        },
+        {
+            "text": "With Extract, we expect to see real benefits flow through the system:"
+        },
+        {
+            "text": "Extract is an important part of the government\u2019s wider drive to use AI to improve public services."
+        },
+        {
+            "heading": 2,
+            "text": "Soft launch with local planning authorities"
+        },
+        {
+            "text": "Extract was soft-launched at a recent ODP in-person event, hosted by Liverpool City Council, at the Museum of Liverpool, with around 60 LPAs attending \u2013 who gave it an enthusiastic welcome. They were shown a live demonstration of the tool and how to access it."
+        },
+        {
+            "text": "There are now 50 LPAs actively using the tool and in the first few weeks Extract had already processed over 1,000 documents, mostly Tree Preservation Orders."
+        },
+        {
+            "text": "Like any piece of software, we will continue to improve Extract as more councils use it, developing it based on feedback from planning officers on the ground.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What others are saying"
+        },
+        {
+            "text": "Rachel Fisher, Chief Executive of the Royal Town Planning Institute, commented:\u00a0\u00a0"
+        },
+        {
+            "text": "Mike Keily, Chair, Planning Officers Society, added:"
+        },
+        {
+            "text": "Dr Wei Yang OBE, CEO, Digital Task Force for Planning, said:"
+        },
+        {
+            "heading": 2,
+            "text": "How to get started"
+        },
+        {
+            "text": "To start using Extract, visit the platform. You\u2019ll find more information as well as an introductory video and guidance to help you start digitising your documents. Local planning authorities can log in directly with their GOV.UK email address."
+        },
+        {
+            "text": "If you have any questions or need support, please email extract@communities.gov.uk."
+        },
+        {
+            "text": "We're incredibly proud of what our team, our partners at i.AI, and the local planning authorities who have tested Extract have achieved together. This is just the beginning. We\u2019re keen to explore how we can expand Extract to support more planning document types, and are committed to sharing more about how the technology works so that others in the market can build on this innovation."
+        },
+        {
+            "heading": 2,
+            "text": "AI planning prototype to cut application processing times"
+        },
+        {
+            "text": "One of the next generations of planning tools which Extract could help enable is a new prototype being built in collaboration with Google DeepMind and Faculty and now being tested with Barnet, Camden and Dorset councils. The prototype, also mentioned in today\u2019s press release, aims to halve the time it takes to process householder planning applications. We have planned to provide more details about this exciting project via a separate blog post to follow later this week."
+        },
+        {
+            "text": "How to find out more\u00a0"
+        }
+    ]
+}
