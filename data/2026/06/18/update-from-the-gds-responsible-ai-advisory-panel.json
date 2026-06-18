@@ -1,0 +1,69 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/06/18/update-from-the-gds-responsible-ai-advisory-panel/",
+    "title": "Update from the GDS Responsible AI Advisory Panel\u00a0\u00a0\u00a0",
+    "authors": [
+        "Jeni Tennison, GDS Responsible AI Advisory Panel Chair, Executive Director, Connected by Data"
+    ],
+    "categories": [
+        "AI"
+    ],
+    "pub_date": "2026-06-18T13:08:16+01:00",
+    "content": [
+        {
+            "text": "The\u00a0UK Government Digital Service\u2019s Responsible AI Advisory Panel\u00a0had its first meeting at the beginning of March and\u00a0its second just last week.\u00a0"
+        },
+        {
+            "text": "The panel was announced in the\u00a0Blueprint for modern digital government\u00a0to \u201cbring together expert insight from the public sector (including frontline workers), industry, academia and civil society groups to provide constructive challenge and advice, and shape standards based on best practice.\u201d\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What do we mean by \u2018Responsible AI?\u2019\u00a0"
+        },
+        {
+            "text": "\"Responsible AI\u201d,\u00a0like \u201cethical AI\u201d and \u201ctrustworthy AI\u201d,\u00a0is hard to define, except that clearly the public sector\u00a0shouldn't\u00a0be\u00a0irresponsible\u00a0as it adopts AI. Responsibility includes, in no\u00a0particular order, aspects of effectiveness, equity, security, resilience, environmental sustainability, democratic legitimacy and value for money. Building and buying responsible AI, in responsible ways, should avoid harms arising from AI, collapses in public trust, and wasting public money.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How this fits with\u00a0existing\u00a0government activity\u00a0"
+        },
+        {
+            "text": "The Responsible AI Advisory Panel is working closely with DSIT teams involved in the\u00a0Data and AI Ethics Framework; the\u00a0Data and AI Ethics community of practice; and the\u00a0Algorithmic Transparency Recording Standard (ATRS), which mandates which information government departments\u00a0have to\u00a0share about algorithms (including AI) in deployment."
+        },
+        {
+            "heading": 2,
+            "text": "Early\u00a0Insights\u00a0"
+        },
+        {
+            "text": "Over just the last few months of the panel,\u00a0we\u2019ve\u00a0already seen some of the promises and challenges that the public sector faces as it adopts AI. For example, we've seen a clear commitment to only introduce AI if it genuinely improves services for the public, and examples where it could reduce waiting times and improve accessibility of public services for people for whom English is a second language or who need support outside working hours.\u00a0"
+        },
+        {
+            "text": "We've also seen how hard it is to test and evaluate the outputs of large language models (such as ChatGPT, Gemini or Claude), even when they use\u00a0retrieval-augmented generation\u00a0to incorporate authoritative factual material into their context prior to responding to a question, especially when public bodies lack datasets holding examples of queries being answered well and correctly. In the private sector it might (arguably) be sufficient to use a disclaimer to remind users not to rely on the veracity of AI-generated responses; in the public sector, inaccurate AI-generated advice is not only potentially harmful for citizens who follow it, but also further diminishes trust in public services.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The\u00a0panel\u2019s focus\u00a0"
+        },
+        {
+            "text": "The panel is\u00a0operating\u00a0as a pilot, and\u00a0we\u2019re\u00a0attempting\u00a0to learn as much as we can about what kind of support an external advisory panel on responsible AI can provide to GDS and the public sector more generally. In the last few months,\u00a0we've\u00a0identified\u00a0three broad categories of advice that could be useful:\u00a0\u00a0"
+        },
+        {
+            "text": "The panel is already beginning to engage with government AI projects, offering early advice and challenge. This includes work with teams developing Gov Voice, a reusable AI-enabled capability to\u00a0improve\u00a0service efficiency, improve quality and accessibility, and reduce duplication across government, and with programmes exploring AI tutoring tools to support pupils through personalised learning. These engagements help ensure that considerations around effectiveness, fairness and trust are built into services from the outset.\u00a0"
+        },
+        {
+            "text": "We\u2019re\u00a0also exploring how the panel can be a useful interface between public bodies, and between the public and the public sector. For example, as well as providing recommendations about what public bodies should be doing, we can highlight some of the good practices that the public sector is already adopting.\u00a0"
+        },
+        {
+            "text": "At the same time,\u00a0we\u2019re\u00a0clear on our limits. The Responsible AI Advisory Panel is not a governance body and cannot provide assurance around\u00a0whether or not\u00a0public bodies are acting responsibly as they adopt AI. While the panel is diverse and approaches questions around responsibility from several different angles, we do not hold deep\u00a0expertise\u00a0on every responsible AI topic, nor can we\u00a0represent\u00a0the varied interests of all the communities affected by AI in public services.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What happens next\u00a0"
+        },
+        {
+            "text": "We will continue to experiment over the\u00a0remainder\u00a0of this year, building towards a final independent report at the end of our\u00a0initial\u00a0term. In the meantime, while we\u00a0can\u2019t\u00a0promise to respond, I would love to hear from people inside and outside government about your experiences with responsible AI adoption in the public sector, and what you would like to see from us. You can contact us through the panel secretariat at\u00a0responsibleaipanel@dsit.gov.uk.\u00a0"
+        },
+        {
+            "text": "\u00a0"
+        }
+    ]
+}
