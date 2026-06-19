@@ -1,0 +1,102 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/06/19/using-ai-to-support-planning-decisions-what-it-means-for-planners-and-residents/",
+    "title": "Using AI to support planning decisions \u2013 what it means for planners and residents",
+    "authors": [
+        "The Digital Planning team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Data",
+        "Digital Planning"
+    ],
+    "pub_date": "2026-06-19T14:21:13+01:00",
+    "content": [
+        {
+            "text": "This week we have shared details of a new artificial intelligence (AI) planning prototype designed to help planning officers process applications faster. Read the joint Ministry of Housing, Communities and Local Government (MHCLG) and Department for Science, Innovation and Technology (DSIT) press release."
+        },
+        {
+            "text": "It is part of the plans and investment being made to transform the planning system, to help local planning authorities work more efficiently, with the aim of getting residents faster decisions and freeing up planners to spend more of their time on the complex, higher-value work that needs their expertise."
+        },
+        {
+            "text": "This blog post sets out some more details about what the prototype is and how it is being developed."
+        },
+        {
+            "heading": 2,
+            "text": "What is the AI planning prototype?"
+        },
+        {
+            "text": "The new prototype is being funded by MHCLG and developed by the Digital Planning Programme working closely with the Incubator for AI (i.AI) at DSIT, in partnership with Google DeepMind and delivery partner Faculty. It is designed to support planning officers when processing householder and other planning applications \u2013 such as applications for extensions and conservatories. These applications make up around 70% of a planning officer's workload, and yet many residents can still wait months for what, in some cases, could be a straightforward decision."
+        },
+        {
+            "text": "The new AI tool analyses incoming applications, identifies relevant policies and constraints, and helps officers make a decision more quickly and consistently, not decide on their behalf. Every application will continue to be evaluated on its own merits \u2013 the planning officer remains the key decision maker."
+        },
+        {
+            "heading": 2,
+            "text": "How has the prototype been developed?"
+        },
+        {
+            "text": "During the procurement process, bidders were asked to build a working prototype as part of their tender. These were assessed by planners alongside other experts. AI firms Google DeepMind and Faculty were successful, and we are now testing and iterating the prototype they developed. We are doing this firstly with planners from 3 local planning authorities, who have volunteered to take part \u2013 Dorset Council, London Borough of Camden and London Borough of Barnet."
+        },
+        {
+            "text": "These 3 authorities were chosen to provide a diversity of planning environments and systems, which will allow us to check how robust the prototype is across different contexts. We are working closely with them to make sure the prototype reflects real planning workflows and the kinds of tasks officers actually need support with. \u202fTheir experience and feedback will directly shape how it develops, and we expect it to change significantly as we refine it."
+        },
+        {
+            "text": "Cllr Ross Houston, Cabinet Member for Homes and Regeneration at Barnet Council, said:"
+        },
+        {
+            "heading": 2,
+            "text": "Where are we now?"
+        },
+        {
+            "text": "We are just at the beginning of this journey. The first, alpha testing phase, which began in May, is designed to see whether the prototype genuinely delivers value for planning officers. The design process is open and iterative, which means the tool may change significantly as we iterate it with local planning authorities and learn more about what works in practice."
+        },
+        {
+            "text": "If the prototype demonstrates clear benefits and value in practice, we will make a decision at the end of the summer, to extend testing to a further 9 LPAs for a 12-month period. Any progression after that, including potential wider rollout in 2027, will depend on the evidence we gather."
+        },
+        {
+            "text": "Our ambition is to halve processing times for householder applications, from 8 weeks to 4 and free up planners to focus on the cases that need them most \u2013 with the long-term goal of near instant processing for routine decisions. This could be transformative \u2013 improving the planning system for planners and residents and freeing up capacity so planners can focus on the complex applications that deliver new homes, supporting the government\u2019s commitment to build 1.5million new homes this parliament."
+        },
+        {
+            "text": "Alongside the prototype, we announced Extract, a new AI tool developed with i.AI, which is now available to every council in England. Built using extensive user research and testing with over 30 local planning authorities, it rapidly converts historic planning documents into usable data \u2013 so officers and citizens can access the information they need more quickly."
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean for planners?"
+        },
+        {
+            "text": "We are aware of concerns that planners and the public have about use of AI in public services \u2013 and building their confidence is at the forefront of how we are approaching this work."
+        },
+        {
+            "text": "No planner enjoys endless administrative tasks such as hunting for information, reviewing paperwork and cross-referencing policies. Planners want to spend their time talking to people, visiting sites and making decisions that shape where people live, work and play. They want to focus on meaningful work that lets them develop professionally and grow their careers."
+        },
+        {
+            "text": "That is what this tool is being designed to enable. It will handle the time-consuming administrative work that sits alongside decision-making \u2013 triaging applications, surfacing relevant policies and precedent, flagging constraints. It is not designed to replace the judgement that planning officers bring to a case. The balancing of competing considerations, the knowledge of local context, the weighing of impact on people's homes and communities all remains with the officer, and that will not change."
+        },
+        {
+            "text": "Planners who have started to test the tool have told us they see it as a job satisfaction tool as much as an efficiency one \u2013 freeing them up to do the parts of the job that are more meaningful and rewarding."
+        },
+        {
+            "text": "The planning system is governed by legislation, including protections for fundamental human rights, and any AI tool operating within it must comply fully with those obligations. The prototype is being built with that requirement central to its design, and we are working with experts, including the Planning Inspectorate, to make sure the tool handles policy, precedent, and constraint information correctly and transparently."
+        },
+        {
+            "text": "A human planning officer will always be involved in the decision-making process."
+        },
+        {
+            "text": "Chris Williamson, President of the Royal Institute of British Architects, added:"
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean for residents?"
+        },
+        {
+            "text": "For residents the benefits are faster, more consistent decisions. Less time waiting to hear if you can build an extension or make changes to your home. And with officers no longer bogged down there is more time for them to discuss planning proposals with their residents and engage with communities."
+        },
+        {
+            "text": "This is what we\u2019re working towards, and we will share updates as the testing phases progress."
+        },
+        {
+            "heading": 2,
+            "text": "Find out more"
+        }
+    ]
+}
