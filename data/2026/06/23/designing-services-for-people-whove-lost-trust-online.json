@@ -1,0 +1,117 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2026/06/23/designing-services-for-people-whove-lost-trust-online/",
+    "title": "Designing services for people who\u2019ve lost trust online",
+    "authors": [
+        "Rachel Malic - Content Designer, HMRC"
+    ],
+    "categories": [
+        "Content Design",
+        "Design"
+    ],
+    "pub_date": "2026-06-23T09:00:00+01:00",
+    "content": [
+        {
+            "text": "When people trust something, it makes them feel safe. But how do yousupport users when it\u2019s getting harder to tell what\u2019s real online?"
+        },
+        {
+            "text": "I work on a service which helps people to pay for things, and users\u2019 trusthas steadily declined as online scams have become more convincing."
+        },
+        {
+            "heading": 2,
+            "text": "Scams can affect anyone"
+        },
+        {
+            "text": "Scammers work like designers, they iterate based on what works. Theyimpersonate government services, like offering tax refunds, often attimes when people expect them. And now they can use AI to attempt toimpersonate someone\u2019s voice, face or a government website withworrying accuracy."
+        },
+        {
+            "text": "Last year, three quarters of British adults said they had encountered ascam of some kind. In our user research, we\u2019ve heard participants say itfeels like scams are ruining the internet."
+        },
+        {
+            "text": "I was the victim of impersonation fraud. Someone phoned me pretendingto be from my bank. They knew my debit card number and where I lived.I design digital payment services and think about scams regularly, yet Ibelieved them. When I panicked and stalled, they became intimidating."
+        },
+        {
+            "text": "I didn\u2019t share any information, but they still managed to take money. I feltundignified and ashamed calling my bank to explain."
+        },
+        {
+            "heading": 2,
+            "text": "Why losing trust is a problem"
+        },
+        {
+            "text": "Being scammed can make you stop trusting yourself, your device, andthe internet. We see this in how people behave when paying for things."
+        },
+        {
+            "text": "Some people:"
+        },
+        {
+            "text": "A badly designed form can provoke these feelings quickly andunexpectedly."
+        },
+        {
+            "text": "It\u2019s not just about paying for things. Many people feel like the internet istoo risky to use for everyday tasks like online banking, food shopping, orusing online medical bookings. For some people, a bad experience cantip them into a period of digital exclusion."
+        },
+        {
+            "heading": 2,
+            "text": "Three ways of designing for people who\u2019ve lost trust"
+        },
+        {
+            "heading": 3,
+            "text": "Designing for safety, not speed"
+        },
+        {
+            "text": "Paying for something can be deeply emotional. We\u2019ve seen evidencefrom user research that it triggers stress, anxiety and confusion. This isespecially true for people who have experienced scams and financialtrauma before."
+        },
+        {
+            "text": "I\u2019ve been learning about trauma informed design, from designersincluding Rachel Edwards and Jane McFadyen. I\u2019m not an expert, butit\u2019s helped me think differently about how people experience services."
+        },
+        {
+            "text": "The body\u2019s nervous system affects how we process information whenwe feel unsafe, and it might take longer to do things. For victims ofonline fraud, this could mean designing ways that:"
+        },
+        {
+            "text": "For example, in one digital journey, we ask users to enter personalinformation including their National Insurance number. We introduced anew screen at the start of this section to explain why we need it and howit will be used."
+        },
+        {
+            "text": "Even though the journey was longer, it helped people feel moreconfident. It increased transparency at a point where users needed apause to sense check things."
+        },
+        {
+            "text": "We can get hung up on how long a service takes to use, but a slightlylonger journey can feel more reassuring for users, and help reduce thefeeling of urgency that fraudsters try to create."
+        },
+        {
+            "heading": 3,
+            "text": "Making things clear and transparent"
+        },
+        {
+            "text": "I\u2019ve also found that people want to know what\u2019s happening, as ithappens. Presenting information in \u2018real time\u2019, such as the status of anaction, helps to build trust. This reduces uncertainty and stops mostpeople from needing to call up."
+        },
+        {
+            "text": "Behind the scenes, it can be complex to do this. I\u2019ve needed to workclosely with Business Analysts and developers to decide how to displayclear, logic-based content that\u2019s easy to understand."
+        },
+        {
+            "heading": 3,
+            "text": "AI is part of the solution"
+        },
+        {
+            "text": "Even though AI can enable scams, it can also help to prevent them."
+        },
+        {
+            "text": "Some banking apps can help you spot a scam while it\u2019s happening. Ifyou open your app during a call, it may show a message saying \u201cYou\u2019renot on a call with us.\u201d If someone claims to be your bank and you seethis message, it\u2019s a scam."
+        },
+        {
+            "text": "AI is used widely by bank fraud detection teams to detect criminalactivity. It can look at hundreds of data points instantly to check ifanything looks suspicious."
+        },
+        {
+            "text": "As we look to advance these processes across government services,designers and security specialists need to work together so that designthinking is at the heart."
+        },
+        {
+            "heading": 2,
+            "text": "What are you doing to help rebuild trust?"
+        },
+        {
+            "text": "Fraud is constantly evolving, and designing for people who\u2019ve lost trustis now a core part of our work."
+        },
+        {
+            "text": "I am lucky to be part of a community of practice in HMRC where weshare findings between us, as a closed, trusted group. I\u2019d love to hearfrom other designers working in similar ways."
+        },
+        {
+            "text": "It\u2019s our job to prevent scams from ruining the internet."
+        }
+    ]
+}
