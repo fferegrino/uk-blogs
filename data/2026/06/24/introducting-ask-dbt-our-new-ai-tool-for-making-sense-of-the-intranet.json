@@ -1,0 +1,122 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/06/24/introducting-ask-dbt-our-new-ai-tool-for-making-sense-of-the-intranet/",
+    "title": "Introducing Ask DBT: Our new AI tool for making sense of the intranet",
+    "authors": [
+        "Andy Revell, Lead Product Manager, Employee Experience"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2026-06-24T09:39:06+01:00",
+    "content": [
+        {
+            "heading": 3,
+            "text": "Andy Revell"
+        },
+        {
+            "text": "I am a Product Manager in the Employee Experience team at the Department for Business and Trade (DBT). My portfolio helps DBT colleagues to work efficiently, be productive and stay connected by improving the tools they use every day."
+        },
+        {
+            "text": "Like most large organisations, DBT holds a lot of information. Policies, guidance, \u2018how do I\u2019 pages, process notes and updates all live on the intranet. Over time, that information grows and changes. There is a constant user need to easily find clear answers to work problems, so users can get on with their job."
+        },
+        {
+            "heading": 2,
+            "text": "A shared problem: finding answers from a large volume of information"
+        },
+        {
+            "text": "Our department and colleagues are distributed across the UK and around the world. Trying to find the right person, the specialist team and the relevant information takes time.\u00a0People search the intranet, click through several pages, or ask teams questions that have already been answered elsewhere. Support teams told us they get the same queries repeatedly. Individually, each question is small but collectively, it adds friction to everyday work."
+        },
+        {
+            "text": "Efficiently querying large volumes of information is a common challenge in complex organisations. It\u2019s not usually down to a lack of effort or expertise. It\u2019s about scale. As content grows, it becomes harder to know where to look, or whether what you\u2019ve found is even relevant."
+        },
+        {
+            "text": "This felt like an area where we could unlock value from AI in a practical way, by using technology to solve a user pain point that almost everyone in DBT has grappled with at some point, regardless of their location, role or experience."
+        },
+        {
+            "heading": 2,
+            "text": "Our vision"
+        },
+        {
+            "text": "Our goal with Ask DBT was simple to describe, but less easy to deliver."
+        },
+        {
+            "text": "We wanted to give colleagues a way to ask questions in plain English and get clear, trusted answers drawn entirely from intranet content. The sort of questions our analysis told us people were already asking, just without having to know where the answer might live."
+        },
+        {
+            "text": "There were constraints from the start. To encourage people to use AI to answer questions, you must build trust in the tool. People need confidence that answers are sensible, with clear and transparent sources. Out-of-the-box tools exist, but they bring licensing costs and are harder to tailor to a specific organisational context."
+        },
+        {
+            "text": "We also needed to be realistic about what we were trying to achieve. For us, that meant saving time and helping people feel confident they were acting on the right information. We were not trying to achieve perfection, and not replacing human judgement either."
+        },
+        {
+            "heading": 2,
+            "text": "Our collaborative approach"
+        },
+        {
+            "text": "Recognising that this was both a technical and a content challenge, we needed to work across teams. To develop the solution, we brought together colleagues from our AI Lab, AI Factory and Employee Experience teams."
+        },
+        {
+            "heading": 3,
+            "text": "As Lead Developer, Marcel Kornblum puts it:"
+        },
+        {
+            "heading": 2,
+            "text": "Introducing Ask DBT"
+        },
+        {
+            "text": "The result is an in\u2011house AI\u2011powered tool designed to query intranet information in a user\u2011friendly way. Many people are now used to chat\u2011style tools in their everyday lives. Asking a question and getting a response is rapidly feeling more natural than navigating through a search box and multiple pages."
+        },
+        {
+            "text": "Under the hood, the tool uses a Large Language Model. Put simply, that\u2019s a system trained to recognise patterns in language so it can generate responses. The important point for users isn\u2019t the technology itself, but that answers link back to trusted sources so people can see where information comes from."
+        },
+        {
+            "text": "We knew we wouldn\u2019t get it right first time. That\u2019s where Agile ways of working helped. Agile just means building in small steps, learning from feedback, and adjusting as you go. We released early versions, listened carefully to user feedback, and iterated."
+        },
+        {
+            "heading": 2,
+            "text": "What impact we've seen so far"
+        },
+        {
+            "text": "Over 30% of the trial cohort used Ask DBT. It has already shown clear potential to free up time answering routine questions about IT kit, travel and expenses. 61% of queries were answered immediately. If further information is needed, the tool shares useful source material where it can be found.There\u2019s an appetite for tools that enable productivity and reduce operational friction. As an in\u2011house tool, it\u2019s open for all colleagues to use, and we can gather feedback directly and see where it helps and where it doesn\u2019t. Those feedback loops are valuable for iterating the product.During testing and piloting, colleagues told us that the tool helped them get answers more quickly and reduced the need to reach out with questions.Several people said it saved them time answering routine questions, which meant they could focus on more valuable work instead."
+        },
+        {
+            "text": "We\u2019re learning about the questions people actually ask, which in turn highlights where intranet content could be clearer."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned along the way"
+        },
+        {
+            "text": "One key lesson was the importance of bringing people along the Agile and iterative journey. We needed to make sure that we had significant engagement and adoption of Ask DBT to ensure that the tool met people\u2019s needs. We\u2019re continuing this approach via live demos at team meetings and requests to try the tool out and share feedback, good or bad.Some users expect new tools to be finished from day one. We had to be clear that early versions were to be tested by users. Our message was that feedback was the way to shape the product, not judge it."
+        },
+        {
+            "text": "We also learned to treat setbacks as information. A poor answer from Ask DBT isn\u2019t a failure, it\u2019s a way to learn and improve the tool and the content."
+        },
+        {
+            "text": "These lessons aren\u2019t unique to AI. Any team building new tools in government faces similar challenges around collaboration and iteration."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "Ask DBT is evolving. It\u2019s part of a wider shift in how we think about developing and managing digital tools. AI may not be the answer to everything, but it can become part of the everyday tools we use to reduce friction at work."
+        },
+        {
+            "text": "We\u2019re continuing to learn what it takes to develop this new technology responsibly, how we improve over time and when to pause, reflect and shift direction. That rhythm feels closer to our new normal than a linear rollout."
+        },
+        {
+            "text": "As we built Ask DBT in-house, we reap the benefits of all the resources we put into developing and improving it. It\u2019s our own tool, built by us, for us. With no licensing costs, control over how and when it is updated, and closeness to the tool\u2019s users, we are well placed to improve it as user needs change and apply what we\u2019ve learned to other digital products."
+        },
+        {
+            "heading": 2,
+            "text": "A final thought"
+        },
+        {
+            "text": "For me, using AI well in government is about understanding the problem to be solved and how AI might be a solution. It is about aligning user trust with experimentation, and rapid delivery with learning."
+        },
+        {
+            "text": "If you\u2019re interested in how we approached this, or tackling similar problems in your own organisation, please get in touch in the comments."
+        }
+    ]
+}
