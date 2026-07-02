@@ -1,0 +1,90 @@
+{
+    "url": "https://opss.blog.gov.uk/2026/07/02/digital-twins-role-in-the-future-of-product-safety/",
+    "title": "Digital Twins role in the future of product safety",
+    "authors": [
+        "James Devenish",
+        "The Evaluation and Research Team"
+    ],
+    "categories": [
+        "OPSS Research Insights"
+    ],
+    "pub_date": "2026-07-02T12:51:55+01:00",
+    "content": [
+        {
+            "text": "Rapid technological change is making products more connected and complex, supported by artificial intelligence, the Internet of Things and 3D printing. These developments could transform how products are designed, tested and monitored for safety. One less widely known but increasingly relevant technology is the Digital Twin."
+        },
+        {
+            "text": "A Digital Twin is a virtual representation of a physical object, product, service or system that is updated using real-time data. In practice, this means:"
+        },
+        {
+            "text": "Data flows from the physical product to its digital representation (for example, through sensors)"
+        },
+        {
+            "text": "This two-way feedback loop supports product safety by monitoring real-world performance, learning from live data and informing improvements after products reach the market. Sensor data, such as shape, energy use, temperature or performance, can update the virtual version and improve predictions and decisions."
+        },
+        {
+            "text": "Although Digital Twins sound modern, the idea dates back to the 1960s, including NASA simulations for Apollo 13. They are now used in healthcare, automotive and construction to support patient care, performance monitoring, autonomous vehicle development and building design."
+        },
+        {
+            "heading": 3,
+            "text": "What did this study focus on?"
+        },
+        {
+            "text": "OPSS commissioned a scoping study on digital innovation in product safety, focused on Digital Twins. It explored how the technology is developing, where it is used, and what it could mean for consumers, businesses and regulators."
+        },
+        {
+            "text": "This blog summarises the report\u2019s key messages and highlights where collaboration and learning could support UK adoption. The research included a rapid evidence assessment, literature review, and interviews and workshops with stakeholders from industry, academia, government and conformity assessment bodies. It also considered why adoption varies by sector and what may limit wider use in consumer products."
+        },
+        {
+            "heading": 3,
+            "text": "Key takeaways"
+        },
+        {
+            "heading": 4,
+            "text": "1) Digital Twins have the potential to protect consumers from harm"
+        },
+        {
+            "text": "Digital Twins could improve safety through:"
+        },
+        {
+            "text": "Digital Twins will not replace existing safety processes or physical testing, but over time they could provide useful evidence and support safety decisions."
+        },
+        {
+            "heading": 4,
+            "text": "2) Digital Twins are at an early stage of commercialisation in consumer products"
+        },
+        {
+            "text": "As costs fall and technology improves, the use of Digital Twins is likely to grow in consumer goods, beginning with higher-value items, such as some white goods."
+        },
+        {
+            "heading": 4,
+            "text": "3) Barriers include standards, data sharing, skills and cyber security"
+        },
+        {
+            "text": "Challenges that may slow adoption or limit impact:"
+        },
+        {
+            "heading": 4,
+            "text": "4) Regulation and standards could support adoption, while allowing for innovation"
+        },
+        {
+            "text": "Rushing standardisation could lock in unsuitable approaches. Flexible and proportional frameworks will need to adapt over time as technology evolved."
+        },
+        {
+            "text": "What are the implications for OPSS?"
+        },
+        {
+            "text": "The report suggests that with appropriate standards and governance, virtual testing data could become a useful addition to OPSS\u2019s regulatory framework."
+        },
+        {
+            "text": "The report mentions some areas OPSS may wish to explore further, including:"
+        },
+        {
+            "heading": 4,
+            "text": "Call to action"
+        },
+        {
+            "text": "This report was commissioned by the Office for Product Safety and Standards and prepared by RSM Consulting LLP."
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/07/02/cutting-admin-not-corners-ai-in-temporary-accommodation/",
+    "title": "Cutting admin, not corners: AI in temporary accommodation",
+    "authors": [
+        "The Local AI team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Local AI"
+    ],
+    "pub_date": "2026-07-02T10:02:32+01:00",
+    "content": [
+        {
+            "text": "Temporary accommodation (TA) is a vital local authority service, supporting people who are homeless or at risk of homelessness, often in very difficult circumstances. It involves difficult conversations and formal processes, often at pace. Officers gather evidence, assess eligibility, make duty decisions and produce personalised housing plans (PHPs), often while juggling large caseloads across multiple systems."
+        },
+        {
+            "text": "Our Local AI team worked with councils in late 2025 to see this in practice. A lot of officer time goes on repetitive admin, especially drafting documents and pulling information together. Spending time with housing officers in councils, sitting in on assessment calls and observing triage brought the frontline reality into sharp focus."
+        },
+        {
+            "heading": 2,
+            "text": "Why we focused on temporary accommodation"
+        },
+        {
+            "text": "Demand has increased significantly in recent years. More than 131,000 households were living in temporary accommodation in England in March 2025 \u2013 a record high and around 12% higher than the previous year \u2013 with over 169,000 children affected. For many, this can mean living in insecure or temporary settings, often away from support networks, while waiting for a more stable home. This sustained rise in demand is placing increasing pressure on teams delivering these services."
+        },
+        {
+            "text": "Housing officers are managing high caseloads, complex decisions and tight statutory requirements, often across fragmented systems."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned from user research"
+        },
+        {
+            "text": "Despite differences in local policy, process and systems, we heard consistent themes across councils."
+        },
+        {
+            "text": "From this, we identified personalised housing plans as a clear opportunity area \u2013 a high-volume task where time pressure often leads to generic outputs, but where better support could improve both efficiency and quality."
+        },
+        {
+            "text": "Personalised housing plans work best when they are living documents, but they often become static, generic and procedural. Time pressure leads to heavy use of templates, with limited capacity to tailor or revisit them."
+        },
+        {
+            "text": "We also saw two broad patterns in how councils use case management systems:"
+        },
+        {
+            "text": "This affects admin time, but not the decisions themselves."
+        },
+        {
+            "heading": 2,
+            "text": "Incubating our ideas"
+        },
+        {
+            "text": "For a 3-month period, we tested whether AI could support parts of the workflow safely, without adding more admin work."
+        },
+        {
+            "text": "We didn\u2019t build a finished service. Instead, we spoke to many local authorities to understand how temporary accommodation services worked in different areas. We then honed in to work closely with 9 local authorities, combining interviews, shadowing and follow-up sessions. User research ran throughout and directly shaped what we built and how we evaluated it."
+        },
+        {
+            "text": "Based on this research, we developed a proof of concept: the AI Case Workspace. This was a focused way to test how AI could support these tasks in practice, grounded in real work and integrated with how officers already do their jobs. Watch a short demo below:"
+        },
+        {
+            "text": "We focused on the initial assessment conversation followed by 3 common tasks:"
+        },
+        {
+            "text": "2. answering questions about a case using existing transcripts and notes"
+        },
+        {
+            "text": "3. helping officers find similar cases when searching for information"
+        },
+        {
+            "text": "The tool was designed to support professional judgement, not replace it. Housing officers remain responsible for reviewing, editing and approving all outputs before anything is shared or used."
+        },
+        {
+            "text": "We built in evaluation from the start, focusing on:"
+        },
+        {
+            "text": "This helped us understand what worked well, and where it needs improvement."
+        },
+        {
+            "heading": 2,
+            "text": "What this suggests"
+        },
+        {
+            "text": "Our work suggests AI could reduce admin in parts of the process, particularly transcribing conversations and drafting PHPs. That should free up time for prevention, casework and direct engagement for housing officers."
+        },
+        {
+            "text": "It also reinforces a few principles:"
+        },
+        {
+            "heading": 2,
+            "text": "What happens next"
+        },
+        {
+            "text": "Local AI is already developing Local AI Transcribe \u2013 a transcription and summarisation service for local government. Following insights collected in this work, we now plan to include homelessness services amongst the first set of housing service domains at partner councils that will receive access to Local Transcribe during private beta."
+        },
+        {
+            "text": "The functionality of Local Transcribe will include the drafting of Personal Housing Plans, starting as structured one-off summaries and potentially looking at how they can work as live documents. We are working towards Local Transcribe being widely available to homelessness and temporary accommodation teams next year."
+        },
+        {
+            "text": "We\u2019re keen to keep listening, learning in the open and build with councils, not for them. We\u2019ll be announcing more exciting work soon."
+        },
+        {
+            "text": "We'd like to thank all local authorities who were involved in the user research."
+        },
+        {
+            "heading": 2,
+            "text": "Get involved"
+        },
+        {
+            "text": "If you work in local government and are interested in temporary accommodation or homelessness services, AI in frontline settings, or learning from early experimentation, we would love to hear from you."
+        },
+        {
+            "text": "We also run regular show and tells on this and other Local AI projects, to share what we are learning (including what has not worked) so others can build on it."
+        },
+        {
+            "text": "Get in touch if you\u2019d like to be kept in the loop \u2013 email LocalAI@communities.gov.uk."
+        },
+        {
+            "text": "Learn more about some of our previous work exploring the use of AI to tackle homelessness and rough sleeping."
+        },
+        {
+            "text": "Find out more information about Local AI and read about our work."
+        }
+    ]
+}
