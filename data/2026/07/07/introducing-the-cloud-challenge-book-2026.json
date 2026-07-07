@@ -1,0 +1,113 @@
+{
+    "url": "https://technology.blog.gov.uk/2026/07/07/introducing-the-cloud-challenge-book-2026/",
+    "title": "Introducing the Cloud Challenge Book 2026",
+    "authors": [
+        "Tommaso Spinelli, Cloud and Platforms Service Owner, GDS",
+        "Daniel Tea-Lewis, Principal Architect, GDS",
+        "Edward McCutcheon, Government Chief Architect, GDS"
+    ],
+    "categories": [
+        "Cloud",
+        "GOV.UK",
+        "Technology"
+    ],
+    "pub_date": "2026-07-07T10:15:00+01:00",
+    "content": [
+        {
+            "text": "Today\u00a0we're\u00a0publishing the\u00a0Cloud Challenge Book 2026\u00a0and we want the most ambitious, innovative technology partners in the UK and beyond to read\u00a0it.\u00a0"
+        },
+        {
+            "text": "The Cloud Challenge Book has been designed by the Government Digital Service, the Department for Science, Innovation and Technology and the Government Commercial Agency,\u00a0in partnership with the National Cyber Security Centre and the Government Cyber Unit. It is modelled on the success of the\u00a0Ministry of Defence's British Army Challenge Set\u00a0and\u00a0Digital Targeting Web Challenge Book\u00a0-\u00a0an approach\u00a0that has already demonstrated what can happen when government is clear about what it needs and invites industry to rise to the challenge.\u00a0"
+        },
+        {
+            "text": "Our aim is\u00a0to excite ambitious current and future industry partners to invest and innovate with us as we build firm national-scale digital foundations on cloud, grow the British economy, and transform the public sector.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why now, and why\u00a0this matters\u00a0"
+        },
+        {
+            "text": "Cloud is a critical enabler of the services we all rely on each day. The\u00a0UK cloud market\u00a0was\u00a0worth over \u00a310.5 billion\u00a0in 2024\u00a0and\u00a0growing at 30% each year,\u00a0driven by the rapid advance of AI. The UK is already the second nation globally to have a\u00a0Cloud First policy, and\u00a0approximately\u00a060% of government digital services have already migrated to cloud.\u00a0That is real progress, and we should be proud of it. But it has taken 13 years to get here,\u00a0and\u00a0around\u00a028% of our estate is still legacy\u00a0-\u00a0including an increasing number of red-rated systems. The current status quo is not sustainable.\u00a0\u00a0"
+        },
+        {
+            "text": "The\u00a0blueprint for\u00a0modern\u00a0digital\u00a0government, published in January 2025, set out a clear commitment to smarter, more coordinated digital foundations across the whole of the public sector. The\u00a0roadmap for modern digital government takes that further. The Cloud Challenge Book is how we begin to deliver on those commitments at national scale. It asks the question: what would it take for the UK public sector to act as a single, coordinated customer and\u00a0how\u00a0could\u00a0the\u00a0industry help us achieve\u00a0that?\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the Cloud Challenge Book supports\u00a0the National Cloud Infrastructure Programme\u00a0"
+        },
+        {
+            "text": "The Cloud Challenge Book will support development of the National Cloud Infrastructure Programme (NCIP). The programme is\u00a0seeking\u00a0to explore how government can better coordinate cloud demand across the public sector and work with industry to support long-term digital capability, enable initiatives like the\u00a0UK AI Hardware Plan,\u00a0while moving towards more\u00a0outcome-based\u00a0procurement approaches. It will support a more strategic partnership with industry and\u00a0aims to\u00a0ensure that future investments in cloud infrastructure are focused on delivering tangible public sector and economic benefits.\u00a0"
+        },
+        {
+            "text": "The Cloud Challenge Book\u00a0demonstrates\u00a0the challenges we want\u00a0to solve\u00a0with industry that are only enabled when government is clear about what it needs and committed to acting at national scale, some of which will be addressed through NCIP.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Five challenges, national scale\u00a0"
+        },
+        {
+            "text": "The\u00a0Cloud Challenge\u00a0Book\u00a0sets out five challenges. Each one represents an ambitious, national-scale opportunity where government is\u00a0seeking\u00a0innovative, scalable solutions\u00a0developed in collaboration with\u00a0industry.\u00a0"
+        },
+        {
+            "text": "The challenges in this book share a common thread. They are ambitious in scale\u00a0-\u00a0designed to transform a nation, not just improve a process. They are adaptive, bringing together requirements and customer groups that might not obviously belong together to create solutions with real staying power. They are urgent because the public deserves\u00a0better,\u00a0and the current approach is not sustainable. And they are enabling and\u00a0empowering\u00a0-\u00a0built around open, flexible\u00a0solutions that grow UK capability in supply chains, skills and cloud adoption, rather than locking us into any single path.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenge 1: Zero legacy public sector\u00a0"
+        },
+        {
+            "text": "Cloud has been a critical enabler for legacy remediation. Yet,\u00a0a considerable number of government digital services still rely on inefficient legacy systems. Remediation funding\u00a0has increased but is still insufficient for the size of the challenge. We need a fundamentally different approach\u00a0-\u00a0one that gives public sector organisations comprehensive, automated visibility of their assets, accelerates modernisation of complex systems, and ensures\u00a0newly-created\u00a0services do not\u00a0add to the\u00a0legacy\u00a0challenge.\u00a0As the\u00a0blueprint puts it: we need to reset our relationship with technology risk.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenge 2: Public digital infrastructure for an AI era\u00a0"
+        },
+        {
+            "text": "UK-based organisations need to scale\u00a0in an AI era, which requires an order of magnitude more compute, storage and networking. The UK has leading technology,\u00a0AI\u00a0and AI hardware companies\u00a0-\u00a0we want to enable those companies to scale their products rapidly to global usage. The Challenge Book explores what would be required for UK-based cloud infrastructure to compete with leading global regions, with at least two\u00a0fully-featured\u00a0regions available to those who need to stay within UK\u00a0jurisdiction.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenge 3: Secure-by-default, resilient-by-default cloud\u00a0"
+        },
+        {
+            "text": "Cloud platforms are the foundations on which we build our most critical digital services and store our data. In 2024, the UK government designated data infrastructure - including physical data centres and cloud - as\u00a0Critical National Infrastructure, placing it on a par with priority sectors such as energy, water, and transport.\u00a0"
+        },
+        {
+            "text": "As our ambition and dependence on technology grows, so must the security and resilience of our cloud platforms.\u00a0"
+        },
+        {
+            "text": "Transparency builds trust - and we\u00a0want\u00a0to work collaboratively with industry to co-create engineering approaches that reflect this principle, shaping cloud platform engineering and product decisions at scale.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenge 4: A cloud and AI expert nation\u00a0"
+        },
+        {
+            "text": "The Prime Minister has\u00a0set an objective\u00a0for\u00a01 in 10 civil servants to be digital, data and cyber professionals\u00a0by 2030.\u00a0We need to grow cloud and AI skills across the whole spectrum\u00a0-\u00a0from young people not yet in education, employment or training\u00a0(NEET), to national experts running critical global-scale services. Change won't happen without the right people, with the right expertise, working at the right levels.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Challenge 5: Commercial value at national scale\u00a0"
+        },
+        {
+            "text": "The UK public sector is one of the largest consumers of cloud services globally,\u00a0but we do not consistently act like one. Fragmented demand and locally optimised procurements dilute our collective buying power, increase cost and risk, and slow the creation of better\u00a0services.\u00a0We need commercial models that enable faster delivery, reuse and shared investment across the public sector.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How to engage\u00a0"
+        },
+        {
+            "text": "Each challenge in the book is ambitious, adaptive, urgent, enabling and empowering. We are not looking\u00a0for incremental improvements,\u00a0we are looking to transform and enable a nation, and we are seeking proposals that can scale nationally.\u00a0"
+        },
+        {
+            "text": "Read the Cloud Challenge Book\u00a0in full on GOV.UK.\u00a0\u00a0"
+        },
+        {
+            "text": "If you have any questions or would like to contact the team, please email\u00a0cloud-strategy@dsit.gov.uk.\u00a0"
+        },
+        {
+            "text": "We look forward to hearing from you.\u00a0"
+        }
+    ]
+}
