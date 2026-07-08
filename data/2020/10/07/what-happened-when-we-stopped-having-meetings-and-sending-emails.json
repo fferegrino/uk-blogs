@@ -1,0 +1,126 @@
+{
+    "url": "https://gds.blog.gov.uk/2020/10/07/what-happened-when-we-stopped-having-meetings-and-sending-emails/",
+    "title": "What happened when we stopped having meetings and sending emails",
+    "authors": [
+        "Steve Messer",
+        "Xander Harrison"
+    ],
+    "categories": [
+        "GOV.UK Pay",
+        "Ways of working"
+    ],
+    "pub_date": "2020-10-07T14:33:45+01:00",
+    "content": [
+        {
+            "text": "At GDS, we\u2019ve always promoted the benefits of working in multidisciplinary teams, being co-located as much as possible. Bringing together specialists to work on problems in the same building has clear benefits: interaction is easier, scrum boards and roadmaps are more visible and make coordination more fluid, and collaboration can be kicked off quickly."
+        },
+        {
+            "text": "But we\u2019re keen on the benefits of remote working too. Teams can choose to work from home, flexibly, as needed, and everyone is given the tools to do so. It means they can get their head down and focus, or do the washing up at lunchtime in between meetings. People can find a balance between work and life that works for them."
+        },
+        {
+            "text": "All that changed in late March when everyone shifted to working from home by default. We wanted to take advantage of the change to try new working practices in GOV.UK Pay, inspired by a blog post about how they communicate asynchronously at Automattic."
+        },
+        {
+            "text": "So we tried to have a week where there was nothing that demanded that people be in a certain place at a certain time and making sure our messages were clear and comprehensible, giving people time to think and respond, and having more agency over how they spent their time."
+        },
+        {
+            "heading": 2,
+            "text": "Getting rid of meetings"
+        },
+        {
+            "text": "The biggest change was to get rid of work meetings. Meetings force people to do a specific thing at a specific time, potentially disrupting their flow. We wanted to see what happened when there were no meetings in the calendar."
+        },
+        {
+            "text": "For our trial, there were some exceptions:"
+        },
+        {
+            "text": "Several team ceremonies we would have usually held in a meeting, such as retrospectives (retros) or sprint planning, were substituted by colleagues providing their own updates on collaborative tools, such as team Slack channels, Google Docs or Trello boards. Tasks were assigned in similar ways."
+        },
+        {
+            "text": "There wasn\u2019t a team show-and-tell scheduled for the asynchronous week, but we could have explored sharing pre-recorded segments and discussing them on Slack."
+        },
+        {
+            "heading": 2,
+            "text": "Getting rid of emails"
+        },
+        {
+            "text": "Email is a form of asynchronous communication, but has a few characteristics that would make the trial harder:"
+        },
+        {
+            "text": "Instead, people sent messages on a team Slack channel, or created proposals in Google Docs and shared that."
+        },
+        {
+            "heading": 2,
+            "text": "Keeping things ticking over"
+        },
+        {
+            "text": "One benefit of removing meetings is that we no longer had a reason to say people had to work specific hours. We asked everyone to work the same number of hours that they usually do, but asked them to do them at any time and in any length of blocks that they like. The exception to this was people working on Support, who had to work the times set out in our support agreement with our users."
+        },
+        {
+            "text": "We scheduled 2 optional social meetings a day to stay connected as a team, with a strict no-work-talk rule (so we didn\u2019t compromise the experiment)."
+        },
+        {
+            "heading": 2,
+            "text": "How it went"
+        },
+        {
+            "text": "We ran a retro to reflect on the week, voting on various things, as well as gathering comments. Not everyone voted on everything, so the numbers are inconsistent."
+        },
+        {
+            "text": "On balance, more people found this way of working to be as good as or better than normal. 8 people had mostly positive feelings about working in this way. 6 were neutral or conflicted, and 2 had mostly negative feelings."
+        },
+        {
+            "text": "On the whole, we managed to follow the rules: 17 of 18 people broke the rules once or twice at most."
+        },
+        {
+            "text": "The biggest benefit for most people was having bigger blocks of free time, which allowed them to focus on a piece of work without interruption. Almost everyone found that managing their own concentration levels was easier."
+        },
+        {
+            "text": "The clunkiest bit of the week was planning. Each team usually spends time on working out what to do next every week, and some teams do so daily."
+        },
+        {
+            "text": "Most of this could have happened in Slack, but without scheduled meetings, some of it didn\u2019t. Each team did put together a sprint backlog, but it was generally less well thought out than usual. However, 11 of 12 people thought this clunkiness was probably lack of practice, rather than a fundamental trait of asynchronous planning."
+        },
+        {
+            "text": "One team usually pairs all day. They struggled with the absence of a stand-up to coordinate the pairing in the morning, and to connect with the wider direction of their work."
+        },
+        {
+            "heading": 2,
+            "text": "What we learned"
+        },
+        {
+            "text": "The trial highlighted some things that otherwise weren\u2019t obvious."
+        },
+        {
+            "text": "We noticed a few instances where a process was usually collectively owned, but without a meeting to force people to engage with it, it didn\u2019t get done. In those instances, a named person or role responsible for the process would have helped. We\u2019ll explore whether we\u2019d work better with a defined owner or rota for those processes, even when working synchronously."
+        },
+        {
+            "text": "At one point, an urgent piece of work arrived and we tried to adapt asynchronous processes to deal with it, but quickly abandoned that. When the cycle time for sensing a problem and providing a response is short, direct communication and collaboration makes it quicker to deliver solutions."
+        },
+        {
+            "text": "Some felt less engaged with their team, which is something we\u2019d need to solve if we were to switch to this pattern in the long term."
+        },
+        {
+            "text": "The benefits people experienced tended to be related to their role. For example, product managers, delivery managers and designers generally have competing priorities for how to spend their time. An absence of meetings empowered them to prioritise freely, rather than having to spend time on whatever felt important when meetings were scheduled. Developers tend to work more directly from a backlog, so felt this benefit less."
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "The way that remote working has blended people\u2019s experience of work and home together is challenging."
+        },
+        {
+            "text": "Some find it helpful to emulate the experience of going to an office as closely as possible. That might be by doing things like only working during normal working hours, and going for a walk before and after work to replace the wind-down effect of a commute."
+        },
+        {
+            "text": "However, not everyone works at their best in this way all the time. Some find it easier to work in several smaller chunks through the day and evening, or get up late and sleep late, or take a 3-hour lunch break and extend the day. We want to be as flexible as possible, and reducing the number of meetings in the calendar helps to do that."
+        },
+        {
+            "text": "A popular idea in the retro was to have dedicated days each week when meetings were banned, and after a follow-up survey, we now have no team meetings on Tuesdays or Fridays. We\u2019ll review this regularly to see if we\u2019d like more or fewer days in the future."
+        },
+        {
+            "text": "We\u2019ll keep reevaluating our ways of working. Whenever the option of working in the same space is available again, we\u2019ll jointly decide what we want that to look like and how we can accommodate every individual\u2019s needs. Though we\u2019d love to be near each other again, we\u2019ll probably never go back to working exactly how we used to."
+        }
+    ]
+}
