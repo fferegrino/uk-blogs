@@ -1,0 +1,80 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/07/09/secure-and-scalable-checks-against-the-digital-verification-services-register/",
+    "title": "Secure and scalable checks against the digital verification services register",
+    "authors": [
+        "Aniqa"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-07-09T17:35:30+01:00",
+    "content": [
+        {
+            "text": "The Office for Digital Identities and Attributes (OfDIA) is introducing machine-readable technology\u00a0to\u00a0the\u00a0digital verification services register.\u00a0This will allow businesses and public authorities to check\u00a0the register\u00a0securely and at scale.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The current register"
+        },
+        {
+            "text": "The current\u00a0digital verification services (DVS) register\u00a0is a GOV.UK list of services that meet government rules and standards.\u00a0It\u00a0was designed to\u00a0help businesses and individuals\u00a0to search and browse information\u00a0about registered\u00a0digital verification services.\u00a0\u00a0"
+        },
+        {
+            "text": "This\u00a0works well\u00a0for\u00a0occasional\u00a0checks. However, as digital verification services become more widely adopted, we need the register to support faster, more\u00a0secure checks at a larger scale.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The machine-readable register"
+        },
+        {
+            "text": "Last year, we did discovery work to explore how to make the register machine-readable. We are now implementing technology, known as public key infrastructure (PKI), which will allow businesses and public authorities to programmatically check the list of registered services. This will make checks against the register more secure and scalable.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How will programmatic checks support the sector\u00a0"
+        },
+        {
+            "text": "Programmatic checks will support secure access to public authority data\u00a0"
+        },
+        {
+            "text": "Earlier this year, we explained how\u00a0information gateway powers introduced in the Data (Use and Access) Act 2025 will allow public authorities to share data with trusted digital verification service providers at the individual\u2019s request.\u00a0\u00a0"
+        },
+        {
+            "text": "However, before a public authority, like DVLA or the Home Office,\u00a0can share any data, it must check that the digital verification service is registered. Relying on a person to carry out these checks every time would not be practical.\u00a0"
+        },
+        {
+            "text": "The machine-readable register will allow public authorities to carry out these checks securely and at scale. This will help unlock public authority data for safe and trusted use across the economy.\u00a0"
+        },
+        {
+            "text": "How it could work: "
+        },
+        {
+            "text": "Programmatic checks will make it easier for pubs, clubs,\u00a0restaurants\u00a0and shops to accept digital proof of age for alcohol sales\u00a0"
+        },
+        {
+            "text": "Last week\u00a0the Home Office laid regulations that will allow licensed premises in England and Wales to rely on digital age verification checks.\u00a0Once this legislation comes into force, people will be able to prove they are old enough to buy alcohol using a registered digital verification service instead of a passport or driving licence.\u00a0\u00a0"
+        },
+        {
+            "text": "However,\u00a0before accepting digital proof of age,\u00a0businesses will\u00a0need to check that\u00a0the\u00a0services involved in the transaction are\u00a0registered.\u00a0Again, relying on a person to check the register at\u00a0the\u00a0point of sale would not be practical.\u00a0"
+        },
+        {
+            "text": "The machine-readable register will allow businesses to carry out these checks quickly, securely and at scale. This will make it easier for businesses to\u00a0rely on digital age verification checks for\u00a0alcohol sales.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "A machine-readable digital verification services register will help grow the digital identity sector. It will introduce programmatic checks which are more secure and scalable. This will make it\u00a0quicker and\u00a0easier for businesses and public authorities to check whether a service is government registered and can be trusted.\u00a0"
+        },
+        {
+            "text": "This month, we started the beta development phase. We will work with digital verification service providers, businesses that rely on digital verification checks, and public authorities to test and improve the solution. "
+        },
+        {
+            "text": "Testing will continue throughout Summer and Autumn 2026, with a minimum viable\u00a0product expected to launch in Winter 2026.\u00a0"
+        },
+        {
+            "text": "If you would like to take part in beta testing, email digital.identity.register@dsit.gov.uk. "
+        }
+    ]
+}

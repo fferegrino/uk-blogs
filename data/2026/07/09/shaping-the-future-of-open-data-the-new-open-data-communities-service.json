@@ -1,0 +1,89 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/07/09/shaping-the-future-of-open-data-the-new-open-data-communities-service/",
+    "title": "Shaping the future of open data: the new Open Data Communities service",
+    "authors": [
+        "Steve Peters, Principal Technical Architect, Analytical Data as a Service"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2026-07-09T09:23:02+01:00",
+    "content": [
+        {
+            "text": "Open Data Communities (ODC) is the platform the Ministry of Housing, Communities and Local Government (MHCLG) uses to routinely release its data outputs in fully open, accessible and reusable forms."
+        },
+        {
+            "text": "Earlier this year, we published a blog explaining how we planned to evolve our platform to support transparency, accountability and innovation."
+        },
+        {
+            "text": "The first part of the transformation is now complete, and we want to highlight the changes we have made."
+        },
+        {
+            "heading": 2,
+            "text": "A modernised look and new URL"
+        },
+        {
+            "text": "Open Data Communities has moved from its legacy domain to a new service at https://open-data.communities.gov.uk."
+        },
+        {
+            "text": "The new Open Data Communities site has a modern interface, with a design that prioritises usability and accessibility. The homepage now features clearer navigation and a more structured presentation of the datasets and tools available. Overall, the refreshed design reflects a shift towards a more user-centred experience, making the platform feel more consistent with other modern government digital services."
+        },
+        {
+            "heading": 2,
+            "text": "A focus on machine-readable datasets"
+        },
+        {
+            "text": "One of the most significant updates is the release of the Indices of Multiple Deprivation (IMD) 2025 dataset using CSV on the Web (CSVW)."
+        },
+        {
+            "text": "Publishing IMD in CSVW combines standard CSV files with structured, machine-readable metadata. This is important because it retains the simplicity users expect from CSV, whilst the metadata adds additional context to properly interpret and reuse the data."
+        },
+        {
+            "text": "In practice, the metadata provides:"
+        },
+        {
+            "text": "This directly supports interoperability, allowing IMD data to be combined with other datasets more easily and reliably. It also enables both human users and automated systems to work with the data more effectively, which is increasingly important as analytical workflows become more complex and machine-driven."
+        },
+        {
+            "text": "From a wider government perspective, adopting CSVW aligns with the recommended open standards guidance, which promotes machine-readable metadata and consistent data models. The use of CSVW helps ensure MHCLG data is:"
+        },
+        {
+            "text": "More broadly, this approach supports the government\u2019s direction towards making data more accessible, reusable and compatible with emerging technologies such as AI, where structured metadata is essential for safe and effective reuse at scale."
+        },
+        {
+            "heading": 2,
+            "text": "Get energy performance of buildings data: a user-focused approach to EPC data"
+        },
+        {
+            "text": "Alongside improvements to datasets, Energy Performance Certificates (EPC) open data has moved to a new dedicated service."
+        },
+        {
+            "text": "This service replaces the Energy Performance of Buildings Data platform and introduces a more resilient and user-focused way to access EPC data. It also helps users distinguish between bulk energy performance data access through this service, and individual certificate lookup through the EPC Register."
+        },
+        {
+            "text": "The new 'Get energy performance of buildings data' service provides:"
+        },
+        {
+            "text": "The service has also been developed with clearer guidance and signposting, helping users transition from the previous service and understand how to access datasets, APIs and supporting information."
+        },
+        {
+            "text": "In May we supported:"
+        },
+        {
+            "text": "Here\u2019s what some of the users said:"
+        },
+        {
+            "heading": 2,
+            "text": "In conclusion"
+        },
+        {
+            "text": "These changes mark a clear shift in how MHCLG publishes and delivers open data. The move to CSVW for high-value datasets like IMD and the introduction of dedicated services such as Get Energy Performance Data demonstrate a focus on open standards, usability and interoperability."
+        },
+        {
+            "text": "This ensures that data is not only accessible, but also structured in a way that supports reuse, integration and future innovation across government and beyond."
+        },
+        {
+            "text": "As always, we welcome your feedback on these changes and any other features of Open Data Communities. Contact us at odc@communities.gov.uk."
+        }
+    ]
+}
