@@ -1,0 +1,101 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2026/07/14/gads-workforce-projection-tool-helping-turn-workforce-date-into-decisions/",
+    "title": "GAD's workforce projection tool - helping turn workforce data into decisions",
+    "authors": [
+        "Jo Howlett - GAD Head of Workforce Strategy"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Modelling",
+        "Workforce strategy"
+    ],
+    "pub_date": "2026-07-14T13:00:51+01:00",
+    "content": [
+        {
+            "text": "Workforce planners and people analysts at smaller government bodies may know the feeling \u2026 A senior colleague asks an urgent question: what will the organisation\u2019s headcount look like in 3 years\u2019 time? How can we manage headcount restrictions? What\u2019s the impact of spending more in team X? You have a spreadsheet, some assumptions, an understanding of the importance of the answer, but no quick, or robust, way to get there."
+        },
+        {
+            "text": "The consequences of getting things wrong are real: A spending review submission based on unreliable headcount assumptions; a restructure that looks sensible on paper but leaves critical skills gaps a year or two later; an independent review that recommends the workforce plan has more analytical evidence. These are the kind of challenges that lead organisations to seek support from GAD."
+        },
+        {
+            "text": "We have been helping small government organisations tackle these questions with a workforce projection tool, developed to visualise the future shape of their workforce."
+        },
+        {
+            "heading": 2,
+            "text": "Bridging the gap"
+        },
+        {
+            "text": "GAD recently worked with a government body that wanted better analytical foundations for its internal workforce planning. They had data and they had strategic questions, but no structured way to bridge these to develop a coherent forward view. "
+        },
+        {
+            "text": "Working with their workforce planning team, we developed an Excel-based model that provides the analytical grounding they were missing. "
+        },
+        {
+            "text": "The model is now being used in steering meetings with senior leadership to understand impact of current and future workforce decisions."
+        },
+        {
+            "heading": 2,
+            "text": "How the tool works"
+        },
+        {
+            "text": "The model takes an organisation's current workforce data and projects it forward by applying rates of staff movement, such as, for example, attrition, hiring, and internal transfers between teams. This produces a baseline supply projection."
+        },
+        {
+            "text": "That supply baseline is then set alongside a demand projection, giving an affordability-based view of the number of roles the organisation is targeting."
+        },
+        {
+            "text": "The difference between the two is the gap projection, identification of where resource pressures are likely to emerge, and equally importantly, when.The main dashboard brings these elements together illustrating answers to the questions that matter most to senior leaders and planners:"
+        },
+        {
+            "text": "Users can also build bespoke scenarios, modelling the workforce impact of strategic decisions such as a restructuring, a recruitment drive, or a change in attrition rates in a particular team."
+        },
+        {
+            "heading": 2,
+            "text": "Confidence in professional standards"
+        },
+        {
+            "text": "All organisations face scrutiny of their workforce planning, whether from senior leadership, or auditors. This means that the model\u2019s foundations matter as much as its outputs. "
+        },
+        {
+            "text": "GAD have developed the model in line with the government's Aqua Book guidance for analytical models and the actuarial profession\u2019s standards. Its outputs directly address 3 of the NAO's workforce planning audit criteria: future demand, future supply, and gap analysis. The model\u2019s robust structure, in-built checking, and clear documentation and governance mean that when a senior leader or auditor asks how a number was arrived at there is a clear, explainable answer."
+        },
+        {
+            "heading": 2,
+            "text": "Input data requirements"
+        },
+        {
+            "text": "Organisations using the tool will need details of employees (in an Excel / CSV format) containing information on grade, location, team, or other relevant sub-group level information . The tool uses average salary levels rather than individual salary data, which simplifies data handling and reduces information governance requirements. "
+        },
+        {
+            "text": "Other key inputs are informed assumptions: expected rates of attrition and hiring, typical rates of internal movements and salary budget information for the demand projection. "
+        },
+        {
+            "text": "The combination of good data and considered assumptions is where real value is revealed. The tool provides the structure; the insight comes from the conversations the analysis enables."
+        },
+        {
+            "heading": 2,
+            "text": "Who is this for?"
+        },
+        {
+            "text": "The tool is most naturally suited to small and medium-sized public sector bodies planning across a number of sub-groups, e.g. different teams, grades or locations, and a planning horizon of 2 to 5 years. "
+        },
+        {
+            "text": "We would be very happy to have a conversation with you if your organisation is grappling with any of the following:"
+        },
+        {
+            "heading": 2,
+            "text": "Get in touch"
+        },
+        {
+            "text": "If you'd like to find out more or arrange a conversation, please get in touch:Jo Howlett \u2013 joanna.howlett@gad.gov.uk Aaron Stewart \u2013 aaron.stewart@gad.gov.uk "
+        },
+        {
+            "heading": 3,
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page. "
+        }
+    ]
+}
