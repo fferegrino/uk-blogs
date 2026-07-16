@@ -1,0 +1,80 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/07/16/from-pixels-to-policy-the-potential-of-geospatial-embeddings-for-mhclg/",
+    "title": "From pixels to policy: The potential of geospatial embeddings for MHCLG",
+    "authors": [
+        "Benjamin Vigreux, Principal Data Scientist"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Innovation"
+    ],
+    "pub_date": "2026-07-16T09:33:40+01:00",
+    "content": [
+        {
+            "text": "The Advanced Analytics and AI (AAAI) team in the Ministry of Housing, Communities and Local Government (MHCLG) helps the department use AI to improve operations, inform policy decisions and deliver better outcomes for communities across the country. We play a leading role in coordinating AI innovation across government, bringing together departments, agencies and partners to explore shared challenges and develop common approaches. Our work spans a wide range of applications, from helping officials respond more quickly and effectively to Parliamentary Questions and Freedom of Information requests, to supporting evidence-based funding decisions."
+        },
+        {
+            "text": "The MHCLG AI Lab is the team's experimentation function, set up to test new AI tools on real departmental problems, so we understand what works, what doesn\u2019t, and what is safe to adopt more widely."
+        },
+        {
+            "text": "Together with Imago, Homes England and partners across government spatial data science networks, our AI Lab is investigating the potential of embeddings to accelerate the adoption of satellite technology and provide solutions to some of the real-world challenges MHCLG tackles. This is an exciting piece of work, and we are proud to have been shortlisted for a Geography in Government Award in the Innovation category!"
+        },
+        {
+            "text": "This post introduces the concept of image embeddings and their potential value for a central government department like MHCLG. Although they are not exactly the same, in the context of this post we use \u2018image\u2019 and \u2018geospatial\u2019 embeddings interchangeably."
+        },
+        {
+            "heading": 2,
+            "text": "What are geospatial embeddings?\u00a0"
+        },
+        {
+            "text": "Geospatial Foundation Models (GeoFMs) and their embeddings have emerged as one of the most exciting developments in AI. In recent months, many organisations in government (for example, space agencies like NASA, ESA), industry and academia have released their own open foundation models specifically trained for Earth observation data \u2013 data describing the Earth, often captured by satellites. In some cases, even pre-computed embeddings are made publicly available. But what are these GeoFMs and their embeddings? And why does a central government department care?"
+        },
+        {
+            "text": "Simply put, GeoFMs are AI models trained on large amounts of data collected about the Earth, including satellite imagery. They learn to recognise patterns in this data and can be applied to many spatial analysis tasks \u2013 from monitoring natural disasters to identifying different types of land for planning \u2013 without training a new model from scratch."
+        },
+        {
+            "text": "Embeddings are the representations GeoFMs construct to be able to perform these various tasks. They can be described as the \u2018numeric fingerprint\u2019 of an image \u2013 a series of numbers which capture the different patterns that occur in an image. The following image provides an example of embeddings that have been derived for a picture of a park."
+        },
+        {
+            "text": "Each sub-image in red and blue represents the values for each embedded dimension. Some of these dimensions capture patterns noticeable to the human eye (for example, clearly differentiating between the path, tree and grass). Others capture patterns that are more difficult to interpret. Collectively, they are a good representation of the information encoded in the image on the left."
+        },
+        {
+            "heading": 2,
+            "text": "Why explore the potential of embeddings for central government?"
+        },
+        {
+            "text": "Images encode a large amount of information about the state of, and changes in, the physical environment. For a department like MHCLG, which has a clear relationship with land and the built environment through housing and planning, this is particularly valuable."
+        },
+        {
+            "text": "However, image analysis is typically difficult, expensive and time-consuming. Unlike tabular data, images are particularly large, complex and expensive to store. They also require significant amounts of pre-processing to turn from a series of wavelength measurements into analysis-ready data."
+        },
+        {
+            "text": "Embeddings address this challenge by delivering many of imagery\u2019s benefits without many of its costs. More specifically, they have 3 key advantages:"
+        },
+        {
+            "text": "1. Embeddings are smaller than images while retaining most of the valuable information images contain. They have the dual benefit of being considerably smaller than the original image from which they were derived, while retaining the key patterns or information encoded within this original image."
+        },
+        {
+            "text": "2. Embeddings can easily be integrated within existing numeric analysis. They allow images to be represented in tabular format, such as that used in a spreadsheet. This is a huge advantage for users who are more familiar with this approach than with raw images. This property also means embeddings can be used as an additional input into existing numeric analysis."
+        },
+        {
+            "text": "3. Embeddings are reusable. Once derived from an image, embeddings can be reused across multiple different applications \u2013 whether that is identifying similar images, classifying images, or considering change between 2 images. All this without ever having to touch the source image."
+        },
+        {
+            "text": "These qualities combined mean that embeddings have the potential to accelerate Earth observation and image analysis in government by reducing costs, complexity and time taken to work with images."
+        },
+        {
+            "heading": 2,
+            "text": "What can embeddings help MHCLG do?"
+        },
+        {
+            "text": "Potential applications of embeddings and wider geospatial AI capabilities for our department can be grouped into the following categories:"
+        },
+        {
+            "text": "These potential use cases are by no means exhaustive. In the MHCLG AI Lab, we are currently testing the potential of embeddings to help locate brownfield land across England. We will aim to share details of our methodology, findings and lessons learned as they emerge."
+        },
+        {
+            "text": "Beyond geospatial AI, the Lab is testing the use of other forms of AI to help the department deliver its objectives. This includes the processing, indexing and rapid retrieval of unstructured data or documents, experimentation with AI agents, and advanced modelling techniques. For example, we are exploring potential applications to help triage incoming correspondence."
+        }
+    ]
+}
