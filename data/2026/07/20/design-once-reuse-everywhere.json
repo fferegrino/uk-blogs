@@ -1,0 +1,113 @@
+{
+    "url": "https://hodigital.blog.gov.uk/2026/07/20/design-once-reuse-everywhere/",
+    "title": "Design once, reuse everywhere",
+    "authors": [
+        "Steven Shukor, Principal Content Designer",
+        "Alison Hay",
+        "Amy Everett",
+        "Harpreet Seehra-Singh",
+        "Emma Nicol"
+    ],
+    "categories": [
+        "Continuous improvement",
+        "Design",
+        "User centred design"
+    ],
+    "pub_date": "2026-07-20T11:01:54+01:00",
+    "content": [
+        {
+            "text": "Have you ever trawled through government design systems looking for a component or a pattern to reuse? If you have, you'll know it can take you down a rabbit hole."
+        },
+        {
+            "text": "Design systems help organisations design consistent user experiences. But finding the right asset in one design system is hard enough, let alone searching across several."
+        },
+        {
+            "text": "That's where the Gov Reuse Library comes in."
+        },
+        {
+            "text": "Under one digital roof, the library brings together design systems, content style guides and other reusable products and services created across central and local government."
+        },
+        {
+            "text": "It\u2019s based on a simple idea: if we make it easier for teams to find and reuse digital assets, like tables, address lookups and error messages, we could save time, cut costs, and deliver better services for users."
+        },
+        {
+            "text": "Launched in September 2025, the library is the brainchild of the Ministry of Justice design team in collaboration with the Government Digital Service (GDS)."
+        },
+        {
+            "text": "It\u2019s managed by a working group of cross-government practitioners, including the Home Office, helping to ensure it reflects the needs of teams across the public sector."
+        },
+        {
+            "text": "One of the Home Office content design team\u2019s early contributions was to get all 14 departmental content style guides added to the library."
+        },
+        {
+            "text": "This helps content creators across the public sector to use language more consistently, write in plain English and reduces the need to create guidance that already exists elsewhere."
+        },
+        {
+            "heading": 2,
+            "text": "Reuse design systems and style guides with confidence"
+        },
+        {
+            "text": "\u201cBut doesn\u2019t Google do this already?\u201d you might ask. True, all of the design systems and style guides in the library are online and can be found using any search engine."
+        },
+        {
+            "text": "But finding this information is only half the challenge. The Gov Reuse Library not only houses them in one convenient place, it curates them to help you find what you need faster."
+        },
+        {
+            "text": "Our workshops suggest that people searching for reusable assets don\u2019t always trust what they find and need guidance on using components for more specialised design needs."
+        },
+        {
+            "text": "A team of Home Office user researchers recently joined the working group and are looking for people to take part in research to help us make the library meet your needs."
+        },
+        {
+            "text": "Sign up to take part in research to help inform and improve GOV Reuse Library."
+        },
+        {
+            "heading": 2,
+            "text": "AI-powered search feature"
+        },
+        {
+            "text": "One of the features we will be testing is an AI search box that allows you to search all design systems using everyday language."
+        },
+        {
+            "text": "The AI prototype, produced in collaboration with digital agency, Red Hat, was made available temporarily in June for the UX Scotland conference."
+        },
+        {
+            "text": "In just 3 days, 621 searches were made using the AI search box, suggesting there\u2019s strong interest in this kind of feature. The most common searches were for:"
+        },
+        {
+            "heading": 2,
+            "text": "Using natural language to find components quickly"
+        },
+        {
+            "text": "One of the most useful aspects of the AI prototype is that you don\u2019t need to know the exact name of the component or pattern you\u2019re looking for. You can simply describe the problem you\u2019re trying to solve in your own words."
+        },
+        {
+            "text": "For example, if you enter \u2018I need to draw strong attention to something important, but it might not always be critical\u2019, the tool returns suggestions like notification banners, alerts and inset text."
+        },
+        {
+            "text": "The AI prototype is still a work in progress, but the feedback has been very positive. We hope to make it a permanent feature on the site if we can demonstrate its value to users."
+        },
+        {
+            "heading": 2,
+            "text": "Building a community around the Gov Reuse Library"
+        },
+        {
+            "text": "We want to build a community around the Gov Reuse Library so that as it continues to develop, it reflects your needs and becomes part of your go-to resources."
+        },
+        {
+            "text": "Much like a bricks and mortar library, we see it as a place to access free information, learn from each other, encourage sharing and promote collaboration."
+        },
+        {
+            "text": "In that spirit, we\u2019ve just launched our Contribute page where you can suggest new resources or updates to existing listings."
+        },
+        {
+            "text": "Soon to follow is a What\u2019s new? page where you can stay up to date with the latest Gov Reuse Library news, releases and our product roadmap."
+        },
+        {
+            "text": "Have you reused components, patterns or other resources? Share your story in the comments below. Your experience will help us demonstrate the library's value."
+        },
+        {
+            "text": "Interested in joining us in Home Office Digital? Read about our current vacancies and what it\u2019s like to work here on our Digital and Data careers website."
+        }
+    ]
+}

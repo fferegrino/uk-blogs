@@ -1,0 +1,58 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/07/20/understanding-cyber-security-across-the-digital-identity-ecosystem/",
+    "title": "Understanding cyber security across the digital identity ecosystem\u00a0",
+    "authors": [
+        "Anisa Khanom"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-07-20T12:54:41+01:00",
+    "content": [
+        {
+            "text": "The digital identity market is growing. More services are being certified, more sectors are adopting digital verification\u00a0services (DVS), and certification against the\u00a01.0 trust framework\u00a0begins later this year.\u00a0\u00a0"
+        },
+        {
+            "text": "At the same time, the fraud picture is a reminder of why security matters. Identity fraud\u00a0remains\u00a0the most common fraud type recorded in the UK, with over\u00a0240,000 cases filed to the National Fraud Database in 2025.\u00a0Reports\u00a0such as\u00a0Cifas's\u00a0Fraudscape point to criminals using AI to produce\u00a0both\u00a0fake documents and synthetic identities at increasing speed and scale. As the\u00a0digital identity\u00a0market\u00a0continues to\u00a0grow,\u00a0it is essential that\u00a0we\u00a0make sure\u00a0the\u00a0security of the ecosystem\u00a0evolves accordingly.\u00a0"
+        },
+        {
+            "text": "The\u00a0trust framework requires certified DVS providers to meet\u00a0established\u00a0security standards,\u00a0including\u00a0in\u00a0areas\u00a0such as\u00a0data protection, access\u00a0control\u00a0and incident management.\u00a0Now the final release of the 1.0 version of the trust framework has been published, we are starting to\u00a0focus on what we want to change in the following version.\u00a0As part of this work, we are\u00a0looking to improve\u00a0our understanding of\u00a0how identity and attribute data flows between\u00a0trust framework participants\u00a0and\u00a0where risks\u00a0emerge\u00a0from those connections. Understanding the system end to end will\u00a0ensure that\u00a0the framework's rules are targeted where they matter most.\u00a0"
+        },
+        {
+            "text": "We have\u00a0recently\u00a0commissioned a piece of work to\u00a0support the mapping of data flows. This post explains what the project involves, and what we will be asking of DVS providers.\u00a0"
+        },
+        {
+            "text": "What the project is\u00a0"
+        },
+        {
+            "text": "We have appointed an NCSC-accredited cyber security consultancy to carry out a six-week, system-level analysis of the DVS ecosystem. The\u00a0chosen provider has experience of\u00a0similar\u00a0projects across a range of\u00a0government programmes overseeing complex, multi-party markets.\u00a0"
+        },
+        {
+            "text": "A\u00a0core deliverable for the project\u00a0is a\u00a0refreshed and comprehensive mapping\u00a0of the ecosystem's architecture and data flows. This will provide\u00a0a\u00a0detailed overview\u00a0of how identity and attribute data moves between\u00a0participants\u00a0in the framework, from\u00a0initial\u00a0verification through to a relying party accepting a check. The map will show the information exchanged at each step, the points where responsibility passes from one organisation to another, and how data is protected as it moves and is stored. Where a role depends on other parties (for example, a DVS provider using a third-party biometric or document-checking service) the map will capture that\u00a0information, so the picture\u00a0we receive\u00a0reflects how services are delivered,\u00a0rather than how roles are described\u00a0theoretically.\u00a0"
+        },
+        {
+            "text": "What the project is not\u00a0"
+        },
+        {
+            "text": "This is not an audit of individual DVS providers.\u00a0We\u00a0will not be assessing anyone's internal systems, and the analysis stays at the level of the ecosystem: roles,\u00a0connections\u00a0and data flows. It is also separate from certification.\u00a0"
+        },
+        {
+            "text": "What we will ask of providers\u00a0"
+        },
+        {
+            "text": "The supplier\u00a0will build the\u00a0initial\u00a0mapping\u00a0using the\u00a0UK DVS\u00a0trust framework and\u00a0a suite of\u00a0OfDIA\u00a0materials. But a map drawn from documents alone risks describing the ecosystem as it looks on paper, rather than as it works in practice.\u00a0We believe that providers are best placed to tell us where the two differ.\u00a0"
+        },
+        {
+            "text": "Over the coming weeks we will invite\u00a0a number of\u00a0certified DVS providers to short validation sessions.\u00a0We want to know\u00a0from providers\u00a0whether the information flows look right, whether we have captured dependencies and handover points accurately, and whether anything is missing.\u00a0"
+        },
+        {
+            "text": "What we will do with the findings\u00a0"
+        },
+        {
+            "text": "The outputs will feed into our thinking on\u00a0future iterations of the UK\u00a0DVS\u00a0trust framework, into guidance we may develop for providers, and into\u00a0our ongoing work to understand the threats facing the ecosystem.\u00a0We\u00a0also\u00a0intend to\u00a0share\u00a0what we learn,\u00a0in a forum that is useful to you.\u00a0"
+        },
+        {
+            "text": "If you have questions about the work, or would like to register interest in taking part in a\u00a0session\u00a0to\u00a0validate\u00a0our findings, you can contact us at\u00a0anisa.khanom@dsit.gov.uk."
+        }
+    ]
+}
