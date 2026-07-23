@@ -1,0 +1,123 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/07/23/building-local-transcribe-for-local-government/",
+    "title": "Building Local Transcribe for local government",
+    "authors": [
+        "The Local AI team"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Local AI"
+    ],
+    "pub_date": "2026-07-23T09:16:46+01:00",
+    "content": [
+        {
+            "text": "Frontline staff in local government spend a significant amount of time turning conversations into written records. Case notes, assessments and follow\u2011up letters are often completed when time allows between appointments, meetings and caseload pressures, reducing the time available to support people directly."
+        },
+        {
+            "text": "Local Transcribe is a new AI-powered tool designed to change that by capturing conversations, transcribing and summarising them, and producing a draft set of case notes for officers to review and edit."
+        },
+        {
+            "text": "We\u2019re building it with councils and the people who\u2019ll use it. We\u2019re working closely with Birmingham, Hart, Maidstone, Trafford and Haringey, and we\u2019re very grateful for the time, openness and expertise they\u2019ve brought to shaping the product. Their input is directly influencing what we build and how it works in practice."
+        },
+        {
+            "text": "This work is part of the Ministry of Housing, Communities and Local Government's (MHCLG\u2019s) Local AI programme. Our role is to work with councils to support the responsible adoption of AI across local government, focusing on practical tools that save time, reduce costs and improve services. Local Transcribe is the first product in that programme."
+        },
+        {
+            "text": "It builds on Minute, developed by the Incubator for AI (i.AI) and piloted with 22 councils using real case data. We\u2019re taking what worked and evolving it into a scalable service for wider use across local government, starting with housing."
+        },
+        {
+            "heading": 2,
+            "text": "Why we're doing this"
+        },
+        {
+            "text": "Housing and homelessness are key policy areas in MHCLG, and the pressure on housing teams in local councils is acute. Housing officers are managing high caseloads across a broad range of service areas, including temporary accommodation, homelessness and supporting asylum seekers."
+        },
+        {
+            "text": "The administrative burden around each case takes up a significant share of officer time \u2013 time that could otherwise be spent with people who need their support."
+        },
+        {
+            "text": "The features housing officers need, such as recording on a phone during a home visit or working offline when there's no signal, are the same features required by officers across other frontline services."
+        },
+        {
+            "text": "Adult social care, children's social care, and special educational needs and disability are all priority areas for councils. By getting the foundations right in housing, we are building something that can scale into those services next."
+        },
+        {
+            "heading": 2,
+            "text": "What we're focused on"
+        },
+        {
+            "text": "Local Transcribe has 3 areas of focus:"
+        },
+        {
+            "heading": 3,
+            "text": "Designing around frontline workflows "
+        },
+        {
+            "text": "We are working with housing officers to understand their end-to-end workflows, including the case management systems they use, the range of interactions they have with residents, and the different outputs each interaction requires."
+        },
+        {
+            "heading": 3,
+            "text": "Building for production "
+        },
+        {
+            "text": "We are moving Local Transcribe from pilot to a fully operational service, built to handle sensitive data responsibly, meet the security and data protection standards required across local government, and scale to more councils and more service domains over time."
+        },
+        {
+            "heading": 3,
+            "text": "Producing drafts officers can trust"
+        },
+        {
+            "text": "Local Transcribe produces a draft transcript and summary for the officer to review and edit if necessary. We will run continuous automated evaluations on transcription accuracy, summarisation quality, and bias across protected characteristics, to ensure the draft is reliable."
+        },
+        {
+            "heading": 2,
+            "text": "What we are doing"
+        },
+        {
+            "heading": 3,
+            "text": "Design"
+        },
+        {
+            "heading": 3,
+            "text": "Building"
+        },
+        {
+            "text": "Since the programme began, we have been working in partnership with i.AI to agree a shared vision for how Local Transcribe develops beyond the original Minute pilot. We are also working with the Local Government Association (LGA) to learn from the councils already using Minute and carry those insights into what we build next."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "We\u2019re working towards an early access launch with a small group of partner councils later this year. This will act as a private beta, with housing officers using Local Transcribe in their day\u2011to\u2011day work. It will help us understand what works, what doesn\u2019t, and where the product needs to evolve."
+        },
+        {
+            "text": "During this phase, we\u2019ll track key performance metrics to assess whether Local Transcribe is making a meaningful difference, including the time officers spend on case notes and how backlogs change in practice."
+        },
+        {
+            "text": "We will begin by working with a small group of partner councils helping us refine Local Transcribe and understand how it delivers value in different services and settings."
+        },
+        {
+            "text": "As we learn from this early access phase, our ambition is to make the tool available to around 1,000 users across at least 12 councils by the end of the financial year. The insights gained will help us shape the product and identify the greatest opportunities for impact."
+        },
+        {
+            "text": "Looking further ahead, we believe Local Transcribe has the potential to become a shared capability for local government. Subject to successful delivery and impact evaluation, we aim to open up Local Transcribe to all English councils who want to use it for housing services as part of a public beta, with the earliest opportunity to start wider enrolment being from Spring next year. We also plan to expand in other frontline service areas across 2027."
+        },
+        {
+            "heading": 2,
+            "text": "Get involved"
+        },
+        {
+            "text": "If you work in local government, there are two ways to get involved:"
+        },
+        {
+            "text": "If you have a public sector email address, you're welcome to attend our monthly show and tells. We share what we've learned, what we've built, and what's coming next. Contact LocalAI@communities.gov.uk if you want to sign up for the show and tells."
+        },
+        {
+            "text": "We're also looking for partner councils for our private beta. We're particularly keen to hear from councils that would help us cover a good range of geographies, regional dialects, and council sizes to ensure Local Transcribe works for all councils."
+        },
+        {
+            "text": "Get in touch by emailing LocalAI@communities.gov.uk."
+        }
+    ]
+}
