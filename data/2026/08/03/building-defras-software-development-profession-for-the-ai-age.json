@@ -1,0 +1,112 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2026/08/03/building-defras-software-development-profession-for-the-ai-age/",
+    "title": "Building Defra\u2019s software development profession for the AI age",
+    "authors": [
+        "John Watson"
+    ],
+    "categories": [
+        "AI",
+        "Defra digital",
+        "software development"
+    ],
+    "pub_date": "2026-08-03T12:16:11+01:00",
+    "content": [
+        {
+            "text": "Principal Software Developer John Watson shares how he and his colleagues are exploring how they can use AI to drive efficiencies."
+        },
+        {
+            "text": "It is an exciting time to be a software developer. Artificial intelligence (AI) is helping us explore ideas, understand complex systems, reduce repetitive work and turn concepts into working software faster."
+        },
+        {
+            "text": "The technology is also moving beyond tools that suggest code or answer questions. Agentic AI can plan work, explore codebases and carry out multi-step tasks. Used well, it gives developers more time to solve difficult problems and improve public services. Using AI badly can spread misinformation, invade privacy, reinforce bias, weaken human skills, create security risks, and harm environmental sustainability."
+        },
+        {
+            "text": "Across Defra, developers are approaching these opportunities with curiosity and energy. As Principal developers, we want to build on that by giving people the skills, guidance and confidence to experiment responsibly and securely."
+        },
+        {
+            "text": "That momentum is visible in our usage data. Since October 2025, active users in the software development profession have increased 11-fold. Over the same period, chat and agent interactions rose from 780 to more than 10,000 interactions a month, showing growth in both breadth and depth of adoption."
+        },
+        {
+            "heading": 2,
+            "text": "Building skills around developers\u2019 needs"
+        },
+        {
+            "text": "Developers are at different stages in their use of AI. Some already use effective agentic workflows; others are still building confidence and learning where the tools add value."
+        },
+        {
+            "text": "To support that range of experience, we have invested in GitHub Copilot and worked with Microsoft to provide remote and on-site learning. The wider offer includes self-paced courses, practical workshops and opportunities to work towards certification."
+        },
+        {
+            "text": "The figures suggest this investment is translating into sustained use. Monthly active users rose steadily through the first half of 2026, while engaged users stayed consistently high. In most months, 85% to 96% of active users did more than open the tool: they used a suggestion, showing practical value rather than one-off experimentation."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from each other"
+        },
+        {
+            "text": "Several developers who attended the Microsoft sessions then organised local knowledge-sharing events to help colleagues apply AI to their own work."
+        },
+        {
+            "text": "This peer-led learning matters because useful techniques are often grounded in a specific service, codebase or delivery challenge. Seeing a colleague use plan mode, custom instructions or an agentic workflow in practice can be more valuable than discussing the technology in the abstract."
+        },
+        {
+            "text": "Our community of practice helps keep that conversation going, giving colleagues a place to share experiences and exchange ideas across teams."
+        },
+        {
+            "text": "We have also built a strong two-way relationship with Defra\u2019s AI capability and enablement team. They provide opportunities to trial emerging tools, while developers share evidence to support wider learning."
+        },
+        {
+            "text": "For junior developers, AI is also becoming a useful learning mentor, helping them explore unfamiliar concepts and ask questions as they work. It\u2019s important for me to emphasise that this positively augments, rather than replaces, mentoring, pairing and support from experienced colleagues."
+        },
+        {
+            "text": "Three of our developers also took part in a cross-government AI hackathon, finishing third ahead of more than 30 other teams."
+        },
+        {
+            "heading": 2,
+            "text": "Using evidence to guide responsible adoption"
+        },
+        {
+            "text": "To guide this work, we surveyed developers to understand how AI tools are used across teams, roles and technology stacks. We invited views from everyone, including those who were enthusiastic, cautious or sceptical, so our strategy reflects the profession\u2019s collective needs."
+        },
+        {
+            "text": "We are also looking at utilisation data alongside survey responses. Interactions grew faster than active users: around 13 times higher from October to June, compared with an 11-fold increase in active users. This shows the conversation is not just about more people trying AI, but about developers using it more deeply in day-to-day workflows."
+        },
+        {
+            "text": "The responses showed where developers find AI most useful across the software development lifecycle, which tools and models suit different tasks, and where knowledge gaps remain. They also highlighted concerns about sustainability, wellbeing and using AI without enough planning or oversight."
+        },
+        {
+            "text": "We are using that evidence to shape our learning offer and refine our software development standards and guidance. From a sustainability perspective, this includes encouraging developers to plan before asking AI to act, choose a suitable model for the task, and create reusable instructions, skills and custom agents to reduce \u00a0\u2018ping-pong\u2019 conversations, unnecessary credit use and energy consumption."
+        },
+        {
+            "text": "We have published a GitHub Copilot guide to support developers in adopting the technology, with sustainability notes explicitly highlighted."
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead"
+        },
+        {
+            "text": "Looking ahead, we will continue to shape AI use across the profession through evidence, not assumption, focusing on where it can help Defra deliver its goals."
+        },
+        {
+            "text": "Our education offer will keep evolving, with sustainable AI use built in as we continue to look for efficiency gains."
+        },
+        {
+            "text": "We are excited about the opportunities ahead and confident that evidence-based decisions will help Defra make the most of AI across digital delivery."
+        },
+        {
+            "text": "More information"
+        },
+        {
+            "text": "Defra\u2019s software development profession is led by Matthew Wiggans, supported by Principal Developers: Ben Sagar, Paul Andrews, Paul Shaw, John Watson, Nick Richardson and Tedd Mason."
+        },
+        {
+            "text": "Leave a comment for the team about your own AI journey."
+        },
+        {
+            "text": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        },
+        {
+            "text": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates."
+        }
+    ]
+}

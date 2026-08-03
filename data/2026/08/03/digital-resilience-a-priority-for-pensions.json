@@ -1,0 +1,126 @@
+{
+    "url": "https://actuaries.blog.gov.uk/2026/08/03/digital-resilience-a-priority-for-pensions/",
+    "title": "Digital resilience - a priority for pensions",
+    "authors": [
+        "Rachel McArthur - Pensions Consultant"
+    ],
+    "categories": [
+        "Actuary",
+        "Analysis",
+        "Pensions",
+        "Pensions administration",
+        "Risk management"
+    ],
+    "pub_date": "2026-08-03T09:48:32+01:00",
+    "content": [
+        {
+            "text": "In a world where digital systems underpin nearly every aspect of our lives, the pensions industry is no exception. "
+        },
+        {
+            "text": "Pension schemes today are powered by a web of interconnected technology and with that comes growing risk. "
+        },
+        {
+            "text": "Digital resilience is an organisation\u2019s ability to prepare for, respond to, and recover from IT disruptions\u2014whether it\u2019s a cyber-attack, data breach, system outage or even a simple human error. "
+        },
+        {
+            "text": "It includes cybersecurity, but also covers non-malicious disruption such as outages, supplier failures and errors. Recent cyber-attacks have made the risk all too clear. "
+        },
+        {
+            "text": "In the last few years, a number of high-profile UK organisations have suffered serious cyber incidents that compromised online and personal data, affecting millions of individuals \u2013 this includes pension administrators. These incidents are not isolated: they highlight a broader trend. Cyber threats are escalating, and pension schemes can be in the firing line."
+        },
+        {
+            "heading": 2,
+            "text": "Why does digital resilience matter for pensions?"
+        },
+        {
+            "text": "For the pensions industry, the stakes are high. Pension schemes hold sensitive personal and financial data. They serve millions of members who depend on timely payments. A single digital failure can have serious consequences, shake confidence, delay payments and put members\u2019 personal information at risk. "
+        },
+        {
+            "text": "Digital resilience helps prevent this from happening. It's about making sure the systems you rely on every day don\u2019t let administrators or members down."
+        },
+        {
+            "heading": 2,
+            "text": "What's at stake?"
+        },
+        {
+            "text": "Pension schemes can be attractive targets. "
+        },
+        {
+            "text": "Hackers know that pension systems store sensitive data, from National Insurance numbers to bank details and addresses. With millions of items of members\u2019 personal and financial information under one digital roof, the potential reward for cybercriminals is large. "
+        },
+        {
+            "text": "But it does not stop there. Many pension schemes are connected to multiple third-party suppliers from software providers to payroll processors. These external connections can inadvertently create a potential \u201cback door\u201d into systems. If just one supplier has weak security, it can be exploited to access the broader ecosystem, putting pension schemes and members at risk."
+        },
+        {
+            "text": "And it's not just about hackers. A failed software update, a server outage or a simple case of human error can be just as damaging."
+        },
+        {
+            "text": "In a highly regulated industry built on trust, even short-term disruption can have long-term consequences. That's why digital resilience is essential."
+        },
+        {
+            "heading": 2,
+            "text": "The regulatory push"
+        },
+        {
+            "text": "The Pensions Regulator (TPR) has placed digital resilience high on the agenda, urging schemes to modernise data management, tighten up digital defences, and take operational resilience seriously. Digital resilience is not just a \u201cnice to have,\u201d but a critical part of scheme governance."
+        },
+        {
+            "heading": 2,
+            "text": "What can schemes do?"
+        },
+        {
+            "text": "The good news is, you do not have to be a cybersecurity expert to enhance scheme digital resilience."
+        },
+        {
+            "text": "With the right mindset and a few practical steps, pension schemes can significantly reduce their risk and be better prepared if something goes wrong. "
+        },
+        {
+            "text": "Here are 5 key actions every pension scheme should consider:"
+        },
+        {
+            "text": "Get the basics right: strong passwords, multi-factor authentication, encryption, regular software updates. These may sound basic but they are the first line of defence. Go a step further with real-time monitoring tools to detect suspicious activity and regular penetration testing to identify vulnerabilities before attackers do. Work closely with administrators and third-party suppliers to ensure security protocols are aligned across the board."
+        },
+        {
+            "text": "It's not just about preventing problems - it is about responding to them effectively."
+        },
+        {
+            "text": "Develop clear incident response and disaster recovery plans. If your administration platform goes offline or is breached, you need to act fast. What is your plan B? How quickly can you recover? What is the process? Who needs to be involved? It needs to be safe, quick and transparent, minimising disruption and maintaining trust with members and regulators."
+        },
+        {
+            "text": "Your third-party providers, from software platforms to outsourced administrators, are part of your digital ecosystem. Carry out due diligence on suppliers\u2019 security and resilience, including incident response, backup arrangements and recovery time objectives."
+        },
+        {
+            "text": "Technology alone is not enough, people matter too. Even the best systems can be undone by a well-meaning click on a phishing email. Human error is one of the biggest cybersecurity risks. Ensure everyone involved with the pension scheme receives regular training on digital threats, data handling and what to do when something does not look right."
+        },
+        {
+            "text": "Do not wait for a real crisis. Test your response and continuity plans regularly using real-world scenarios. Resilience is not theoretical, it's practical."
+        },
+        {
+            "heading": 2,
+            "text": "What you can do"
+        },
+        {
+            "text": "No matter your role, you play a part in protecting members and their data. Here\u2019s how you can help:"
+        },
+        {
+            "heading": 2,
+            "text": "Final thoughts"
+        },
+        {
+            "text": "Digital resilience is not just a technology issue, it's a core part of running a secure, reliable and trusted pension scheme."
+        },
+        {
+            "text": "Whether you are a trustee, administrator or stakeholder or involved in scheme governance, the risks are real, but so are the opportunities to build smarter, safer and more future-proof operations. In today\u2019s digital world, digital resilience isn\u2019t optional. It's essential."
+        },
+        {
+            "text": "If you would like to discuss your governance around digital resilience please contact:"
+        },
+        {
+            "heading": 3,
+            "text": "Disclaimer"
+        },
+        {
+            "text": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page. "
+        }
+    ]
+}
