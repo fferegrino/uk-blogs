@@ -1,0 +1,165 @@
+{
+    "url": "https://defradigital.blog.gov.uk/2026/08/12/how-were-helping-people-and-businesses-get-help-from-apha-with-sustainable-design/",
+    "title": "How we\u2019re helping people and businesses get help from APHA with sustainable design",
+    "authors": [
+        "Eleanor Shakeshaft",
+        "Ibarieze Abani"
+    ],
+    "categories": [
+        "Digital services",
+        "Digital transformation",
+        "User centred design"
+    ],
+    "pub_date": "2026-08-12T11:53:09+01:00",
+    "content": [
+        {
+            "text": "Senior content designer Eleanor Shakeshaft and senior service designer Ibarieze Abani from the APHA improving customer experience team discuss how they\u2019re improving the way customers get support when they can't find the answers they need online."
+        },
+        {
+            "text": "In our team\u2019s first blog post, we explained our choice of tools and technology. Here, we zoom in further to look at how workshopping with colleagues in customer service teams has been instrumental in shaping how we build a more sustainable service."
+        },
+        {
+            "text": "To recap, our team\u2019s goals are to:"
+        },
+        {
+            "heading": 2,
+            "text": "Simplifying the journey to get help"
+        },
+        {
+            "text": "When customers need support from APHA, there are two steps in their journey:"
+        },
+        {
+            "text": "Historically, these journeys could be difficult to navigate. Customers were often presented with long lists of email addresses and contact routes, leaving them to decide which team could help."
+        },
+        {
+            "text": "65% of APHA's customer emails were sent to the wrong team and needed to be redirected. This was a poor experience for customers who had to wait longer for a reply and was an inefficient use of time for CSC teams."
+        },
+        {
+            "text": "To address this, we've focused on both stages of the experience."
+        },
+        {
+            "heading": 2,
+            "text": "Helping customers find the right team"
+        },
+        {
+            "text": "One of the main entry points for users needing support is the page previously known as Contact APHA."
+        },
+        {
+            "text": "This page is now titled Get help with animal and plant health. We renamed it because research showed this wording was more intuitive to users."
+        },
+        {
+            "text": "We're also testing a user-centred routing tool that helps people find the right team based on what they're trying to do."
+        },
+        {
+            "text": "It uses familiar language and does the hard work of getting customers to the right team, instead of expecting them to understand APHA's internal structure."
+        },
+        {
+            "text": "This makes it quicker and easier for customers to get the help they need."
+        },
+        {
+            "heading": 2,
+            "text": "Making it easier to get in touch"
+        },
+        {
+            "text": "The biggest change to customers is replacing many of APHA's email addresses with contact forms."
+        },
+        {
+            "text": "Moving away from email to contact forms and a Contact Centre as a Service (CCaaS) platform has several benefits, including:"
+        },
+        {
+            "text": "However, delivering this change at scale presented a challenge."
+        },
+        {
+            "text": "A large number of services and contact routes were in scope. We needed a way to design and roll out forms at pace, without creating entirely bespoke solutions for every team."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from a pilot approach"
+        },
+        {
+            "text": "We started with a pilot in Alpha, working closely with two service areas: pet travel and customer advice."
+        },
+        {
+            "text": "This allowed us to:"
+        },
+        {
+            "text": "The pilot approach gave us valuable insight into how different teams worked. But it quickly became clear it wouldn't be an efficient way to deliver contact forms at scale."
+        },
+        {
+            "text": "The early forms were highly tailored to individual services. This required significant collaboration and refinement to accommodate complex policy needs."
+        },
+        {
+            "text": "We also discovered many CSC teams handle a broader range of work than expected, including specialist applications and processes."
+        },
+        {
+            "heading": 2,
+            "text": "Stepping back to see the bigger picture"
+        },
+        {
+            "text": "To create a more scalable solution, we took a step back and looked across the wider CSC landscape."
+        },
+        {
+            "text": "Through workshops with teams, we explored:"
+        },
+        {
+            "text": "This helped us move from designing individual forms to designing a reusable pattern."
+        },
+        {
+            "text": "We combined the insights from these workshops with a set of design principles and practical constraints. For example, limiting the number of fields in the first iteration of a form."
+        },
+        {
+            "text": "The end result was a contact form pattern that could be applied across multiple services,"
+        },
+        {
+            "text": "Taking this approach has allowed us to co-design with teams and publish forms more efficiently and sustainable, without compromising on quality and consistency for customers."
+        },
+        {
+            "heading": 2,
+            "text": "A pattern in action: reporting a farm animal welfare concern"
+        },
+        {
+            "text": "One example of this approach can be seen in the 'Report a farm animal welfare concern' service."
+        },
+        {
+            "text": "Although this service sits slightly outside the scope of the wider \u2018getting help\u2019 work, it is an important priority area for APHA. Given the scope and timelines, designing a service entirely from scratch wasn't practical."
+        },
+        {
+            "text": "Instead, we looked at other similar Defra services to identify patterns we could reuse."
+        },
+        {
+            "text": "Patterns gave us:"
+        },
+        {
+            "text": "Rather than reinventing the wheel, we were able to build on existing good practice and focus our effort on aspects unique to the service."
+        },
+        {
+            "heading": 2,
+            "text": "Designing for the future"
+        },
+        {
+            "text": "This work is about more than replacing inboxes with forms."
+        },
+        {
+            "text": "We\u2019re adding patterns and components like this to the Defra Digital service manual to be reused by other teams. This will reduce the time and resources needed to design from scratch for similar services."
+        },
+        {
+            "text": "This approach supports Defra's ambitions to invest in reusable products and common platforms, rather than creating one-off solutions for individual programmes."
+        },
+        {
+            "text": "This will enable us to improve user experience, scale delivery, reduce duplication and improve consistency across Defra."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "Eleanor Shakeshaft is a Senior content designer and Ibarieze Abani  a senior service designer  with the APHA improving customer experience team ."
+        },
+        {
+            "text": "If you're interested in finding out more about what we do in Defra Digital Data Technology and Security\u00a0check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow?"
+        },
+        {
+            "text": "Like what you read?\u00a0Subscribe to the blog\u00a0for all the latest updates."
+        }
+    ]
+}

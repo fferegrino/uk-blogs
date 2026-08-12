@@ -1,0 +1,137 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/08/12/can-technology-improve-peoples-experience-of-organisational-change/",
+    "title": "Can technology improve people\u2019s experience of\u00a0organisational\u00a0change?",
+    "authors": [
+        "Ed Watts, Senior Data Analyst"
+    ],
+    "categories": [
+        "People"
+    ],
+    "pub_date": "2026-08-12T15:04:36+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Change is a human challenge\u00a0"
+        },
+        {
+            "text": "In the Civil Service,\u00a0organisational\u00a0change is a reality. Teams evolve, priorities shift, and departments periodically go through restructures, machinery of government changes, and workforce redesign\u00a0programmes. While each change\u00a0programme\u00a0is different, they all have one thing in\u00a0common: they affect people.\u00a0"
+        },
+        {
+            "text": "Change is\u00a0ultimately a\u00a0human challenge. It\u00a0impacts\u00a0careers, wellbeing, and confidence in the\u00a0organisation. Technology cannot solve those challenges, but it can support the processes around them by making them more transparent,\u00a0consistent\u00a0and fair.\u00a0"
+        },
+        {
+            "text": "I became involved in a large\u00a0organisational\u00a0restructure because the allocation process presented exactly that kind of opportunity.\u00a0The restructure involved allocating a large number of people across multiple grades, limited vacancies and competing preferences, all within a complex set of agreed business rules.\u00a0Managing this fairly and consistently through\u00a0a manual process was increasingly difficult. The challenge was not simply to make the process faster, but to reduce risk and give people greater confidence in the outcome.\u00a0"
+        },
+        {
+            "text": "The experience reinforced an important lesson: when technology is used in\u00a0people-focused decisions, transparency and accountability must come before sophistication.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The challenge of\u00a0organisational\u00a0restructure\u00a0"
+        },
+        {
+            "text": "The existing allocation process involved significant manual effort. Candidates could express preferences across multiple\u00a0roles,\u00a0vacancies were limited, and allocations needed to consider scores,\u00a0preferences\u00a0and redeployment rules simultaneously.\u00a0"
+        },
+        {
+            "text": "Managing this process manually created several challenges, including:\u00a0"
+        },
+        {
+            "text": "Most importantly, long processing times meant people spent longer waiting for clarity about their future roles.\u00a0"
+        },
+        {
+            "text": "The\u00a0objective\u00a0was therefore not simply operational efficiency. It was to reduce the risks associated with complex manual processing\u00a0to\u00a0improve outcomes for the people involved.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Using technology to support (not replace) decision making\u00a0"
+        },
+        {
+            "text": "At the heart of the solution was an allocation algorithm that matched candidates to roles.\u00a0"
+        },
+        {
+            "text": "The word \"algorithm\" can sometimes imply automated decision-making. In this case, the system\u00a0acted more like a transparent administrative process than an AI model.\u00a0\u00a0"
+        },
+        {
+            "text": "The algorithm was \u201cdeterministic\u201d,\u00a0which meant it followed a defined sequence of rules:\u00a0\u00a0"
+        },
+        {
+            "text": "Importantly, the system did not learn,\u00a0predict\u00a0or\u00a0optimise\u00a0like an AI model. It simply applied the agreed rules consistently and at scale.\u00a0Every allocation could be traced back to documented rules and independently verified.\u00a0"
+        },
+        {
+            "text": "Choosing automation over artificial intelligence was a deliberate choice to ensure:\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Ethics and governance\u00a0"
+        },
+        {
+            "text": "Governance and ethical oversight were built into the project from the outset.\u00a0"
+        },
+        {
+            "text": "Alongside HR and trade union engagement, we worked with the departmental ethics committee to review the proposed approach.\u00a0\u00a0"
+        },
+        {
+            "text": "The allocation process was never intended to replace human judgement.\u00a0Cases that could not be resolved automatically were escalated for review. Decision-makers\u00a0retained\u00a0the ability to challenge or override outcomes where there was a clear and documented rationale.\u00a0"
+        },
+        {
+            "text": "This early engagement helped shape both the design and the governance framework,\u00a0while keeping\u00a0stakeholders\u00a0informed of the benefits of the approach prior to\u00a0implementation.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Testing and assurance\u00a0"
+        },
+        {
+            "text": "Before deployment, we ran the allocation process in parallel with the existing manual method.\u00a0"
+        },
+        {
+            "text": "This allowed us to:\u00a0"
+        },
+        {
+            "text": "The comparison\u00a0demonstrated\u00a0that the automated approach produced consistent and explainable outcomes while dramatically reducing processing time.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Impact\u00a0"
+        },
+        {
+            "text": "The system reduced a process that previously took days to complete to a matter of seconds.\u00a0But its\u00a0most important benefits were not technical.\u00a0"
+        },
+        {
+            "text": "For the people involved,\u00a0this meant less time waiting for clarity during an uncertain period. For decision-makers, it\u00a0created\u00a0a transparent,\u00a0auditable record of every allocation,\u00a0reduced\u00a0the working hours needed to complete the process, and made each\u00a0decision\u00a0easier\u00a0to\u00a0explain.\u00a0"
+        },
+        {
+            "text": "The manual method\u00a0used\u00a0for comparison produced several errors\u00a0that\u00a0the algorithm did not. There\u00a0was only one instance where the human reviewer overrode the algorithm\u2019s output:\u00a0allocating\u00a0someone their second choice freed\u00a0up their\u00a0first-choice role for an unallocated candidate.\u00a0"
+        },
+        {
+            "text": "The experience\u00a0shows\u00a0that government\u00a0organisations\u00a0do not always need advanced AI to solve complex problems.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s\u00a0next?\u00a0"
+        },
+        {
+            "text": "There are clear lessons for\u00a0organisational\u00a0change across government.\u00a0"
+        },
+        {
+            "text": "Many workforce and\u00a0organisational\u00a0challenges involve large volumes of information, complex business\u00a0rules\u00a0and significant consequences for individuals. These are exactly the situations where well-designed automation can add value.\u00a0"
+        },
+        {
+            "text": "The approach is also highly replicable. Because the solution relies on documented business rules rather than specialist AI models, it can be adapted by other departments facing similar allocation or\u00a0prioritisation\u00a0challenges.\u00a0"
+        },
+        {
+            "text": "Successful change is about improving outcomes for people. This can be supported with technology by involving users and ethics committees from the beginning.\u00a0"
+        },
+        {
+            "text": "Conclusion\u00a0"
+        },
+        {
+            "text": "If there is one takeaway from this work, it is that technology should make important decisions easier to understand, not harder.\u00a0\u00a0You do not always need AI to solve complex public-sector problems. Well-designed automation can support decision making while\u00a0remaining\u00a0understandable and auditable.\u00a0"
+        },
+        {
+            "text": "For\u00a0organisations\u00a0that feel cautious about using technology in sensitive decisions, the lesson is simple: start with explainability.\u00a0People\u2019s confidence in your\u00a0solution will grow when they can understand how the system works, challenge its\u00a0outputs\u00a0and see that human judgement\u00a0remains\u00a0part of the process.\u00a0"
+        },
+        {
+            "text": "If you would like to know more about the algorithm or would like advice on replicating our work, please reach out in the comments."
+        }
+    ]
+}
