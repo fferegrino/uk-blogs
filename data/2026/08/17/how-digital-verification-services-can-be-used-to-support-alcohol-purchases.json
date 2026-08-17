@@ -1,0 +1,142 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/08/17/how-digital-verification-services-can-be-used-to-support-alcohol-purchases/",
+    "title": "How digital verification services can be used to support alcohol purchases",
+    "authors": [
+        "Paul Donati",
+        "Aurora Olsen"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-08-17T11:52:39+01:00",
+    "content": [
+        {
+            "text": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026, once it is approved by Parliament and has come into force, will enable retailers and hospitality venues in England and Wales to accept digital proofs of age when selling or supplying alcohol, provided the statutory conditions are met and subject to any local licensing conditions."
+        },
+        {
+            "text": "You can read about the draft order in a previous blog post.\u00a0"
+        },
+        {
+            "text": "Since the draft order was laid, we have received questions from digital verification service (DVS) providers and relying parties (licence holders) about how digital proofs of age might work in practice. \u00a0This blog post aims to answer some of those questions."
+        },
+        {
+            "heading": 2,
+            "text": "Only registered DVS may be used to check age"
+        },
+        {
+            "text": "Licence holders must use a DVS that appears on the government's DVS register at the point of sale in order to accept a digital proof of age, as required by the draft order."
+        },
+        {
+            "text": "The draft order makes clear that the DVS used by the licence holder to deliver the digital proof of age, or the customer to verify their age, must appear on the DVS register, or it does not meet the requirements of the draft order."
+        },
+        {
+            "heading": 2,
+            "text": "Every service on the DVS register is audited, so licence holders can trust them"
+        },
+        {
+            "text": "By requiring the use of a registered DVS, we can be more confident that a digital proof of age is reliable, technically robust and is not being used by an impostor. It can therefore be trusted, in the same way that a passport or driving licence is trusted as a proof of age."
+        },
+        {
+            "text": "Services on the DVS register are regularly, independently audited and certified against the UK digital verification services trust framework, which are the minimum quality standards for digital verification in the UK set by the government for those service providers who choose to be certified and appear on the DVS register. The certification and registration process is designed so that businesses that need to check information about a person, \u00a0like their age, do not need to conduct extensive assessments of the underlying technologies themselves."
+        },
+        {
+            "heading": 2,
+            "text": "Licence holders still need to do due diligence"
+        },
+        {
+            "text": "Appearing on the DVS register means that a service meets the requirements of the DVS trust framework. It does not mean that a service is being provided in compliance with Mandatory Licensing Conditions."
+        },
+        {
+            "text": "Licence holders must satisfy themselves that a DVS they work with meets their business needs and legal responsibilities, as well as whether the overall service design provides sufficient assurance for their business and compliance needs. We also anticipate that licence holders will use contractual mechanisms and other appropriate controls to ensure that, on an ongoing basis, the DVS they use can meet their needs and obligations."
+        },
+        {
+            "heading": 2,
+            "text": "Other age assurance technologies must not be used to check age"
+        },
+        {
+            "text": "Some DVS providers offer other age assurance technologies, such as age estimation. These technologies cannot be certified against the UK digital verification services trust framework and cannot appear on the DVS register."
+        },
+        {
+            "text": "Only DVS on the DVS register can be used as specified in the order for a digital age check for the sale and supply of alcohol in England and Wales. Other technologies such as age estimation cannot be used to support alcohol sales and supply and are outside the scope of these legislative changes.\u00a0 Licence holders are not\u00a0permitted\u00a0to use other age assurance technology, even for testing purposes."
+        },
+        {
+            "heading": 2,
+            "text": "Licence holders do not have to accept digital proofs of age"
+        },
+        {
+            "text": "The use of DVS and the acceptance of digital proofs of age by licence holders is optional."
+        },
+        {
+            "text": "Businesses will not be required to adopt digital proof of age when the legislation comes into force. They may continue to rely on existing physical documents if they wish."
+        },
+        {
+            "text": "Equally, customers will be able to continue to rely on physical proofs of age, like passports and driving licences, if they want to use them."
+        },
+        {
+            "text": "The key point is that digital proof of age provides an additional option for verifying age. It does not replace existing routes or responsibilities under the Licensing Act 2003."
+        },
+        {
+            "heading": 2,
+            "text": "Licence holders will decide whether and how they implement digital verification"
+        },
+        {
+            "text": "The government sets the legal framework but does not prescribe how licence holders implement proof of age checks through their individual operational processes. Licence holders may decide whether and how they accept digital proofs of age, provided they comply with the Mandatory Licensing Conditions."
+        },
+        {
+            "text": "The Licensing Act 2003 places legal responsibilities on licence holders. For example, businesses must prevent sales to under-18s, must prevent proxy purchases, and must refuse sale to people who are intoxicated. Those duties will not change."
+        },
+        {
+            "text": "The draft order creates a new option for proving age. It does not dictate how licence holders choose to incorporate that option into their existing processes."
+        },
+        {
+            "heading": 2,
+            "text": "Visual inspection of a digital proof of age is not permitted"
+        },
+        {
+            "text": "Licence holders must not rely on visual checks of a digital proof of age. It is increasingly easy to create convincing digital replicas of identity documents, websites and apps. It is not possible to determine whether a document or service is genuine from visual inspection alone."
+        },
+        {
+            "text": "The only reliable way to check digital proofs of age is using technology, something often referred to as a \u201cprogrammatic check\u201d. That is why the legislation requires that licence holders use a registered DVS as part of performing a digital age check."
+        },
+        {
+            "heading": 2,
+            "text": "Anyone may use a digital proof of age to prove their age"
+        },
+        {
+            "text": "DVS may be used by adults of any age to purchase alcohol. The amended licensing conditions do not limit its use to people who appear to be under 18 or who have been asked for ID as part of a Challenge 25 policy."
+        },
+        {
+            "text": "Challenge 25 helps businesses decide when to request proof of age; digital proof of age provides an additional way for a customer to provide that proof, alongside existing physical proof of age documents."
+        },
+        {
+            "heading": 2,
+            "text": "Digital verification can be used at self-service checkouts"
+        },
+        {
+            "text": "Digital proofs of age can be used at self-service checkouts. If a premises chooses to accept digital proofs of age at self-service checkouts, licence holders must continue to ensure they meet their wider legal responsibilities; for example, to prevent proxy purchases and to refuse sale to people who are intoxicated. Self-service checkouts must not be completely unsupervised, because of those wider requirements."
+        },
+        {
+            "text": "Regardless of the approach taken, licence holders remain responsible for determining how best to meet their legal obligations and any local licensing conditions that apply to them."
+        },
+        {
+            "heading": 2,
+            "text": "Data minimisation"
+        },
+        {
+            "text": "The use of DVS is intended to provide assurance of someone\u2019s age. In most cases, a licence holder only needs confirmation that the customer in front of them is old enough to purchase the alcohol and that the customer is the rightful holder of that proof of age."
+        },
+        {
+            "text": "Licence holders and DVS providers must comply with data protection legislation, including the data minimisation principle, and only process personal data that is necessary for verifying age."
+        },
+        {
+            "heading": 2,
+            "text": "We will provide further detailed guidance soon"
+        },
+        {
+            "text": "We know that licence holders and DVS providers would like additional information and guidance about implementation."
+        },
+        {
+            "text": "The Home Office intends to update the statutory guidance that accompanies the Licensing Act 2003 once the legislation comes into force. OfDIA also intends to work with stakeholders to develop, where appropriate, practical implementation guidance and illustrative examples that demonstrate how retailers could choose to use digital proof of age."
+        }
+    ]
+}
