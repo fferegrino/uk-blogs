@@ -1,0 +1,110 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/08/18/how-can-a-business-be-confident-that-a-digital-proof-of-age-belongs-to-the-person-presenting-it/",
+    "title": "How can a\u00a0business be confident that a\u00a0digital proof of age\u00a0belongs to the person presenting it?",
+    "authors": [
+        "Paul Donati",
+        "Aurora Olsen"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-08-18T14:13:28+01:00",
+    "content": [
+        {
+            "text": "The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026\u00a0(\u201cthe Mandatory Licensing Conditions\u201d), once it is approved by Parliament and has come into force, will enable retailers and hospitality venues in England and Wales to accept digital proofs of age when\u00a0selling or\u00a0supplying alcohol, provided the statutory conditions are met and subject to any local licensing conditions.\u00a0\u00a0"
+        },
+        {
+            "text": "As part of the new statutory conditions, licence holders must ensure that\u00a0the digital proof of age being presented\u00a0is\u00a0both:\u00a0"
+        },
+        {
+            "text": "This blog post may be helpful for licence holders and digital verification service\u00a0(DVS)\u00a0providers. It explains\u00a0how\u00a0DVS\u00a0could\u00a0be used to\u00a0help\u00a0ensure\u00a0those requirements are met.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The regulations are technology-agnostic\u00a0"
+        },
+        {
+            "text": "The Mandatory Licensing Conditions\u00a0do not prescribe a specific operational or technical implementation approach to confirming that\u00a0someone is old enough to\u00a0purchase\u00a0alcohol.\u00a0\u00a0"
+        },
+        {
+            "text": "There are\u00a0different ways\u00a0that a\u00a0DVS\u00a0could be used to reach \u201ca medium level of confidence\u201d in someone\u2019s age. There are also\u00a0different ways\u00a0to confirm whether\u00a0the person in front of a licence holder that is trying to\u00a0purchase\u00a0alcohol is\u00a0who they claim to be and that they are \u201cbound\u201d to that age information.\u00a0"
+        },
+        {
+            "text": "OfDIA\u00a0intends to publish, soon\u00a0and as\u00a0appropriate, some \u201cservice patterns\u201d that will\u00a0demonstrate\u00a0different\u00a0possible\u00a0approaches. For the purposes of this blog post,\u00a0and\u00a0to make explaining the concepts of \u201clevel of confidence\u201d and \u201cbinding\u201d\u00a0simpler\u00a0to understand, assume that:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "You\u00a0can\u2019t\u00a0tell if digital proof of age is good enough\u00a0only\u00a0by looking at it\u00a0"
+        },
+        {
+            "text": "It is increasingly easy to create convincing replicas of\u00a0identity documents that confirm your age; with digital proofs of age, this could be even easier thanks to generative AI.\u00a0For that reason, licence holders must not rely on visual checks of a digital proof of age \u2013 for example by\u00a0visually inspecting\u00a0a customer\u2019s phone.\u00a0"
+        },
+        {
+            "text": "Good quality\u00a0digital proofs of age can be reliably verified for their authenticity.\u00a0The only reliable way to check digital proofs of age is using technology,\u00a0something\u00a0we\u00a0refer to as a \u201cprogrammatic check\u201d.\u00a0\u00a0"
+        },
+        {
+            "text": "Instead of visual inspection, licence holders must use a\u00a0registered\u00a0DVS\u00a0to check\u00a0that\u00a0the digital proof of age being presented by their customers\u00a0is genuine.\u00a0Only DVSs\u00a0that\u00a0appear on the\u00a0government\u2019s\u00a0DVS register\u00a0can be used\u00a0for those\u00a0checks.\u00a0Think of this as the equivalent of asking a user to make a contactless payment or to enter their PIN code on a card terminal.\u00a0"
+        },
+        {
+            "text": "In addition, the\u00a0identity\u00a0that has been used to create the\u00a0digital proof of age must have been verified to at least a medium level of confidence by a registered DVS provider.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "\u201cMedium\u00a0level of confidence\u201d\u00a0"
+        },
+        {
+            "text": "The\u00a0\u201clevel of confidence\u201d\u00a0you have\u00a0in the age and identity information\u00a0being claimed\u00a0by a customer\u00a0is a measure of how sure you can be\u00a0that the claim is true.\u00a0The Mandatory Licensing Conditions prescribe that a \u201cmedium\u201d level of confidence is provided according to government guidance.\u00a0This level of confidence can be met in a variety of ways, and DVS providers will be assessed as part of their trust framework certification on which levels of confidence they are able to meet.\u00a0"
+        },
+        {
+            "text": "Licence holders do not need to understand levels of confidence in detail.\u00a0DVS providers will be able to confirm to a licence holder whether their services are registered to provide information about someone\u2019s age at a medium level of confidence or higher.\u00a0\u00a0"
+        },
+        {
+            "text": "Licence holders can also confirm the level of confidence a provider is able to offer, by looking at the\u00a0DVS register.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "DVS providers\u00a0take different technical approaches to \u201cbinding\u201d\u00a0"
+        },
+        {
+            "text": "When they build their services, DVS\u00a0providers\u00a0must\u00a0ensure that\u00a0information\u00a0about a person\u00a0relates to the person presenting it.\u00a0\u00a0"
+        },
+        {
+            "text": "Different providers may achieve this in\u00a0different ways. The\u00a0amended licensing conditions\u00a0do\u00a0not\u00a0specify a particular approach.\u00a0Similarly, different service models may be used to deliver a digital proof of age. What matters is that licence holders can satisfy themselves that the\u00a0proposed approach ensures\u00a0compliance with\u00a0the\u00a0terms of the agreement\u00a0required under the\u00a0legislation\u00a0.\u00a0In many cases, this may involve contractual arrangements and\u00a0agreement that\u00a0a\u00a0registered\u00a0DVS\u00a0will be used\u00a0across\u00a0all\u00a0parts of the service chain.\u00a0\u00a0"
+        },
+        {
+            "text": "For example, some DVS providers may choose to use\u00a0biometric authentication to help\u00a0establish\u00a0that a person is the legitimate holder of a digital proof of age.\u00a0This could\u00a0involve\u00a0a\u00a0real-time comparison of the customer\u2019s face against a reference image that was captured when they set up their digital proof of age.\u00a0"
+        },
+        {
+            "text": "Another approach could involve\u00a0PIN codes and transmission\u00a0of a photo\u00a0to a\u00a0licence holder\u2019s point of sale device,\u00a0so that the\u00a0staff member\u00a0behind the counter can\u00a0visually compare the photo\u00a0with the person in front of them.\u00a0\u00a0"
+        },
+        {
+            "text": "Some stakeholders have also asked about the risk of a person deliberately sharing a device or credential with somebody else, for example an older sibling sharing a proof of age with a younger sibling.\u00a0Providers are expected to manage impersonation risks appropriately and\u00a0demonstrate\u00a0that their approach is sufficiently robust.\u00a0Licence holders\u00a0should conduct their own due diligence to assure themselves that\u00a0the\u00a0DVS providers they work with\u00a0deliver DVS\u00a0in line\u00a0with\u00a0their legal obligations.\u00a0"
+        },
+        {
+            "text": "The legislation does not mandate a particular technology. This flexibility supports innovation while\u00a0maintaining\u00a0trust.\u00a0"
+        },
+        {
+            "text": "What matters is whether the provider can\u00a0demonstrate\u00a0that it delivers the required level of assurance. This includes confidence that the person meets the required age and that the age information relates to the person presenting it, while sharing only the information necessary for the\u00a0digital\u00a0age verification.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Every service on the DVS register is audited, so\u00a0licence holders\u00a0can trust it\u00a0"
+        },
+        {
+            "text": "By requiring the use of a registered DVS, we can be more confident that a proof of age is reliable, technically robust and is not being used by an impostor.\u00a0\u00a0"
+        },
+        {
+            "text": "Services on the DVS register are regularly, independently audited and certified against the\u00a0UK digital verification services trust framework,\u00a0which are the minimum quality standards for digital verification in the UK\u00a0set by the government for those service providers who choose to be certified and appear on the DVS register. The registration and certification process is designed so that relying parties can trust services on the register without needing to conduct extensive assessments of the underlying technologies themselves.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Licence holders still need to do due diligence\u00a0"
+        },
+        {
+            "text": "Appearing on the DVS register means that a service meets the requirements of the DVS trust framework. It does not mean that a\u00a0DVS provider\u00a0offers\u00a0a service that is compliant with the requirements of the Mandatory Licensing Conditions.\u00a0\u00a0"
+        },
+        {
+            "text": "Licence holders will need to satisfy themselves that a DVS they work with meets their business needs. We\u00a0anticipate\u00a0that licence holders will use contractual mechanisms and other controls to ensure, on an ongoing basis, that\u00a0DVSs\u00a0they use meet their business needs and can meet their regulatory obligations.\u00a0"
+        }
+    ]
+}

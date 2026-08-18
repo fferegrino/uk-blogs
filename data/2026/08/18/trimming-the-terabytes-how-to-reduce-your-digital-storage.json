@@ -1,0 +1,103 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/08/18/trimming-the-terabytes-how-to-reduce-your-digital-storage/",
+    "title": "Trimming the Terabytes: How to reduce your digital storage",
+    "authors": [
+        "Tyler Shepherd, Senior M365 Engineer"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2026-08-18T14:10:35+01:00",
+    "content": [
+        {
+            "text": "From floppy disks to memory cards, discs to drives, we used to think of memory as physical objects. Most government departments have moved towards cloud storage, which feels as nebulous as it sounds. Everything is backed up to \u2018the cloud\u2019, but what does that mean?"
+        },
+        {
+            "text": "In practice, we\u2019re renting space in a data centre instead of buying physical assets. The tangible knowledge that we\u2019re soon going to \u2018run out of space\u2019 has been replaced with a feeling of security and a sense of limitlessness of the cloud. Unfortunately, it also means a monthly charge for every gigabyte that we create."
+        },
+        {
+            "text": "As civil servants, we have a duty to continually monitor and assess our spending on products. We have an obligation to demonstrate value for money to the taxpayer and ensure that we are operating efficiently. To this end, our team set out to explore our SharePoint storage, interrogate the default settings and identify where we could trim and improve our digital storage."
+        },
+        {
+            "heading": 2,
+            "text": "SharePoint version history"
+        },
+        {
+            "text": "We discovered that about 66% of our SharePoint storage was made up of version history. In the background, SharePoint quietly makes copies (versions) of files as you work. Each time a document or spreadsheet is edited, a version is created and added to the SharePoint storage. If nothing is done, these versions can build up. Some of our libraries were storing up to 500 versions of each file.In some situations, maintaining a document history this detailed and comprehensive is valuable. For example, for Trade Negotiations, we would likely want to see every change that we've made to our documents, so that we can see how our approach has changed over time."
+        },
+        {
+            "text": "In most cases, most of the previous versions will never be needed. We saw an opportunity to reduce our storage costs with minimal interruption to the department\u2019s work, by tackling the version history.We did this in 2 stages:"
+        },
+        {
+            "text": "Microsoft has a comprehensive blog on the technical steps for version control, but knowing which settings to navigate is only half the problem. This was an exercise in communicating and managing expectation. We worked with the Knowledge and Information Management (KIM) team to identify and retain essential information and reassure our users that from their perspective the impact of the work would be minimal."
+        },
+        {
+            "heading": 2,
+            "text": "Preparing for version trimming: research, engagement and testing"
+        },
+        {
+            "text": "Given that version trimming was a big change to our SharePoint information management policy, we had to ensure due diligence by:"
+        },
+        {
+            "text": "Initial research revealed 2 arm's length bodies that reported a reduction in their SharePoint storage of 10% and 37% respectively from version trimming."
+        },
+        {
+            "text": "Given we were the first central department (that we\u2019re aware of) to attempt version trimming, we decided to pilot the approach on 11 inactive SharePoint sites selected by the KIM team. This showed us what to expect and allowed us to tweak our approach before rollout."
+        },
+        {
+            "text": "We learned from the pilot that version trimming could run successfully in DBT, with indicative space savings of around 10% per site. After careful evaluation of the lessons learned from the pilot, we moved on to establishing our scope. This was identifying which SharePoint sites we should run the version trimming on, and which would be excluded. We consulted with various teams (including KIM and the Free Trade Agreements Project Management Office) to identify any SharePoint sites that should be out of scope."
+        },
+        {
+            "heading": 2,
+            "text": "Consulting our users"
+        },
+        {
+            "text": "We launched a communications campaign to raise awareness of our planned activity, to capture feedback and to allow colleagues to raise exemption requests. We delivered the campaign through an interactive Power App. The app kept all incoming and outgoing information about the activity in one place and reduced time spent answering questions and gathering feedback. Allowing users to raise exemption requests through the app helped mitigate the risk of deleting versions that ought to be kept. Creating a feedback channel ensured that concerns were logged before they were escalated, minimising the risk to the project."
+        },
+        {
+            "text": "Our goal was to reassure colleagues that in most cases, version trimming would not produce any noticeable changes to their work. For those that needed a more comprehensive version history, the exemption request system allowed them to engage with us and prevent unintended information loss.We faced significant challenges preparing for the consultation including:"
+        },
+        {
+            "text": "Launching a departmental consultation was no small feat, but necessary to mitigate user concerns and identify any additional SharePoint sites that should be out of scope."
+        },
+        {
+            "heading": 2,
+            "text": "How successful was the version trimming?"
+        },
+        {
+            "text": "The version trimming activity ran for over a week, and our analysis shows that we reduced our storage by approximately 60 terabytes. This is the equivalent of around 240 million pages of information (or 167,000 copies of War and Peace). We estimate that this was a 44.2% reduction in storage for the scoped sites. This had a significant impact on our contract renewal with Microsoft, ensuring that we did not waste money on unnecessary storage."
+        },
+        {
+            "text": "No negative impacts were reported, no Service Desk tickets were raised and there were no signs that the versions that were trimmed were missed. We had saved significant cost without interrupting business as usual."
+        },
+        {
+            "text": "We\u2019ve also changed the technical policy in SharePoint, so we will continue to realise further savings over time as versions of files age. They will slowly be \u2018thinned out\u2019, so the department will no longer be keeping everything by default. The result should be a lower rate of SharePoint storage growth. "
+        },
+        {
+            "heading": 2,
+            "text": "What more could be done?"
+        },
+        {
+            "text": "This work demonstrates how we commit to value for money for the taxpayer at BIST, and how we keep considered public spending at the centre of our work. This is something all civil servants can and should do."
+        },
+        {
+            "text": "Across government, we are likely to be storing petabytes of information. I hope this blog inspires our peers to continue prioritising the important work of interrogating spend and continuously working to improve efficiency."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "Being an engineer with an idea is one thing, but it takes a lot of support to deliver a project of this scale. We started with the ambition to reduce our departmental storage costs, and we were given time and space to develop the idea into workstreams."
+        },
+        {
+            "text": "It\u2019s a fantastic achievement for the teams involved, and we\u2019re proud that our work has delivered a notable cost saving for the department. We strongly encourage other departments to do the same."
+        },
+        {
+            "text": "If you have been inspired to see if version trimming could save your organisation money, we recommend:"
+        },
+        {
+            "text": "If you need advice or support getting started with reducing your organisation\u2019s digital storage without losing information, get in touch in the comments."
+        }
+    ]
+}
