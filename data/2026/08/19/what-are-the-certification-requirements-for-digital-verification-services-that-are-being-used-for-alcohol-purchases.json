@@ -1,0 +1,82 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/08/19/what-are-the-certification-requirements-for-digital-verification-services-that-are-being-used-for-alcohol-purchases/",
+    "title": "What\u00a0are the certification requirements for digital verification services that are being used for alcohol purchases?",
+    "authors": [
+        "Paul Donati",
+        "Aurora Olsen"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-08-19T10:48:13+01:00",
+    "content": [
+        {
+            "text": "The\u00a0proposed changes to the\u00a0Mandatory Licensing Conditions enable\u00a0an important new use case for\u00a0digital verification services\u00a0(DVS).\u00a0Once in force, DVS can be used to support\u00a0the sale and supply of\u00a0alcohol in England and Wales.\u00a0\u00a0"
+        },
+        {
+            "text": "Understandably,\u00a0DVS\u00a0providers have been asking what this means for certification, registration and the wider\u00a0UK digital verification services trust framework.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "There are no new certification requirements\u00a0"
+        },
+        {
+            "text": "The new regulations do not introduce any new certification requirements for DVS providers\u00a0and\u00a0do not introduce any\u00a0additional\u00a0approval process.\u00a0"
+        },
+        {
+            "text": "Whilst there are\u00a0many different ways\u00a0that\u00a0services\u00a0could\u00a0be implemented to\u00a0comply with\u00a0the regulations,\u00a0the regulations focus on the outcome that must be achieved.\u00a0The\u00a0identity that has been used to create the\u00a0digital proof of age used for an alcohol age check must have been verified to at least a medium level of confidence by a registered DVS provider, and the digital proof of age presented to the licence holder must be delivered by a registered DVS provider.\u00a0\u00a0"
+        },
+        {
+            "text": "Different service models may be used to deliver a digital proof of age. For example, a holder service provider\u00a0(HSP)\u00a0could selectively disclose the proof of age from a digital identity created by an\u00a0identity service provider\u00a0(IDSP), or\u00a0an attribute service (ASP) could\u00a0derive a proof-of-age attribute from a digital identity so\u00a0that\u00a0only a proof of age is stored\u00a0in the HSP.\u00a0\u00a0"
+        },
+        {
+            "text": "The HSP, IDSP and ASP services could all be provided by the same provider\u00a0or\u00a0by a combination of providers.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Under the 0.4 and 1.0 trust frameworks, only\u00a0IDSPs\u00a0can be assessed against GPG 45, the guidance which sets out the requirements that need to be met to reach\u00a0different levels\u00a0of confidence.\u00a0IDSPs\u00a0must be certified and registered\u00a0as providing identity profiles at Medium, High or Very High levels of confidence\u00a0in order to\u00a0be compliant.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We are not developing a supplementary code\u00a0for alcohol purchases\u00a0"
+        },
+        {
+            "text": "We have also been asked whether the changes will result in a new supplementary code.\u00a0"
+        },
+        {
+            "text": "At present, there are no plans to introduce an alcohol-specific supplementary code. As with other parts of the framework, the Government will continue to keep this position under review as adoption develops\u00a0in the market.\u00a0"
+        },
+        {
+            "text": "The\u00a0OfDIA\u00a0team is, however,\u00a0commencing\u00a0work to\u00a0explore\u00a0an age verification\u00a0supplementary\u00a0code that could apply across different use cases. That\u00a0supplementary code\u00a0doesn\u2019t\u00a0exist yet, and so\u00a0is not part of the current\u00a0legislation. As required by the Data (Use and Access) Act\u00a02025, we will consult with relevant parties before introducing any new supplementary code requirements, and it would require further regulatory changes to make certification against that supplementary code mandatory.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "There will be no\u00a0specific\u00a0changes to certificates\u00a0"
+        },
+        {
+            "text": "Similarly, the\u00a0new\u00a0legislation does not change the information\u00a0that will, by default,\u00a0be\u00a0displayed on providers' certificates of conformity.\u00a0However, if a service is intended for use in a specific sector or use case, providers can explore with their\u00a0conformity assessment\u00a0body how that can be explained\u00a0on their certificate of conformity.\u00a0"
+        },
+        {
+            "text": "We\u2019ve\u00a0written a separate blog post about\u00a0how\u00a0DVS\u00a0providers should describe their certification for specific use cases.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "We will be providing examples soon\u00a0"
+        },
+        {
+            "text": "This is\u00a0expected to be\u00a0one of the first, widespread use cases\u00a0for\u00a0DVS\u00a0in the retail and hospitality sectors. We are conscious that it is not the only one. We are also alert to the need for consistency across\u00a0regulated\u00a0use cases where checking age is\u00a0required.\u00a0"
+        },
+        {
+            "text": "OfDIA\u00a0intends to publish,\u00a0as\u00a0appropriate,\u00a0\u201cservice patterns\u201d\u00a0demonstrating\u00a0best practice\u00a0for a variety of\u00a0age verification\u00a0user journeys\u00a0later this year, to help DVS providers and relying parties understand what good looks like.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A new opportunity for DVS market growth\u00a0"
+        },
+        {
+            "text": "These regulatory changes\u00a0create a new opportunity for\u00a0registered\u00a0DVS\u00a0providers, rather than a new set of certification requirements.\u00a0The\u00a0objective\u00a0is to enable trusted digital proof of age within an existing framework that is already familiar to providers, conformity assessment\u00a0bodies\u00a0and relying parties.\u00a0"
+        },
+        {
+            "text": "As implementation\u00a0of the Mandatory Licensing Conditions\u00a0progresses,\u00a0OfDIA\u00a0will continue to engage with providers across the ecosystem and publish further information\u00a0as\u00a0appropriate.\u00a0"
+        }
+    ]
+}
