@@ -1,0 +1,77 @@
+{
+    "url": "https://mojdigital.blog.gov.uk/2026/08/20/preventative-analytics-for-youth-justice-the-advisory-panels-first-steps/",
+    "title": "Preventative Analytics for Youth Justice: The Advisory Panel's First Steps",
+    "authors": [
+        "Youth Justice Data"
+    ],
+    "categories": [
+        "Data and Analytics",
+        "Data Sharing",
+        "Our services",
+        "Youth Justice"
+    ],
+    "pub_date": "2026-08-20T13:39:27+01:00",
+    "content": [
+        {
+            "text": "Preventing children and young people from being drawn into crime and the criminal justice system can have profound effects later in life. Did you know that 80% of prolific adult offenders get their first cautions or convictions as children? Spotting early vulnerabilities and offering the right support should significantly benefit society, victims, and children and young people themselves."
+        },
+        {
+            "text": "As the youth justice White Paper makes clear, technology and data might help practitioners across services decide how help should best be offered. A natural starting point for this is enabling easier data sharing between frontline workers like youth justice workers, social workers, teachers and police. Establishing these data flows could also enable machine learning and advanced analytics. Exploring such possibilities, though needs careful safeguarding against bias and criminalisation risks."
+        },
+        {
+            "text": "Supporting responsible innovation in Youth Justice"
+        },
+        {
+            "text": "The Preventative Analytics for Youth Justice Advisory Panel (PAYJAP) was established in early 2026 to offer one such safeguard. Chaired by Minister Jake Richards, and comprising youth justice academics, practitioners and technologists, it held its first meeting in late June. As this summary of its initial advice shows, the discussion focused heavily on the ethical implications and likely value of preventative analytics. The meeting was held under the Chatham House Rule."
+        },
+        {
+            "heading": 2,
+            "text": "Emerging themes from the panel discussion"
+        },
+        {
+            "text": "Prevention requires a whole-system approach"
+        },
+        {
+            "text": "Panel members emphasised that prevention is a systemic, multi-agency issue, with a range of services (e.g. education, social care and health) all needing to play a role. Within this context, there was also acknowledgement that there is an issue with fragmented data and disconnected systems. Resolving this can help practitioners identify individual children\u2019s unique needs before they reach the attention of the justice system."
+        },
+        {
+            "text": "Choosing the right terminology is crucial"
+        },
+        {
+            "text": "There was a strong emphasis on choosing the right language and ensuring that it coheres with the Child First approach. Panel members raised concerns that framing children through the lenses of \u2018risk\u2019 and \u2018prevention\u2019 within a youth justice context is inherently negative. It can contribute criminalisation; it might be exacerbated if vulnerabilities and structural inequalities are interpreted as \u2018risk factors\u2019 rather than indicators of unmet need. Participants stressed focusing on a child\u2019s \u2018needs\u2019 and \u2018strengths'."
+        },
+        {
+            "text": "Input data should be carefully scrutinised"
+        },
+        {
+            "text": "Children and young people change quickly in a short space of time, especially between ages 11 and 15, one person pointed out. Therefore, it would be risky to assume that trends observed in data at an earlier age will simply continue as a child develops."
+        },
+        {
+            "text": "Extending this theme, any input data should be rigorously scrutinised to understand its quality and identify any hidden biases, as highlighted by panel members. A participatory approach to design, involving case workers, children and families in developing new analytical methods, could help address these issues."
+        },
+        {
+            "text": "Outputs must be explainable"
+        },
+        {
+            "text": "Model outputs should be explainable to children, families and practitioners, panel members said. Patterns found by machine learning algorithms might be hard for humans to understand. Starting with a simple approach before trying more complex things would help with transparency and explainability."
+        },
+        {
+            "text": "And, even if an analytical model could identify concerns about a child, this doesn\u2019t automatically mean that the capacity is in place to act on those concerns, some panel members reflected. MoJ should be sure that the right resources are present, they said."
+        },
+        {
+            "text": "Tangible examples can help with these dilemmas"
+        },
+        {
+            "text": "Finally, a panel member recommended facing these questions while working through practical examples; these might even be coproduced with communities themselves."
+        },
+        {
+            "text": "Looking forward"
+        },
+        {
+            "text": "The Minister and the Ministry of Justice will reflect on the advice and recommendations shared by the panel and consider how this has affected ongoing research. An update will be provided at the next PAYJAP meeting which will take place in autumn 2026. \u00a0"
+        },
+        {
+            "text": "We look forward to future discussions and building on this initial panel meeting."
+        }
+    ]
+}

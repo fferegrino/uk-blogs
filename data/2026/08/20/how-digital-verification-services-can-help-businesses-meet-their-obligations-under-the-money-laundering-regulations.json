@@ -1,0 +1,77 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/08/20/how-digital-verification-services-can-help-businesses-meet-their-obligations-under-the-money-laundering-regulations/",
+    "title": "How digital verification services can help businesses meet their obligations under the Money Laundering Regulations\u00a0",
+    "authors": [
+        "Paul Donati"
+    ],
+    "categories": [
+        "Digital identity"
+    ],
+    "pub_date": "2026-08-20T15:28:27+01:00",
+    "content": [
+        {
+            "text": "In early 2026 we\u00a0(DCMS, formerly DSIT)\u00a0worked with HM Treasury to publish\u202fguidance\u00a0under the\u00a0Money\u00a0Laundering Regulations (MLRs).\u00a0The guidance\u00a0sets\u00a0out how certified and registered digital verification services (DVS)\u00a0that operate in compliance with\u00a0the\u00a0UK DVS trust framework (\u201ctrust framework\u201d)\u00a0can be treated as reliable and independent sources of identity verification for MLR-regulated businesses when\u00a0they need to check\u00a0customer identities to meet their legal\u00a0duties\u00a0,\u00a0as part of their customer due diligence processes.\u00a0"
+        },
+        {
+            "text": "We\u2019ve been asked a range of questions about how this new guidance applies to different kinds of DVS. To respond to those questions, this blog post explains: "
+        },
+        {
+            "heading": 2,
+            "text": "Identity checks must align to GPG 45 \u201clevel of confidence\u201d "
+        },
+        {
+            "text": "Certified and registered DVS must provide an identity check that meets a \u201clevel of confidence\u201d as set out in Good Practice Guide 45 (GPG 45). This might be low, medium, high or very high and it indicates how sure the DVS is that the customer is who they say they are. Certified and registered DVS must express identity verification outcomes using GPG 45 levels of confidence because this is required by the trust framework."
+        },
+        {
+            "text": "Regulated businesses must do a risk assessment when dealing with each of their customers and select the level of assurance that is commensurate with the risks identified. This ensures businesses that are subject to the MLRs decide what level of confidence is right for each customer. "
+        },
+        {
+            "text": "This may affect many existing services that MLR-regulated businesses currently use. It\u2019s important for DVS providers that want to be compliant with the guidance to understand how to avoid producing identity checks that fall short of a GPG 45 level of confidence."
+        },
+        {
+            "text": "DVS providers seeking certification must ensure their identity verification processes meet the requirements of GPG 45 and the trust framework. Identity outcomes and other attribute data must be handled separately. Separating identity verification from other checks can help providers clearly demonstrate the level of confidence achieved by their identity process, while continuing to offer additional information that supports other business needs. "
+        },
+        {
+            "heading": 2,
+            "text": "DVS can provide additional data alongside a level of confidence "
+        },
+        {
+            "text": "Alongside the GPG 45 identity check, a DVS check may return extra data. This could include things like address information or whether the individual is a Politically Exposed Person (PEP) or a sanctions target. We call these pieces of information \u201cattributes\u201d, and they may be useful to meet other business needs.    "
+        },
+        {
+            "text": "Where a DVS provides both identity and attribute information, it must clearly distinguish the GPG 45 identity check outcome from the attributes. The MLRs guidance relates specifically to the use of certified and registered DVS for identity verification. As a result, only the identity verification outcome needs to meet GPG 45 requirements. Attributes are not part of the identity check itself and are not covered by the MLRs guidance. "
+        },
+        {
+            "text": "DVS that share attributes must be certified as attribute service providers (ASPs), which means they have been assessed against the attributes guidance. This includes binding attributes to an identity before they are shared. "
+        },
+        {
+            "text": "If a certified ASP does not create, store or share attributes in line with the attributes guidance, it is not compliant with the trust framework requirements. "
+        },
+        {
+            "text": "If a DVS is certified as an identity service provider (IDSP)\u202fbut not an ASP, the attributes it creates and shares as part of a GPG 45-compliant identity check fall within its certified IDSP service. However, any other attributes it creates or shares fall outside the scope\u202fof its IDSP certification and are not covered by the attributes guidance. "
+        },
+        {
+            "text": "DVS must ensure it clearly communicates to relying parties about which attributes form part of its certified service and which do not. Failure to provide this transparency may result in the loss of certification and registration. "
+        },
+        {
+            "heading": 2,
+            "text": "Only certified and registered DVS can be relied upon under the MLRs guidance for identity verification "
+        },
+        {
+            "text": "Speci\ufb01cally, for customers who are individuals, entities can ful\ufb01l their obligations under Regulation 28 of the Money Laundering Regulations by verifying a customer\u2019s identity using certi\ufb01ed and registered DVS.  "
+        },
+        {
+            "text": "There is no obligation to source attributes from certified and registered DVS but it is strongly recommended.  "
+        },
+        {
+            "text": "Being listed on the DVS register is the clearest signal that a DVS provider delivers services that are reliable and independently assured against the trust framework, including any attribute services they are certified for. Over time, we expect the quality gap between certified and non-certified providers to matter more for relying parties such as MLR-regulated businesses. "
+        },
+        {
+            "heading": 2,
+            "text": "What we\u2019ll do next"
+        },
+        {
+            "text": "We will continue to work with HM Treasury, sector guidance bodies and industry to keep the guidance clear and practical. As implementation progresses, we will use the OfDIA blog to share further guidance and respond to common questions."
+        }
+    ]
+}
