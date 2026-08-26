@@ -1,0 +1,122 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/08/26/building-technology-with-purpose-how-we-developed-business-finder/",
+    "title": "Building technology with purpose: how we developed Business Finder",
+    "authors": [
+        "Paul O'Neill, Senior Interaction Designer"
+    ],
+    "categories": [
+        "Products"
+    ],
+    "pub_date": "2026-08-26T11:02:04+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Export support"
+        },
+        {
+            "text": "As the department for economic growth, the Department for Business, Innovation, Science and Trade (BIST) supports businesses to invest, grow and export. The new Digital Exports Support team is a community of advisers who help businesses to export their products and services. To do this they need to identify businesses of all sizes and across all sectors across England that need support. The support can be anything from spotting an opportunity for export, developing an export plan, unblocking trade barriers and introducing the business to other services."
+        },
+        {
+            "text": "One of their biggest challenges is knowing which businesses are most likely to benefit from support, and how to find them consistently across different sectors and regions."
+        },
+        {
+            "text": "With the establishment of the Digital Exports Support team, there was an opportunity to explore more data-led ways to find businesses digitally. This has reduced the burden of time spent travelling and attending costly events. Data was available to support this task, but it was spread across BIST, HMRC and Companies House. We realised we could take advantage of new developments in AI technology to bring this data together and uncover companies that need support."
+        },
+        {
+            "text": "This led us on a journey that highlights the benefits of working in a digital role in the public sector. It meant being close to users, building technology that solved real problems and supported UK businesses, and having the opportunity to unlock value from administrative data."
+        },
+        {
+            "heading": 2,
+            "text": "Finding businesses in need of export support"
+        },
+        {
+            "text": "Our goal was to turn data into a practical tool that could help advisers identify, prioritise and act on potential export leads. We have built upon an\u00a0experiment run by our Data Science team a few years earlier, and called the tool Business Finder."
+        },
+        {
+            "text": "The tool was built on an algorithm that uses openly-available data about companies and their financial and export activity to predict how likely they are to export successfully. It is a machine learning model that is trained on historical data. Training involves improving the model\u2019s accuracy by comparing its predictions against reality over thousands of iterations. Once the model is trained, it can look at information about a business and produce an \u2018Export Propensity\u2019 score. This reflects the business\u2019s likelihood of exporting in the next 6 months. Companies are ranked on the Business Finder tool in order of their score."
+        },
+        {
+            "text": "By bringing together data from BIST, HMRC and Companies House, we turned the idea from a promising model to a practical product that would unlock the data\u2019s value."
+        },
+        {
+            "text": "One of the values we champion in BIST Digital, Data and Technology (DDaT) is user centred design. So, we made sure to stay close to trade advisers throughout the development process."
+        },
+        {
+            "text": "For Business Finder to be useful, advisers needed to understand the export propensity score in context. A range of filters were added to the tool that allowed managers to assign leads to their teams, including:"
+        },
+        {
+            "text": "Bringing these data points together gave advisers a fuller picture of each business and empowered managers to curate a prioritised list."
+        },
+        {
+            "heading": 2,
+            "text": "Testing and iterating the product"
+        },
+        {
+            "text": "Within 12 weeks we had our beta product: a ranked, searchable list of potential export leads that teams could use in their day-to-day work."
+        },
+        {
+            "text": "10\u00a0users\u00a0who trained to use the tool were asked to give feedback within it. This included providing their personal score for a business alongside a rationale for that score.\u00a0Feedback was also collected through focus groups, forms, and interviews."
+        },
+        {
+            "heading": 2,
+            "text": "Recalibrating the algorithm"
+        },
+        {
+            "text": "Testing revealed that to be valuable the tool needed to surface trustworthy leads. When early feedback uncovered glitches in how the businesses were ranking, the team used adviser insight to recalibrate the model."
+        },
+        {
+            "text": "Initially, the reference point for company data was fixed to a date 8 years ago.\u00a0A huge financial variation was possible over this 8-year gap, especially with the pandemic.\u00a0This reference point was improved to be\u00a0set at 36 months prior.\u00a0Financial information would now be closer to the current reality of the company.\u00a0"
+        },
+        {
+            "text": "This update improved the relevance\u00a0of the leads being suggested. User feedback increasingly supported the rankings produced by the model. The recommended businesses were now more relevant and represented more\u00a0viable\u00a0opportunities to contact for support.\u00a0This gave the team greater confidence that Business Finder was surfacing businesses with genuine export potential."
+        },
+        {
+            "text": "Confidence in our tools\u2019 outputs is key to our work here at BIST. Our products have value when they are used to improve outcomes for the businesses we support. They are not used until they are trusted."
+        },
+        {
+            "heading": 2,
+            "text": "Impact"
+        },
+        {
+            "text": "This new ability to direct the adviser\u00a0focus\u00a0on\u00a0specific\u00a0sectors, areas and\u00a0company types\u00a0is a\u00a0game-changer. In the past, finding leads was\u00a0inconsistent, time-consuming and often sourced organically\u00a0through\u00a0word of mouth,\u00a0personal\u00a0contacts\u00a0and networks.\u00a0"
+        },
+        {
+            "text": "By bringing together data from BIST, HMRC and Companies House we have empowered advisers with a data-led view of businesses that may be ready for support. This allows advisers to spend less time identifying and verifying leads and more time providing valuable support to the businesses most likely to benefit."
+        },
+        {
+            "text": "Having access to a list of businesses sorted by likelihood of exporting can speed up the lead generation process. It also broadens the reach and reveals opportunities that may not have been found through existing relationships."
+        },
+        {
+            "heading": 2,
+            "text": "Learning from real use of Business Finder"
+        },
+        {
+            "text": "It was our user-led approach to developing the tool that built advisers' confidence and trust in it. This encouraged them to use it and help us to improve it."
+        },
+        {
+            "text": "Business Finder is still being shaped by how advisers use it in practice. With complex data products it can be difficult to understand\u00a0how people use the\u00a0product. With so\u00a0many variables,\u00a0use cases and\u00a0ways of working, it is hard to learn from a prototype\u00a0using mock data alone. The model is only one part of the service, and the way leads are filtered, interpreted and acted on is just as important as the score itself."
+        },
+        {
+            "text": "We learned from realistic user engagement with the small beta test group. These early\u00a0testers used the product in\u00a0real life scenarios, which gave more reliable feedback than hypothetical testing. The testing gave our team evidence about where the model was working well and how it should evolve."
+        },
+        {
+            "text": "Within the first 2\u00a0weeks\u00a0we spotted repeating patterns in the feedback we gathered. These are now shaping future iterations of the design."
+        },
+        {
+            "text": "At BIST we build products that solve real problems. To help the UK economy grow, we combine data, user insight and delivery expertise together."
+        },
+        {
+            "text": "Updating,\u00a0refining\u00a0and improving\u00a0products\u00a0based on how they are actually used\u00a0is\u00a0an\u00a0important\u00a0foundation to how we\u00a0deliver digital products.\u00a0By improving the product based on real feedback, we can make it more useful for advisers, and ultimately for the businesses they support."
+        },
+        {
+            "heading": 2,
+            "text": "Conclusion"
+        },
+        {
+            "text": "By building this product we have made valuable data useable so that advisers can effectively find and support potential exporters more consistently. Using innovative AI technology, we\u2019re now reaching UK businesses who would have not been discovered before, and supporting them to grow and adapt in a challenging business landscape."
+        },
+        {
+            "text": "If you are interested in using your data skills to support growth in the UK, take a look at our vacancies and apply for a role building technology with purpose."
+        }
+    ]
+}
