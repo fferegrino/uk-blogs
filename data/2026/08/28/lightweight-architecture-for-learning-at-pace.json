@@ -1,0 +1,99 @@
+{
+    "url": "https://technology.blog.gov.uk/2026/08/28/lightweight-architecture-for-learning-at-pace/",
+    "title": "Lightweight architecture for learning at pace\u00a0",
+    "authors": [
+        "Pete Hallett, Head of Technology, CustomerFirst"
+    ],
+    "categories": [
+        "Architecture",
+        "Technology"
+    ],
+    "pub_date": "2026-08-28T09:15:00+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "Why architecture became about people, not technology\u202f\u00a0"
+        },
+        {
+            "text": "When we started building the technology and architecture practice for\u00a0CustomerFirst, we thought we had a reasonable idea of the role architecture would play.\u202f\u00a0"
+        },
+        {
+            "text": "Like many teams, we expected to spend our time understanding technology estates, mapping systems,\u00a0identifying\u00a0technical\u00a0risks\u00a0and leading organisations towards making good technology decisions.\u202f\u00a0"
+        },
+        {
+            "text": "What we did\u00a0not expect was that the most valuable architectural conversations would have\u00a0very little\u00a0to do with technology at all. Instead,\u00a0we've\u00a0found ourselves talking about organisations,\u00a0relationships\u00a0and trust.\u00a0We've\u00a0spent time understanding how decisions are really made, where operational boundaries exist, and how information moves between teams.\u00a0We\u2019ve\u00a0also explored why seemingly simple changes can become surprisingly difficult.\u202f\u00a0"
+        },
+        {
+            "text": "As\u00a0we've\u00a0worked with different organisations,\u00a0we've\u00a0realised these themes\u00a0aren't\u00a0unique to one partner.\u00a0They've\u00a0appeared repeatedly across services and departments, changing the way\u00a0we're\u00a0thinking about architecture.\u202f\u00a0"
+        },
+        {
+            "text": "Before committing to significant investment or large-scale transformation, we work with organisations to understand whether a different approach is actually\u00a0viable. We test ideas, gather\u00a0evidence\u00a0and learn quickly before deciding what should happen next;\u00a0we\u2019ve\u00a0previously written about\u00a0our approach to exploration sprints.\u00a0We're\u00a0also learning what it takes for multidisciplinary teams to succeed in the\u00a0NewCo\u00a0model, and architecture needs to fit that environment.\u202f\u00a0"
+        },
+        {
+            "text": "As\u00a0we've\u00a0written before,\u00a0NewCo is about creating bounded space for small, multidisciplinary teams to look at a service differently.\u202f\u202f\u00a0"
+        },
+        {
+            "text": "Many architectural approaches were developed for delivery programmes that already knew where they were heading.\u00a0We're\u00a0often working with organisations that are still defining the problem, or where the problem itself has evolved.\u00a0They're\u00a0exploring options rather than implementing predetermined answers, which has prompted us to rethink architecture's role in delivery.\u202f\u00a0"
+        },
+        {
+            "text": "If understanding the landscape takes months, teams lose the ability to learn quickly. If decisions\u00a0have to\u00a0pass through layers of governance, momentum fades and support for change becomes harder to build.\u202f\u00a0"
+        },
+        {
+            "text": "None of this invalidates traditional approaches to enterprise architecture. It simply reflects the context it was designed for.\u00a0We're\u00a0finding ourselves applying architecture differently.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we mean by lightweight architecture\u202f\u00a0"
+        },
+        {
+            "text": "We've\u00a0started referring to this as\u00a0lightweight architecture. This is not because it reduces the rigour\u00a0required\u00a0to meet core principles of scalability, secure by design,\u00a0interoperability\u00a0or\u00a0maintainability.\u202fIt\u2019s\u00a0because it applies just enough architectural thinking to help teams make the next good decision. Rather than answering every question up front, it helps teams move forward with confidence while leaving room for new evidence to influence future decisions.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What we learned from two recent engagements\u202f\u00a0"
+        },
+        {
+            "text": "During a recent six-week discovery, we worked across an extremely fragmented and complex federated landscape.\u202f\u00a0"
+        },
+        {
+            "text": "At the outset we expected much of the work to be on technology and integration, to understand the systems, the dependencies and how everything connected.\u202f\u00a0"
+        },
+        {
+            "text": "We quickly discovered that understanding the technology was only one part of the challenge. The more important learning was understanding the landscape around it: who owned what, where decisions were made, how change happened and what would need to be true for services to evolve safely.\u202f\u00a0"
+        },
+        {
+            "text": "Users in this context do not experience those organisational boundaries; they experience a moment as part of their wider journey across that complex system.\u202f\u00a0"
+        },
+        {
+            "text": "That observation changed the conversations we were having. We spent less time discussing integration patterns and more time building a shared understanding of the problem,\u00a0identifying\u00a0operational\u00a0dependencies\u00a0and exploring how information could\u00a0be shared responsibly. These conversations were every bit as architectural as discussing platforms or APIs.\u202f\u00a0"
+        },
+        {
+            "text": "One of the most valuable architectural decisions we made on another engagement was\u00a0not deciding what to build. It was deciding not to build at all.\u202f\u00a0"
+        },
+        {
+            "text": "Instead of investing\u00a0immediately\u00a0in technology, we created a small experiment that generated evidence within days. The experiment was simple to implement, however went through a fast-tracked but fully signed-off governance process to get the experiment safely in front of users.\u202f\u00a0"
+        },
+        {
+            "text": "We worked with the Data Protection Officer as part of the delivery loop rather than as an approval gate. By giving them\u00a0early access\u00a0to the architectural decisions they were quickly able to assess risk and resolve privacy concerns that needed assurance before launch and within the scope of the experiment.\u00a0"
+        },
+        {
+            "text": "We used existing products that have been built and exist in the GDS products suite. We obtained approval to divert a small segment of user data that flowed into the service for a particular cohort of users. We used technical\u00a0expertise\u00a0from the partner organisation to route the cohort to the new service and worked with content designers so the new service could be found by that group during the experiment.\u202f\u00a0"
+        },
+        {
+            "text": "That evidence is now shaping future decisions in a way that simply would not have happened had we started with a detailed solution and spent weeks or even months working through governance processes designed for larger-scale change. We know governance systems exist to reduce risk in delivery. We are testing the application of\u00a0appropriate governance\u00a0at varying stages of our work, which is important, especially as we move towards higher fidelity, where more governance and assessment will always be necessary.\u202f\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Reducing the cost of discovering the future\u202f\u00a0"
+        },
+        {
+            "text": "Experiencing high governance environments has reinforced something\u00a0we'd\u00a0started to suspect across several explorations:\u00a0perhaps one\u00a0of the most valuable things\u00a0architecture\u00a0can do is\u00a0not describe the\u00a0future but\u00a0reduce the cost to the taxpayer of discovering the future. That idea continues to shape our thinking.\u202f\u00a0"
+        },
+        {
+            "text": "We're\u00a0not presenting lightweight architecture as a finished\u00a0methodology\u00a0or a replacement for\u00a0established\u00a0architectural\u00a0practices. But the faster organisations need to learn, the more architecture itself needs to become adaptive.\u202f\u00a0"
+        },
+        {
+            "text": "For us, that means architecture becoming another enabling function within the\u00a0CustomerFirst\u00a0model. It helps teams understand before they invest, helps partners work before they integrate, and helps organisations make confident decisions while uncertainty still exists.\u202f\u00a0"
+        }
+    ]
+}
