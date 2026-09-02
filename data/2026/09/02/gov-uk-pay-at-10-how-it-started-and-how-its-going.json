@@ -1,0 +1,76 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/09/02/gov-uk-pay-at-10-how-it-started-and-how-its-going/",
+    "title": "GOV.UK Pay at 10: how it started and how it's going\u00a0",
+    "authors": [
+        "Alan Maddrell - Senior Content Designer for GOV.UK Pay, Government Digital Service",
+        "Beth Brown, Lead Product Manager for GOV.UK Pay, Government Digital Service"
+    ],
+    "categories": [
+        "Digital Service Platforms",
+        "Digital, Data and Technology",
+        "GOV.UK Pay"
+    ],
+    "pub_date": "2026-09-02T11:32:55+01:00",
+    "content": [
+        {
+            "text": "10 years ago, GDS launched GOV.UK Pay, one of its flagship platforms used by public sector service teams. For the first time, public sector organisations could take payments without having to set up individual and costly transaction services themselves. Millions of people across the UK are now using GOV.UK Pay to quickly and easily pay for everything from a new passport to garden waste bin collections. By happy coincidence we have handled (nearly!) \u00a310 billion in transactions, across almost 1,800 individual services in total. To mark this milestone, we look back at an incredible first decade and some exciting developments in store as we begin the next decade.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How it started"
+        },
+        {
+            "text": "It's easy to forget what life was like before GOV.UK Pay:"
+        },
+        {
+            "text": "In 10 years, we have solved these problems for more than 600 organisations across central and local government, the NHS, police, some educational institutions and the armed forces.\u00a0"
+        },
+        {
+            "text": "At first, we offered only API integration, so a technical team was needed to incorporate GOV.UK Pay into a service.\u00a0"
+        },
+        {
+            "text": "The first service to use GOV.UK Pay was \"Send money to someone in prison\", made by the Ministry of Justice. The transformation for them has been significant:\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How it's going\u00a0"
+        },
+        {
+            "text": "This graph shows transaction volume over time from the start to the present day. It took GOV.UK Pay 4 years to collect its first \u00a31 billion, it now processes this in around 5 months."
+        },
+        {
+            "text": "GOV.UK Pay's growth has been extraordinary, particularly since 2020."
+        },
+        {
+            "text": "This graph shows the top 10 organisations using GOV.UK Pay with their annual transaction volumes. The biggest user by some margin is HM Passport Office who joined in 2020."
+        },
+        {
+            "text": "HM Passport Office remains GOV.UK Pay\u2019s largest service, with annual volumes of approximately 6.5 to 7.0 million since 2022, with a record of 1.11million monthly transactions in January 2023. Demand is highest in January and March (around 2.46 million transactions) before declining steadily towards the end of each year, reflecting passport renewal and travel-planning cycles. Volumes in January to July 2026 are 3.9% above 2025 (4.8 million), with HMPO\u2019s overall platform share declining, which suggests growth across our other services."
+        },
+        {
+            "text": "That's only part of the picture, though, with hundreds of smaller organisations, including local authorities, now taking payments online. GOV.UK Pay is used by 41% (157) of local authorities across the UK, with 3.5m transactions processed in the 2025-26 financial year.\u00a0"
+        },
+        {
+            "text": "This graph shows the number of services created on GOV.UK Pay over time from 2016 to the present day.\u00a0"
+        },
+        {
+            "text": "When we introduced payment links in 2018, it became possible for a lot more teams to use GOV.UK Pay as illustrated by this graph. Payment links are quick and easy to set up and mean you don't need technical teams to develop and maintain a full online service.\u00a0"
+        },
+        {
+            "text": "We also survey our users regularly and the satisfaction rates show a net promoter score of +40. In the 2025 survey, 90% of respondents said they were very satisfied/satisfied with Pay, up from 83% in 2024. This shows that our public sector service teams appreciate GOV.UK Pay\u2019s ease of use and not having to procure their own provider.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "The future\u00a0"
+        },
+        {
+            "text": "There are some exciting times ahead. We are currently migrating to a new card provider, Adyen, for local authorities, armed forces and police.\u00a0"
+        },
+        {
+            "text": "We have ambitious plans to transform how services can take payments and save the taxpayer even more money in the process. This includes pay by bank, which we are making preparations for with ongoing migration to our new payment service provider Adyen. Keep an eye on our roadmap for further exciting updates. \u00a0"
+        },
+        {
+            "text": "As we close off the first 10 years, we want to say thank you to everyone who has worked on, used and supported GOV.UK Pay, past and present. It\u2019s been an incredible journey so far and we\u2019re as ambitious today as we were on day 1. Here\u2019s to the next 10 years!\u00a0"
+        }
+    ]
+}
