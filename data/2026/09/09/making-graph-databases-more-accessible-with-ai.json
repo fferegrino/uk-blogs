@@ -1,0 +1,154 @@
+{
+    "url": "https://digitaltrade.blog.gov.uk/2026/09/09/making-graph-databases-more-accessible-with-ai/",
+    "title": "Making graph databases more accessible with AI",
+    "authors": [
+        "Emily Lambert, Machine Learning Engineer",
+        "Joe Hearnshaw, Lead Data Scientist",
+        "Larry Adeyemi, MLOps Engineer"
+    ],
+    "categories": [
+        "AI and Automation",
+        "Data and Insight"
+    ],
+    "pub_date": "2026-09-09T09:59:11+01:00",
+    "content": [
+        {
+            "heading": 2,
+            "text": "The bottleneck between questions and answers"
+        },
+        {
+            "text": "Graph databases are designed to store and analyse relationships between connected pieces of data. Analysts working with graph databases often know exactly what question they want answered, but not how to write the query needed to get that answer. A seemingly simple question such as \"How does this product move through Company X's supply chain?\" can require a complex Cypher query involving multiple connected suppliers, products and routes."
+        },
+        {
+            "text": "This challenge was raised to us by colleagues in the Global Supply Chains Intelligence Programme (GSCIP). This is a platform that brings together large-scale data to help government understand global supply chains."
+        },
+        {
+            "text": "While GSCIP analysts need quick access to answers from graph data, many do not use Cypher day-to-day. As a result, data scientists often spend significant time translating business questions into database queries. This can create a bottleneck between the people who understand the problem and the people who understand the database."
+        },
+        {
+            "text": "To explore whether AI could help bridge this gap, we built a proof of concept (PoC) that translates plain English into graph database queries. Our goal was simple: find out if this approach is feasible and understand the trade-offs involved. This would help to inform us about how AI could reduce pressure on specialist teams, and what guardrails would be needed in a live environment."
+        },
+        {
+            "heading": 3,
+            "text": "The experiment"
+        },
+        {
+            "text": "Our lightweight proof of concept was designed for rapid experimentation."
+        },
+        {
+            "text": "At a high level, the system allows a user to ask a question in plain English, such as \"Which organisations are connected to this project?\" and automatically converts that question into a database query. The system then retrieves the relevant information from a graph database and returns the results."
+        },
+        {
+            "text": "To keep the design flexible, we exposed the capability through a simple interface that could be integrated with other tools and tested against a range of example questions. This allowed us to focus on the core challenge: reliably translating natural language into queries that can navigate complex relationships in graph data."
+        },
+        {
+            "text": "For readers interested in the technical implementation, the solution was built using a graph database and a text-to-query component that generates Cypher queries from natural language, as shown in Figure 1."
+        },
+        {
+            "heading": 3,
+            "text": "Synthetic data supporting AI development and testing"
+        },
+        {
+            "text": "To support development and testing, we built a synthetic data generator capable of producing graph data matching the data structure and size we would expect in a real environment."
+        },
+        {
+            "text": "This allowed us to generate realistic test data and quickly load it into the platform through an API, without exceeding the capacity of our local systems."
+        },
+        {
+            "text": "Using synthetic data gave us more flexibility in the testing process and minimised the need to process real data."
+        },
+        {
+            "heading": 2,
+            "text": "How can we be sure it works?"
+        },
+        {
+            "text": "Before releasing the tool to analysts, we needed a robust way to assess the reliability of its generated queries. We used DeepEval, which is an evaluation framework for Large Language Models (LLMs), to evaluate query quality and performance."
+        },
+        {
+            "text": "We also recognised the limitations of using LLMs to evaluate LLMs (LLM-as-a-judge), as is done with DeepEval. To mitigate this, we complemented automated evaluation with targeted human reviews, helping us better understand failure modes and measure true accuracy."
+        },
+        {
+            "heading": 3,
+            "text": "What we learned: a correct query is not always the right query"
+        },
+        {
+            "text": "While the experiment was not intended to benchmark production-level accuracy, it demonstrated that natural language questions could be translated into executable graph queries across a range of test scenarios. This gave us confidence that the approach was feasible."
+        },
+        {
+            "text": "One of the most important findings was that generating syntactically valid, runnable queries is not the hardest problem. The greater challenge is ensuring that each query genuinely reflects the user's intent. As a result, the same question can sometimes produce different answers depending on how that intent is interpreted. "
+        },
+        {
+            "text": "This has important implications for anyone looking to build on or replicate this work: evaluation cannot focus solely on query correctness but must also assess whether the generated query captures the intended meaning of the original request. This increases the need for careful testing."
+        },
+        {
+            "heading": 2,
+            "text": "A spectrum of approaches"
+        },
+        {
+            "text": "One of the key questions for this experiment was understanding what kind of approach is even feasible. In practice, translating natural language into graph queries sits on a spectrum:"
+        },
+        {
+            "text": "The experiment highlighted a trade-off between flexibility and consistency. Fully generative approaches are more flexible, but produce less consistent results. Deterministic approaches offer greater reliability, but narrower coverage. Our testing suggested that a hybrid approach may offer the most practical balance between the two. A deterministic query bank can handle common, well-understood questions, while LLM generation is reserved for unusual or more complex questions. This shifts effort away from continuous runtime validation toward upfront verification of trusted query patterns."
+        },
+        {
+            "heading": 2,
+            "text": "Benefits of our work"
+        },
+        {
+            "text": "This work did more than test whether the technology could work. It gave us a clearer understanding of how we could make graph data more accessible to analysts. It also helped us test similar AI approaches more safely in the future."
+        },
+        {
+            "heading": 3,
+            "text": "Understanding the feasibility of the idea"
+        },
+        {
+            "text": "Our experiment demonstrated that natural language querying of graph data using LLMs is technically feasible, while also identifying important practical challenges around consistency, evaluation, and intent matching. "
+        },
+        {
+            "text": "Understanding these limitations early helps reduce risk and provides a clearer foundation for future development. Building on this foundation could make complex graph data easier to interrogate for analysts and reduce repetitive query-writing requests for data scientists."
+        },
+        {
+            "heading": 3,
+            "text": "Building our own capability"
+        },
+        {
+            "text": "The project also built reusable capability. We now have in-house tools and processes to generate synthetic datasets and evaluate LLM performance across both graph and non-graph use cases, simply by providing a schema and relevant inputs. "
+        },
+        {
+            "text": "This has already accelerated experimentation across our AI teams. It will make future AI projects at BIST faster and cheaper to test before deciding whether to scale them. The lessons and evaluation methods developed through this work are also relevant across the public sector, where organisations face similar challenges in testing AI systems safely, reliably, and cost-effectively. Get in touch if you'd like to talk further about this."
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "The next step is understanding what it would take to move forward to a production-ready capability, if the approach proves reliable enough. This includes validating performance at scale, integrating with real environments and implementing appropriate guardrails and security controls."
+        },
+        {
+            "text": "We are also exploring ways to use AI to generate more realistic synthetic data. Rather than creating data that only follows the required structure, the aim is to generate data that better reflects real-world relationships and patterns. Over time, we hope this will make synthetic datasets more useful for testing and evaluating new AI applications."
+        },
+        {
+            "text": "Explainability is another focus area. We want to enable users not just to query data in plain English, but to receive results that are clearly explained and visualised. This would make graph data far more accessible to non-technical users."
+        },
+        {
+            "text": "Looking further ahead, there is potential to automate more parts of the experimentation process. For example, agents could support synthetic data generation, proof-of-concept creation, evaluation and quality assurance. This could reduce the time and effort required to evaluate new ideas. It could allow teams to test more concepts and focus their attention on higher-value review and decision-making activities. However, any such approach would require robust guardrails and multiple human checkpoints to ensure reliability and trust. These kinds of approaches benefit from collaboration between government and industry delivery partners, combining technical expertise with experience from a range of sectors."
+        },
+        {
+            "heading": 3,
+            "text": "Conclusion"
+        },
+        {
+            "text": "This experiment showed that using AI to query graph databases in plain English is technically feasible. It has the potential to make complex network data more accessible to a wider range of users. However, the key lesson is that generating a valid query is not enough. The greater challenge is ensuring that the query accurately reflects the user's intent and consistently returns the answer they are actually looking for."
+        },
+        {
+            "text": "For data scientists, analysts and Digital and Data leaders considering similar approaches, this means placing as much emphasis on evaluation, governance and human review as on the AI technology itself. Success should be measured not only by whether a query runs, but by whether it produces trusted and meaningful results."
+        },
+        {
+            "text": "We would like to hear from others exploring AI-assisted querying, synthetic data generation or AI evaluation. How are you assessing whether AI-generated outputs reflect user intent? Where have you found human oversight remains essential?"
+        },
+        {
+            "heading": 2,
+            "text": "\u00a0"
+        }
+    ]
+}
