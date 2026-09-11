@@ -1,0 +1,225 @@
+{
+    "url": "https://digitalhealth.blog.gov.uk/2026/09/11/dhsc-abortion-notification-service-alpha-assessment-service/",
+    "title": "DHSC Abortion Notification Service Alpha Assessment Service",
+    "authors": [
+        "Man-Yee Lam"
+    ],
+    "categories": [
+        "Alpha",
+        "Service assessments"
+    ],
+    "pub_date": "2026-09-11T15:21:08+01:00",
+    "content": [
+        {
+            "text": "From:\u00a0DHSCAssessment date:\u00a019/06/2025Amber review date:\u00a003/09/2026Stage:\u00a0Alpha reassessmentResult:\u00a0Green at reassessmentService provider:\u00a0DHSC"
+        },
+        {
+            "heading": 2,
+            "text": "Service description"
+        },
+        {
+            "text": "Under the terms of the Abortion Act 1967 and the\u202fAbortion Regulations 1991,\u202fmedical practitioners have a statutory obligation to notify the Chief Medical Officer (CMO) of every abortion, within 14 days of the procedure, using an HSA4 form. DHSC are responsible for monitoring the Abortion Act and producing statistics on abortions in England and Wales.The Abortion Notification System (ANS) is the digital service provided by DHSC for medical practitioners to enable them to submit their HSA4 forms. Currently it is possible to submit them using 3 channels \u2013 paper, API or webform."
+        },
+        {
+            "heading": 2,
+            "text": "Service users"
+        },
+        {
+            "text": "This service is for:\u25cf Abortion providers- Registered Doctors- Nurses and midwives- Telehealth call handlers- Medical secretaries and administrators- IT Systems Administrators"
+        },
+        {
+            "text": "\u25cf DHSC staff- Public Health Intelligence Analyst- Social Researcher- Data Entry Team- Medical Advisor"
+        },
+        {
+            "text": "\u25cf Data Consumers- Healthcare services and research- Policy and politics- Education and academia- Media- Police"
+        },
+        {
+            "heading": 2,
+            "text": "Report contents"
+        },
+        {
+            "heading": 3,
+            "text": "1. Understand users and their needs"
+        },
+        {
+            "text": "Decision The service was rated green for point 1 of the Standard.\u00a0"
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf continue to research and increase the numbers of participants you have spoken to, although it is acknowledged that you have received consistent feedback with your existing participant numbers."
+        },
+        {
+            "text": "\u25cf continue to strive to recruit users, or proxy users, with additional access needs and low digital confidence using methods already identified and investigated during alpha."
+        },
+        {
+            "heading": 3,
+            "text": "2. Solve a whole problem for users\u00a0"
+        },
+        {
+            "text": "Decision The service was rated green for point 2 of the Standard."
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf continue efforts to research with users on mobile or tablet devices"
+        },
+        {
+            "text": "\u25cf consider user testing the proposed new service name and researching the discoverability of the new name through internet search engines"
+        },
+        {
+            "text": "\u25cf keep on tracking recommendations for potential legislative changes that have potential to improve user experience and processes in future"
+        },
+        {
+            "heading": 3,
+            "text": "3. Provide a joined-up experience across all channels"
+        },
+        {
+            "text": "Decision The service was rated green for point 3 of the Standard."
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf carefully consider your roadmap for beta to ensure that you are solving the harder problems first across all elements of the service, to de-risk complexity of delivery in later stages"
+        },
+        {
+            "heading": 3,
+            "text": "4. Make the service simple to use"
+        },
+        {
+            "text": "Decision The service was rated green for point 4 of the Standard."
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf ensure that you follow through in a thorough manner with your tracking metrics, as the panel felt that you had a well-considered set of KPIs"
+        },
+        {
+            "text": "\u25cf ensure that your service support includes clearly documented guidance and consistent recommendations for staff who are expected to utilise any new or modified user roles, such as the \u2018super-user\u2019 functionality, that are introduced in beta"
+        },
+        {
+            "heading": 3,
+            "text": "5. Make sure everyone can use the service"
+        },
+        {
+            "text": "Decision The service was rated green for point 5 of the Standard."
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf continue to involve users with access needs and use your new recruitment incentives that you have indicated for beta phase to focus on increasing the number of people from this user group who are involved in testing"
+        },
+        {
+            "text": "\u25cf continue prioritising accessibility including carrying out the plan to commission an external accessibility audit during beta"
+        },
+        {
+            "heading": 3,
+            "text": "6. Have a multidisciplinary team"
+        },
+        {
+            "text": "Decision The service was rated green for point 6 of the Standard."
+        },
+        {
+            "text": "Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf continue to involve policy colleagues closely with the development of the service and if possible, encourage them to observe user research directly"
+        },
+        {
+            "heading": 3,
+            "text": "7. Use agile ways of working"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 7 of the Standard.Optional advice to help the service team continually improve the service:\u25cf ensure the team has a robust plan to respond or adapt to potential future changes to abortion policy arising from parliament"
+        },
+        {
+            "heading": 3,
+            "text": "8. Iterate and improve\u00a0frequently"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 8 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "9. Create a secure service which protects users\u2019 privacy\u00a0"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 9 of the Standard.Optional advice to help the service team continually improve the service:\u25cf continue working closely with DHSC Cyber team\u25cf as this is a first within DHSC, record feedback on experiences for future projects.\u25cf look at other authentication approaches used within health and government. Contact NHSE to find out what\u2019s used there and any standards or approaches in place\u25cf the legacy service has outdated components leading to vulnerabilities. The new service must have a plan to avoid falling back to this post launch\u25cf continue to work closely with DHSC Cyber on the Secure By Design self-assessment and other relevant tasks. The panel note that it is important to include this thinking early and continue throughout beta\u25cf the alpha includes a strong set of security recommendations, make sure these carry over into beta and are implemented. The timescales for beta are tight with a hard deadline for ending the existing system, be careful that tactical urgency does not cause lapses in best practice approaches."
+        },
+        {
+            "heading": 3,
+            "text": "10. Define what success looks like and publish performance data\u00a0"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 10 of the Standard.Optional advice to help the service team continually improve the service:"
+        },
+        {
+            "text": "\u25cf the team should consider any potential governance gaps carefully and reach out to partner organisations who have a greater digital deliver capability where appropriate"
+        },
+        {
+            "text": "\u25cf the methodology for choosing additional KPIs was well reasoned, based on current pain points and NHS priorities such as time spent completing a form by staff. The team should review these throughout beta to ensure they still reflect what success looks like for the service"
+        },
+        {
+            "heading": 3,
+            "text": "11. Choose the right tools and technology\u00a0"
+        },
+        {
+            "text": "Decision\u00a0The service was rated\u00a0amber\u00a0for\u00a0point 11 of the Standard.\u00a0During the assessment, we\u00a0didn\u2019t\u00a0see evidence of:\u00a0\u00a0\u25cf clear decisions or decision trees for next steps.\u00a0While\u00a0a lot\u00a0has been done to\u00a0identify\u00a0pain points and problems within the current service,\u00a0the\u00a0decision\u00a0routes for\u00a0next steps\u00a0is not clear. It\u00a0is\u00a0good to be flexible in line with\u00a0findings,\u00a0but\u00a0the\u00a0team is\u00a0going into beta with\u00a0a lot of\u00a0outstanding questions including\u00a0known\u00a0DHSC standard approaches"
+        },
+        {
+            "text": "\u25cf The\u00a0team have\u00a0worked with DHSC IT and Cyber\u00a0from an early stage\u00a0to get feedback and guidance, but\u00a0it\u00a0was not\u00a0clear\u00a0if they are following DHSC standards \u2013\u00a0largely\u00a0because this approach is a first within DHSC.\u00a0Although this may be outside the control of the project team, this does make them trail blazers and presents\u00a0additional\u00a0risk\u00a0\u25cf alignment with NHSE who\u00a0will be part of DHSC within the next 1-2 years\u00a0will be.\u00a0Make sure that any decisions align with NHSE standards and practices\u00a0as\u00a0they will be part of the same organisation post launch\u00a0\u25cf a\u00a0cloud-first approach.\u00a0The alpha findings\u00a0on the existing system\u00a0outline replacing non-scalable hosting,\u00a0which\u00a0has led to\u00a0poor performance\u00a0at busy times, with scalable cloud-first\u00a0hosting\u25cf During the\u00a0assessment,\u00a0the team said they were looking into on-prem hosting at the DHSC data centre \u2013 The\u00a0DAC. DAC is not currently approved for PII. Changing from cloud to on-prem is out of step with The Technology Code of Practice\u00a0point 5 -\u00a0use cloud first\u00a0and would need strong justification for this approach to gain spend approval.Optional advice to help the service team continually improve the service:\u00a0\u25cf given\u00a0the\u00a0team will be asking the beta supplier to\u00a0procure\u00a0infrastructure as a stopgap, anything that they build\u00a0must\u00a0be easily portable. Make sure that\u00a0this lines up with DHSC and NHSE standards and if a tactical, stopgap platform is needed for launch that a\u00a0migration plan is included in this activity\u00a0with a path to a strategic solution\u00a0\u25cf make\u00a0sure the stopgap approach\u00a0does not risk exposing the service to\u00a0poor performance, see related comments under point 14\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Reassessment:"
+        },
+        {
+            "text": "The service was rated green after reassessment for point 11 of the Standard.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "12. Make new source code open"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 12 of the Standard.GitHub: https://github.com/DataS-DHSC/Abortion-NotificationOptional advice to help the service team continually improve the service:\u25cf the team have planned an approach of build over buy as the requirements would lead to heavy customisation of any CoTS product with dependencies on the supplier for compatibility\u25cf the team have shown a strong commitment to making things open in alpha. This must continue in beta and suppliers for the current or future phases must agree to this open approach "
+        },
+        {
+            "heading": 3,
+            "text": "13. Use and contribute to open standards, common\u00a0components\u00a0and patterns\u00a0"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 13 of the Standard.Optional advice to help the service team continually improve the service:\u25cf give feedback on findings on admin and professional patterns which are outside the core public facing design system and have a different, professional, user base\u25cf the team have identified what appear to be common pain points such as having to map legacy APIs onto new version. Scanning paper forms may also fall into this category as health and wider government are still using paper forms with need to scan. Although this may be wholly handed over to a 3rd party though directly rather than via another supplier. Make sure these learnings are shared\u25cf use the design system in a way that supports easy updates so the service can stay in line with ongoing changes to the design system"
+        },
+        {
+            "heading": 3,
+            "text": "14.\u00a0Operate\u00a0a reliable service\u00a0"
+        },
+        {
+            "text": "DecisionThe service was rated green for point 14 of the Standard.\u00a0Optional advice to help the service team continually improve the service:\u25cf the team have thought about hosting options, but a short-term stopgap infrastructure is being considered as a tactical approach to meet launch timescales. Depending on the interim approach, this could lead to launching with a service that doesn\u2019t perform well leading to a negative perception from users that could carry forward in how they see the service. The team have identified slow response times as a pain point and want to avoid fall-back to paper. It is critical that private and early public beta don\u2019t create a negative association around performance and reliability "
+        },
+        {
+            "text": "\u25cf make sure the team carefully consider costings relating to service options in beta and live and consider learnings from Alpha and the legacy service\u25cf the team should agree an SLA and associated service wrapper at the appropriate time. This should be shared with relevant stakeholders and published in a sensible place"
+        },
+        {
+            "heading": 3,
+            "text": "Next Steps"
+        },
+        {
+            "text": "[Amber - alpha] This service can now move into a private beta phase, subject to addressing the amber points within three months' time and DHSC assurance/GDS spend approval if applicable."
+        },
+        {
+            "text": "To get the service ready to launch on GOV.UK the team needs to:\u25cf get a GOV.UK service domain name \u25cf work with the GOV.UK content team on any changes required to GOV.UK content"
+        },
+        {
+            "text": "The service must pass a live assessment before:"
+        },
+        {
+            "text": "\u25cf turning off a legacy service\u25cf reducing the team\u2019s resources to a \u2018business as usual\u2019 level, or\u25cf removing the \u2018beta\u2019 banner from the service"
+        }
+    ]
+}
