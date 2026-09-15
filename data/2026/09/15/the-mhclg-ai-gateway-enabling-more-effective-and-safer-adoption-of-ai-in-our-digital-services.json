@@ -1,0 +1,173 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/09/15/the-mhclg-ai-gateway-enabling-more-effective-and-safer-adoption-of-ai-in-our-digital-services/",
+    "title": "The MHCLG AI Gateway: enabling more effective and safer adoption of AI in our digital services",
+    "authors": [
+        "Sam Harrison, Technical Architect"
+    ],
+    "categories": [
+        "Artificial Intelligence",
+        "Technology"
+    ],
+    "pub_date": "2026-09-15T11:56:28+01:00",
+    "content": [
+        {
+            "text": "Artificial intelligence (AI) is becoming an important part of how we design and deliver digital services. To help product and delivery teams across the Ministry of Housing, Communities and Local Government (MHCLG) adopt AI more safely and effectively, our Technical Architecture team developed the AI Gateway \u2013 a single, shared departmental platform that gives teams a secure, consistent and faster way to access approved AI technologies."
+        },
+        {
+            "text": "In this blog post, I share what we did, why we did it and what we learnt."
+        },
+        {
+            "heading": 2,
+            "text": "The problem to solve"
+        },
+        {
+            "text": "Product and delivery teams building digital services in MHCLG need to access AI capability without each needing to spend time designing how that AI access is secure and safe."
+        },
+        {
+            "text": "Without a central route, multiple teams would end up building separate integrations, governance approaches and support models for different AI services. Repeating this across multiple teams would have created duplication, delays and inconsistent standards."
+        },
+        {
+            "text": "Our team recognised early the need to focus on the wider organisational challenge affecting all digital product and delivery teams rather than a single technical requirement."
+        },
+        {
+            "heading": 2,
+            "text": "The approach"
+        },
+        {
+            "text": "Our aim was to create a capability that could be reused across the organisation, leading to cost savings, reducing time spent by each team on development and providing one well-managed and scalable solution."
+        },
+        {
+            "text": "It made sense to create a shared AI platform rather than a series of separate solutions for different AI providers."
+        },
+        {
+            "text": "Working with colleagues across the wider digital team, we led the architectural approach for the Gateway using Microsoft Azure API Management as the core platform. This gave MHCLG a single governed route to approved AI services, rather than leaving each team to design its own connection pattern."
+        },
+        {
+            "text": "We wanted the Gateway to be deliberately AI provider-agnostic, and to support models from multiple providers through one consistent approach that supports future integration of additional AI models."
+        },
+        {
+            "heading": 2,
+            "text": "The solution"
+        },
+        {
+            "text": "The solution is a reusable platform with shared controls, common onboarding and a consistent support model. It makes secure AI access available much more easily and much earlier in the development lifecycle than was previously possible through direct API access."
+        },
+        {
+            "text": "The Gateway is designed to support developers, data scientists, applications and services running in Azure and AWS. This allows AI to be embedded directly into departmental services, not simply accessed from individual devices."
+        },
+        {
+            "text": "At a departmental level, the platform provides visibility of how AI is being used, enables appropriate technical controls from the centre, tracks costs and supports cost optimisation."
+        },
+        {
+            "heading": 3,
+            "text": "A faster route to AI adoption"
+        },
+        {
+            "text": "By using the AI Gateway, projects can benefit from:"
+        },
+        {
+            "text": "This means delivery teams can focus on solving business problems and improving services, rather than managing the underlying AI infrastructure."
+        },
+        {
+            "heading": 3,
+            "text": "Security and governance by design"
+        },
+        {
+            "text": "As AI becomes more widely embedded into digital services, it is important to maintain the right security and governance controls."
+        },
+        {
+            "text": "The AI Gateway supports this by:"
+        },
+        {
+            "text": "This creates a safer foundation for innovation and reduces the risks of ungoverned AI access."
+        },
+        {
+            "heading": 3,
+            "text": "Improved visibility and cost management"
+        },
+        {
+            "text": "As demand for AI grows, understanding how it is being used becomes increasingly important."
+        },
+        {
+            "text": "The Gateway gives teams central visibility of:"
+        },
+        {
+            "text": "This helps teams understand demand, manage spend and make sure AI investment delivers value."
+        },
+        {
+            "heading": 2,
+            "text": "Things we learnt that helped us design the AI Gateway"
+        },
+        {
+            "heading": 3,
+            "text": "Build a scalable foundation"
+        },
+        {
+            "text": "Many AI projects begin with one tool, one team or one use case. We recognised early that the solution needed to be able to scale well across a large department."
+        },
+        {
+            "text": "Building the Gateway on Microsoft Azure API Management and shaping it as a shared departmental platform meant the team can fully integrate with MHCLG\u2019s existing technology stack and leverage the investment already made in this technology."
+        },
+        {
+            "text": "The team created a practical foundational way for MHCLG to adopt AI safely, efficiently and consistently, while still leaving room for the platform to evolve as the technology changes."
+        },
+        {
+            "heading": 3,
+            "text": "Make sure AI is used safely and appropriately"
+        },
+        {
+            "text": "Responsible use was built into the project from the beginning, with a clear goal of ensuring other teams could use AI safely and appropriately through this solution."
+        },
+        {
+            "text": "We put the solution through the departmental internal AI approval process along with special technical and data protection approvals to ensure it was assessed against internal policies. Additionally, the Gateway went through penetration testing assessment."
+        },
+        {
+            "text": "The platform uses existing strong authentication and RBAC access control methods alongside integration into existing monitoring, logging and auditability to provide visibility, with tooling that is backed by commercial contracts and cyber security assurance."
+        },
+        {
+            "text": "The project was supported by governance documentation covering acceptable use, accountability, operational responsibilities and data handling, and links into the department\u2019s wider AI governance approach, including our AI Register and approval process."
+        },
+        {
+            "text": "We did not treat governance as something that slows innovation down. We showed that AI can be adopted in a way that is ambitious and practical, while maintaining the right levels of security, compliance and public trust."
+        },
+        {
+            "heading": 3,
+            "text": "Collaboration and focus on user needs"
+        },
+        {
+            "text": "Our team did not approach this work in isolation. We helped shape the architectural direction as part of a wider team effort involving colleagues across digital, Cloud, DevOps, security, governance and delivery functions."
+        },
+        {
+            "text": "From the outset, the Gateway was designed for shared use across all teams, not just one project or technical area. We worked with colleagues to develop reusable patterns, onboarding guidance, governance artefacts, technical documentation, support arrangements and operational processes."
+        },
+        {
+            "heading": 2,
+            "text": "The impact"
+        },
+        {
+            "text": "The biggest impact has been making AI significantly easier, faster and more efficient for colleagues across the department to adopt responsibly."
+        },
+        {
+            "text": "Teams now have a clearer route to approved AI services, with common controls, onboarding guidance, monitoring and support already in place. This reduces the cost and time required to develop digital services."
+        },
+        {
+            "text": "The Gateway has already been adopted by multiple teams and provides access to approximately 20 AI models through a single, governed platform. Several initiatives across MHCLG are already using the platform, with more projects progressing through onboarding."
+        },
+        {
+            "text": "As a result, colleagues spend less time recreating technical foundations and more time exploring how AI can improve services, support users and deliver better outcomes for the public. The platform provides a strong foundation for wider AI adoption across MHCLG as demand continues to grow."
+        },
+        {
+            "heading": 2,
+            "text": "What\u2019s next"
+        },
+        {
+            "text": "We continue to develop the solution to deliver lasting value to the department, based on providing consistent approaches to governance, security and support."
+        },
+        {
+            "text": "Our wider roadmap looks to expand the AI capabilities available through the Gateway. Future phases of work will include access to AI services hosted by additional Cloud services providers, giving teams more flexibility while maintaining the same governance, security and operational standards."
+        },
+        {
+            "text": "If you\u2019re working on similar challenges across government and would like to learn more about this project, get in touch by emailing technology.team@communities.gov.uk."
+        }
+    ]
+}
