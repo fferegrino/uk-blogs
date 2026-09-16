@@ -1,0 +1,113 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/09/16/how-we-made-it-easier-for-millions-of-users-to-sign-into-government-services/",
+    "title": "How we made it easier for millions of users to sign into government services",
+    "authors": [
+        "Tony Richards, Senior Product Manager",
+        "Zoe Williams, Senior Content Designer",
+        "Elliot Butler, Senior Interaction Designer",
+        "Mark Tilbrook, Senior Service Designer"
+    ],
+    "categories": [
+        "Digital Centre",
+        "Digital inclusion",
+        "GOV.UK One Login"
+    ],
+    "pub_date": "2026-09-16T12:09:45+01:00",
+    "content": [
+        {
+            "text": "This month, the Government Digital Service (GDS) made it faster, easier and more secure to sign into government services."
+        },
+        {
+            "text": "23 million people are already using GOV.UK One Login to sign in to over 250 UK government services. Now those users can use a passkey to sign in. This will be the same familiar way they unlock their device, for example with their face, fingerprint or passcode. Users will no longer need to remember a password or enter a security code (also known as \u2018multi-factor authentication\u2019) to sign in."
+        },
+        {
+            "text": "Passkeys are recommended by the UK\u2019s National Cyber Security Centre (NCSC) for use wherever possible. They are more secure than passwords and less vulnerable to phishing and other cybersecurity attacks."
+        },
+        {
+            "text": "In the first month since we rolled out passkeys for GOV.UK One Login, we have already seen 300,000 (almost 10%) of our users are using them. In the years to come, we expect passkeys to save millions a year for the UK taxpayer by cutting the cost of text message-based authentication."
+        },
+        {
+            "text": "Introducing passkeys is just one of the ways we are making sure that digital public services are simple, trusted, secure and effective."
+        },
+        {
+            "text": "This is the biggest change we have made to the sign-in experience of GOV.UK One Login since it launched in 2021."
+        },
+        {
+            "heading": 2,
+            "text": "Putting the user first"
+        },
+        {
+            "text": "The principle of designing for everyone is central to our work at GDS. We put this at the heart of our product development process."
+        },
+        {
+            "text": "To understand user perception and concerns about passkeys, we started by surveying over 2,500 people. We gathered evidence from user research, data analytics and industry insights."
+        },
+        {
+            "text": "We know that the public are increasingly using biometrics in many parts of their online lives, from banking to online shopping. This change helps create a more familiar sign-in experience and reflects wider changes in how people interact online."
+        },
+        {
+            "text": "We found that users struggle to remember passwords, so they reuse them and write them down. We also know that entering a security code is hard for many users, especially those with cognitive barriers and low digital confidence, and people who use assistive technology."
+        },
+        {
+            "text": "Our product strategy at GDS is to focus on meeting the needs of our users. We expect passkeys to cut the time it takes to sign in to GOV.UK One Login by more than half."
+        },
+        {
+            "heading": 2,
+            "text": "Everyone has needs"
+        },
+        {
+            "text": "We know that for GOV.UK One Login users, authentication is not their end goal. It is a step users need to get through to completing a task, such as renewing their driving licence. Signing in should not be an obstacle for users. Passkeys can help remove the need for them to need to think about this step."
+        },
+        {
+            "text": "We applied this user-led approach to our wider product delivery too. Our design team set out to design our new passkeys user journeys collaboratively, by considering the needs of our technical architects, product managers, software developers, security experts and senior managers. We worked together to build the best possible user experience."
+        },
+        {
+            "text": "During our design process we ran workshops with developers to ensure design feasibility. They then checked back with designers to ensure usability. We also consulted security, fraud, and privacy experts to meet GOV.UK One Login\u2019s high service quality standards.\u202fOur product manager steered our priorities by relentlessly asking \"what is the user need?\"."
+        },
+        {
+            "text": "Passkeys have been a real collaboration for our team."
+        },
+        {
+            "heading": 2,
+            "text": "User research is a team sport"
+        },
+        {
+            "text": "A design challenge was explaining passkeys in simple terms that our users will understand. This is especially challenging as how users will sign in can be different depending on their device. A passkey could be a fingerprint for one user, or a screen lock PIN for another. If users do not understand what they need to do, this can stop them from setting up a passkey."
+        },
+        {
+            "text": "Concerns about biometric data privacy can make users hesitate or worry. In reality, the user\u2019s passkey is private. It is securely stored in their password manager. We had to explain technical concepts in clear, accessible language."
+        },
+        {
+            "text": "So, we tested our journeys with real users, including those with low digital confidence. In the past year we have run three rounds of user research and iterated our designs after each round. We learnt that users did not need to understand how passkeys work to be able to use them with ease. We worked closely with accessibility experts to design and test our journeys to make sure they work for all users, including those who use assistive technology."
+        },
+        {
+            "text": "We involved our entire product team, including developers, delivery managers, and product managers. They joined planning workshops, took notes during research sessions, and helped to interpret our findings. This helped our team build empathy for our users and gives us confidence that they will understand our service journeys."
+        },
+        {
+            "heading": 2,
+            "text": "Nudging users - learning from the industry"
+        },
+        {
+            "text": "To ease the cognitive burden for users, we reviewed passkeys journeys across all major tech platforms and online services. This helped us to make sure we were giving users familiar, established content patterns."
+        },
+        {
+            "text": "Using guidelines from authentication industry experts the FIDO Alliance, we prompted users to set up a passkey during relevant moments in their journey, such as when they sign in."
+        },
+        {
+            "text": "NHS Login had already introduced passkeys. They shared their user-experience design insights with us about what they had learned. We also met with the National Cyber Security Centre (NCSC) to learn from their work and share our designs."
+        },
+        {
+            "heading": 2,
+            "text": "Passkeys are live but we are not finished"
+        },
+        {
+            "text": "To help us test passkeys safely with real users, our developers built a way for us to release our designs gradually to a small percentage of users. This meant we could check for any problems before we rolled them out to everyone."
+        },
+        {
+            "text": "We will continuously improve our passkeys user experience based on user insights, and by monitoring adoption rates - such as how many users reject passkeys in favour of their familiar sign in method."
+        },
+        {
+            "text": "It is going to take time for everyone in the UK to adopt passkeys. We know that not all of our users will be ready to use them straight away. But this development is a major step in the right direction for a user experience that is safer, easier and more secure for years to come."
+        }
+    ]
+}
