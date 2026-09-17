@@ -1,0 +1,114 @@
+{
+    "url": "https://despatch.blog.gov.uk/2026/09/17/testing-the-new-driver-services-platform-our-trial-in-durham/",
+    "title": "Testing the new Driver Services Platform: our trial in Durham",
+    "authors": [
+        "Jacqui Turland"
+    ],
+    "categories": [
+        "Driving instructors",
+        "Driving test",
+        "Learning to drive"
+    ],
+    "pub_date": "2026-09-17T11:30:35+01:00",
+    "content": [
+        {
+            "text": "We\u2019re developing the Driver Services Platform (DSP) to modernise how we manage driving test bookings.\u00a0\u00a0"
+        },
+        {
+            "text": "Earlier this summer we ran a small-scale trial at Durham Driving Test Centre (DTC) to test how key parts of the system work in a live environment. Now the trial is complete we can share more details about what we were testing, how it went and the next steps in the journey to a new booking service."
+        },
+        {
+            "heading": 2,
+            "text": "A quick recap: why are we making a new booking system?"
+        },
+        {
+            "text": "If you\u2019ve not read our previous blog posts you might be wondering what the new system is. You can find the previous blog post here.\u00a0"
+        },
+        {
+            "text": "DSP will replace the current booking system. The new system will make the process of booking a practical driving test much more user focused.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Initially we are focusing on car tests, but will later roll out to the other areas, such as instructor, motorcycle and vocational tests.\u00a0"
+        },
+        {
+            "text": "Now, back to the trial."
+        },
+        {
+            "heading": 2,
+            "text": "Taking small steps\u00a0"
+        },
+        {
+            "text": "Smaller scale trials allow us to test each part of the system before rolling it out further. For this trial we wanted to test 4 key parts:\u00a0\u00a0"
+        },
+        {
+            "text": "To do this properly, we needed to try the system out with real learners going through the process of booking and taking their test. We booked a small sample of 14 learners into DSP over 2 testing days at Durham DTC.\u00a0\u00a0"
+        },
+        {
+            "text": "We chose\u00a0Durham as it\u2019s fairly average in terms of its size, staffing levels and test throughput.\u00a0\u00a0"
+        },
+        {
+            "text": "During the trial we wanted to check that the functionality built into the system, so far, worked as intended. That meant a lot of manual work in the background to get things ready. This included\u00a0setting up test centres and examiners, building examiner shift patterns, creating customer profiles, allocating test dates and times, taking payments and making sure the results emails work once the test has finished.\u00a0"
+        },
+        {
+            "text": "It\u2019s not as simple as it might first seem."
+        },
+        {
+            "heading": 2,
+            "text": "Working with local ADIs"
+        },
+        {
+            "text": "Before testing could begin, we needed the support of local approved driving instructors (ADIs). So, we held an event with the local driving test centre manager to introduce the trial to ADIs in the area, generate interest and invite them to put their pupils forward.\u00a0\u00a0"
+        },
+        {
+            "text": "Around 35 people attended and 11 ADIs signed up on the day, giving us a pool of 36 learners who were test ready and flexible on timing."
+        },
+        {
+            "heading": 2,
+            "text": "What we did"
+        },
+        {
+            "text": "We worked with local ADIs to volunteer their pupils who would be ready to take their test around June/July. For this initial trial, we were looking for learner drivers taking a standard car test.\u00a0\u00a0"
+        },
+        {
+            "text": "As we are still in the very early stages of testing, the ability to book tests with additional requirements such as a double slot, with a Welsh speaking examiner, or in an adapted vehicle will come in later phases.\u00a0\u00a0"
+        },
+        {
+            "text": "We filled all the test slots in time for our 2 main testing days on 23 and 30 July. Throughout this process, our small transition team of 3 managed the process manually: contacting ADIs and learners by phone within limited hours, collecting customer data and recording everything securely.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Was it a success?\u00a0"
+        },
+        {
+            "text": "We are very pleased with the outcome.\u00a0\u00a0"
+        },
+        {
+            "text": "As strange as it sounds the intention was for learner drivers to not notice any difference when taking the test, just the process to book it.\u00a0\u00a0"
+        },
+        {
+            "text": "From our perspective, the tests were in the system and on the examiner's tablet and were ready for when the tests were due to start. The results of the test were shared with DVLA and full licences, when the test was successful, were sent quickly.\u00a0"
+        },
+        {
+            "text": "Of course, not everything ran smoothly, but this is the point of the trial. Running into any\u00a0 issues in a smaller controlled environment allowed them to be fixed and a solution found for next time.\u00a0"
+        },
+        {
+            "text": "The next major step for the new system is to get the same level of success from a trial, but with less manual input.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next steps"
+        },
+        {
+            "text": "This trial was a valuable and encouraging first step, but it's important to be clear that DSP is still very much a work in progress and there is more testing and development ahead before it's ready for wider use.\u00a0"
+        },
+        {
+            "text": "In the short term, we've already made improvements based on what we learned. The next big step is to improve the new system to be able to do more steps on its own such as payments and choosing dates.\u00a0\u00a0"
+        },
+        {
+            "text": "We want to be upfront that getting DSP right will take time. This won't happen overnight and we'd rather take the time needed to test thoroughly and build confidence in the system than move faster and risk getting it wrong. Each trial gives us more confidence, and more evidence, to build on before we scale up further.\u00a0"
+        },
+        {
+            "text": "We'll continue to share updates as DSP development progresses.\u00a0"
+        }
+    ]
+}
