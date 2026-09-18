@@ -1,0 +1,107 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/09/18/moving-share-homes-for-ukraine-datas-code-to-open-source/",
+    "title": "Moving Share Homes for Ukraine data\u2019s code to open source",
+    "authors": [
+        "Kat Stevens, Lead Developer, Homes for Ukraine Digital"
+    ],
+    "categories": [
+        "Homes for Ukraine",
+        "Technology",
+        "Ways of working"
+    ],
+    "pub_date": "2026-09-18T10:22:56+01:00",
+    "content": [
+        {
+            "text": "Share Homes for Ukraine data, our in-house system for managing Homes for Ukraine data turned one this week! In this blog post, I talk about how we recently open-sourced the code for the system and why it matters."
+        },
+        {
+            "text": "Open source coding is software built on teamwork, where developers freely share their code with the public. It means anyone can look under the hood of a digital component or service. For public services, this collaborative approach matters, especially because it saves money by allowing other public sector organisations to reuse software instead of rebuilding it from scratch."
+        },
+        {
+            "heading": 2,
+            "text": "Why do we want to make our code public?"
+        },
+        {
+            "text": "Working in the open can be daunting! All your mistakes would be there for the world to see in a public code repository, with nowhere to hide... However, open source code is part of how we build software in the Ministry of Housing, Communities and Local Government (MHCLG) and a key part of the government Service Manual for digital services (\"make source code open and reusable\"). Sharing our code means that other government departments and people in outside organisations can benefit from our work, saving time and money."
+        },
+        {
+            "text": "There are some exceptions to this rule. Some code may need to be kept private for security reasons, for commercial reasons, or to prevent revealing details of a policy before the government is ready to announce it publicly, for example. The 'Share Homes for Ukraine data' (or 'Share' for short) application code had to remain private at the start of the project for commercial reasons. However, it's usually best to work in the open from the start wherever possible."
+        },
+        {
+            "heading": 2,
+            "text": "How we did it"
+        },
+        {
+            "text": "Before we made our Share application code open, we did some due diligence, following the guidance set out in The MHCLG Way and the government Service Manual."
+        },
+        {
+            "text": "We did a thorough review of the code base to check for any security concerns, including using automated scanning tools. Our repository was thankfully already in good shape \u2013 no committed secret values or vulnerabilities in the code. We discussed our open-sourcing plan with the MHCLG Cyber Security team, who were happy for us to proceed."
+        },
+        {
+            "text": "We reviewed our code to make sure it didn\u2019t contain anything commercially sensitive. We also looked at the content of our test data \u2013 our codebase shouldn't contain 'real' looking names or emails that could be flagged as personally identifiable information. We changed all the email addresses used in our tests to be an 'example.com' domain, and made sure any names were clearly anonymous, for example 'Joe Bloggs'."
+        },
+        {
+            "text": "We looked at our code comments, to check for any language that didn\u2019t meet the Civil Service Code. While doing this, we found a number of 'TODO' statements that were left over from the speedy development needed before the deadline. Some actions were already done but the 'TODO' was still there as a comment! We tidied these up."
+        },
+        {
+            "text": "GitHub \u2013 the source code tool used at MHCLG \u2013 doesn\u2019t just store code, it also stores the history of every change made. Reviewing the history would be too time consuming, so we decided to make a clean start with a fresh repository, a fresh history and a fresh changelog. The old repository would be archived so that our developers could always refer back to it if necessary."
+        },
+        {
+            "heading": 2,
+            "text": "Preparing the new open source repository"
+        },
+        {
+            "text": "The exciting part! The whole team got together on a call to set up the new GitHub repository. First, we created an empty repository with an MIT licence, as recommended in The MHCLG Way."
+        },
+        {
+            "text": "Before we moved over any code, we needed to 'harden' the GitHub repository settings to ensure our code and our deployments remain secure. This was very important, as we use GitHub to deploy our code to our project\u2019s cloud hosting provider, AWS. We wanted to reduce the risk of compromising this connection to our live environment as much as possible."
+        },
+        {
+            "text": "We did the following:"
+        },
+        {
+            "text": "As well as preparing the repository, we also prepared our engineering team. We have updated our internal team manual with guidance on coding in the open, including also useful reminders such as the importance of following the Civil Service Code when writing commit messages, comments and pull requests."
+        },
+        {
+            "text": "Once we were happy with the configuration of the repository, we were ready to move the code. This was as simple as checking out the new repository locally, then copying over the files we wanted to keep from the old repository, to start a fresh git history."
+        },
+        {
+            "text": "Some other small tasks were needed to hook up the new repository to our deployment pipeline. We adjusted our AWS/GitHub OpenIDConnect policy to allow the new repository to connect to AWS and copied over the necessary environment variables and secrets to the new repository."
+        },
+        {
+            "text": "We also added a link to MHCLG\u2019s vulnerability reporting route so that friendly security researchers can disclose issues to us in a safe way."
+        },
+        {
+            "heading": 2,
+            "text": "Ironing out teething problems"
+        },
+        {
+            "text": "After we moved over to the new public repository, there were some minor teething problems."
+        },
+        {
+            "text": "Some of our GitHub 'actions' workflows relied on the result of a previous run. These failed when we first moved over to the new repository, as there was no 'previous' run to compare with. We had to force-merge the initial pull request, in order to bypass one of these failed checks. We also had to manually create our first 'release', which is normally an automated process."
+        },
+        {
+            "text": "Our automated security tool automatically flagged up an issue with one of our dependencies \u2013 not a security issue (which would have been detected previously), but a licensing issue. The dependency used a GPL (GNU General Public Licence) restricted licence, instead of a permissive licence like MIT. Imagine a friend let you borrow an item \u2013 would you then be allowed to lend that item to someone else without permission? After reviewing the licence terms, we determined this specific instance was OK, as the dependency was only used internally, for code linting \u2013 that is, we wouldn\u2019t be lending it to anyone else!"
+        },
+        {
+            "text": "Public GitHub repositories have had some unexpected advantages for our team:"
+        },
+        {
+            "heading": 2,
+            "text": "What's next"
+        },
+        {
+            "text": "Overall, the switch went smoothly for our developer team. The new repository served as a good opportunity to make sure everyone had their pre-commit hooks set up correctly, and an up-to-date local environment."
+        },
+        {
+            "text": "The Homes for Ukraine Digital team hope to open up more of our private repositories in the future."
+        },
+        {
+            "text": "If you work in the public sector and are interested in open-sourcing your repository, feel free to get in touch if you have any questions."
+        },
+        {
+            "text": "You can view our shiny new GitHub repository here."
+        }
+    ]
+}
