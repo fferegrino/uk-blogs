@@ -1,0 +1,105 @@
+{
+    "url": "https://defencedigital.blog.gov.uk/2026/09/24/building-cyber-resilience-in-the-uk-one-step-at-a-time-a-spotlight-on-a-defence-cyber-certification-certifying-body/",
+    "title": "Building cyber resilience in the UK one step at a time: a spotlight on a Defence Cyber Certification Certifying Body\u00a0",
+    "authors": [
+        "Defence Cyber Certification (DCC)"
+    ],
+    "categories": [
+        "Cyber",
+        "Cyber Defence"
+    ],
+    "pub_date": "2026-09-24T09:00:00+01:00",
+    "content": [
+        {
+            "text": "The Ministry of Defence have asked all industry partners to achieve Level 0 of the Defence Cyber Certification (DCC) by 31st December 2026, which includes a requirement for obtaining Cyber Essentials for all applicable business-critical systems within scope.\u00a0\u00a0"
+        },
+        {
+            "text": "The cyber landscape is rapidly changing, and supply chain security has never been more important. The recently announced Cyber Resilience Pledge and the forthcoming National Cyber Action Plan (NCAP) and Cyber Security and Resilience Bill (CSRB) are asking all organisations to reassess their cyber resilience and harden their critical supply chains. The DCC is the next step to a more secure defence industry. The UK needs to ensure that Defence and its partners are protected.\u00a0"
+        },
+        {
+            "text": "To support this transition, suppliers must be encouraged to work towards this objective and to ensure that any subcontractor timescales are set appropriately, where higher levels of certification are required at lower tiers in the supply chain.\u00a0"
+        },
+        {
+            "text": "The Ministry of Defence would like to give a spotlight to RightCue, a Certifying Body for IASME, who are helping organisations to achieve DCC.\u00a0"
+        },
+        {
+            "text": "RightCue's biggest achievement is delivering the very first Level 1 certification.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "RightCue's Founder, Yogesh Agarwal, talks through his experience of becoming a Certifying Body for the DCC."
+        },
+        {
+            "text": "Our decision was driven by both the needs of our clients and a commitment to strengthening cyber resilience across the UK's defence supply chain. Having supported defence suppliers with Cyber Essentials, Cyber Essentials Plus and DCPP requirements for many years, we saw organisations seeking guidance when the MOD introduced DCC Levels 0 to 3.\u00a0"
+        },
+        {
+            "text": "The transition from CSMv3 to CSMv4 aligned closely with our expertise, with the focus expanding beyond protecting MOD Identifiable Information to improving organisational security, resilience, governance and risk management.\u00a0"
+        },
+        {
+            "text": "We were also involved in developing the DCC scheme alongside IASME, helping to ensure the controls and guidance reflected the practical challenges faced by defence suppliers. As an NCSC Assured Cyber Security Consultancy and Assured Service Provider, CREST accredited, ISO 27001 certified becoming a Certifying Body was a natural next step.\u00a0"
+        },
+        {
+            "text": "It enables us to help organisations strengthen their cyber resilience, meet defence sector requirements and contribute to the wider goal of protecting Defence, its supply chains and ultimately the UK's national security in an increasingly challenging cyber landscape."
+        },
+        {
+            "text": "The first step is becoming an IASME Cyber Essentials Certification Body. The organisation and its assessors must be based in the UK or Crown Dependencies. Assessors must meet IASME's qualification requirements and complete DCC training and assessments for the levels they wish to deliver. The training covers Def Stan 05-138 Issue 4 and focuses heavily on assessment scoping, which is one of the most important aspects of the certification process."
+        },
+        {
+            "text": "Once approved, IASME licenses and publishes the organisation as a Certifying Body for the levels it is qualified to assess.\u00a0"
+        },
+        {
+            "text": "RightCue qualified across all four DCC levels."
+        },
+        {
+            "text": "While the process is accessible to organisations of different sizes, success depends on having assessors who can apply the standard consistently and make evidence-based decisions with confidence."
+        },
+        {
+            "text": "Although Level 0 contains only three controls, preparation can take longer than many organisations expect because Cyber Essentials is a prerequisite. The starting point should be ensuring Cyber Essentials is in place and that its scope aligns with the intended DCC scope. In our experience, scoping is the single biggest challenge for applicants and the most common cause of delays."
+        },
+        {
+            "text": "Organisations should clearly identify the systems, processes and business functions that are essential for the organisation to operate securely and resiliently, not just those directly supporting MOD-related activities. This includes understanding where data is stored, who is responsible for managing key assets, and ensuring all critical business systems are considered within scope. Completing this exercise early makes the assessment process significantly smoother."
+        },
+        {
+            "text": "We also recommend making use of the free guidance available from IASME. There is a wealth of information available to help organisations understand the requirements, define an appropriate scope, and prepare effectively before engaging a Certifying Body"
+        },
+        {
+            "text": "Most importantly, start early. With the MOD's Level 0 deadline approaching, organisations that leave preparation until the final months may struggle to secure assessment capacity and complete any remediation work required."
+        },
+        {
+            "text": "Not necessarily. DCC is a risk-based framework and organisations should focus on achieving the level required by their contract and cyber risk profile.\u00a0"
+        },
+        {
+            "text": "There is a significant difference in effort between the certification levels, with higher levels requiring greater maturity, more evidence and additional assurance activities. While Level 3 demonstrates a high degree of cyber resilience, it may not represent the best investment for every organisation."
+        },
+        {
+            "text": "We encourage businesses to view their assigned DCC level as a minimum requirement. If future contracts are likely to require higher levels, then building towards them through a planned security roadmap makes sense."
+        },
+        {
+            "text": "The ultimate objective should be improving security and resilience, not simply obtaining the highest certification level available."
+        },
+        {
+            "text": "Start with your assessors. DCC assessments require expertise in governance, risk management and organisational resilience as well as technical cyber security controls. It is also important to be realistic about which certification levels your organisation can support. Levels 1 to 3 are significantly more demanding than Level 0 and require greater assessor capacity, more evidence review and, in some cases, site visits and security-cleared personnel."
+        },
+        {
+            "text": "Consistency is equally important. As a relatively new scheme, DCC relies on suppliers receiving the same outcome regardless of which Certifying Body conducts the assessment. Maintaining that consistency is critical to the credibility of the scheme."
+        },
+        {
+            "text": "Finally, engage with industry. Building relationships with organisations, trade bodies and suppliers helps develop trust and provides valuable insight into the challenges facing the defence supply chain."
+        },
+        {
+            "text": "One of our proudest achievements was delivering the UK's first DCC Level 1 certification. It demonstrated both our preparedness for the scheme and our ability to assess organisations against the more demanding certification levels."
+        },
+        {
+            "text": "However, some of our most impactful work happens before an assessment even begins. We regularly help organisations identify and correct scoping issues that would otherwise result in delays, additional costs or failed assessments."
+        },
+        {
+            "text": "We are particularly proud of the support we provide to SMEs. Many smaller suppliers start with limited cyber security resources and little experience of assurance frameworks. Helping them achieve certification and improve their cyber resilience is one of the most rewarding aspects of our work."
+        },
+        {
+            "text": "Ultimately, our biggest success is making DCC practical and achievable for organisations across the defence supply chain, regardless of their size or level of cyber maturity."
+        },
+        {
+            "text": "We will be sharing more of these DCC stories as the deadline approaches.\u00a0"
+        }
+    ]
+}
