@@ -1,0 +1,59 @@
+{
+    "url": "https://companieshouse.blog.gov.uk/2026/09/25/understanding-digital-accounts-filing-for-overseas-companies/",
+    "title": "Understanding digital accounts filing for overseas companies",
+    "authors": [
+        "Sarah Brazier - Accounts Service Owner"
+    ],
+    "categories": [
+        "Changes to UK company law",
+        "Digital transformation"
+    ],
+    "pub_date": "2026-09-25T11:08:51+01:00",
+    "content": [
+        {
+            "text": "From 1 April 2028, all UK registered companies will need to file their accounts in Inline eXtensible Business Reporting Language (iXBRL) format using commercial software. This change applies whether you file your own accounts as a company director or use a third party agent, or accountant, to do so on your behalf."
+        },
+        {
+            "text": "This change will enable more efficient and secure filings. It marks a significant step towards improving the quality of data on the register. This is an important part of the wider Companies House reform programme. As we move towards this change, we\u2019ve been making improvements to the ways overseas companies file their accounts with us."
+        },
+        {
+            "text": "Until recently, multiple component submissions (also known as package accounts) could only be filed on paper at Companies House. As part of our digital transformation, we launched a new accounts upload service to allow these packages to be filed digitally. The service went live on 22 January 2025 for United Kingdom Single Electronic Format (UKSEF) accounts and in April 2025 for all other accounts, except overseas."
+        },
+        {
+            "heading": 2,
+            "text": "Filing package accounts"
+        },
+        {
+            "text": "We\u2019ve since developed the service to allow overseas company accounts submissions. You can now use the service to file package accounts for:"
+        },
+        {
+            "heading": 2,
+            "text": "How the digital filing process works"
+        },
+        {
+            "text": "When filing overseas accounts digitally with Companies House, you must first prepare your accounts and any applicable forms using commercial software. Once complete, download your accounts from the software as a ZIP file and submit directly through the Companies House package accounts service."
+        },
+        {
+            "text": "While you might be familiar with the \u2018ZIP file\u2019 term, this service will only accept ZIP files made using commercial software. This is because the underlying data within a set of accounts needs to be tagged using iXBRL."
+        },
+        {
+            "text": "This is a worldwide technical standard that combines HTML with machine-readable XBRL tags. It allows the same document to be read by both humans and machines. We will then receive the full package of documents, ready for processing."
+        },
+        {
+            "text": "Once your submission has been received, you will get a confirmation email from Companies House. You should keep this for your records. If there\u2019s an issue with your submission \u2013 for example, if the file contains an error \u2013 you will be notified and given the opportunity to resubmit. If you're not sure whether your submission has been processed successfully, you can check the status of your filing through your Companies House account."
+        },
+        {
+            "text": "Most commercial software handles the majority of the tagging automatically. But, you will need to review and make sure the tags are correct. If you do not already use tagging functionality, we recommend you fully understand your software's tagging features on test accounts. Do this well before the mandation deadline to build familiarity with the process."
+        },
+        {
+            "heading": 2,
+            "text": "More information"
+        },
+        {
+            "text": "The digitisation of our accounts filing represents more than just a technological upgrade. It\u2019s a fundamental shift in how we approach corporate transparency and accountability. "
+        },
+        {
+            "text": "By mandating more structured, validated and machine-readable financial data, we\u2019re creating a stronger defence against those who use corporate structures to hide illicit activity."
+        }
+    ]
+}
