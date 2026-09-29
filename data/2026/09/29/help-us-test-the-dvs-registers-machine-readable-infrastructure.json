@@ -1,0 +1,274 @@
+{
+    "url": "https://enablingdigitalidentity.blog.gov.uk/2026/09/29/help-us-test-the-dvs-registers-machine-readable-infrastructure/",
+    "title": "Help us test the DVS register\u2019s machine-readable infrastructure\u00a0",
+    "authors": [
+        "Aniqa"
+    ],
+    "categories": [
+        "OfDIA team"
+    ],
+    "pub_date": "2026-09-29T17:02:50+01:00",
+    "content": [
+        {
+            "text": "The Office for Digital Identities and Attributes (OfDIA) is inviting digital verification service providers (DVSPs) to help test new infrastructure that will make the\u00a0digital verification services (DVS) register machine-readable.\u00a0\u00a0"
+        },
+        {
+            "text": "As the DVS market grows, it will become\u00a0increasingly important for organisations\u00a0to check that the services they use, rely on or connect with\u00a0are on the register. Machine-readable infrastructure will make it easier to check the register securely and at scale.\u00a0"
+        },
+        {
+            "text": "Technical testing will cover two models. The API model supports secure data exchange through direct connections between services, relying parties and public authorities. The credential model supports the verification of credentials presented through digital wallets. This post explains how each model works.\u00a0"
+        },
+        {
+            "text": "You can find more detailed documentation about technical integration\u00a0on GitHub.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the two technical models work\u00a0"
+        },
+        {
+            "text": "When organisations check the status of a service on the DVS register, the technical model they use will depend on the type of transaction taking place. We are building two models to support different transaction types.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "API model: establishing direct connections between services\u00a0"
+        },
+        {
+            "text": "The API model supports transactions where one service connects directly to another service or organisation. For example, a DVSP might ask a public authority, such as DVLA, to validate an individual\u2019s data. Before sharing data, the public authority needs to check that the service trying to connect is registered. X.509 certificates and the OpenID Federation specification will enable this.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Credential model: verifying issuers, verifiers and credentials\u00a0\u00a0"
+        },
+        {
+            "text": "The credential model supports transactions where an individual presents a credential from a digital wallet. For example, a customer might need to prove their age at a supermarket checkout. Before sharing the credential, the wallet needs to confirm that the reader service is a registered verifier. The reader service also needs to confirm that the credential came from a registered issuer. Two signed lists, called a VICAL (Verifier Identity Certificate Authority List) and a RICAL (Reader Identity Certificate Authority List), will\u00a0enable this.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Using the new infrastructure "
+        },
+        {
+            "heading": 3,
+            "text": "Set up your service through the DVSP Portal\u00a0\u00a0"
+        },
+        {
+            "text": "To support both models, we are developing a DVSP Portal. DVSPs will gain access to the portal when they join the DVS register. DVSPs that are already registered will receive instructions to create an account when the service is launched. \u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Submit information through the DVSP Portal\u00a0\u00a0"
+        },
+        {
+            "text": "When a DVSP joins the register, they will use the portal to submit and manage information about their services. This includes technical information that will allow them to generate transport certificates and entity configurations.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Generate transport certificates\u00a0"
+        },
+        {
+            "text": "Under the API model, each participating DVSP will generate\u00a0its own transport certificate bound to its identity. The DVSP will generate a key pair for each registered service and submit a certificate signing request to OfDIA via the DVSP Portal. The private key will remain under its control. \u00a0"
+        },
+        {
+            "text": "An appointed certificate authority will issue the certificate, and the certificate will chain back to an OfDIA root certificate authority. This creates a trust chain, so that when a DVSP presents a certificate, it can be\u00a0traced back to OfDIA.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Create and publish entity configurations\u00a0"
+        },
+        {
+            "text": "Each service has\u00a0an entity identifier.\u00a0This is used to identify the service within the federation. The DVSP will publish a statement called an entity configuration\u00a0at a standard location under this entity identifier. \u00a0"
+        },
+        {
+            "text": "The entity configuration is a self-signed JSON Web Token (JWT), which contains metadata about the service, the public keys for verifying federation statements, and authority_hints pointing to OfDIA. It can also carry separately signed OpenID Federation trust marks attesting certification details. These are machine-readable assertions, separate to the UK CertifID trust mark.\u00a0"
+        },
+        {
+            "text": "Separately, OfDIA will publish a signed subordinate statement binding the service\u2019s entity identifier to its federation keys and applying the relevant metadata or policy. \u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the API model establishes trust\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Check that a service is registered\u00a0"
+        },
+        {
+            "text": "Before relying on\u00a0a service, an organisation may want to check that it is on the DVS register. To do this under the API model, an organisation can:\u00a0\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "1. Check the certificate using mTLS\u00a0"
+        },
+        {
+            "text": "An organisation may use\u00a0mutual TLS (mTLS) to check certificates. During the handshake, the DVSP\u00a0presents its transport certificate and proves possession of the matching private key.\u00a0This establishes a protected connection. \u00a0"
+        },
+        {
+            "text": "The organisation receiving the connection checks that the certificate chains back to the OfDIA root certificate authority. It also checks that the certificate is within its validity period and has not been revoked.\u00a0"
+        },
+        {
+            "text": "OfDIA only issues transport certificates to registered services. Therefore, a valid transport certificate confirms that a service is on the DVS register. However, it does not confirm what the service is certified to do."
+        },
+        {
+            "heading": 6,
+            "text": "2. Check the client identity\u00a0"
+        },
+        {
+            "text": "An organisation or DVSP can check client identity\u00a0in two ways. They can use tls_client_auth, where a service proves its identity using a trusted certificate during the mutual TLS (mTLS) connection. Or they can use private_key_jwt, where it proves its identity by signing a JWT using a trusted private key.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Check what a service is certified to do\u00a0"
+        },
+        {
+            "text": "Before relying on a service, an organisation may want to check its role types, GPG 44/45 profiles, and supplementary codes to confirm what it is certified to do. To do this under the API model,\u00a0an organisation can:\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "1. Fetch the entity configuration\u00a0"
+        },
+        {
+            "text": "The organisation finds the service\u2019s entity identifier.\u00a0It then fetches the service\u2019s entity configuration from the standard location. The authority_hints value in the entity configuration points to OfDIA.\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "2. Fetch the subordinate statement\u00a0"
+        },
+        {
+            "text": "The service\u2019s entity configuration points to OfDIA\u2019s\u00a0fetch endpoint. The organisation will use the fetch endpoint to obtain the\u00a0service\u2019s subordinate statement. "
+        },
+        {
+            "heading": 6,
+            "text": "3. Validate the trust chain"
+        },
+        {
+            "text": "An organisation will validate the complete trust chain using OpenID Federation rules. It will:\u00a0"
+        },
+        {
+            "text": "A service will not be trusted if the chain fails the required validation.\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "4. Resolve the metadata and trust marks "
+        },
+        {
+            "text": "OfDIA will also provide a resolve endpoint. The resolve endpoint will validate the trust chain and return\u00a0information about the DVSP including its metadata and trust marks. \u00a0"
+        },
+        {
+            "text": "The organisation applies the metadata and metadata policies from OfDIA\u2019s subordinate statement to the metadata in the service\u2019s entity configuration.\u00a0"
+        },
+        {
+            "text": "The resolved metadata reflects the service\u2019s certification details on the DVS register. This confirms the service\u2019s role types, GPG 44/45 profiles and supplementary codes. The service cannot claim certification details that OfDIA does not hold for it on the DVS register.\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "5. Check it is the same service"
+        },
+        {
+            "text": "The organisation checks that the resolved metadata belongs to the same service that presented the transport certificate.\u00a0\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "6. Decide whether to exchange information"
+        },
+        {
+            "text": "The organisation checks that the service\u2019s certification details meet its own authorisation requirements for the transaction. If they do, the two services can exchange information over the mTLS connection.\u00a0"
+        },
+        {
+            "text": "Removing a service\u00a0"
+        },
+        {
+            "text": "Validated information can be cached to enable offline transactions and to\u00a0avoid a central register lookup during every transaction. However, cached chains are usable only within their validity period and the profile\u2019s refresh limits. \u00a0"
+        },
+        {
+            "text": "If a service is removed from the register, OfDIA will revoke its transport certificate and stop publishing subordinate statements about it. The removal takes effect when the organisation revalidates the trust chain and trust evidence, or when its cached statements expire, whichever happens first.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "How the credential model establishes trust \u00a0"
+        },
+        {
+            "text": "Before accepting credentials, an organisation may want to verify that the parties involved in a transaction can be trusted. In the credential model, trust is established using two signed lists, both defined in the international standard ISO/IEC 18013-5:\u00a0"
+        },
+        {
+            "text": "A VICAL lets a verifier, such as an orchestration service provider, check that a credential was issued by a registered issuer, such as an attribute service provider. A RICAL lets a wallet, such as a holder service provider, check that a verifier is registered before sharing data. Both lists are published by OfDIA. \u00a0"
+        },
+        {
+            "text": "Under the credential model, an organisation can:\u00a0\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "1. Obtain the VICAL and RICAL\u00a0"
+        },
+        {
+            "text": "OfDIA publishes the VICAL and RICAL at an OfDIA URL. Each list includes information such as when it was issued and when it will next be updated.\u00a0\u00a0"
+        },
+        {
+            "text": "Verifiers obtain the VICAL and wallets obtain\u00a0the RICAL. They check the list\u2019s signature and cache the list until its next update.\u00a0\u00a0"
+        },
+        {
+            "text": "OfDIA will specify how long wallets and verifiers can use a list after its update date. This stops a device which has been offline from trusting an old list.\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "2. Present a credential\u00a0"
+        },
+        {
+            "text": "Individuals can store digital credentials in wallets. To\u00a0initiate device connection\u00a0in person, an individual could show a QR code from their wallet or tap their phone to the verifier\u2019s NFC reader. The wallet and the verifier then establish session keys\u00a0and an encrypted channel.\u00a0\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "3. Validate the verifier using the RICAL\u00a0"
+        },
+        {
+            "text": "The verifier sends a request for the data it needs. The request is signed with the verifier\u2019s private key and includes its certificate chain.\u00a0\u00a0"
+        },
+        {
+            "text": "Before releasing any information, the wallet:\u00a0"
+        },
+        {
+            "text": "If the verifier passes these checks, the transaction continues. \u00a0"
+        },
+        {
+            "text": "The wallet may seek approval from the individual to share data with the verifier. \u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "4. Validate the issuer and the credential using the VICAL\u00a0"
+        },
+        {
+            "text": "If the individual agrees, the wallet sends the data they have approved. This includes data signed by the issuer, and the issuer\u2019s document signer certificate.\u00a0"
+        },
+        {
+            "text": "The verifier then:\u00a0"
+        },
+        {
+            "heading": 6,
+            "text": "5. Accept or reject the credential\u00a0\u00a0"
+        },
+        {
+            "text": "The verifier accepts the credential only if all checks pass.\u00a0\u00a0"
+        },
+        {
+            "text": "Removing an issuer or verifier\u00a0"
+        },
+        {
+            "text": "If an issuer or verifier is removed from the register, OfDIA will remove its root certificate from the next version of the VICAL or RICAL. The change takes effect when wallets and verifiers obtain\u00a0the updated list.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Next Steps\u00a0"
+        },
+        {
+            "text": "In October 2026, we will be testing our machine-readable infrastructure onboarding process and starting to run interviews with DVSPs to understand readiness for integration testing.\u00a0\u00a0"
+        },
+        {
+            "text": "We have\u00a0also published the technical document for machine-readable infrastructure integration on GitHub. We will begin testing both technical models later this year.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Take part in testing\u00a0\u00a0"
+        },
+        {
+            "text": "We need DVSPs to help us test the onboarding process and both technical models. To take part, email us digital.identity.register@dsit.gov.uk.\u00a0\u00a0"
+        }
+    ]
+}

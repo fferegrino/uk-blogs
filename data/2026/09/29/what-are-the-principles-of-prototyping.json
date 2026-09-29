@@ -1,0 +1,109 @@
+{
+    "url": "https://designnotes.blog.gov.uk/2026/09/29/what-are-the-principles-of-prototyping/",
+    "title": "What are the principles of prototyping?",
+    "authors": [
+        "Charlie Fountaine \u2013 Service Designer, GOV.UK Publishing Team, GDS"
+    ],
+    "categories": [
+        "Community",
+        "Design"
+    ],
+    "pub_date": "2026-09-29T09:00:00+01:00",
+    "content": [
+        {
+            "text": "A prototype is a way to learn something before making a bigger commitment. When designing services, many of the things we need to test are intangible: policies, processes, conversations, operating models. A prototype can go beyond the screen - we can prototype with an email, text message, or an event."
+        },
+        {
+            "text": "The GOV.UK Service Manual outlines: \u2018You must make prototypes of your service to explore, share and test different designs before you commit to building anything. You can quickly make and test multiple prototypes and discard the ones that do not test well. You should use the prototype that best meets your needs at the time.\u2019"
+        },
+        {
+            "text": "Digital prototyping tools have become more accessible. New AI-assisted tools may also help teams explore and visualise ideas more quickly. But while the tools have changed, the purpose and principles of prototyping have not.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "A prototype can be anything"
+        },
+        {
+            "text": "As long as a person uses it, and we learn something.\u00a0"
+        },
+        {
+            "text": "We need shared principles that help teams focus on finding out what they need to know in order to move forward. Prototyping is about learning rather than producing artefacts.\u00a0"
+        },
+        {
+            "text": "At Services Week 2026, we hosted an interactive session on the \u2018Principles of Prototyping\u2019. Rather than presenting a finished set of principles, we shared a draft list of principles and invited people from across government to test, critique and improve it. Thank you to the 124 people who contributed. The 9 principles below are the result of that session."
+        },
+        {
+            "heading": 2,
+            "text": "9 Principles of prototyping"
+        },
+        {
+            "heading": 3,
+            "text": "1. A prototype answers a question."
+        },
+        {
+            "text": "Before creating a prototype, think about the questions you need to answer to make a decision and move forward. To develop these questions, you could involve a designer, a user researcher, a product manager and other members of the team.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "2. A prototype is only as detailed as we need to answer our question."
+        },
+        {
+            "text": "If we know the research question we are trying to answer, we can create a prototype that helps us answer that question. The prototype does not necessarily need to be complex to answer a simple question. This is particularly true in the early stages of developing a service.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "3. A prototype can be any format."
+        },
+        {
+            "text": "A prototype does not always have to be digital. A prototype can be a blog post, or a word document that people use and give feedback on.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "4. A prototype is tested with people who will use the service."
+        },
+        {
+            "text": "A prototype is tested with the people who are going to use the future service; that\u2019s how we learn. We can find ways to meet these people where they are."
+        },
+        {
+            "text": "At NHS Digital, Rhiannon Smith, Content Designer for NHS.UK worked on making content about skin symptoms more inclusive. Before the improvements, skin symptoms were mostly described in terms of how they appear on white skin. The team improved the content and tested it with the people who use the website to get their feedback. You can read more about this case study on the NHS Digital blog.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "5. A prototype is accessible."
+        },
+        {
+            "text": "A prototype should be accessible. If we use an event as a prototype for a service we are developing, the event should be held in a venue that is accessible for all, particularly for the users that will be accessing the service. If we use an email as a way of prototyping a bit of communication around a service, that email should be written in a way that everyone can understand.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "6. A prototype involves team collaboration."
+        },
+        {
+            "text": "Prototyping is not only the domain of interaction designers and service designers. It also involves user researchers, product managers and policy experts. A policy expert could prototype a piece of policy and then show it to the people who would be affected by that policy for feedback. Or a designer could create a prototype with input from lots of colleagues about what they need to find out.\u00a0"
+        },
+        {
+            "text": "An example of this is the multidisciplinary team from Camden Council who formed to redesign debt support in Camden. The team included a service designer, design researcher, officers, money and debt advisors, and policy experts. You can read more about this case study on the Change by Design blog."
+        },
+        {
+            "heading": 3,
+            "text": "7. A prototype reduces the risk of delivering something that is not needed."
+        },
+        {
+            "text": "The intention of prototyping is to understand if something is needed, create a service that works for people, and to learn about risks early. If a prototype causes an unintended consequence, it\u2019s useful to know that early in the process rather than finding out when something is fully live. It's also useful to understand people\u2019s reactions to a prototype to understand if it meets their needs. The service may need to change to meet people's needs.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "8. A prototype should be changed."
+        },
+        {
+            "text": "As we learn from the prototyping process and get feedback from people, we should change and iterate the prototype. A prototype is not intended as a finished artefact. The change can be small, such as revising the wording to make something clearer. Or it can be big, for instance by providing a piece of information via email as well as text message so that people can understand it better.\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "9. A prototype can be archived."
+        },
+        {
+            "text": "Sometimes a prototype leads to a change in a live service. Sometimes a prototype leads to a completely new service or policy being developed. Or we learn that the prototype does not achieve goals the team is trying to achieve. If this happens, it\u2019s good to share the knowledge with people, write down why the prototype is not being taken forward, and don\u2019t be afraid to archive it."
+        }
+    ]
+}
