@@ -1,0 +1,64 @@
+{
+    "url": "https://mhclgdigital.blog.gov.uk/2026/10/06/a-faster-start-to-local-plan-making-introducing-the-submit-a-site-for-a-local-plan-tool/",
+    "title": "A faster start to local plan-making: introducing the 'Submit a site for a local plan' tool",
+    "authors": [
+        "The Digital Planning team"
+    ],
+    "categories": [
+        "Digital Planning",
+        "PropTech"
+    ],
+    "pub_date": "2026-10-06T09:58:12+01:00",
+    "content": [
+        {
+            "text": "Before any new home is built, a suitable site has to be identified. Developers, landowners and members of the public can put forward sites through a call for sites process, carried out by every local planning authority (LPA). Planning officers then assess the sites against a number of measures and the successful ones are put forward as allocations for development in the area's local plan."
+        },
+        {
+            "text": "Right now the call for sites process is slow and inconsistent. Councils build their own web forms or wade through email submissions with reams of attachments, alongside static maps and spreadsheets. Every authority does it differently and that costs everyone time."
+        },
+        {
+            "text": "One planning officer told us: "
+        },
+        {
+            "text": "During our research, we have heard versions of this story over and over again. This is the problem we want to solve and design out of the system."
+        },
+        {
+            "text": "We want local plans to be faster to produce, and to cover more of the country, so that decisions about housing and development can be made locally, and so communities get the homes and infrastructure they need sooner."
+        },
+        {
+            "text": "The new local plans system is now live, and we're continuing to test and learn where digital approaches can speed things up, helping LPAs prepare and adopt a local plan within 30 months. We've been exploring where the local plan process takes the most time, and where digital approaches could help. Site identification kept coming up as one of the earliest, most repeated steps in need of standardisation, which made it a natural place to focus our efforts. The lessons we learn here will also help us increase our understanding of how digital approaches could support other parts of the plan-making process."
+        },
+        {
+            "text": "The 'Submit a site for a local plan' is the latest tool, and we're keen to start testing it with LPAs on the real call for sites procedure for their next local plan."
+        },
+        {
+            "heading": 2,
+            "text": "What the tool is"
+        },
+        {
+            "text": "The 'Submit a site for a local plan' tool will be a free, standardised online form that lets anyone \u2013 a landowner, developer, agent or member of the public \u2013 put forward a site, and submit it straight to their LPA in a consistent format. The tool will gather information on the site, its constraints and its potential for development. Submitters will be able to draw the site boundary directly on a map, with no GIS software needed. LPAs will be able to receive the information ready to use, with boundaries automatically converted into mapping data, and no manual re-entry required."
+        },
+        {
+            "text": "The tool builds on national guidance, published last year, on selecting, identifying and assessing sites for local plans. The guidance tells LPAs what to collect but it doesn't give them a consistent way to collect it. This tool seeks to standardise how site information is gathered. LPAs will still decide which sites are suitable and appropriate for their area using a variety of tools and processes to make assessments. What changes is how much time and effort they spend to get the site information in front of them in a usable form, so that they can make their assessments faster."
+        },
+        {
+            "text": "The tool doesn't replace the commercial digital tools some councils already use to help with their call for sites process, such as site assessment or viability analysis. It simply makes sure the site information being captured at the start is consistent. The ambition is that by capturing this information consistently at this point, it should make it easier for councils and the property technology industry to bring forward commercial tools to use and build on this baseline."
+        },
+        {
+            "text": "You can read more about how councils are already using digital tools for site identification and assessment in our guidance and case studies."
+        },
+        {
+            "heading": 2,
+            "text": "Help us test it"
+        },
+        {
+            "text": "We have built this tool, based on research and interviews with people involved in all aspects of the site identification process. We're now looking for a small group of LPAs to help us test and embed it further."
+        },
+        {
+            "text": "If your LPA is planning to launch a call for sites round in the next 3-6 months, you could help shape a tool that aims to save your team and the people submitting sites to you, a significant amount of time, working and learning alongside our team at the Ministry of Housing, Communities and Local Government."
+        },
+        {
+            "text": "If you have any questions or are interested in getting involved, contact planmakingteam@communities.gov.uk."
+        }
+    ]
+}
