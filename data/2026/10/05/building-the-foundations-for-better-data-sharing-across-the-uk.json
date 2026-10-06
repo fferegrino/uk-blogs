@@ -1,0 +1,114 @@
+{
+    "url": "https://gds.blog.gov.uk/2026/10/05/building-the-foundations-for-better-data-sharing-across-the-uk/",
+    "title": "Building the foundations for better data sharing across the UK\u00a0",
+    "authors": [
+        "Lucy Hutchinson, Senior Policy Adviser, Data Sharing Infrastructure Initiatives"
+    ],
+    "categories": [
+        "Data"
+    ],
+    "pub_date": "2026-10-05T12:06:10+01:00",
+    "content": [
+        {
+            "text": "Businesses rely on data to make informed decisions, but the data they need is often spread across different organisations, systems and sectors. Finding and accessing the right data can be difficult, and differences in systems, standards and rules can make sharing it slow, complex and expensive.\u00a0\u00a0"
+        },
+        {
+            "text": "At the same time, businesses, public services and communities generate huge amounts of data every day. Making that data easier to find, access and use could help organisations improve services, optimise assets and systems, develop new products and services and identify opportunities for growth and investment. It could also support wider adoption of AI by helping organisations access and use trusted, high-quality data more effectively.\u00a0"
+        },
+        {
+            "text": "That is why the government is investing \u00a312 million in Data Sharing Infrastructure Initiatives (DSII) to help businesses access, manage and share data more effectively. Over the next three years, the programme will work with businesses and sectors to identify barriers to data sharing and develop practical approaches that can be used across the economy. As a first step in this wider programme, GDS is supporting the National Digital Twin Programme (NDTP), which has been developing the foundations needed for secure, trusted data sharing across organisational boundaries.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Why business data sharing matters\u00a0\u00a0"
+        },
+        {
+            "text": "Many of the challenges facing the UK today cut cross organisational and sector boundaries. Analysis suggests that 85% of the productivity potential associated with better use of data comes from stronger data maturity in businesses, highlighting the importance of helping the private sector make more effective use of its data.\u00a0\u00a0"
+        },
+        {
+            "text": "Whether improving transport networks, delivering a cleaner energy system or supporting local growth, organisations increasingly need access to information held by others.\u00a0"
+        },
+        {
+            "text": "Transport operators need information from infrastructure owners. Energy companies need information from local authorities and network operators. Businesses often rely on information from suppliers, customers and suppliers. Yet organisations are frequently required to establish bespoke arrangements every time they want to share data, creating additional cost and complexity.\u00a0"
+        },
+        {
+            "text": "When organisations cannot easily work with data from different sources, opportunities can be missed. Services become less efficient, investment decisions become harder, and organisations spend time duplicating work that has already been done elsewhere. Better approaches to sharing data can help organisations collaborate more effectively and unlock greater value from information that already exists.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is the National Digital Twin Programme?\u00a0\u00a0"
+        },
+        {
+            "text": "The National Digital Twin Programme (NDTP) is a government-led initiative to grow the UK's capability in digital twinning technologies.\u00a0"
+        },
+        {
+            "text": "The programme recognises that digital twins can only succeed if organisations of all sizes can securely access, share and use data across organisational boundaries. This capability is also increasingly important for organisations looking to adopt AI and other data-driven technologies\u00a0"
+        },
+        {
+            "text": "To support this, the NDTP has spent the last four years developing an open-source, Crown-IP data sharing infrastructure known as the National Node Net.\u00a0\u00a0\u00a0"
+        },
+        {
+            "text": "Put simply, the National Node Net \u2013 a UK digital sovereign asset - helps organisations discover, govern, access and share data using common governance arrangements. Organisations can participate while maintaining their existing systems and data sources, rather than having to replace them. The infrastructure provides the technical and governance foundations needed to support data-sharing networks across organisational and sector boundaries.\u00a0"
+        },
+        {
+            "text": "Throughout its work, the Programme collaborates with partners across government, industry, and the wider public sector and to encourage join up, remove duplication, and drive activity to support economic growth.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What is GDS supporting?\u00a0"
+        },
+        {
+            "text": "As part of the government\u2019s Data Sharing Infrastructure Initiatives programme, DCMS is providing \u00a33.75m to support and accelerate the National Digital Twin Programme\u2019s work, pooling expertise and resources rather than duplicating effort elsewhere.\u00a0\u00a0"
+        },
+        {
+            "text": "The funding will support further development and practical testing of the National Node Net, including the technical standards and governance arrangements that help organisations share data securely and consistently. This will involve working with partners on real-world use cases and exploring how the infrastructure could support data sharing across a wider range of organisations, sectors and places.\u00a0"
+        },
+        {
+            "text": "By supporting this programme, we are building on work that is already being tested in real-world environments, including initiatives in the energy and transport sectors, helping to take proven approaches and explore how they can support wider data sharing across sectors and places.\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "What does this mean in practice?\u00a0\u00a0"
+        },
+        {
+            "text": "While much of this work happens behind the scenes, the benefits could be felt across many parts of the economy.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Helping businesses work together more easily\u00a0\u00a0"
+        },
+        {
+            "text": "Businesses often spend significant time and money exchanging information with suppliers, customers and partners. If organisations can share information more easily, they can reduce duplication, make faster decisions and develop new products and services that rely on data from multiple sources.\u00a0\u00a0"
+        },
+        {
+            "text": "For smaller businesses, common approaches to data sharing, such as that provided by NDTP, could lower the cost and complexity of joining data-sharing arrangements that might previously have only been practical for larger organisations.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Supporting the transition to cleaner energy\u00a0\u00a0"
+        },
+        {
+            "text": "NDTP's work on the National Node Net has already been adopted by the National Energy System Operator (NESO), which is also contributing to its development. The aim of this work is to enable better access to data to help organisations coordinate complex infrastructure and make smarter use of resources. In the future, this could contribute to more efficient energy networks, improved planning and better services for consumers.\u00a0\u00a0"
+        },
+        {
+            "heading": 3,
+            "text": "Improving local services and infrastructure\u00a0"
+        },
+        {
+            "text": "Local authorities, transport providers and infrastructure operators often hold information that becomes more valuable when combined. Making it easier to share data could help places understand local challenges more effectively, support economic growth and make better use of public and private investment. For example, the NDTP\u2019s work has explored how housing and energy performance data can be brought together to help identify homes that could benefit from energy efficiency improvements and assess their suitability for solar panels and heat pumps. This supports better local planning and more targeted funding decisions.\u00a0\u00a0"
+        },
+        {
+            "heading": 2,
+            "text": "Looking ahead\u00a0"
+        },
+        {
+            "text": "The UK has world-leading strengths in data, digital innovation and research. To realise the full benefit of those strengths, organisations need practical ways to work together across organisational and sector boundaries.\u00a0\u00a0"
+        },
+        {
+            "text": "By supporting the National Digital Twin Programme, we are investing in the foundations that can help organisations collaborate more effectively, unlock greater value from data and support innovation, growth and better services across the UK.\u00a0"
+        },
+        {
+            "text": "As this work develops, we want to hear from businesses, sectors and organisations across the UK about what makes data sharing work in practice, and where barriers remain. For more information, or to get involved in the development of this work, please contact the DSII team at DSII@DSIT.gov.uk.\u00a0"
+        }
+    ]
+}
