@@ -35,3 +35,12 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: python hub.py upload
+    # This job does not use dataset-sync's publish, so it pings the dead man's switch itself.
+    - uses: fferegrino/dataset-sync/ping@v1
+      with:
+        url: ${{ secrets.HEALTHCHECK_URL }}
+    - uses: fferegrino/dataset-sync/ping@v1
+      if: failure()
+      with:
+        url: ${{ secrets.HEALTHCHECK_URL }}
+        status: fail
