@@ -9,8 +9,9 @@ REQUEST_TIMEOUT_SECONDS = 60
 
 def get_scraped_urls():
     """Gets the urls of the posts already in the dataset"""
-    # The posts are the cursor, rather than a separate index file, so a copy fetched from Kaggle or Hugging Face is
-    # enough to resume. Urls are compared lowercased because the index sometimes changes the case of a blog's name.
+    # The posts are the cursor, rather than a separate index file. The workflow only fetches the last two months, which
+    # is enough because the crawl stops at the first index page with nothing new. Urls are compared lowercased because
+    # the index sometimes changes the case of a blog's name.
     scraped_urls = set()
     for path in Path("data").glob("*/*/*/*.json"):
         with open(path, encoding="utf8") as post:

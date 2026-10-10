@@ -31,6 +31,6 @@ There is one JSON file per post, `YYYY/MM/DD/slug.json`, dated by publication an
 
 When a blog is renamed its posts move to a new URL; the file keeps its path and its `url` is updated.
 
-Also available on [Kaggle](https://www.kaggle.com/datasets/ioexception/uk-government-blogs). The code that builds it lives at [fferegrino/uk-blogs](https://github.com/fferegrino/uk-blogs).
+Also available on [Kaggle](https://www.kaggle.com/datasets/ioexception/uk-government-blogs), updated weekly. The code that builds it lives at [fferegrino/uk-blogs](https://github.com/fferegrino/uk-blogs).
 
 The posts are Crown copyright, published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) except where otherwise stated.

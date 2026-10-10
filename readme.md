@@ -3,7 +3,7 @@ UK Blogs Web Scraper
 
 View the latest version of the repo here: [Latest version](https://github.com/fferegrino/uk-blogs)
 
-The data no longer lives in this repo: it is published to [Hugging Face](https://huggingface.co/datasets/feregrino/uk-government-blogs) and [Kaggle](https://www.kaggle.com/datasets/ioexception/uk-government-blogs) by [dataset-sync](https://github.com/fferegrino/dataset-sync). The daily workflow fetches the dataset into `data/`, runs `scrape.py` and publishes whatever is new. The posts already in `data/` take the place of `scraped_urls.txt`. The tutorial below describes the original setup, which committed the data to git.
+The data no longer lives in this repo: it is published to [Hugging Face](https://huggingface.co/datasets/feregrino/uk-government-blogs) daily and mirrored to [Kaggle](https://www.kaggle.com/datasets/ioexception/uk-government-blogs) weekly. The daily workflow (`scrape.yml`) uses `hub.py` to fetch only the last two months of posts into `data/`, runs `scrape.py`, and commits the new posts to Hugging Face. The posts in `data/` take the place of `scraped_urls.txt`. The weekly workflow (`kaggle-mirror.yml`) copies the whole dataset to Kaggle with [dataset-sync](https://github.com/fferegrino/dataset-sync); run it by hand with `source: kaggle` to seed or repair Hugging Face from Kaggle instead. The tutorial below describes the original setup, which committed the data to git.
 
 ## Set up your environment
 

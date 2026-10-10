@@ -1,0 +1,52 @@
+name: "Weekly Kaggle mirror"
+
+# Every Kaggle version replaces the whole dataset, so Kaggle cannot take just the new posts the daily scrape adds to
+# Hugging Face. Once a week the whole dataset is copied across instead.
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "huggingface: update Kaggle. kaggle: seed or repair Hugging Face from Kaggle"
+        type: choice
+        options: [huggingface, kaggle]
+        default: huggingface
+  schedule:
+  - cron: "0 21 * * 0"
+
+permissions:
+  contents: read
+
+# Shared with the daily scrape, so a mirror never runs halfway through an upload.
+concurrency:
+  group: dataset
+  cancel-in-progress: false
+
+env:
+  # Scheduled runs have no inputs, so they always read from Hugging Face.
+  SOURCE: ${{ inputs.source || 'huggingface' }}
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+    - uses: actions/checkout@v7
+    - uses: fferegrino/dataset-sync/fetch@v1
+      with:
+        from: ${{ env.SOURCE }}
+        huggingface-dataset: feregrino/uk-government-blogs
+        kaggle-dataset: ioexception/uk-government-blogs
+        kaggle-username: ioexception
+        kaggle-key: ${{ secrets.KAGGLE_KEY }}
+    # Only the destination that is not the source is configured. Nothing changes the data between fetch and publish,
+    # so Kaggle needs force to receive a version.
+    - uses: fferegrino/dataset-sync/publish@v1
+      with:
+        huggingface-dataset: ${{ env.SOURCE == 'kaggle' && 'feregrino/uk-government-blogs' || '' }}
+        huggingface-card: dataset-card.md
+        kaggle-dataset: ${{ env.SOURCE == 'huggingface' && 'ioexception/uk-government-blogs' || '' }}
+        kaggle-metadata: dataset-metadata.json
+        force: ${{ env.SOURCE == 'huggingface' }}
+        huggingface-token: ${{ secrets.HF_TOKEN }}
+        kaggle-username: ioexception
+        kaggle-key: ${{ secrets.KAGGLE_KEY }}
