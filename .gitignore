@@ -6,3 +6,7 @@
 
 # Python and Jupyter stuff
 .ipynb_checkpoints/
+__pycache__/
+
+# The dataset lives on Hugging Face and Kaggle; the workflow fetches it before scraping
+data/

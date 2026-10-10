@@ -1,33 +1,28 @@
-import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from pathlib import Path
 import json
 
+REQUEST_TIMEOUT_SECONDS = 60
+
 
 def get_scraped_urls():
-    """Gets a list of the previously scraped urls from the index file"""
-    scraped_urls = []
-    if os.path.exists("scraped_urls.txt"):
-        with open("scraped_urls.txt") as url_file:
-            for line in url_file:
-                scraped_urls.append(line.strip())
+    """Gets the urls of the posts already in the dataset"""
+    # The posts are the cursor, rather than a separate index file, so a copy fetched from Kaggle or Hugging Face is
+    # enough to resume. Urls are compared lowercased because the index sometimes changes the case of a blog's name.
+    scraped_urls = set()
+    for path in Path("data").glob("*/*/*/*.json"):
+        with open(path, encoding="utf8") as post:
+            scraped_urls.add(json.load(post)["url"].lower())
     return scraped_urls
-
-
-def append_scrapped_urls(urls):
-    """Appends newly scraped urls to the index file"""
-    with open("scraped_urls.txt", "a") as url_file:
-        for url in urls:
-            url_file.write(url)
-            url_file.write("\n")
 
 
 def get_urls(page):
     """Fetches a list of urls scraped from the page number received as an argument"""
     final_url = f"https://www.blog.gov.uk/all-posts/page/{page}"
-    page_response = requests.get(final_url)
+    page_response = requests.get(final_url, timeout=REQUEST_TIMEOUT_SECONDS)
+    page_response.raise_for_status()
 
     soup = BeautifulSoup(page_response.text)
     blog_list = soup.find("ul", {"class": "blogs-list"})
@@ -41,7 +36,7 @@ def get_urls(page):
         return None
 
 
-existing_urls = set(get_scraped_urls())
+existing_urls = get_scraped_urls()
 
 urls_to_scrape = []
 # From one to one million
@@ -55,7 +50,7 @@ for current_page in range(1, 1_000_000):
     # Or until a whole page holds nothing new. Checking the full page, rather than stopping at the
     # first known url, also picks up a post listed after one we already have.
     # New posts shift the pagination, so the same url can show up on two consecutive pages.
-    new_urls = [url for url in urls if url not in existing_urls and url not in urls_to_scrape]
+    new_urls = [url for url in urls if url.lower() not in existing_urls and url not in urls_to_scrape]
     if not new_urls:
         break
     urls_to_scrape.extend(new_urls)
@@ -92,7 +87,8 @@ def process_content(content):
 
 def get_article(url):
     """Scrapes the article returning a dictionary of result of processing"""
-    article_response = requests.get(url)
+    article_response = requests.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+    article_response.raise_for_status()
     article_soup = BeautifulSoup(article_response.text)
     article = article_soup.find("article")
 
@@ -121,9 +117,12 @@ def save_json(processed_article, local_path):
 
 
 for post_url in urls_to_scrape:
-    processed = get_article(post_url)
+    # One post that fails to download or parse must not stop the others from being published. It is not saved, so
+    # the next run tries it again.
+    try:
+        processed = get_article(post_url)
+    except Exception as exc:
+        print(f"::warning::Could not scrape {post_url}: {exc!r}")
+        continue
     local_path = get_local_path(processed)
     save_json(processed, local_path)
-
-
-append_scrapped_urls(reversed(urls_to_scrape))

@@ -3,6 +3,8 @@ UK Blogs Web Scraper
 
 View the latest version of the repo here: [Latest version](https://github.com/fferegrino/uk-blogs)
 
+The data no longer lives in this repo: it is published to [Hugging Face](https://huggingface.co/datasets/feregrino/uk-government-blogs) and [Kaggle](https://www.kaggle.com/datasets/ioexception/uk-government-blogs) by [dataset-sync](https://github.com/fferegrino/dataset-sync). The daily workflow fetches the dataset into `data/`, runs `scrape.py` and publishes whatever is new. The posts already in `data/` take the place of `scraped_urls.txt`. The tutorial below describes the original setup, which committed the data to git.
+
 ## Set up your environment
 
 ### Git
