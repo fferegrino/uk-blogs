@@ -52,11 +52,13 @@ for current_page in range(1, 1_000_000):
     if not urls:
         break
 
-    for url in urls:
-        # Or we find an url that we already processed
-        if url in existing_urls:
-            break
-        urls_to_scrape.append(url)
+    # Or until a whole page holds nothing new. Checking the full page, rather than stopping at the
+    # first known url, also picks up a post listed after one we already have.
+    # New posts shift the pagination, so the same url can show up on two consecutive pages.
+    new_urls = [url for url in urls if url not in existing_urls and url not in urls_to_scrape]
+    if not new_urls:
+        break
+    urls_to_scrape.extend(new_urls)
 
 
 def process_header(header):
