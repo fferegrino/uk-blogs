@@ -6,3 +6,10 @@
 
 # Python and Jupyter stuff
 .ipynb_checkpoints/
+__pycache__/
+
+# The dataset lives on Hugging Face and Kaggle; the workflow fetches the recent posts before scraping
+data/
+.fetched.json
+
+.env

@@ -1,38 +1,37 @@
 name: "Daily scrape"
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: "0 19 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dataset
+  cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 30
     steps:
-    - uses: actions/checkout@v2
-
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+    - uses: actions/checkout@v7
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v7
       with:
-        python-version: "3.9"
-
+        python-version: "3.12"
     - name: Install dependencies
       run: |
-        pip install --upgrade pip
+        python -m pip install --upgrade pip==26.2.1
         pip install -r requirements.txt
-
-    - name: Execute scrape.py
+    # Only the last two months of posts, not the whole dataset; see hub.py.
+    - name: Fetch recent posts from Hugging Face
+      run: python hub.py fetch
+    - name: Scrape new posts
       run: python scrape.py
-
-    - name: Commit changes
-      run: |
-        git config --global user.email "antonio.feregrino+datasets@gmail.com"
-        git config --global user.name "Antonio Feregrino"
-        git add data/ scraped_urls.txt
-        git diff --staged --quiet || git commit -m 'New blog posts'
-        git push
-    - name: Upload data to Kaggle
+    - name: Upload new posts to Hugging Face
       env:
-        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
-        KAGGLE_USERNAME: ioexception
-      run: python upload_kaggle.py
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      run: python hub.py upload
